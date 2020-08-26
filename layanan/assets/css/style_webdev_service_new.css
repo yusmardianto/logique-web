@@ -1790,1550 +1790,1529 @@
   }
   
   
-  /* New Responsive Setting  */
-  @media (min-width: 769px) and (max-width: 1024px) {
-      .content-wrapper__ .bg-section img {
-          display: block !important;
-          position: relative;
-          margin-left: 0;
-      }
-      .content-wrapper__ .--top {
-          margin-top: 4.3em;
-      }
-      .content-wrapper__ .--top .container-fluid{
-          padding: 0;
-      }
-      section, header {
-          padding-left: 100px;
-      }
-      header {
-          height: auto !important;
-      }
-      .lang-logo--update-design {
-          padding: 0 !important;
-      }
-      .lang-logo--update-design .list-inline {
-          top: 10px;
-          margin-top: 0;
-      }
-      .nav-lp .navbar-toggle.collapsed {
-          top: 5px;
-      }
-      .logo--update-design {
-          margin: 20px auto;
-      }
-      .nav-lp .navbar-toggle {
-          right: 0;
-      }
-      .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
-          padding: 5px 0;
-      }
-      .breadcrumb--update-design {
-          font-size: 12px;
-      }
-      .breadcrumb > li + li:before {
-          color: #000000;
-      }
-      .content-wrapper__ .bg-section img {
-          display: none;
-      }
-      .content-wrapper__ .bg-section .breadcrumb-section {
-          position: absolute;
-          left: 10px;
-          top: 0;
-      }
-      .content-wrapper__ .bg-section .main-section {
-          position: absolute;
-          margin-top: 20px;
-          padding: 10px;
-          top: 0;
-          left: 38%;
-      }
-      .content-wrapper__ .bg-section .main-section .container {
-        width: auto;
-      }
-      .content-wrapper__ .bg-section .main-section .title {
-          font-size: 22px;
-          margin-bottom: 5px;
-      }
-      .content-wrapper__ .bg-section .main-section .content {
-          font-size: 15px;
-          margin-bottom: 20px;
-      }
-      .content-wrapper__ .bg-section .main-section .content p {
-        margin-bottom: 5px;
-      }
-      header {
-          padding-bottom: 0;
-      }
-      .about {
-          padding-top: 20px;
-          padding-bottom: 20px;
-      }
-      .about .about-title {
-          margin-top: 0;
-          font-size: 18px;
-          margin-bottom: 5px;
-          margin-top: 60px;
-      }
-      .about .about-content {
-          margin-bottom: 20px;
-      }
-      #myCarousel {
-          margin-top: 20px;
-      }
-      .carousel-indicators {
-          left: 50% !important;
-          right: 50% !important;
-          z-index: 9 !important;
-      }
-      .flow {
-          padding-bottom: 30px;
-      }
-      .flow img {
-          width: 100%;
-          height: auto;
-          margin-top: 20px;
-      }
-      .flow .flow-button {
-          width: 100%;
-          font-size: 16px;
-          height: 45px;
-          padding: 10px 20px;
-      }
-      .flow .flow-button img {
-          width: 16px; 
-          height: auto;
-          margin-top: 5px;
-      }
-      .flow .flow-title {
-          font-size: 18px;
-          margin-bottom: 10px;
-          margin-top: 50px;
-      }
-      .flow .flow-content {
-          margin-bottom: 15px;
-          font-size: 12px;
-      }
-      .discuss {
-          padding-bottom: 30px;
-      }
-      .discuss .discuss-title {
-          margin-bottom: 15px;
-          margin-top: 20px;
-          font-size: 19px;
-      }
-      .discuss img {
-          width: 100%;
-          height: auto;
-      }
-      .announce {
-          padding-top: 0;
-          padding-bottom: 0;
-      }
-      .announce .announce-content .announce-title {
-          font-size: 22px;
-      }
-      .division .division-title {
-          margin-bottom: 20px;
-      }
-      .division .division-container {
-          margin-bottom: 20px;
-      }
-      .web-service-flow {
-          padding-top: 0;
-          padding-bottom: 0;
-      }
-      .flow-part {
-          min-height: 100px;
-          padding-left: 75px;
-          margin-bottom: 20px;
-      }
-      .flow-part h3 {
-          font-size: 16px;
-      }
-      .flow-part p {
-          font-size: 12px;
-      }
-      .portofolio .title {
-          margin-bottom: 0px;
-      }
-      .portofolio .portofolio-section {
-          text-align: center;
-      }
-      .portofolio .portofolio-section .portofolio-subtitle,
-      .portofolio .portofolio-section .portofolio-title {
-          text-align: center;
-          margin-top: 10px;
-      }
-      .strategic {
-          padding-top: 0;
-          padding-bottom: 30px;
-      }
-      .strategic .title {
-          margin-bottom: 20px;
-          font-size: 22px;
-      }
-      .strategic .strategic-list img {
-          width: 100%;
-          height: auto;
-          margin-bottom: 15px;
-      }
-      .strategic .strategic-list .strategic-title {
-          margin-bottom: 10px;
-      }
-      .strategic .strategic-list div {
-          margin-bottom: 30px;
-      }
-      .strategic .strategic-exp {
-          margin-top: 20px;
-      }
-      .strategic .strategic-list .strategic-content {
-          font-size: 14px;
-      }
-      .service {
-          padding-top: 0;
-          padding-bottom: 30px;
-      }
-      .service .title {
-          margin-bottom: 0;
-          font-size: 22px;
-      }
-      .link-yellow-white {
-          font-size: 14px;
-      }
-      .content-article .article-container {
-          grid-template-columns: auto;
-          margin-bottom: 30px;
-      }
-      .content-article .title {
-          margin-bottom: 15px;
-      }
-      .content-article .article-container .img-container img {
-          width: 100%;
-      } 
-      .content-article .article-indicators {
-          margin-top: 0;
-          margin-bottom: 0;
-      }
-      .content-article .article-container .content-container .content {
-          margin-bottom: 10px;
-      }
-      .obstacle {
-          padding-bottom: 40px;
-      }
-      .obstacle h2 {
-          padding: 0;
-          font-size: 21px;
-          text-align: center;
-      }
-      .obstacle img {
-          margin-top: 60px;
-          padding: 0;
-          width: 100%;
-      }
-      .card {
-          margin-right: 0;
-      }
-      .tahap-pemesanan-bg {
-          padding-top: 15px;
-      }
-      .title-custom {
-          right: 0;
-          top: -10px;
-          font-size: 24px;
-          width: 36px;
-          height: 36px;
-      }
-      .tahap-pemesanan {
-          padding-top: 15px;
-          background: none;
-      }
-      .tahap-pemesanan .card .title-custom-p {
-          margin-bottom: 15px;
-      }
-      .tahap-pemesanan .card .title-content-p {
-          padding: 0 10px;
-      }
-      .tahap-pemesanan-2 {
-          padding-top: 15px;
-      }
-      .tahap-pemesanan-2 .card2 .title-custom-p {
-          margin-bottom: 15px;
-          font-size: 15px;
-      }
-      .tahap-pemesanan-2 .card2 .title-content-p {
-          padding: 0 10px 0 0;
-      }
-      .card2 {
-          padding: 1em 0;
-          margin-bottom: 30px;
-      }
-      .tahap-pemesanan-2 {
-          padding-bottom: 0px;
-      }
-      .no-10 {
-          right: -2px !important;
-          top: -7px !important;
-          font-size: 22px !important;
-      }
-      .domore {
-          padding-top: 0;
-          padding-bottom: 30px;
-      }
-      .domore .img-container img {
-          display: none;
-      }
-      .domore .content-container {
-          position: relative;
-          top: 0;
-          left: 0;
-      }
-      .domore .content-container .title {
-          font-size: 22px;
-      }
-      .domore .content-container .list {
-          margin-bottom: 10px;
-          font-size: 13px;
-      }
-      .domore .button-container p {
-          font-size: 17px;
-      }
-      .domore .button-container {
-          margin-top: 25px;
-      }
-      .gallery {
-          padding-bottom: 0;
-      }
-      .gallery .title {
-          font-size: 22px;
-      }
-      .gallery .gallery-container .gallery-title {
-          font-size: 14px;
-      }
-      .gallery .gallery-container .gallery-content {
-          margin-bottom: 20px;
-          font-size: 12px;
-      }
-      .gallery .ads-container {
-          margin-top: 20px;
-      }
-      .gallery .ads-container img {
-          margin-bottom: 30px;
-      }
-  }
-  @media (min-width: 769px) and (max-width: 850px) {
-    .content-wrapper__ .bg-section .main-section {
-      position: absolute;
-      margin-top: 20px;
-      padding: 10px;
-      top: 0;
-      left: 38%;
-  }
-  .content-wrapper__ .bg-section .main-section .container {
-    width: auto;
-  }
-  .content-wrapper__ .bg-section .main-section .title {
-      font-size: 16px;
-      margin-bottom: 5px;
-  }
-  .content-wrapper__ .bg-section .main-section .content {
-      font-size: 11px;
-      margin-bottom: 20px;
-  }
-  }
-  @media (min-width: 415px) and (max-width: 768px) {
-      section, header {
-          padding-left: 100px;
-      }
-      header {
-          height: auto !important;
-      }
-      .lang-logo--update-design {
-          padding: 0 !important;
-      }
-      .lang-logo--update-design .list-inline {
-          top: 10px;
-          margin-top: 0;
-      }
-      .nav-lp .navbar-toggle.collapsed {
-          top: 5px;
-      }
-      .logo--update-design {
-          margin: 20px auto;
-      }
-      .nav-lp .navbar-toggle {
-          right: 0;
-      }
-      .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
-          padding: 15px 0;
-      }
-      .breadcrumb--update-design {
-          font-size: 12px;
-      }
-      .breadcrumb > li + li:before {
-          color: #000000;
-      }
-      .content-wrapper__ .bg-section img {
-          display: none;
-      }
-      .content-wrapper__ .bg-section .breadcrumb-section {
-          position: relative;
-          left: 0;
-      }
-      .content-wrapper__ .bg-section .main-section {
-          position: relative;
-          margin-top: 0;
-          padding: 0;
-      }
-      .content-wrapper__ .bg-section .main-section .title {
-          font-size: 22px;
-          margin-bottom: 5px;
-      }
-      .content-wrapper__ .bg-section .main-section .content {
-          font-size: 13px;
-          margin-bottom: 20px;
-      }
-      header {
-          padding-bottom: 0;
-      }
-      .about {
-          padding-top: 20px;
-          padding-bottom: 20px;
-      }
-      .about .about-title {
-          margin-top: 0;
-          font-size: 18px;
-          margin-bottom: 5px;
-      }
-      .about .about-content {
-          margin-bottom: 20px;
-      }
-      #myCarousel {
-          margin-top: 20px;
-      }
-      .carousel-indicators {
-          left: 50% !important;
-          right: 50% !important;
-          z-index: 9 !important;
-      }
-      .flow {
-          padding-bottom: 30px;
-      }
-      .flow img {
-          width: 100%;
-          height: auto;
-          margin-top: 20px;
-      }
-      .flow .flow-button {
-          width: 100%;
-          font-size: 16px;
-          height: 45px;
-          padding: 10px 20px;
-      }
-      .flow .flow-button img {
-          width: 16px; 
-          height: auto;
-          margin-top: 5px;
-      }
-      .flow .flow-title {
-          font-size: 18px;
-          margin-bottom: 10px;
-          margin-top: 0px;
-      }
-      .flow .flow-content {
-          margin-bottom: 15px;
-          font-size: 12px;
-      }
-      .discuss {
-          padding-bottom: 0;
-      }
-      .discuss .discuss-title {
-          margin-bottom: 15px;
-          margin-top: 0;
-          font-size: 19px;
-      }
-      .discuss img {
-          width: 100%;
-          height: auto;
-          margin-top: 60px;
-      }
-      .announce {
-          padding-top: 0;
-          padding-bottom: 0;
-      }
-      .announce .announce-content .announce-title {
-          font-size: 22px;
-      }
-      .division .division-title {
-          margin-bottom: 20px;
-      }
-      .division .division-container {
-          margin-bottom: 20px;
-      }
-      .web-service-flow {
-          padding-top: 0;
-          padding-bottom: 0;
-      }
-      .flow-part {
-          min-height: 100px;
-          padding-left: 75px;
-          margin-bottom: 20px;
-      }
-      .flow-part h3 {
-          font-size: 16px;
-      }
-      .flow-part p {
-          font-size: 12px;
-      }
-      .portofolio .title {
-          margin-bottom: 0px;
-      }
-      .portofolio .portofolio-section {
-          text-align: center;
-      }
-      .portofolio .portofolio-section .portofolio-subtitle,
-      .portofolio .portofolio-section .portofolio-title {
-          text-align: center;
-          margin-top: 10px;
-      }
-      .strategic {
-          padding-top: 0;
-          padding-bottom: 30px;
-      }
-      .strategic .title {
-          margin-bottom: 20px;
-          font-size: 22px;
-      }
-      .strategic .strategic-list img {
-          width: 100%;
-          height: auto;
-          margin-bottom: 15px;
-      }
-      .strategic .strategic-list .strategic-title {
-          margin-bottom: 10px;
-      }
-      .strategic .strategic-list div {
-          margin-bottom: 30px;
-      }
-      .strategic .strategic-exp {
-          margin-top: 20px;
-      }
-      .strategic .strategic-list .strategic-content {
-          font-size: 13px;
-      }
-      .service {
-          padding-top: 0;
-          padding-bottom: 30px;
-      }
-      .service .title {
-          margin-bottom: 0;
-          font-size: 22px;
-      }
-      .link-yellow-white {
-          font-size: 14px;
-      }
-      .content-article .article-container {
-          grid-template-columns: auto;
-          margin-bottom: 30px;
-      }
-      .content-article .title {
-          margin-bottom: 15px;
-      }
-      .content-article .article-container .img-container img {
-          width: 100%;
-      } 
-      .content-article .article-indicators {
-          margin-top: 0;
-          margin-bottom: 0;
-      }
-      .content-article .article-container .content-container .content {
-          margin-bottom: 10px;
-      }
-      .obstacle {
-          padding-bottom: 40px;
-      }
-      .obstacle h2 {
-          padding: 0;
-          font-size: 21px;
-          text-align: center;
-      }
-      .obstacle img {
-          margin-top: 30px;
-          padding: 0;
-          width: 50%;
-      }
-      .card {
-          margin-right: 0;
-      }
-      .tahap-pemesanan-bg {
-          height: 300px;
-          padding-top: 15px;
-      }
-      .title-custom {
-          right: -2px;
-      }
-      .tahap-pemesanan {
-          padding-top: 15px;
-          background: none;
-      }
-      .tahap-pemesanan .card .title-custom-p {
-          margin-bottom: 15px;
-      }
-      .tahap-pemesanan .card .title-content-p {
-          padding: 0 10px;
-      }
-      .tahap-pemesanan-2 {
-          padding-top: 15px;
-      }
-      .tahap-pemesanan-2 .card2 .title-custom-p {
-          margin-bottom: 15px;
-      }
-      .tahap-pemesanan-2 .card2 .title-content-p {
-          padding: 0 10px;
-      }
-      .card2 {
-          padding: 1em 0;
-          margin-bottom: 30px;
-      }
-      .tahap-pemesanan-2 {
-          padding-bottom: 0px;
-      }
-      .no-10 {
-          right: -2px !important;
-          top: -7px !important;
-          font-size: 32px !important;
-      }
-      .domore {
-          padding-top: 0;
-          padding-bottom: 30px;
-      }
-      .domore .img-container img {
-          display: none;
-      }
-      .domore .content-container {
-          position: relative;
-          top: 0;
-          left: 0;
-      }
-      .domore .content-container .title {
-          font-size: 22px;
-      }
-      .domore .content-container .list {
-          margin-bottom: 10px;
-          font-size: 13px;
-      }
-      .domore .button-container p {
-          font-size: 17px;
-      }
-      .domore .button-container {
-          margin-top: 25px;
-      }
-      .gallery {
-          padding-bottom: 0;
-      }
-      .gallery .title {
-          font-size: 22px;
-      }
-      .gallery .gallery-container .gallery-title {
-          font-size: 14px;
-      }
-      .gallery .gallery-container .gallery-content {
-          margin-bottom: 20px;
-          font-size: 12px;
-      }
-      .gallery .ads-container {
-          margin-top: 20px;
-      }
-      .gallery .ads-container img {
-          margin-bottom: 30px;
-      }
-  }
-  @media (max-width: 414px) {
-      .side-container {
-          display: none;
-      }
-      .lang-logo--update-design {
-          padding: 0 !important;
-      }
-      .lang-logo--update-design .list-inline {
-          top: 0;
-          margin-top: 0;
-      }
-      .nav-lp .navbar-toggle.collapsed {
-          top: 5px;
-      }
-      .logo--update-design {
-          margin: 10px auto;
-      }
-      .nav-lp .navbar-toggle {
-          right: 0;
-      }
-      .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
-          padding: 15px 0;
-      }
-      .breadcrumb--update-design {
-          font-size: 12px;
-      }
-      .breadcrumb > li + li:before {
-          color: #000000;
-      }
-      .content-wrapper__ .bg-section img {
-          display: none;
-      }
-      .content-wrapper__ .bg-section .breadcrumb-section {
-          position: relative;
-          left: 0;
-      }
-      .content-wrapper__ .bg-section .main-section {
-          position: relative;
-          margin-top: 0;
-          padding: 0;
-      }
-      .content-wrapper__ .bg-section .main-section .title {
-          font-size: 22px;
-          margin-bottom: 10px;
-      }
-      .content-wrapper__ .bg-section .main-section .content {
-          font-size: 14px;
-      }
-      header {
-          padding-bottom: 0;
-      }
-      .about {
-          padding-top: 0;
-      }
-      .about .about-title {
-          margin-top: 0;
-          font-size: 22px;
-          margin-bottom: 10px;
-      }
-      .about .about-content {
-          margin-bottom: 20px;
-      }
-      .carousel-indicators {
-          left: 50% !important;
-          right: 50% !important;
-          z-index: 9 !important;
-      }
-      .flow img {
-          width: 100%;
-          height: auto;
-      }
-      .flow .flow-button {
-          width: 100%;
-          font-size: 20px;
-      }
-      .flow .flow-button img {
-          width: 16px; 
-          height: auto;
-      }
-      .flow .flow-title {
-          font-size: 21px;
-          margin-bottom: 10px;
-      }
-      .flow .flow-content {
-          margin-bottom: 15px;
-      }
-      .discuss .discuss-title {
-          margin-bottom: 15px;
-          margin-top: 0;
-      }
-      .discuss img {
-          width: 100%;
-          height: auto;
-      }
-      .announce .announce-content .announce-title {
-          font-size: 22px;
-      }
-      .division .division-title {
-          margin-bottom: 20px;
-      }
-      .division .division-container {
-          margin-bottom: 20px;
-      }
-      .web-service-flow {
-          padding-top: 0;
-      }
-      .flow-part {
-          min-height: 100px;
-          padding-left: 75px;
-          margin-bottom: 10px;
-      }
-      .portofolio .title {
-          margin-bottom: 0px;
-      }
-      .portofolio .portofolio-section .portofolio-subtitle,
-      .portofolio .portofolio-section .portofolio-title {
-          text-align: center;
-          margin-top: 10px;
-      }
-      .strategic {
-          padding-top: 0;
-      }
-      .strategic .title {
-          margin-bottom: 20px;
-          font-size: 22px;
-      }
-      .strategic .strategic-list img {
-          width: 100%;
-          height: auto;
-          margin-bottom: 15px;
-      }
-      .strategic .strategic-list .strategic-title {
-          margin-bottom: 10px;
-      }
-      .strategic .strategic-list div {
-          margin-bottom: 30px;
-      }
-      .strategic .strategic-exp {
-          margin-top: 20px;
-      }
-      .service {
-          padding-top: 0;
-      }
-      .service .title {
-          margin-bottom: 0;
-          font-size: 22px;
-      }
-      .content-article .article-container {
-          grid-template-columns: auto;
-          margin-bottom: 30px;
-      }
-      .content-article .title {
-          margin-bottom: 15px;
-      }
-      .content-article .article-container .img-container img {
-          width: 100%;
-      } 
-      .content-article .article-indicators {
-          margin-top: 0;
-          margin-bottom: 0;
-      }
-      .obstacle {
-          padding-bottom: 40px;
-      }
-      .obstacle h2 {
-          padding: 0;
-          font-size: 21px;
-      }
-      .obstacle img {
-          margin-top: 30px;
-          padding: 0;
-      }
-      .card {
-          margin-right: 0;
-      }
-      .tahap-pemesanan-bg {
-          height: 300px;
-          padding-top: 15px;
-      }
-      .title-custom {
-          right: -2px;
-      }
-      .tahap-pemesanan {
-          padding-top: 15px;
-          background: none;
-      }
-      .tahap-pemesanan .card .title-custom-p {
-          margin-bottom: 15px;
-      }
-      .tahap-pemesanan .card .title-content-p {
-          padding: 0 10px;
-      }
-      .tahap-pemesanan-2 {
-          padding-top: 15px;
-      }
-      .tahap-pemesanan-2 .card2 .title-custom-p {
-          margin-bottom: 15px;
-      }
-      .tahap-pemesanan-2 .card2 .title-content-p {
-          padding: 0 10px;
-      }
-      .card2 {
-          padding: 1em 0;
-          margin-bottom: 30px;
-      }
-      .tahap-pemesanan-2 {
-          padding-bottom: 0px;
-      }
-      .no-10 {
-          right: -2px !important;
-          top: -7px !important;
-          font-size: 32px !important;
-      }
-      .domore {
-          padding-top: 0;
-          padding-bottom: 30px;
-      }
-      .domore .img-container img {
-          display: none;
-      }
-      .domore .content-container {
-          position: relative;
-          top: 0;
-          left: 0;
-      }
-      .domore .content-container .title {
-          font-size: 22px;
-      }
-      .domore .content-container .list {
-          margin-bottom: 10px;
-          font-size: 13px;
-      }
-      .domore .button-container p {
-          font-size: 19px;
-      }
-      .domore .button-container {
-          margin-top: 25px;
-      }
-      .gallery .title {
-          font-size: 22px;
-      }
-      .gallery .gallery-container .gallery-title {
-          font-size: 22px;
-      }
-      .gallery .gallery-container .gallery-content {
-          margin-bottom: 20px;
-      }
-      .gallery .ads-container {
-          margin-top: 20px;
-      }
-      .gallery .ads-container img {
-          margin-bottom: 30px;
-      }
-  }
   
-  
-  /* Web Dev Service Page */
-  .miniplan {
-      padding-top: 128px;
-  }
-  .miniplan .img-container img {
-      width: 100%;
-      height: auto;
-  }
-  .miniplan .content-container .title-container {
-      padding: 0;
-  }
-  .miniplan .content-container .title-container p {
-      background: rgb(245, 93, 4);
-      border-radius: 5px;
-      padding: 12px 43px;
-      color: rgb(255, 255, 255);
-      font-size: 24px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 1px;
-      width: 375px;
-      margin-bottom: 30px;
-  }
-  .miniplan .content-container .content {
-      color: rgb(0, 0, 0);
-      font-size: 20px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      margin-bottom: 23px;
-  }
-  .miniplan .content-container .detail-container {
-      display: grid;
-      grid-template-columns: max-content max-content 323px;
-      grid-gap: 25px;
-      margin-bottom: 18px;
-  }
-  .miniplan .content-container .detail-container .detail-title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .miniplan .content-container .detail-container .detail-content {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .miniplan .content-container .detail-container .detail-content.detail-list {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p", sans-serif;
-      font-weight: normal;
-      letter-spacing: 0px;
-  }
-  .miniplan .content-container .detail-container .detail-content.detail-list p {
-      margin-bottom: 8px;
-      line-height: 1.75;
-  }
-  .miniplan .content-container .detail-container.detail-margin {
-      margin-bottom: 0;
-  }
-  .miniplan .content-container .price-container {
-      margin-bottom: 23px;
-  }
-  .miniplan .content-container .price-container .title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      padding: 0 30px;
-      line-height: 1;
-  }
-  .miniplan .content-container .price-container .price {
-      color: rgb(237, 6, 6);
-      font-size: 26px;
-      font-family:"M PLUS 1p Extra Bold", sans-serif;
-      font-weight: 800;
-      letter-spacing: 0px;
-      padding: 0 30px;
-  }
-  .miniplan .content-container .button-container p {
-      width: 292px;
-      background: rgb(251, 201, 53);
-      border-radius: 5px;
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 0px;
-      text-align: center;
-      padding: 17px;
-      margin-left: 30px;
-  }
-  
-  .standardplan {
-      padding-top: 45px;
-  }
-  .standardplan .img-container img {
-      width: 100%;
-      height: auto;
-  }
-  .standardplan .content-container .title-container {
-      padding: 0;
-  }
-  .standardplan .content-container .title-container p {
-      background: rgb(4, 199, 245);
-      border-radius: 5px;
-      padding: 12px 43px;
-      color: rgb(255, 255, 255);
-      font-size: 24px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 1px;
-      width: 420px;
-      margin-bottom: 30px;
-  }
-  .standardplan .content-container .content {
-      color: rgb(0, 0, 0);
-      font-size: 20px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      margin-bottom: 23px;
-  }
-  .standardplan .content-container .detail-container {
-      display: grid;
-      grid-template-columns: max-content max-content 323px;
-      grid-gap: 25px;
-      margin-bottom: 18px;
-  }
-  .standardplan .content-container .detail-container .detail-title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .standardplan .content-container .detail-container .detail-content {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .standardplan .content-container .detail-container .detail-content.detail-list {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p", sans-serif;
-      font-weight: normal;
-      letter-spacing: 0px;
-  }
-  .standardplan .content-container .detail-container .detail-content.detail-list p {
-      margin-bottom: 8px;
-      line-height: 1.6;
-  }
-  .standardplan .content-container .detail-container.detail-margin {
-      margin-bottom: 0;
-  }
-  .standardplan .content-container .price-container {
-      margin-bottom: 23px;
-  }
-  .standardplan .content-container .price-container .title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      padding: 0 30px;
-      line-height: 1;
-  }
-  .standardplan .content-container .price-container .price {
-      color: rgb(237, 6, 6);
-      font-size: 26px;
-      font-family:"M PLUS 1p Extra Bold", sans-serif;
-      font-weight: 800;
-      letter-spacing: 0px;
-      padding: 0 30px;
-  }
-  .standardplan .content-container .button-container p {
-      width: 292px;
-      background: rgb(251, 201, 53);
-      border-radius: 5px;
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 0px;
-      text-align: center;
-      padding: 17px;
-      margin-left: 30px;
-  }
-  
-  .largeplan {
-      padding-top: 45px;
-  }
-  .largeplan .img-container img {
-      width: 100%;
-      height: auto;
-  }
-  .largeplan .content-container .title-container {
-      padding: 0;
-  }
-  .largeplan .content-container .title-container p {
-      background: rgb(5, 169, 71);
-      border-radius: 5px;
-      padding: 12px 43px;
-      color: rgb(255, 255, 255);
-      font-size: 24px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 1px;
-      width: 510px;
-      margin-bottom: 30px;
-  }
-  .largeplan .content-container .content {
-      color: rgb(0, 0, 0);
-      font-size: 20px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      margin-bottom: 23px;
-  }
-  .largeplan .content-container .detail-container {
-      display: grid;
-      grid-template-columns: max-content max-content 323px;
-      grid-gap: 25px;
-      margin-bottom: 18px;
-  }
-  .largeplan .content-container .detail-container .detail-title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .largeplan .content-container .detail-container .detail-content {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .largeplan .content-container .detail-container .detail-content.detail-list {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p", sans-serif;
-      font-weight: normal;
-      letter-spacing: 0px;
-  }
-  .largeplan .content-container .detail-container .detail-content.detail-list p {
-      margin-bottom: 8px;
-      line-height: 1.8;
-  }
-  .largeplan .content-container .detail-container.detail-margin {
-      margin-bottom: 0;
-  }
-  .largeplan .content-container .price-container {
-      margin-bottom: 23px;
-  }
-  .largeplan .content-container .price-container .title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      padding: 0 30px;
-      line-height: 1;
-  }
-  .largeplan .content-container .price-container .price {
-      color: rgb(237, 6, 6);
-      font-size: 26px;
-      font-family:"M PLUS 1p Extra Bold", sans-serif;
-      font-weight: 800;
-      letter-spacing: 0px;
-      padding: 0 30px;
-  }
-  .largeplan .content-container .button-container p {
-      width: 292px;
-      background: rgb(251, 201, 53);
-      border-radius: 5px;
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 0px;
-      text-align: center;
-      padding: 17px;
-      margin-left: 30px;
-  }
-  
-  .strategicplan {
-      padding-top: 45px;
-  }
-  .strategicplan .img-container img {
-      width: 100%;
-      height: auto;
-  }
-  .strategicplan .content-container .title-container {
-      padding: 0;
-  }
-  .strategicplan .content-container .title-container p {
-      background: rgb(245, 10, 4);
-      border-radius: 5px;
-      padding: 12px 43px;
-      color: rgb(255, 255, 255);
-      font-size: 24px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 1px;
-      width: 454px;
-      margin-bottom: 30px;
-  }
-  .strategicplan .content-container .content {
-      color: rgb(0, 0, 0);
-      font-size: 20px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      margin-bottom: 23px;
-  }
-  .strategicplan .content-container .detail-container {
-      display: grid;
-      grid-template-columns: max-content max-content 360px;
-      grid-gap: 25px;
-      margin-bottom: 18px;
-  }
-  .strategicplan .content-container .detail-container .detail-title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .strategicplan .content-container .detail-container .detail-content {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .strategicplan .content-container .detail-container .detail-content.detail-list {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p", sans-serif;
-      font-weight: normal;
-      letter-spacing: 0px;
-  }
-  .strategicplan .content-container .detail-container .detail-content.detail-list p {
-      margin-bottom: 8px;
-  }
-  .strategicplan .content-container .detail-container.detail-margin {
-      margin-bottom: 0;
-  }
-  .strategicplan .content-container .price-container {
-      margin-bottom: 23px;
-  }
-  .strategicplan .content-container .price-container .title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-      padding: 0 30px;
-      line-height: 1;
-  }
-  .strategicplan .content-container .price-container .price {
-      color: rgb(237, 6, 6);
-      font-size: 26px;
-      font-family:"M PLUS 1p Extra Bold", sans-serif;
-      font-weight: 800;
-      letter-spacing: 0px;
-      padding: 0 30px;
-  }
-  .strategicplan .content-container .button-container p {
-      width: 292px;
-      background: rgb(251, 201, 53);
-      border-radius: 5px;
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Bold", sans-serif;
-      font-weight: bold;
-      letter-spacing: 0px;
-      text-align: center;
-      padding: 17px;
-      margin-left: 30px;
-  }
-  
-  .promo {
-      padding-top: 35px;
-  }
-  .promo .promo-container {
-      margin-bottom: 60px;
-  }
-  .promo .promo-container img {
-      width: 100%;
-      height: auto;
-  }
-  .promo .promo-odd {
-      background: rgb(255, 244, 212);
-  }
-  .promo .promo-list {
-      padding: 20px;
-      display: grid;
-      grid-template-columns: 280px auto;
-      grid-gap: 70px;
-  }
-  .promo .promo-list .promo-title {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .promo .promo-list .promo-content {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p", sans-serif;
-      font-weight: normal;
-      letter-spacing: 0px;
-  }
-  
-  .datatable {
-      padding-top: 35px;
-  }
-  .datatable .table-data thead {
-      background: rgb(251, 201, 53);
-  }
-  .datatable .table-data thead tr th {
-      padding: 15px 30px;
-      color: rgb(0, 0, 0);
-      font-size: 24px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: 500;
-      letter-spacing: 0px;
-  }
-  .datatable .table-data tbody tr td {
-      color: rgb(0, 0, 0);
-      font-size: 18px;
-      font-family:"M PLUS 1p Medium", sans-serif;
-      font-weight: normal;
-      letter-spacing: 0px;
-      padding: 30px 28px;
-  }
-  .datatable .table-data tbody tr:nth-child(odd) {
-      background: #fff;
-  }
-  .datatable .table-data tbody tr:nth-child(odd) td {
-      border: 1px solid rgb(242, 242, 242);
-  }
-  .datatable .table-data tbody tr:nth-child(even) {
-      background: rgb(242, 242, 242);
-  }
-  .datatable .table-data tbody tr td:nth-child(3) {
-      white-space: initial;
-      font-family: "M Plus 1p", sans-serif;
-  }
-  .datatable .table-data tbody tr td:nth-child(2) {
-      font-weight: 800;
-      letter-spacing: 2px;
-      font-family: "M Plus 1p Extra Bold", sans-serif;
-  }
-  
-  .datatable .slogan-container {
-      width: 878px;
-      background: rgb(0, 0, 0);
-      border-radius: 5px;
-      color: #fff;
-      text-align: center;
-      padding: 18px;
-      margin: 30px auto 0;
-      color: rgb(255, 255, 255);
-      font-size: 24px;
-      font-family:"M PLUS 1p", sans-serif;
-      font-weight: normal;
-      letter-spacing: 0px;
-  }
-  
-  /* Webdev Service Resp Settings */
-  @media (min-width: 1025px) and (max-width: 1280px) {
-    section {
-      padding-left: 100px;
+/* New Responsive Setting  */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .content-wrapper__ .bg-section .main-section {
+    margin-top: 30px;
+  }
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+    .content-wrapper__ .bg-section img {
+        display: block !important;
+        position: relative;
+        margin-left: 0;
     }
-    .content-wrapper__ .bg-section .breadcrumb-section {
-      left: 105px;
+    .content-wrapper__ .--top {
+        margin-top: 4.3em;
+    }
+    .content-wrapper__ .--top .container-fluid{
+        padding: 0;
+    }
+    section, header {
+        padding-left: 100px;
+    }
+    header {
+        height: auto !important;
     }
     .lang-logo--update-design {
-      padding: 24px 0 24px 100px !important;
+        padding: 0 !important;
     }
-  } 
-  @media (min-width: 992px) and (max-width:1024px) {
-      .miniplan {
-          padding-top: 0;
-      }
-      .standardplan {
-          padding-top: 0;
-      }
-      .miniplan .img-container,
-      .standardplan .img-container,
-      .largeplan .img-container,
-      .strategicplan .img-container
-       {
-           margin: 30px auto 0;
-          text-align: center;
-      }
-      .miniplan .img-container img,
-      .standardplan .img-container img,
-      .largeplan .img-container img,
-      .strategicplan .img-container img
-       {
-           margin: 30px auto 0;
-           height: auto;
-      }
-      .miniplan .content-container .title-container p,
-      .standardplan .content-container .title-container p,
-      .largeplan .content-container .title-container p,
-      .strategicplan .content-container .title-container p {
-          width: 100%;
-          margin-top: 30px;
-          font-size: 18px;
-          text-align: center;
-      }
-      .miniplan .content-container .content,
-      .standardplan .content-container .content,
-      .largeplan .content-container .content,
-      .strategicplan .content-container .content {
-          font-size: 18px;
-      }
-      .miniplan .content-container .detail-container .detail-title,
-      .standardplan .content-container .detail-container .detail-title,
-      .largeplan .content-container .detail-container .detail-title,
-      .strategicplan .content-container .detail-container .detail-title {
-          font-size: 14px;
-      }
-      .miniplan .content-container .detail-container img,
-      .standardplan .content-container .detail-container img,
-      .largeplan .content-container .detail-container img,
-      .strategicplan .content-container .detail-container img {
-          width: 16px;
-          height: auto;
-          margin-top: 3px;
-      }
-      .miniplan .content-container .detail-container,
-      .standardplan .content-container .detail-container,
-      .largeplan .content-container .detail-container,
-      .strategicplan .content-container .detail-container {
-          grid-gap: 15px;
-          grid-template-columns: max-content max-content auto;
-      }
-      .miniplan .content-container .detail-container .detail-content,
-      .standardplan .content-container .detail-container .detail-content,
-      .largeplan .content-container .detail-container .detail-content,
-      .strategicplan .content-container .detail-container .detail-content {
-          font-size: 16px;
-      }
-      .miniplan .content-container .detail-container .detail-content.detail-list,
-      .standardplan .content-container .detail-container .detail-content.detail-list,
-      .largeplan .content-container .detail-container .detail-content.detail-list,
-      .strategicplan .content-container .detail-container .detail-content.detail-list {
-          font-size: 14px;
-      }
-      .miniplan .content-container .price-container,
-      .standardplan .content-container .price-container,
-      .largeplan .content-container .price-container,
-      .strategicplan .content-container .price-container {
-          margin-bottom: 23px;
-          margin-top: 30px;
-          text-align: center;
-      }
-      .miniplan .content-container .button-container p, 
-      .standardplan .content-container .button-container p, 
-      .largeplan .content-container .button-container p, 
-      .strategicplan .content-container .button-container p {
-          padding: 10px;
-          font-size: 16px;
-          margin-left: 0;
-          width: auto;
-      }
-      .promo .promo-list {
-          padding: 20px;
-          display: grid;
-          grid-template-columns: auto;
-          grid-gap: 20px;
-      }
-      .promo .promo-list .promo-title {
-          color: rgb(0, 0, 0);
-          font-size: 18px;
-          font-family: "M PLUS 1p", sans-serif;
-          font-weight: 500;
-          letter-spacing: 0px;
-      }
-      .promo .promo-list .promo-content {
-          color: rgb(0, 0, 0);
-          font-size: 16px;
-          font-family: "M PLUS 1p", sans-serif;
-          font-weight: normal;
-          letter-spacing: 0px;
-      }
-      .datatable .table-data thead tr th {
-          font-size: 18px;
-          padding: 10px 15px;
-      }
-      .datatable .table-data tbody tr td {
-          font-size: 16px;
-          padding: 10px 15px;
-          white-space: normal;
-      }
-      .datatable .slogan-container {
-          font-size: 18px;
-          width: 100%;
-      }
+    .lang-logo--update-design .list-inline {
+        top: 10px;
+        margin-top: 0;
+    }
+    .nav-lp .navbar-toggle.collapsed {
+        top: 5px;
+    }
+    .logo--update-design {
+        margin: 20px auto;
+    }
+    .nav-lp .navbar-toggle {
+        right: 0;
+    }
+    .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
+        padding: 5px 0;
+    }
+    .breadcrumb--update-design {
+        font-size: 12px;
+    }
+    .breadcrumb > li + li:before {
+        color: #000000;
+    }
+    .content-wrapper__ .bg-section img {
+        display: none;
+    }
+    .content-wrapper__ .bg-section .breadcrumb-section {
+        position: absolute;
+        left: 10px;
+        top: 0;
+    }
+    .content-wrapper__ .bg-section .main-section {
+        position: absolute;
+        margin-top: 20px;
+        padding: 10px;
+        top: 0;
+    }
+    .content-wrapper__ .bg-section .main-section .container {
+      width: auto;
+    }
+    .content-wrapper__ .bg-section .main-section .title {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .content-wrapper__ .bg-section .main-section .content {
+        font-size: 11px;
+        margin-bottom: 20px;
+    }
+    .content-wrapper__ .bg-section .main-section .content p {
+      margin-bottom: 5px;
+    }
+    header {
+        padding-bottom: 0;
+    }
+    .about {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .about .about-title {
+        margin-top: 0;
+        font-size: 18px;
+        margin-bottom: 5px;
+        margin-top: 60px;
+    }
+    .about .about-content {
+        margin-bottom: 20px;
+    }
+    #myCarousel {
+        margin-top: 20px;
+    }
+    .carousel-indicators {
+        left: 50% !important;
+        right: 50% !important;
+        z-index: 9 !important;
+    }
+    .flow {
+        padding-bottom: 30px;
+    }
+    .flow img {
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+    .flow .flow-button {
+        width: 100%;
+        font-size: 16px;
+        height: 45px;
+        padding: 10px 20px;
+    }
+    .flow .flow-button img {
+        width: 16px; 
+        height: auto;
+        margin-top: 5px;
+    }
+    .flow .flow-title {
+        font-size: 18px;
+        margin-bottom: 10px;
+        margin-top: 50px;
+    }
+    .flow .flow-content {
+        margin-bottom: 15px;
+        font-size: 12px;
+    }
+    .discuss {
+        padding-bottom: 30px;
+    }
+    .discuss .discuss-title {
+        margin-bottom: 15px;
+        margin-top: 20px;
+        font-size: 19px;
+    }
+    .discuss img {
+        width: 100%;
+        height: auto;
+    }
+    .announce {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .announce .announce-content .announce-title {
+        font-size: 22px;
+    }
+    .division .division-title {
+        margin-bottom: 20px;
+    }
+    .division .division-container {
+        margin-bottom: 20px;
+    }
+    .web-service-flow {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .flow-part {
+        min-height: 100px;
+        padding-left: 75px;
+        margin-bottom: 20px;
+    }
+    .flow-part h3 {
+        font-size: 16px;
+    }
+    .flow-part p {
+        font-size: 12px;
+    }
+    .portofolio .title {
+        margin-bottom: 0px;
+    }
+    .portofolio .portofolio-section {
+        text-align: center;
+    }
+    .portofolio .portofolio-section .portofolio-subtitle,
+    .portofolio .portofolio-section .portofolio-title {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .strategic {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .strategic .title {
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+    .strategic .strategic-list img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 15px;
+    }
+    .strategic .strategic-list .strategic-title {
+        margin-bottom: 10px;
+    }
+    .strategic .strategic-list div {
+        margin-bottom: 30px;
+    }
+    .strategic .strategic-exp {
+        margin-top: 20px;
+    }
+    .strategic .strategic-list .strategic-content {
+        font-size: 14px;
+    }
+    .service {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .service .title {
+        margin-bottom: 0;
+        font-size: 22px;
+    }
+    .link-yellow-white {
+        font-size: 14px;
+    }
+    .content-article .article-container {
+        grid-template-columns: auto;
+        margin-bottom: 30px;
+    }
+    .content-article .title {
+        margin-bottom: 15px;
+    }
+    .content-article .article-container .img-container img {
+        width: 100%;
+    } 
+    .content-article .article-indicators {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .content-article .article-container .content-container .content {
+        margin-bottom: 10px;
+    }
+    .obstacle {
+        padding-bottom: 40px;
+    }
+    .obstacle h2 {
+        padding: 0;
+        font-size: 21px;
+        text-align: center;
+    }
+    .obstacle img {
+        margin-top: 60px;
+        padding: 0;
+        width: 100%;
+    }
+    .card {
+        margin-right: 0;
+    }
+    .tahap-pemesanan-bg {
+        padding-top: 15px;
+    }
+    .title-custom {
+        right: 0;
+        top: -10px;
+        font-size: 24px;
+        width: 36px;
+        height: 36px;
+    }
+    .tahap-pemesanan {
+        padding-top: 15px;
+        background: none;
+    }
+    .tahap-pemesanan .card .title-custom-p {
+        margin-bottom: 15px;
+    }
+    .tahap-pemesanan .card .title-content-p {
+        padding: 0 10px;
+    }
+    .tahap-pemesanan-2 {
+        padding-top: 15px;
+    }
+    .tahap-pemesanan-2 .card2 .title-custom-p {
+        margin-bottom: 15px;
+        font-size: 15px;
+    }
+    .tahap-pemesanan-2 .card2 .title-content-p {
+        padding: 0 10px 0 0;
+    }
+    .card2 {
+        padding: 1em 0;
+        margin-bottom: 30px;
+    }
+    .tahap-pemesanan-2 {
+        padding-bottom: 0px;
+    }
+    .no-10 {
+        right: -2px !important;
+        top: -7px !important;
+        font-size: 22px !important;
+    }
+    .domore {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .domore .img-container img {
+        display: none;
+    }
+    .domore .content-container {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .domore .content-container .title {
+        font-size: 22px;
+    }
+    .domore .content-container .list {
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .domore .button-container p {
+        font-size: 17px;
+    }
+    .domore .button-container {
+        margin-top: 25px;
+    }
+    .gallery {
+        padding-bottom: 0;
+    }
+    .gallery .title {
+        font-size: 22px;
+    }
+    .gallery .gallery-container .gallery-title {
+        font-size: 14px;
+    }
+    .gallery .gallery-container .gallery-content {
+        margin-bottom: 20px;
+        font-size: 12px;
+    }
+    .gallery .ads-container {
+        margin-top: 20px;
+    }
+    .gallery .ads-container img {
+        margin-bottom: 30px;
+    }
+}
+@media (min-width: 769px) and (max-width: 850px) {
+  .content-wrapper__ .bg-section .main-section {
+    position: absolute;
+    margin-top: 20px;
+    padding: 10px;
+    top: 0;
+    left: 38%;
+}
+.content-wrapper__ .bg-section .main-section .container {
+  width: auto;
+}
+.content-wrapper__ .bg-section .main-section .title {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.content-wrapper__ .bg-section .main-section .content {
+    font-size: 11px;
+    margin-bottom: 20px;
+}
+}
+@media (min-width: 415px) and (max-width: 768px) {
+    section, header {
+        padding-left: 100px;
+    }
+    header {
+        height: auto !important;
+    }
+    .lang-logo--update-design {
+        padding: 0 !important;
+    }
+    .lang-logo--update-design .list-inline {
+        top: 10px;
+        margin-top: 0;
+    }
+    .nav-lp .navbar-toggle.collapsed {
+        top: 5px;
+    }
+    .logo--update-design {
+        margin: 20px auto;
+    }
+    .nav-lp .navbar-toggle {
+        right: 0;
+    }
+    .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
+        padding: 15px 0;
+    }
+    .breadcrumb--update-design {
+        font-size: 12px;
+    }
+    .breadcrumb > li + li:before {
+        color: #000000;
+    }
+    .content-wrapper__ .bg-section img {
+        display: none;
+    }
+    .content-wrapper__ .bg-section .breadcrumb-section {
+        position: relative;
+        left: 0;
+    }
+    .content-wrapper__ .bg-section .main-section {
+        position: relative;
+        margin-top: 0;
+        padding: 0;
+    }
+    .content-wrapper__ .bg-section .main-section .title {
+        font-size: 22px;
+        margin-bottom: 5px;
+    }
+    .content-wrapper__ .bg-section .main-section .content {
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+    header {
+        padding-bottom: 0;
+    }
+    .about {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .about .about-title {
+        margin-top: 0;
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .about .about-content {
+        margin-bottom: 20px;
+    }
+    #myCarousel {
+        margin-top: 20px;
+    }
+    .carousel-indicators {
+        left: 50% !important;
+        right: 50% !important;
+        z-index: 9 !important;
+    }
+    .flow {
+        padding-bottom: 30px;
+    }
+    .flow img {
+        width: 100%;
+        height: auto;
+        margin-top: 20px;
+    }
+    .flow .flow-button {
+        width: 100%;
+        font-size: 16px;
+        height: 45px;
+        padding: 10px 20px;
+    }
+    .flow .flow-button img {
+        width: 16px; 
+        height: auto;
+        margin-top: 5px;
+    }
+    .flow .flow-title {
+        font-size: 18px;
+        margin-bottom: 10px;
+        margin-top: 0px;
+    }
+    .flow .flow-content {
+        margin-bottom: 15px;
+        font-size: 12px;
+    }
+    .discuss {
+        padding-bottom: 0;
+    }
+    .discuss .discuss-title {
+        margin-bottom: 15px;
+        margin-top: 0;
+        font-size: 19px;
+    }
+    .discuss img {
+        width: 100%;
+        height: auto;
+        margin-top: 60px;
+    }
+    .announce {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .announce .announce-content .announce-title {
+        font-size: 22px;
+    }
+    .division .division-title {
+        margin-bottom: 20px;
+    }
+    .division .division-container {
+        margin-bottom: 20px;
+    }
+    .web-service-flow {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .flow-part {
+        min-height: 100px;
+        padding-left: 75px;
+        margin-bottom: 20px;
+    }
+    .flow-part h3 {
+        font-size: 16px;
+    }
+    .flow-part p {
+        font-size: 12px;
+    }
+    .portofolio .title {
+        margin-bottom: 0px;
+    }
+    .portofolio .portofolio-section {
+        text-align: center;
+    }
+    .portofolio .portofolio-section .portofolio-subtitle,
+    .portofolio .portofolio-section .portofolio-title {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .strategic {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .strategic .title {
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+    .strategic .strategic-list img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 15px;
+    }
+    .strategic .strategic-list .strategic-title {
+        margin-bottom: 10px;
+    }
+    .strategic .strategic-list div {
+        margin-bottom: 30px;
+    }
+    .strategic .strategic-exp {
+        margin-top: 20px;
+    }
+    .strategic .strategic-list .strategic-content {
+        font-size: 13px;
+    }
+    .service {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .service .title {
+        margin-bottom: 0;
+        font-size: 22px;
+    }
+    .link-yellow-white {
+        font-size: 14px;
+    }
+    .content-article .article-container {
+        grid-template-columns: auto;
+        margin-bottom: 30px;
+    }
+    .content-article .title {
+        margin-bottom: 15px;
+    }
+    .content-article .article-container .img-container img {
+        width: 100%;
+    } 
+    .content-article .article-indicators {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .content-article .article-container .content-container .content {
+        margin-bottom: 10px;
+    }
+    .obstacle {
+        padding-bottom: 40px;
+    }
+    .obstacle h2 {
+        padding: 0;
+        font-size: 21px;
+        text-align: center;
+    }
+    .obstacle img {
+        margin-top: 30px;
+        padding: 0;
+        width: 50%;
+    }
+    .card {
+        margin-right: 0;
+    }
+    .tahap-pemesanan-bg {
+        height: 300px;
+        padding-top: 15px;
+    }
+    .title-custom {
+        right: -2px;
+    }
+    .tahap-pemesanan {
+        padding-top: 15px;
+        background: none;
+    }
+    .tahap-pemesanan .card .title-custom-p {
+        margin-bottom: 15px;
+    }
+    .tahap-pemesanan .card .title-content-p {
+        padding: 0 10px;
+    }
+    .tahap-pemesanan-2 {
+        padding-top: 15px;
+    }
+    .tahap-pemesanan-2 .card2 .title-custom-p {
+        margin-bottom: 15px;
+    }
+    .tahap-pemesanan-2 .card2 .title-content-p {
+        padding: 0 10px;
+    }
+    .card2 {
+        padding: 1em 0;
+        margin-bottom: 30px;
+    }
+    .tahap-pemesanan-2 {
+        padding-bottom: 0px;
+    }
+    .no-10 {
+        right: -2px !important;
+        top: -7px !important;
+        font-size: 32px !important;
+    }
+    .domore {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .domore .img-container img {
+        display: none;
+    }
+    .domore .content-container {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .domore .content-container .title {
+        font-size: 22px;
+    }
+    .domore .content-container .list {
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .domore .button-container p {
+        font-size: 17px;
+    }
+    .domore .button-container {
+        margin-top: 25px;
+    }
+    .gallery {
+        padding-bottom: 0;
+    }
+    .gallery .title {
+        font-size: 22px;
+    }
+    .gallery .gallery-container .gallery-title {
+        font-size: 14px;
+    }
+    .gallery .gallery-container .gallery-content {
+        margin-bottom: 20px;
+        font-size: 12px;
+    }
+    .gallery .ads-container {
+        margin-top: 20px;
+    }
+    .gallery .ads-container img {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 414px) {
+    .side-container {
+        display: none;
+    }
+    .lang-logo--update-design {
+        padding: 0 !important;
+    }
+    .lang-logo--update-design .list-inline {
+        top: 0;
+        margin-top: 0;
+    }
+    .nav-lp .navbar-toggle.collapsed {
+        top: 5px;
+    }
+    .logo--update-design {
+        margin: 10px auto;
+    }
+    .nav-lp .navbar-toggle {
+        right: 0;
+    }
+    .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
+        padding: 15px 0;
+    }
+    .breadcrumb--update-design {
+        font-size: 12px;
+    }
+    .breadcrumb > li + li:before {
+        color: #000000;
+    }
+    .content-wrapper__ .bg-section img {
+        display: none;
+    }
+    .content-wrapper__ .bg-section .breadcrumb-section {
+        position: relative;
+        left: 0;
+    }
+    .content-wrapper__ .bg-section .main-section {
+        position: relative;
+        margin-top: 0;
+        padding: 0;
+    }
+    .content-wrapper__ .bg-section .main-section .title {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .content-wrapper__ .bg-section .main-section .content {
+        font-size: 14px;
+    }
+    header {
+        padding-bottom: 0;
+    }
+    .about {
+        padding-top: 0;
+    }
+    .about .about-title {
+        margin-top: 0;
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .about .about-content {
+        margin-bottom: 20px;
+    }
+    .carousel-indicators {
+        left: 50% !important;
+        right: 50% !important;
+        z-index: 9 !important;
+    }
+    .flow img {
+        width: 100%;
+        height: auto;
+    }
+    .flow .flow-button {
+        width: 100%;
+        font-size: 20px;
+    }
+    .flow .flow-button img {
+        width: 16px; 
+        height: auto;
+    }
+    .flow .flow-title {
+        font-size: 21px;
+        margin-bottom: 10px;
+    }
+    .flow .flow-content {
+        margin-bottom: 15px;
+    }
+    .discuss .discuss-title {
+        margin-bottom: 15px;
+        margin-top: 0;
+    }
+    .discuss img {
+        width: 100%;
+        height: auto;
+    }
+    .announce .announce-content .announce-title {
+        font-size: 22px;
+    }
+    .division .division-title {
+        margin-bottom: 20px;
+    }
+    .division .division-container {
+        margin-bottom: 20px;
+    }
+    .web-service-flow {
+        padding-top: 0;
+    }
+    .flow-part {
+        min-height: 100px;
+        padding-left: 75px;
+        margin-bottom: 10px;
+    }
+    .portofolio .title {
+        margin-bottom: 0px;
+    }
+    .portofolio .portofolio-section .portofolio-subtitle,
+    .portofolio .portofolio-section .portofolio-title {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .strategic {
+        padding-top: 0;
+    }
+    .strategic .title {
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+    .strategic .strategic-list img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 15px;
+    }
+    .strategic .strategic-list .strategic-title {
+        margin-bottom: 10px;
+    }
+    .strategic .strategic-list div {
+        margin-bottom: 30px;
+    }
+    .strategic .strategic-exp {
+        margin-top: 20px;
+    }
+    .service {
+        padding-top: 0;
+    }
+    .service .title {
+        margin-bottom: 0;
+        font-size: 22px;
+    }
+    .content-article .article-container {
+        grid-template-columns: auto;
+        margin-bottom: 30px;
+    }
+    .content-article .title {
+        margin-bottom: 15px;
+    }
+    .content-article .article-container .img-container img {
+        width: 100%;
+    } 
+    .content-article .article-indicators {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .obstacle {
+        padding-bottom: 40px;
+    }
+    .obstacle h2 {
+        padding: 0;
+        font-size: 21px;
+    }
+    .obstacle img {
+        margin-top: 30px;
+        padding: 0;
+    }
+    .card {
+        margin-right: 0;
+    }
+    .tahap-pemesanan-bg {
+        height: 300px;
+        padding-top: 15px;
+    }
+    .title-custom {
+        right: -2px;
+    }
+    .tahap-pemesanan {
+        padding-top: 15px;
+        background: none;
+    }
+    .tahap-pemesanan .card .title-custom-p {
+        margin-bottom: 15px;
+    }
+    .tahap-pemesanan .card .title-content-p {
+        padding: 0 10px;
+    }
+    .tahap-pemesanan-2 {
+        padding-top: 15px;
+    }
+    .tahap-pemesanan-2 .card2 .title-custom-p {
+        margin-bottom: 15px;
+    }
+    .tahap-pemesanan-2 .card2 .title-content-p {
+        padding: 0 10px;
+    }
+    .card2 {
+        padding: 1em 0;
+        margin-bottom: 30px;
+    }
+    .tahap-pemesanan-2 {
+        padding-bottom: 0px;
+    }
+    .no-10 {
+        right: -2px !important;
+        top: -7px !important;
+        font-size: 32px !important;
+    }
+    .domore {
+        padding-top: 0;
+        padding-bottom: 30px;
+    }
+    .domore .img-container img {
+        display: none;
+    }
+    .domore .content-container {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .domore .content-container .title {
+        font-size: 22px;
+    }
+    .domore .content-container .list {
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+    .domore .button-container p {
+        font-size: 19px;
+    }
+    .domore .button-container {
+        margin-top: 25px;
+    }
+    .gallery .title {
+        font-size: 22px;
+    }
+    .gallery .gallery-container .gallery-title {
+        font-size: 22px;
+    }
+    .gallery .gallery-container .gallery-content {
+        margin-bottom: 20px;
+    }
+    .gallery .ads-container {
+        margin-top: 20px;
+    }
+    .gallery .ads-container img {
+        margin-bottom: 30px;
+    }
+}
+
+
+/* Web Dev Service Page */
+.miniplan {
+    padding-top: 128px;
+}
+.miniplan .img-container img {
+    width: 100%;
+    height: auto;
+}
+.miniplan .content-container .title-container {
+    padding: 0;
+}
+.miniplan .content-container .title-container p {
+  color: rgb(245, 93, 4);
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  width: 292px;
+  margin-bottom: 25px;
+}
+.miniplan .content-container .content {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin-bottom: 25px;
+}
+.miniplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.miniplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.miniplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.miniplan .content-container .detail-container.detail-work {
+  grid-area: work;
+}
+.miniplan .content-container .detail-container {
+    display: grid;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.miniplan .content-container .detail-container img {
+  grid-area: img;
+}
+.miniplan .content-container .detail-container .detail-title {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    grid-area: title;
+}
+.miniplan .content-container .detail-container .detail-content {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+    grid-area: content;
+}
+.miniplan .content-container .detail-container .detail-content.detail-list {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+}
+.miniplan .content-container .detail-container .detail-content.detail-list p {
+    margin-bottom: 15px;
+    line-height: 1.75;
+}
+.miniplan .content-container .detail-container.detail-margin {
+    margin-bottom: 35px;
+    grid-area: work;
+}
+.miniplan .content-container .price-container {
+    margin-bottom: 23px;
+}
+.miniplan .content-container .price-container .title {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    padding: 0 30px;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+.miniplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
+}
+.miniplan .content-container .price-container .price {
+    color: rgb(237, 6, 6);
+    font-size: 20px;
+    font-family:"M PLUS 1p Extra Bold", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0px;
+    padding: 0 30px;
+}
+.miniplan .content-container .button-container p {
+    width: 292px;
+    background: rgb(251, 201, 53);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Bold", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    text-align: center;
+    padding: 17px;
+}
+
+
+.standardplan {
+    padding-top: 45px;
+}
+.standardplan .img-container img {
+    width: 100%;
+    height: auto;
+}
+.standardplan .content-container .title-container {
+    padding: 0;
+}
+.standardplan .content-container .title-container p {
+  color: rgb(4, 199, 245);;
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  width: 292px;
+  margin-bottom: 25px;
+}
+.standardplan .content-container .content {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin-bottom: 25px;
+}
+.standardplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.standardplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.standardplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.standardplan .content-container .detail-container.detail-work {
+  grid-area: work;
+}
+.standardplan .content-container .detail-container {
+    display: grid;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.standardplan .content-container .detail-container img {
+  grid-area: img;
+}
+.standardplan .content-container .detail-container .detail-title {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    grid-area: title;
+}
+.standardplan .content-container .detail-container .detail-content {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+    grid-area: content;
+}
+.standardplan .content-container .detail-container .detail-content.detail-list {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+}
+.standardplan .content-container .detail-container .detail-content.detail-list p {
+    margin-bottom: 15px;
+    line-height: 1.75;
+}
+.standardplan .content-container .detail-container.detail-margin {
+    margin-bottom: 35px;
+    grid-area: work;
+}
+.standardplan .content-container .price-container {
+    margin-bottom: 23px;
+}
+.standardplan .content-container .price-container .title {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    padding: 0 30px;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+.standardplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
+}
+.standardplan .content-container .price-container .price {
+    color: rgb(237, 6, 6);
+    font-size: 20px;
+    font-family:"M PLUS 1p Extra Bold", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0px;
+    padding: 0 30px;
+}
+.standardplan .content-container .button-container p {
+    width: 292px;
+    background: rgb(251, 201, 53);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Bold", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    text-align: center;
+    padding: 17px;
+}
+
+.largeplan {
+    padding-top: 45px;
+}
+.largeplan .img-container img {
+    width: 100%;
+    height: auto;
+}
+.largeplan .content-container .title-container {
+    padding: 0;
+}
+.largeplan .content-container .title-container p {
+  color: rgb(5, 169, 71);
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
+}
+.largeplan .content-container .content {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin-bottom: 25px;
+}
+.largeplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.largeplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.largeplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.largeplan .content-container .detail-container.detail-work {
+  grid-area: work;
+}
+.largeplan .content-container .detail-container {
+    display: grid;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.largeplan .content-container .detail-container img {
+  grid-area: img;
+}
+.largeplan .content-container .detail-container .detail-title {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    grid-area: title;
+}
+.largeplan .content-container .detail-container .detail-content {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+    grid-area: content;
+}
+.largeplan .content-container .detail-container .detail-content.detail-list {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+}
+.largeplan .content-container .detail-container .detail-content.detail-list p {
+    margin-bottom: 15px;
+    line-height: 1.75;
+}
+.largeplan .content-container .detail-container.detail-margin {
+    margin-bottom: 35px;
+    grid-area: work;
+}
+.largeplan .content-container .price-container {
+    margin-bottom: 23px;
+}
+.largeplan .content-container .price-container .title {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    padding: 0 30px;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+.largeplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
+}
+.largeplan .content-container .price-container .price {
+    color: rgb(237, 6, 6);
+    font-size: 20px;
+    font-family:"M PLUS 1p Extra Bold", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0px;
+    padding: 0 30px;
+}
+.largeplan .content-container .button-container p {
+    width: 292px;
+    background: rgb(251, 201, 53);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Bold", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    text-align: center;
+    padding: 17px;
+}
+
+.strategicplan {
+    padding-top: 45px;
+}
+.strategicplan .img-container img {
+    width: 100%;
+    height: auto;
+}
+.strategicplan .content-container .title-container {
+    padding: 0;
+}
+.strategicplan .content-container .title-container p {
+  color: rgb(245, 10, 4);
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
+}
+.strategicplan .content-container .content {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    margin-bottom: 25px;
+}
+.strategicplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.strategicplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.strategicplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.strategicplan .content-container .detail-container.detail-work {
+  grid-area: work;
+}
+.strategicplan .content-container .detail-container {
+    display: grid;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.strategicplan .content-container .detail-container img {
+  grid-area: img;
+}
+.strategicplan .content-container .detail-container .detail-title {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    grid-area: title;
+}
+.strategicplan .content-container .detail-container .detail-content {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+    grid-area: content;
+}
+.strategicplan .content-container .detail-container .detail-content.detail-list {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
+    letter-spacing: 0px;
+}
+
+.strategicplan .content-container .detail-container .detail-content.detail-list p {
+    margin-bottom: 15px;
+    line-height: 1.75;
+}
+.strategicplan .content-container .detail-container.detail-margin {
+    margin-bottom: 35px;
+    grid-area: work;
+}
+.strategicplan .content-container .price-container {
+    margin-bottom: 23px;
+}
+.strategicplan .content-container .price-container .title {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+    padding: 0 30px;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+.strategicplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
+}
+.strategicplan .content-container .price-container .price {
+    color: rgb(237, 6, 6);
+    font-size: 20px;
+    font-family:"M PLUS 1p Extra Bold", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0px;
+    padding: 0 30px;
+}
+.strategicplan .content-container .button-container p {
+    width: 292px;
+    background: rgb(251, 201, 53);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Bold", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0px;
+    text-align: center;
+    padding: 17px;
+}
+
+.promo {
+    padding-top: 35px;
+}
+.promo .promo-container {
+    margin-bottom: 60px;
+}
+.promo .promo-container img {
+    width: 100%;
+    height: auto;
+}
+.promo .promo-odd {
+    background: rgb(255, 244, 212);
+}
+.promo .promo-list {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 280px auto;
+    grid-gap: 70px;
+}
+.promo .promo-list .promo-title {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.promo .promo-list .promo-content {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p", sans-serif;
+    font-weight: normal;
+    letter-spacing: 0px;
+}
+
+.datatable {
+    padding-top: 35px;
+}
+.datatable .table-data thead {
+    background: rgb(251, 201, 53);
+}
+.datatable .table-data thead tr th {
+    padding: 15px 30px;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0px;
+}
+.datatable .table-data tbody tr td {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family:"M PLUS 1p Medium", sans-serif;
+    font-weight: normal;
+    letter-spacing: 0px;
+    padding: 30px 28px;
+    white-space: break-spaces;
+}
+.datatable .table-data tbody tr:nth-child(odd) {
+    background: #fff;
+}
+.datatable .table-data tbody tr:nth-child(odd) td {
+    border: 1px solid rgb(242, 242, 242);
+}
+.datatable .table-data tbody tr:nth-child(even) {
+    background: rgb(242, 242, 242);
+}
+.datatable .table-data tbody tr td:nth-child(3) {
+    white-space: initial;
+    font-family: "M Plus 1p", sans-serif;
+    font-size: 16px;
+}
+.datatable .table-data tbody tr td:nth-child(2) {
+    font-weight: 800;
+    letter-spacing: 2px;
+    font-family: "M Plus 1p Extra Bold", sans-serif;
+}
+
+.datatable .slogan-container {
+    width: 878px;
+    background: rgb(0, 0, 0);
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    padding: 18px;
+    margin: 30px auto 0;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family:"M PLUS 1p", sans-serif;
+    font-weight: normal;
+    letter-spacing: 0px;
+}
+
+/* Webdev Service Resp Settings */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  section {
+    padding-left: 100px;
   }
-  @media (min-width: 769px) and (max-width:991px) {
-    .miniplan {
-        padding-top: 0;
-    }
-    .standardplan {
-        padding-top: 0;
+  .content-wrapper__ .bg-section .breadcrumb-section {
+    left: 105px;
+  }
+  .lang-logo--update-design {
+    padding: 24px 0 24px 100px !important;
+  }
+} 
+@media (min-width: 992px) and (max-width:1024px) {
+    .miniplan,
+    .standardplan,
+    .largeplan,
+    .strategicplan {
+      padding-bottom: 30px;
+      padding-top: 0px;
     }
     .miniplan .img-container,
     .standardplan .img-container,
     .largeplan .img-container,
     .strategicplan .img-container
      {
-         margin: 30px auto 0;
+        margin: 30px auto 0;
         text-align: center;
     }
     .miniplan .img-container img,
@@ -3341,10 +3320,8 @@
     .largeplan .img-container img,
     .strategicplan .img-container img
      {
-         margin-top: 30px;
-         max-width: 50%;
+         margin: 30px auto 0;
          height: auto;
-         margin: 0 auto;
     }
     .miniplan .content-container .title-container p,
     .standardplan .content-container .title-container p,
@@ -3353,13 +3330,15 @@
         width: 100%;
         margin-top: 30px;
         font-size: 18px;
-        text-align: center;
+        text-align: left;
+        margin-bottom: 15px;
     }
     .miniplan .content-container .content,
     .standardplan .content-container .content,
     .largeplan .content-container .content,
     .strategicplan .content-container .content {
         font-size: 18px;
+        margin-bottom: 15px;
     }
     .miniplan .content-container .detail-container .detail-title,
     .standardplan .content-container .detail-container .detail-title,
@@ -3380,7 +3359,14 @@
     .largeplan .content-container .detail-container,
     .strategicplan .content-container .detail-container {
         grid-gap: 15px;
-        grid-template-columns: max-content max-content auto;
+        grid-template-columns: max-content auto auto;
+        margin-bottom: 20px;
+    }
+    .miniplan .content-container .detail-container.detail-margin,
+    .standardplan .content-container .detail-container.detail-margin,
+    .largeplan .content-container .detail-container.detail-margin,
+    .strategicplan .content-container .detail-container.detail-margin {
+      margin-bottom: 20px;
     }
     .miniplan .content-container .detail-container .detail-content,
     .standardplan .content-container .detail-container .detail-content,
@@ -3398,8 +3384,7 @@
     .standardplan .content-container .price-container,
     .largeplan .content-container .price-container,
     .strategicplan .content-container .price-container {
-        margin-bottom: 23px;
-        margin-top: 30px;
+        margin: 0;
         text-align: center;
     }
     .miniplan .content-container .button-container p, 
@@ -3444,239 +3429,446 @@
         font-size: 18px;
         width: 100%;
     }
+}
+@media (min-width: 769px) and (max-width:991px) {
+  .miniplan {
+      padding-top: 0;
   }
-  @media (min-width: 415px) and (max-width:768px) {
-      .miniplan {
-          padding-top: 0;
-      }
-      .standardplan {
-          padding-top: 0;
-      }
-      .miniplan .img-container,
-      .standardplan .img-container,
-      .largeplan .img-container,
-      .strategicplan .img-container
-       {
-           margin: 30px auto 0;
-          text-align: center;
-      }
-      .miniplan .img-container img,
-      .standardplan .img-container img,
-      .largeplan .img-container img,
-      .strategicplan .img-container img
-       {
-           margin-top: 30px;
-           max-width: 50%;
-           height: auto;
-           margin: 0 auto;
-      }
-      .miniplan .content-container .title-container p,
-      .standardplan .content-container .title-container p,
-      .largeplan .content-container .title-container p,
-      .strategicplan .content-container .title-container p {
-          width: 100%;
-          margin-top: 30px;
-          font-size: 18px;
-          text-align: center;
-      }
-      .miniplan .content-container .content,
-      .standardplan .content-container .content,
-      .largeplan .content-container .content,
-      .strategicplan .content-container .content {
-          font-size: 18px;
-      }
-      .miniplan .content-container .detail-container .detail-title,
-      .standardplan .content-container .detail-container .detail-title,
-      .largeplan .content-container .detail-container .detail-title,
-      .strategicplan .content-container .detail-container .detail-title {
-          font-size: 14px;
-      }
-      .miniplan .content-container .detail-container img,
-      .standardplan .content-container .detail-container img,
-      .largeplan .content-container .detail-container img,
-      .strategicplan .content-container .detail-container img {
-          width: 16px;
-          height: auto;
-          margin-top: 3px;
-      }
-      .miniplan .content-container .detail-container,
-      .standardplan .content-container .detail-container,
-      .largeplan .content-container .detail-container,
-      .strategicplan .content-container .detail-container {
-          grid-gap: 15px;
-          grid-template-columns: max-content max-content auto;
-      }
-      .miniplan .content-container .detail-container .detail-content,
-      .standardplan .content-container .detail-container .detail-content,
-      .largeplan .content-container .detail-container .detail-content,
-      .strategicplan .content-container .detail-container .detail-content {
-          font-size: 16px;
-      }
-      .miniplan .content-container .detail-container .detail-content.detail-list,
-      .standardplan .content-container .detail-container .detail-content.detail-list,
-      .largeplan .content-container .detail-container .detail-content.detail-list,
-      .strategicplan .content-container .detail-container .detail-content.detail-list {
-          font-size: 14px;
-      }
-      .miniplan .content-container .price-container,
-      .standardplan .content-container .price-container,
-      .largeplan .content-container .price-container,
-      .strategicplan .content-container .price-container {
-          margin-bottom: 23px;
-          margin-top: 30px;
-          text-align: center;
-      }
-      .miniplan .content-container .button-container p, 
-      .standardplan .content-container .button-container p, 
-      .largeplan .content-container .button-container p, 
-      .strategicplan .content-container .button-container p {
-          padding: 10px;
-          font-size: 16px;
-          margin-left: 0;
-          width: auto;
-      }
-      .promo .promo-list {
-          padding: 20px;
-          display: grid;
-          grid-template-columns: auto;
-          grid-gap: 20px;
-      }
-      .promo .promo-list .promo-title {
-          color: rgb(0, 0, 0);
-          font-size: 18px;
-          font-family: "M PLUS 1p", sans-serif;
-          font-weight: 500;
-          letter-spacing: 0px;
-      }
-      .promo .promo-list .promo-content {
-          color: rgb(0, 0, 0);
-          font-size: 16px;
-          font-family: "M PLUS 1p", sans-serif;
-          font-weight: normal;
-          letter-spacing: 0px;
-      }
-      .datatable .table-data thead tr th {
-          font-size: 18px;
-          padding: 10px 15px;
-      }
-      .datatable .table-data tbody tr td {
-          font-size: 16px;
-          padding: 10px 15px;
-          white-space: normal;
-      }
-      .datatable .slogan-container {
-          font-size: 18px;
-          width: 100%;
-      }
+  .standardplan {
+      padding-top: 0;
   }
-  @media (max-width: 414px) {
-      .miniplan {
-          padding-top: 0;
-      }
-      .standardplan {
-          padding-top: 0;
-      }
-      .miniplan .img-container,
-      .standardplan .img-container,
-      .largeplan .img-container,
-      .strategicplan .img-container
-       {
-           margin-top: 30px;
-      }
-      .miniplan .content-container .title-container p,
-      .standardplan .content-container .title-container p,
-      .largeplan .content-container .title-container p,
-      .strategicplan .content-container .title-container p {
-          width: 100%;
-          margin-top: 30px;
-          font-size: 18px;
-          text-align: center;
-      }
-      .miniplan .content-container .content,
-      .standardplan .content-container .content,
-      .largeplan .content-container .content,
-      .strategicplan .content-container .content {
-          font-size: 18px;
-      }
-      .miniplan .content-container .detail-container .detail-title,
-      .standardplan .content-container .detail-container .detail-title,
-      .largeplan .content-container .detail-container .detail-title,
-      .strategicplan .content-container .detail-container .detail-title {
-          font-size: 14px;
-      }
-      .miniplan .content-container .detail-container img,
-      .standardplan .content-container .detail-container img,
-      .largeplan .content-container .detail-container img,
-      .strategicplan .content-container .detail-container img {
-          width: 16px;
-          height: auto;
-          margin-top: 3px;
-      }
-      .miniplan .content-container .detail-container,
-      .standardplan .content-container .detail-container,
-      .largeplan .content-container .detail-container,
-      .strategicplan .content-container .detail-container {
-          grid-gap: 15px;
-          grid-template-columns: max-content max-content auto;
-      }
-      .miniplan .content-container .detail-container .detail-content,
-      .standardplan .content-container .detail-container .detail-content,
-      .largeplan .content-container .detail-container .detail-content,
-      .strategicplan .content-container .detail-container .detail-content {
-          font-size: 16px;
-      }
-      .miniplan .content-container .detail-container .detail-content.detail-list,
-      .standardplan .content-container .detail-container .detail-content.detail-list,
-      .largeplan .content-container .detail-container .detail-content.detail-list,
-      .strategicplan .content-container .detail-container .detail-content.detail-list {
-          font-size: 14px;
-      }
-      .miniplan .content-container .price-container,
-      .standardplan .content-container .price-container,
-      .largeplan .content-container .price-container,
-      .strategicplan .content-container .price-container {
-          margin-bottom: 23px;
-          margin-top: 30px;
-          text-align: center;
-      }
-      .miniplan .content-container .button-container p, 
-      .standardplan .content-container .button-container p, 
-      .largeplan .content-container .button-container p, 
-      .strategicplan .content-container .button-container p {
-          padding: 10px;
-          font-size: 16px;
-      }
-      .promo .promo-list {
-          padding: 20px;
-          display: grid;
-          grid-template-columns: auto;
-          grid-gap: 20px;
-      }
-      .promo .promo-list .promo-title {
-          color: rgb(0, 0, 0);
-          font-size: 18px;
-          font-family: "M PLUS 1p", sans-serif;
-          font-weight: 500;
-          letter-spacing: 0px;
-      }
-      .promo .promo-list .promo-content {
-          color: rgb(0, 0, 0);
-          font-size: 16px;
-          font-family: "M PLUS 1p", sans-serif;
-          font-weight: normal;
-          letter-spacing: 0px;
-      }
-      .datatable .table-data thead tr th {
-          font-size: 18px;
-          padding: 10px 15px;
-      }
-      .datatable .table-data tbody tr td {
-          font-size: 16px;
-          padding: 10px 15px;
-          white-space: initial;
-      }
-      .datatable .slogan-container {
-          font-size: 18px;
-          width: 100%;
-      }
+  .miniplan .img-container,
+  .standardplan .img-container,
+  .largeplan .img-container,
+  .strategicplan .img-container
+   {
+       margin: 30px auto 0;
+      text-align: center;
   }
+  .miniplan .img-container img,
+  .standardplan .img-container img,
+  .largeplan .img-container img,
+  .strategicplan .img-container img
+   {
+       margin-top: 30px;
+       max-width: 50%;
+       height: auto;
+       margin: 0 auto;
+  }
+  .miniplan .content-container .title-container p,
+  .standardplan .content-container .title-container p,
+  .largeplan .content-container .title-container p,
+  .strategicplan .content-container .title-container p {
+      width: 100%;
+      margin-top: 30px;
+      font-size: 18px;
+      text-align: center;
+  }
+  .miniplan .content-container .content,
+  .standardplan .content-container .content,
+  .largeplan .content-container .content,
+  .strategicplan .content-container .content {
+      font-size: 18px;
+  }
+  .miniplan .content-container .detail-container .detail-title,
+  .standardplan .content-container .detail-container .detail-title,
+  .largeplan .content-container .detail-container .detail-title,
+  .strategicplan .content-container .detail-container .detail-title {
+      font-size: 14px;
+  }
+  .miniplan .content-container .detail-container img,
+  .standardplan .content-container .detail-container img,
+  .largeplan .content-container .detail-container img,
+  .strategicplan .content-container .detail-container img {
+      width: 16px;
+      height: auto;
+      margin-top: 3px;
+  }
+  .miniplan .content-container .detail-container,
+  .standardplan .content-container .detail-container,
+  .largeplan .content-container .detail-container,
+  .strategicplan .content-container .detail-container {
+      grid-gap: 15px;
+      grid-template-columns: max-content max-content auto;
+  }
+  .miniplan .content-container .detail-container .detail-content,
+  .standardplan .content-container .detail-container .detail-content,
+  .largeplan .content-container .detail-container .detail-content,
+  .strategicplan .content-container .detail-container .detail-content {
+      font-size: 16px;
+  }
+  .miniplan .content-container .detail-container .detail-content.detail-list,
+  .standardplan .content-container .detail-container .detail-content.detail-list,
+  .largeplan .content-container .detail-container .detail-content.detail-list,
+  .strategicplan .content-container .detail-container .detail-content.detail-list {
+      font-size: 14px;
+  }
+  .miniplan .content-container .price-container,
+  .standardplan .content-container .price-container,
+  .largeplan .content-container .price-container,
+  .strategicplan .content-container .price-container {
+      margin-bottom: 23px;
+      margin-top: 30px;
+      text-align: center;
+  }
+  .miniplan .content-container .button-container p, 
+  .standardplan .content-container .button-container p, 
+  .largeplan .content-container .button-container p, 
+  .strategicplan .content-container .button-container p {
+      padding: 10px;
+      font-size: 16px;
+      margin-left: 0;
+      width: auto;
+  }
+  .promo .promo-list {
+      padding: 20px;
+      display: grid;
+      grid-template-columns: auto;
+      grid-gap: 20px;
+  }
+  .promo .promo-list .promo-title {
+      color: rgb(0, 0, 0);
+      font-size: 18px;
+      font-family: "M PLUS 1p", sans-serif;
+      font-weight: 500;
+      letter-spacing: 0px;
+  }
+  .promo .promo-list .promo-content {
+      color: rgb(0, 0, 0);
+      font-size: 16px;
+      font-family: "M PLUS 1p", sans-serif;
+      font-weight: normal;
+      letter-spacing: 0px;
+  }
+  .datatable .table-data thead tr th {
+      font-size: 18px;
+      padding: 10px 15px;
+  }
+  .datatable .table-data tbody tr td {
+      font-size: 16px;
+      padding: 10px 15px;
+      white-space: normal;
+  }
+  .datatable .slogan-container {
+      font-size: 18px;
+      width: 100%;
+  }
+}
+@media (min-width: 415px) and (max-width:768px) {
+  .content-wrapper__ .bg-section {
+    background: #f0f0f0;
+  }
+    .miniplan,
+    .standardplan,
+    .strategicplan,
+    .largeplan {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .miniplan .img-container,
+    .standardplan .img-container,
+    .largeplan .img-container,
+    .strategicplan .img-container
+     {
+         margin: 0;
+        text-align: center;
+    }
+    .miniplan .img-container img,
+    .standardplan .img-container img,
+    .largeplan .img-container img,
+    .strategicplan .img-container img
+     {
+         margin-top: 30px;
+         max-width: 50%;
+         height: auto;
+         margin: 0 auto;
+    }
+    .miniplan .content-container .title-container p,
+    .standardplan .content-container .title-container p,
+    .largeplan .content-container .title-container p,
+    .strategicplan .content-container .title-container p {
+        width: 100%;
+        margin-top: 30px;
+        font-size: 18px;
+        text-align: center;
+    }
+    .miniplan .content-container .content,
+    .standardplan .content-container .content,
+    .largeplan .content-container .content,
+    .strategicplan .content-container .content {
+        font-size: 18px;
+    }
+    .miniplan .content-container .detail-container .detail-title,
+    .standardplan .content-container .detail-container .detail-title,
+    .largeplan .content-container .detail-container .detail-title,
+    .strategicplan .content-container .detail-container .detail-title {
+        font-size: 14px;
+    }
+    .miniplan .content-container .detail-container img,
+    .standardplan .content-container .detail-container img,
+    .largeplan .content-container .detail-container img,
+    .strategicplan .content-container .detail-container img {
+        width: 16px;
+        height: auto;
+        margin-top: 3px;
+    }
+    
+    .miniplan .content-container .detail-container,
+    .standardplan .content-container .detail-container,
+    .largeplan .content-container .detail-container,
+    .strategicplan .content-container .detail-container {
+        grid-gap: 15px;
+        grid-template-columns: max-content auto;
+        grid-template-rows: max-content;
+        margin-bottom: 10px;
+    }
+    .miniplan .content-container .detail-container.detail-margin, 
+    .miniplan .content-container .detail-container.detail-margin, 
+    .miniplan .content-container .detail-container.detail-margin, 
+    .miniplan .content-container .detail-container.detail-margin { 
+      margin-bottom: 10px;
+    }
+    .miniplan .content-container .detail-container .detail-content,
+    .standardplan .content-container .detail-container .detail-content,
+    .largeplan .content-container .detail-container .detail-content,
+    .strategicplan .content-container .detail-container .detail-content {
+        font-size: 16px;
+    }
+    .miniplan .content-container .detail-container .detail-content.detail-list,
+    .standardplan .content-container .detail-container .detail-content.detail-list,
+    .largeplan .content-container .detail-container .detail-content.detail-list,
+    .strategicplan .content-container .detail-container .detail-content.detail-list {
+        font-size: 14px;
+    }
+    .miniplan .content-container .price-container,
+    .standardplan .content-container .price-container,
+    .largeplan .content-container .price-container,
+    .strategicplan .content-container .price-container {
+        margin-bottom: 0;
+        margin-top: 0;
+        text-align: center;
+    }
+    .miniplan .content-container .button-container p, 
+    .standardplan .content-container .button-container p, 
+    .largeplan .content-container .button-container p, 
+    .strategicplan .content-container .button-container p {
+        padding: 10px;
+        font-size: 16px;
+        margin-left: 0;
+        width: auto;
+    }
+    .standardplan .container .row, 
+    .strategicplan .container .row {
+      display: grid;
+      grid-template-areas: 'img'
+                            'content';
+      grid-gap: 10px;
+    }
+    .standardplan .container .row .content-container,
+    .strategicplan .container .row .content-container {
+      grid-area: content;
+    }
+    .standardplan .container .row .img-container,
+    .strategicplan .container .row .img-container {
+      grid-area: img;
+    }
+    .promo {
+      padding-bottom: 0;
+    }
+    .promo .promo-list {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 20px;
+    }
+    .promo .promo-list .promo-title {
+        color: rgb(0, 0, 0);
+        font-size: 18px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: 500;
+        letter-spacing: 0px;
+    }
+    .promo .promo-list .promo-content {
+        color: rgb(0, 0, 0);
+        font-size: 16px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: normal;
+        letter-spacing: 0px;
+    }
+    .datatable .table-data thead tr th {
+        font-size: 18px;
+        padding: 10px 15px;
+    }
+    .datatable .table-data tbody tr td {
+        font-size: 16px;
+        padding: 10px 15px;
+        white-space: normal;
+    }
+    .datatable .slogan-container {
+        font-size: 18px;
+        width: 100%;
+    }
+}
+@media (max-width: 414px) {
+  .content-wrapper__ .bg-section {
+    background: #f0f0f0;
+  }
+    .miniplan {
+        padding-top: 0;
+    }
+    .standardplan {
+        padding-top: 0;
+    }
+    .miniplan .img-container,
+    .standardplan .img-container,
+    .largeplan .img-container,
+    .strategicplan .img-container
+     {
+         margin-top: 30px;
+    }
+    .miniplan .content-container .title-container p,
+    .standardplan .content-container .title-container p,
+    .largeplan .content-container .title-container p,
+    .strategicplan .content-container .title-container p {
+        width: 100%;
+        margin-top: 0;
+        font-size: 18px;
+        text-align: center;
+    }
+    .miniplan .content-container .content,
+    .standardplan .content-container .content,
+    .largeplan .content-container .content,
+    .strategicplan .content-container .content {
+        font-size: 18px;
+    }
+    .miniplan .content-container .detail-requirement,
+    .standardplan .content-container .detail-requirement,
+    .largeplan .content-container .detail-requirement,
+    .strategicplan .content-container .detail-requirement {
+      grid-template-areas: 'period'
+                            'page'
+                            'work';
+    }
+    .miniplan .content-container .detail-container,
+    .standardplan .content-container .detail-container,
+    .largeplan .content-container .detail-container,
+    .strategicplan .content-container .detail-container {
+      margin-bottom: 0;
+    }
+    .miniplan .content-container .detail-container .detail-title,
+    .standardplan .content-container .detail-container .detail-title,
+    .largeplan .content-container .detail-container .detail-title,
+    .strategicplan .content-container .detail-container .detail-title {
+        font-size: 14px;
+    }
+    .miniplan .content-container .detail-container img,
+    .standardplan .content-container .detail-container img,
+    .largeplan .content-container .detail-container img,
+    .strategicplan .content-container .detail-container img {
+        width: 16px;
+        height: auto;
+        margin-top: 3px;
+    }
+    .miniplan .content-container .detail-container,
+    .standardplan .content-container .detail-container,
+    .largeplan .content-container .detail-container,
+    .strategicplan .content-container .detail-container {
+        grid-gap: 15px;
+        grid-template-columns: max-content auto;
+    }
+    .miniplan .content-container .detail-container .detail-content,
+    .standardplan .content-container .detail-container .detail-content,
+    .largeplan .content-container .detail-container .detail-content,
+    .strategicplan .content-container .detail-container .detail-content {
+        font-size: 16px;
+    }
+    .miniplan .content-container .detail-container .detail-content.detail-list,
+    .standardplan .content-container .detail-container .detail-content.detail-list,
+    .largeplan .content-container .detail-container .detail-content.detail-list,
+    .strategicplan .content-container .detail-container .detail-content.detail-list {
+        font-size: 14px;
+    }
+    .miniplan .content-container .price-container,
+    .standardplan .content-container .price-container,
+    .largeplan .content-container .price-container,
+    .strategicplan .content-container .price-container {
+        margin-bottom: 23px;
+        margin-top: 0;
+        text-align: center;
+    }
+    .miniplan .content-container .button-container p, 
+    .standardplan .content-container .button-container p, 
+    .largeplan .content-container .button-container p, 
+    .strategicplan .content-container .button-container p {
+        padding: 10px;
+        font-size: 16px;
+    }
+    .miniplan .content-container .detail-contact,
+    .standardplan .content-container .detail-contact,
+    .largeplan .content-container .detail-contact,
+    .strategicplan .content-container .detail-contact {
+      grid-template-columns: auto;
+    }
+    .miniplan .content-container .detail-contact .button-container,
+    .standardplan .content-container .detail-contact .button-container,
+    .largeplan .content-container .detail-contact .button-container,
+    .strategicplan .content-container .detail-contact .button-container {
+      margin: 0 auto;
+    }
+    .standardplan .container .row, 
+    .strategicplan .container .row {
+      display: grid;
+      grid-template-areas: 'img'
+                            'content';
+      grid-gap: 10px;
+      grid-template-columns: 100%;
+    }
+    .standardplan .container .row .content-container,
+    .strategicplan .container .row .content-container {
+      grid-area: content;
+    }
+    .standardplan .container .row .img-container,
+    .strategicplan .container .row .img-container {
+      grid-area: img;
+    }
+    .promo {
+      padding-top: 0;
+    }
+    .standardplan, 
+    .largeplan, 
+    .strategicplan {
+      padding-top: 0;
+    }
+    .promo .promo-list {
+        padding: 20px;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 20px;
+    }
+    .promo .promo-list .promo-title {
+        color: rgb(0, 0, 0);
+        font-size: 18px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: 500;
+        letter-spacing: 0px;
+    }
+    .promo .promo-list .promo-content {
+        color: rgb(0, 0, 0);
+        font-size: 16px;
+        font-family: "M PLUS 1p", sans-serif;
+        font-weight: normal;
+        letter-spacing: 0px;
+    }
+    .datatable .table-data thead tr th {
+        font-size: 18px;
+        padding: 10px 15px;
+    }
+    .datatable .table-data tbody tr td {
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+    .datatable .slogan-container {
+        font-size: 18px;
+        width: 100%;
+    }
+}
