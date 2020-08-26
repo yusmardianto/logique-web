@@ -777,24 +777,6 @@ b {
   margin-left: 10px;
 }
 
-.case-study__slide .slick-prev,
-.case-study__slide .slick-next,
-.case-study__slide .slick-prev:hover,
-.case-study__slide .slick-prev:focus,
-.case-study__slide .slick-next:hover,
-.case-study__slide .slick-next:focus {
-  background: url('/img/top/right-arrow.svg') center/20px no-repeat;
-}
-
-.case-study__slide .slick-prev {
-  transform: rotate(180deg) translateY(10px);
-}
-
-.case-study__slide .slick-prev:before,
-.case-study__slide .slick-next:before {
-  content: '';
-}
-
 @media (max-width: 991.98px) {
   .case-study .row__item > img {
     width: 100%;
@@ -811,24 +793,6 @@ b {
   .case-study .row__item > a > .item__hover > p {
     font-size: 14px;
     line-height: 24px;
-  }
-  .case-study__slide .slick-prev,
-  .case-study__slide .slick-next,
-  .case-study__slide .slick-prev:hover,
-  .case-study__slide .slick-prev:focus,
-  .case-study__slide .slick-next:hover,
-  .case-study__slide .slick-next:focus {
-    background-color: #fff !important;
-    width: 35px;
-    height: 35px;
-    border-radius: 100%;
-  }
-  .case-study__slide .slick-next {
-    right: 25px;
-  }
-  .case-study__slide .slick-prev {
-    left: 25px;
-    z-index: 1;
   }
 }
 
