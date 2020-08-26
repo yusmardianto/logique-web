@@ -173,16 +173,16 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>Digital Marketing Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our digital marketing consulting portfolio.</p>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> is always committed to providing the best Digital Marketing Campaign performance achievements for all of our clients and business partners. By applying high operational standards to ensure every optimization process is carried out with proper planning based on the actual data we analyze, all decisions made in the advertising campaign optimization process are made based on objective and validated data.</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section id="portfolio_dm" class="portfolio-update__content">
+            <section id="portfolio_dm" class="portfolio-update__content" style="margin-bottom: 0">
                 <div class="container__">
-                    <h2 class="text-center">Digital Marketing</h2>
+                    <h2 class="text-center">Our Great Achievements With the Leading Brands <br class="visible-lg visible-xl"> in Indonesia</h2>
                     <div class="content__wrapper">
                         <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
@@ -191,12 +191,106 @@
                                     <h4>Real Estate - Bamboo</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                 </div>
+                                <div class="content__detail" style="background-color: #EAFFFC;">
+                                    <div class="detail__description">
+                                    Green Bamboo Terrace is a minimalist luxury housing in Bogor City Center, managed by a leading property developer in Indonesia, namely PT. Kebun Bambu Jakarta, with quality values that we continue to maintain, has made Logique able to become a business partner for KBJ's success in selling developed properties.
+                                    </div>
+                                    <div class="detail__goal" style="background-color: #b9fff5; color: #004940;">
+                                        <h4>Goals</h4>
+                                        <p>Increase Leads</p>
+                                    </div>
+                                    <div class="detail__achievement" style="color: #004940;">
+                                        <h4>Achievements</h4>
+                                        <div class="row">
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +46%
+                                                    </div>
+                                                    <p>Lead Conversion</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    -35%
+                                                    </div>
+                                                    <p>Cost / Leads Reduction</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +25%
+                                                    </div>
+                                                    <p>Conversions Rate</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +41%
+                                                    </div>
+                                                    <p>ROAS (Return On Ad Spend)</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
                                     <img src="/img/portfolio/update/dm-mirai.png" alt="">
                                     <h4>Real Estate - Hajime</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
+                                </div>
+                                <div class="content__detail" style="background-color: #DDF0FF;">
+                                    <div class="detail__description">
+                                    Graha Mirai is a minimalist luxury housing in Cikarang City Center, managed by a leading property developer in Indonesia, namely PT. Hajime Indonesia Jaya. Logique has the opportunity to be part of Graha Mirai's success journey, and within 3 months Logique has succeeded in increasing website conversions that have occurred very significantly up to 30%
+                                    </div>
+                                    <div class="detail__goal" style="background-color: #a6cdff; color: #004940; color: #17335a;">
+                                        <h4>Goals</h4>
+                                        <p>Increase Leads</p>
+                                    </div>
+                                    <div class="detail__achievement" style="color: #17335a;">
+                                        <h4>Achievements</h4>
+                                        <div class="row">
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +30%
+                                                    </div>
+                                                    <p>Lead Conversion</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    -28%
+                                                    </div>
+                                                    <p>Cost / Leads Reduction</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +22%
+                                                    </div>
+                                                    <p>Conversions Rate</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +35%
+                                                    </div>
+                                                    <p>ROAS (Return On Ad Spend)</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
@@ -205,7 +299,77 @@
                                     <h4>E Commerce - Pilipili</h4>
                                     <p>SEO | Website Maintenance</p>
                                 </div>
+                                <div class="content__detail" style="background-color: #DDF0FF;">
+                                    <div class="detail__description">
+                                    Pilipili is an e-commerce brand that sells FJALLRAVEN KANKEN bags. Within 2 months Logique has successfully proven tangible results that have had a big impact on the running of the Pilipili business.
+                                    </div>
+                                    <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
+                                        <h4>Goals</h4>
+                                        <p>Increase website traffic with organic channels</p>
+                                    </div>
+                                    <div class="detail__achievement" style="color: #15588c;">
+                                        <h4>Achievements</h4>
+                                        <div class="row">
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +8.4%
+                                                    </div>
+                                                    <p>Number of Sessions</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    -7.01%
+                                                    </div>
+                                                    <p>Number of Pageviews</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +2.7x
+                                                    </div>
+                                                    <p>Visitors Stay Longer</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +1.9x
+                                                    </div>
+                                                    <p>Percentage of Bounce Rate</p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="">
+                <div class="container__" style="padding-top: 0;">
+                    <div class="row">
+                        <div class="col-md-offset-1 col-md-10">
+                            <p class="text-center">In every process of managing the Digital Marketing Campaign, <strong>LOGIQUE</strong> involves many experts and professionals with years of experience, ranging from Digital Marketing Expert, Graphic Designer, Web Developer, Server Engineer, App Developer, Business Analyst, and Quality Assurance as a form of <strong>LOGIQUE</strong>'s commitment which never compromises with the best results and achievements that <strong>LOGIQUE</strong>'s partners have come to expect.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="portfolio-update__link">
+                <div class="container__">
+                    <div class="row link--dm">
+                        <div class="col-sm-offset-2 col-xs-offset-5 col-md-6 col-sm-10 col-xs-7">
+                        Contact <strong>LOGIQUE</strong> now, we will make the best plans and strategies for your extraordinary business goals.
+                        </div>
+                        <div class=" col-lg-offset-0 col-sm-offset-2 col-xs-offset-5 col-md-4 col-sm-10 col-xs-7 text-right">
+                            <a href="/en/services/digital-marketing.php" class="btn btn--yellow"><span>Make a plan</span></a>
                         </div>
                     </div>
                 </div>

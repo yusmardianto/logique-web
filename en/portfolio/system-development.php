@@ -173,7 +173,7 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>System Development Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our IT system development portfolio.</p>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> is a top Web System developer in Indonesia that complies international standard development process, techniques quality and security. <strong>LOGIQUE</strong> has succeeded in developing and maintaining hundreds of IT Systems that lead the business of clients to higher levels.</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>

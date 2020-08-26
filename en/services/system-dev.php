@@ -237,7 +237,7 @@
                       <div id="fast" class="tab-pane fade in active">
                          <div class="row">
                             <div class="col-sm-6">
-                                <p>In the process of developing a website, we use flexible and fast agile development methods. Our development team can adapt to changes so that the system being developed remains high quality and in accordance with dynamic needs.</p>
+                                <p>In the process of developing a web-based system, we use flexible and fast agile development methods. Our development team can adapt to changes so that the system being developed remains high quality and in accordance with dynamic needs.</p>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
@@ -248,9 +248,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <p style="padding-bottom: 5px;">All web-based systems that we produce are developed with high quality and international standard safety that have been tested including our clients from the financial industry. Technically, we will perform a number of security tests before the system is delivered to the client which includes penetration testing to reduce the risk of cyber attacks such as SQL injection, path traversal, and x-site scripting.</p> 
-                                <a href="/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services
-</a>
-
+                                <a href="/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services</a>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
@@ -271,6 +269,7 @@
                        <div class="row">
                             <div class="col-sm-6">
                                 <p>We can help you build and design cloud-based server architectures both in Indonesia and abroad. We are an official partner of AWS and have experience in setting up and implementing cloud servers for AWS, GCP, and Alibaba. Especially in recent times, we have also succeeded in helping to perform many system and database migrations from on-premise servers to cloud servers.</p>
+                                 <a href="/en/services/devops.php" class="btn-yellow text-center">Cloud Sever DevOps</a>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
@@ -287,7 +286,7 @@
                         <div class="col-sm-6">
                             <div class="skema-content">
                                 <h3><span class="number">1.</span> Project Scheme</h3>
-                                <p>The website development process will run according to the agreed contract. This type is suitable for website development projects with clear needs. Usually we will recommend the Agile Development method in the process.</p>
+                                <p>The web-based system development process will run according to the agreed contract. This type is suitable for website development projects with clear needs. Usually we will recommend the Agile Development method in the process.</p>
                             </div>
                         </div> 
                         <div class="col-sm-6">
@@ -344,7 +343,7 @@
     <section class="content-section second-part whyus-section">
         <div class="container">
             <div class="sec-content-part">
-                <h2 class="text-center sub-section-title">Why should you choose ? <span class="logofont">LOGIQUE</span> ?</h2>
+                <h2 class="text-center sub-section-title">Why should you choose <span class="logofont">LOGIQUE</span> ?</h2>
                 <div class="page-content whyus-accordion">
                     <div class="panel-group" id="accordion">
                       <div class="panel panel-default">
@@ -418,11 +417,8 @@
                         </div>
                     </div> 
                     <div class="text-center unsupport-desc"> 
-                        If you entrust overall project management to <span class="logofont">LOGIQUE</span>, <span class="logofont">LOGIQUE</span> can help you be more successful in the project in a fast and flexible way.
-
-                         
-                    </div>
-                   
+                        If you entrust overall project management to <span class="logofont">LOGIQUE</span>, <span class="logofont">LOGIQUE</span> can help you be more successful in the project in a fast and flexible way.                         
+                    </div>                   
                 </div>
             </div>
              <div class="sec-content-part studycase">
@@ -454,8 +450,7 @@
                                     <div class="technology-studycase">
                                         <strong>Main technologies :</strong><br>
                                      HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP
-                                    </div>
-                                    
+                                    </div>                                    
                                 </div>
                                 <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/weeo-img.jpg);">
                                     <div class="company-studycase">
@@ -512,8 +507,7 @@
                                         <p>The development of this system takes 6 months. By bringing PHP platform with chosen frameworks, MySQL database, and hosting on Linux server on AWS cloud service, this system has proven to accommodate the business needs of incentive point program for company employees.</p>
 
                                         <p>To produce a system with high performance and stability, we developed an efficient approach to the application layer and database layer. Then on the server infrastructure side, we have implemented a modern server architecture and utilize the AWS autoscaling and loadbalancing features. So even though there are currently more than 10,000 active users spread across 3 sub-systems, system performance remains stable and maintained.</p>
-                                      </div>
-                                       
+                                      </div>                                       
                                     </div>
                                   </div>
                                 </div>
@@ -780,8 +774,7 @@
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Digital Map System Development.
-</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Digital Map System Development.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
@@ -799,8 +792,7 @@
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Digital Map System Development.
-</h3>
+                                        <h3>Digital Map System Development.</h3>
                                         <p>3 months, PHP Framework, MySQL, Google map API, Java Script</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
@@ -812,8 +804,7 @@
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Development of C2C Auction Systems.
-</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Development of C2C Auction Systems.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
@@ -900,8 +891,7 @@
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Job Vacancy Portal System.
-</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Job Vacancy Portal System.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>

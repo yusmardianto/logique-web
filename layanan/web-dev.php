@@ -711,6 +711,53 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
+	
+	<section class="content-article">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="title">White Paper tentang Pembuatan Web di Indonesia</p>
+                </div>
+            </div>
+            <div class="row">
+				<div class="col-md-12">
+                    <div class="carousel slide multi-item-carousel" id="theCarousel">
+                        <div class="carousel-inner">
+							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
+								<div class="img-container">
+									<img src="assets/img/img-webdev/strategic/5.png" class="img-responsive">
+									<a href="/white-paper-web-dev-1.php" target="_blank">
+										<p class="title">Download</p>
+									</a>
+								</div>
+							</div>  
+							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
+								<div class="img-container">
+									<img src="assets/img/img-webdev/strategic/6.png" class="img-responsive">
+									<a href="/white-paper-web-dev-2.php" target="_blank">
+										<p class="title">Download</p>
+									</a>
+								</div>
+							</div>  
+							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
+								<div class="img-container">
+									<img src="assets/img/img-webdev/strategic/7.png" class="img-responsive">
+									<a href="/white-paper-web-dev-3.php" target="_blank">
+										<p class="title">Download</p>
+									</a>
+								</div>
+							</div>  							
+						</div>
+                        
+                        <!--  Example item end -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+            </div>
+        </div>
+    </section>
 
     <section class="obstacle">
         <div class="container">

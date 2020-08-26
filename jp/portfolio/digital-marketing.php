@@ -157,11 +157,11 @@
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
-                                        itemprop="item"><span itemprop="name">&nbsp;制作・開発実績</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -171,8 +171,8 @@
                 <div class="container__ banner-detail__content">
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>Digital Marketing Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our digital marketing consulting portfolio.</p>
+                            <div class="title"><h1>デジタルマーケティングの実績</h1></div>
+                            <p class="title__description" style="margin-left: 0;">PT. <strong>LOGIQUE</strong>デジタルIndonesiaはクライアントのデジタルマーケティング実施を様々な形でご支援してきました。ランディングページの制作、コンテンツ制作代行、OwnedメディアのSEO対策、ネット広告の運用、SNS運用などを自動車、公共団体、E-Commerce、金融、不動産業界に多く行っています。お問い合わせいただければ個別に詳細をお伝えすることも可能ですのでお気軽にご連絡ください。</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
@@ -181,28 +181,166 @@
 
             <section id="portfolio_dm" class="portfolio-update__content">
                 <div class="container__">
-                    <h2 class="text-center">Digital Marketing</h2>
+                    <h2 class="text-center">インドネシアでのデジタルマーケティング事例</h2>
                     <div class="content__wrapper">
                         <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
                                     <img src="/img/portfolio/update/dm-bamboo.png" alt="">
-                                    <h4>Real Estate - Bamboo</h4>
-                                    <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                                    <h4>不動産開発販売 – Green Bamboo Terrace</h4>
+                                    <p>SEO | Web運用 | Google広告運用 | SNS広告</p>
+                                </div>
+                                <div class="content__detail" style="background-color: #EAFFFC;">
+                                    <div class="detail__description">
+                                    Green Bamboo Terraceが開発し販売しているBogor地区の不動産の販売をご支援するため、Webサイトを制作運用し、そこへ流入させる広告の出稿＆運用、SNSの運用と広告管理を行っています。販売ステージに併せ、またクライアントが実施する様々なプロモーションに併せてデジタルマーケティング施策を最適化して運用しています。
+                                    </div>
+                                    <div class="detail__goal" style="background-color: #b9fff5; color: #004940;">
+                                        <h4>Goals</h4>
+                                        <p>リードの獲得</p>
+                                    </div>
+                                    <div class="detail__achievement" style="color: #004940;">
+                                        <h4>Achievements</h4>
+                                        <div class="row">
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +46%
+                                                    </div>
+                                                    <p>Lead Conversion</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    -35%
+                                                    </div>
+                                                    <p>Cost / Leads Reduction</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +25%
+                                                    </div>
+                                                    <p>Conversions Rate</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +41%
+                                                    </div>
+                                                    <p>ROAS (Return On Ad Spend)</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
                                     <img src="/img/portfolio/update/dm-mirai.png" alt="">
-                                    <h4>Real Estate - Hajime</h4>
-                                    <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
+                                    <h4>不動産開発販売 – 一建設インドネシア</h4>
+                                    <p>SEO対策 | Web制作運用 | Google広告 | SNS広告</p>
+                                </div>
+                                <div class="content__detail" style="background-color: #DDF0FF;">
+                                    <div class="detail__description">
+                                    Graha Miraiは一建設インドネシアがチカランで開発した不動産開発プロジェクトです。既に多くのインドネシアの不動産開発プロジェクトのデジタルマーケティングを支援してきた実績を活かし大きなトラフィックを作り、多くのコンバージョンを得ることに成功しました。
+                                    </div>
+                                    <div class="detail__goal" style="background-color: #a6cdff; color: #004940; color: #17335a;">
+                                        <h4>Goals</h4>
+                                        <p>リードの獲得</p>
+                                    </div>
+                                    <div class="detail__achievement" style="color: #17335a;">
+                                        <h4>Achievements</h4>
+                                        <div class="row">
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +30%
+                                                    </div>
+                                                    <p>Lead Conversion</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    -28%
+                                                    </div>
+                                                    <p>Cost / Leads Reduction</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +22%
+                                                    </div>
+                                                    <p>Conversions Rate</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +35%
+                                                    </div>
+                                                    <p>ROAS (Return On Ad Spend)</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
-                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="">
+                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="" style="flex-grow: 1; object-position: top;">
                                     <h4>E Commerce - Pilipili</h4>
-                                    <p>SEO | Website Maintenance</p>
+                                    <p>SEO対策 | Web最適化</p>
+                                </div>
+                                <div class="content__detail" style="background-color: #DDF0FF;">
+                                    <div class="detail__description">
+                                    バッグなどを販売するアパレルECのPilipili にてオーガニックトラフィックを増やすことを目的としてご支援しました。２ヶ月目から目に見えた成果が出ました。オーガニックトラフィックを増やした後は、直帰率の低下、滞在時間の長期化、回遊率アップ、コンバージョンRateの向上など、設定した各課題に対して、全て成果を出すことに成功しました。
+                                    </div>
+                                    <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
+                                        <h4>Goals</h4>
+                                        <p>Increase website traffic with organic channels</p>
+                                    </div>
+                                    <div class="detail__achievement" style="color: #15588c;">
+                                        <h4>Achievements</h4>
+                                        <div class="row">
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +8.4%
+                                                    </div>
+                                                    <p>Number of Sessions</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    -7.01%
+                                                    </div>
+                                                    <p>Number of Pageviews</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +2.7x
+                                                    </div>
+                                                    <p>Visitors Stay Longer</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-xs-12">
+                                                <div class="achievement">
+                                                    <div class="achievement__number">
+                                                    +1.9x
+                                                    </div>
+                                                    <p>Percentage of Bounce Rate</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -210,7 +348,30 @@
                 </div>
             </section>
 
-            <div class="container__">
+            <section class="">
+                <div class="container__" style="padding-top: 0;">
+                    <div class="row">
+                        <div class="col-md-offset-1 col-md-10">
+                            <p class="text-center"><strong>LOGIQUE</strong>には、Webコンサルタント、デザイナー、プログラマー、サーバーエンジニア、アプリ開発者、SEOスペシャリスト、コンテンツライター、広告オプティマイザーなどデジタルマーケティングの運用に必要な各スペシャリストが揃っているので、最大の効果をあげるデジタルマーケティングをワンストップで提供可能です。お気軽にご相談ください。</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="portfolio-update__link">
+                <div class="container__">
+                    <div class="row link--dm">
+                        <div class="col-sm-offset-2 col-xs-offset-5 col-md-6 col-sm-10 col-xs-7">
+                        Contact <strong>LOGIQUE</strong> now, we will make the best plans and strategies for your extraordinary business goals.
+                        </div>
+                        <div class=" col-lg-offset-0 col-sm-offset-2 col-xs-offset-5 col-md-4 col-sm-10 col-xs-7 text-right">
+                            <a href="/jp/services/digital-marketing.php" class="btn btn--yellow"><span>Make a plan</span></a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- <div class="container__">
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
                         present to
@@ -222,7 +383,9 @@
                         Contact us for LOGIQUE's portfolio
                     </a>
                 </div>
-            </div>
+            </div> -->
+
+            <?php include './portfolio-links.php';?>
 
         </div>
 
