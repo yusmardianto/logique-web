@@ -1665,6 +1665,7 @@
       position: relative;
       bottom: 0;
       margin-top: 40px;
+      z-index: 1;
   }
   .content-article .article-indicators .active {
     background: rgb(0, 0, 0);
