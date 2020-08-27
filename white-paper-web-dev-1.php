@@ -10,50 +10,65 @@ $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
 if(isset($_POST['submitted']))
 {
-	$privacy    = $_POST['privacy'];
-	if($privacy){
-	$white_paper_type    = $_POST['white_paper_type'];
-    $typecompany            = $_POST['typecompany'];
-	$company_name            = $_POST['typecompany'].".".$_POST['company_name'];
-    $department_name        = $_POST['department_name'];
-    $url_social_media            = $_POST['url_social_media'];
-    $position        = $_POST['position'];
-	$email        = $_POST['email'];
-	$phone        = $_POST['phone'];
-	$verifikasi_code =  $_POST['verifikasi_code'];
-	$whitepaper_regdate = date('Y-m-d H:i:s');
-    //validasi data data kosong
-    if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
-        ?>
-            <script language="JavaScript">
-                alert('Data Harap Dilengkapi!');
-            </script>
-        <?php
-    }
-    else {
-	mysqli_select_db($mysqli,$customerDBName);
-	$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$whitepaper_regdate')");	
-	
-		if ($input) {
-		//Jika Sukses
-		?>
-			<script language="JavaScript">
-			alert('Submit White Paper Successfully');
-			</script>
-		<?php
-		}
-	}
-		if ($formproc->ProcessForm()) {
-				$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+		// print_r($verifyResponse); exit;
+		$responseData = json_decode($verifyResponse);
+		if ($responseData->success) {
+			
+			$privacy    = $_POST['privacy'];
+			if($privacy){
+			$white_paper_type    = $_POST['white_paper_type'];
+			$typecompany            = $_POST['typecompany'];
+			$company_name            = $_POST['typecompany'].".".$_POST['company_name'];
+			$department_name        = $_POST['department_name'];
+			$url_social_media            = $_POST['url_social_media'];
+			$position        = $_POST['position'];
+			$email        = $_POST['email'];
+			$phone        = $_POST['phone'];
+			$verifikasi_code =  $_POST['verifikasi_code'];
+			$whitepaper_regdate = date('Y-m-d H:i:s');
+			//validasi data data kosong
+			if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
+				?>
+					<script language="JavaScript">
+						alert('Data Harap Dilengkapi!');
+					</script>
+				<?php
 			}
-		
-	}else{
-	?>
-        <script language="JavaScript">
-        alert('Submit White Paper Failed');
-        </script>
-    <?php
-	}	
+			else {
+			mysqli_select_db($mysqli,$customerDBName);
+			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$whitepaper_regdate')");	
+			
+				if ($input) {
+				//Jika Sukses
+				?>
+					<script language="JavaScript">
+					alert('Submit White Paper Successfully');
+					</script>
+				<?php
+				}
+			}
+				if ($formproc->ProcessForm()) {
+						$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+					}
+				
+			}else{
+			?>
+				<script language="JavaScript">
+				alert('Submit White Paper Failed');
+				</script>
+			<?php
+			}
+			
+		} else {
+			$msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+		}
+	} else {
+		$msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+	}
 }
 
 $query = mysqli_query($mysqli, "SELECT RIGHT(al_white_papers.verifikasi_code,6) as kodeTerbesar FROM al_white_papers order by verifikasi_code DESC");
@@ -775,7 +790,7 @@ if($kodeBarang <> 0){
                                         <label for="name" class="c-label"> Dokumen yang dipilih</label>
                                         <div class="form-group">
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
-												<option value="Web Development Market Price 2020">Web Development Market Price 2020</option>
+												<option value="Cara Membuat Website yang Efektif untuk Bisnis Anda">Cara Membuat Website yang Efektif untuk Bisnis Anda</option>
 										   </select>
                                         </div>
                                     </div>
@@ -857,10 +872,15 @@ if($kodeBarang <> 0){
                                     
                                 </div>
 								</table>
+									<div class="col-sm-12" style="display:flex;justify-content:center; margin-bottom:1em">
+                                        <div class="g-recaptcha pull-right"
+                                            data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+                                        <div class="clearfix"></div><br>
+                                    </div>
                                     <div class="col-sm-4 col-sm-offset-4 paddingleft">
                                         <button type="submit" class="btn btn-block btn-submit"
                                             onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');"
-                                            >Submit</button>
+                                            >Kirim</button>
                                     </div>
                                 </form>
                             </div>
