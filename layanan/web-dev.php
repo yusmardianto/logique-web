@@ -722,7 +722,7 @@ if(isset($_POST['submitted']))
             <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
                             <p class="gallery-title">Cara Membuat Website yang Efektif untuk Bisnis Anda</p>
                             <p class="gallery-content">Download</p>
@@ -731,7 +731,7 @@ if(isset($_POST['submitted']))
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
                             <p class="gallery-title">Membangun Website 
 E-Commerce yang Menarik</p>
@@ -741,7 +741,7 @@ E-Commerce yang Menarik</p>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
                             <p class="gallery-title">Peran dan Pentingnya
 Pengujian Penetrasi dalam
