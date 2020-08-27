@@ -716,7 +716,7 @@ We have further posted many of our results here for reference.
         </div>
     </section>
 
-    <section class="gallery content-article disp-none">
+    <section class="gallery content-article">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -726,24 +726,27 @@ We have further posted many of our results here for reference.
             <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
+                        <p class="gallery-title">How to Create an Effective Website for Your Business</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
+                        <p class="gallery-title">Build an Appealing E-Commerce Website</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
+                        <p class="gallery-title">The Role and Importance of Penetration Testing in Company Business Processes</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>

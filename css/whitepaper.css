@@ -1,0 +1,128 @@
+@font-face {
+    font-family: "M Plus 1p";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-Regular.ttf");
+  }
+  @font-face {
+    font-family: "M Plus 1p Medium";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-Medium.ttf");
+  }
+  @font-face {
+    font-family: "M Plus 1p Bold";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-Bold.ttf");
+  }
+  @font-face {
+    font-family: "M Plus 1p Extra Bold";
+    src: url("../fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway/Raleway-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway/Raleway-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Medium";
+    src: url("../fonts/Raleway/Raleway-Medium.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Semi Bold";
+    src: url("../fonts/Raleway/Raleway-SemiBold.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Bold";
+    src: url("../fonts/Raleway/Raleway-Bold.ttf");
+  }
+  @font-face {
+    font-family: "Raleway Extra Bold";
+    src: url("../fonts/Raleway/Raleway-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans";
+    src: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans Semi Bold";
+    src: url("../fonts/Open_Sans/OpenSans-SemiBold.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans Bold";
+    src: url("../fonts/Open_Sans/OpenSans-Bold.ttf");
+  }
+  @font-face {
+    font-family: "Open Sans Extra Bold";
+    src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf");
+  }
+  @font-face {
+    font-family: "PingfangSC";
+    src: url("../fonts/PingFangSC/PingFangRegular.ttf");
+  }
+  @font-face {
+    font-family: "PingfangSC Bold";
+    src: url("../fonts/PingFangSC/PingFangBold.ttf");
+  }
+  @font-face {
+    font-family: "PingfangSC Medium";
+    src: url("../fonts/PingFangSC/PingFangMedium.ttf");
+  }
+
+  * {
+    font-family: "M Plus 1p", Lato, sans-serif ;
+  }
+  html,
+  body {
+    background-color: #fff;
+    overflow-x: hidden;
+  }
+
+  .form-title {
+      font-family: "M Plus 1p Bold";
+      font-size: 22px;
+  }
+
+  .form-subtitle {
+      font-family: "M Plus 1p";
+      margin-bottom: 10px;
+  }
+
+  .c-label {
+      font-size: 16px;
+      margin-bottom: 8px;
+  }
+  #typecompany {
+      padding: 6px 8px;
+  }
+  .pr-style {
+        font-family: "M Plus 1p Bold";
+        font-size: 16px;
+  }
+  .pr-style a {
+    font-family: "M Plus 1p Bold";
+    font-size: 16px;
+  }
+  .btn-submit {
+    background: #ffca13;
+    color: #000 !important;
+    transition: all 0.5s;
+    border: 2px solid #ffca13;
+    white-space: normal;
+    margin: 10px auto;
+    padding: 5px 25px;
+    text-align: center;
+    border-radius: 5px;
+    height: 45px;
+    font-size: 16px;
+    font-family: "M Plus 1p", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0px;
+  }
+  .btn-submit:hover{
+    background: #fff;
+    text-decoration: none;
+    color: #000;
+  }
+  .company-section {
+      padding-left: 0;
+  }

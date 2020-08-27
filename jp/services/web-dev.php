@@ -673,7 +673,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
         </div>
     </section>
-    <section class="content-article gallery disp-none">
+    <section class="content-article gallery">
         <div class="container">
         <div class="row">
                 <div class="col-md-12">
@@ -683,27 +683,27 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
         <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー１</p>
+                            <p class="gallery-title">あなたのビジネスに効果的なウェブサイトを作成する方法</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー２</p>
+                            <p class="gallery-title">魅力的なeコマースWebサイトを構築する</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー３</p>
+                            <p class="gallery-title">会社のビジネスプロセスにおける侵入テストの役割と重要性</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
