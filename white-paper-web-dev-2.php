@@ -749,7 +749,7 @@ if($kodeBarang <> 0){
                 <div class="container__">
                     <div class="clearfix">
 					<form class="contactform" id="moresco-contactform" role="form" name='myForm'
-                                    onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>'
+                                    onsubmit='return validasi_form(this)' action='<?php echo $formproc->GetSelfScript(); ?>'
                                     method='post' accept-charset='UTF-8'>
                         <div class="contact-us-cont">
 						
@@ -902,6 +902,32 @@ if($kodeBarang <> 0){
                 }
             });
         });
+		
+		function validasi_form(form){
+		  var  pola_url=/^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/|www\.)[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$/;
+		   var pola_email=/^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,4}$/;
+		   var pola_tel=/^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im;
+		   
+		   if (!pola_url.test(form.url_social_media.value)){
+			  alert ('Format Penulisan URL Salah');
+			  form.url_social_media.focus();
+			  return false;
+		   } 
+		   
+		  if (!pola_email.test(form.email.value)){
+			  alert ('Format Penulisan Email Salah');
+			  form.email.focus();
+			  return false;
+		   } 
+		   
+		    if (!pola_tel.test(form.phone.value)){
+			  alert ('Format Penulisan No.Telpon Salah');
+			  form.phone.focus();
+			  return false;
+		   } 
+		   
+		return (true);
+		}
         </script>
     </div>
 </body>
