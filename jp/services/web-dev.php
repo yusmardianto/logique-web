@@ -685,7 +685,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     <div class="img-container">
                         <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー１</p>
+                            <p class="gallery-title">あなたのビジネスに効果的なウェブサイトを作成する方法</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
@@ -694,7 +694,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     <div class="img-container">
                         <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー２</p>
+                            <p class="gallery-title">魅力的なeコマースWebサイトを構築する</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
@@ -703,7 +703,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     <div class="img-container">
                         <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー３</p>
+                            <p class="gallery-title">会社のビジネスプロセスにおける侵入テストの役割と重要性</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>

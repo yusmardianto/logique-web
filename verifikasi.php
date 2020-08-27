@@ -735,7 +735,6 @@ if($kodeBarang == 0)
 	}else if($type == 3){
 		$filename  = "white-paper-security.pdf";
 	}
-		$jasper_path     = '/home/dev/public_html/static/logique-web/whitepaper/';
 		$back_dir    ="whitepaper/";
 		$file = $back_dir.$filename;
 		 

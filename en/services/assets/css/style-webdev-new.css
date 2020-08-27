@@ -1796,7 +1796,7 @@
 }
 .gallery .gallery-container .gallery-title {
     color: rgb(0, 0, 0);
-    font-size: 24px;
+    font-size: 18px;
     font-family: "PingfangSC Medium", sans-serif;
     font-weight: 600;
     text-align: center;
@@ -1805,7 +1805,7 @@
 }
 .gallery .gallery-container .gallery-content {
     color: rgb(1, 77, 255);
-    font-size: 18px;
+    font-size: 16px;
     font-family: "PingfangSC Medium", sans-serif;
     font-weight: normal;
     text-align: center;
@@ -1872,6 +1872,9 @@
 
 
 /* New Responsive Setting  */
+.disp-none {
+  display: none;
+}
 @media (min-width: 1025px) and (max-width: 1280px) {
   section {
     padding-left: 100px;
