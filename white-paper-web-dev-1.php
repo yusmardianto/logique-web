@@ -755,9 +755,13 @@ if($kodeBarang <> 0){
 							
                             <div class="" style="margin-top: 3%;">
 								 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <b>Unduh Formulir</b><br/>
-										<p>
-										Kirimkan formulir di bawah ini untuk mengunduh whitepaper kami</p>
+                                    <p class="form-title">
+                                            <b>Unduh Formulir</b>
+                                        </p>
+										<p class="form-subtitle">
+                                            <!-- Submit the form below to download our whitepaper -->
+                                            Harap isi formulir dibawah ini untuk mengunduh whitepaper kami
+                                        </p>
                                     </div>
 									
                                 <form class="contactform" id="moresco-contactform" role="form" name='myForm'
@@ -768,7 +772,7 @@ if($kodeBarang <> 0){
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
                                     <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="name" class="c-label">Nama Dokumen</label>
+                                        <label for="name" class="c-label"> Dokumen yang dipilih</label>
                                         <div class="form-group">
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
 												<option value="Web Development Market Price 2020">Web Development Market Price 2020</option>

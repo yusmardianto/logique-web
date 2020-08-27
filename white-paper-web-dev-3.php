@@ -775,7 +775,7 @@ if($kodeBarang <> 0){
                             <div class="" style="margin-top: 3%;">
 								 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <p class="form-title">
-                                            <b>Download Form</b>
+                                            <b>Unduh Formulir</b>
                                         </p>
 										<p class="form-subtitle">
                                             <!-- Submit the form below to download our whitepaper -->
