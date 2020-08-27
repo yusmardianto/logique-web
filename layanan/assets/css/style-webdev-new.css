@@ -1808,7 +1808,8 @@
     margin-top: 23px;
 }
 .gallery .gallery-container .gallery-content {
-    color: rgb(1, 77, 255);
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
     font-size: 16px;
     font-family: "PingfangSC Medium", sans-serif;
     font-weight: normal;
