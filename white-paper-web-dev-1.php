@@ -14,11 +14,9 @@ if(isset($_POST['submitted']))
 		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
 		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
 		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-		// print_r($verifyResponse); exit;
+		
 		$responseData = json_decode($verifyResponse);
-		if ($responseData->success) {
-			
-			$privacy    = $_POST['privacy'];
+		$privacy    = $_POST['privacy'];
 			if($privacy){
 			$white_paper_type    = $_POST['white_paper_type'];
 			$typecompany            = $_POST['typecompany'];
@@ -62,11 +60,12 @@ if(isset($_POST['submitted']))
 				</script>
 			<?php
 			}
-			
-		} else {
-			$msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-		}
 	} else {
+		?>
+			<script language="JavaScript">
+			alert('Please click the reCAPTCHA box.');
+			</script>
+		<?php
 		$msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
 	}
 }
