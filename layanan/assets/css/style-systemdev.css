@@ -1,3 +1,15 @@
+@font-face {
+    font-family: "Novocento Sans Wide";
+    src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Novocento Sans Wide Medium";
+    src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
 body{
     font-size: 16px;
 }
@@ -35,7 +47,7 @@ p:last-of-type{
     margin:0 auto;
 }
 .logofont{
-    font-family: Novecentosanswide-medium;
+    font-family: 'Novocento Sans Wide';
     display: inline !important;
 }
 .logique-nav{

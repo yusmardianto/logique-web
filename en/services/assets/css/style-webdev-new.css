@@ -1606,9 +1606,9 @@
     padding-top: 5px;
 }
 .content-article .title {
-    color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
     font-size: 24px;
-    font-family:"M Plus 1p Mediun", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     font-weight: 500;
     text-align: center;
     letter-spacing: 0px;
@@ -1679,6 +1679,7 @@
       position: relative;
       bottom: 0;
       margin-top: 40px;
+      z-index: 1;
   }
   .content-article .article-indicators .active {
     background: rgb(0, 0, 0);
@@ -1788,10 +1789,10 @@
     background: none;
     padding: 0;
     margin-bottom: 30px;
-    display: none;
+    /* display: none; */
 }
 .gallery .gallery-container {
-    display: none;
+    /* display: none; */
 }
 .gallery .gallery-container .gallery-title {
     color: rgb(0, 0, 0);
@@ -1805,12 +1806,13 @@
 .gallery .gallery-container .gallery-content {
     color: rgb(1, 77, 255);
     font-size: 18px;
-    font-family: "PingfangSC", sans-serif;
+    font-family: "PingfangSC Medium", sans-serif;
     font-weight: normal;
     text-align: center;
     letter-spacing: 0px;
     line-height: 26px;
-    margin-top: 7px;
+    margin-top: 8px;
+    margin-bottom: 30px;
 }
 .gallery .gallery-container img {
     width: 100%;
@@ -1870,6 +1872,9 @@
 
 
 /* New Responsive Setting  */
+.disp-none {
+  display: none;
+}
 @media (min-width: 1025px) and (max-width: 1280px) {
   section {
     padding-left: 100px;

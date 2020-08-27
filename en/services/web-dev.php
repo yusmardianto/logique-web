@@ -281,7 +281,7 @@ We aim to create the best possible website within the predefined scope regardles
 
 If you are still uncertain about which service menu fits your needs, please feel free to contact us. In the case that your requirements do not currently apply to any of our plans, we will provide a flexible estimation for you.     
                     </p>
-                    <a href="/services/webdev-price-range.php" target="_blank">
+                    <a href="./webdev-price-range.php" target="_blank">
                         <div class="flow-button">
                         See Web Production Service Plans
                         <img src="assets/img/img-webdev/arrow.png" alt="">
@@ -483,19 +483,26 @@ We have further posted many of our results here for reference.
                 </div>
             </div>
             <div class="row portofolio-section">
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                    <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title text-center">AIA</p>
+               <!-- <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong"> -->
+               <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <p class="portofolio-title text-center">AIA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                    <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="http://bekalhidup.com/" target="_blank">
+                        <img src="assets/img/img-webdev/panin.png" alt="">
+                        <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                        <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+                    </a>
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-                    <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title text-center">JBA</p>
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://jba.co.id/" target="_blank">
+                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                        <p class="portofolio-title text-center">JBA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
@@ -575,12 +582,12 @@ We have further posted many of our results here for reference.
             <div class="row">
                 <div class="col-md-12">
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/services/devops.php">Cloud Server Operation Management Service</a>
-                        <a class="link-yellow-white" href="/services/penetration-test.php">Web Security Assessment/Vulnerability Inspection Service</a>
+                        <a class="link-yellow-white" href="./devops.php">Cloud Server Operation Management Service</a>
+                        <a class="link-yellow-white" href="./penetration-test.php">Web Security Assessment/Vulnerability Inspection Service</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/services/web-dev.php">Websystem Development Service</a>
-                        <a class="link-yellow-white" href="/services/pembuatan-aplikasi-mobile">Mobile Application Development Service</a>
+                        <a class="link-yellow-white" href="./web-dev.php">Websystem Development Service</a>
+                        <a class="link-yellow-white" href="./pembuatan-aplikasi-mobile">Mobile Application Development Service</a>
                     </div>
                 </div>
             </div>
@@ -595,7 +602,7 @@ We have further posted many of our results here for reference.
                 </div>
             </div>
             <div class="row">
-<div class="col-md-12">
+                <div class="col-md-12">
                     <div class="carousel slide multi-item-carousel" id="theCarousel">
                         <div class="carousel-inner">
                              
@@ -705,6 +712,57 @@ We have further posted many of our results here for reference.
                 </div>
             </div>
                 
+            </div>
+        </div>
+    </section>
+
+    <section class="gallery content-article disp-none">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="title">White Paper About Web Development in Indonesia</p>
+                </div>
+            </div>
+            <div class="row gallery-container">
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-1.php" target="_blank">
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-2.php" target="_blank">
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-3.php" target="_blank">
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <!-- <div class="col-md-4 col-lg-4 col-sm-4">
+                    <img src="assets/img/img-webdev/gallery1.png" alt="">
+                    <p class="gallery-title">ホワイトペーパー１</p>
+                    <p class="gallery-content">ダウンロード</p>
+                </div>
+                <div class="col-md-4 col-lg-4 col-sm-4">
+                    <img src="assets/img/img-webdev/gallery2.png" alt="">
+                    <p class="gallery-title">ホワイトペーパー２</p>
+                    <p class="gallery-content">ダウンロード</p>
+                </div>
+                <div class="col-md-4 col-lg-4 col-sm-4">
+                    <img src="assets/img/img-webdev/gallery3.png" alt="">
+                    <p class="gallery-title">ホワイトペーパー３</p>
+                    <p class="gallery-content">ダウンロード</p>
+                </div> -->
             </div>
         </div>
     </section>
@@ -991,7 +1049,7 @@ We have further posted many of our results here for reference.
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <a href="/hubungi-kami.php">
+                    <a href="../contact.php">
                         <div class="button-container">
                             <p>
                             Please contact LOGIQUE about web production operation in Indonesia
@@ -1004,28 +1062,6 @@ We have further posted many of our results here for reference.
     </section>
     <section class="gallery">
         <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="title">インドネシアのWeb制作に関するホワイトペーパー</p>
-                </div>
-            </div>
-            <div class="row gallery-container">
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery1.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー１</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery2.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー２</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery3.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー３</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-            </div>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
