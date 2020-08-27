@@ -712,7 +712,7 @@ if(isset($_POST['submitted']))
         </div>
     </section>
 
-    <section class="gallery content-article disp-none">
+    <section class="gallery content-article">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -724,6 +724,7 @@ if(isset($_POST['submitted']))
                     <div class="img-container">
                         <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
+                            <p class="gallery-title">Cara Membuat Website yang Efektif untuk Bisnis Anda</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
@@ -732,6 +733,8 @@ if(isset($_POST['submitted']))
                     <div class="img-container">
                         <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
+                            <p class="gallery-title">Membangun Website 
+E-Commerce yang Menarik</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
@@ -740,6 +743,9 @@ if(isset($_POST['submitted']))
                     <div class="img-container">
                         <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
+                            <p class="gallery-title">Peran dan Pentingnya
+Pengujian Penetrasi dalam
+Proses Bisnis Perusahaan</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
