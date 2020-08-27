@@ -712,7 +712,7 @@ if(isset($_POST['submitted']))
         </div>
     </section>
 
-    <section class="gallery content-article">
+    <section class="gallery content-article disp-none">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">

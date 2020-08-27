@@ -13,7 +13,6 @@ PARTICULAR PURPOSE.
 @copyright html-form-guide.com 2010
 */
 require $_SERVER['DOCUMENT_ROOT'] . '/PHPMailerAutoload.php';
-require './conf.php';
 
 
 /*
@@ -167,7 +166,6 @@ class Fgwhitepaperform
                 'header' => 'Request of Downloading a white-paper',
             ),
         );
-		//$jasper_path     = 'C:/xampp1/htdocs/logique-web/whitepaper/';
         foreach ($status as $key => $data) {
             $this->mailer = new PHPMailer();
             $this->mailer->CharSet = 'utf-8';
@@ -210,7 +208,6 @@ class Fgwhitepaperform
             $this->mailer->SetFrom($this->fromEmail, $this->mailer->FromName);
 
             $this->mailer->Subject = $data['subject'];
-			//$this->mailer->addAttachment($jasper_path . 'white-paper-web-dev-1.pdf');
             $message = $this->ComposeFormtoEmail($data['header']);
 
             $textMsg = trim(strip_tags(preg_replace('/<(head|title|style|script)[^>]*>.*?<\/\\1>/s','',$message)));
@@ -299,7 +296,7 @@ class Fgwhitepaperform
 		$white_paper_type = $_POST['white_paper_type'];
 		$type_dokumen = $_POST['type_dokumen'];
 		$code = $_POST['verifikasi_code'];
-		$base_url = "http://logique-web.static.logique.co.id/";
+		$base_url = $_POST['base_url'];
         $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>".$white_paper_type." <a href='".$base_url."verifikasi.php?code=".$code."&type=".$type_dokumen."'>Download</a></div>\n";
 
         return $ret_str;
