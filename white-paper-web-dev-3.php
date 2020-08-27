@@ -721,7 +721,7 @@ if($kodeBarang <> 0){
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="#">
+                            <a href="hubungi-kami.php">
                                 <div class="img-contact"></div>
                                 Hubungi Kami
                             </a>
@@ -773,9 +773,9 @@ if($kodeBarang <> 0){
 							
                             <div class="" style="margin-top: 3%;">
 								 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <b>Download Form</b><br/>
+                                        <b>Unduh Formulir</b><br/>
 										<p>
-										Submit the form below to download our whitepaper</p>
+										Kirimkan formulir di bawah ini untuk mengunduh whitepaper kami</p>
                                     </div>
 									<br/><br/><br/>
 									
@@ -787,7 +787,7 @@ if($kodeBarang <> 0){
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
                                     <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="name" class="c-label">Selected Document</label>
+                                        <label for="name" class="c-label">Dokumen yang Dipilih</label>
                                         <div class="form-group">
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
 												<option value="Web Development Security 2020">Web Development Security 2020</option>
@@ -795,7 +795,7 @@ if($kodeBarang <> 0){
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10" id="anchorForm">
-                                        <label for="company_name" class="c-label">Company Name</label>
+                                        <label for="company_name" class="c-label">Nama Perusahaan</label>
                                     </div>
                                     <div class="col-md-1 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <label for="name" class="c-label"></label>
@@ -810,14 +810,14 @@ if($kodeBarang <> 0){
                                         <label for="company_name" class="c-label"></label>
                                         <div class="form-group">
                                             <input type="text" class="form-control" id="company_name" name="company_name" aria-label="company_name"
-                                                value='<?php echo $formproc->SafeDisplay('company_name') ?>' placeholder="Company Name" required>
+                                                value='<?php echo $formproc->SafeDisplay('company_name') ?>' placeholder="Nama Perusahaan" required>
                                         </div>
                                     </div>
 									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="department_name" class="c-label">Department Name</label>
+                                        <label for="department_name" class="c-label">Nama Departemen</label>
                                         <div class="form-group">
                                             <input type="text" class="form-control" id="department_name" name="department_name" aria-label="department_name"
-                                                value='<?php echo $formproc->SafeDisplay('department_name') ?>' placeholder="Department Name" required>
+                                                value='<?php echo $formproc->SafeDisplay('department_name') ?>' placeholder="Nama Departemen" required>
                                         </div>
                                     </div>
 									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
@@ -828,10 +828,10 @@ if($kodeBarang <> 0){
                                         </div>
                                     </div>
 									 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="position" class="c-label">Your Position</label>
+                                        <label for="position" class="c-label">Posisi Anda</label>
                                         <div class="form-group">
                                            <select  name="position" id="position" class="form-control">
-												<option>Select Position</option>
+												<option>Pilih Pisisi</option>
 												<option value="BOD">BOD</option>
 												<option value="Manager">Manager</option>
 												<option value="Staff">Staff</option>
@@ -840,14 +840,15 @@ if($kodeBarang <> 0){
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="email" class="c-label">Email Address</label>
+                                        <label for="email" class="c-label">Alamat Email </label>
                                         <div class="form-group">
                                             <input type="email" class="form-control" id="email" name="email" aria-label="Email"
-                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email Address" required>
+                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email" required>
 												<input class="form-control" type="hidden" name="message" aria-label="Message"
-                                                placeholder="PESAN" value="Web Development 3 2020"/>
+                                                placeholder="PESAN" value="Web Development Scurity 2020"/>
 												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
 												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="3"/>
+												<input class="form-control" type="hidden" name="base_url" id="base_url" value="<?php echo $base_url ?>"/>
                                         </div>
                                     </div>
 									
@@ -863,7 +864,7 @@ if($kodeBarang <> 0){
                                         <div class="form-group">
 											 <label>
                                                 <input type="checkbox" name="privacy" value="1" required>
-                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>Privacy Policy
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span><a href="<?php echo $base_url ?>en/privacy-policy.php">Privacy Policy</a>
                                             </label>
                                         </div>
                                     </div>
@@ -874,7 +875,7 @@ if($kodeBarang <> 0){
                                     <div class="col-sm-4 col-sm-offset-4 paddingleft">
                                         <button type="submit" class="btn btn-block"
                                             onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');"
-                                            style="background: #f4ce58;">Submit</button>
+                                            style="background: #f4ce58;">Kirim</button>
                                     </div>
                                 </form>
                             </div>
