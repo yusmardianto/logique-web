@@ -43,25 +43,6 @@ if(isset($_POST['submitted']))
 		<?php
 		}
 	}
-		/*$filename  = "white-paper-web-dev-1.pdf";
-		$jasper_path     = 'C:/xampp1/htdocs/logique-web/whitepaper/';
-		$back_dir    ="whitepaper/";
-		$file = $back_dir.$filename;
-		 
-			if (file_exists($file)) {
-				header('Content-Description: File Transfer');
-				header('Content-Type: application/octet-stream');
-				header('Content-Disposition: attachment; filename='.basename($file));
-				header('Content-Transfer-Encoding: binary');
-				header('Expires: 0');
-				header('Cache-Control: private');
-				header('Pragma: private');
-				header('Content-Length: ' . filesize($file));
-				ob_clean();
-				flush();
-				readfile($file);
-			}
-			*/	
 		if ($formproc->ProcessForm()) {
 				$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
 			}
@@ -722,7 +703,7 @@ if($kodeBarang <> 0){
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="#">
+                            <a href="hubungi-kami.php">
                                 <div class="img-contact"></div>
                                 Hubungi Kami
                             </a>
@@ -774,13 +755,9 @@ if($kodeBarang <> 0){
 							
                             <div class="" style="margin-top: 3%;">
 								 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <p class="form-title">
-                                            <b>Download Form</b>
-                                        </p>
-										<p class="form-subtitle">
-                                            <!-- Submit the form below to download our whitepaper -->
-                                            Harap isi formulir dibawah ini untuk mengunduh whitepaper kami
-                                        </p>
+                                        <b>Unduh Formulir</b><br/>
+										<p>
+										Kirimkan formulir di bawah ini untuk mengunduh whitepaper kami</p>
                                     </div>
 									
                                 <form class="contactform" id="moresco-contactform" role="form" name='myForm'
@@ -794,7 +771,7 @@ if($kodeBarang <> 0){
                                         <label for="name" class="c-label">Nama Dokumen</label>
                                         <div class="form-group">
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
-												<option value="Web Development Market 1 Price 2020">Web Development 1 Market Price 2020</option>
+												<option value="Web Development Market Price 2020">Web Development Market Price 2020</option>
 										   </select>
                                         </div>
                                     </div>
@@ -852,6 +829,7 @@ if($kodeBarang <> 0){
                                                 placeholder="Pesan" value="Web Development Market Price 2020"/>
 												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
 												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="1"/>
+												<input class="form-control" type="hidden" name="base_url" id="base_url" value="<?php echo $base_url ?>"/>
                                         </div>
                                     </div>
 									

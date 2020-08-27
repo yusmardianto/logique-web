@@ -722,7 +722,7 @@ if($kodeBarang <> 0){
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="#">
+                            <a href="hubungi-kami.php">
                                 <div class="img-contact"></div>
                                 Hubungi Kami
                             </a>
@@ -791,10 +791,10 @@ if($kodeBarang <> 0){
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
                                     <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="name" class="c-label">Nama Dokumen</label>
+                                        <label for="name" class="c-label">Dokumen yang Dipilih</label>
                                         <div class="form-group">
-                                        <select name="white_paper_type" id="white_paper_type" class="form-control">
-												<option value="Web Development 3 2020">Web Development 3 2020</option>
+                                           <select name="white_paper_type" id="white_paper_type" class="form-control">
+												<option value="Web Development Security 2020">Web Development Security 2020</option>
 										   </select>
                                         </div>
                                     </div>
@@ -844,14 +844,15 @@ if($kodeBarang <> 0){
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="email" class="c-label">Alamat Email</label>
+                                        <label for="email" class="c-label">Alamat Email </label>
                                         <div class="form-group">
                                             <input type="email" class="form-control" id="email" name="email" aria-label="Email"
-                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Alamat Email" required>
+                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email" required>
 												<input class="form-control" type="hidden" name="message" aria-label="Message"
-                                                placeholder="Pesan" value="Web Development Market Price 2020"/>
+                                                placeholder="PESAN" value="Web Development Scurity 2020"/>
 												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
-												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="1"/>
+												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="3"/>
+												<input class="form-control" type="hidden" name="base_url" id="base_url" value="<?php echo $base_url ?>"/>
                                         </div>
                                     </div>
 									

@@ -427,7 +427,7 @@
             </div>
           </div>
 
-          <div class="flex__row case-study__slide">
+          <div class="flex__row">
             <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
               <img src="/img/case-study-3.png" class="img-responsive" alt="">
               <a href="/case-study/opuspark/">
@@ -452,49 +452,13 @@
                 </div>
               </a>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+            <div class="col-xs-offset-0 col-sm-offset-3 col-md-offset-0 col-md-4 col-sm-6 col-xs-12 row__item --sm">
               <img src="/img/case-study-5.png" class="img-responsive" alt="">
               <a href="/case-study/vip-plaza-progressive-web-app/">
                 <div class="item__hover">
                   <img src="/img/top/i-vipplaza-update.png" alt="">
                   <div>
                     <h4>VIP Plaza</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
-              <img src="/img/case-study-5.png" class="img-responsive" alt="">
-              <a href="/case-study/klikhoreca/">
-                <div class="item__hover">
-                  <img src="/img/top/i-vipplaza-update.png" alt="">
-                  <div>
-                    <h4>Klikhoreca</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
-              <img src="/img/case-study-5.png" class="img-responsive" alt="">
-              <a href="/case-study/indonesea/">
-                <div class="item__hover">
-                  <img src="/img/top/i-vipplaza-update.png" alt="">
-                  <div>
-                    <h4>Indonesea</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
-              <img src="/img/case-study-5.png" class="img-responsive" alt="">
-              <a href="/case-study/pan-pacific/">
-                <div class="item__hover">
-                  <img src="/img/top/i-vipplaza-update.png" alt="">
-                  <div>
-                    <h4>Pan Pacific</h4>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </div>
                 </div>
@@ -534,15 +498,17 @@
   <?php include 'footer.php';?>
 
   <script>
-  $('.case-study__slide').slick({
+  $('.product__slide').slick({
     infinite: true,
     slidesToShow: 3,
     slidesToScroll: 1,
+    // adaptiveHeight: true,
     responsive: [{
         breakpoint: 1100,
         settings: {
           slidesToShow: 2,
-          slidesToScroll: 1
+          slidesToScroll: 1,
+          infinite: true,
         }
       },
       {

@@ -722,7 +722,7 @@ if($kodeBarang <> 0){
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="#">
+                            <a href="hubungi-kami.php">
                                 <div class="img-contact"></div>
                                 Hubungi Kami
                             </a>
@@ -851,7 +851,8 @@ if($kodeBarang <> 0){
 												<input class="form-control" type="hidden" name="message" aria-label="Message"
                                                 placeholder="Pesan" value="Web Development Market Price 2020"/>
 												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
-												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="1"/>
+												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="2"/>
+												<input class="form-control" type="hidden" name="base_url" id="base_url" value="<?php echo $base_url ?>"/>
                                         </div>
                                     </div>
 									

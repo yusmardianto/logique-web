@@ -198,6 +198,9 @@ if(isset($_POST['submitted']))
                             </p>
 
                             <p style="color: #ffca00"><strong>LOGIQUE disertifikasi sebagai mitra AWS di Indonesia</strong></p>
+                             <div class="badge-container text-center">
+                                <img src="assets/img/img-devops//aws-badge.svg" alt="AWS badge">
+                            </div>
                         </div>
                     </div>
                 </div>
