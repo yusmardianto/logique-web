@@ -294,10 +294,14 @@ class Fgwhitepaperform
     {
         $ret_str='';
 		$white_paper_type = $_POST['white_paper_type'];
-		$type_dokumen = $_POST['type_dokumen'];
-		$code = $_POST['verifikasi_code'];
+		$type_dokumen_dev = $_POST['type_dokumen'];
+		$code_dev = $_POST['verifikasi_code'];
+		$codetext = "kodenya".$code_dev."dirahasiakan";  
+		$code = base64_encode($codetext); 
+		$typetext = "type".$type_dokumen_dev."disembunyikan";  
+		$type_dokumen = base64_encode($typetext); 
 		$base_url = $_POST['base_url'];
-        $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>".$white_paper_type." <a href='".$base_url."verifikasi.php?code=".$code."&type=".$type_dokumen."'>Download</a></div>\n";
+        $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>".$white_paper_type." <a href='".$base_url."download.php?code=".$code."&type=".$type_dokumen."'>Download</a></div>\n";
 
         return $ret_str;
     }
