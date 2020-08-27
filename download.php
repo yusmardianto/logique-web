@@ -4,8 +4,18 @@
 
 require 'conf.php';
 
-$code 	= $mysqli->real_escape_string($_GET['code']);
-$type 	= $mysqli->real_escape_string($_GET['type']);
+$kode_dev 	= $mysqli->real_escape_string($_GET['code']);
+$deskode = base64_decode($kode_dev);
+$code = preg_replace("/[^0-9]/", "", $deskode);
+
+$type_dev 	= $mysqli->real_escape_string($_GET['type']);
+$destype = base64_decode($type_dev);
+$type = preg_replace("/[^0-9]/", "", $destype);
+
+$query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar FROM al_white_papers a
+		WHERE a.verifikasi_code = '{$code}' AND DATE_ADD(NOW(), INTERVAL -24 HOUR) < a.whitepaper_regdate");
+$data = mysqli_fetch_array($query);
+$kodeBarang = $data['kodeTerbesar']; 
 
 $query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar FROM al_white_papers a
 		WHERE a.verifikasi_code = '{$code}' AND DATE_ADD(NOW(), INTERVAL -24 HOUR) < a.whitepaper_regdate");
