@@ -452,6 +452,9 @@ section h2{
     width: 48px; 
     margin-bottom: 20px;
 }
+.more{
+            display: none;
+         }
 .showmore .success-item.sc-seeall .other-success-item img{
     height: 20px;
     margin-top: 50%;
