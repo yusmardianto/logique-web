@@ -1505,15 +1505,15 @@
     font-size: 18px;
 }
 .tahap-pemesanan-2.first-row .card2 {
-  min-height: 770px;
+  min-height: 640px;
   max-height: 800px;
 }
 .tahap-pemesanan-2.second-row .card2 {
-  min-height: 540px;
+  min-height: 415px;
   max-height: 600px;
 }
 .tahap-pemesanan-2.third-row .card2 {
-  min-height: 680px;
+  min-height: 500px;
   max-height: 720px;
 }
 .domore {
