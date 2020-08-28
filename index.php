@@ -427,7 +427,7 @@
             </div>
           </div>
 
-          <div class="flex__row">
+          <div class="flex__row case-study__slide">
             <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
               <img src="/img/case-study-3.png" class="img-responsive" alt="">
               <a href="/case-study/opuspark/">
@@ -552,16 +552,16 @@
   <?php include 'footer.php';?>
 
   <script>
-  $('.product__slide').slick({
+  $('.case-study__slide').slick({
     infinite: true,
     slidesToShow: 3,
-    slidesToScroll: 1,
+    slidesToScroll: 3,
     // adaptiveHeight: true,
     responsive: [{
         breakpoint: 1100,
         settings: {
           slidesToShow: 2,
-          slidesToScroll: 1,
+          slidesToScroll: 2,
           infinite: true,
         }
       },
