@@ -29,6 +29,7 @@ if(isset($_POST['submitted']))
 			$email        = $_POST['email'];
 			$phone        = $_POST['phone'];
 			$verifikasi_code =  $_POST['verifikasi_code'];
+			$type_dokumen =  $_POST['type_dokumen'];
 			$whitepaper_regdate = date('Y-m-d H:i:s');
 			//validasi data data kosong
 			if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
@@ -36,7 +37,7 @@ if(isset($_POST['submitted']))
 			}
 			else {
 			mysqli_select_db($mysqli,$customerDBName);
-			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$whitepaper_regdate')");	
+			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
 			
 			}
 				if ($formproc->ProcessForm()) {
@@ -54,6 +55,16 @@ if(isset($_POST['submitted']))
 		$msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
 	}
 }
+
+$text = 'abcdefghijklmnopqrstuvwxyz123457890';
+$panj = 50;
+$txtl = strlen($text)-1;
+$result = '';
+for($i=1; $i<=$panj; $i++){
+ $result .= $text[rand(0, $txtl)];
+}
+
+$kodeBarang = $result;
 
 
 ?>
@@ -770,6 +781,13 @@ if(isset($_POST['submitted']))
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
 												<option value="Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</option>
 										   </select>
+                                        </div>
+                                    </div>
+									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
+                                        <label for="name" class="c-label">Nama<span style="color: red;">*</span></label>
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" id="name" name="name" aria-label="name"
+                                                value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="Nama" required>
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10" id="anchorForm">
