@@ -150,7 +150,6 @@
               <h2 class="cs-subtitle">Latar Belakang</h2>
               <p class="cs-desc">
               Indonesea.id dinaungi oleh PT.Jelajah Bahari Indonesia, terdiri dari pemuda Indonesia yang memiliki kecintaan pada traveling dan diving ingin menciptakan Dive Booking System dengan kredibilitas baik untuk dapat membuka peluang bagi penggerak wisata bahari dan olahraga air seperti Diving Center serta Liveaboard agar dapat dengan mudah diakses oleh customer untuk dapat melakukan pencarian destinasi-destinasi terbaik di Indonesia. 
-              <div class="m-t-1 visible-lg"><br><br><br><br></div>
               </p>
             </div>
           </div>
@@ -165,12 +164,8 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">Teknologi yang diterapkan</h2>
               <p class="cs-desc">
-              Indonesea dibangun oleh framework Laravel PHP 7 yang dikembangkan oleh Taylor Otwell dengan versi pertamanya rilis pada tahun 2011. Framework/Library PHP merupakan teknologi web development open source  dengan menggunakan Konsep MVC dan terkenal sebagai Bahasa pemrograman Expressive & Beautifull Syntax karena memiliki komponen-komponen yang tidak monoton dan pemilihan syntaxnya yang secara harfiah sangat relevan dengan fungsi yang dijalankan seperti <i>illuminate</i>, <i>artisan</i>, <i>migrate</i>. Pada Konsep <i>Model</i> Laravel juga terkenal sebagai friendly team collaboration salah satunya dengan adanya fungsi/komponen migrate, dengan komponen migrate maka Tim dapat mendesain database secara langsung dari <i>composser</i> Laravel untuk menjalankan queries mysql sehingga tidak perlu secara manual membuat Tabel melalui <i>phpmyadmin</i> dan sharing database file <i>mysql</i>. <i>Composser</i> Laravel digunakan untuk menarik dan menjalankan package dengan syntax yang mudah dipahami tersebut dan sangat <i>user friendly</i> karena perintah-perintahnya dapat dijalankan melalui <i>Terminal/Git Bash</i>, 
+              Indonesea dibangun oleh framework Laravel PHP 7 yang dikembangkan oleh Taylor Otwell dengan versi pertamanya rilis pada tahun 2011. Framework/Library PHP merupakan teknologi web development open source  dengan menggunakan Konsep MVC dan terkenal sebagai Bahasa pemrograman Expressive & Beautifull Syntax karena memiliki komponen-komponen yang tidak monoton dan pemilihan syntaxnya yang secara harfiah sangat relevan dengan fungsi yang dijalankan seperti <i>illuminate</i>, <i>artisan</i>, <i>migrate</i>. Pada Konsep <i>Model</i> Laravel juga terkenal sebagai friendly team collaboration salah satunya dengan adanya fungsi/komponen migrate, dengan komponen migrate maka Tim dapat mendesain database secara langsung dari <i>composser</i> Laravel untuk menjalankan queries mysql sehingga tidak perlu secara manual membuat Tabel melalui <i>phpmyadmin</i> dan sharing database file <i>mysql</i>. <i>Composser</i> Laravel digunakan untuk menarik dan menjalankan package dengan syntax yang mudah dipahami tersebut dan sangat <i>user friendly</i> karena perintah-perintahnya dapat dijalankan melalui <i>Terminal/Git Bash</i>, command seperti <i>PHP Artisan config cache</i>, <i>PHP Artisan View Clear</i> untuk melakukan clear cache pada settingan config dan tampilan User Interface selain itu Laravel juga sudah mendukung keseluruhan system/website <i>maintenance mode</i> secara otomatis hanya cukup dengan menjalankan <i>PHP Artisan Down</i> dan untuk mengembalikannya cukup menjalankan <i>PHP Artisan Up</i>, perintah-perintah ini dapat dieksekusi dengan mudah melalui <i>Terminal/Git Bash</i>. Pada Konsep View Laravel didukung dengan templating engine yang terkenal sebagai Blade Template mampu menjalankan fungsi – fungsi Teknologi Front End seperti <i>CSS</i>, <i>React</i>, <i>Javascript</i> dan <i>Vue</i> dan semuanya akan tersimpan dalam 1 package <i>Laravel/ui</i>. 
               </p>
-            </div>
-            <div class="col-md-12 col-sm-6 col-sm-push-6 col-md-push-0">
-            command seperti <i>PHP Artisan config cache</i>, <i>PHP Artisan View Clear</i> untuk melakukan clear cache pada settingan config dan tampilan User Interface selain itu Laravel juga sudah mendukung keseluruhan system/website <i>maintenance mode</i> secara otomatis hanya cukup dengan menjalankan <i>PHP Artisan Down</i> dan untuk mengembalikannya cukup menjalankan <i>PHP Artisan Up</i>, perintah-perintah ini dapat dieksekusi dengan mudah melalui <i>Terminal/Git Bash</i>. Pada Konsep View Laravel didukung dengan templating engine yang terkenal sebagai Blade Template mampu menjalankan fungsi – fungsi Teknologi Front End seperti <i>CSS</i>, <i>React</i>, <i>Javascript</i> dan <i>Vue</i> dan semuanya akan tersimpan dalam 1 package <i>Laravel/ui</i>. 
-            <div class="visible-lg"><br><br><br></div>
             </div>
           </div>
         </section>
@@ -209,22 +204,6 @@
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/case-study/vip-plaza-progressive-web-app/">
                   <img class="img-responsive center-block" src="img/vip-plaza.png" alt="Studi Kasus Lainnya">
-                </a>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-3">
-                <a href="/case-study/klikhoreca/">
-                  <picture>
-                    <source srcset="img/btn-klikhoreca.webp">
-                    <img class="img-responsive center-block" src="img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
-                  </picture>
-                </a>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-3">
-                <a href="/case-study/pan-pacific/">
-                  <picture>
-                    <source srcset="img/btn-pan-pacific.webp">
-                    <img class="img-responsive center-block" src="img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
-                  </picture>
                 </a>
               </div>
             </div>

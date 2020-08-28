@@ -705,8 +705,7 @@ b {
   height: 300px;
 }
 
-.case-study .row__item > img,
-.case-study .row__item > picture > img {
+.case-study .row__item > img {
   height: 100% !important;
   object-fit: cover;
 }

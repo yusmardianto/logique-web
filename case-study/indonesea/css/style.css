@@ -219,9 +219,6 @@ h1, h2, h3, h4, h5, h6 {
 .cs-others .row {
   padding: 25px;
   margin-bottom: -25px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 
 @media (min-width: 768px) {
@@ -256,26 +253,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 15px;
   margin: 30px 40px;
   border-radius: 30px;
-}
-
-.btn--other-case-study {
-  position: relative;
-}
-
-.btn--other-case-study::after {
-  content: attr(data-btn-text);
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: #fff;
-  font-size: 24px;
-  font-family: 'Avenir Next Condensed', sans-serif;
-}
-
-.btn--other-case-study img {
-  max-width: 239px;
-  width: 100%;
 }
 
 header {
@@ -394,12 +371,8 @@ footer {
   .cs-orm {
     z-index: -1;
   }
-  .wrapper .navbar-toggle {
-    top: unset;
-  }
   .wrapper .navbar-toggle.collapsed {
     position: absolute !important;
-    top: unset;
   }
   header {
     font-size: 12px;
