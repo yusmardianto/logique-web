@@ -75,15 +75,8 @@ if(isset($_POST['submitted']))
 </head>
 
 <body>
-    <style>
-    @media only screen (max-width: 414px) {
-        .breadcrumb {
-            padding-left: 15px;
-        }
-    }
-    </style>
-    <div class="side-container"></div>
-    <div>
+    
+     <div class="wrapper">
 
         <!-- NAVIGATION -->
         <div class="nav-lp">
@@ -149,31 +142,35 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
         </div>
+    </div>
         <!-- NAVIGATION -->
 
         <!-- HEADER -->
         <div class="container-fluid">
             <div class="row lang-logo--update-design">
+                <div class="content-wrapper__">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="container">
+                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li><a href="/en/services/web-dev.php">EN</a></li>
                                     <li><a href="/layanan/web-dev.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
+                                
                             </div>
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
         </div>
         <!-- END HEADER -->
 
-        <header class="content-wrapper__">
+        <header class="content-wrapper__ header">
             <div class="text-left --top">
                 <div class="container-fluid">
                     <div class="row bg-section">
@@ -223,7 +220,7 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
         </header>
-    </div>
+      <div class="content-wrapper__">
     <section class="about">
         <div class="container">
             <div class="row">
@@ -1384,6 +1381,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
         </div>
     </section>
+</div>
     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
     <?php include '../footer.php'; ?>
 

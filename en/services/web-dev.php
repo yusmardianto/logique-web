@@ -226,7 +226,7 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
         </header>
-    </div>
+ 
      <div class="content-wrapper__">
     <section class="about">
         <div class="container">
