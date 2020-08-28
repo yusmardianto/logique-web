@@ -57,8 +57,9 @@ if(isset($_POST['submitted']))
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="Sebagai salah satu pembuat website terkemuka di Indonesia, LOGIQUE memiliki tahapan pembuatan website tersendiri yang terstruktur dan profesional dalam memberikan jasa dan layanan terbaiknya pada klien. Berikut penjelasan sederhana dari tiap tahap pembuatan website dari LOGIQUE.">
      <title>Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+     <link href="/css/bootstrap.min.css" rel="stylesheet">
+     <link href="/css/slick.css" rel="stylesheet">
+     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-webdev-new.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -76,105 +77,101 @@ if(isset($_POST['submitted']))
 </head>
 
 <body>
-    <style>
-    @media only screen (max-width: 414px) {
-        .breadcrumb {
-            padding-left: 15px;
-        }
-    }
-    </style>
-    <div class="side-container"></div>
-    <div>
+   <div class="wrapper">
+         <!-- NAVIGATION -->
+         <div class="nav-lp">
+             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
+                 data-toggle="collapse" data-target="#myNavbar">
+                 <span class="icon-bar first"></span>
+                 <span class="icon-bar second"></span>
+                 <span class="icon-bar third"></span>
+             </button>
+             <div class="collapse navbar-collapse" id="myNavbar">
+                 <div class="backdrop-test"></div>
+                 <div class="logique-nav logique-nav--update">
+                     <div class="margin-for-nav">
+                         <div class="text-center ">
+                             <a href="/">
+                                 <div class="img-home"></div>
+                                 Beranda
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/logique.php">
+                                 <div class="img-about"></div>
+                                 Tentang Kami
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/portofolio.php">
+                                 <div class="img-portfolio"></div>
+                                 Portfolio
+                             </a>
+                         </div>
+                         <div class="text-center active">
+                             <a href="/layanan.php">
+                                 <div class="img-services"></div>
+                                 Layanan
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/produk.php">
+                                 <div class="img-product"></div>
+                                 Produk
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/career/">
+                                 <div class="img-career"></div>
+                                 Karir
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="/hubungi-kami.php">
+                                 <div class="img-contact"></div>
+                                 Hubungi Kami
+                             </a>
+                         </div>
+                         <div class="text-center">
+                             <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+                                 <div class="img-blog"></div>
+                                 Blog
+                             </a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+         <!-- NAVIGATION -->
 
-        <!-- NAVIGATION -->
-        <div class="nav-lp">
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update in-jp">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/">
-                                <div class="img-home"></div>
-                                Beranda
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/logique.php">
-                                <div class="img-about"></div>
-                                Tentang Kami
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/portfolio.php">
-                                <div class="img-portfolio"></div>
-                                Portfolio
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/layanan.php">
-                                <div class="img-services"></div>
-                                Layanan
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="produk.php">
-                                <div class="img-product"></div>
-                                Produk
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                Karir
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/hubungi-kami.php">
-                                <div class="img-contact"></div>
-                                Hubungi Kami
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+         <!-- HEADER -->
+         <div class="container-fluid">
+             <div class="row lang-logo--update-design">
+                <div class="content-wrapper__">
+                 <div class="container">
+                    
+                     <div class="row">
+                         <div class=" col-sm-12">
+                              
+                                 <a href="/index.php"><img src="/img/logo.png"
+                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                                         class="img-responsive logo--update-design" /></a>
+                                  <ul class="list-inline">
+                                     <li><a href="/en/services/web-dev.php">EN</a></li>
+                                     <li class="active"><a href="#">ID</a></li>
+                                     <li><a href="/jp/services/web-dev.php">JP</a></li>
+                                 </ul>
+                            
+                         </div>
+                     </div>
+                 </div>
+                 </div>
+             </div>
+         </div>
+         <!-- END HEADER -->
+     </div>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/services/web-dev.php">JP</a></li>
-                                </ul>
-                                <a href="/index.php"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>disini
-        <!-- END HEADER -->
-
-        <header class="content-wrapper__">
+        <header class="content-wrapper__ header">
             
             <div class="text-left --top">
                 <div class="container-fluid">
@@ -183,21 +180,25 @@ if(isset($_POST['submitted']))
                             <img src="assets/img/img-webdev/webdev-bg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/index.php"><span itemprop="name">Beranda</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">Web Development</span></a>
-                                    <meta itemprop="position" content="3" />
-                                </li>
-                            </ol>
+                            <div class="content-wrapper__">
+                                <div class="container">
+                                    <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                        itemtype="http://schema.org/BreadcrumbList">
+                                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                                href="/index.php"><span itemprop="name">Beranda</span></a>
+                                            <meta itemprop="position" content="1" />
+                                        </li>
+                                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                                itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
+                                            <meta itemprop="position" content="2" />
+                                        </li>
+                                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                                itemprop="item"><span itemprop="name">Web Development</span></a>
+                                            <meta itemprop="position" content="3" />
+                                        </li>
+                                    </ol>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-12 m-t-2em main-section">
                             <div class="container">
@@ -228,6 +229,7 @@ if(isset($_POST['submitted']))
             </div>
         </header>
     </div>
+    <div class="content-wrapper__ ">
     <section class="about">
         <div class="container">
             <div class="row">
@@ -475,19 +477,26 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row portofolio-section">
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                    <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title text-center">AIA</p>
+                <!-- <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong"> -->
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <p class="portofolio-title text-center">AIA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                    <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="http://bekalhidup.com/" target="_blank">
+                        <img src="assets/img/img-webdev/panin.png" alt="">
+                        <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-                    <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title text-center">JBA</p>
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://jba.co.id/" target="_blank">
+                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                        <p class="portofolio-title text-center">JBA</p>
+                    </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
@@ -704,6 +713,109 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
+
+    <section class="gallery content-article">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="title">White Paper Tentang Pembuatan Web di Indonesia</p>
+                </div>
+            </div>
+            <div class="row gallery-container">
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-1.php" target="_blank">
+                            <p class="gallery-title">Cara Membuat Website yang Efektif untuk Bisnis Anda</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-2.php" target="_blank">
+                            <p class="gallery-title">Membangun Website 
+E-Commerce yang Menarik</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-3.php" target="_blank">
+                            <p class="gallery-title">Peran dan Pentingnya
+Pengujian Penetrasi dalam
+Proses Bisnis Perusahaan</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <!-- <div class="col-md-4 col-lg-4 col-sm-4">
+                    <img src="assets/img/img-webdev/gallery1.png" alt="">
+                    <p class="gallery-title">ホワイトペーパー１</p>
+                    <p class="gallery-content">ダウンロード</p>
+                </div>
+                <div class="col-md-4 col-lg-4 col-sm-4">
+                    <img src="assets/img/img-webdev/gallery2.png" alt="">
+                    <p class="gallery-title">ホワイトペーパー２</p>
+                    <p class="gallery-content">ダウンロード</p>
+                </div>
+                <div class="col-md-4 col-lg-4 col-sm-4">
+                    <img src="assets/img/img-webdev/gallery3.png" alt="">
+                    <p class="gallery-title">ホワイトペーパー３</p>
+                    <p class="gallery-content">ダウンロード</p>
+                </div> -->
+            </div>
+        </div>
+    </section>
+	
+	<!-- <section class="content-article">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="title">White Paper tentang Pembuatan Web di Indonesia</p>
+                </div>
+            </div>
+            <div class="row">
+				<div class="col-md-12">
+                    <div class="carousel slide multi-item-carousel" id="theCarousel">
+                        <div class="carousel-inner">
+							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
+								<div class="img-container">
+									<img src="assets/img/img-webdev/strategic/5.png" class="img-responsive">
+									<a href="/white-paper-web-dev-1.php" target="_blank">
+										<p class="title">Download</p>
+									</a>
+								</div>
+							</div>  
+							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
+								<div class="img-container">
+									<img src="assets/img/img-webdev/strategic/6.png" class="img-responsive">
+									<a href="/white-paper-web-dev-2.php" target="_blank">
+										<p class="title">Download</p>
+									</a>
+								</div>
+							</div>  
+							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
+								<div class="img-container">
+									<img src="assets/img/img-webdev/strategic/7.png" class="img-responsive">
+									<a href="/white-paper-web-dev-3.php" target="_blank">
+										<p class="title">Download</p>
+									</a>
+								</div>
+							</div>  							
+						</div>
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+            </div>
+        </div>
+    </section> -->
 
     <section class="obstacle">
         <div class="container">
@@ -999,28 +1111,6 @@ if(isset($_POST['submitted']))
     </section>
     <section class="gallery">
         <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="title">インドネシアのWeb制作に関するホワイトペーパー</p>
-                </div>
-            </div>
-            <div class="row gallery-container">
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery1.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー１</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery2.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー２</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery3.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー３</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-            </div>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
@@ -1318,7 +1408,7 @@ if(isset($_POST['submitted']))
                                     <p>URL</p>
                                 </div>
                                 <div class="content-desc">
-                                    <a href=" https://jba.co.id/" target="_blank">
+                                    <a href="https://jba.co.id/" target="_blank">
                                         <p>https://jba.co.id/</p>
                                     </a>
                                 </div>
@@ -1432,6 +1522,7 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
+    </div>
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

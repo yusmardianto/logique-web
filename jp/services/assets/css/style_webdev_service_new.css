@@ -1791,6 +1791,15 @@
 
 
 /* New Responsive Setting  */
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .content-wrapper__ .bg-section .main-section {
+    margin-top: 30px;
+  }
+  .standardplan .content-container,
+  .strategicplan .content-container {
+    padding-left: 45px;
+  }
+}
 @media (min-width: 769px) and (max-width: 1024px) {
     .content-wrapper__ .bg-section img {
         display: block !important;
@@ -1847,17 +1856,16 @@
         margin-top: 20px;
         padding: 10px;
         top: 0;
-        left: 38%;
     }
     .content-wrapper__ .bg-section .main-section .container {
       width: auto;
     }
     .content-wrapper__ .bg-section .main-section .title {
-        font-size: 22px;
+        font-size: 18px;
         margin-bottom: 5px;
     }
     .content-wrapper__ .bg-section .main-section .content {
-        font-size: 15px;
+        font-size: 13px;
         margin-bottom: 20px;
     }
     .content-wrapper__ .bg-section .main-section .content p {
@@ -2717,58 +2725,75 @@
     padding: 0;
 }
 .miniplan .content-container .title-container p {
-    background: rgb(245, 93, 4);
-    border-radius: 5px;
-    padding: 12px 43px;
-    color: rgb(255, 255, 255);
-    font-size: 24px;
-    font-family:"M PLUS 1p Bold", sans-serif;
-    font-weight: bold;
-    letter-spacing: 1px;
-    width: 292px;
-    margin-bottom: 30px;
+  color: rgb(245, 93, 4);
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  width: 292px;
+  margin-bottom: 25px;
 }
 .miniplan .content-container .content {
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 18px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
-    margin-bottom: 23px;
+    margin-bottom: 25px;
+}
+.miniplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.miniplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.miniplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.miniplan .content-container .detail-container.detail-work {
+  grid-area: work;
 }
 .miniplan .content-container .detail-container {
     display: grid;
-    grid-template-columns: max-content max-content 323px;
-    grid-gap: 25px;
-    margin-bottom: 18px;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.miniplan .content-container .detail-container img {
+  grid-area: img;
 }
 .miniplan .content-container .detail-container .detail-title {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
+    grid-area: title;
 }
 .miniplan .content-container .detail-container .detail-content {
     color: rgb(0, 0, 0);
-    font-size: 18px;
-    font-family:"M PLUS 1p Medium", sans-serif;
-    font-weight: 500;
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
     letter-spacing: 0px;
+    grid-area: content;
 }
 .miniplan .content-container .detail-container .detail-content.detail-list {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p", sans-serif;
-    font-weight: normal;
     letter-spacing: 0px;
 }
 .miniplan .content-container .detail-container .detail-content.detail-list p {
-    margin-bottom: 8px;
+    margin-bottom: 15px;
     line-height: 1.75;
 }
 .miniplan .content-container .detail-container.detail-margin {
-    margin-bottom: 0;
+    margin-bottom: 35px;
 }
 .miniplan .content-container .price-container {
     margin-bottom: 23px;
@@ -2781,10 +2806,16 @@
     letter-spacing: 0px;
     padding: 0 30px;
     line-height: 1;
+    margin-bottom: 5px;
+}
+.miniplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
 }
 .miniplan .content-container .price-container .price {
     color: rgb(237, 6, 6);
-    font-size: 26px;
+    font-size: 20px;
     font-family:"M PLUS 1p Extra Bold", sans-serif;
     font-weight: 800;
     letter-spacing: 0px;
@@ -2801,8 +2832,8 @@
     letter-spacing: 0px;
     text-align: center;
     padding: 17px;
-    margin-left: 30px;
 }
+
 
 .standardplan {
     padding-top: 45px;
@@ -2815,58 +2846,76 @@
     padding: 0;
 }
 .standardplan .content-container .title-container p {
-    background: rgb(4, 199, 245);
-    border-radius: 5px;
-    padding: 12px 43px;
-    color: rgb(255, 255, 255);
-    font-size: 24px;
-    font-family:"M PLUS 1p Bold", sans-serif;
-    font-weight: bold;
-    letter-spacing: 1px;
-    width: 344px;
-    margin-bottom: 30px;
+  color: rgb(4, 199, 245);;
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  width: 292px;
+  margin-bottom: 25px;
 }
 .standardplan .content-container .content {
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 18px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
-    margin-bottom: 23px;
+    margin-bottom: 25px;
+}
+.standardplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.standardplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.standardplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.standardplan .content-container .detail-container.detail-work {
+  grid-area: work;
 }
 .standardplan .content-container .detail-container {
     display: grid;
-    grid-template-columns: max-content max-content 323px;
-    grid-gap: 25px;
-    margin-bottom: 18px;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.standardplan .content-container .detail-container img {
+  grid-area: img;
 }
 .standardplan .content-container .detail-container .detail-title {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
+    grid-area: title;
 }
 .standardplan .content-container .detail-container .detail-content {
     color: rgb(0, 0, 0);
-    font-size: 18px;
-    font-family:"M PLUS 1p Medium", sans-serif;
-    font-weight: 500;
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
     letter-spacing: 0px;
+    grid-area: content;
 }
 .standardplan .content-container .detail-container .detail-content.detail-list {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p", sans-serif;
-    font-weight: normal;
     letter-spacing: 0px;
 }
 .standardplan .content-container .detail-container .detail-content.detail-list p {
-    margin-bottom: 8px;
-    line-height: 1.6;
+    margin-bottom: 15px;
+    line-height: 1.75;
 }
 .standardplan .content-container .detail-container.detail-margin {
-    margin-bottom: 0;
+    margin-bottom: 35px;
+    grid-area: work;
 }
 .standardplan .content-container .price-container {
     margin-bottom: 23px;
@@ -2879,10 +2928,16 @@
     letter-spacing: 0px;
     padding: 0 30px;
     line-height: 1;
+    margin-bottom: 5px;
+}
+.standardplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
 }
 .standardplan .content-container .price-container .price {
     color: rgb(237, 6, 6);
-    font-size: 26px;
+    font-size: 20px;
     font-family:"M PLUS 1p Extra Bold", sans-serif;
     font-weight: 800;
     letter-spacing: 0px;
@@ -2899,7 +2954,6 @@
     letter-spacing: 0px;
     text-align: center;
     padding: 17px;
-    margin-left: 30px;
 }
 
 .largeplan {
@@ -2913,58 +2967,75 @@
     padding: 0;
 }
 .largeplan .content-container .title-container p {
-    background: rgb(5, 169, 71);
-    border-radius: 5px;
-    padding: 12px 43px;
-    color: rgb(255, 255, 255);
-    font-size: 24px;
-    font-family:"M PLUS 1p Bold", sans-serif;
-    font-weight: bold;
-    letter-spacing: 1px;
-    width: 424px;
-    margin-bottom: 30px;
+  color: rgb(5, 169, 71);
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
 }
 .largeplan .content-container .content {
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 18px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
-    margin-bottom: 23px;
+    margin-bottom: 25px;
+}
+.largeplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.largeplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.largeplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.largeplan .content-container .detail-container.detail-work {
+  grid-area: work;
 }
 .largeplan .content-container .detail-container {
     display: grid;
-    grid-template-columns: max-content max-content 323px;
-    grid-gap: 25px;
-    margin-bottom: 18px;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.largeplan .content-container .detail-container img {
+  grid-area: img;
 }
 .largeplan .content-container .detail-container .detail-title {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
+    grid-area: title;
 }
 .largeplan .content-container .detail-container .detail-content {
     color: rgb(0, 0, 0);
-    font-size: 18px;
-    font-family:"M PLUS 1p Medium", sans-serif;
-    font-weight: 500;
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
     letter-spacing: 0px;
+    grid-area: content;
 }
 .largeplan .content-container .detail-container .detail-content.detail-list {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p", sans-serif;
-    font-weight: normal;
     letter-spacing: 0px;
 }
 .largeplan .content-container .detail-container .detail-content.detail-list p {
-    margin-bottom: 8px;
-    line-height: 1.8;
+    margin-bottom: 15px;
+    line-height: 1.75;
 }
 .largeplan .content-container .detail-container.detail-margin {
-    margin-bottom: 0;
+    margin-bottom: 35px;
+    grid-area: work;
 }
 .largeplan .content-container .price-container {
     margin-bottom: 23px;
@@ -2977,10 +3048,16 @@
     letter-spacing: 0px;
     padding: 0 30px;
     line-height: 1;
+    margin-bottom: 5px;
+}
+.largeplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
 }
 .largeplan .content-container .price-container .price {
     color: rgb(237, 6, 6);
-    font-size: 26px;
+    font-size: 20px;
     font-family:"M PLUS 1p Extra Bold", sans-serif;
     font-weight: 800;
     letter-spacing: 0px;
@@ -2997,7 +3074,6 @@
     letter-spacing: 0px;
     text-align: center;
     padding: 17px;
-    margin-left: 30px;
 }
 
 .strategicplan {
@@ -3011,57 +3087,76 @@
     padding: 0;
 }
 .strategicplan .content-container .title-container p {
-    background: rgb(245, 10, 4);
-    border-radius: 5px;
-    padding: 12px 43px;
-    color: rgb(255, 255, 255);
-    font-size: 24px;
-    font-family:"M PLUS 1p Bold", sans-serif;
-    font-weight: bold;
-    letter-spacing: 1px;
-    width: 454px;
-    margin-bottom: 30px;
+  color: rgb(245, 10, 4);
+  font-size: 24px;
+  font-family: "M PLUS 1p Bold", sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
 }
 .strategicplan .content-container .content {
     color: rgb(0, 0, 0);
-    font-size: 20px;
+    font-size: 18px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
-    margin-bottom: 23px;
+    margin-bottom: 25px;
+}
+.strategicplan .content-container .detail-requirement {
+  display: grid;
+  grid-template-areas: 'period page'
+                        'work work';
+  grid-gap: 10px;
+}
+.strategicplan .content-container .detail-container.detail-period {
+  grid-area: period;
+}
+.strategicplan .content-container .detail-container.detail-page {
+  grid-area: page;
+}
+.strategicplan .content-container .detail-container.detail-work {
+  grid-area: work;
 }
 .strategicplan .content-container .detail-container {
     display: grid;
-    grid-template-columns: max-content max-content 388px;
-    grid-gap: 25px;
-    margin-bottom: 18px;
+    grid-template-areas: 'img title'
+                        'img content';
+    grid-template-columns: min-content auto;
+    grid-gap: 20px 25px;
+    margin-bottom: 42px;
+}
+.strategicplan .content-container .detail-container img {
+  grid-area: img;
 }
 .strategicplan .content-container .detail-container .detail-title {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
+    grid-area: title;
 }
 .strategicplan .content-container .detail-container .detail-content {
     color: rgb(0, 0, 0);
-    font-size: 18px;
-    font-family:"M PLUS 1p Medium", sans-serif;
-    font-weight: 500;
+    font-size: 16px;
+    font-family:"M PLUS 1p", sans-serif;
     letter-spacing: 0px;
+    grid-area: content;
 }
 .strategicplan .content-container .detail-container .detail-content.detail-list {
     color: rgb(0, 0, 0);
-    font-size: 18px;
+    font-size: 16px;
     font-family:"M PLUS 1p", sans-serif;
-    font-weight: normal;
     letter-spacing: 0px;
 }
+
 .strategicplan .content-container .detail-container .detail-content.detail-list p {
-    margin-bottom: 8px;
+    margin-bottom: 15px;
+    line-height: 1.75;
 }
 .strategicplan .content-container .detail-container.detail-margin {
-    margin-bottom: 0;
+    margin-bottom: 35px;
+    grid-area: work;
 }
 .strategicplan .content-container .price-container {
     margin-bottom: 23px;
@@ -3074,10 +3169,16 @@
     letter-spacing: 0px;
     padding: 0 30px;
     line-height: 1;
+    margin-bottom: 5px;
+}
+.strategicplan .content-container .detail-contact {
+  display: grid;
+  grid-template-columns: max-content auto;
+  grid-gap: 49px;
 }
 .strategicplan .content-container .price-container .price {
     color: rgb(237, 6, 6);
-    font-size: 26px;
+    font-size: 20px;
     font-family:"M PLUS 1p Extra Bold", sans-serif;
     font-weight: 800;
     letter-spacing: 0px;
@@ -3094,7 +3195,6 @@
     letter-spacing: 0px;
     text-align: center;
     padding: 17px;
-    margin-left: 30px;
 }
 
 .promo {
@@ -3118,14 +3218,14 @@
 }
 .promo .promo-list .promo-title {
     color: rgb(0, 0, 0);
-    font-size: 24px;
+    font-size: 22px;
     font-family:"M PLUS 1p Medium", sans-serif;
     font-weight: 500;
     letter-spacing: 0px;
 }
 .promo .promo-list .promo-content {
     color: rgb(0, 0, 0);
-    font-size: 24px;
+    font-size: 18px;
     font-family:"M PLUS 1p", sans-serif;
     font-weight: normal;
     letter-spacing: 0px;
@@ -3166,6 +3266,7 @@
 .datatable .table-data tbody tr td:nth-child(3) {
     white-space: initial;
     font-family: "M Plus 1p", sans-serif;
+    font-size: 16px;
 }
 .datatable .table-data tbody tr td:nth-child(2) {
     font-weight: 800;
@@ -3201,18 +3302,19 @@
   }
 } 
 @media (min-width: 992px) and (max-width:1024px) {
-    .miniplan {
-        padding-top: 0;
-    }
-    .standardplan {
-        padding-top: 0;
+    .miniplan,
+    .standardplan,
+    .largeplan,
+    .strategicplan {
+      padding-bottom: 30px;
+      padding-top: 0px;
     }
     .miniplan .img-container,
     .standardplan .img-container,
     .largeplan .img-container,
     .strategicplan .img-container
      {
-         margin: 30px auto 0;
+        margin: 30px auto 0;
         text-align: center;
     }
     .miniplan .img-container img,
@@ -3230,13 +3332,15 @@
         width: 100%;
         margin-top: 30px;
         font-size: 18px;
-        text-align: center;
+        text-align: left;
+        margin-bottom: 15px;
     }
     .miniplan .content-container .content,
     .standardplan .content-container .content,
     .largeplan .content-container .content,
     .strategicplan .content-container .content {
         font-size: 18px;
+        margin-bottom: 15px;
     }
     .miniplan .content-container .detail-container .detail-title,
     .standardplan .content-container .detail-container .detail-title,
@@ -3257,7 +3361,14 @@
     .largeplan .content-container .detail-container,
     .strategicplan .content-container .detail-container {
         grid-gap: 15px;
-        grid-template-columns: max-content max-content auto;
+        grid-template-columns: max-content auto auto;
+        margin-bottom: 20px;
+    }
+    .miniplan .content-container .detail-container.detail-margin,
+    .standardplan .content-container .detail-container.detail-margin,
+    .largeplan .content-container .detail-container.detail-margin,
+    .strategicplan .content-container .detail-container.detail-margin {
+      margin-bottom: 20px;
     }
     .miniplan .content-container .detail-container .detail-content,
     .standardplan .content-container .detail-container .detail-content,
@@ -3275,8 +3386,7 @@
     .standardplan .content-container .price-container,
     .largeplan .content-container .price-container,
     .strategicplan .content-container .price-container {
-        margin-bottom: 23px;
-        margin-top: 30px;
+        margin: 0;
         text-align: center;
     }
     .miniplan .content-container .button-container p, 
@@ -3447,18 +3557,22 @@
   }
 }
 @media (min-width: 415px) and (max-width:768px) {
-    .miniplan {
-        padding-top: 0;
-    }
-    .standardplan {
-        padding-top: 0;
+  .content-wrapper__ .bg-section {
+    background: #f0f0f0;
+  }
+    .miniplan,
+    .standardplan,
+    .strategicplan,
+    .largeplan {
+        padding-top: 20px;
+        padding-bottom: 20px;
     }
     .miniplan .img-container,
     .standardplan .img-container,
     .largeplan .img-container,
     .strategicplan .img-container
      {
-         margin: 30px auto 0;
+         margin: 0;
         text-align: center;
     }
     .miniplan .img-container img,
@@ -3500,12 +3614,21 @@
         height: auto;
         margin-top: 3px;
     }
+    
     .miniplan .content-container .detail-container,
     .standardplan .content-container .detail-container,
     .largeplan .content-container .detail-container,
     .strategicplan .content-container .detail-container {
         grid-gap: 15px;
-        grid-template-columns: max-content max-content auto;
+        grid-template-columns: max-content auto;
+        grid-template-rows: max-content;
+        margin-bottom: 10px;
+    }
+    .miniplan .content-container .detail-container.detail-margin, 
+    .miniplan .content-container .detail-container.detail-margin, 
+    .miniplan .content-container .detail-container.detail-margin, 
+    .miniplan .content-container .detail-container.detail-margin { 
+      margin-bottom: 10px;
     }
     .miniplan .content-container .detail-container .detail-content,
     .standardplan .content-container .detail-container .detail-content,
@@ -3523,8 +3646,8 @@
     .standardplan .content-container .price-container,
     .largeplan .content-container .price-container,
     .strategicplan .content-container .price-container {
-        margin-bottom: 23px;
-        margin-top: 30px;
+        margin-bottom: 0;
+        margin-top: 0;
         text-align: center;
     }
     .miniplan .content-container .button-container p, 
@@ -3535,6 +3658,24 @@
         font-size: 16px;
         margin-left: 0;
         width: auto;
+    }
+    .standardplan .container .row, 
+    .strategicplan .container .row {
+      display: grid;
+      grid-template-areas: 'img'
+                            'content';
+      grid-gap: 10px;
+    }
+    .standardplan .container .row .content-container,
+    .strategicplan .container .row .content-container {
+      grid-area: content;
+    }
+    .standardplan .container .row .img-container,
+    .strategicplan .container .row .img-container {
+      grid-area: img;
+    }
+    .promo {
+      padding-bottom: 0;
     }
     .promo .promo-list {
         padding: 20px;
@@ -3571,6 +3712,9 @@
     }
 }
 @media (max-width: 414px) {
+  .content-wrapper__ .bg-section {
+    background: #f0f0f0;
+  }
     .miniplan {
         padding-top: 0;
     }
@@ -3589,7 +3733,7 @@
     .largeplan .content-container .title-container p,
     .strategicplan .content-container .title-container p {
         width: 100%;
-        margin-top: 30px;
+        margin-top: 0;
         font-size: 18px;
         text-align: center;
     }
@@ -3598,6 +3742,20 @@
     .largeplan .content-container .content,
     .strategicplan .content-container .content {
         font-size: 18px;
+    }
+    .miniplan .content-container .detail-requirement,
+    .standardplan .content-container .detail-requirement,
+    .largeplan .content-container .detail-requirement,
+    .strategicplan .content-container .detail-requirement {
+      grid-template-areas: 'period'
+                            'page'
+                            'work';
+    }
+    .miniplan .content-container .detail-container,
+    .standardplan .content-container .detail-container,
+    .largeplan .content-container .detail-container,
+    .strategicplan .content-container .detail-container {
+      margin-bottom: 0;
     }
     .miniplan .content-container .detail-container .detail-title,
     .standardplan .content-container .detail-container .detail-title,
@@ -3618,7 +3776,7 @@
     .largeplan .content-container .detail-container,
     .strategicplan .content-container .detail-container {
         grid-gap: 15px;
-        grid-template-columns: max-content max-content auto;
+        grid-template-columns: max-content auto;
     }
     .miniplan .content-container .detail-container .detail-content,
     .standardplan .content-container .detail-container .detail-content,
@@ -3637,7 +3795,7 @@
     .largeplan .content-container .price-container,
     .strategicplan .content-container .price-container {
         margin-bottom: 23px;
-        margin-top: 30px;
+        margin-top: 0;
         text-align: center;
     }
     .miniplan .content-container .button-container p, 
@@ -3646,6 +3804,42 @@
     .strategicplan .content-container .button-container p {
         padding: 10px;
         font-size: 16px;
+    }
+    .miniplan .content-container .detail-contact,
+    .standardplan .content-container .detail-contact,
+    .largeplan .content-container .detail-contact,
+    .strategicplan .content-container .detail-contact {
+      grid-template-columns: auto;
+    }
+    .miniplan .content-container .detail-contact .button-container,
+    .standardplan .content-container .detail-contact .button-container,
+    .largeplan .content-container .detail-contact .button-container,
+    .strategicplan .content-container .detail-contact .button-container {
+      margin: 0 auto;
+    }
+    .standardplan .container .row, 
+    .strategicplan .container .row {
+      display: grid;
+      grid-template-areas: 'img'
+                            'content';
+      grid-gap: 10px;
+      grid-template-columns: 100%;
+    }
+    .standardplan .container .row .content-container,
+    .strategicplan .container .row .content-container {
+      grid-area: content;
+    }
+    .standardplan .container .row .img-container,
+    .strategicplan .container .row .img-container {
+      grid-area: img;
+    }
+    .promo {
+      padding-top: 0;
+    }
+    .standardplan, 
+    .largeplan, 
+    .strategicplan {
+      padding-top: 0;
     }
     .promo .promo-list {
         padding: 20px;
