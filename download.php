@@ -691,8 +691,8 @@ if($kodeBarang == 0)
 							<div class="clearfix">
 								<div class="contact-us-cont">
 								 <div class="" style="margin-top: 3%;">
-	<div class="message"><center>Download gagal karena link salah<br/>atau masa berlaku-nya telah habis.</center></div>';
-	</div>
+							<div class="message"><center>Download gagal karena link salah<br/>atau masa berlaku-nya telah habis.</center></div>
+							</div>
 						</div>
                         </div>
                     </div>
