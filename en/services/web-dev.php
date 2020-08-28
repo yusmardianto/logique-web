@@ -716,7 +716,7 @@ We have further posted many of our results here for reference.
  
     </section>
 
-    <section class="gallery content-article disp-none">
+    <section class="gallery content-article disp-none ">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
