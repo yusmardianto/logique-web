@@ -50,10 +50,7 @@ p:last-of-type{
     font-family: 'Novocento Sans Wide';
     display: inline !important;
 }
-.logique-nav{
-    height: auto; 
-    border-radius: 20px;
-}
+
 .logique-nav.logique-nav--update .margin-for-nav{
     margin:10px 0;
 }
@@ -824,15 +821,6 @@ section.dm__other-service  strong, section.dm__links   strong {
         z-index: 99;
         width: 100%;
         margin-top: -1px;
-    }
-    .logique-nav {
-        margin-right: -150px;
-        margin-left: auto;
-        position: relative;
-        float: right;
-        margin-top: 0;
-        height: 100%;
-        border-radius: 0;
     }
 
     .content-wrapper__.header{
