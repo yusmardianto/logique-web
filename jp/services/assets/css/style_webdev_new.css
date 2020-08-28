@@ -1082,11 +1082,7 @@
   
 
 /* New Web Dev Layout */
- 
-.content-wrapper__ {
-    margin-left: 0;
-}
- 
+
 .content-wrapper__ .bg-section {
     position: relative;
 }

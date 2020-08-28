@@ -440,6 +440,9 @@ section h2{
     width: 48px; 
     margin-bottom: 20px;
 }
+.more{
+            display: none;
+         }
 .showmore .success-item.sc-seeall .other-success-item img{
     height: 20px;
     margin-top: 50%;
@@ -455,6 +458,7 @@ section h2{
     transform: translatey(-10px) rotate(-90deg);
 
 }
+
 .success-item a.more-icon{
     text-decoration: underline;
     font-style: italic;
