@@ -1,6 +1,5 @@
  <?php
  require_once("assets/form/fgcontact_systemdev.php");
- 
  $formproc = new FGContactForm();
  
  //1. Add your email address here.
@@ -44,7 +43,7 @@
      <meta name="description"
          content="LOGIQUEは、E-Commerceシステム、CRMシステム、会計管理システムなど各種システム開発運用やアプリ開発、システムコンサルティングをインドネシアで行っています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
      <meta name="keywords"
-         content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
+         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -77,9 +76,9 @@
 	</script>
  </head>
 
- <body>
-
-     <div>
+ <body class="systedev-page">
+ 
+     <div class="wrapper">
          <!-- NAVIGATION -->
          <div class="nav-lp">
              <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -219,22 +218,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <ol class="breadcrumb breadcrumb--update-design" itemscope
-                        itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                href="/index.php"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
-                        </li>
-                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp;Services</span></a>
-                                <meta itemprop="position" content="2" />
-                            </li>
-                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                    itemprop="item"><span itemprop="name">&nbsp;Web
-                                        System</span></a>
-                                <meta itemprop="position" content="3" />
-                            </li>
-                    </ol>
+                    <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                     href="/jp/index.php"><span itemprop="name">Home</span></a>
+                                 <meta itemprop="position" content="1" />
+                             </li>
+                             <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                     itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
+                                 <meta itemprop="position" content="2" />
+                             </li>
+                             <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                     itemprop="item"><span itemprop="name">&nbsp;Webシステム開発</span></a>
+                                 <meta itemprop="position" content="3" />
+                             </li>
+                         </ol>
                 </div>
             </div>
         </div>
@@ -273,7 +270,7 @@
                          <div class="row">
                              <div class="col-sm-6">
                                  <p style="padding-bottom: 5px;">高品質なシステム構築を行います。通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなどPenetrationテストを行いリスクを最小限にします</p> 
-                                 <a href="/penetration-test.php" class="btn-yellow">セキュリティ脆弱性診断はこちら</a>
+                                 <a href="/jp/services/penetration-test.php" class="btn-yellow">セキュリティ脆弱性診断はこちら</a>
                              </div>
                              <div class="col-sm-6 text-center">
                                  <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
