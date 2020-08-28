@@ -461,20 +461,29 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 </div>
             </div>
             <div class="row portofolio-section text-center">
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                    <img src="assets/img/img-webdev/AIA.png" alt="">
-                    <p class="portofolio-title">AIA</p>
-                    <p class="portofolio-subtitle">詳しくみる</p>
-                </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
+                <div class="col-md-6 col-lg-4 col-sm-4">
+                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <p class="portofolio-title text-center">AIA</p>
+                        <p class="portofolio-subtitle">詳しくみる</p>
+                    </a>
+                <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+            </div>
+            <div class="col-md-6 col-lg-4 col-sm-4">
+                <a href="http://bekalhidup.com/" target="_blank">
                     <img src="assets/img/img-webdev/panin.png" alt="">
-                    <p class="portofolio-title">Panin Life Dai - Ichi</p>
+                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
-                </div>
-                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4 col-sm-4">
+                <a href="https://jba.co.id/" target="_blank">
                     <img src="assets/img/img-webdev/JBA.png" alt="">
-                    <p class="portofolio-title">JBA</p>
+                    <p class="portofolio-title text-center">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
+                    </a>
+                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
@@ -663,6 +672,45 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 </div>
             </div>
         </div>
+    </section>
+    <section class="content-article gallery">
+        <div class="container">
+        <div class="row">
+                <div class="col-md-12">
+                    <p class="title">インドネシアのWeb制作に関するホワイトペーパー</p>
+                </div>
+            </div>
+        <div class="row gallery-container">
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-1.php" target="_blank">
+                            <p class="gallery-title">あなたのビジネスに効果的なウェブサイトを作成する方法</p>
+                            <p class="gallery-content">ダウンロード</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-2.php" target="_blank">
+                            <p class="gallery-title">魅力的なeコマースWebサイトを構築する</p>
+                            <p class="gallery-content">ダウンロード</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-3.php" target="_blank">
+                            <p class="gallery-title">会社のビジネスプロセスにおける侵入テストの役割と重要性</p>
+                            <p class="gallery-content">ダウンロード</p>
+                        </a>
+                    </div>
+                </div>  
+            </div>
+        </div>
+
     </section>
 
     <section class="obstacle">
@@ -949,30 +997,9 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
         </div>
     </section>
+
     <section class="gallery">
         <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="title">インドネシアのWeb制作に関するホワイトペーパー</p>
-                </div>
-            </div>
-            <div class="row gallery-container">
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery1.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー１</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery2.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー２</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery3.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー３</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-            </div>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
