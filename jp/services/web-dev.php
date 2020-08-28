@@ -75,15 +75,8 @@ if(isset($_POST['submitted']))
 </head>
 
 <body>
-    <style>
-    @media only screen (max-width: 414px) {
-        .breadcrumb {
-            padding-left: 15px;
-        }
-    }
-    </style>
-    <div class="side-container"></div>
-    <div>
+    
+     <div class="wrapper">
 
         <!-- NAVIGATION -->
         <div class="nav-lp">
@@ -149,31 +142,35 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
         </div>
+    </div>
         <!-- NAVIGATION -->
 
         <!-- HEADER -->
         <div class="container-fluid">
             <div class="row lang-logo--update-design">
+                <div class="content-wrapper__">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
                             <div class="container">
+                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li><a href="/en/services/web-dev.php">EN</a></li>
                                     <li><a href="/layanan/web-dev.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
+                                
                             </div>
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
         </div>
         <!-- END HEADER -->
 
-        <header class="content-wrapper__">
+        <header class="content-wrapper__ header">
             <div class="text-left --top">
                 <div class="container-fluid">
                     <div class="row bg-section">
@@ -223,7 +220,7 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
         </header>
-    </div>
+      <div class="content-wrapper__">
     <section class="about">
         <div class="container">
             <div class="row">
@@ -683,27 +680,27 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
         <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー１</p>
+                            <p class="gallery-title">あなたのビジネスに効果的なウェブサイトを作成する方法</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー２</p>
+                            <p class="gallery-title">魅力的なeコマースWebサイトを構築する</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
-                            <p class="gallery-title">ホワイトペーパー３</p>
+                            <p class="gallery-title">会社のビジネスプロセスにおける侵入テストの役割と重要性</p>
                             <p class="gallery-content">ダウンロード</p>
                         </a>
                     </div>
@@ -1384,6 +1381,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
         </div>
     </section>
+</div>
     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
     <?php include '../footer.php'; ?>
 

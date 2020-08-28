@@ -58,7 +58,8 @@ if(isset($_POST['submitted']))
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <title>Web Development Service | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+     <link href="/css/slick.css" rel="stylesheet">
+     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-webdev-new.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -76,15 +77,7 @@ if(isset($_POST['submitted']))
 </head>
 
 <body>
-    <style>
-    @media only screen (max-width: 414px) {
-        .breadcrumb {
-            padding-left: 15px;
-        }
-    }
-    </style>
-    <div class="side-container"></div>
-    <div>
+        <div class="wrapper">
 
         <!-- NAVIGATION -->
         <div class="nav-lp">
@@ -151,30 +144,32 @@ if(isset($_POST['submitted']))
             </div>
         </div>
         <!-- NAVIGATION -->
-
+ 
         <!-- HEADER -->
         <div class="container-fluid">
             <div class="row lang-logo--update-design">
+                <div class="content-wrapper__">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
-                            <div class="container">
+                             <a href="/index.php"><img src="/../img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li class="active"><a href="/en/services/web-dev.php">EN</a></li>
                                     <li><a href="/layanan/web-dev.php">ID</a></li>
                                     <li><a href="/jp/services/web-dev.php">JP</a></li>
                                 </ul>
-                                <a href="/index.php"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
+                               
+                        
                         </div>
                     </div>
                 </div>
+                </div>
             </div>
-        </div>disini
+        </div> 
         <!-- END HEADER -->
-
-        <header class="content-wrapper__">
+    </div>
+        <header class="content-wrapper__ header">
             
             <div class="text-left --top">
                 <div class="container-fluid">
@@ -183,21 +178,25 @@ if(isset($_POST['submitted']))
                             <img src="assets/img/img-webdev/webdev-bg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/index.php"><span itemprop="name">Beranda</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/services.php"><span itemprop="name">Services</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">Web Development</span></a>
-                                    <meta itemprop="position" content="3" />
-                                </li>
-                            </ol>
+                            <div class="content-wrapper__">
+                                <div class="container">
+                                    <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                        itemtype="http://schema.org/BreadcrumbList">
+                                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                                href="/index.php"><span itemprop="name">Beranda</span></a>
+                                            <meta itemprop="position" content="1" />
+                                        </li>
+                                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                                itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
+                                            <meta itemprop="position" content="2" />
+                                        </li>
+                                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                                itemprop="item"><span itemprop="name">Web Development</span></a>
+                                            <meta itemprop="position" content="3" />
+                                        </li>
+                                    </ol>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-12 m-t-2em main-section">
                             <div class="container">
@@ -227,7 +226,8 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
         </header>
-    </div>
+ 
+     <div class="content-wrapper__">
     <section class="about">
         <div class="container">
             <div class="row">
@@ -713,7 +713,7 @@ We have further posted many of our results here for reference.
             </div>
                 
             </div>
-        </div>
+ 
     </section>
 
     <section class="gallery content-article disp-none">
@@ -726,24 +726,27 @@ We have further posted many of our results here for reference.
             <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery1.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
+                        <p class="gallery-title">How to Create an Effective Website for Your Business</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery2.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
+                        <p class="gallery-title">Build an Appealing E-Commerce Website</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gallery3.png" class="img-responsive">
+                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
+                        <p class="gallery-title">The Role and Importance of Penetration Testing in Company Business Processes</p>
                             <p class="gallery-content">Download</p>
                         </a>
                     </div>
@@ -1447,6 +1450,7 @@ We have further posted many of our results here for reference.
             </div>
         </div>
     </section>
+</div>
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

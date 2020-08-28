@@ -1,6 +1,6 @@
 ﻿ <?php
  require_once("assets/form/fgcontact_systemdev.php");
- 
+
  $formproc = new FGContactForm();
  
  //1. Add your email address here.

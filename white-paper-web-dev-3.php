@@ -10,83 +10,50 @@ $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
 if(isset($_POST['submitted']))
 {
-	$privacy    = $_POST['privacy'];
-	if($privacy){
-	$white_paper_type    = $_POST['white_paper_type'];
-    $typecompany            = $_POST['typecompany'];
-	$company_name            = $_POST['typecompany'].".".$_POST['company_name'];
-    $department_name        = $_POST['department_name'];
-    $url_social_media            = $_POST['url_social_media'];
-    $position        = $_POST['position'];
-	$email        = $_POST['email'];
-	$phone        = $_POST['phone'];
-	$verifikasi_code =  $_POST['verifikasi_code'];
-	$whitepaper_regdate = date('Y-m-d H:i:s');
-    //validasi data data kosong
-    if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
-        ?>
-            <script language="JavaScript">
-                alert('Data Harap Dilengkapi!');
-            </script>
-        <?php
-    }
-    else {
-	mysqli_select_db($mysqli,$customerDBName);
-	$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$whitepaper_regdate')");	
-	
-		if ($input) {
-		//Jika Sukses
-		?>
-			<script language="JavaScript">
-			alert('Submit White Paper Successfully');
-			</script>
-		<?php
+	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+		// print_r($verifyResponse); exit;
+		$responseData = json_decode($verifyResponse);
+		if ($responseData->success) {
+			
+			$privacy    = $_POST['privacy'];
+			if($privacy){
+			$white_paper_type    = $_POST['white_paper_type'];
+			$typecompany            = $_POST['typecompany'];
+			$company_name            = $_POST['typecompany'].".".$_POST['company_name'];
+			$department_name        = $_POST['department_name'];
+			$url_social_media            = $_POST['url_social_media'];
+			$position        = $_POST['position'];
+			$email        = $_POST['email'];
+			$phone        = $_POST['phone'];
+			$verifikasi_code =  $_POST['verifikasi_code'];
+			$whitepaper_regdate = date('Y-m-d H:i:s');
+			//validasi data data kosong
+			if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
+				$msg = "<div class='alert alert-success' id='msg' role='alert'>Data Harap Dilengkapi</div>";
+			}
+			else {
+			mysqli_select_db($mysqli,$customerDBName);
+			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$whitepaper_regdate')");	
+			
+			}
+				if ($formproc->ProcessForm()) {
+						$msg = "<div class='alert alert-success' id='msg' role='alert'>Formulir Sukses Dikirim</div>";
+					}
+				
+			}else{
+			$msg = "<div class='alert alert-success' id='msg' role='alert'>Pengisian formulir Gagal</div>";
+			}
+			
+		} else {
+			$msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
 		}
+	} else {
+		$msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
 	}
-		/*$filename  = "white-paper-web-dev-1.pdf";
-		$jasper_path     = 'C:/xampp1/htdocs/logique-web/whitepaper/';
-		$back_dir    ="whitepaper/";
-		$file = $back_dir.$filename;
-		 
-			if (file_exists($file)) {
-				header('Content-Description: File Transfer');
-				header('Content-Type: application/octet-stream');
-				header('Content-Disposition: attachment; filename='.basename($file));
-				header('Content-Transfer-Encoding: binary');
-				header('Expires: 0');
-				header('Cache-Control: private');
-				header('Pragma: private');
-				header('Content-Length: ' . filesize($file));
-				ob_clean();
-				flush();
-				readfile($file);
-			}
-			*/	
-		if ($formproc->ProcessForm()) {
-				$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-			}
-		
-	}else{
-	?>
-        <script language="JavaScript">
-        alert('Submit White Paper Failed');
-        </script>
-    <?php
-	}	
 }
-
-$query = mysqli_query($mysqli, "SELECT RIGHT(al_white_papers.verifikasi_code,6) as kodeTerbesar FROM al_white_papers order by verifikasi_code DESC");
-$data = mysqli_fetch_array($query);
-$kodeBarang = $data['kodeTerbesar'];
-
-if($kodeBarang <> 0){      
-   //jika kode ternyata sudah ada.     
-   $kodeBarang = intval($kodeBarang) + 1;    
-  }
-  else {      
-   //jika kode belum ada      
-   $kodeBarang = 1;    
-  }
 
 
 ?>
@@ -116,6 +83,7 @@ if($kodeBarang <> 0){
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/whitepaper.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
 
@@ -721,7 +689,7 @@ if($kodeBarang <> 0){
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="#">
+                            <a href="hubungi-kami.php">
                                 <div class="img-contact"></div>
                                 Hubungi Kami
                             </a>
@@ -764,74 +732,84 @@ if($kodeBarang <> 0){
 
         <div class="content-wrapper__" id="contents">
 
-            <section>
+        <section>
                 <div class="container__">
                     <div class="clearfix">
+					<form class="contactform" id="moresco-contactform" role="form" name='myForm'
+                                    onsubmit='return validasi_form(this)' action='<?php echo $formproc->GetSelfScript(); ?>'
+                                    method='post' accept-charset='UTF-8'>
                         <div class="contact-us-cont">
 						
 						<table style="border: 10px solid">
 							
                             <div class="" style="margin-top: 3%;">
 								 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <b>Download Form</b><br/>
+                                        <p class="form-title">
+                                            <b>Unduh Formulir</b>
+                                        </p>
+										<p class="form-subtitle">
+                                            <!-- Submit the form below to download our whitepaper -->
+                                            Harap isi formulir dibawah ini untuk mengunduh whitepaper kami
+                                        </p>
 										<p>
-										Submit the form below to download our whitepaper</p>
+											<?php if(isset($msg))
+											{
+												echo $msg;
+											}
+											?>
+										</p>
                                     </div>
-									<br/><br/><br/>
 									
-                                <form class="contactform" id="moresco-contactform" role="form" name='myForm'
-                                    onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>'
-                                    method='post' accept-charset='UTF-8'>
                                     <input type='hidden' name='submitted' id='submitted' value='1' />
                                     <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
                                     <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="name" class="c-label">Selected Document</label>
+                                        <label for="name" class="c-label">Dokumen yang Dipilih</label>
                                         <div class="form-group">
                                            <select name="white_paper_type" id="white_paper_type" class="form-control">
-												<option value="Web Development Security 2020">Web Development Security 2020</option>
+												<option value="Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</option>
 										   </select>
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10" id="anchorForm">
-                                        <label for="company_name" class="c-label">Company Name</label>
+                                        <label for="company_name" class="c-label">Nama Perusahaan<span style="color: red;">*</span></label>
                                     </div>
                                     <div class="col-md-1 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="name" class="c-label"></label>
+                                        <!-- <label for="name" class="c-label"></label> -->
                                         <div class="form-group">
-                                           <select name="typecompany" id="typecompany">
+                                           <select name="typecompany" id="typecompany" class="form-control">
 												<option value="PT">PT</option>
 												<option value="CV">CV</option>
 										   </select>
                                         </div>
                                     </div>
-                                    <div class="col-md-7">
-                                        <label for="company_name" class="c-label"></label>
+                                    <div class="col-md-7 company-section">
+                                        <!-- <label for="company_name" class="c-label"></label> -->
                                         <div class="form-group">
                                             <input type="text" class="form-control" id="company_name" name="company_name" aria-label="company_name"
-                                                value='<?php echo $formproc->SafeDisplay('company_name') ?>' placeholder="Company Name" required>
+                                                value='<?php echo $formproc->SafeDisplay('company_name') ?>' placeholder="Nama Perusahaan" required>
                                         </div>
                                     </div>
 									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="department_name" class="c-label">Department Name</label>
+                                        <label for="department_name" class="c-label">Nama Departemen</label>
                                         <div class="form-group">
                                             <input type="text" class="form-control" id="department_name" name="department_name" aria-label="department_name"
-                                                value='<?php echo $formproc->SafeDisplay('department_name') ?>' placeholder="Department Name" required>
+                                                value='<?php echo $formproc->SafeDisplay('department_name') ?>' placeholder="Nama Departemen">
                                         </div>
                                     </div>
 									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="url_social_media" class="c-label">URL / Social Media</label>
+                                        <label for="url_social_media" class="c-label">URL / Media Sosial<span style="color: red;">*</span></label>
                                         <div class="form-group">
                                             <input type="text" class="form-control" id="url_social_media" name="url_social_media" aria-label="url_social_media"
-                                                value='<?php echo $formproc->SafeDisplay('url_social_media') ?>' placeholder="URL / Social Media" required>
+                                                value='<?php echo $formproc->SafeDisplay('url_social_media') ?>' placeholder="URL / Media Sosial" required>
                                         </div>
                                     </div>
 									 <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="position" class="c-label">Your Position</label>
+                                        <label for="position" class="c-label">Posisi Anda<span style="color: red;">*</span></label>
                                         <div class="form-group">
-                                           <select  name="position" id="position" class="form-control">
-												<option>Select Position</option>
+                                           <select name="position" id="position" class="form-control" required>
+												<option disabled selected value="">Pilih Posisi</option>
 												<option value="BOD">BOD</option>
 												<option value="Manager">Manager</option>
 												<option value="Staff">Staff</option>
@@ -840,22 +818,23 @@ if($kodeBarang <> 0){
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="email" class="c-label">Email Address</label>
+                                        <label for="email" class="c-label">Alamat Email<span style="color: red;">*</span></label>
                                         <div class="form-group">
                                             <input type="email" class="form-control" id="email" name="email" aria-label="Email"
-                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email Address" required>
+                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="Email" required>
 												<input class="form-control" type="hidden" name="message" aria-label="Message"
-                                                placeholder="PESAN" value="Web Development 3 2020"/>
+                                                placeholder="PESAN" value="Web Development Scurity 2020"/>
 												<input class="form-control" type="hidden" name="verifikasi_code" id="verifikasi_code" value="<?php echo $kodeBarang ?>"/>
 												<input class="form-control" type="hidden" name="type_dokumen" id="type_dokumen" value="3"/>
+												<input class="form-control" type="hidden" name="base_url" id="base_url" value="<?php echo $base_url ?>"/>
                                         </div>
                                     </div>
 									
 									<div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="phone" class="c-label">Tel</label>
+                                        <label for="phone" class="c-label">No. Telpon<span style="color: red;">*</span></label>
                                         <div class="form-group">
-                                            <input type="number" class="form-control" id="phone" name="phone" aria-label="Phone"
-                                                value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="Phone" required>
+                                            <input type="text" class="form-control" id="phone" name="phone" aria-label="Phone"
+                                                value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="No Telpon" required>
                                         </div>
                                     </div>
 									
@@ -863,7 +842,7 @@ if($kodeBarang <> 0){
                                         <div class="form-group">
 											 <label>
                                                 <input type="checkbox" name="privacy" value="1" required>
-                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>Privacy Policy
+                                                <span class="pr-style">Dengan mengisi ini, saya telah membaca <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></span>
                                             </label>
                                         </div>
                                     </div>
@@ -871,19 +850,22 @@ if($kodeBarang <> 0){
                                     
                                 </div>
 								</table>
-                                    <div class="col-sm-4 col-sm-offset-4 paddingleft">
-                                        <button type="submit" class="btn btn-block"
-                                            onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');"
-                                            style="background: #f4ce58;">Submit</button>
+									<div class="col-sm-12" style="display:flex;justify-content:center; margin-bottom:1em">
+                                        <div class="g-recaptcha pull-right"
+                                            data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+                                        <div class="clearfix"></div><br>
                                     </div>
-                                </form>
+                                    <div class="col-sm-4 col-sm-offset-4 paddingleft">
+                                        <button type="submit" class="btn btn-block btn-submit"
+                                            onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');"
+                                            >Kirim</button>
+                                    </div>
                             </div>
+							 </form>
                         </div>
                     </div>
                 </div>
             </section>
-
-            
 
         </div>
 
@@ -904,6 +886,32 @@ if($kodeBarang <> 0){
                 }
             });
         });
+		
+		function validasi_form(form){
+		  var  pola_url=/^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/|www\.)[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$/;
+		   var pola_email=/^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,4}$/;
+		   var pola_tel=/^[\+]?[(]?[0-9]{3}[)]?[-\s\.]?[0-9]{3}[-\s\.]?[0-9]{4,6}$/im;
+		   
+		   if (!pola_url.test(form.url_social_media.value)){
+			  alert ('Format Penulisan URL Salah');
+			  form.url_social_media.focus();
+			  return false;
+		   } 
+		   
+		  if (!pola_email.test(form.email.value)){
+			  alert ('Format Penulisan Email Salah');
+			  form.email.focus();
+			  return false;
+		   } 
+		   
+		    if (!pola_tel.test(form.phone.value)){
+			  alert ('Format Penulisan No.Telpon Salah');
+			  form.phone.focus();
+			  return false;
+		   } 
+		   
+		return (true);
+		}
         </script>
     </div>
 </body>
