@@ -158,12 +158,10 @@ class Fgwhitepaperform
     {
         $status = array(
             'message' => array(
-                'subject' => 'Message From Logique.co.id Website',
-                'header' => 'Request of Downloading a white-paper',
+                'subject' => "Request to download white-paper documents from ".$_POST['name']."",
             ),
             'notification' => array(
-                'subject' => 'Notification Message From Logique.co.id Website',
-                'header' => 'Request of Downloading a white-paper',
+                'subject' => "Terima kasih telah mengunduh Profil Perusahaan PT. Logique Digital Indonesia, ".$_POST['name']."",
             ),
         );
         foreach ($status as $key => $data) {
@@ -208,7 +206,7 @@ class Fgwhitepaperform
             $this->mailer->SetFrom($this->fromEmail, $this->mailer->FromName);
 
             $this->mailer->Subject = $data['subject'];
-            $message = $this->ComposeFormtoEmail($data['header']);
+            $message = $this->ComposeFormtoEmail();
 
             $textMsg = trim(strip_tags(preg_replace('/<(head|title|style|script)[^>]*>.*?<\/\\1>/s','',$message)));
             $this->mailer->AltBody = @html_entity_decode($textMsg,ENT_QUOTES,"UTF-8");
@@ -294,14 +292,9 @@ class Fgwhitepaperform
     {
         $ret_str='';
 		$white_paper_type = $_POST['white_paper_type'];
-		$type_dokumen_dev = $_POST['type_dokumen'];
-		$code_dev = $_POST['verifikasi_code'];
-		$codetext = "kodenya".$code_dev."dirahasiakan";  
-		$code = base64_encode($codetext); 
-		$typetext = "type".$type_dokumen_dev."disembunyikan";  
-		$type_dokumen = base64_encode($typetext); 
+		$code = $_POST['verifikasi_code']; 
 		$base_url = $_POST['base_url'];
-        $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>".$white_paper_type." <a href='".$base_url."download.php?code=".$code."&type=".$type_dokumen."'>Download</a></div>\n";
+        $ret_str = "<td>".$white_paper_type." <a href='".$base_url."download.php?code=".$code."' target='_blank'><strong>Download</strong></a></td>";
 
         return $ret_str;
     }
@@ -318,7 +311,8 @@ class Fgwhitepaperform
     }
     function GetHTMLHeaderPart()
     {
-         $retstr = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">'."\n".
+		///<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">'."\n"
+         $retstr = '<!DOCTYPE HTML">'."\n".
                    '<html><head><title></title>'.
                    '<meta http-equiv=Content-Type content="text/html; charset=utf-8">';
          $retstr .= $this->GetMailStyle();
@@ -331,15 +325,81 @@ class Fgwhitepaperform
         return $retstr ;
     }
 
-    function ComposeFormtoEmail($header_message)
+    function ComposeFormtoEmail()
     {
         $header = $this->GetHTMLHeaderPart();
         $formsubmission = $this->FormSubmissionToMail();
 		$linkInfotomail = $this->LinkInfoToMail();
         $extra_info = $this->ExtraInfoToMail();
         $footer = $this->GetHTMLFooterPart();
-
-        $message = $header.$header_message."<p>{$formsubmission}</p><p>{$linkInfotomail}</p><hr/>".$extra_info.$footer;
+		$name = $_POST['name'];
+		
+			$message = "
+			<!DOCTYPE HTML>
+				<html>
+				<head>
+				  <meta charset='UTF-8'>
+				  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+				  <title>Terima kasih telah mengunduh Profil Perusahaan PT. Logique Digital Indonesia, ".$_POST['name']."</title>
+				</head>
+				<body style='font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';'>
+				  <div style='background-color: black; padding: 20px;'>
+					<img src='https://www.logique.co.id/img/logo.png' alt='Logique' style='width: 150px;'>
+				  </div>
+				  <p style='font-size: 16px;padding:20px;'>
+					<strong>Yth ".$name."</strong>
+					<br><br>
+					Terima kasih telah mengajukan permintaan whitepaper dari LOGIQUE DIGITAL INDONESIA.
+					<br><br>
+					Kami berharap whitepaper dari kami bermanfaat untuk Anda maupun perusahaan Anda.
+					Silakan klik link di bawah ini untuk mengunduh whitepaper kami. Kami sangat menghargai masukan dari Anda untuk meningkatkan kualitas kami dalam menyediakan informasi terbaik.
+					Silakan hubungi kami jika Anda membutuhkan informasi maupun sumber bermanfaat lainnya
+					<br><br>
+					Untuk mempelajari Logique Digital Indonesia, silakan kunjungi website kami <a href='https://www.logique.co.id' target='_blank'>logique.co.id</a>
+				  </p>
+				  <table style='border: 1px dashed #eee;font-size: 16px; background-color: #f8f8f8;' cellpadding='10' cellspacing='3'>
+					<tr>
+					  <td width='35%'><strong>Nama Perusahaan</strong></td>
+					  <td width='5%'>:</td>
+					  <td>".$_POST['company_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Nama Departmen</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['department_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Url Social Media</strong></td>
+					  <td>:</td>
+					  <td><a href='".$_POST['url_social_media']."' target='_blank'>".$_POST['url_social_media']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Posisi</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['position']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Email</strong></td>
+					  <td>:</td>
+					  <td><a href='mailto:".$_POST['email']."' target='_blank'>".$_POST['email']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Telepon</strong></td>
+					  <td>:</td>
+					  <td><a href='tel:".$_POST['phone']."' target='_blank'>".$_POST['phone']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Link Download White Paper</strong></td>
+					  <td>:</td>
+					  {$linkInfotomail}
+					</tr>
+				  </table>
+				  <div style='padding: 20px; line-height: 140%; font-size: 14px; color: #666;'>
+					PT LOGIQUE DIGITAL INDONESIA<br/> Ad Premier Building 19th Floor.<br/>Jalan Tb. Simatupang No. 5<br/>Ragunan, Ps. Minggu, Jakarta Selatan,<br/>Indonesia<br/>12550<br/>info@logique.co.id<br/>Tell: 0811-870-321
+				  </div>
+				</body>
+				</html>
+			";
 
         return $message;
     }

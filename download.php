@@ -4,23 +4,13 @@
 
 require 'conf.php';
 
-$kode_dev 	= $mysqli->real_escape_string($_GET['code']);
-$deskode = base64_decode($kode_dev);
-$code = preg_replace("/[^0-9]/", "", $deskode);
+$code 	= $mysqli->real_escape_string($_GET['code']);
 
-$type_dev 	= $mysqli->real_escape_string($_GET['type']);
-$destype = base64_decode($type_dev);
-$type = preg_replace("/[^0-9]/", "", $destype);
-
-$query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar FROM al_white_papers a
+$query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar, a.verifikasi_type FROM al_white_papers a
 		WHERE a.verifikasi_code = '{$code}' AND DATE_ADD(NOW(), INTERVAL -24 HOUR) < a.whitepaper_regdate");
 $data = mysqli_fetch_array($query);
 $kodeBarang = $data['kodeTerbesar']; 
-
-$query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar FROM al_white_papers a
-		WHERE a.verifikasi_code = '{$code}' AND DATE_ADD(NOW(), INTERVAL -24 HOUR) < a.whitepaper_regdate");
-$data = mysqli_fetch_array($query);
-$kodeBarang = $data['kodeTerbesar'];
+$type = $data['verifikasi_type']; 
 
 if($kodeBarang == 0)
 {
@@ -701,8 +691,8 @@ if($kodeBarang == 0)
 							<div class="clearfix">
 								<div class="contact-us-cont">
 								 <div class="" style="margin-top: 3%;">
-	<div class="message"><center>Download gagal karena link salah<br/>atau masa berlaku-nya telah habis.</center></div>';
-	</div>
+							<div class="message"><center>Download gagal karena link salah<br/>atau masa berlaku-nya telah habis.</center></div>
+							</div>
 						</div>
                         </div>
                     </div>
