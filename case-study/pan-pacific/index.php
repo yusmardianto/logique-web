@@ -127,10 +127,10 @@
           <!-- <h2 class="cs-title-2">(Progressive Web App)</h2> -->
         </section>
         <section class="cs-section">
-          <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
+          <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1" style="z-index: 0;">
           <div class="row">
             <div class="col-sm-6 col-md-push-6 relative">
-              <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1" style="z-index: 1;">
+              <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">Pan Pacific Insurance</h2>
