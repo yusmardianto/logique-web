@@ -1081,8 +1081,7 @@
                                         <li>フォーム開発, マイクロサイト, 保険, CSR</li>
                                     </ul>
                                 </div>
-                            </div>        
-
+                            </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <img src="/img/portfolio/update/web-aia-conservation.png" class="img-responsive" alt="AIA Conservation">
@@ -1092,6 +1091,36 @@
                                         <li>フォーム開発, マルチユーザージャーニー, マイクロサイト, Adobe Forms, 保険</li>
                                     </ul>
                                 </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://gakken-jakarta.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-gakken.png" class="img-responsive" alt="Gakken Jakata">
+                                    <h3>Gakken Jakarta</h3>
+                                    <ul class="list-unstyled">
+                                        <li>(コーディング | 運用 | サーバー運用）</li>
+                                        <li>コーポレート＆サービスWeb、教育</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://indonesea.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-indonesea.png" class="img-responsive" alt="Indonesea">
+                                    <h3>Indonesea</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web構築（デザイン制作 | CMS | コーディング）</li>
+                                        <li>予約管理システム, CMS, レジャー, BtoCサービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://www.bambootajur.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-kbj.png" class="img-responsive" alt="Green Bamboo Terrace">
+                                    <h3>Green Bamboo Terrace</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作（デザイン制作 | コーディング | デジタルマーケティング）</li>
+                                        <li>コンバージョン獲得, 不動産</li>
+                                    </ul>
+                                </a>
                             </div>
 
                         </div>
