@@ -27,14 +27,14 @@
 }
 
 .dm__other-service .other-service__list h4 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 800 !important;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .dm__other-service .other-service__list p {
-    font-size: 16px;
+    font-size: 15px;
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
@@ -57,7 +57,7 @@
 
 <section class="dm__other-service">
     <div class="container__">
-        <h3 class="text-center">Other services</h3>
+        <h3 class="text-center">その他のサービス</h3>
         <div class="row other-service__list">
             <div class="col-sm-3">
                 <a href="/jp/services/web-dev.php" class="list__item">
