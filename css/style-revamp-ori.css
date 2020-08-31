@@ -309,9 +309,10 @@
   margin: 2em 0 0;
 }
 .client-list__img {
-  width: 180px;
+  width: max-content;
+  max-width: 180px;
   height: 70px;
-  margin: 15px 20px;
+  margin: 15px 10px;
   object-fit: contain;
   filter: grayscale(1);
   transition: all .15s;

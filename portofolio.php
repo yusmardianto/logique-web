@@ -144,7 +144,7 @@
         }
         </style>
 
-        <div class="portfolio-update content-wrapper__" id="contentPortfolio">
+        <div class="portfolio-update content-wrapper__">
 
             <section class="portfolio__banner --top">
                 <div class="container__" style="padding:0">
@@ -175,26 +175,33 @@
             <section id="portfolioNavigation">
                 <div class="container__ text-center">
                     <div class="client-list__wrapper">
-                        <h3 class="portfolio-sec__title">Klien Kami</h3>
+                        <h2 class="portfolio-sec__title">Klien Kami</h2>
                         <div class="client-list">
-                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
                             <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
                             <img class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="asean">
-                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
+                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
                             <img class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="jjc">
-                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
-                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
+                            <img class="client-list__img" src="/img/portfolio/client-list/tripatra.png" alt="tripatra">
+                            <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
+                            <img class="client-list__img" src="/img/portfolio/client-list/panpacific.png" alt="panpacific">
                             <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="panin">
-                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya" style="max-width: 140px">
+                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
+                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya">
+                            <img class="client-list__img" src="/img/portfolio/client-list/mpm.png" alt="mpm">
+                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
                             <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="pertamina">
                             <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="sinarmas">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
-                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
                             <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
-                            <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
+                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/gakken.svg">
+                                <img class="client-list__img" src="/img/portfolio/client-list/gakken.png" alt="gakken">
+                            </picture>
                             <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
-                            <img class="client-list__img" src="/img/portfolio/client-list/panpacific.jpg" alt="pan pacific insurance">
+                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
+                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
+                            <img class="client-list__img" src="/img/portfolio/client-list/kbj.png" alt="kbj">
                             <img class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
                             <img class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
                         </div>

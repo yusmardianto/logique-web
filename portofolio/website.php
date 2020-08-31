@@ -1092,26 +1092,36 @@
                                     </ul>
                                 </div>
                             </div>
-                            <!-- <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="" class="img-responsive" alt="">
-                                    <h3></h3>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://gakken-jakarta.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-gakken.png" class="img-responsive" alt="Gakken Jakata">
+                                    <h3>Gakken Jakarta</h3>
                                     <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
+                                        <li>(Coding | Maintenance | Server Operation)</li>
+                                        <li>Corporate & Service Web, Education</li>
                                     </ul>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <img src="" class="img-responsive" alt="">
-                                    <h3></h3>
+                                <a href="https://indonesea.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-indonesea.png" class="img-responsive" alt="Indonesea">
+                                    <h3>Indonesea</h3>
                                     <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
+                                        <li>Web Development (Design | CMS | Coding)</li>
+                                        <li>CMS, Booking system, Travel & Leisure, BtoC Service</li>
                                     </ul>
-                                </div>
-                            </div> -->
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://www.bambootajur.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-kbj.png" class="img-responsive" alt="Green Bamboo Terrace">
+                                    <h3>Green Bamboo Terrace</h3>
+                                    <ul class="list-unstyled">
+                                        <li>(Design | Coding | Digital Marketing)</li>
+                                        <li>Conversion-oriented, Real Estate</li>
+                                    </ul>
+                                </a>
+                            </div>
 
                         </div>
                     </div>
