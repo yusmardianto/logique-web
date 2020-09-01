@@ -1004,6 +1004,7 @@ b {
   position: absolute;
   top: -20px;
   left: calc(100% + 20px);
+  max-width: 310px;
 }
 
 .portfolio-update h1 {
