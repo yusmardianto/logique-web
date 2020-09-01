@@ -203,7 +203,6 @@
                             <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
                             <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
                             <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
-                            <img class="client-list__img" src="/img/portfolio/client-list/kbj.png" alt="kbj">
                             <img class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
                             <img class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
                         </div>

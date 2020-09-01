@@ -174,7 +174,10 @@
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>Website Creation Works</h1></div>
                             <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation portfolio.</p>
-                            <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
+                            <picture>
+                                <source srcset="/img/portfolio/bg-portfolio-detail-website.webp">
+                                <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
+                            </picture>
                         </div>
                     </div>
                 </div>
@@ -1123,6 +1126,16 @@
                                     <ul class="list-unstyled">
                                         <li>(Design | Coding | Digital Marketing)</li>
                                         <li>Conversion-oriented, Real Estate</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://benefit-one.co.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-benefit-one.png" class="img-responsive" alt="Green Bamboo Terrace">
+                                    <h3>Benefit One Website Remake</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web Re-make (Design | CMS | Coding)</li>
+                                        <li>CMS, Mobile Optimized, BtoB Service</li>
                                     </ul>
                                 </a>
                             </div>
