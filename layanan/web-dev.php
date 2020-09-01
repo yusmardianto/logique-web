@@ -1241,7 +1241,7 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/aia.png" alt="">
+                            <img src="assets/img/aia.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1368,7 +1368,7 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/panin.png" alt="">
+                            <img src="assets/img/panin.jpg" alt="">
                         </div>
                     </div>
                 </div>
