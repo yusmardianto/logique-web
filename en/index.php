@@ -67,7 +67,7 @@
 
     <!-- Bootstrap -->
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
-    <link rel="preload" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel=" stylesheet preload" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="/css/bootstrap.min.css"></noscript>
     <link href="../css/style.css" rel="stylesheet">
     <!-- <link href="../css/slick.css" rel="stylesheet">
@@ -75,10 +75,10 @@
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
 
-    <link rel="preload" href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet preload" href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet preload" href="/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<!--     <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
     <noscript>
     <link rel="stylesheet" href="/css/slick.css">
     <link rel="stylesheet" href="/css/slick-theme.css">
