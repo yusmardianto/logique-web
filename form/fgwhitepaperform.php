@@ -294,7 +294,7 @@ class Fgwhitepaperform
 		$white_paper_type = $_POST['white_paper_type'];
 		$code = $_POST['verifikasi_code']; 
 		$base_url = $_POST['base_url'];
-        $ret_str = "<div class='label'>Link Download White Paper:</div><div class='value'>".$white_paper_type." <a href='".$base_url."download.php?code=".$code."'>Download</a></div>\n";
+        $ret_str = "<td>".$white_paper_type." <a href='".$base_url."download.php?code=".$code."' target='_blank'><strong>Download</strong></a></td>";
 
         return $ret_str;
     }
@@ -334,21 +334,72 @@ class Fgwhitepaperform
         $footer = $this->GetHTMLFooterPart();
 		$name = $_POST['name'];
 		
-        $message = $header."<br/>
-					<div>Kepada Yth ".$name."</div><br/><br/>
-					<div>Terima kasih telah mengajukan permintaan whitepaper dari LOGIQUE DIGITAL INDONESIA.</div><br/>
-					<div>Kami berharap whitepaper dari kami bermanfaat untuk Anda maupun perusahaan Anda.<br/> Silakan klik link di bawah ini untuk mengunduh whitepaper kami. Kami sangat menghargai masukan dari Anda untuk meningkatkan kualitas kami dalam menyediakan informasi terbaik.<br/>Silakan hubungi kami jika Anda membutuhkan informasi maupun sumber bermanfaat lainnya</div><br/>
-					<div>Untuk mempelajari Logique Digital Indonesia, silakan kunjungi website kami <a href='https://www.logique.co.id/'>logique.co.id</a></div><br/><br/>
-					<div class='label'>Nama Perusahaan : </div><div>".$_POST['company_name']."</div>
-					<div class='label'>Nama Departmen : </div><div>".$_POST['department_name']."</div>
-					<div class='label'>Url Social Media : </div><div>".$_POST['url_social_media']."</div>
-					<div class='label'>Posisi : </div><div>".$_POST['position']."</div>
-					<div class='label'>Email : </div><div>".$_POST['email']."</div>
-					<div class='label'>Telepon : </div><div>".$_POST['phone']."</div>
-					
-					<p>{$linkInfotomail}</p><hr/>
-					<div>PT LOGIQUE DIGITAL INDONESIA<br/> Ad Premier Building 19th Floor.<br/>Jalan Tb. Simatupang No. 5<br/>Ragunan, Ps. Minggu, Jakarta Selatan,<br/>Indonesia<br/>12550<br/>info@logique.co.id<br/>Tell: 0811-870-321</div>
-					".$footer;
+			$message = "
+			<!DOCTYPE HTML>
+				<html>
+				<head>
+				  <meta charset='UTF-8'>
+				  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+				  <title>Terima kasih telah mengunduh Profil Perusahaan PT. Logique Digital Indonesia, ".$_POST['name']."</title>
+				</head>
+				<body style='font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';'>
+				  <div style='background-color: black; padding: 20px;'>
+					<img src='https://www.logique.co.id/img/logo.png' alt='Logique' style='width: 150px;'>
+				  </div>
+				  <p style='font-size: 16px;padding:20px;'>
+					<strong>Yth ".$name."</strong>
+					<br><br>
+					Terima kasih telah mengajukan permintaan whitepaper dari LOGIQUE DIGITAL INDONESIA.
+					<br><br>
+					Kami berharap whitepaper dari kami bermanfaat untuk Anda maupun perusahaan Anda.
+					Silakan klik link di bawah ini untuk mengunduh whitepaper kami. Kami sangat menghargai masukan dari Anda untuk meningkatkan kualitas kami dalam menyediakan informasi terbaik.
+					Silakan hubungi kami jika Anda membutuhkan informasi maupun sumber bermanfaat lainnya
+					<br><br>
+					Untuk mempelajari Logique Digital Indonesia, silakan kunjungi website kami <a href='https://www.logique.co.id' target='_blank'>logique.co.id</a>
+				  </p>
+				  <table style='border: 1px dashed #eee;font-size: 16px; background-color: #f8f8f8;' cellpadding='10' cellspacing='3'>
+					<tr>
+					  <td width='35%'><strong>Nama Perusahaan</strong></td>
+					  <td width='5%'>:</td>
+					  <td>".$_POST['company_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Nama Departmen</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['department_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Url Social Media</strong></td>
+					  <td>:</td>
+					  <td><a href='".$_POST['url_social_media']."' target='_blank'>".$_POST['url_social_media']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Posisi</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['position']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Email</strong></td>
+					  <td>:</td>
+					  <td><a href='mailto:".$_POST['email']."' target='_blank'>".$_POST['email']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Telepon</strong></td>
+					  <td>:</td>
+					  <td><a href='tel:".$_POST['phone']."' target='_blank'>".$_POST['phone']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Link Download White Paper</strong></td>
+					  <td>:</td>
+					  {$linkInfotomail}
+					</tr>
+				  </table>
+				  <div style='padding: 20px; line-height: 140%; font-size: 14px; color: #666;'>
+					PT LOGIQUE DIGITAL INDONESIA<br/> Ad Premier Building 19th Floor.<br/>Jalan Tb. Simatupang No. 5<br/>Ragunan, Ps. Minggu, Jakarta Selatan,<br/>Indonesia<br/>12550<br/>info@logique.co.id<br/>Tell: 0811-870-321
+				  </div>
+				</body>
+				</html>
+			";
 
         return $message;
     }
