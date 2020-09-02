@@ -266,15 +266,71 @@
           </div>
         </section>
         <section class="cs-bottom">
-          <h2 class="cs-subtitle">About <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
-          <p class="cs-desc">
-          As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
-          </p>
-          <a href="/en/contact.php" class="btn btn-cs-bottom">Contact Us</a>
-          <a href="/en/services.php" class="btn btn-cs-bottom">Our Services</a>
-          <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/web-dev.php" class="btn btn-cs-bottom">Web Development</a>
-          <a href="/en/services/system-dev.php" class="btn btn-cs-bottom">Web System Development</a>
+          <div class="cs-bottom__text">
+            <h2 class="cs-subtitle logofont">ABOUT LOGIQUE</h2>
+            <p class="cs-desc">
+              As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
+            </p>
+          </div>
+          <div class="cs-bottom__btn">
+            <div class="btn-wrapper">
+              <div>
+                <a href="/en/contact.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-contact.svg">
+                    <img src="/case-study/img/icon/btn-contact.png" alt="">
+                  </picture>
+                  <h5>CONTACT US</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/en/services.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-service.svg">
+                    <img src="/case-study/img/icon/btn-service.png" alt="">
+                  </picture>
+                  <h5>OUR SERVICE</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/en/portfolio.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-portfolio.svg">
+                    <img src="/case-study/img/icon/btn-portfolio.png" alt="">
+                  </picture>
+                  <h5>PORTFOLIO</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/en/services/web-dev.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-web-dev.svg">
+                    <img src="/case-study/img/icon/btn-web-dev.png" alt="">
+                  </picture>
+                  <h5>WEB DEVELOPMENT</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/en/services/system-dev.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-web-system.svg">
+                    <img src="/case-study/img/icon/btn-web-system.png" alt="">
+                  </picture>
+                  <h5>WEB SYSTEM DEVELOPMENT</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+            </div>
+          </div>
         </section>
       </div>
       <style>

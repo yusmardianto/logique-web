@@ -197,6 +197,11 @@
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
+                  <a href="/case-study/opuspark/">
+                      <img class="img-responsive center-block" src="img/opus-park.png" alt="Studi Kasus Lainnya">
+                  </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/case-study/caroline-bidding-system/">
                   <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Studi Kasus Lainnya">
                 </a>
@@ -231,15 +236,71 @@
           </div>
         </section>
         <section class="cs-bottom">
-          <h2 class="cs-subtitle">Tentang <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
-          <p class="cs-desc">
-          LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll. <br/>
-          </p>
-          <a href="/hubungi-kami.php" class="btn btn-cs-bottom">Kontak LOGIQUE</a>
-          <a href="/layanan.php" class="btn btn-cs-bottom">Layanan LOGIQUE</a>
-          <a href="/portofolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/layanan/web-dev.php" class="btn btn-cs-bottom">Ingin buat Website?</a>
-          <a href="/layanan/pembuatan-sistem-web.php" class="btn btn-cs-bottom">Ingin buat Web System?</a>
+          <div class="cs-bottom__text">
+            <h2 class="cs-subtitle logofont">TENTANG LOGIQUE</h2>
+            <p class="cs-desc">
+            LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll.
+            </p>
+          </div>
+          <div class="cs-bottom__btn">
+            <div class="btn-wrapper">
+              <div>
+                <a href="/hubungi-kami.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-contact.svg">
+                    <img src="/case-study/img/icon/btn-contact.png" alt="">
+                  </picture>
+                  <h5>KONTAK LOGIQUE</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/layanan.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-service.svg">
+                    <img src="/case-study/img/icon/btn-service.png" alt="">
+                  </picture>
+                  <h5>LAYANAN LOGIQUE</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/portofolio.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-portfolio.svg">
+                    <img src="/case-study/img/icon/btn-portfolio.png" alt="">
+                  </picture>
+                  <h5>PORTOFOLIO</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/layanan/web-dev.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-web-dev.svg">
+                    <img src="/case-study/img/icon/btn-web-dev.png" alt="">
+                  </picture>
+                  <h5>INGIN BUAT WEBSITE?</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/layanan/pembuatan-sistem-web.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-web-system.svg">
+                    <img src="/case-study/img/icon/btn-web-system.png" alt="">
+                  </picture>
+                  <h5>INGIN BUAT SISTEM BERBASIS WEB?</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+            </div>
+          </div>
         </section>
       </div>
       <style>
