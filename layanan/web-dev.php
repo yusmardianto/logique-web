@@ -345,7 +345,7 @@ if(isset($_POST['submitted']))
                 <div class="col-md-4">
                     <div class="division-container">
                         <p class="title">Layanan Pembuatan Website “One-Stop”</p>
-                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsutasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
+                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsultasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -387,7 +387,7 @@ if(isset($_POST['submitted']))
                     <div class="seo-part flow-part">
                         <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
-                        <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kueri yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
+                        <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kata kunci yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
                     </div>
                 </div>
             </div>
@@ -493,11 +493,12 @@ if(isset($_POST['submitted']))
                     <!-- </a> -->
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="https://jba.co.id/" target="_blank">
+                <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
+                    <!-- <a href="https://jba.co.id/" target="_blank"> -->
                         <img src="assets/img/img-webdev/JBA.png" alt="">
                         <p class="portofolio-title text-center">JBA</p>
-                    </a>
+                    <!-- </a> -->
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
@@ -585,7 +586,7 @@ if(isset($_POST['submitted']))
                         <a class="link-yellow-white" href="/layanan/penetration-test.php">Diagnosa Keamanan Website</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/layanan/web-dev.php">Web Creation Portfolio</a>
+                        <a class="link-yellow-white" href="/layanan/web-dev.php">Pengembangan Sistem Berbasis Web</a>
                         <a class="link-yellow-white" href="/layanan/pembuatan-aplikasi-mobile">Pengembangan Aplikasi Mobile</a>
                     </div>
                 </div>
@@ -849,7 +850,7 @@ Proses Bisnis Perusahaan</p>
                             </div>
                             <div class="row">
                                 <div class="col-md-offset-2 col-md-10 m-t-10">
-                                    <p class="title-content-p">Tim kami siap untuk menerima pesan Anda kapan saja. Anda juga dapat melakukan pemesanan dan menjelaskan secara jelas kepada kami mengenai deskripsi awal situs web seperti apa yang Anda inginkan, mulai dari pembuatan situs web, operasi, konfigurasi CMS, pengembangan sistem web, dan lain-lain. Hubungi kami sekarang melalui email ke info@logique.co.id atau melakukan pengisian formulir pemesanan yang tersedia di sini. Anda juga dapat bertanya kepada kami mengenai berbagai hal yang berkaitan dengan pengembangan web, mendesain web atau bahkan harganya. Jangan ragu untuk berbicara dengan kami dalam Bahasa Indonesia, Bahasa Inggris, atau Bahasa Jepang. Kami akan langsung menghubungi Anda untuk melanjutkan diskusi lebih lanjut.
+                                    <p class="title-content-p">Tim kami siap untuk menerima pesan Anda kapan saja. Anda juga dapat melakukan pemesanan dan menjelaskan secara jelas kepada kami mengenai deskripsi awal situs web seperti apa yang Anda inginkan, mulai dari pembuatan situs web, operasi, konfigurasi CMS, pengembangan sistem web, dan lain-lain. Hubungi kami sekarang melalui email ke <a href = "mailto:info@logique.co.id">info@logique.co.id</a> atau melakukan pengisian formulir pemesanan yang tersedia <a href="/hubungi-kami.php" target="_blank">di sini</a>. Anda juga dapat bertanya kepada kami mengenai berbagai hal yang berkaitan dengan pengembangan web, mendesain web atau bahkan harganya. Jangan ragu untuk berbicara dengan kami dalam Bahasa Indonesia, Bahasa Inggris, atau Bahasa Jepang. Kami akan langsung menghubungi Anda untuk melanjutkan diskusi lebih lanjut.
                                     </p>
                                 </div>
                             </div>
@@ -1394,9 +1395,22 @@ Proses Bisnis Perusahaan</p>
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">JBA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">JBA – Website Perusahaan dan Layanan</p>
+                            <p class="content">
+                            Merupakan situs website yang menyediakan semua informasi yang dibutuhkan oleh pelanggan terkait lelang mobil dan motor yang dilakukan oleh JBA Indonesia. 
+                            </p>
+                            <p class="content">
+                            Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                            Konsep pembuatan desain diarahkan untuk menguatkan kesan korporasi yang terpercaya dan profesional, dengan implementasi yang mudah digunakan pengguna, dan pengaplikasian teknologi desain responsif yang dapat dilihat dengan baik pada Smartphone, Tablet, dan Desktop. 
+                            </p>
+                            <p class="content">
+                            Untuk dapat menampilkan data-data mobil dan motor yang dilelang, website terintegrasi dengan sistem inti melalui API yang juga dirancang oleh LOGIQUE dengan hasil akhir website yang diimplementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                            Selain pembuatan website perusahaan, LOGIQUE membantu JBA secara menyeluruh untuk pembuatan berbagai sistem dan aplikasi mobile untuk mendukung proses bisnis yang ada.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1411,107 +1425,29 @@ Proses Bisnis Perusahaan</p>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Otomotif / Lelang</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Project Period</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Device</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
-                                <div class="content-title">
-                                    <p>Scope/person in charge</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Strategic design</p>
-                                    <p>
-                                        Information design
-                                    </p>
-                                    <p>
-                                        direction
-                                    </p>
-                                    <p>
-                                        Lead design
-                                    </p>
-                                    <p>
-                                        design
-                                    </p>
-                                    <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
+                                    <p>Website</p>
                                 </div>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/jba.png" alt="">
+                            <img src="assets/img/jba1.jpg" alt="">
+                            <br />
+                            <img src="assets/img/jba2.jpg" alt="">
+                            <br />
+                            <img src="assets/img/jba4.jpg" alt="">
+                            <br />
+                            <img src="assets/img/jba6.jpg" alt="">
                         </div>
                     </div>
                 </div>
