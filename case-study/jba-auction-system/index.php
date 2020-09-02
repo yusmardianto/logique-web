@@ -125,6 +125,23 @@
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
           <h1 class="cs-title">JBA Auction System</h1>
         </section>
+        <section class="breadcrumb-container">
+          <div class="row">
+              <div class="col-sm-12">
+                  <ol class="breadcrumb breadcrumb--update-design" itemscope
+                      itemtype="http://schema.org/BreadcrumbList">
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                        <meta itemprop="position" content="1" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - JBA Indonesia</span></a>
+                        <meta itemprop="position" content="2" />
+                      </li>
+                  </ol>
+              </div>
+          </div>
+        </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
           <div class="row">
