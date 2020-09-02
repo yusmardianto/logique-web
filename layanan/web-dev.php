@@ -1246,6 +1246,8 @@ Proses Bisnis Perusahaan</p>
                             <img src="assets/img/aia2.jpg" alt="">
                             <br/>
                             <img src="assets/img/aia3.jpg" alt="">
+                            <br/>
+                            <img src="assets/img/aia4.jpg" alt="">
                         </div>
                     </div>
                 </div>
