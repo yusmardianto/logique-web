@@ -1,6 +1,5 @@
  <?php
  require_once("assets/form/fgcontact_systemdev.php");
- 
  $formproc = new FGContactForm();
  
  //1. Add your email address here.
@@ -44,7 +43,7 @@
      <meta name="description"
          content="LOGIQUEは、E-Commerceシステム、CRMシステム、会計管理システムなど各種システム開発運用やアプリ開発、システムコンサルティングをインドネシアで行っています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
      <meta name="keywords"
-         content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
+         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -77,9 +76,9 @@
 	</script>
  </head>
 
- <body>
-
-     <div>
+ <body class="systedev-page">
+ 
+     <div class="wrapper">
          <!-- NAVIGATION -->
          <div class="nav-lp">
              <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -210,7 +209,7 @@
                      <h3 class="m-new">  
                         システム開発が必要なのに、コストが高いから、時間かかるから、難しいからと諦めていませんか？インドネシアでのIT/Webシステム開発は<span class="logofont">LOGIQUE</span>にお任せください。柔軟にスピーディーにリーズナブルなコストで開発します。
                      </h3>
-                     <a href="/en/contact.php" class="btn-yellow">いますぐお問い合わせ <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                     <a href="/jp/contact.php" class="btn-yellow">いますぐお問い合わせ <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                  </div>
              </div>
          </div>
@@ -219,22 +218,20 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <ol class="breadcrumb breadcrumb--update-design" itemscope
-                        itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                href="/index.php"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
-                        </li>
-                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp;Services</span></a>
-                                <meta itemprop="position" content="2" />
-                            </li>
-                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                    itemprop="item"><span itemprop="name">&nbsp;Web
-                                        System</span></a>
-                                <meta itemprop="position" content="3" />
-                            </li>
-                    </ol>
+                    <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                     href="/jp/index.php"><span itemprop="name">Home</span></a>
+                                 <meta itemprop="position" content="1" />
+                             </li>
+                             <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                     itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
+                                 <meta itemprop="position" content="2" />
+                             </li>
+                             <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                     itemprop="item"><span itemprop="name">&nbsp;Webシステム開発</span></a>
+                                 <meta itemprop="position" content="3" />
+                             </li>
+                         </ol>
                 </div>
             </div>
         </div>
@@ -273,7 +270,7 @@
                          <div class="row">
                              <div class="col-sm-6">
                                  <p style="padding-bottom: 5px;">高品質なシステム構築を行います。通常のテストに加えセキュリティ脆弱性テストを実施することをお奨めしています。SQLインジェクション、パストラバーサル、クロスサイトスクリプティングなどPenetrationテストを行いリスクを最小限にします</p> 
-                                 <a href="/penetration-test.php" class="btn-yellow">セキュリティ脆弱性診断はこちら</a>
+                                 <a href="/jp/services/penetration-test.php" class="btn-yellow">セキュリティ脆弱性診断はこちら</a>
                              </div>
                              <div class="col-sm-6 text-center">
                                  <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
@@ -717,7 +714,7 @@
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">See more details</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                        <!--     <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -745,9 +742,9 @@
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal9" tabindex="-1" role="dialog" aria-labelledby="achievementLabel9" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -772,11 +769,11 @@
                                         <h3>中古車マーケットプレイス構築、ディーラー向けアプリ開発、など.</h3>
                                         <p>2.5 months, JQuery, HTML5, PHP Framework, MySQL</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal9" class="more-icon"> See more details </a>
                                 </div>
                             </div>
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal10" tabindex="-1" role="dialog" aria-labelledby="achievementLabel10" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -801,12 +798,12 @@
                                         <h3>デジタルマップシステム開発.</h3>
                                         <p>3 months, PHP Framework, MySQL, Google map API, Java Script</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal10" class="more-icon"> See more details </a>
                                 </div>
                             </div>
                             
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal11" tabindex="-1" role="dialog" aria-labelledby="achievementLabel11" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -831,11 +828,11 @@
                                         <h3>C2C自動車オークションシステム開発.</h3>
                                         <p>2 months, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 </p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal11" class="more-icon"> See more details </a>
                                 </div>
                             </div>
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal12" tabindex="-1" role="dialog" aria-labelledby="achievementLabel12" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -860,11 +857,11 @@
                                         <h3>公共団体向けセキュアなCMS開発.</h3>
                                         <p>2 months, PHP Framework, MySQL</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal12" class="more-icon"> See more details </a>
                                 </div>
                             </div>
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal13" tabindex="-1" role="dialog" aria-labelledby="achievementLabel13" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -889,11 +886,11 @@
                                         <h3>デジタルBook販売WEBサービス向けCMS構築.</h3>
                                         <p>2 months, PHP Framework, HTML5/CSS3,MySQL</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal13" class="more-icon"> See more details </a>
                                 </div>
                             </div>
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal14" tabindex="-1" role="dialog" aria-labelledby="achievementLabel14" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -918,11 +915,11 @@
                                         <h3>求人・求職マッチングポータルWEBの構築.</h3>
                                         <p>2 months, PHP Framework, MySQL</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal14" class="more-icon"> See more details </a>
                                 </div>
                             </div>
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal15" tabindex="-1" role="dialog" aria-labelledby="achievementLabel15" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -947,11 +944,11 @@
                                         <h3>金融機関向け採用管理システムの構築.</h3>
                                         <p>3 months, PHP Framework, HTML5/CSS3,MySQL</p>
                                     </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
+                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal15" class="more-icon"> See more details </a>
                                 </div>
                             </div>
                             <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
+                                <div class="modal fade modal-achivement" id="achievementmodal16" tabindex="-1" role="dialog" aria-labelledby="achievementLabel16" aria-hidden="true">
                                  <!--  <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
@@ -976,7 +973,7 @@
                                         <h3>レンタカー会社向け フリートManagementシステム開発</h3>
                                         <p>6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework</p>
                                     </div>
-                                    <!-- <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a> -->
+                                    <!-- <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal16" class="more-icon">Detail</a> -->
                                 </div>
                             </div>
                             
@@ -1118,7 +1115,7 @@
                 <ul>
                     <li class="text-left">インドネシアでシステム開発や運用が必要でしたらお気軽にご相談ください <li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">いますぐお問い合わせ <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                        <a href="/jp/contact.php" class="btn-yellow">いますぐお問い合わせ <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
@@ -1222,7 +1219,10 @@
             </div>
         </div>
     </section>
-
+       <div class="content-wrapper__">
+    <?php include './assets/components/dm-links.php' ?>
+        <?php include './assets/components/other-services.php' ?>
+    </div>
      <?php /*<section class="tahap-pemesanan-list">
 				<div class="border-top-list hidden-xs hidden-sm"></div>
 				<div class="container">

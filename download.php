@@ -5,12 +5,12 @@
 require 'conf.php';
 
 $code 	= $mysqli->real_escape_string($_GET['code']);
-$type 	= $mysqli->real_escape_string($_GET['type']);
 
-$query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar FROM al_white_papers a
+$query = mysqli_query($mysqli, "SELECT count(a.verifikasi_code) as kodeTerbesar, a.verifikasi_type FROM al_white_papers a
 		WHERE a.verifikasi_code = '{$code}' AND DATE_ADD(NOW(), INTERVAL -24 HOUR) < a.whitepaper_regdate");
 $data = mysqli_fetch_array($query);
-$kodeBarang = $data['kodeTerbesar'];
+$kodeBarang = $data['kodeTerbesar']; 
+$type = $data['verifikasi_type']; 
 
 if($kodeBarang == 0)
 {
@@ -691,8 +691,8 @@ if($kodeBarang == 0)
 							<div class="clearfix">
 								<div class="contact-us-cont">
 								 <div class="" style="margin-top: 3%;">
-	<div class="message"><center>Download gagal karena link salah<br/>atau masa berlaku-nya telah habis.</center></div>';
-	</div>
+							<div class="message"><center>Download gagal karena link salah<br/>atau masa berlaku-nya telah habis.</center></div>
+							</div>
 						</div>
                         </div>
                     </div>

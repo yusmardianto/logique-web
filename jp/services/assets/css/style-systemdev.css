@@ -65,10 +65,7 @@ p:last-of-type{
     font-family: 'Novocento Sans Wide';
     display: inline !important;
 }
-.logique-nav{
-    height: auto; 
-    border-radius: 20px;
-}
+
 .logique-nav.logique-nav--update .margin-for-nav{
     margin:10px 0;
 }
@@ -455,6 +452,9 @@ section h2{
     width: 48px; 
     margin-bottom: 20px;
 }
+.more{
+            display: none;
+         }
 .showmore .success-item.sc-seeall .other-success-item img{
     height: 20px;
     margin-top: 50%;
@@ -793,6 +793,7 @@ section.dm__other-service  strong, section.dm__links   strong {
 @media (max-width: 991px) {   }
 
 @media (max-width: 762px) { 
+  
     .success-service-list > .row > div:last-child {
         height: auto;
     }
@@ -843,18 +844,9 @@ section.dm__other-service  strong, section.dm__links   strong {
         width: 100%;
         margin-top: -1px;
     }
-    .logique-nav {
-        margin-right: -150px;
-        margin-left: auto;
-        position: relative;
-        float: right;
-        margin-top: 0;
-        height: 100%;
-        border-radius: 0;
-    }
-
+ 
     .content-wrapper__.header{
-        padding: 30px 0;
+        padding: 100px 0 10px;
     }
     .whyour-systemdev ul li{
         display: block;
