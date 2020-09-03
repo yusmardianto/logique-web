@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
+  <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE">
+	<meta property="og:title" content="Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
+	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE</title>
+  <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -268,7 +268,7 @@
                     <img src="/case-study/img/icon/btn-contact.png" alt="">
                   </picture>
                   <h5>KONTAK LOGIQUE</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Untuk konsultasi atau mendapatkan informasi lengkap dengan layanan kami lainnya, klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -279,7 +279,7 @@
                     <img src="/case-study/img/icon/btn-service.png" alt="">
                   </picture>
                   <h5>LAYANAN LOGIQUE</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Seluruh informasi mengenai layanan kami selengkapnya bisa Anda temukan disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -290,7 +290,7 @@
                     <img src="/case-study/img/icon/btn-portfolio.png" alt="">
                   </picture>
                   <h5>PORTOFOLIO</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Temukan informasi mengenai perusahaan yang telah menjadi klien kami disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -301,7 +301,7 @@
                     <img src="/case-study/img/icon/btn-web-dev.png" alt="">
                   </picture>
                   <h5>INGIN BUAT WEBSITE?</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Dapatkan informasi layanan mengenai pembuatan website berstandar tinggi dengan klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -312,7 +312,7 @@
                     <img src="/case-study/img/icon/btn-web-system.png" alt="">
                   </picture>
                   <h5>INGIN BUAT SISTEM BERBASIS WEB?</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Temukan informasi lengkap mengenai layanan pembuatan sistem berbasis web dengan klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
