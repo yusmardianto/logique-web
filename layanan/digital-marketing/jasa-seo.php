@@ -5,19 +5,20 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="Logique menawarkan layanan optimasi seo profesional yang meliputi audit dan analisis. Mitra konsultan pemasaran digital terbaik untuk Anda">
-	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, konsultasi SEO, search console service, web maintenance, pemeliharaan web, penulisan konten, konten kreatif, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, pengakuan merek, multilanguage content, website portfolio, strategi SEO">
+	<meta name="description" content="LOGIQUE menawarkan jasa seo profesional di Jakarta untuk proses optimalisasi, audit dan analisis. Solusi strategi pemasaran digital terbaik untuk bisnis Anda">
+	<meta name="keywords" content="jasa seo, jasa seo jakarta, jasa seo profesional, jasa audit seo, jasa analisis seo">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-	<meta name="title" content="Logique menyediakan layanan jasa SEO, berbasis di Jakarta">
-	<meta property="og:title" content="LOGIQUE: Layanan & Konsultasi SEO Terbaik di Jakarta">
+	<meta name="title" content="Jasa SEO Profesional Jakarta: Audit & Analisis | LOGIQUE ">
+	<meta property="og:title" content="Jasa SEO Profesional Jakarta: Audit & Analisis | LOGIQUE ">
     <meta property="og:type" content="website">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="Mulai tingkatkan situs Anda melalui layanan SEO berkualitas tinggi. Pertajam & naikan peringkat situs Anda di halaman utama Google.">
+    <meta property="og:description" content="LOGIQUE menawarkan jasa seo profesional di Jakarta untuk proses optimalisasi, audit dan analisis. Solusi strategi pemasaran digital terbaik untuk bisnis Anda">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Jasa SEO Profesional | LOGIQUE Digital Indonesia</title>
+    <link rel="canonical" href="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php" />  
+	<title>Jasa SEO Profesional Jakarta: Audit & Analisis | LOGIQUE </title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">

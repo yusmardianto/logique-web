@@ -12,7 +12,7 @@
  $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
  
  //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
- 
+  
  if(isset($_POST['submitted']))
  {
 	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
@@ -41,23 +41,22 @@
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
+         content="LOGIQUE menyediakan jasa pembuatan sistem & aplikasi website serta progressive web app (PWA) di Jakarta. Dikerjakan secara profesional dengan teknologi terkini.">
      <meta name="keywords"
-         content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
+         content="jasa pembuatan aplikasi web, jasa pembuatan web app, jasa pembuatan PWA">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE">
+     <meta property="og:title" content="Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
+         content="LOGIQUE menyediakan jasa pembuatan sistem & aplikasi website serta progressive web app (PWA) di Jakarta. Dikerjakan secara profesional dengan teknologi terkini.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php" />  
 
-     
-   <!--  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script> -->
-    <title>Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE</title>
+    <title>Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta</title>
  
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
@@ -152,16 +151,16 @@
                  <div class="container">
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
-                             <div class="container">
+                              
+                                 <a href="/index.php"><img src="/img/logo.png"
+                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                                         class="img-responsive logo--update-design" /></a>
                                  <ul class="list-inline">
                                      <li><a href="/en/services/system-dev.php">EN</a></li>
                                      <li class="active"><a href="#">ID</a></li>
                                      <li><a href="/jp/services/system-dev.php">JP</a></li>
                                  </ul>
-                                 <a href="/index.php"><img src="/img/logo.png"
-                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                         class="img-responsive logo--update-design" /></a>
-                             </div>
+                            
                          </div>
                      </div>
                  </div>
@@ -246,7 +245,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="row">
                             <div class="col-sm-6">
                                 <p style="padding-bottom: 5px;">Semua sistem berbasis web yang kami produksi dikembangkan dengan kualitas dan keamanan tinggi berstandar internasional yang telah teruji termasuk untuk klien-klien kami yang berasal dari industri finansial. Secara teknis, kami akan melakukan sejumlah pengujian keamanan sebelum sistem diserahkan ke klien yang mencakup penetration testing untuk mengurangi risiko serangan cyber seperti SQL injection, path traversal, dan x-site scripting.</p> 
-                                <a href="/penetration-test.php" class="btn-yellow">Pelajari Layanan Pentration Testing</a>
+                                <a href="/layanan/penetration-test.php" class="btn-yellow">Pelajari Layanan Pentration Testing</a>
 
                             </div>
                             <div class="col-sm-6 text-center">
@@ -268,6 +267,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                        <div class="row">
                             <div class="col-sm-6">
                                 <p>Kami dapat membantu Anda membangun dan merancang arsitektur server berbasis cloud baik di Indonesia maupun di luar negeri. Kami merupakan partner resmi dari AWS dan berpengalaman dalam melakukan setup dan implentasi server cloud untuk AWS, GCP, serta Alibaba. Khususnya dalam beberapa waktu belakangan ini, kami juga telah berhasil membantu melakukan banyak migrasi sistem dan database dari server lokal (on-premise) ke server cloud.</p>
+                                  <a href="/layanan/devops.php" class="btn-yellow text-center">Cloud Sever DevOps</a>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
@@ -699,7 +699,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <!-- <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -727,7 +727,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">

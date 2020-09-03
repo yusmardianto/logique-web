@@ -1,6 +1,6 @@
 ﻿ <?php
  require_once("assets/form/fgcontact_systemdev.php");
- 
+
  $formproc = new FGContactForm();
  
  //1. Add your email address here.
@@ -152,15 +152,16 @@
                  <div class="container">
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
-                             <div class="container">
+                             
+                                 <a href="/en/"><img src="/../img/logo.png" alt="Logo"
+                                         class="img-responsive logo--update-design" /></a>
                                  <ul class="list-inline">
                                      <li class="active"><a href="">EN</a></li>
                                      <li><a href="/layanan/pembuatan-sistem-web.php">ID</a></li>
                                      <li><a href="/jp/services/system-dev.php">JP</a></li>
                                  </ul>
-                                 <a href="/en/"><img src="/../img/logo.png" alt="Logo"
-                                         class="img-responsive logo--update-design" /></a>
-                             </div>
+                                
+                            
                          </div>
                      </div>
                  </div>
@@ -248,7 +249,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <p style="padding-bottom: 5px;">All web-based systems that we produce are developed with high quality and international standard safety that have been tested including our clients from the financial industry. Technically, we will perform a number of security tests before the system is delivered to the client which includes penetration testing to reduce the risk of cyber attacks such as SQL injection, path traversal, and x-site scripting.</p> 
-                                <a href="/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services</a>
+                                <a href="/en/services/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services</a>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
@@ -705,7 +706,7 @@
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <!-- <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -735,7 +736,7 @@
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
@@ -1117,7 +1118,7 @@
                 <ul>
                     <li class="text-left">Contact us now for optimal web based system development!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                        <a href="/en/contact.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
