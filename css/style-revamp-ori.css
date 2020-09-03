@@ -1411,3 +1411,12 @@ b {
   }
 }
 /* end portfolio content */
+
+/* case-study slick overide */
+@media (min-width: 415px) {
+  .case-study__slide .slick-prev:before,
+  .case-study__slide .slick-next:before {
+      color: #000;
+  }
+}
+/* end case-study slick overide */
