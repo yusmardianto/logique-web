@@ -145,32 +145,27 @@ if(isset($_POST['submitted']))
          </div>
          <!-- NAVIGATION -->
 
-         <!-- HEADER -->
-         <div class="container-fluid">
-             <div class="row lang-logo--update-design">
-                <div class="content-wrapper__">
-                 <div class="container">
-                    
-                     <div class="row">
-                         <div class=" col-sm-12">
-                              
-                                 <a href="/index.php"><img src="/img/logo.png"
-                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                         class="img-responsive logo--update-design" /></a>
-                                  <ul class="list-inline">
-                                     <li><a href="/en/services/web-dev.php">EN</a></li>
-                                     <li class="active"><a href="#">ID</a></li>
-                                     <li><a href="/jp/services/web-dev.php">JP</a></li>
-                                 </ul>
-                            
-                         </div>
-                     </div>
-                 </div>
-                 </div>
-             </div>
-         </div>
-         <!-- END HEADER -->
-     </div>
+        <!-- HEADER -->
+        <div class="container-fluid">
+            <div class="row lang-logo--update-design">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="container">
+                                <ul class="list-inline">
+                                    <li><a href="/en/services/web-dev.php">EN</a></li>
+                                    <li class="active"><a href="#">ID</a></li>
+                                    <li><a href="/jp/services/web-dev.php">JP</a></li>
+                                </ul>
+                                <a href="/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>disini
+        <!-- END HEADER -->
 
         <header class="content-wrapper__ header">
             
@@ -178,7 +173,7 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img src="assets/img/img-webdev/webdev-bg.png" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <div class="content-wrapper__">
@@ -245,22 +240,12 @@ if(isset($_POST['submitted']))
                          <!-- Wrapper for slides -->
                          <div class="carousel-inner">
                              <div class="item active">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
+                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
-                             <!-- <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div>
-                             <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div> -->
                          </div>
                          <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <!-- <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li> -->
                         </ol>
                      </div>
                 </div>
@@ -271,7 +256,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-md-5">
-                    <img src="assets/img/img-webdev/flow.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
                 </div>
                 <div class="col-sm-7 col-md-7">
                     <p class="flow-title">Tentukan Kebutuhan, Tujuan, dan Budget Anda untuk Mendapatkan Hasil Website Terbaik.</p>
@@ -281,7 +266,7 @@ if(isset($_POST['submitted']))
                     <a href="/layanan/webdev-price-range.php" target="_blank">
                         <div class="flow-button">
                         Lihat Opsi Pembuatan Website
-                        <img src="assets/img/img-webdev/arrow.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/arrow.png" alt="">
                         </div>
                     </a>
                 </div>
@@ -309,7 +294,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5">
-                    <img src="assets/img/img-webdev/discuss.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/discuss.png" alt="">
                 </div>
             </div>
         </div>
@@ -372,21 +357,21 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="analysis-part flow-part">
-                        <img src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
                         <h3>Analisis dan Evaluasi</h3>
                         <p>Anda sudah punya website dan berkeinginan untuk memperbaikinya? Kami siap untuk melakukan analisis dan mengevaluasi kondisi website Anda saat ini. Contoh analisa yang biasanya kami lakukan adalah terkait mengapa jumlah kunjungan website Anda sangat rendah dan apakah ada faktor-faktor internal di dalam website seperti struktur halaman / url yang mempengaruhi kondisi tersebut. Tim kami ahli dalam menganalisis kinerja website Anda secara keseluruhan dan mampu memberikan solusi dari permasalahan yang ada.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="plan-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
                         <h3>Perencanaan</h3>
                         <p>Untuk mencapai tujuan yang Anda inginkan dari pengembangan sebuah website diperlukan perencanaan yang baik. Tim konsultan kami secara dekat akan berinteraksi dengan Anda dalam mengumpulkan semua kebutuhan, memformulasikannya kedalam kerangka halaman (wireframe) dan dokumen-dokumen pendukung lainnya yang diperlukan. Hal ini akan membuat pelaksanaan pengembangan website dapat berjalan lancar dan sesuai ekspektasi.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="seo-part flow-part">
-                        <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
                         <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kata kunci yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
                     </div>
@@ -395,21 +380,21 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="info-part flow-part">
-                        <img src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
                         <h3>Peningkatan dan Restrukturisasi</h3>
                         <p>Jika Anda telah memiliki sebuah website, kami tidak selalu menyarankan untuk membuat ulang website Anda dari awal karena masalah-masalah yang ditemukan. Sebab, hal tersebut terkadang membutuhkan banyak pekerjaan serta biaya yang harus dikeluarkan. Untuk kasus seperti ini, kami akan menawarkan kepada Anda solusi terbaik dalam mengatur dan meningkatkan website sesuai dengan budget Anda serta berapa lama waktu yang Anda inginkan.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="multiligual-part flow-part">
-                        <img src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
                         <h3>Membuat dan Mengoperasikan Website Multi Bahasa</h3>
                         <p>Kami dapat membuat dan mengoperasikan website dalam Bahasa Indonesia, Bahasa Inggris, dan Bahasa Jepang. Kami mengerti dan memahami bahwa konten yang kreatif dan tersegmentasi dengan baik sangat penting untuk menjangkau target pasar yang diinginkan.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="sosmed-part flow-part">
-                        <img src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
                         <h3>Pengoperasian Media Sosial</h3>
                         <p>Media sosial dapat memberi pengaruh yang sangat kuat dalam meningkatkan hubungan bisnis dengan para pelanggan Anda. Selain itu, media sosial juga dapat membantu mendukung peningkatan jumlah pengunjung website Anda. Kami memberikan layanan dalam mengoperasikan media sosial, seperti Facebook dan Instagram untuk kepentingan bisnis Anda baik dalam Bahasa Indonesia, Bahasa Inggris, dan Bahasa Jepang.</p>
                     </div>
@@ -418,21 +403,21 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="design-part flow-part">
-                        <img src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
                         <h3>Pembuatan Desain</h3>
                         <p>Kami dapat merancang UI yang sesuai dengan tren desain website terkini, yang ramah bagi pengguna, dan sesuai dengan kebutuhan Anda. Tim desain kami dapat menyarankan kepada Anda berbagai alternatif desain yang berbeda untuk Anda pilih.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="markup-part flow-part">
-                        <img src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
                         <h3>Markup Coding</h3>
                         <p>Anda juga dapat meminta layanan khusus hanya untuk implementasi tampilan website dengan pemrograman HTML/CSS. Tim developer kami dapat membantu Anda mengejar ketertinggalan teknologi pemrograman pada situs web Anda atau mengkombinasikannya dengan JavaScript.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="responsive-part flow-part">
-                        <img src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
                         <h3>Dukungan Multi Perangkat</h3>
                         <p>Kami dapat membuat situs yang dioptimalkan dan responsif untuk seluruh jenis perangkat, seperti ponsel, tablet, dan desktop. Kami juga telah mempunyai banyak pengalaman dalam membuat situs web yang berorientasi pada pengguna mobile dan pengaplikasian AMP.</p>
                     </div>
@@ -441,30 +426,26 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="programing-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
                         <h3>Fitur Pemrograman Khusus</h3>
                         <p>Anda dapat meminta fitur pemrograman apapun yang Anda inginkan untuk ditambahkan ke dalam situs web Anda, seperti Parallax motions yang dapat diimplementasi dengan kombinasi JavaScript, HTML5, CSS3 dan lain-lain. Kami akan mengusulkan pengembangan situs web yang menarik untuk para pengguna yang telah disesuaikan dengan kebutuhan Anda.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="system-part flow-part">
-                        <img src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
                         <h3>Pembuatan Sistem Berbasis Web</h3>
                         <p>LOGIQUE dapat membantu Anda mengembangkan sistem berbasis web mulai dari manajemen konten (CMS), fungsi-fungsi khusus yang dibuat sesuai dengan kebutuhan, hingga integrasi dengan sistem-sistem eksternal menggunakan Web Service (API). Kami ahli dalam mengembangkan sistem berbasis web menggunakan Laravel, .Net, NodeJS, dan lain-lain.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="apps-part flow-part">
-                        <img src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
                         <h3>Pengembangan Website Berteknologi PWA</h3>
                         <p>Kami berpengalaman dan dapat membantu Anda mengembangkan website dengan teknologi PWA yang menghasilkan sebuah aplikasi web yang berlaku layaknya sebuah aplikasi mobile. Beberapa fitur menarik yang terdapat dalam teknologi PWA di antaranya adalah Installasi dengan Add to Homescreen, Push Notification, dan Mode Offline.</p>
                     </div>
                 </div>
             </div>
-            <!-- <div class="link-page-price-and-portfolio">
-                <a class="link-yellow-white" href="/services/webdev-price-range.php">Webサイト制作運用の費用について</a>
-                <a class="link-yellow-white" href="/portfolio.php">Webサイト制作実績</a>
-            </div> -->
         </div>
     </section>
 
@@ -479,28 +460,16 @@ if(isset($_POST['submitted']))
             </div>
             <div class="row portofolio-section">
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                    <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
-                        <!-- <a href="https://aiapremieracademy.co.id/en/home" target="_blank"> -->
-                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
                         <p class="portofolio-title text-center">AIA</p>
-                        <!-- </a> -->
-                        <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                     </div>
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
-                    <!-- <a href="http://bekalhidup.com/" target="_blank"> -->
-                        <img src="assets/img/img-webdev/panin.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
                         <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
-                    <!-- </a> -->
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-                    <!-- <a href="https://jba.co.id/" target="_blank"> -->
-                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
                         <p class="portofolio-title text-center">JBA</p>
-                    <!-- </a> -->
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
@@ -516,47 +485,47 @@ if(isset($_POST['submitted']))
             </div>
             <div class="row strategic-list">
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/1.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/1.png" alt="">
                     <p class="strategic-title">User Experience (UX)</p>
                     <p class="strategic-content">Menyediakan fungsi dan konten Web yang sesuai dengan perilaku dan kebutuhan pelanggan akan menghasilkan Website yang mengarah pada konversi.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/2.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/2.png" alt="">
                     <p class="strategic-title">Analisa Persona</p>
                     <p class="strategic-content">Buat target pelanggan utama konkret dan terlihat. Ini akan mengarah pada pembuatan situs web yang menarik bagi target.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/3.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/3.png" alt="">
                     <p class="strategic-title">SEO Keywords</p>
                     <p class="strategic-content">Kata kunci target dipilih dengan menganalisis jumlah pencarian dan tingkat persaingan guna mendapatkan daftar kata kunci terbaik yang akan digunakan dalam SEO dan pembuatan konten.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/4.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/4.png" alt="">
                     <p class="strategic-title">Konsep Branding</p>
                     <p class="strategic-content">Membuat rancangan brand Anda secara terukur dan sesuai dengan lini bisnis Anda, termasuk pembuatan logo.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/5.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/5.png" alt="">
                     <p class="strategic-title">Detil Konsep</p>
                     <p class="strategic-content">Tentukan konsep dan gambarkan lebih lanjut pesan dan branding Anda lewat misi, visi, dan konten yang terarah pada website untuk menjangkau target Anda.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/6.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/6.png" alt="">
                     <p class="strategic-title">Pedoman Design</p>
                     <p class="strategic-content">Buat panduan desain untuk memastikan konsistensi pada elemen-elemen desain termasuk warna, font, margin, dll.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/7.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/7.png" alt="">
                     <p class="strategic-title">Analisa Pengunjung</p>
                     <p class="strategic-content">Menganalisis status akses Website saat ini dan mengklarifikasi masalah. Analisis terperinci adalah kunci untuk menetapkan KPI yang konkret dan realistis.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/8.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/8.png" alt="">
                     <p class="strategic-title">Sitemap</p>
                     <p class="strategic-content">Tentukan struktur situs web, struktur halaman konten. Diperlukan untuk navigasi yang tepat & desain struktur tautan internal.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/9.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/9.png" alt="">
                     <p class="strategic-title">Wireframe</p>
                     <p class="strategic-content">Dokumen yang menentukan tata letak dan komponen setiap halaman web. Berdasarkan ini, kami terus merancang produksi.</p>
                 </div>
@@ -587,7 +556,7 @@ if(isset($_POST['submitted']))
                         <a class="link-yellow-white" href="/layanan/penetration-test.php">Diagnosa Keamanan Website</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/layanan/web-dev.php">Pengembangan Sistem Berbasis Web</a>
+                        <a class="link-yellow-white" href="/layanan/pembuatan-sistem-web.php">Pengembangan Sistem Berbasis Web</a>
                         <a class="link-yellow-white" href="/layanan/pembuatan-aplikasi-mobile">Pengembangan Aplikasi Mobile</a>
                     </div>
                 </div>
@@ -674,7 +643,7 @@ if(isset($_POST['submitted']))
                                              ?> 
                                                     <div class="col-xs-12 col-sm-6 col-md-6 article-container">
                                                         <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                            <img loading="lazy" src="<?=$thumb_full_url?>" class="img-responsive">
                                                         </div>
                                                         <div class="content-container">
                                                             <a href="<?=$remote_post->link?>" target="_blank">
@@ -727,7 +696,7 @@ if(isset($_POST['submitted']))
             <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
+                        <img loading="lazy" src="assets/img/img-webdev/gly1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
                             <p class="gallery-title">Cara Membuat Website yang Efektif untuk Bisnis Anda</p>
                             <p class="gallery-content">Download</p>
@@ -736,7 +705,7 @@ if(isset($_POST['submitted']))
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
+                        <img loading="lazy" src="assets/img/img-webdev/gly2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
                             <p class="gallery-title">Membangun Website 
 E-Commerce yang Menarik</p>
@@ -746,7 +715,7 @@ E-Commerce yang Menarik</p>
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                        <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
                             <p class="gallery-title">Peran dan Pentingnya
 Pengujian Penetrasi dalam
@@ -755,71 +724,10 @@ Proses Bisnis Perusahaan</p>
                         </a>
                     </div>
                 </div>  
-                <!-- <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery1.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー１</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery2.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー２</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery3.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー３</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div> -->
             </div>
         </div>
     </section>
 	
-	<!-- <section class="content-article">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="title">White Paper tentang Pembuatan Web di Indonesia</p>
-                </div>
-            </div>
-            <div class="row">
-				<div class="col-md-12">
-                    <div class="carousel slide multi-item-carousel" id="theCarousel">
-                        <div class="carousel-inner">
-							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
-								<div class="img-container">
-									<img src="assets/img/img-webdev/strategic/5.png" class="img-responsive">
-									<a href="/white-paper-web-dev-1.php" target="_blank">
-										<p class="title">Download</p>
-									</a>
-								</div>
-							</div>  
-							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
-								<div class="img-container">
-									<img src="assets/img/img-webdev/strategic/6.png" class="img-responsive">
-									<a href="/white-paper-web-dev-2.php" target="_blank">
-										<p class="title">Download</p>
-									</a>
-								</div>
-							</div>  
-							<div class="col-xs-12 col-sm-4 col-md-4 article-container">
-								<div class="img-container">
-									<img src="assets/img/img-webdev/strategic/7.png" class="img-responsive">
-									<a href="/white-paper-web-dev-3.php" target="_blank">
-										<p class="title">Download</p>
-									</a>
-								</div>
-							</div>  							
-						</div>
-                        
-                        </div>
-                    </div>
-                </div>
-            </div>
-                
-            </div>
-        </div>
-    </section> -->
-
     <section class="obstacle">
         <div class="container">
             <div class="row">
@@ -830,7 +738,7 @@ Proses Bisnis Perusahaan</p>
                     </p>
                 </div>
                 <div class="col-md-6 text-center">
-                    <a href="/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
+                    <a href="/" target="_blank"><img loading="lazy" src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
                 </div>
             </div>
         </div>
@@ -1058,7 +966,7 @@ Proses Bisnis Perusahaan</p>
         <div class="container">
             <div class="row img-container">
                 <div class="col-md-12">
-                    <img src="assets/img/img-webdev/domore.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/domore.png" alt="">
                 </div>
                 <div class="col-md-12 col-lg-8 content-container">
                     <p class="title">Kami selalu siap untuk membantu Anda dalam pembuatan dan pengembangan situs web, serta:</p>
@@ -1118,12 +1026,12 @@ Proses Bisnis Perusahaan</p>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
             </div>
@@ -1246,13 +1154,13 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/aia.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia.jpg" alt="">
                             <br/>
-                            <img src="assets/img/aia2.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia2.jpg" alt="">
                             <br/>
-                            <img src="assets/img/aia3.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia3.jpg" alt="">
                             <br/>
-                            <img src="assets/img/aia4.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia4.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1379,11 +1287,11 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/panin.jpg" alt="">
+                            <img loading="lazy" src="assets/img/panin.jpg" alt="">
                             <br/>
-                            <img src="assets/img/panin2.jpg" alt="">
+                            <img loading="lazy" src="assets/img/panin2.jpg" alt="">
                             <br/>
-                            <img src="assets/img/panin3.jpg" alt="">
+                            <img loading="lazy" src="assets/img/panin3.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1443,13 +1351,13 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/jba1.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba1.jpg" alt="">
                             <br />
-                            <img src="assets/img/jba2.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba2.jpg" alt="">
                             <br />
-                            <img src="assets/img/jba4.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba4.jpg" alt="">
                             <br />
-                            <img src="assets/img/jba6.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba6.jpg" alt="">
                         </div>
                     </div>
                 </div>

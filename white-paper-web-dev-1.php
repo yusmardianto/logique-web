@@ -42,7 +42,8 @@ if(isset($_POST['submitted']))
 			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
 			}
 				if ($formproc->ProcessForm()) {
-						$msg = "<div class='alert alert-success' id='msg' role='alert'>Formulir Sukses Dikirim</div>";
+						$msg = "<div class='alert alert-success' id='msg' role='alert'>Terima kasih telah melakukan pengisian formulir kami, silakan cek email Anda untuk mendapatkan link download Whitepaper. [<a href='".$base_url."layanan/web-dev.php'>Klik Disini</a>] untuk kembali ke halaman Layanan Pembuatan Website LOGIQUE.</div>";
+						$co = "1";
 					}
 				
 			}else{
@@ -894,6 +895,14 @@ $kodeBarang = $result;
         <?php include 'footer.php';?>
         <script>
         $(function() {
+			<?php if($co=='1'){ ?>
+			$("#name").val('');
+			 $("#company_name").val('');
+			  $("#department_name").val('');
+			  $("#url_social_media").val('');
+			  $("#email").val('');
+			  $("#phone").val('');
+			<?php } ?>
             $('.smooth').click(function() {
                 if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
                     .hostname == this.hostname) {
