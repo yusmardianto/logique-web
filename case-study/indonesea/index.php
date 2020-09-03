@@ -268,7 +268,7 @@
                     <img src="/case-study/img/icon/btn-contact.png" alt="">
                   </picture>
                   <h5>KONTAK LOGIQUE</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Untuk konsultasi atau mendapatkan informasi lengkap dengan layanan kami lainnya, klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -279,7 +279,7 @@
                     <img src="/case-study/img/icon/btn-service.png" alt="">
                   </picture>
                   <h5>LAYANAN LOGIQUE</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Seluruh informasi mengenai layanan kami selengkapnya bisa Anda temukan disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -290,7 +290,7 @@
                     <img src="/case-study/img/icon/btn-portfolio.png" alt="">
                   </picture>
                   <h5>PORTOFOLIO</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Temukan informasi mengenai perusahaan yang telah menjadi klien kami disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -301,7 +301,7 @@
                     <img src="/case-study/img/icon/btn-web-dev.png" alt="">
                   </picture>
                   <h5>INGIN BUAT WEBSITE?</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Dapatkan informasi layanan mengenai pembuatan website berstandar tinggi dengan klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -312,7 +312,7 @@
                     <img src="/case-study/img/icon/btn-web-system.png" alt="">
                   </picture>
                   <h5>INGIN BUAT SISTEM BERBASIS WEB?</h5>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus.</p> 
+                  <p>Temukan informasi lengkap mengenai layanan pembuatan sistem berbasis web dengan klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
