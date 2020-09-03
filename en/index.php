@@ -589,10 +589,10 @@
                     </div>
                     <div class="case-study-btn-container text-center ">
                         <a href="javascript:void(0)" class=" showcase showmore">
-                           Lihat lebih banyak 
+                           view more
                         </a>
                          <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
-                           Lihat lebih sedikit 
+                           view less
                         </a>
                       </div>
                       <div class="casestudy-text">
