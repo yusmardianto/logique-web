@@ -11,8 +11,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
     content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
+ 
   <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan
 "> 
+ 4
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
@@ -740,6 +742,7 @@
   settings_slider = {
     slidesToShow: 2,
     slidesToScroll: 2,
+     arrow:true,
     infinite: true,
     responsive: [{ 
         breakpoint: 768,

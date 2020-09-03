@@ -533,7 +533,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                        <!-- <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
                             <picture>
                                 <source srcset="/img/case-study-klikhoreca.webp">
                                 <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt="">
@@ -586,7 +586,7 @@
                                     </div>
                                 </div>
                             </a>
-                        </div>
+                        </div> -->
                     </div>
                     
                     <p><strong>LOGIQUE</strong> commits to providing the best solutions to our clients; having worked successfully on many projects such as e-commerce, car/motorcycle auction management system, CRM development, e-learning App, PWA, Recruitment system and more.</p>
@@ -671,7 +671,7 @@
 
     <?php include 'footer.php';?>
 
-    <script>
+    <!-- <script>
     $('.case-study__slide').slick({
         infinite: true,
         slidesToShow: 3,
@@ -695,7 +695,7 @@
             }
         ]
     });
-    </script>
+    </script> -->
 
 </body>
 
