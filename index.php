@@ -13,8 +13,7 @@
     content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
  
   <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan
-"> 
- 4
+">  
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
