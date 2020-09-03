@@ -41,23 +41,22 @@
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
+         content="LOGIQUE menyediakan jasa pembuatan sistem & aplikasi website serta progressive web app (PWA) di Jakarta. Dikerjakan secara profesional dengan teknologi terkini.">
      <meta name="keywords"
-         content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
+         content="jasa pembuatan aplikasi web, jasa pembuatan web app, jasa pembuatan PWA">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE">
+     <meta property="og:title" content="Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="LOGIQUE menyediakan layanan jasa pembuatan sistem web dengan teknologi terkini, perencanaan infrastruktur, sistem keamanan, dan kecepatan. Dalam pembuatan dan pengembangan sistem web ini, kami terus meningkatkan dan mengembangkan hasil yang didapat. Segera hubungi LOGIQUE.">
+         content="LOGIQUE menyediakan jasa pembuatan sistem & aplikasi website serta progressive web app (PWA) di Jakarta. Dikerjakan secara profesional dengan teknologi terkini.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php" />  
 
-     
-   <!--  <script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0096/6080.js" async="async"></script> -->
-    <title>Jasa Pembuatan Sistem Web | Pengembangan Sistem Web | LOGIQUE</title>
+    <title>Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta</title>
  
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
