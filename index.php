@@ -10,21 +10,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE Digital Indonesia, perusahaan web developer yang menawarkan jasa pembuatan dan pengembangan website, aplikasi, dan digital marketing di Jakarta. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik dari kami. Lihat selengkapnya di sini.">
+    content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
   <meta name="keywords"
-    content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+    content="web system development, web system development jakarta, web system development jakarta selatan">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
-    content="Jasa Pembuatan Website, Aplikasi, Digital Marketing, Penetration Testing | LOGIQUE">
+    content="Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
   <meta property="og:description"
-    content="LOGIQUE Digital Indonesia, perusahaan web developer yang menawarkan jasa pembuatan dan pengembangan website, aplikasi, digital marketing, dan penetration testing di Jakarta. Kembangkan dan tingkatkan keuntungan bisnis Anda di era digital dengan solusi terbaik dari kami. Lihat selengkapnya di sini.">
+    content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/" />  
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
   <script>
@@ -70,7 +71,7 @@
   ga('send', 'pageview');
   </script>
   <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-  <title>Jasa Pembuatan Website, Aplikasi, Digital Marketing, Penetration Testing | LOGIQUE</title>
+  <title>Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE</title>
 
   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> -->
   </noscript>
@@ -96,7 +97,6 @@
     <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
   </noscript>
-  
 
 </head>
 
