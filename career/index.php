@@ -5,19 +5,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Anda sedang mencari informasi lowongan kerja di bidang IT, seperti Programmer, Web Designer, Project Manager, Digital Marketing, dan lain-lain? Segera kunjungi halaman karir LOGIQUE sekarang. Kami membuka lowongan kerja dan memberikan kesempatan berkarir kepada Anda untuk bergabung bersama kami. ">
+    content="Info lowongan kerja Web Developer, Web Designer, Programmer, Digital Marketing & lowongan kerja remote di bidang IT. Bersama LOGIQUE untuk karir lebih baik.">
   <meta name="keywords"
-    content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
+    content="lowongan web developer, lowongan kerja programmer, lowongan kerja remote programmer">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Karir IT Consultant | Lowongan Kerja | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja Web Developer,  Programmer & Lainnya | LOGIQUE ">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Anda sedang mencari informasi lowongan kerja di bidang IT, seperti Programmer, Web Designer, Project Manager, Digital Marketing, dan lain-lain? Segera kunjungi halaman karir LOGIQUE sekarang. Kami membuka lowongan kerja dan memberikan kesempatan berkarir kepada Anda untuk bergabung bersama kami. ">
+    content="Info lowongan kerja Web Developer, Web Designer, Programmer, Digital Marketing & lowongan kerja remote di bidang IT. Bersama LOGIQUE untuk karir lebih baik.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Karir IT Consultant | Lowongan Kerja | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/" /> 
+  <title>Lowongan Kerja Web Developer,  Programmer & Lainnya | LOGIQUE </title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
