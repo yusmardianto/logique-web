@@ -164,7 +164,7 @@ if(isset($_POST['submitted']))
                                     <li><a href="/layanan/web-dev.php">ID</a></li>
                                     <li><a href="/jp/services/web-dev.php">JP</a></li>
                                 </ul>
-                                <a href="/index.php"><img src="/../img/logo.png" alt="Logo"
+                                <a href="/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -180,7 +180,7 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img src="assets/img/img-webdev/webdev-bg.png" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -244,15 +244,15 @@ As a professional web development company, we work to create the maximum quality
                          <!-- Wrapper for slides -->
                          <div class="carousel-inner">
                              <div class="item active">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
+                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
                              <!-- <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
+                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
                              <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
+                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div> -->
                          </div>
@@ -270,7 +270,7 @@ As a professional web development company, we work to create the maximum quality
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-md-5">
-                    <img src="assets/img/img-webdev/flow.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
                 </div>
                 <div class="col-sm-7 col-md-7">
                     <p class="flow-title">Building the Ideal Website depends on the expectations set for your site, your budget, and the structure that can be prepared for it.</p>
@@ -284,7 +284,7 @@ If you are still uncertain about which service menu fits your needs, please feel
                     <a href="./webdev-price-range.php" target="_blank">
                         <div class="flow-button">
                         See Web Production Service Plans
-                        <img src="assets/img/img-webdev/arrow.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/arrow.png" alt="">
                         </div>
                     </a>
                 </div>
@@ -312,7 +312,7 @@ If you are still uncertain about which service menu fits your needs, please feel
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5">
-                    <img src="assets/img/img-webdev/discuss.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/discuss.png" alt="">
                 </div>
             </div>
         </div>
@@ -375,21 +375,21 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="analysis-part flow-part">
-                        <img src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
                         <h3>Analysis and Evaluation</h3>
                         <p>If you already have a website, we will be able to analyze and evaluate its progress through services which include examining the rate of traffic and also by interpreting the overall structure of your website, among other things. Our team is experienced in retrieving a highly accurate analysis of your website and examining the issues within it in order to improve its overall user experience.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="plan-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
                         <h3>Planning</h3>
                         <p>In order to achieve the set goals desired for your website, we aim to show you what a professionally designed site should look like, as well as offer suggestions for potential improvements required for continual results. Such advice varies depending on your site’s internal system.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="seo-part flow-part">
-                        <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
                         <p>A website is unlikely to receive much traffic simply through having an online presence. Our experts are familiar with SEO measures specified for Indonesia. We strive to create websites that are highly visible through organic search methods when relevant queries are entered into the search engine. We are also able to conduct an SEM strategy in order to ensure a quick rise in traffic through the use of effective keywords.</p>
                     </div>
@@ -398,21 +398,21 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="info-part flow-part">
-                        <img src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
                         <h3>Restructuring and Improvement</h3>
                         <p>As performance issues are commonly found through a thorough scan, your website doesn’t necessarily need to be recreated from scratch, as occasionally, the cost and work involved can exceed a specified budget. In this case, we offer practical solutions for organizing, collecting and improving the website according to your specified budget, within the timeframe you require</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="multiligual-part flow-part">
-                        <img src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
                         <h3>Multilingual Website Production and Operation</h3>
                         <p>We can facilitate web development in Indonesian, English and Japanese, as we understand that creating unique and multi-paged content is important to reach and engage as large an audience as possible</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="sosmed-part flow-part">
-                        <img src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
                         <h3>Social Media Operation</h3>
                         <p>Social media can be a powerful tool to increase the level of interaction with your customers. It can also facilitate web traffic by directing frequenters of social media to your website. We operate on several Social Media platforms such as Facebook and Instagram in the Indonesian, English and Japanese languages.</p>
                     </div>
@@ -421,21 +421,21 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="design-part flow-part">
-                        <img src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
                         <h3>Design Production</h3>
                         <p>We aim to design a user and conversion friendly UI for your website. Our web design team will suggest different design styles according to your specific requirements.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="markup-part flow-part">
-                        <img src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
                         <h3>Markup Coding</h3>
                         <p>You can also request simple HTML/CSS coding for your website, as our team is always up to date in regards to the latest JavaScript-based front-end coding technology.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="responsive-part flow-part">
-                        <img src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
                         <h3>Multi-device Support</h3>
                         <p>We aim to create an optimized and responsive site for smartphones and tablets. We have ample experience on the subject and have created many AMP and mobile friendly websites.</p>
                     </div>
@@ -444,21 +444,21 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="programing-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
                         <h3>Special Programming Features</h3>
                         <p>You can add various features such as Motion Parallax to your website, which can be developed by using JavaScript, HTML5, CSS3, etc. We propose developing a website that attracts users according to their specified needs.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="system-part flow-part">
-                        <img src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
                         <h3>System Construction</h3>
                         <p>We aim to develop and operate various systems compatible with your website, such as CMS, web and business systems. Our services are effective, practical and are developed through PHP frameworks.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="apps-part flow-part">
-                        <img src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
                         <h3>PWA as Mobile Apps</h3>
                         We are able to develop mobile and web applications through PWA. Creating push notifications and offline operations is also possible.</p>
                     </div>
@@ -486,21 +486,21 @@ We have further posted many of our results here for reference.
                <!-- <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong"> -->
                <div class="col-md-6 col-lg-4 col-sm-4">
                     <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
-                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
                         <p class="portofolio-title text-center">AIA</p>
                     </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
                 <div class="col-md-6 col-lg-4 col-sm-4">
                     <a href="http://bekalhidup.com/" target="_blank">
-                        <img src="assets/img/img-webdev/panin.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
                         <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                         <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 col-sm-4">
                     <a href="https://jba.co.id/" target="_blank">
-                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
                         <p class="portofolio-title text-center">JBA</p>
                     </a>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
@@ -518,47 +518,47 @@ We have further posted many of our results here for reference.
             </div>
             <div class="row strategic-list">
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/1.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/1.png" alt="">
                     <p class="strategic-title">Customer Journey</p>
                     <p class="strategic-content">It is possible to create a website that leads to greater conversions through providing web functions and content that meet the customer's needs, </p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/2.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/2.png" alt="">
                     <p class="strategic-title">Persona Analysis</p>
                     <p class="strategic-content">Actualizing and visualizing the needs of targeted customers leads to producing a website that they will find appealing.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/3.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/3.png" alt="">
                     <p class="strategic-title">SEO Keyword List</p>
                     <p class="strategic-content">Targeted keywords are selected by analyzing the number of searches and each keyword's degree of competition. The selected keywords will form basis of any SEO measures and content creation.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/4.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/4.png" alt="">
                     <p class="strategic-title">Brand Concept Formulation</p>
                     <p class="strategic-content">Convey the right messages to your customers by defining the service, product concept, and your brand's values.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/5.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/5.png" alt="">
                     <p class="strategic-title">Brand Message Proposal</p>
                     <p class="strategic-content">The proposition of a brand concept, statement, mission, and defining a brand message that will be conveyed to targeted users on your website.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/6.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/6.png" alt="">
                     <p class="strategic-title">Design Guideline</p>
                     <p class="strategic-content">Create a design guide to ensure a level of consistency for your design's overall aesthetic. Here, we will define the colors, fonts and margins used.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/7.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/7.png" alt="">
                     <p class="strategic-title">Access Analysis</p>
                     <p class="strategic-content">Analyse the current access status and clarify any issues. A Detailed analysis is the key to setting concrete and realistic KPIs.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/8.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/8.png" alt="">
                     <p class="strategic-title">Sitemap</p>
                     <p class="strategic-content">This details the content and overall page structure of your website. This is required to create a proper means of navigation & an internal link structure design for your website.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/9.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/9.png" alt="">
                     <p class="strategic-title">Wireframe</p>
                     <p class="strategic-content">This is a document that determines the layout and components of each web page. Based on this, we will then proceed to designing the production.</p>
                 </div>
@@ -673,7 +673,7 @@ We have further posted many of our results here for reference.
                                              ?> 
                                                     <div class="col-xs-12 col-sm-6 col-md-6 article-container">
                                                         <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                            <img loading="lazy" src="<?=$thumb_full_url?>" class="img-responsive">
                                                         </div>
                                                         <div class="content-container">
                                                             <a href="<?=$remote_post->link?>" target="_blank">
@@ -726,7 +726,7 @@ We have further posted many of our results here for reference.
             <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gly1.png" class="img-responsive">
+                        <img loading="lazy" src="assets/img/img-webdev/gly1.png" class="img-responsive">
                         <a href="/white-paper-web-dev-1.php" target="_blank">
                         <p class="gallery-title">How to Create an Effective Website for Your Business</p>
                             <p class="gallery-content">Download</p>
@@ -735,7 +735,7 @@ We have further posted many of our results here for reference.
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gly2.png" class="img-responsive">
+                        <img loading="lazy" src="assets/img/img-webdev/gly2.png" class="img-responsive">
                         <a href="/white-paper-web-dev-2.php" target="_blank">
                         <p class="gallery-title">Build an Appealing E-Commerce Website</p>
                             <p class="gallery-content">Download</p>
@@ -744,7 +744,7 @@ We have further posted many of our results here for reference.
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                        <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
                         <a href="/white-paper-web-dev-3.php" target="_blank">
                         <p class="gallery-title">The Role and Importance of Penetration Testing in Company Business Processes</p>
                             <p class="gallery-content">Download</p>
@@ -752,17 +752,17 @@ We have further posted many of our results here for reference.
                     </div>
                 </div>  
                 <!-- <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery1.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/gallery1.png" alt="">
                     <p class="gallery-title">ホワイトペーパー１</p>
                     <p class="gallery-content">ダウンロード</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery2.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/gallery2.png" alt="">
                     <p class="gallery-title">ホワイトペーパー２</p>
                     <p class="gallery-content">ダウンロード</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery3.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/gallery3.png" alt="">
                     <p class="gallery-title">ホワイトペーパー３</p>
                     <p class="gallery-content">ダウンロード</p>
                 </div> -->
@@ -780,7 +780,7 @@ We have further posted many of our results here for reference.
                     </p>
                 </div>
                 <div class="col-md-6 text-center">
-                    <a href="/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
+                    <a href="/" target="_blank"><img loading="lazy" src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
                 </div>
             </div>
         </div>
@@ -1008,7 +1008,7 @@ We have further posted many of our results here for reference.
         <div class="container">
             <div class="row img-container">
                 <div class="col-md-12">
-                    <img src="assets/img/img-webdev/domore.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/domore.png" alt="">
                 </div>
                 <div class="col-md-12 col-lg-8 content-container">
                     <p class="title">We are ready to assist you in creating a website, and also:</p>
@@ -1068,12 +1068,12 @@ We have further posted many of our results here for reference.
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
             </div>
@@ -1199,7 +1199,7 @@ We have further posted many of our results here for reference.
                             </div> -->
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/aia.png" alt="">
+                            <img loading="lazy" src="assets/img/aia.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -1320,7 +1320,7 @@ We have further posted many of our results here for reference.
                             </div> -->
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/panin.png" alt="">
+                            <img loading="lazy" src="assets/img/panin.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -1443,7 +1443,7 @@ We have further posted many of our results here for reference.
                             </div> -->
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/jba.png" alt="">
+                            <img loading="lazy" src="assets/img/jba.png" alt="">
                         </div>
                     </div>
                 </div>
