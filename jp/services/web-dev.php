@@ -239,19 +239,9 @@ if(isset($_POST['submitted']))
                                  <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
-                             <!-- <div class="item">
-                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div>
-                             <div class="item">
-                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div> -->
                          </div>
                          <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <!-- <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li> -->
                         </ol>
                      </div>
                 </div>
@@ -441,10 +431,6 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                     </div>
                 </div>
             </div>
-            <!-- <div class="link-page-price-and-portfolio">
-                <a class="link-yellow-white" href="/jp/services/webdev-price-range.php">Webサイト制作運用の費用について</a>
-                <a class="link-yellow-white" href="/jp/portfolio.php">Webサイト制作実績</a>
-            </div> -->
         </div>
     </section>
 
@@ -462,31 +448,19 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
             </div>
             <div class="row portofolio-section text-center">
             <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
-                    <!-- <a href="https://aiapremieracademy.co.id/en/home" target="_blank"> -->
                         <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
                         <p class="portofolio-title text-center">AIA</p>
                         <p class="portofolio-subtitle">詳しくみる</p>
-                    <!-- </a> -->
-                <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
             </div>
-            <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
             <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                <!-- <a href="http://bekalhidup.com/" target="_blank"> -->
                     <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
                     <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
-                <!-- </a> -->
             </div>
             <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-            <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
-                <!-- <a href="https://jba.co.id/" target="_blank"> -->
                     <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
                     <p class="portofolio-title text-center">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
-                    <!-- </a> -->
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
