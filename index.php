@@ -12,8 +12,7 @@
   <meta name="description" itemprop="description"
     content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
   <meta name="keywords"
-    content="web system development, web system development jakarta, web system development jakarta selatan
-">
+    content="web system development, web system development jakarta, web system development jakarta selatan">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
@@ -26,6 +25,7 @@
     content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/" />  
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
   <script>
@@ -97,7 +97,6 @@
     <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
   </noscript>
-  
 
 </head>
 
