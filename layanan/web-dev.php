@@ -345,7 +345,7 @@ if(isset($_POST['submitted']))
                 <div class="col-md-4">
                     <div class="division-container">
                         <p class="title">Layanan Pembuatan Website “One-Stop”</p>
-                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsutasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
+                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsultasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -387,7 +387,7 @@ if(isset($_POST['submitted']))
                     <div class="seo-part flow-part">
                         <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
-                        <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kueri yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
+                        <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kata kunci yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
                     </div>
                 </div>
             </div>
@@ -493,11 +493,12 @@ if(isset($_POST['submitted']))
                     <!-- </a> -->
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="https://jba.co.id/" target="_blank">
+                <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
+                    <!-- <a href="https://jba.co.id/" target="_blank"> -->
                         <img src="assets/img/img-webdev/JBA.png" alt="">
                         <p class="portofolio-title text-center">JBA</p>
-                    </a>
+                    <!-- </a> -->
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
@@ -585,7 +586,7 @@ if(isset($_POST['submitted']))
                         <a class="link-yellow-white" href="/layanan/penetration-test.php">Diagnosa Keamanan Website</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/layanan/web-dev.php">Web Creation Portfolio</a>
+                        <a class="link-yellow-white" href="/layanan/web-dev.php">Pengembangan Sistem Berbasis Web</a>
                         <a class="link-yellow-white" href="/layanan/pembuatan-aplikasi-mobile">Pengembangan Aplikasi Mobile</a>
                     </div>
                 </div>
@@ -849,7 +850,8 @@ Proses Bisnis Perusahaan</p>
                             </div>
                             <div class="row">
                                 <div class="col-md-offset-2 col-md-10 m-t-10">
-                                    <p class="title-content-p">Tim kami siap untuk menerima pesan Anda kapan saja. Anda juga dapat melakukan pemesanan dan menjelaskan secara jelas kepada kami mengenai deskripsi awal situs web seperti apa yang Anda inginkan, mulai dari pembuatan situs web, operasi, konfigurasi CMS, pengembangan sistem web, dan lain-lain. Hubungi kami sekarang melalui email ke info@logique.co.id atau melakukan pengisian formulir pemesanan yang tersedia di sini. Anda juga dapat bertanya kepada kami mengenai berbagai hal yang berkaitan dengan pengembangan web, mendesain web atau bahkan harganya. Jangan ragu untuk berbicara dengan kami dalam Bahasa Indonesia, Bahasa Inggris, atau Bahasa Jepang. Kami akan langsung menghubungi Anda untuk melanjutkan diskusi lebih lanjut.
+                                    <p class="title-content-p">
+                                    Tim kami siap untuk menerima pesan dari Anda kapan saja. Agar kami dapat membantu dengan baik, mohon dapat diberikan gambaran umum terkait kebutuhan Anda, misalnya pembuatan atau pengoperasian website, implementasi manajemen konten (CMS), pengembangan sistem berbasis website, dan lain-lain. Anda dapat menghubungi kami langsung melalui email <a href = "mailto:info@logique.co.id">info@logique.co.id</a> atau melakukan pengisian formulir pemesanan yang tersedia <a href="/hubungi-kami.php" target="_blank">di sini</a>. Anda juga dapat bertanya dan berkonsultasi dengan kami mengenai berbagai hal yang berkaitan dengan pengembangan website. Jangan ragu untuk berbicara dengan kami dalam Bahasa Indonesia, Bahasa Inggris, atau Bahasa Jepang. Kami akan langsung menghubungi Anda untuk melakukan diskusi lebih lanjut.
                                     </p>
                                 </div>
                             </div>
@@ -875,7 +877,7 @@ Proses Bisnis Perusahaan</p>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Anda mungkin mempunyai visi dan target yang lebih spesifik, seperti meningkatkan keuntungan bisnis Anda, citra dan merek Anda, kegiatan IR, perekrutan, dll. Kami ingin mendengar semuanya dari Anda. Tidak harus bertemu, namun jika Anda mau, kami dapat menghubungi Anda melalui Skype atau melalui aplikasi komunikasi lainnya, sehingga kami dapat berbicara lebih lanjut mengenai bisnis Anda. Setelah itu, kami akan memberikan beberapa saran yang telah disesuaikan berdasarkan minat Anda, serta beberapa pendekatan efektif sesuai dengan kebutuhan Anda.
+                                Anda mungkin mempunyai visi dan target yang lebih spesifik, seperti pembuatan website atau sistem yang mengarah pada optimasi bisnis secara operasional, peningkatan keuntungan, keperluan branding, rekrutmen, dan lain-lain. Kami ingin mendengar semuanya dari Anda. Tidak harus bertemu, namun jika Anda mau, kami dapat menghubungi Anda melalui aplikasi komunikasi pertemuan online yang ada, sehingga kami dapat berbicara lebih lanjut mengenai bisnis Anda. Setelah itu, kami akan memberikan beberapa saran yang telah disesuaikan berdasarkan minat Anda, serta beberapa pendekatan efektif sesuai dengan kebutuhan Anda.
                                 </p>
                             </div>
                         </div>
@@ -894,7 +896,7 @@ Proses Bisnis Perusahaan</p>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Setelah kami memahami segalanya, kami akan langsung mengusulkan situs web seperti apa yang Anda butuhkan untuk menyelesaikan permasalahan tersebut. Jika diperlukan, kami juga akan melakukan penelitian, termasuk mengenai pesaing serta menganalisis tugas pencarian dari situs web yang saat ini. Bahkan dalam pengajuan proposal, kami menghargai kecepatan dan mengingat bahwa proposal harus diselesaikan dalam waktu yang cepat. Dalam proposal, kami juga akan menyediakan layanan opsional, seperti fotografi, videografi dan pembuatan konten yang diperlukan. Anda juga dapat berkonsultasi kepada kami jika Anda mempunyai usulan tertentu yang ingin Anda lakukan. Dalam proposal tersebut juga terdapat layanan harga serta perkiraan berapa lama waktu yang dibutuhkan untuk pembuatan situs web Anda. Seluruhnya berdasarkan pada metode transparansi yang kami lakukan, tingkat kesulitan serta jumlah anggota tim yang diperlukan untuk menyelesaikan pekerjaan Anda.
+                                Setelah kami memahami segalanya, kami akan langsung mengusulkan solusi atau website seperti apa yang Anda butuhkan untuk menyelesaikan permasalahan tersebut di dalam sebuah proposal. Dalam proposal tersebut akan terdapat detil ruang lingkup beserta estimasi harga dan berapa lama waktu yang dibutuhkan untuk pembuatan website Anda. Aspek-aspek tersebut kami kalkulasi secara transparan berdasarkan tingkat kesulitan serta jumlah anggota tim yang diperlukan untuk menyelesaikan pekerjaan yang ada. Selain itu, jika diperlukan kami juga dapat memberikan tambahan informasi dari penelitian terhadap pesaing atau website sejenis yang sudah ada, dan layanan opsional, seperti fotografi, videografi dan pembuatan konten yang diperlukan. Dalam pembuatan proposal kami menghargai waktu Anda dan akan berusaha memberikan proposal tersebut dalam waktu yang cepat.
                                 </p>
                             </div>
                         </div>
@@ -915,7 +917,7 @@ Proses Bisnis Perusahaan</p>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Jika Anda menyetujui apa yang telah kami tawarkan, maka proses selanjutnya adalah penandatangan kontrak serta pembayaran uang muka sebesar 50% dari total anggaran biaya yang tertera di dalam proposal. Setelah pembayaran selesai dilakukan, maka tim kami akan langsung dapat memulai untuk melakukan operasi pembuatan situs web Anda.
+                                Jika Anda menyetujui apa yang telah kami tawarkan, maka proses selanjutnya adalah penandatangan kontrak serta pembayaran uang muka sebesar 50% dari total anggaran biaya yang tertera di dalam proposal. Setelah pembayaran selesai dilakukan, maka tim kami akan langsung mememulai pekerjaan untuk pembuatan situs web Anda.
                                 </p>
                             </div>
                         </div>
@@ -935,13 +937,13 @@ Proses Bisnis Perusahaan</p>
                                 <span class="title-custom">5</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Konfirmasi</b></p>
+                                <p class="title-custom-p"><b>Konfirmasi Ruang Lingkup</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pertama, kami akan melakukan konfirmasi mengenai seluruh detail struktur situs website Anda serta persyaratan yang dibutuhkan. Hal ini bertujuan untuk memastikan bahwa tidak ada poin yang terlewat sehingga menyebabkan terjadinya hambatan dalam proses pembuatan web ke depan. Selain itu, kami juga akan menunjukkan kerangka kerja untuk pembuatan situs web Anda (Wireframe) yang telah kami buat sebagai gambaran awal. Selanjutnya untuk konsep, desain, domain serta server web akan kami dikonfirmasikan dan diputuskan. Apabila sebelumnya Anda telah mempunyai situs web, maka Anda dapat membagikan akses Google Analytics situs website Anda kepada kami.
+                                Pertama, kami akan melakukan konfirmasi mengenai seluruh detil struktur situs website Anda serta persyaratan yang dibutuhkan. Hal ini bertujuan untuk memastikan bahwa tidak ada poin yang terlewat sehingga menyebabkan terjadinya hambatan dalam proses pembuatan website tersebut. Kami juga akan menunjukkan layout halaman berupa Wireframe yang telah kami buat sebagai gambaran awal untuk dikonfirmasi sebelum dilanjutkan ke tahap desain. Selain itu, pada tahap ini kami juga akan mengkonfirmasi beberapa poin tambahan seperti domain, server, atau akses Google Analytics yang sudah Anda miliki.
                                 </p>
                             </div>
                         </div>
@@ -954,13 +956,13 @@ Proses Bisnis Perusahaan</p>
                                 <span class="title-custom">6</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Pembuatan Desain Situs Website</b></p>
+                                <p class="title-custom-p"><b>Pembuatan Desain</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pada tahap ini, konsep beranda atau situs web utama akan kami buat dan kami rancang sesuai dengan referensi yang Anda berikan. Tim desain situs web kami selanjutnya akan memberikan kepada Anda beberapa alternatif yang dapat Anda setujui atau Anda revisi. Setelah Anda setuju, maka langkah selanjutnya kami akan membuat sisa halaman berdasarkan desain yang berasal dari situs web utama.
+                                Kami akan mulai dengan pembuatan desain untuk halaman utama berdasarkan referensi dan acuan desain perusahaan yang Anda berikan. Tim kami dapat membantu memberikan beberapa alternatif pilihan desain dan merevisinya sesuai dengan masukkan Anda. Setelah Anda setuju, maka langkah selanjutnya kami akan membuat sisa halaman berdasarkan desain yang telah disetujui.
                                 </p>
                             </div>
                         </div>
@@ -973,13 +975,13 @@ Proses Bisnis Perusahaan</p>
                                 <span class="title-custom">7</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Impelementasi, Pengodean dan Pemrograman</b></p>
+                                <p class="title-custom-p"><b>Pemrograman dan Implementasi</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pada tahap ini, kami akan menjalankan berbagai fungsi pemrograman dari berbagai fitur yang telah direncanakan, termasuk CMS. Pada tahap ini juga telah mencakup penerapan SEO mengikuti desain UI/ UX serta menghilangkan berbagai fitur yang rentan terhadap keamanan situs web Anda. Kami juga akan memastikan bahwa seluruh arsitektur serta berbagai fitur yang berada di situs web Anda telah berjalan dan berfungsi dengan semestinya. Konsep ini bertujuan untuk memastikan bahwa situs website Anda telah terstruktur dengan baik untuk mendapatkan pengalaman pengunjung sesuai dengan target yang ditentukan.
+                                Pada tahap ini, kami akan mengkonversi desain yang ada menjadi halaman-halaman website dan mengembangkan berbagai fungsi dari ruang lingkup yang telah disepakati, termasuk manajemen konten (CMS), penerapan SEO, dan implementasi standar keamanan website. Kami juga akan memastikan bahwa seluruh arsitektur serta berbagai fitur yang ada telah berjalan dan berfungsi dengan semestinya.
                                 </p>
                             </div>
                         </div>
@@ -1004,7 +1006,7 @@ Proses Bisnis Perusahaan</p>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Setelah kami membuat situs web, maka kami akan melakukas tes yang telah disesuaikan dengan isi serta desain situs web itu sendiri. Kami akan memastikan tidak ada kesalahan sintaks HTML, website sepenuhnya telah mobile-friendly, setiap halaman dapat dimuat dengan cepat, serta penerapan SEO telah dilakukan secara efektif. Untuk keamanan situs website Anda, maka kami juga akan melakukan pengujian dan pemeriksaan keamanan dengan melakukan banyak skenario pengujian. Kami selanjutnya akan mendemonstrasikan berbagai fitur tersebut kepada Anda secara berkala sehingga Anda dapat langsung memberikan feedback atau saran kepada kami dari setiap fitur yang telah kami buat. Ketika proyek telah memasuki tahap finalisasi, Anda juga dapat melakukan pengetesan untuk memastikan dan mengkonfirmasi bahwa seluruh fungsi yang diterapkan telah sesuai dan berjalan dengan baik.
+                                Setiap kami selesai melakukan pekerjaan dalam setiap fitur, maka kami akan melakukan tes yang disesuaikan dengan lingkup yang ada. Kami akan memastikan tampilan desain sesuai, tidak ada kesalahan sintaks HTML, website sepenuhnya telah mobile-friendly, setiap halaman dapat dimuat dengan cepat, serta penerapan SEO telah dilakukan secara efektif. Kami juga akan memastikan dari sisi keamanan sudah sesuai dengan standar keamanan website yang harus dipenuhi. Setelahnya, kami akan mendemonstrasikan fitur tersebut kepada Anda secara berkala sehingga Anda dapat langsung memberikan masukkan kepada kami. Ketika proyek telah memasuki tahap finalisasi, maka Anda dapat melakukan pengetesan untuk memastikan dan mengkonfirmasi bahwa seluruh fungsi yang diterapkan telah sesuai dan berjalan dengan baik.
                                 </p>
                             </div>
                         </div>
@@ -1017,13 +1019,13 @@ Proses Bisnis Perusahaan</p>
                                 <span class="title-custom">9</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Peluncuran Situs Web</b></p>
+                                <p class="title-custom-p"><b>Peluncuran Website</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pada tahapan ini, situs website Anda akan dimasukkan ke dalam web server untuk sekaligus dipublikasikan. Kami dapat membantu Anda untuk memindahkan seluruh data yang berasal dari situs lama Anda jika diperlukan. Setelah dipublikasi, selanjutnya kami akan melakukan registrasi indeks di Google serta menyiapkan Google Analytics untuk melakukan pemeliharaan lebih lanjut. Pada tahap ini juga, Anda dapat melunasi sisa pembayaran sehingga situs web Anda dapat langsung digunakan.
+                                Pada tahapan ini, file-file website Anda akan dimasukkan ke dalam web server untuk dipublikasikan. Kami juga dapat membantu Anda untuk memindahkan seluruh data yang berasal dari website Anda yang lama jika diperlukan. Setelah dipublikasi, selanjutnya kami akan melakukan pengaturan Google Web Console dan Google Analytics untuk kebutuhan pemantauan data pengunjung dan pengelolaan website lebih lanjut. Pada tahap ini juga, Anda dapat melunasi sisa pembayaran sehingga situs web Anda dapat langsung digunakan.
                                 </p>
                             </div>
                         </div>
@@ -1042,8 +1044,8 @@ Proses Bisnis Perusahaan</p>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Setelah diluncurkan, kami tidak akan meninggalkan Anda begitu saja. Kami sadar bahwa setiap situs website membutuhkan manajemen dalam jangka waktu yang panjang. Hal ini juga termasuk ke dalam situs website milik Anda. Karena itu, kami akan terus melakukan pemeliharaan sistem situs website Anda untuk menjaga agar hasil dapat sesuai dengan apa yang Anda inginkan. LOGIQUE menyediakan berbagai layanan manajemen yang Anda butuhkan, mulai dari mengamati sistem, melakukan operasi harian, bahkan untuk pembuatan konten reguler sekalipun. Kami juga dapat melakukan pengoperasian akun media sosial Anda, sampai melakukan operasi digital marketing. Semua itu untuk hasil yang maksimal dari situs web Anda.
-                                </p>
+                                Setelah website diluncurkan, kami tidak akan meninggalkan Anda begitu saja. Kami memahami agar dapat berjalan dengan baik dan mencapai hasil yang diharapkan, setiap website membutuhkan pengelolaan berkelanjutan. Karena itu, LOGIQUE menyediakan berbagai layanan yang Anda butuhkan, mulai dari pemantauan website atau server, pengoperasian harian, pembuatan konten, manajemen akun media sosial, dan aktivitas digital marketing yang bertujuan untuk memaksimalkan website Anda.
+                                 </p>
                             </div>
                         </div>
                     </div>
@@ -1243,7 +1245,13 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/aia.png" alt="">
+                            <img src="assets/img/aia.jpg" alt="">
+                            <br/>
+                            <img src="assets/img/aia2.jpg" alt="">
+                            <br/>
+                            <img src="assets/img/aia3.jpg" alt="">
+                            <br/>
+                            <img src="assets/img/aia4.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1370,7 +1378,11 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/panin.png" alt="">
+                            <img src="assets/img/panin.jpg" alt="">
+                            <br/>
+                            <img src="assets/img/panin2.jpg" alt="">
+                            <br/>
+                            <img src="assets/img/panin3.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1384,9 +1396,22 @@ Proses Bisnis Perusahaan</p>
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">JBA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">JBA – Website Perusahaan dan Layanan</p>
+                            <p class="content">
+                            Merupakan situs website yang menyediakan semua informasi yang dibutuhkan oleh pelanggan terkait lelang mobil dan motor yang dilakukan oleh JBA Indonesia. 
+                            </p>
+                            <p class="content">
+                            Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                            Konsep pembuatan desain diarahkan untuk menguatkan kesan korporasi yang terpercaya dan profesional, dengan implementasi yang mudah digunakan pengguna, dan pengaplikasian teknologi desain responsif yang dapat dilihat dengan baik pada Smartphone, Tablet, dan Desktop. 
+                            </p>
+                            <p class="content">
+                            Untuk dapat menampilkan data-data mobil dan motor yang dilelang, website terintegrasi dengan sistem inti melalui API yang juga dirancang oleh LOGIQUE dengan hasil akhir website yang diimplementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                            Selain pembuatan website perusahaan, LOGIQUE membantu JBA secara menyeluruh untuk pembuatan berbagai sistem dan aplikasi mobile untuk mendukung proses bisnis yang ada.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1401,107 +1426,29 @@ Proses Bisnis Perusahaan</p>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Otomotif / Lelang</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Project Period</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Device</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
-                                <div class="content-title">
-                                    <p>Scope/person in charge</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Strategic design</p>
-                                    <p>
-                                        Information design
-                                    </p>
-                                    <p>
-                                        direction
-                                    </p>
-                                    <p>
-                                        Lead design
-                                    </p>
-                                    <p>
-                                        design
-                                    </p>
-                                    <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
+                                    <p>Website</p>
                                 </div>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/jba.png" alt="">
+                            <img src="assets/img/jba1.jpg" alt="">
+                            <br />
+                            <img src="assets/img/jba2.jpg" alt="">
+                            <br />
+                            <img src="assets/img/jba4.jpg" alt="">
+                            <br />
+                            <img src="assets/img/jba6.jpg" alt="">
                         </div>
                     </div>
                 </div>
