@@ -394,32 +394,7 @@
         <div class="container__">
           <h3 class="section-title">Studi Kasus</h3>
           <p>Selama lebih dari 7 tahun, <strong>LOGIQUE</strong> telah membantu berbagai klien ternama, dari startup lokal sampai dengan perusahaan internasional untuk mengembangkan Website, Sistem, Web App dan Aplikasi Mobile.</p>
-
-          <!-- <div class="flex__row  ">
-            <div class="col-md-6 col-xs-12 row__item">
-              <img src="/img/case-study-1.png" class="img-responsive" alt="">
-              <a href="/case-study/caroline-bidding-system/">
-                <div class="item__hover">
-                  <img src="/img/top/i-caroline-update.png" alt="">
-                  <h4>Situs Jual Beli dengan Sistem Penawaran Online</h4>
-                  <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
-                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </div>
-              </a>
-            </div>
-            <div class="col-md-6 col-xs-12 row__item">
-              <img src="/img/case-study-2.png" class="img-responsive" alt="">
-              <a href="/case-study/jba-auction-system/">
-                <div class="item__hover">
-                  <img src="/img/top/i-jba-update.png" alt="">
-                  <h4>JBA Indonesia Auction System</h4>
-                  <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
-                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </div>
-              </a>
-            </div>
-          </div> -->
-
+ 
           <div class="flex__row case-study__slide">
             <div class=" row__item --sm top-2">
               <img src="/img/case-study-1.png" class="img-responsive" alt="">
@@ -712,31 +687,7 @@
   <?php include 'footer.php';?>
  
   <script>
-  // $('.case-study__slide').slick({
-  //   infinite: true,
-  //   slidesToShow: 3,
-  //   slidesToScroll: 3,
-  //   // adaptiveHeight: true,
- 
-  //   responsive: [{
-  //       breakpoint: 1100,
-  //       settings: {
-  //         slidesToShow: 2,
-  //         slidesToScroll: 2,
-  //         infinite: true,
-  //       }
-  //     },
-  //     {
-  //       breakpoint: 700,
-  //       settings: {
-  //         slidesToShow: 1,
-  //         slidesToScroll: 1,
-  //         arrow:true
-  //       }
-  //     },
-  //   ]
-  // });
-  // slider
+  
   $slick_slider = $('.case-study__slide');
   settings_slider = {
     slidesToShow: 2,
