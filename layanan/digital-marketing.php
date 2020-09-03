@@ -6,22 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Logique adalah agen pemasaran yang menawarkan layanan Digital Marketing & Internet Marketing profesional">
+        content="LOGIQUE menyediakan jasa Digital Marketing di Jakarta sebagai solusi untuk meningkatkan bisnis Anda. Cari Agensi Digital terpercaya? Hubungi kami.">
     <meta name="keywords"
-        content="digital marketing, pemasaran digital, strategi digital marketing, layanan digital marketing, digital marketing logique">
+        content="jasa digital marketing, agensi digital marketing, agensi digital marketing jakarta">
     <meta name="title"
-        content="Logique provides Jakarta based Digital Marketing services">
+        content="Agensi Digital Marketing Jakarta | LOGIQUE Digital Indonesia">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta property="og:title"
-         content="LOGIQUE | Layanan & Konsultan Pemasaran Digital Profesional Tersedia Sekarang.">
+         content="Agensi Digital Marketing Jakarta | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/digital-marketing.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="Buat strategi pemasaran digital yang unggul dengan LOGIQUE & tingkatkan visibilitas situs Anda melalui pemasaran online profesional dan SEO Berkualitas.">
+    <meta property="og:description" content="LOGIQUE menyediakan jasa Digital Marketing di Jakarta sebagai solusi untuk meningkatkan bisnis Anda. Cari Agensi Digital terpercaya? Hubungi kami.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Digital Marketing | LOGIQUE Digital Indonesia</title>
+    <link rel="canonical" href="https://www.logique.co.id/layanan/digital-marketing.php" />  
+    <title>Agensi Digital Marketing Jakarta | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
