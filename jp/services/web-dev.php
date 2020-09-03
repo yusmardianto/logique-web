@@ -208,11 +208,11 @@ if(isset($_POST['submitted']))
                                         </h1>
                                         <div class="content">
                                             <p>
-                                                LOGIQUEが作るWeb / ホームページは、 集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。
+                                                LOGIQUEが作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える等コンバージョンが増える価値のあるWebです。
                                             </p>
 
-                                            <p>WEBチャネルを活用して営業を効率的に行いたい、 他社と差別化したい、カスタマーサービスを効率化したい、 採用を強化したい、場合はLOGIQUEにお任せください。<br>
-                                            インドネシアで歴史も実績もNo1のWEB制作会社です。<br />
+                                            <p>WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい場合にはLOGIQUEにお任せください。<br />
+                                            インドネシアで実績もクオリティーもNo1のWeb制作会社です。
                                             </p>
                                         </div>
                                     </div>
@@ -461,28 +461,31 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                 </div>
             </div>
             <div class="row portofolio-section text-center">
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+            <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
+                <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
+                    <!-- <a href="https://aiapremieracademy.co.id/en/home" target="_blank"> -->
                         <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
                         <p class="portofolio-title text-center">AIA</p>
                         <p class="portofolio-subtitle">詳しくみる</p>
-                    </a>
+                    <!-- </a> -->
                 <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
             </div>
-            <div class="col-md-6 col-lg-4 col-sm-4">
-                <a href="http://bekalhidup.com/" target="_blank">
+            <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
+            <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
+                <!-- <a href="http://bekalhidup.com/" target="_blank"> -->
                     <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
                     <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
-                </a>
+                <!-- </a> -->
             </div>
-            <div class="col-md-6 col-lg-4 col-sm-4">
-                <a href="https://jba.co.id/" target="_blank">
+            <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
+            <!-- <div class="col-md-6 col-lg-4 col-sm-4"> -->
+                <!-- <a href="https://jba.co.id/" target="_blank"> -->
                     <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
                     <p class="portofolio-title text-center">JBA</p>
                     <p class="portofolio-subtitle">詳しくみる</p>
-                    </a>
+                    <!-- </a> -->
                     <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
@@ -569,8 +572,8 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                         <a class="link-yellow-white" href="/jp/services/penetration-test.php">Webサイト制作実績</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/jp/services/web-dev.php">Webセキュリティ脆弱性診断サービス</a>
-                        <a class="link-yellow-white" href="/jp/services/pembuatan-aplikasi-mobile">モバイルアプリ開発サービス</a>
+                        <a class="link-yellow-white" href="/jp/services/system-dev.php">Webセキュリティ脆弱性診断サービス</a>
+                        <a class="link-yellow-white" href="/jp/services/mobile-app-dev.php">モバイルアプリ開発サービス</a>
                     </div>
                 </div>
             </div>
@@ -1024,9 +1027,24 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">AIA Group</p>
-                            <p class="content">保険会社AIAのキャンペーンサイトやマイクロサイトの制作を委託いただいてきました。</p>
-                            <!-- <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p> -->
+                            <p class="title">AIA - Premier Academy</p>
+                            <!-- <p class="subtitle">Lorem!</p> -->
+                            <p class="content">Merupakan situs website yang membantu AIA dalam menyediakan informasi yang dibutuhkan oleh agen dan calon agen mengenai AIA Premier Academy.</p>
+                            <p class="content">
+                                Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                                Pembuatan desain disesuaikan dengan konsep Formula 1 yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik tanpa mengurangi fungsionalitas dan tetap memperhatikan konsep responsif desain yang diperlukan saat ini. 
+                            </p>
+                            <p class="content">
+                                Pada website juga terdapat implementasi Income Calculator berdasarkan formula perhitungan yang komprehensif dengan variasi output yang mencakup grafik. Hasil akhir website ini kemudian di implementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                                Salah satu tantangan dalam proyek ini adalah kebutuhan AIA untuk merilis versi awal hanya dalam 2 minggu, dan LOGIQUE mampu menjawab ekspektasi tersebut dengan baik. 
+                            </p>
+                            <p class="content">
+                                Setelah versi awal dirilis, pengembangan berlanjut dengan peningkatan fungsi termasuk implementasi fungsi kalkulator dengan total waktu pengembangan dari awal sampai akhir sekitar 5 minggu.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1044,96 +1062,84 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Insurance</p>
+                                    <p>Asuransi</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>マイクロサイト</p>
+                                    <p>Website Statis (Responsif) dan Fungsi Kalkulator</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Project Period</p>
+                                    <p>Durasi</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>2ヶ月</p>
+                                    <p>5 Minggu</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Scope</p>
+                                    <p>Ruang Lingkup</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>デザイン／HTMLコーディング／パララックスプログラミング／インフラ管理／プロジェクト管理</p>
+                                    <p>Manajemen Proyek (PM), Perencanaan Layout / Desain, HTML Coding dan Animasi, Fungsional, Implementasi Cloud Server</p>
                                 </div>
                             </div>
-                            <!-- <div class="content-container scope-container">
+                            <div class="content-container scope-container">
                                 <div class="content-title">
-                                    <p>Scope/person in charge</p>
+                                    <p>Tim</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Strategic design</p>
+                                    <p>Pengarah Proyek (PM)</p>
                                     <p>
-                                        Information design
+                                    Desainer Kreatif
                                     </p>
                                     <p>
-                                        direction
+                                    Implementasi HTML dan Animasi
                                     </p>
                                     <p>
-                                        Lead design
+                                    Fungsional
                                     </p>
                                     <p>
-                                        design
+                                    Testing
                                     </p>
                                     <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
+                                    Infrastruktur
                                     </p>
                                     	
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Nico</p>
                                     <p>
-                                    Lorem Ipsum
+                                    Adit/Angel
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Fahmi, Bagas
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Andre
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Angga
                                     </p>
                                     <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
+                                    Wisya
                                     </p>
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/aia.png" alt="">
+                            <img loading="lazy" src="assets/img/aia.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia2.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia3.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia4.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1147,7 +1153,26 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">Panin Dai-ichi Life Asuransi Indonesia</p>
+                            <p class="title">Panin Dai-ichi Life – Bekal Hidup</p>
+                            <!-- <p class="subtitle">Lorem !</p> -->
+                            <p class="content">
+                                Merupakan suatu terobosan dari Panin Dai-ichi Life dalam bentuk produk-produk asuransi digital yang dapat dibeli langsung secara online melalui website E-Commerce. 
+                            </p>
+                            <p class="content">
+                                Berangkat dari pengalaman LOGIQUE yang telah banyak menangani proyek E-Commerce baik untuk industri asuransi maupun barang retail, kami membantu merancang konsep e-commerce Panin Dai-ichi Life mulai dari tahap perencanaan, desain, pengembangan kode, dan implementasi pada server yang telah disediakan. 
+                            </p>
+                            <p class="content">
+                                Pembuatan desain disesuaikan dengan konsep branding ‘Bekal Hidup’ yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik, termasuk sangat memperhatikan User Experience untuk memudahkan Customer dalam melakukan pembelian produk asuransi yang ada. 
+                            </p>
+                            <p class="content">
+                                Dalam website e-commerce ini, Customer dapat melakukan pembelian beberapa produk asuransi sejenis untuk menerima keuntungan ganda; sistem secara otomatis melakukan verifikasi apakah Customer tersebut masih dapat melakukan pembelian produk dengan kriteria-kriteria yang telah ditentukan. 
+                            </p>
+                            <p class="content">
+                                Website E-Commerce ini juga terintegrasi dengan sistem pembayaran Midtrans yang mencakup pembelian awal dan recurring serta integrasi dengan sistem inti dari Panin Dai-ichi Life itu sendiri. 
+                            </p>
+                            <p class="content">
+                                Dalam pelaksanaannya, LOGIQUE membantu Panin Dai-ichi memiliki sebuah website E-Commerce yang dapat digunakan dalam waktu 3 bulan (fase 1), yang kemudian berlanjut dengan peningkatan fungsi untuk memenuhi cakupan tipe produk asuransi baru yang akan disediakan secara online di fase 2.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1162,15 +1187,15 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Insurance</p>
+                                    <p>Asuransi</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
                                     <p>E-Commerce</p>
@@ -1178,83 +1203,74 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Project Period</p>
+                                    <p>Durasi</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>4ヶ月</p>
+                                    <p>3 Bulan (Fase 1)</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Scope</p>
+                                    <p>Ruang Lingkup</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Web設計／デザイン／HTMLコーディング／インフラ設計／システム要件定義／システム開発／プロジェクト管理</p>
+                                    <p>Manajemen Proyek (PM), Perencanaan Konsep, Perencanaan Layout / Desain, HTML Coding, Fungsional dan Integrasi Sistem Inti, Integrasi <i>Payment Gateway</i></p>
                                 </div>
                             </div>
-                            <!-- <div class="content-container scope-container">
+                            <div class="content-container scope-container">
                                 <div class="content-title">
-                                    <p>Scope/person in charge</p>
+                                    <p>Tim</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Strategic design</p>
+                                    <p>Pengarah Proyek (PM)</p>
                                     <p>
-                                        Information design
+                                    Perencanaan Konsep
                                     </p>
                                     <p>
-                                        direction
+                                    Desainer Kreatif
                                     </p>
                                     <p>
-                                        Lead design
+                                    Implementasi HTML dan Animasi
                                     </p>
                                     <p>
-                                        design
+                                    Fungsional
                                     </p>
                                     <p>
-                                        Copywriting
+                                    Testing
                                     </p>
                                     <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
+                                    Infrastruktur
+                                    </p>  	
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Paskal</p>
                                     <p>
-                                    Lorem Ipsum
+                                    Paskal / Irvan
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Adit
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Anggo, Nico
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Daniel, Dimas
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Winda, Edi
                                     </p>
                                     <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
+                                    Wisya
                                     </p>
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/panin.png" alt="">
+                            <img loading="lazy" src="assets/img/panin.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/panin2.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/panin3.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1268,9 +1284,22 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">JBA</p>
-                            <!-- <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p> -->
-                            <p class="content">JBAのコーポレート＆オークションサービスWebサイトを長きに渡り制作＆運用しています。2019年新CIに併せWebサイトもフルリニューアルしました。多くのリピートユーザーが頻繁に訪問し多くのページをブラウズしていますので、オークション出店されている車の閲覧性を高めることに注力して制作しました。</p>
+                            <p class="title">JBA – Website Perusahaan dan Layanan</p>
+                            <p class="content">
+                            Merupakan situs website yang menyediakan semua informasi yang dibutuhkan oleh pelanggan terkait lelang mobil dan motor yang dilakukan oleh JBA Indonesia. 
+                            </p>
+                            <p class="content">
+                            Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                            Konsep pembuatan desain diarahkan untuk menguatkan kesan korporasi yang terpercaya dan profesional, dengan implementasi yang mudah digunakan pengguna, dan pengaplikasian teknologi desain responsif yang dapat dilihat dengan baik pada Smartphone, Tablet, dan Desktop. 
+                            </p>
+                            <p class="content">
+                            Untuk dapat menampilkan data-data mobil dan motor yang dilelang, website terintegrasi dengan sistem inti melalui API yang juga dirancang oleh LOGIQUE dengan hasil akhir website yang diimplementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                            Selain pembuatan website perusahaan, LOGIQUE membantu JBA secara menyeluruh untuk pembuatan berbagai sistem dan aplikasi mobile untuk mendukung proses bisnis yang ada.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1278,106 +1307,36 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
                                     <p>URL</p>
                                 </div>
                                 <div class="content-desc">
-                                    <a href=" https://jba.co.id/" target="_blank">
+                                    <a href="https://jba.co.id/" target="_blank">
                                         <p>https://jba.co.id/</p>
                                     </a>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Automotive, Car & Bike Auction</p>
+                                    <p>Otomotif / Lelang</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>コーポレート & サービスWeb</p>
+                                    <p>Website</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Project Period</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>2ヶ月</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Scope</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Web設計／情報設計／アートディレクション／デザイン／HTMLコーディング／バナー制作／システム要件定義／システム開発／プロジェクト管理／インフラ設計</p>
-                                </div>
-                            </div>
-                            <!-- <div class="content-container scope-container">
-                                <div class="content-title">
-                                    <p>Scope/person in charge</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Strategic design</p>
-                                    <p>
-                                        Information design
-                                    </p>
-                                    <p>
-                                        direction
-                                    </p>
-                                    <p>
-                                        Lead design
-                                    </p>
-                                    <p>
-                                        design
-                                    </p>
-                                    <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                </div>
-                            </div> -->
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/jba.png" alt="">
+                            <img loading="lazy" src="assets/img/jba1.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba2.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba4.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba6.jpg" alt="">
                         </div>
                     </div>
                 </div>

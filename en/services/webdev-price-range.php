@@ -197,7 +197,7 @@ if(isset($_POST['submitted']))
                                     <meta itemprop="position" content="3" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Web Price Range</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Dev Plans</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -438,7 +438,7 @@ if(isset($_POST['submitted']))
                     <div class="detail-contact">
                         <div class="price-container">
                             <p class="title">Production Price </p>
-                            <p class="price">200 Million 〜 500 Million</p>
+                            <p class="price">200 Million 〜 500 Million IDR</p>
                         </div>
                         <div class="button-container">
                             <a href="/en/contact.php">

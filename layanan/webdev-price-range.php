@@ -194,7 +194,7 @@ if(isset($_POST['submitted']))
                                     <meta itemprop="position" content="3" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Web Price Range</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Opsi Layanan</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>

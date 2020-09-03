@@ -584,7 +584,7 @@ if(isset($_POST['submitted']))
                         <a class="link-yellow-white" href="/layanan/penetration-test.php">Diagnosa Keamanan Website</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/layanan/web-dev.php">Pengembangan Sistem Berbasis Web</a>
+                        <a class="link-yellow-white" href="/layanan/pembuatan-sistem-web.php">Pengembangan Sistem Berbasis Web</a>
                         <a class="link-yellow-white" href="/layanan/pembuatan-aplikasi-mobile">Pengembangan Aplikasi Mobile</a>
                     </div>
                 </div>

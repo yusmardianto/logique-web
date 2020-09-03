@@ -447,7 +447,7 @@ if(isset($_POST['submitted']))
                     <div class="detail-contact">
                         <div class="price-container">
                             <p class="title">制作費用</p>
-                            <p class="price">200 juta 〜 500 juta</p>
+                            <p class="price">200 juta 〜 500 juta IDR</p>
                         </div>
                         <div class="button-container">
                             <a href="/jp/contact.php">
