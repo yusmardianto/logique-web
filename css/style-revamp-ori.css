@@ -749,11 +749,11 @@ b {
   justify-content: center;
   height: 100%;
 }
-
+/*
 .case-study .row__item.--sm > a > .item__hover {
   align-items: center;
 }
-
+*/
 .case-study .row__item > a > .item__hover > img:first-child {
   max-width: 160px;
   height: 40px;
@@ -897,6 +897,7 @@ b {
   .case-study .row__item > a > .item__hover > p {
     font-size: 14px;
     line-height: 24px;
+    display: none;
   }
 }
 
