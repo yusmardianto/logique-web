@@ -749,11 +749,9 @@ b {
   justify-content: center;
   height: 100%;
 }
+/*
 
-.case-study .row__item.--sm > a > .item__hover {
-  align-items: center;
-}
-
+*/
 .case-study .row__item > a > .item__hover > img:first-child {
   max-width: 160px;
   height: 40px;
@@ -777,6 +775,9 @@ b {
   font-size: 16px;
   display: inline-block;
   font-weight: 600;
+}
+.case-study .row__item.--sm > a > .item__hover  h4 > img{
+  display: none;
 }
 
 .case-study .row__item > a > .item__hover > p {
@@ -897,6 +898,7 @@ b {
   .case-study .row__item > a > .item__hover > p {
     font-size: 14px;
     line-height: 24px;
+    display: none;
   }
 }
 
@@ -1252,6 +1254,19 @@ b {
     .case-study .flex__row:last-of-type{
       margin-bottom: 10px;
     }
+    .case-study .row__item.top-2 > a > .item__hover  h4 {
+      text-align: center;
+    }
+    .case-study .row__item.top-2 > a > .item__hover  h4 > img {
+      display: inline-block;
+      margin-left: 5px;
+    }
+    .case-study .row__item.top-2 > a > .item__hover > .right-arrow{
+      display: none;
+    }
+    .case-study .row__item.--sm > a > .item__hover {
+    align-items: center;
+  }
 }
 @media (max-width: 767.98px) {
   .portfolio-update__nav .page-nav {
