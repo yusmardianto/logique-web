@@ -478,7 +478,7 @@
                             <a href="/en/case-study/caroline-bidding-system/">
                                 <div class="item__hover">
                                 <img src="/img/top/i-caroline-update.png" alt="">
-                                <h4>Situs Jual Beli dengan Sistem Penawaran Online</h4>
+                                <h4>Situs Jual Beli dengan Sistem Penawaran Online <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
                                 <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                 </div>
@@ -490,7 +490,7 @@
                                 <div class="item__hover">
                                 <img src="/img/top/i-jba-update.png" alt="">
                              
-                                <h4>JBA Indonesia Auction System</h4>
+                                <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
                                 <p>JBA is the largest car and motorcycle auction company in Indonesia. For JBA, we have been trusted in developing almost all systems used which include the main systems. 
                                     </p>
                               
