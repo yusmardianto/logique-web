@@ -489,9 +489,11 @@
                             <a href="/en/case-study/jba-auction-system">
                                 <div class="item__hover">
                                 <img src="/img/top/i-jba-update.png" alt="">
+                             
                                 <h4>JBA Indonesia Auction System</h4>
                                 <p>JBA is the largest car and motorcycle auction company in Indonesia. For JBA, we have been trusted in developing almost all systems used which include the main systems. 
                                     </p>
+                              
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                 </div>
                             </a>
