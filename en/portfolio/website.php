@@ -174,7 +174,10 @@
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>Website Creation Works</h1></div>
                             <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> has developed many Websites, Systems and Apps, and delivered them successfully to our clients. Below are some of our Web creation portfolio.</p>
-                            <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
+                            <picture>
+                                <source srcset="/img/portfolio/bg-portfolio-detail-website.webp">
+                                <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
+                            </picture>
                         </div>
                     </div>
                 </div>
@@ -1095,6 +1098,46 @@
                                         <li>Validation, Form Submission, Multiple User Journey, Microsite, Digital Procedure, Adobe Form</li>
                                     </ul>
                                 </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://gakken-jakarta.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-gakken.png" class="img-responsive" alt="Gakken Jakata">
+                                    <h3>Gakken Jakarta</h3>
+                                    <ul class="list-unstyled">
+                                        <li>(Coding | Maintenance | Server Operation)</li>
+                                        <li>Corporate & Service Web, Education</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://indonesea.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-indonesea.png" class="img-responsive" alt="Indonesea">
+                                    <h3>Indonesea</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web Development (Design | CMS | Coding)</li>
+                                        <li>CMS, Booking system, Travel & Leisure, BtoC Service</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://www.bambootajur.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-kbj.png" class="img-responsive" alt="Green Bamboo Terrace">
+                                    <h3>Green Bamboo Terrace</h3>
+                                    <ul class="list-unstyled">
+                                        <li>(Design | Coding | Digital Marketing)</li>
+                                        <li>Conversion-oriented, Real Estate</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://benefit-one.co.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/web-benefit-one.png" class="img-responsive" alt="Green Bamboo Terrace">
+                                    <h3>Benefit One Website Remake</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web Re-make (Design | CMS | Coding)</li>
+                                        <li>CMS, Mobile Optimized, BtoB Service</li>
+                                    </ul>
+                                </a>
                             </div>
 
                         </div>

@@ -164,7 +164,7 @@ if(isset($_POST['submitted']))
                                     <li><a href="/layanan/webdev-price-range.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                <a href="/jp/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -179,7 +179,7 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -234,17 +234,17 @@ if(isset($_POST['submitted']))
     <section class="miniplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>クイック制作Plan</p>
                     </div>
                     <p class="content">簡易なWebやランディングページ</p>
                     <div class="detail-requirement">
                         <div class="detail-container detail-period">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>制作期間</span>
                             </div>
@@ -253,7 +253,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-page">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>ページ数</span>
                             </div>
@@ -262,7 +262,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin detail-work">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>作業内容</span>
                             </div>
@@ -291,14 +291,14 @@ if(isset($_POST['submitted']))
     <section class="standardplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>スタンダード制作Plan</p>
                     </div>
                     <p class="content">スタンダードなコーポレートWebやサービスWeb</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>制作期間</span>
                             </div>
@@ -307,7 +307,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>ページ数</span>
                             </div>
@@ -316,7 +316,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>作業内容</span>
                             </div>
@@ -340,8 +340,8 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/22.png" alt="">
                 </div>
             </div>
         </div>
@@ -349,17 +349,17 @@ if(isset($_POST['submitted']))
     <section class="largeplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/33.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Large Scale Web 制作Plan</p>
                     </div>
                     <p class="content">大規模なコーポレートWebやサービスWebが対象</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>制作期間</span>
                             </div>
@@ -368,7 +368,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>ページ数</span>
                             </div>
@@ -377,7 +377,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>作業内容</span>
                             </div>
@@ -406,14 +406,14 @@ if(isset($_POST['submitted']))
     <section class="strategicplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Strategic Web Creation Plan</p>
                     </div>
                     <p class="content">Web戦略を策定した上で戦略に沿ったWebを制作します。</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>制作期間</span>
                             </div>
@@ -422,7 +422,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>ページ数</span>
                             </div>
@@ -431,7 +431,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>作業内容</span>
                             </div>
@@ -447,7 +447,7 @@ if(isset($_POST['submitted']))
                     <div class="detail-contact">
                         <div class="price-container">
                             <p class="title">制作費用</p>
-                            <p class="price">200 juta 〜 500 juta</p>
+                            <p class="price">200 juta 〜 500 juta IDR</p>
                         </div>
                         <div class="button-container">
                             <a href="/jp/contact.php">
@@ -456,8 +456,8 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/44.png" alt="">
                 </div>
             </div>
         </div>
@@ -467,7 +467,7 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-md-12">
                     <div class="promo-container">
-                        <img src="assets/img/img-webdev/webdev-service/promo.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/promo.png" alt="">
                     </div>
                 </div>
             </div>
@@ -606,12 +606,12 @@ if(isset($_POST['submitted']))
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                      <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
             </div>

@@ -1,6 +1,18 @@
 body{
     font-size: 16px;
 }
+@font-face {
+  font-family: "Novocento Sans Wide";
+  src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Novocento Sans Wide Medium";
+  src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
 *{
     font-family: 'Montserrat', sans-serif;
 }
@@ -38,13 +50,10 @@ p:last-of-type{
     margin:0 auto;
 }
 .logofont{
-    font-family: Novecentosanswide-medium;
+    font-family: 'Novocento Sans Wide';
     display: inline !important;
 }
-.logique-nav{
-    height: auto; 
-    border-radius: 20px;
-}
+
 .logique-nav.logique-nav--update .margin-for-nav{
     margin:10px 0;
 }
@@ -431,6 +440,9 @@ section h2{
     width: 48px; 
     margin-bottom: 20px;
 }
+.more{
+            display: none;
+         }
 .showmore .success-item.sc-seeall .other-success-item img{
     height: 20px;
     margin-top: 50%;
@@ -446,6 +458,7 @@ section h2{
     transform: translatey(-10px) rotate(-90deg);
 
 }
+
 .success-item a.more-icon{
     text-decoration: underline;
     font-style: italic;
@@ -819,16 +832,6 @@ section.dm__other-service  strong, section.dm__links   strong {
         width: 100%;
         margin-top: -1px;
     }
-    .logique-nav {
-        margin-right: -150px;
-        margin-left: auto;
-        position: relative;
-        float: right;
-        margin-top: 0;
-        height: 100%;
-        border-radius: 0;
-    }
-
     .content-wrapper__.header{
         padding: 30px 0;
     }

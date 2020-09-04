@@ -164,7 +164,7 @@ if(isset($_POST['submitted']))
                                     <li><a href="/layanan/web-dev.php">ID</a></li>
                                     <li><a href="/jp/services/web-dev.php">JP</a></li>
                                 </ul>
-                                <a href="/index.php"><img src="/../img/logo.png" alt="Logo"
+                                <a href="/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -180,7 +180,7 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img src="assets/img/img-webdev/webdev-bg.png" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -244,22 +244,12 @@ As a professional web development company, we work to create the maximum quality
                          <!-- Wrapper for slides -->
                          <div class="carousel-inner">
                              <div class="item active">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
+                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
-                             <!-- <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div>
-                             <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div> -->
                          </div>
                          <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <!-- <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li> -->
                         </ol>
                      </div>
                 </div>
@@ -270,7 +260,7 @@ As a professional web development company, we work to create the maximum quality
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-md-5">
-                    <img src="assets/img/img-webdev/flow.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
                 </div>
                 <div class="col-sm-7 col-md-7">
                     <p class="flow-title">Building the Ideal Website depends on the expectations set for your site, your budget, and the structure that can be prepared for it.</p>
@@ -284,7 +274,7 @@ If you are still uncertain about which service menu fits your needs, please feel
                     <a href="./webdev-price-range.php" target="_blank">
                         <div class="flow-button">
                         See Web Production Service Plans
-                        <img src="assets/img/img-webdev/arrow.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/arrow.png" alt="">
                         </div>
                     </a>
                 </div>
@@ -312,7 +302,7 @@ If you are still uncertain about which service menu fits your needs, please feel
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5">
-                    <img src="assets/img/img-webdev/discuss.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/discuss.png" alt="">
                 </div>
             </div>
         </div>
@@ -375,21 +365,21 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="analysis-part flow-part">
-                        <img src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
                         <h3>Analysis and Evaluation</h3>
                         <p>If you already have a website, we will be able to analyze and evaluate its progress through services which include examining the rate of traffic and also by interpreting the overall structure of your website, among other things. Our team is experienced in retrieving a highly accurate analysis of your website and examining the issues within it in order to improve its overall user experience.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="plan-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
                         <h3>Planning</h3>
                         <p>In order to achieve the set goals desired for your website, we aim to show you what a professionally designed site should look like, as well as offer suggestions for potential improvements required for continual results. Such advice varies depending on your site’s internal system.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="seo-part flow-part">
-                        <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
                         <p>A website is unlikely to receive much traffic simply through having an online presence. Our experts are familiar with SEO measures specified for Indonesia. We strive to create websites that are highly visible through organic search methods when relevant queries are entered into the search engine. We are also able to conduct an SEM strategy in order to ensure a quick rise in traffic through the use of effective keywords.</p>
                     </div>
@@ -398,21 +388,21 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="info-part flow-part">
-                        <img src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
                         <h3>Restructuring and Improvement</h3>
                         <p>As performance issues are commonly found through a thorough scan, your website doesn’t necessarily need to be recreated from scratch, as occasionally, the cost and work involved can exceed a specified budget. In this case, we offer practical solutions for organizing, collecting and improving the website according to your specified budget, within the timeframe you require</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="multiligual-part flow-part">
-                        <img src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
                         <h3>Multilingual Website Production and Operation</h3>
                         <p>We can facilitate web development in Indonesian, English and Japanese, as we understand that creating unique and multi-paged content is important to reach and engage as large an audience as possible</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="sosmed-part flow-part">
-                        <img src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
                         <h3>Social Media Operation</h3>
                         <p>Social media can be a powerful tool to increase the level of interaction with your customers. It can also facilitate web traffic by directing frequenters of social media to your website. We operate on several Social Media platforms such as Facebook and Instagram in the Indonesian, English and Japanese languages.</p>
                     </div>
@@ -421,21 +411,21 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="design-part flow-part">
-                        <img src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
                         <h3>Design Production</h3>
                         <p>We aim to design a user and conversion friendly UI for your website. Our web design team will suggest different design styles according to your specific requirements.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="markup-part flow-part">
-                        <img src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
                         <h3>Markup Coding</h3>
                         <p>You can also request simple HTML/CSS coding for your website, as our team is always up to date in regards to the latest JavaScript-based front-end coding technology.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="responsive-part flow-part">
-                        <img src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
                         <h3>Multi-device Support</h3>
                         <p>We aim to create an optimized and responsive site for smartphones and tablets. We have ample experience on the subject and have created many AMP and mobile friendly websites.</p>
                     </div>
@@ -444,30 +434,26 @@ If you are still uncertain about which service menu fits your needs, please feel
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="programing-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
                         <h3>Special Programming Features</h3>
                         <p>You can add various features such as Motion Parallax to your website, which can be developed by using JavaScript, HTML5, CSS3, etc. We propose developing a website that attracts users according to their specified needs.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="system-part flow-part">
-                        <img src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
                         <h3>System Construction</h3>
                         <p>We aim to develop and operate various systems compatible with your website, such as CMS, web and business systems. Our services are effective, practical and are developed through PHP frameworks.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="apps-part flow-part">
-                        <img src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
                         <h3>PWA as Mobile Apps</h3>
                         We are able to develop mobile and web applications through PWA. Creating push notifications and offline operations is also possible.</p>
                     </div>
                 </div>
             </div>
-            <!-- <div class="link-page-price-and-portfolio">
-                <a class="link-yellow-white" href="/services/webdev-price-range.php">Webサイト制作運用の費用について</a>
-                <a class="link-yellow-white" href="/portfolio.php">Webサイト制作実績</a>
-            </div> -->
         </div>
     </section>
 
@@ -483,27 +469,17 @@ We have further posted many of our results here for reference.
                 </div>
             </div>
             <div class="row portofolio-section">
-               <!-- <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong"> -->
-               <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
-                        <img src="assets/img/img-webdev/AIA.png" alt="">
+               <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
+                        <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
                         <p class="portofolio-title text-center">AIA</p>
-                    </a>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="http://bekalhidup.com/" target="_blank">
-                        <img src="assets/img/img-webdev/panin.png" alt="">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
+                        <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
                         <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
-                        <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
-                    </a>
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="https://jba.co.id/" target="_blank">
-                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
+                        <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
                         <p class="portofolio-title text-center">JBA</p>
-                    </a>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
@@ -518,47 +494,47 @@ We have further posted many of our results here for reference.
             </div>
             <div class="row strategic-list">
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/1.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/1.png" alt="">
                     <p class="strategic-title">Customer Journey</p>
                     <p class="strategic-content">It is possible to create a website that leads to greater conversions through providing web functions and content that meet the customer's needs, </p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/2.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/2.png" alt="">
                     <p class="strategic-title">Persona Analysis</p>
                     <p class="strategic-content">Actualizing and visualizing the needs of targeted customers leads to producing a website that they will find appealing.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/3.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/3.png" alt="">
                     <p class="strategic-title">SEO Keyword List</p>
                     <p class="strategic-content">Targeted keywords are selected by analyzing the number of searches and each keyword's degree of competition. The selected keywords will form basis of any SEO measures and content creation.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/4.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/4.png" alt="">
                     <p class="strategic-title">Brand Concept Formulation</p>
                     <p class="strategic-content">Convey the right messages to your customers by defining the service, product concept, and your brand's values.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/5.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/5.png" alt="">
                     <p class="strategic-title">Brand Message Proposal</p>
                     <p class="strategic-content">The proposition of a brand concept, statement, mission, and defining a brand message that will be conveyed to targeted users on your website.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/6.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/6.png" alt="">
                     <p class="strategic-title">Design Guideline</p>
                     <p class="strategic-content">Create a design guide to ensure a level of consistency for your design's overall aesthetic. Here, we will define the colors, fonts and margins used.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/7.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/7.png" alt="">
                     <p class="strategic-title">Access Analysis</p>
                     <p class="strategic-content">Analyse the current access status and clarify any issues. A Detailed analysis is the key to setting concrete and realistic KPIs.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/8.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/8.png" alt="">
                     <p class="strategic-title">Sitemap</p>
                     <p class="strategic-content">This details the content and overall page structure of your website. This is required to create a proper means of navigation & an internal link structure design for your website.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/9.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/9.png" alt="">
                     <p class="strategic-title">Wireframe</p>
                     <p class="strategic-content">This is a document that determines the layout and components of each web page. Based on this, we will then proceed to designing the production.</p>
                 </div>
@@ -586,8 +562,8 @@ We have further posted many of our results here for reference.
                         <a class="link-yellow-white" href="./penetration-test.php">Web Security Assessment/Vulnerability Inspection Service</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="./web-dev.php">Websystem Development Service</a>
-                        <a class="link-yellow-white" href="./pembuatan-aplikasi-mobile">Mobile Application Development Service</a>
+                        <a class="link-yellow-white" href="./system-dev.php">Web System Development Service</a>
+                        <a class="link-yellow-white" href="./mobile-app-dev.php">Mobile Application Development Service</a>
                     </div>
                 </div>
             </div>
@@ -602,7 +578,7 @@ We have further posted many of our results here for reference.
                 </div>
             </div>
             <div class="row">
-<div class="col-md-12">
+                <div class="col-md-12">
                     <div class="carousel slide multi-item-carousel" id="theCarousel">
                         <div class="carousel-inner">
                              
@@ -647,7 +623,7 @@ We have further posted many of our results here for reference.
                                  
                                     return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
                                 }
-                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=108&per_page=5&_embed');
+                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=8&per_page=5&_embed');
                                 
                                         $x = 0;
 
@@ -673,7 +649,7 @@ We have further posted many of our results here for reference.
                                              ?> 
                                                     <div class="col-xs-12 col-sm-6 col-md-6 article-container">
                                                         <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                            <img loading="lazy" src="<?=$thumb_full_url?>" class="img-responsive">
                                                         </div>
                                                         <div class="content-container">
                                                             <a href="<?=$remote_post->link?>" target="_blank">
@@ -716,6 +692,45 @@ We have further posted many of our results here for reference.
         </div>
     </section>
 
+    <section class="gallery content-article">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="title">White Paper About Web Development in Indonesia</p>
+                </div>
+            </div>
+            <div class="row gallery-container">
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img loading="lazy" src="assets/img/img-webdev/gly1.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-1.php" target="_blank">
+                        <p class="gallery-title">How to Create an Effective Website for Your Business</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img loading="lazy" src="assets/img/img-webdev/gly2.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-2.php" target="_blank">
+                        <p class="gallery-title">Build an Appealing E-Commerce Website</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-3.php" target="_blank">
+                        <p class="gallery-title">The Role and Importance of Penetration Testing in Company Business Processes</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </section>
+
     <section class="obstacle">
         <div class="container">
             <div class="row">
@@ -726,7 +741,7 @@ We have further posted many of our results here for reference.
                     </p>
                 </div>
                 <div class="col-md-6 text-center">
-                    <a href="/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
+                    <a href="/" target="_blank"><img loading="lazy" src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
                 </div>
             </div>
         </div>
@@ -954,7 +969,7 @@ We have further posted many of our results here for reference.
         <div class="container">
             <div class="row img-container">
                 <div class="col-md-12">
-                    <img src="assets/img/img-webdev/domore.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/domore.png" alt="">
                 </div>
                 <div class="col-md-12 col-lg-8 content-container">
                     <p class="title">We are ready to assist you in creating a website, and also:</p>
@@ -1011,37 +1026,15 @@ We have further posted many of our results here for reference.
     </section>
     <section class="gallery">
         <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="title">インドネシアのWeb制作に関するホワイトペーパー</p>
-                </div>
-            </div>
-            <div class="row gallery-container">
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery1.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー１</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery2.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー２</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery3.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー３</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-            </div>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
             </div>
@@ -1058,9 +1051,24 @@ We have further posted many of our results here for reference.
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">AIA Group</p>
-                            <p class="content">We have been entrusted with the production of the insurance company AIA’s campaign site and microsite.</p>
-                            <!-- <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p> -->
+                            <p class="title">AIA - Premier Academy</p>
+                            <!-- <p class="subtitle">Lorem!</p> -->
+                            <p class="content">Merupakan situs website yang membantu AIA dalam menyediakan informasi yang dibutuhkan oleh agen dan calon agen mengenai AIA Premier Academy.</p>
+                            <p class="content">
+                                Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                                Pembuatan desain disesuaikan dengan konsep Formula 1 yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik tanpa mengurangi fungsionalitas dan tetap memperhatikan konsep responsif desain yang diperlukan saat ini. 
+                            </p>
+                            <p class="content">
+                                Pada website juga terdapat implementasi Income Calculator berdasarkan formula perhitungan yang komprehensif dengan variasi output yang mencakup grafik. Hasil akhir website ini kemudian di implementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                                Salah satu tantangan dalam proyek ini adalah kebutuhan AIA untuk merilis versi awal hanya dalam 2 minggu, dan LOGIQUE mampu menjawab ekspektasi tersebut dengan baik. 
+                            </p>
+                            <p class="content">
+                                Setelah versi awal dirilis, pengembangan berlanjut dengan peningkatan fungsi termasuk implementasi fungsi kalkulator dengan total waktu pengembangan dari awal sampai akhir sekitar 5 minggu.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1078,96 +1086,84 @@ We have further posted many of our results here for reference.
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Insurance</p>
+                                    <p>Asuransi</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Microsite</p>
+                                    <p>Website Statis (Responsif) dan Fungsi Kalkulator</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Project Period</p>
+                                    <p>Durasi</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>2 Months</p>
+                                    <p>5 Minggu</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Scope</p>
+                                    <p>Ruang Lingkup</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Design／HTML Coding／Parallax Programming／Infrastructure Management／Project Management</p>
+                                    <p>Manajemen Proyek (PM), Perencanaan Layout / Desain, HTML Coding dan Animasi, Fungsional, Implementasi Cloud Server</p>
                                 </div>
                             </div>
-                            <!-- <div class="content-container scope-container">
+                            <div class="content-container scope-container">
                                 <div class="content-title">
-                                    <p>Scope/person in charge</p>
+                                    <p>Tim</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Strategic design</p>
+                                    <p>Pengarah Proyek (PM)</p>
                                     <p>
-                                        Information design
+                                    Desainer Kreatif
                                     </p>
                                     <p>
-                                        direction
+                                    Implementasi HTML dan Animasi
                                     </p>
                                     <p>
-                                        Lead design
+                                    Fungsional
                                     </p>
                                     <p>
-                                        design
+                                    Testing
                                     </p>
                                     <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
+                                    Infrastruktur
                                     </p>
                                     	
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Nico</p>
                                     <p>
-                                    Lorem Ipsum
+                                    Adit/Angel
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Fahmi, Bagas
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Andre
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Angga
                                     </p>
                                     <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
+                                    Wisya
                                     </p>
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/aia.png" alt="">
+                            <img loading="lazy" src="assets/img/aia.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia2.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia3.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia4.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1181,7 +1177,26 @@ We have further posted many of our results here for reference.
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">Panin Dai-ichi Life Asuransi Indonesia</p>
+                            <p class="title">Panin Dai-ichi Life – Bekal Hidup</p>
+                            <!-- <p class="subtitle">Lorem !</p> -->
+                            <p class="content">
+                                Merupakan suatu terobosan dari Panin Dai-ichi Life dalam bentuk produk-produk asuransi digital yang dapat dibeli langsung secara online melalui website E-Commerce. 
+                            </p>
+                            <p class="content">
+                                Berangkat dari pengalaman LOGIQUE yang telah banyak menangani proyek E-Commerce baik untuk industri asuransi maupun barang retail, kami membantu merancang konsep e-commerce Panin Dai-ichi Life mulai dari tahap perencanaan, desain, pengembangan kode, dan implementasi pada server yang telah disediakan. 
+                            </p>
+                            <p class="content">
+                                Pembuatan desain disesuaikan dengan konsep branding ‘Bekal Hidup’ yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik, termasuk sangat memperhatikan User Experience untuk memudahkan Customer dalam melakukan pembelian produk asuransi yang ada. 
+                            </p>
+                            <p class="content">
+                                Dalam website e-commerce ini, Customer dapat melakukan pembelian beberapa produk asuransi sejenis untuk menerima keuntungan ganda; sistem secara otomatis melakukan verifikasi apakah Customer tersebut masih dapat melakukan pembelian produk dengan kriteria-kriteria yang telah ditentukan. 
+                            </p>
+                            <p class="content">
+                                Website E-Commerce ini juga terintegrasi dengan sistem pembayaran Midtrans yang mencakup pembelian awal dan recurring serta integrasi dengan sistem inti dari Panin Dai-ichi Life itu sendiri. 
+                            </p>
+                            <p class="content">
+                                Dalam pelaksanaannya, LOGIQUE membantu Panin Dai-ichi memiliki sebuah website E-Commerce yang dapat digunakan dalam waktu 3 bulan (fase 1), yang kemudian berlanjut dengan peningkatan fungsi untuk memenuhi cakupan tipe produk asuransi baru yang akan disediakan secara online di fase 2.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1196,15 +1211,15 @@ We have further posted many of our results here for reference.
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Insurance</p>
+                                    <p>Asuransi</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
                                     <p>E-Commerce</p>
@@ -1212,83 +1227,74 @@ We have further posted many of our results here for reference.
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Project Period</p>
+                                    <p>Durasi</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>4 Months</p>
+                                    <p>3 Bulan (Fase 1)</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Scope</p>
+                                    <p>Ruang Lingkup</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Web Design／Design／HTML Coding／Infrastructure Design／System Requirements Definition／System Development／Project Management</p>
+                                    <p>Manajemen Proyek (PM), Perencanaan Konsep, Perencanaan Layout / Desain, HTML Coding, Fungsional dan Integrasi Sistem Inti, Integrasi <i>Payment Gateway</i></p>
                                 </div>
                             </div>
-                            <!-- <div class="content-container scope-container">
+                            <div class="content-container scope-container">
                                 <div class="content-title">
-                                    <p>Scope/person in charge</p>
+                                    <p>Tim</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Strategic design</p>
+                                    <p>Pengarah Proyek (PM)</p>
                                     <p>
-                                        Information design
+                                    Perencanaan Konsep
                                     </p>
                                     <p>
-                                        direction
+                                    Desainer Kreatif
                                     </p>
                                     <p>
-                                        Lead design
+                                    Implementasi HTML dan Animasi
                                     </p>
                                     <p>
-                                        design
+                                    Fungsional
                                     </p>
                                     <p>
-                                        Copywriting
+                                    Testing
                                     </p>
                                     <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
+                                    Infrastruktur
+                                    </p>  	
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Paskal</p>
                                     <p>
-                                    Lorem Ipsum
+                                    Paskal / Irvan
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Adit
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Anggo, Nico
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Daniel, Dimas
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Winda, Edi
                                     </p>
                                     <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
+                                    Wisya
                                     </p>
                                 </div>
-                            </div> -->
+                            </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/panin.png" alt="">
+                            <img loading="lazy" src="assets/img/panin.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/panin2.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/panin3.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1302,9 +1308,22 @@ We have further posted many of our results here for reference.
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">JBA</p>
-                            <!-- <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p> -->
-                            <p class="content">We have been producing and operating the JBA corporate & auction service website for a long time. The website has also been completely renewed in line with the new CI in 2019. Many repeating users frequently visit  and browse pages, so we focused our efforts on improving the readability of the cars on sale at the auction.</p>
+                            <p class="title">JBA – Website Perusahaan dan Layanan</p>
+                            <p class="content">
+                            Merupakan situs website yang menyediakan semua informasi yang dibutuhkan oleh pelanggan terkait lelang mobil dan motor yang dilakukan oleh JBA Indonesia. 
+                            </p>
+                            <p class="content">
+                            Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                            Konsep pembuatan desain diarahkan untuk menguatkan kesan korporasi yang terpercaya dan profesional, dengan implementasi yang mudah digunakan pengguna, dan pengaplikasian teknologi desain responsif yang dapat dilihat dengan baik pada Smartphone, Tablet, dan Desktop. 
+                            </p>
+                            <p class="content">
+                            Untuk dapat menampilkan data-data mobil dan motor yang dilelang, website terintegrasi dengan sistem inti melalui API yang juga dirancang oleh LOGIQUE dengan hasil akhir website yang diimplementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                            Selain pembuatan website perusahaan, LOGIQUE membantu JBA secara menyeluruh untuk pembuatan berbagai sistem dan aplikasi mobile untuk mendukung proses bisnis yang ada.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1312,106 +1331,36 @@ We have further posted many of our results here for reference.
                                     <p>URL</p>
                                 </div>
                                 <div class="content-desc">
-                                    <a href=" https://jba.co.id/" target="_blank">
+                                    <a href="https://jba.co.id/" target="_blank">
                                         <p>https://jba.co.id/</p>
                                     </a>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Automotive, Car & Bike Auction</p>
+                                    <p>Otomotif / Lelang</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Corporate & Web Service</p>
+                                    <p>Website</p>
                                 </div>
                             </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Project Period</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>2 Months</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Scope</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Web Design／Information Plan／Art Direction／Design／HTML Coding／Banner Production／System Requirements Definition／System Development／Project Management／Infrastructure Design</p>
-                                </div>
-                            </div>
-                            <!-- <div class="content-container scope-container">
-                                <div class="content-title">
-                                    <p>Scope/person in charge</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Strategic design</p>
-                                    <p>
-                                        Information design
-                                    </p>
-                                    <p>
-                                        direction
-                                    </p>
-                                    <p>
-                                        Lead design
-                                    </p>
-                                    <p>
-                                        design
-                                    </p>
-                                    <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                </div>
-                            </div> -->
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/jba.png" alt="">
+                            <img loading="lazy" src="assets/img/jba1.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba2.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba4.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba6.jpg" alt="">
                         </div>
                     </div>
                 </div>

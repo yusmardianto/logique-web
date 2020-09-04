@@ -161,7 +161,7 @@ if(isset($_POST['submitted']))
                                     <li class="active"><a href="/layanan/webdev-price-range.php">ID</a></li>
                                     <li><a href="/jp/services/web-dev-price-range.php">JP</a></li>
                                 </ul>
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                <a href="/jp/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -176,7 +176,7 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -194,7 +194,7 @@ if(isset($_POST['submitted']))
                                     <meta itemprop="position" content="3" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Web Price Range</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Opsi Layanan</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -231,51 +231,55 @@ if(isset($_POST['submitted']))
     <section class="miniplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Opsi Produksi Cepat</p>
                     </div>
                     <p class="content">Website Sederhana atau Landing Page</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Masa Produksi</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Masa Produksi</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>~ 1 Bulan</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>~ 1 Bulan</span>
+                        <div class="detail-container">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Jumlah Halaman</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>Sampai dengan 5 halaman</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Cakupan Pekerjaan</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>• Desain, Koding HTML, Implementasi Standar SEO, Pengetesan dan Penyesuaian, Peluncuran Website  </p>
+                                <p>• Materi wajib disediakan oleh klien.</p>
+                                <p>• Konten website tersedia dalam bentuk statis.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Jumlah Halaman</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Biaya Produksi</p>
+                            <p class="price">15 juta 〜 30 juta IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>Sampai dengan 5 halaman</span>
+                        <div class="button-container">
+                            <a href="../hubungi-kami.php">
+                                <p>Hubungi Kami</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Cakupan Pekerjaan</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>• Desain, Koding HTML, Implementasi Standar SEO, Pengetesan dan Penyesuaian, Peluncuran Website  </p>
-                            <p>• Materi wajib disediakan oleh klien.</p>
-                            <p>• Konten website tersedia dalam bentuk statis.</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Biaya Produksi</p>
-                        <p class="price">15 juta 〜 30 juta IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="../hubungi-kami.php">
-                            <p>Hubungi Kami</p>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -284,53 +288,57 @@ if(isset($_POST['submitted']))
     <section class="standardplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Opsi Produksi Standar</p>
                     </div>
                     <p class="content">Website Layanan atau Website Perusahaan Standar</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Masa Produksi</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Masa Produksi</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>1 ~ 2,5 Bulan</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span>1 ~ 2,5 Bulan</span>
+                        <div class="detail-container">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Jumlah Halaman</span>
+                            </div>
+                            <div class="detail-content">
+                                <span>Sampai dengan 20 halaman</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Cakupan Pekerjaan</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	Desain, Koding HTML, Implementasi CMS, Implementasi Standar SEO, Pengetesan dan Penyesuaian, Peluncuran Website.</p>
+                                <p>•	Pembuatan website statis, berbasis Wordpress atau CMS yang dibuat khusus untuk Anda dari awal.</p>
+                                <p>•	Secara umum materi akan disediakan oleh perusahaan kami.</p>
+                                <p>	*Akan terdapat biaya tambahan jika ternyata waktu produksi telah melebihi 4 bulan yang disebabkan oleh keterlambatan dari sisi pelanggan.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Jumlah Halaman</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Biaya Produksi</p>
+                            <p class="price">30 juta 〜 60 juta IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>Sampai dengan 20 halaman</span>
+                        <div class="button-container">
+                            <a href="../hubungi-kami.php">
+                                <p>Hubungi Kami</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Cakupan Pekerjaan</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>•	Desain, Koding HTML, Implementasi CMS, Implementasi Standar SEO, Pengetesan dan Penyesuaian, Peluncuran Website.</p>
-                            <p>•	Pembuatan website statis, berbasis Wordpress atau CMS yang dibuat khusus untuk Anda dari awal.</p>
-                            <p>•	Secara umum materi akan disediakan oleh perusahaan kami.</p>
-                            <p>	*Akan terdapat biaya tambahan jika ternyata waktu produksi telah melebihi 4 bulan yang disebabkan oleh keterlambatan dari sisi pelanggan.</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Biaya Produksi</p>
-                        <p class="price">30 juta 〜 60 juta IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="../hubungi-kami.php">
-                            <p>Hubungi Kami</p>
-                        </a>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/22.png" alt="">
                 </div>
             </div>
         </div>
@@ -338,51 +346,55 @@ if(isset($_POST['submitted']))
     <section class="largeplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/33.png" alt="">
                 </div>
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Opsi Produksi dalam Skala Besar</p>
                     </div>
                     <p class="content">Website Layanan atau Website Perusahaan Berskala Besar</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Masa Produksi</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Masa Produksi</span>
+                            </div>
+                            <div class="detail-content">
+                                <span> 2,5 ~ 4 Bulan</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span> 2,5 ~ 4 Bulan</span>
+                        <div class="detail-container">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Jumlah Halaman </span>
+                            </div>
+                            <div class="detail-content">
+                                <span>Lebih dari 50 halaman</span>
+                            </div>
+                        </div>
+                        <div class="detail-container detail-margin">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Cakupan Pekerjaan</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	Desain, Koding HTML,  Implementasi Standar SEO, Pengembangan dan Implemenasi CMS, Pengetesan, Konfigurasi Server / Infrastruktur, Pengecekan Tingkat Keamanan (untuk layanan Pentest lebih detil akan dikenakan biaya tambahan), Peluncuran Website. </p>
+                                <p>•	Pengembangan berbasis CMS Open Source atau CMS yang dibuat khusus untuk Anda dari awal, yang biasanya berbasis PHP - Laravel.</p>
+                                <p>•	Secara umum materi akan disediakan oleh perusahaan kami.</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Jumlah Halaman </span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Biaya Produksi</p>
+                            <p class="price">80 juta 〜 150 juta IDR</p>
                         </div>
-                        <div class="detail-content">
-                            <span>Lebih dari 50 halaman</span>
+                        <div class="button-container">
+                            <a href="../hubungi-kami.php">
+                                <p>Hubungi Kami</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Cakupan Pekerjaan</span>
-                        </div>
-                        <div class="detail-content detail-list">
-                            <p>•	Desain, Koding HTML,  Implementasi Standar SEO, Pengembangan dan Implemenasi CMS, Pengetesan, Konfigurasi Server / Infrastruktur, Pengecekan Tingkat Keamanan (untuk layanan Pentest lebih detil akan dikenakan biaya tambahan), Peluncuran Website. </p>
-                            <p>•	Pengembangan berbasis CMS Open Source atau CMS yang dibuat khusus untuk Anda dari awal, yang biasanya berbasis PHP - Laravel.</p>
-                            <p>•	Secara umum materi akan disediakan oleh perusahaan kami.</p>
-                        </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Biaya Produksi</p>
-                        <p class="price">80 juta 〜 150 juta IDR</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="../hubungi-kami.php">
-                            <p>Hubungi Kami</p>
-                        </a>
                     </div>
                 </div>
             </div>
@@ -391,45 +403,49 @@ if(isset($_POST['submitted']))
     <section class="strategicplan">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 content-container">
+                <div class="col-md-8 content-container">
                     <div class="title-container">
                         <p>Opsi Produksi Strategis</p>
                     </div>
                     <p class="content">Menyusun rencana dan membuat website sesuai dengan perencanaan dan solusi yang sudah diformulasikan.</p>
-                    <div class="detail-container">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Masa Produksi</span>
+                    <div class="detail-requirement">
+                        <div class="detail-container">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Masa Produksi</span>
+                            </div>
+                            <div class="detail-content">
+                                <span> 3 ~ 5 Bulan</span>
+                            </div>
                         </div>
-                        <div class="detail-content">
-                            <span> 3 ~ 5 Bulan</span>
+                        <div class="detail-container detail-margin">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <div class="detail-title">
+                                <span>Cakupan Pekerjaan</span>
+                            </div>
+                            <div class="detail-content detail-list">
+                                <p>•	Tidak ada batasan pada lingkup pekerjaan. Kami akan membantu Anda untuk membangun sistem berbasis website yang sesuai dengan permintaan dan melakukan hal-hal yang diperlukan untuk membedakan Anda dari para pesaing yang ada.</p>
+                                <p>•	Konsultan kami akan membantu menangani proyek tersebut dan berkolaborasi dengan user dari berbagai departemen yang diperlukan di perusahaan Anda.</p>
+                                <p>•	Pertama-tama kami akan melakukan fase perencanaan dan penentuan solusi (kira-kira 1 bulan). Pada fase ini kami akan membuat pengajuan terkait lingkup pekerjaan, jangka waktu pengerjaan, dan total biaya yang diperlukan untuk proses produksi.</p>
+                                <p>•	Membuat strategi dari sesi-sesi konsultasi yang dilakukan.</p>
+                                <p>•	Yang dihasilkan pada fase perencanaan atau penyusunan strategi ini meliputi: perjalanan interaksi pengguna, analisa persona, analisa tingkat kunjungan saat ini, pengajuan konsep dan pesan merek, peta situs, dokumentasi perencanaan konten, wireframe, pedoman desain, dll (dapat berbeda pada setiap proyek).</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="detail-container detail-margin">
-                        <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                        <div class="detail-title">
-                            <span>Cakupan Pekerjaan</span>
+                    <div class="detail-contact">
+                        <div class="price-container">
+                            <p class="title">Biaya Produksi </p>
+                            <p class="price">200 juta 〜 500 juta</p>
                         </div>
-                        <div class="detail-content detail-list">
-                            <p>•	Tidak ada batasan pada lingkup pekerjaan. Kami akan membantu Anda untuk membangun sistem berbasis website yang sesuai dengan permintaan dan melakukan hal-hal yang diperlukan untuk membedakan Anda dari para pesaing yang ada.</p>
-                            <p>•	Konsultan kami akan membantu menangani proyek tersebut dan berkolaborasi dengan user dari berbagai departemen yang diperlukan di perusahaan Anda.</p>
-                            <p>•	Pertama-tama kami akan melakukan fase perencanaan dan penentuan solusi (kira-kira 1 bulan). Pada fase ini kami akan membuat pengajuan terkait lingkup pekerjaan, jangka waktu pengerjaan, dan total biaya yang diperlukan untuk proses produksi.</p>
-                            <p>•	Membuat strategi dari sesi-sesi konsultasi yang dilakukan.</p>
-                            <p>•	Yang dihasilkan pada fase perencanaan atau penyusunan strategi ini meliputi: perjalanan interaksi pengguna, analisa persona, analisa tingkat kunjungan saat ini, pengajuan konsep dan pesan merek, peta situs, dokumentasi perencanaan konten, wireframe, pedoman desain, dll (dapat berbeda pada setiap proyek).</p>
+                        <div class="button-container">
+                            <a href="../hubungi-kami.php">
+                                <p>Hubungi Kami</p>
+                            </a>
                         </div>
-                    </div>
-                    <div class="price-container">
-                        <p class="title">Biaya Produksi </p>
-                        <p class="price">200 juta 〜 500 juta</p>
-                    </div>
-                    <div class="button-container">
-                        <a href="../hubungi-kami.php">
-                            <p>Hubungi Kami</p>
-                        </a>
                     </div>
                 </div>
-                <div class="col-md-6 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
+                <div class="col-md-4 img-container">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/44.png" alt="">
                 </div>
             </div>
         </div>
@@ -439,7 +455,7 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-md-12">
                     <div class="promo-container">
-                        <img src="assets/img/img-webdev/webdev-service/promo.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/promo.png" alt="">
                     </div>
                 </div>
             </div>
@@ -581,12 +597,12 @@ if(isset($_POST['submitted']))
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                      <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
             </div>

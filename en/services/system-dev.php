@@ -1,6 +1,6 @@
 ﻿ <?php
  require_once("assets/form/fgcontact_systemdev.php");
- 
+
  $formproc = new FGContactForm();
  
  //1. Add your email address here.
@@ -152,15 +152,16 @@
                  <div class="container">
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
-                             <div class="container">
+                             
+                                 <a href="/en/"><img src="/../img/logo.png" alt="Logo"
+                                         class="img-responsive logo--update-design" /></a>
                                  <ul class="list-inline">
                                      <li class="active"><a href="">EN</a></li>
                                      <li><a href="/layanan/pembuatan-sistem-web.php">ID</a></li>
                                      <li><a href="/jp/services/system-dev.php">JP</a></li>
                                  </ul>
-                                 <a href="/en/"><img src="/../img/logo.png" alt="Logo"
-                                         class="img-responsive logo--update-design" /></a>
-                             </div>
+                                
+                            
                          </div>
                      </div>
                  </div>
@@ -248,9 +249,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <p style="padding-bottom: 5px;">All web-based systems that we produce are developed with high quality and international standard safety that have been tested including our clients from the financial industry. Technically, we will perform a number of security tests before the system is delivered to the client which includes penetration testing to reduce the risk of cyber attacks such as SQL injection, path traversal, and x-site scripting.</p> 
-                                <a href="/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services
-</a>
-
+                                <a href="/en/services/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services</a>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
@@ -271,6 +270,7 @@
                        <div class="row">
                             <div class="col-sm-6">
                                 <p>We can help you build and design cloud-based server architectures both in Indonesia and abroad. We are an official partner of AWS and have experience in setting up and implementing cloud servers for AWS, GCP, and Alibaba. Especially in recent times, we have also succeeded in helping to perform many system and database migrations from on-premise servers to cloud servers.</p>
+                                 <a href="/en/services/devops.php" class="btn-yellow text-center">Cloud Sever DevOps</a>
                             </div>
                             <div class="col-sm-6 text-center">
                                 <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
@@ -418,11 +418,8 @@
                         </div>
                     </div> 
                     <div class="text-center unsupport-desc"> 
-                        If you entrust overall project management to <span class="logofont">LOGIQUE</span>, <span class="logofont">LOGIQUE</span> can help you be more successful in the project in a fast and flexible way.
-
-                         
-                    </div>
-                   
+                        If you entrust overall project management to <span class="logofont">LOGIQUE</span>, <span class="logofont">LOGIQUE</span> can help you be more successful in the project in a fast and flexible way.                         
+                    </div>                   
                 </div>
             </div>
              <div class="sec-content-part studycase">
@@ -454,8 +451,7 @@
                                     <div class="technology-studycase">
                                         <strong>Main technologies :</strong><br>
                                      HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP
-                                    </div>
-                                    
+                                    </div>                                    
                                 </div>
                                 <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/weeo-img.jpg);">
                                     <div class="company-studycase">
@@ -512,8 +508,7 @@
                                         <p>The development of this system takes 6 months. By bringing PHP platform with chosen frameworks, MySQL database, and hosting on Linux server on AWS cloud service, this system has proven to accommodate the business needs of incentive point program for company employees.</p>
 
                                         <p>To produce a system with high performance and stability, we developed an efficient approach to the application layer and database layer. Then on the server infrastructure side, we have implemented a modern server architecture and utilize the AWS autoscaling and loadbalancing features. So even though there are currently more than 10,000 active users spread across 3 sub-systems, system performance remains stable and maintained.</p>
-                                      </div>
-                                       
+                                      </div>                                       
                                     </div>
                                   </div>
                                 </div>
@@ -711,7 +706,7 @@
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <!-- <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
@@ -741,7 +736,7 @@
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-sm-3 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
@@ -780,8 +775,7 @@
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Digital Map System Development.
-</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Digital Map System Development.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
@@ -799,8 +793,7 @@
                                 <div class="success-item scitem1">
                                     <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
-                                        <h3>Digital Map System Development.
-</h3>
+                                        <h3>Digital Map System Development.</h3>
                                         <p>3 months, PHP Framework, MySQL, Google map API, Java Script</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon"> See more details </a>
@@ -812,8 +805,7 @@
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Development of C2C Auction Systems.
-</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Development of C2C Auction Systems.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
@@ -900,8 +892,7 @@
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Job Vacancy Portal System.
-</h4>
+                                        <h4 class="modal-title text-center" id="achievementLabel7">Job Vacancy Portal System.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                           <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
@@ -1127,7 +1118,7 @@
                 <ul>
                     <li class="text-left">Contact us now for optimal web based system development!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                        <a href="/en/contact.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>

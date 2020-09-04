@@ -164,7 +164,7 @@ if(isset($_POST['submitted']))
                                     <li class="active"><a href="#">ID</a></li>
                                     <li><a href="/jp/services/web-dev.php">JP</a></li>
                                 </ul>
-                                <a href="/index.php"><img src="/../img/logo.png" alt="Logo"
+                                <a href="/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -180,7 +180,7 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img src="assets/img/img-webdev/webdev-bg.png" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -242,22 +242,12 @@ if(isset($_POST['submitted']))
                          <!-- Wrapper for slides -->
                          <div class="carousel-inner">
                              <div class="item active">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
+                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
                                      class="img-responsive center-block">
                              </div>
-                             <!-- <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div>
-                             <div class="item">
-                                 <img src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
-                             </div> -->
                          </div>
                          <ol class="carousel-indicators">
                             <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <!-- <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li> -->
                         </ol>
                      </div>
                 </div>
@@ -268,7 +258,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-md-5">
-                    <img src="assets/img/img-webdev/flow.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
                 </div>
                 <div class="col-sm-7 col-md-7">
                     <p class="flow-title">Tentukan Kebutuhan, Tujuan, dan Budget Anda untuk Mendapatkan Hasil Website Terbaik.</p>
@@ -278,7 +268,7 @@ if(isset($_POST['submitted']))
                     <a href="/layanan/webdev-price-range.php" target="_blank">
                         <div class="flow-button">
                         Lihat Opsi Pembuatan Website
-                        <img src="assets/img/img-webdev/arrow.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/arrow.png" alt="">
                         </div>
                     </a>
                 </div>
@@ -306,7 +296,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5">
-                    <img src="assets/img/img-webdev/discuss.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/discuss.png" alt="">
                 </div>
             </div>
         </div>
@@ -343,7 +333,7 @@ if(isset($_POST['submitted']))
                 <div class="col-md-4">
                     <div class="division-container">
                         <p class="title">Layanan Pembuatan Website “One-Stop”</p>
-                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsutasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
+                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsultasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -369,44 +359,44 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="analysis-part flow-part">
-                        <img src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/authentication.svg" alt="アクセス解析・課題抽出">
                         <h3>Analisis dan Evaluasi</h3>
                         <p>Anda sudah punya website dan berkeinginan untuk memperbaikinya? Kami siap untuk melakukan analisis dan mengevaluasi kondisi website Anda saat ini. Contoh analisa yang biasanya kami lakukan adalah terkait mengapa jumlah kunjungan website Anda sangat rendah dan apakah ada faktor-faktor internal di dalam website seperti struktur halaman / url yang mempengaruhi kondisi tersebut. Tim kami ahli dalam menganalisis kinerja website Anda secara keseluruhan dan mampu memberikan solusi dari permasalahan yang ada.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="plan-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-development.png" alt="プランニング">
                         <h3>Perencanaan</h3>
                         <p>Untuk mencapai tujuan yang Anda inginkan dari pengembangan sebuah website diperlukan perencanaan yang baik. Tim konsultan kami secara dekat akan berinteraksi dengan Anda dalam mengumpulkan semua kebutuhan, memformulasikannya kedalam kerangka halaman (wireframe) dan dokumen-dokumen pendukung lainnya yang diperlukan. Hal ini akan membuat pelaksanaan pengembangan website dapat berjalan lancar dan sesuai ekspektasi.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="seo-part flow-part">
-                        <img src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/searchseo.png" alt="SEO / SEM">
                         <h3>SEO / SEM</h3>
-                        <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kueri yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
+                        <p>Hanya dengan membuat dan merilis website tidak serta merta membuat website tersebut mendapatkan banyak kunjungan. Para ahli di perusahaan kami sangat mengenal dan memahami langkah-langkah dalam melakukan penerapan SEO di Indonesia sehingga akan membuat situs web Anda dapat terlihat pada halaman pencarian organic ketika kata kunci yang relevan dengan bisnis Anda dimasukkan ke dalam mesin pencari. Kami juga dapat melakukan strategi SEM untuk meningkatkan trafik secara cepat menggunakan kata kunci yang efektif.</p>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="info-part flow-part">
-                        <img src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/learning.png" alt="情報再構成・改善">
                         <h3>Peningkatan dan Restrukturisasi</h3>
                         <p>Jika Anda telah memiliki sebuah website, kami tidak selalu menyarankan untuk membuat ulang website Anda dari awal karena masalah-masalah yang ditemukan. Sebab, hal tersebut terkadang membutuhkan banyak pekerjaan serta biaya yang harus dikeluarkan. Untuk kasus seperti ini, kami akan menawarkan kepada Anda solusi terbaik dalam mengatur dan meningkatkan website sesuai dengan budget Anda serta berapa lama waktu yang Anda inginkan.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="multiligual-part flow-part">
-                        <img src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/interpreter.png" alt="多言語Webサイト制作運用">
                         <h3>Membuat dan Mengoperasikan Website Multi Bahasa</h3>
                         <p>Kami dapat membuat dan mengoperasikan website dalam Bahasa Indonesia, Bahasa Inggris, dan Bahasa Jepang. Kami mengerti dan memahami bahwa konten yang kreatif dan tersegmentasi dengan baik sangat penting untuk menjangkau target pasar yang diinginkan.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="sosmed-part flow-part">
-                        <img src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/social-media.png" alt="SNS運用">
                         <h3>Pengoperasian Media Sosial</h3>
                         <p>Media sosial dapat memberi pengaruh yang sangat kuat dalam meningkatkan hubungan bisnis dengan para pelanggan Anda. Selain itu, media sosial juga dapat membantu mendukung peningkatan jumlah pengunjung website Anda. Kami memberikan layanan dalam mengoperasikan media sosial, seperti Facebook dan Instagram untuk kepentingan bisnis Anda baik dalam Bahasa Indonesia, Bahasa Inggris, dan Bahasa Jepang.</p>
                     </div>
@@ -415,21 +405,21 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="design-part flow-part">
-                        <img src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/graphic-design.png" alt="デザイン制作">
                         <h3>Pembuatan Desain</h3>
                         <p>Kami dapat merancang UI yang sesuai dengan tren desain website terkini, yang ramah bagi pengguna, dan sesuai dengan kebutuhan Anda. Tim desain kami dapat menyarankan kepada Anda berbagai alternatif desain yang berbeda untuk Anda pilih.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="markup-part flow-part">
-                        <img src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/css.png" alt="マークアップ・コーディング">
                         <h3>Markup Coding</h3>
                         <p>Anda juga dapat meminta layanan khusus hanya untuk implementasi tampilan website dengan pemrograman HTML/CSS. Tim developer kami dapat membantu Anda mengejar ketertinggalan teknologi pemrograman pada situs web Anda atau mengkombinasikannya dengan JavaScript.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="responsive-part flow-part">
-                        <img src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/responsive.png" alt="マルチデバイス対応">
                         <h3>Dukungan Multi Perangkat</h3>
                         <p>Kami dapat membuat situs yang dioptimalkan dan responsif untuk seluruh jenis perangkat, seperti ponsel, tablet, dan desktop. Kami juga telah mempunyai banyak pengalaman dalam membuat situs web yang berorientasi pada pengguna mobile dan pengaplikasian AMP.</p>
                     </div>
@@ -438,30 +428,26 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="programing-part flow-part">
-                        <img src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/web-programming.png" alt="プログラミング">
                         <h3>Fitur Pemrograman Khusus</h3>
                         <p>Anda dapat meminta fitur pemrograman apapun yang Anda inginkan untuk ditambahkan ke dalam situs web Anda, seperti Parallax motions yang dapat diimplementasi dengan kombinasi JavaScript, HTML5, CSS3 dan lain-lain. Kami akan mengusulkan pengembangan situs web yang menarik untuk para pengguna yang telah disesuaikan dengan kebutuhan Anda.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="system-part flow-part">
-                        <img src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
                         <h3>Pembuatan Sistem Berbasis Web</h3>
                         <p>LOGIQUE dapat membantu Anda mengembangkan sistem berbasis web mulai dari manajemen konten (CMS), fungsi-fungsi khusus yang dibuat sesuai dengan kebutuhan, hingga integrasi dengan sistem-sistem eksternal menggunakan Web Service (API). Kami ahli dalam mengembangkan sistem berbasis web menggunakan Laravel, .Net, NodeJS, dan lain-lain.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <div class="apps-part flow-part">
-                        <img src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
+                        <img loading="lazy" src="assets/img/img-webdev/feature/application.png" alt="モバイルアプリ対応">
                         <h3>Pengembangan Website Berteknologi PWA</h3>
                         <p>Kami berpengalaman dan dapat membantu Anda mengembangkan website dengan teknologi PWA yang menghasilkan sebuah aplikasi web yang berlaku layaknya sebuah aplikasi mobile. Beberapa fitur menarik yang terdapat dalam teknologi PWA di antaranya adalah Installasi dengan Add to Homescreen, Push Notification, dan Mode Offline.</p>
                     </div>
                 </div>
             </div>
-            <!-- <div class="link-page-price-and-portfolio">
-                <a class="link-yellow-white" href="/services/webdev-price-range.php">Webサイト制作運用の費用について</a>
-                <a class="link-yellow-white" href="/portfolio.php">Webサイト制作実績</a>
-            </div> -->
         </div>
     </section>
 
@@ -475,27 +461,17 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
             <div class="row portofolio-section">
-                <!-- <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong"> -->
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
-                        <img src="assets/img/img-webdev/AIA.png" alt="">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
+                        <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
                         <p class="portofolio-title text-center">AIA</p>
-                    </a>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
-                </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="http://bekalhidup.com/" target="_blank">
-                        <img src="assets/img/img-webdev/panin.png" alt="">
+                    </div>
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
+                        <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
                         <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
-                    </a>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
-                <div class="col-md-6 col-lg-4 col-sm-4">
-                    <a href="https://jba.co.id/" target="_blank">
-                        <img src="assets/img/img-webdev/JBA.png" alt="">
+                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
+                        <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
                         <p class="portofolio-title text-center">JBA</p>
-                    </a>
-                    <!-- <p class="portofolio-subtitle">Lihat Detil</p> -->
                 </div>
             </div>
         </div>
@@ -511,47 +487,47 @@ if(isset($_POST['submitted']))
             </div>
             <div class="row strategic-list">
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/1.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/1.png" alt="">
                     <p class="strategic-title">User Experience (UX)</p>
                     <p class="strategic-content">Menyediakan fungsi dan konten Web yang sesuai dengan perilaku dan kebutuhan pelanggan akan menghasilkan Website yang mengarah pada konversi.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/2.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/2.png" alt="">
                     <p class="strategic-title">Analisa Persona</p>
                     <p class="strategic-content">Buat target pelanggan utama konkret dan terlihat. Ini akan mengarah pada pembuatan situs web yang menarik bagi target.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/3.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/3.png" alt="">
                     <p class="strategic-title">SEO Keywords</p>
                     <p class="strategic-content">Kata kunci target dipilih dengan menganalisis jumlah pencarian dan tingkat persaingan guna mendapatkan daftar kata kunci terbaik yang akan digunakan dalam SEO dan pembuatan konten.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/4.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/4.png" alt="">
                     <p class="strategic-title">Konsep Branding</p>
                     <p class="strategic-content">Membuat rancangan brand Anda secara terukur dan sesuai dengan lini bisnis Anda, termasuk pembuatan logo.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/5.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/5.png" alt="">
                     <p class="strategic-title">Detil Konsep</p>
                     <p class="strategic-content">Tentukan konsep dan gambarkan lebih lanjut pesan dan branding Anda lewat misi, visi, dan konten yang terarah pada website untuk menjangkau target Anda.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/6.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/6.png" alt="">
                     <p class="strategic-title">Pedoman Design</p>
                     <p class="strategic-content">Buat panduan desain untuk memastikan konsistensi pada elemen-elemen desain termasuk warna, font, margin, dll.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/7.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/7.png" alt="">
                     <p class="strategic-title">Analisa Pengunjung</p>
                     <p class="strategic-content">Menganalisis status akses Website saat ini dan mengklarifikasi masalah. Analisis terperinci adalah kunci untuk menetapkan KPI yang konkret dan realistis.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/8.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/8.png" alt="">
                     <p class="strategic-title">Sitemap</p>
                     <p class="strategic-content">Tentukan struktur situs web, struktur halaman konten. Diperlukan untuk navigasi yang tepat & desain struktur tautan internal.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img src="assets/img/img-webdev/strategic/9.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/strategic/9.png" alt="">
                     <p class="strategic-title">Wireframe</p>
                     <p class="strategic-content">Dokumen yang menentukan tata letak dan komponen setiap halaman web. Berdasarkan ini, kami terus merancang produksi.</p>
                 </div>
@@ -582,7 +558,7 @@ if(isset($_POST['submitted']))
                         <a class="link-yellow-white" href="/layanan/penetration-test.php">Diagnosa Keamanan Website</a>
                     </div>
                     <div class="link-page-price-and-portfolio">
-                        <a class="link-yellow-white" href="/layanan/web-dev.php">Web Creation Portfolio</a>
+                        <a class="link-yellow-white" href="/layanan/pembuatan-sistem-web.php">Pengembangan Sistem Berbasis Web</a>
                         <a class="link-yellow-white" href="/layanan/pembuatan-aplikasi-mobile">Pengembangan Aplikasi Mobile</a>
                     </div>
                 </div>
@@ -669,7 +645,7 @@ if(isset($_POST['submitted']))
                                              ?> 
                                                     <div class="col-xs-12 col-sm-6 col-md-6 article-container">
                                                         <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                            <img loading="lazy" src="<?=$thumb_full_url?>" class="img-responsive">
                                                         </div>
                                                         <div class="content-container">
                                                             <a href="<?=$remote_post->link?>" target="_blank">
@@ -712,6 +688,48 @@ if(isset($_POST['submitted']))
         </div>
     </section>
 
+    <section class="gallery content-article">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="title">White Paper Tentang Pembuatan Web di Indonesia</p>
+                </div>
+            </div>
+            <div class="row gallery-container">
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img loading="lazy" src="assets/img/img-webdev/gly1.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-1.php" target="_blank">
+                            <p class="gallery-title">Cara Membuat Website yang Efektif untuk Bisnis Anda</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img loading="lazy" src="assets/img/img-webdev/gly2.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-2.php" target="_blank">
+                            <p class="gallery-title">Membangun Website 
+E-Commerce yang Menarik</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                    <div class="img-container">
+                        <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                        <a href="/white-paper-web-dev-3.php" target="_blank">
+                            <p class="gallery-title">Peran dan Pentingnya
+Pengujian Penetrasi dalam
+Proses Bisnis Perusahaan</p>
+                            <p class="gallery-content">Download</p>
+                        </a>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </section>
+	
     <section class="obstacle">
         <div class="container">
             <div class="row">
@@ -722,7 +740,7 @@ if(isset($_POST['submitted']))
                     </p>
                 </div>
                 <div class="col-md-6 text-center">
-                    <a href="/" target="_blank"><img src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
+                    <a href="/" target="_blank"><img loading="lazy" src="assets/img/img-webdev/logo.png" alt="Fitur Perusahaan"></a>
                 </div>
             </div>
         </div>
@@ -743,7 +761,8 @@ if(isset($_POST['submitted']))
                             </div>
                             <div class="row">
                                 <div class="col-md-offset-2 col-md-10 m-t-10">
-                                    <p class="title-content-p">Tim kami siap untuk menerima pesan Anda kapan saja. Anda juga dapat melakukan pemesanan dan menjelaskan secara jelas kepada kami mengenai deskripsi awal situs web seperti apa yang Anda inginkan, mulai dari pembuatan situs web, operasi, konfigurasi CMS, pengembangan sistem web, dan lain-lain. Hubungi kami sekarang melalui email ke info@logique.co.id atau melakukan pengisian formulir pemesanan yang tersedia di sini. Anda juga dapat bertanya kepada kami mengenai berbagai hal yang berkaitan dengan pengembangan web, mendesain web atau bahkan harganya. Jangan ragu untuk berbicara dengan kami dalam Bahasa Indonesia, Bahasa Inggris, atau Bahasa Jepang. Kami akan langsung menghubungi Anda untuk melanjutkan diskusi lebih lanjut.
+                                    <p class="title-content-p">
+                                    Tim kami siap untuk menerima pesan dari Anda kapan saja. Agar kami dapat membantu dengan baik, mohon dapat diberikan gambaran umum terkait kebutuhan Anda, misalnya pembuatan atau pengoperasian website, implementasi manajemen konten (CMS), pengembangan sistem berbasis website, dan lain-lain. Anda dapat menghubungi kami langsung melalui email <a href = "mailto:info@logique.co.id">info@logique.co.id</a> atau melakukan pengisian formulir pemesanan yang tersedia <a href="/hubungi-kami.php" target="_blank">di sini</a>. Anda juga dapat bertanya dan berkonsultasi dengan kami mengenai berbagai hal yang berkaitan dengan pengembangan website. Jangan ragu untuk berbicara dengan kami dalam Bahasa Indonesia, Bahasa Inggris, atau Bahasa Jepang. Kami akan langsung menghubungi Anda untuk melakukan diskusi lebih lanjut.
                                     </p>
                                 </div>
                             </div>
@@ -769,7 +788,7 @@ if(isset($_POST['submitted']))
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Anda mungkin mempunyai visi dan target yang lebih spesifik, seperti meningkatkan keuntungan bisnis Anda, citra dan merek Anda, kegiatan IR, perekrutan, dll. Kami ingin mendengar semuanya dari Anda. Tidak harus bertemu, namun jika Anda mau, kami dapat menghubungi Anda melalui Skype atau melalui aplikasi komunikasi lainnya, sehingga kami dapat berbicara lebih lanjut mengenai bisnis Anda. Setelah itu, kami akan memberikan beberapa saran yang telah disesuaikan berdasarkan minat Anda, serta beberapa pendekatan efektif sesuai dengan kebutuhan Anda.
+                                Anda mungkin mempunyai visi dan target yang lebih spesifik, seperti pembuatan website atau sistem yang mengarah pada optimasi bisnis secara operasional, peningkatan keuntungan, keperluan branding, rekrutmen, dan lain-lain. Kami ingin mendengar semuanya dari Anda. Tidak harus bertemu, namun jika Anda mau, kami dapat menghubungi Anda melalui aplikasi komunikasi pertemuan online yang ada, sehingga kami dapat berbicara lebih lanjut mengenai bisnis Anda. Setelah itu, kami akan memberikan beberapa saran yang telah disesuaikan berdasarkan minat Anda, serta beberapa pendekatan efektif sesuai dengan kebutuhan Anda.
                                 </p>
                             </div>
                         </div>
@@ -788,7 +807,7 @@ if(isset($_POST['submitted']))
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Setelah kami memahami segalanya, kami akan langsung mengusulkan situs web seperti apa yang Anda butuhkan untuk menyelesaikan permasalahan tersebut. Jika diperlukan, kami juga akan melakukan penelitian, termasuk mengenai pesaing serta menganalisis tugas pencarian dari situs web yang saat ini. Bahkan dalam pengajuan proposal, kami menghargai kecepatan dan mengingat bahwa proposal harus diselesaikan dalam waktu yang cepat. Dalam proposal, kami juga akan menyediakan layanan opsional, seperti fotografi, videografi dan pembuatan konten yang diperlukan. Anda juga dapat berkonsultasi kepada kami jika Anda mempunyai usulan tertentu yang ingin Anda lakukan. Dalam proposal tersebut juga terdapat layanan harga serta perkiraan berapa lama waktu yang dibutuhkan untuk pembuatan situs web Anda. Seluruhnya berdasarkan pada metode transparansi yang kami lakukan, tingkat kesulitan serta jumlah anggota tim yang diperlukan untuk menyelesaikan pekerjaan Anda.
+                                Setelah kami memahami segalanya, kami akan langsung mengusulkan solusi atau website seperti apa yang Anda butuhkan untuk menyelesaikan permasalahan tersebut di dalam sebuah proposal. Dalam proposal tersebut akan terdapat detil ruang lingkup beserta estimasi harga dan berapa lama waktu yang dibutuhkan untuk pembuatan website Anda. Aspek-aspek tersebut kami kalkulasi secara transparan berdasarkan tingkat kesulitan serta jumlah anggota tim yang diperlukan untuk menyelesaikan pekerjaan yang ada. Selain itu, jika diperlukan kami juga dapat memberikan tambahan informasi dari penelitian terhadap pesaing atau website sejenis yang sudah ada, dan layanan opsional, seperti fotografi, videografi dan pembuatan konten yang diperlukan. Dalam pembuatan proposal kami menghargai waktu Anda dan akan berusaha memberikan proposal tersebut dalam waktu yang cepat.
                                 </p>
                             </div>
                         </div>
@@ -809,7 +828,7 @@ if(isset($_POST['submitted']))
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Jika Anda menyetujui apa yang telah kami tawarkan, maka proses selanjutnya adalah penandatangan kontrak serta pembayaran uang muka sebesar 50% dari total anggaran biaya yang tertera di dalam proposal. Setelah pembayaran selesai dilakukan, maka tim kami akan langsung dapat memulai untuk melakukan operasi pembuatan situs web Anda.
+                                Jika Anda menyetujui apa yang telah kami tawarkan, maka proses selanjutnya adalah penandatangan kontrak serta pembayaran uang muka sebesar 50% dari total anggaran biaya yang tertera di dalam proposal. Setelah pembayaran selesai dilakukan, maka tim kami akan langsung mememulai pekerjaan untuk pembuatan situs web Anda.
                                 </p>
                             </div>
                         </div>
@@ -829,13 +848,13 @@ if(isset($_POST['submitted']))
                                 <span class="title-custom">5</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Konfirmasi</b></p>
+                                <p class="title-custom-p"><b>Konfirmasi Ruang Lingkup</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pertama, kami akan melakukan konfirmasi mengenai seluruh detail struktur situs website Anda serta persyaratan yang dibutuhkan. Hal ini bertujuan untuk memastikan bahwa tidak ada poin yang terlewat sehingga menyebabkan terjadinya hambatan dalam proses pembuatan web ke depan. Selain itu, kami juga akan menunjukkan kerangka kerja untuk pembuatan situs web Anda (Wireframe) yang telah kami buat sebagai gambaran awal. Selanjutnya untuk konsep, desain, domain serta server web akan kami dikonfirmasikan dan diputuskan. Apabila sebelumnya Anda telah mempunyai situs web, maka Anda dapat membagikan akses Google Analytics situs website Anda kepada kami.
+                                Pertama, kami akan melakukan konfirmasi mengenai seluruh detil struktur situs website Anda serta persyaratan yang dibutuhkan. Hal ini bertujuan untuk memastikan bahwa tidak ada poin yang terlewat sehingga menyebabkan terjadinya hambatan dalam proses pembuatan website tersebut. Kami juga akan menunjukkan layout halaman berupa Wireframe yang telah kami buat sebagai gambaran awal untuk dikonfirmasi sebelum dilanjutkan ke tahap desain. Selain itu, pada tahap ini kami juga akan mengkonfirmasi beberapa poin tambahan seperti domain, server, atau akses Google Analytics yang sudah Anda miliki.
                                 </p>
                             </div>
                         </div>
@@ -848,13 +867,13 @@ if(isset($_POST['submitted']))
                                 <span class="title-custom">6</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Pembuatan Desain Situs Website</b></p>
+                                <p class="title-custom-p"><b>Pembuatan Desain</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pada tahap ini, konsep beranda atau situs web utama akan kami buat dan kami rancang sesuai dengan referensi yang Anda berikan. Tim desain situs web kami selanjutnya akan memberikan kepada Anda beberapa alternatif yang dapat Anda setujui atau Anda revisi. Setelah Anda setuju, maka langkah selanjutnya kami akan membuat sisa halaman berdasarkan desain yang berasal dari situs web utama.
+                                Kami akan mulai dengan pembuatan desain untuk halaman utama berdasarkan referensi dan acuan desain perusahaan yang Anda berikan. Tim kami dapat membantu memberikan beberapa alternatif pilihan desain dan merevisinya sesuai dengan masukkan Anda. Setelah Anda setuju, maka langkah selanjutnya kami akan membuat sisa halaman berdasarkan desain yang telah disetujui.
                                 </p>
                             </div>
                         </div>
@@ -867,13 +886,13 @@ if(isset($_POST['submitted']))
                                 <span class="title-custom">7</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Impelementasi, Pengodean dan Pemrograman</b></p>
+                                <p class="title-custom-p"><b>Pemrograman dan Implementasi</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pada tahap ini, kami akan menjalankan berbagai fungsi pemrograman dari berbagai fitur yang telah direncanakan, termasuk CMS. Pada tahap ini juga telah mencakup penerapan SEO mengikuti desain UI/ UX serta menghilangkan berbagai fitur yang rentan terhadap keamanan situs web Anda. Kami juga akan memastikan bahwa seluruh arsitektur serta berbagai fitur yang berada di situs web Anda telah berjalan dan berfungsi dengan semestinya. Konsep ini bertujuan untuk memastikan bahwa situs website Anda telah terstruktur dengan baik untuk mendapatkan pengalaman pengunjung sesuai dengan target yang ditentukan.
+                                Pada tahap ini, kami akan mengkonversi desain yang ada menjadi halaman-halaman website dan mengembangkan berbagai fungsi dari ruang lingkup yang telah disepakati, termasuk manajemen konten (CMS), penerapan SEO, dan implementasi standar keamanan website. Kami juga akan memastikan bahwa seluruh arsitektur serta berbagai fitur yang ada telah berjalan dan berfungsi dengan semestinya.
                                 </p>
                             </div>
                         </div>
@@ -898,7 +917,7 @@ if(isset($_POST['submitted']))
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Setelah kami membuat situs web, maka kami akan melakukas tes yang telah disesuaikan dengan isi serta desain situs web itu sendiri. Kami akan memastikan tidak ada kesalahan sintaks HTML, website sepenuhnya telah mobile-friendly, setiap halaman dapat dimuat dengan cepat, serta penerapan SEO telah dilakukan secara efektif. Untuk keamanan situs website Anda, maka kami juga akan melakukan pengujian dan pemeriksaan keamanan dengan melakukan banyak skenario pengujian. Kami selanjutnya akan mendemonstrasikan berbagai fitur tersebut kepada Anda secara berkala sehingga Anda dapat langsung memberikan feedback atau saran kepada kami dari setiap fitur yang telah kami buat. Ketika proyek telah memasuki tahap finalisasi, Anda juga dapat melakukan pengetesan untuk memastikan dan mengkonfirmasi bahwa seluruh fungsi yang diterapkan telah sesuai dan berjalan dengan baik.
+                                Setiap kami selesai melakukan pekerjaan dalam setiap fitur, maka kami akan melakukan tes yang disesuaikan dengan lingkup yang ada. Kami akan memastikan tampilan desain sesuai, tidak ada kesalahan sintaks HTML, website sepenuhnya telah mobile-friendly, setiap halaman dapat dimuat dengan cepat, serta penerapan SEO telah dilakukan secara efektif. Kami juga akan memastikan dari sisi keamanan sudah sesuai dengan standar keamanan website yang harus dipenuhi. Setelahnya, kami akan mendemonstrasikan fitur tersebut kepada Anda secara berkala sehingga Anda dapat langsung memberikan masukkan kepada kami. Ketika proyek telah memasuki tahap finalisasi, maka Anda dapat melakukan pengetesan untuk memastikan dan mengkonfirmasi bahwa seluruh fungsi yang diterapkan telah sesuai dan berjalan dengan baik.
                                 </p>
                             </div>
                         </div>
@@ -911,13 +930,13 @@ if(isset($_POST['submitted']))
                                 <span class="title-custom">9</span>
                             </div>
                             <div class="col-xs-10 col-sm-10 col-md-10">
-                                <p class="title-custom-p"><b>Peluncuran Situs Web</b></p>
+                                <p class="title-custom-p"><b>Peluncuran Website</b></p>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Pada tahapan ini, situs website Anda akan dimasukkan ke dalam web server untuk sekaligus dipublikasikan. Kami dapat membantu Anda untuk memindahkan seluruh data yang berasal dari situs lama Anda jika diperlukan. Setelah dipublikasi, selanjutnya kami akan melakukan registrasi indeks di Google serta menyiapkan Google Analytics untuk melakukan pemeliharaan lebih lanjut. Pada tahap ini juga, Anda dapat melunasi sisa pembayaran sehingga situs web Anda dapat langsung digunakan.
+                                Pada tahapan ini, file-file website Anda akan dimasukkan ke dalam web server untuk dipublikasikan. Kami juga dapat membantu Anda untuk memindahkan seluruh data yang berasal dari website Anda yang lama jika diperlukan. Setelah dipublikasi, selanjutnya kami akan melakukan pengaturan Google Web Console dan Google Analytics untuk kebutuhan pemantauan data pengunjung dan pengelolaan website lebih lanjut. Pada tahap ini juga, Anda dapat melunasi sisa pembayaran sehingga situs web Anda dapat langsung digunakan.
                                 </p>
                             </div>
                         </div>
@@ -936,8 +955,8 @@ if(isset($_POST['submitted']))
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Setelah diluncurkan, kami tidak akan meninggalkan Anda begitu saja. Kami sadar bahwa setiap situs website membutuhkan manajemen dalam jangka waktu yang panjang. Hal ini juga termasuk ke dalam situs website milik Anda. Karena itu, kami akan terus melakukan pemeliharaan sistem situs website Anda untuk menjaga agar hasil dapat sesuai dengan apa yang Anda inginkan. LOGIQUE menyediakan berbagai layanan manajemen yang Anda butuhkan, mulai dari mengamati sistem, melakukan operasi harian, bahkan untuk pembuatan konten reguler sekalipun. Kami juga dapat melakukan pengoperasian akun media sosial Anda, sampai melakukan operasi digital marketing. Semua itu untuk hasil yang maksimal dari situs web Anda.
-                                </p>
+                                Setelah website diluncurkan, kami tidak akan meninggalkan Anda begitu saja. Kami memahami agar dapat berjalan dengan baik dan mencapai hasil yang diharapkan, setiap website membutuhkan pengelolaan berkelanjutan. Karena itu, LOGIQUE menyediakan berbagai layanan yang Anda butuhkan, mulai dari pemantauan website atau server, pengoperasian harian, pembuatan konten, manajemen akun media sosial, dan aktivitas digital marketing yang bertujuan untuk memaksimalkan website Anda.
+                                 </p>
                             </div>
                         </div>
                     </div>
@@ -949,7 +968,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row img-container">
                 <div class="col-md-12">
-                    <img src="assets/img/img-webdev/domore.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/domore.png" alt="">
                 </div>
                 <div class="col-md-12 col-lg-8 content-container">
                     <p class="title">Kami selalu siap untuk membantu Anda dalam pembuatan dan pengembangan situs web, serta:</p>
@@ -1006,37 +1025,15 @@ if(isset($_POST['submitted']))
     </section>
     <section class="gallery">
         <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="title">インドネシアのWeb制作に関するホワイトペーパー</p>
-                </div>
-            </div>
-            <div class="row gallery-container">
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery1.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー１</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery2.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー２</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-4">
-                    <img src="assets/img/img-webdev/gallery3.png" alt="">
-                    <p class="gallery-title">ホワイトペーパー３</p>
-                    <p class="gallery-content">ダウンロード</p>
-                </div>
-            </div>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
             </div>
@@ -1053,9 +1050,24 @@ if(isset($_POST['submitted']))
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">AIA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">AIA - Premier Academy</p>
+                            <!-- <p class="subtitle">Lorem!</p> -->
+                            <p class="content">Merupakan situs website yang membantu AIA dalam menyediakan informasi yang dibutuhkan oleh agen dan calon agen mengenai AIA Premier Academy.</p>
+                            <p class="content">
+                                Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                                Pembuatan desain disesuaikan dengan konsep Formula 1 yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik tanpa mengurangi fungsionalitas dan tetap memperhatikan konsep responsif desain yang diperlukan saat ini. 
+                            </p>
+                            <p class="content">
+                                Pada website juga terdapat implementasi Income Calculator berdasarkan formula perhitungan yang komprehensif dengan variasi output yang mencakup grafik. Hasil akhir website ini kemudian di implementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                                Salah satu tantangan dalam proyek ini adalah kebutuhan AIA untuk merilis versi awal hanya dalam 2 minggu, dan LOGIQUE mampu menjawab ekspektasi tersebut dengan baik. 
+                            </p>
+                            <p class="content">
+                                Setelah versi awal dirilis, pengembangan berlanjut dengan peningkatan fungsi termasuk implementasi fungsi kalkulator dengan total waktu pengembangan dari awal sampai akhir sekitar 5 minggu.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1073,104 +1085,84 @@ if(isset($_POST['submitted']))
                                     <p>Industry/Industry</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Asuransi</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Website Statis (Responsif) dan Fungsi Kalkulator</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Project Period</p>
+                                    <p>Durasi</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>5 Minggu</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Ruang Lingkup</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
+                                    <p>Manajemen Proyek (PM), Perencanaan Layout / Desain, HTML Coding dan Animasi, Fungsional, Implementasi Cloud Server</p>
                                 </div>
                             </div>
                             <div class="content-container scope-container">
                                 <div class="content-title">
-                                    <p>Scope/person in charge</p>
+                                    <p>Tim</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Strategic design</p>
+                                    <p>Pengarah Proyek (PM)</p>
                                     <p>
-                                        Information design
+                                    Desainer Kreatif
                                     </p>
                                     <p>
-                                        direction
+                                    Implementasi HTML dan Animasi
                                     </p>
                                     <p>
-                                        Lead design
+                                    Fungsional
                                     </p>
                                     <p>
-                                        design
+                                    Testing
                                     </p>
                                     <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
+                                    Infrastruktur
                                     </p>
                                     	
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Nico</p>
                                     <p>
-                                    Lorem Ipsum
+                                    Adit/Angel
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Fahmi, Bagas
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Andre
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Angga
                                     </p>
                                     <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
+                                    Wisya
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/aia.png" alt="">
+                            <img loading="lazy" src="assets/img/aia.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia2.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia3.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/aia4.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1184,9 +1176,26 @@ if(isset($_POST['submitted']))
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">Panin</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">Panin Dai-ichi Life – Bekal Hidup</p>
+                            <!-- <p class="subtitle">Lorem !</p> -->
+                            <p class="content">
+                                Merupakan suatu terobosan dari Panin Dai-ichi Life dalam bentuk produk-produk asuransi digital yang dapat dibeli langsung secara online melalui website E-Commerce. 
+                            </p>
+                            <p class="content">
+                                Berangkat dari pengalaman LOGIQUE yang telah banyak menangani proyek E-Commerce baik untuk industri asuransi maupun barang retail, kami membantu merancang konsep e-commerce Panin Dai-ichi Life mulai dari tahap perencanaan, desain, pengembangan kode, dan implementasi pada server yang telah disediakan. 
+                            </p>
+                            <p class="content">
+                                Pembuatan desain disesuaikan dengan konsep branding ‘Bekal Hidup’ yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik, termasuk sangat memperhatikan User Experience untuk memudahkan Customer dalam melakukan pembelian produk asuransi yang ada. 
+                            </p>
+                            <p class="content">
+                                Dalam website e-commerce ini, Customer dapat melakukan pembelian beberapa produk asuransi sejenis untuk menerima keuntungan ganda; sistem secara otomatis melakukan verifikasi apakah Customer tersebut masih dapat melakukan pembelian produk dengan kriteria-kriteria yang telah ditentukan. 
+                            </p>
+                            <p class="content">
+                                Website E-Commerce ini juga terintegrasi dengan sistem pembayaran Midtrans yang mencakup pembelian awal dan recurring serta integrasi dengan sistem inti dari Panin Dai-ichi Life itu sendiri. 
+                            </p>
+                            <p class="content">
+                                Dalam pelaksanaannya, LOGIQUE membantu Panin Dai-ichi memiliki sebuah website E-Commerce yang dapat digunakan dalam waktu 3 bulan (fase 1), yang kemudian berlanjut dengan peningkatan fungsi untuk memenuhi cakupan tipe produk asuransi baru yang akan disediakan secara online di fase 2.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1201,107 +1210,90 @@ if(isset($_POST['submitted']))
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Asuransi</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>E-Commerce</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Project Period</p>
+                                    <p>Durasi</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>3 Bulan (Fase 1)</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Device</p>
+                                    <p>Ruang Lingkup</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
+                                    <p>Manajemen Proyek (PM), Perencanaan Konsep, Perencanaan Layout / Desain, HTML Coding, Fungsional dan Integrasi Sistem Inti, Integrasi <i>Payment Gateway</i></p>
                                 </div>
                             </div>
                             <div class="content-container scope-container">
                                 <div class="content-title">
-                                    <p>Scope/person in charge</p>
+                                    <p>Tim</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Strategic design</p>
+                                    <p>Pengarah Proyek (PM)</p>
                                     <p>
-                                        Information design
+                                    Perencanaan Konsep
                                     </p>
                                     <p>
-                                        direction
+                                    Desainer Kreatif
                                     </p>
                                     <p>
-                                        Lead design
+                                    Implementasi HTML dan Animasi
                                     </p>
                                     <p>
-                                        design
+                                    Fungsional
                                     </p>
                                     <p>
-                                        Copywriting
+                                    Testing
                                     </p>
                                     <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
+                                    Infrastruktur
+                                    </p>  	
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Paskal</p>
                                     <p>
-                                    Lorem Ipsum
+                                    Paskal / Irvan
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Adit
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Anggo, Nico
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Daniel, Dimas
                                     </p>
                                     <p>
-                                    Lorem Ipsum
+                                    Winda, Edi
                                     </p>
                                     <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
+                                    Wisya
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/panin.png" alt="">
+                            <img loading="lazy" src="assets/img/panin.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/panin2.jpg" alt="">
+                            <br/>
+                            <img loading="lazy" src="assets/img/panin3.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -1315,9 +1307,22 @@ if(isset($_POST['submitted']))
                             <span aria-hidden="true">&times;</span>
                         </button>
                         <div class="title-section">
-                            <p class="title">JBA</p>
-                            <p class="subtitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quidem ratione optio aliquid quae vitae, molestiae maiores sed vero iste quasi, odio eligendi accusamus. Quia non aliquam laudantium cumque nam!</p>
-                            <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem architecto ipsam ut fugit mollitia autem esse obcaecati nesciunt voluptates odit nemo qui, aspernatur provident iste deleniti sit, corrupti consequatur incidunt.</p>
+                            <p class="title">JBA – Website Perusahaan dan Layanan</p>
+                            <p class="content">
+                            Merupakan situs website yang menyediakan semua informasi yang dibutuhkan oleh pelanggan terkait lelang mobil dan motor yang dilakukan oleh JBA Indonesia. 
+                            </p>
+                            <p class="content">
+                            Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                            </p>
+                            <p class="content">
+                            Konsep pembuatan desain diarahkan untuk menguatkan kesan korporasi yang terpercaya dan profesional, dengan implementasi yang mudah digunakan pengguna, dan pengaplikasian teknologi desain responsif yang dapat dilihat dengan baik pada Smartphone, Tablet, dan Desktop. 
+                            </p>
+                            <p class="content">
+                            Untuk dapat menampilkan data-data mobil dan motor yang dilelang, website terintegrasi dengan sistem inti melalui API yang juga dirancang oleh LOGIQUE dengan hasil akhir website yang diimplementasi pada infrastruktur AWS. 
+                            </p>
+                            <p class="content">
+                            Selain pembuatan website perusahaan, LOGIQUE membantu JBA secara menyeluruh untuk pembuatan berbagai sistem dan aplikasi mobile untuk mendukung proses bisnis yang ada.
+                            </p>
                         </div>
                         <div class="content-section">
                             <div class="content-container">
@@ -1332,107 +1337,29 @@ if(isset($_POST['submitted']))
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Industry/Industry</p>
+                                    <p>Industri</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
+                                    <p>Otomotif / Lelang</p>
                                 </div>
                             </div>
                             <div class="content-container">
                                 <div class="content-title">
-                                    <p>Genre</p>
+                                    <p>Tipe</p>
                                 </div>
                                 <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Project Period</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Device</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                            </div>
-                            <div class="content-container">
-                                <div class="content-title">
-                                    <p>Lorem Ipsum</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi explicabo eum, aliquam laudantium iste cumque quis enim eos eveniet corrupti tempore natus. Nesciunt, quaerat aut repudiandae vitae enim ipsam provident.</p>
-                                </div>
-                            </div>
-                            <div class="content-container scope-container">
-                                <div class="content-title">
-                                    <p>Scope/person in charge</p>
-                                </div>
-                                <div class="content-desc">
-                                    <p>Strategic design</p>
-                                    <p>
-                                        Information design
-                                    </p>
-                                    <p>
-                                        direction
-                                    </p>
-                                    <p>
-                                        Lead design
-                                    </p>
-                                    <p>
-                                        design
-                                    </p>
-                                    <p>
-                                        Copywriting
-                                    </p>
-                                    <p>
-                                        Front mounting
-                                    </p>
-                                    <p>
-                                        Server-side implementation
-                                    </p>
-                                    <p>
-                                        Illustration production
-                                    </p>
-                                    	
-                                </div>
-                                <div class="content-desc">
-                                    <p>Lorem Ipsum</p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
-                                    <p>
-                                    Lorem Ipsum
-                                    </p>
+                                    <p>Website</p>
                                 </div>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img src="assets/img/jba.png" alt="">
+                            <img loading="lazy" src="assets/img/jba1.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba2.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba4.jpg" alt="">
+                            <br />
+                            <img loading="lazy" src="assets/img/jba6.jpg" alt="">
                         </div>
                     </div>
                 </div>

@@ -67,7 +67,7 @@
 
     <!-- Bootstrap -->
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
-    <link rel="preload" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel=" stylesheet preload" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="/css/bootstrap.min.css"></noscript>
     <link href="../css/style.css" rel="stylesheet">
     <!-- <link href="../css/slick.css" rel="stylesheet">
@@ -75,10 +75,10 @@
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
 
-    <link rel="preload" href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet preload" href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet preload" href="/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<!--     <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
     <noscript>
     <link rel="stylesheet" href="/css/slick.css">
     <link rel="stylesheet" href="/css/slick-theme.css">
@@ -182,12 +182,12 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li class="active"><a href="#">EN</a></li>
                                     <li><a href="../index.php">ID</a></li>
                                     <li><a href="../jp/index.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
@@ -352,7 +352,7 @@
                     <p><strong>LOGIQUE</strong> is committed to contributing to Indonesia's rapidly growing IT industry (SI, Web system development, digital marketing, etc.), having developed three internal systems to assist with increasing employee productivity & efficiency, and to simplify the recruitment process in regards to potential candidate evaluation. Upon integrating these products within our own company, we have found a very apparent & significant improvement, resulting in our decision to put these products up for sale</p>
 
                     <div class="flex__row">
-                        <div class="col-md-6 row__item">
+                        <div class="col-md-4 row__item">
                             <div class="item__img">
                                 <img src="/img/top/i-dokodemo.svg" alt="">
                             </div>
@@ -362,7 +362,7 @@
                                 <a href="https://dokodemo-kerja.com/"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
                             </div>
                         </div>
-                        <div class="col-md-6 row__item">
+                       <!--  <div class="col-md-6 row__item">
                             <div class="item__img">
                                 <img src="/img/top/i-hiring-site-update.png" alt="">
                             </div>
@@ -371,8 +371,8 @@
                                 <p>Your own recruitment website can be the key to make the process effective and efficient! We offer recruitment software which can assist Human Resources through connecting job seekers and employers.</p>
                                 <a href="/en/services/recruitment-web-dev.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
                             </div>
-                        </div>
-                        <div class="col-md-6 row__item">
+                        </div> -->
+                        <div class="col-md-4 row__item">
                             <div class="item__img">
                                 <img src="/img/top/i-nippo-update.png" alt="">
                             </div>
@@ -382,7 +382,7 @@
                                 <a href="/en/product/nippo.php"  target="_blank"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
                             </div>
                         </div>
-                        <div class="col-md-6 row__item">
+                        <div class="col-md-4 row__item">
                             <div class="item__img">
                                 <img src="/img/top/i-sugoi-saiyo-update.png" alt="">
                             </div>
@@ -471,8 +471,9 @@
                     <h3 class="section-title">Case Study</h3>
                     <p>For more than 7 years, <strong>LOGIQUE</strong> has helped many high-end clients, ranging from the local startups to international enterprise, by developing various Websites, System, Web Apps and Mobile Apps.</p>
 
-                    <div class="flex__row">
-                        <div class="col-md-6 col-xs-12 row__item">
+ 
+                    <div class="flex__row case-study__slide">
+                        <div class=" row__item top-2">
                             <img src="/img/case-study-1.png" class="img-responsive" alt="">
                             <a href="/en/case-study/caroline-bidding-system/">
                                 <div class="item__hover">
@@ -483,21 +484,21 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-xs-12 row__item">
+                        <div class=" row__item top-2">
                             <img src="/img/case-study-2.png" class="img-responsive" alt="">
                             <a href="/en/case-study/jba-auction-system">
                                 <div class="item__hover">
                                 <img src="/img/top/i-jba-update.png" alt="">
+                             
                                 <h4>JBA Indonesia Auction System</h4>
-                                <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
+                                <p>JBA is the largest car and motorcycle auction company in Indonesia. For JBA, we have been trusted in developing almost all systems used which include the main systems. 
+                                    </p>
+                              
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                 </div>
                             </a>
                         </div>
-                    </div>
-
-                    <div class="flex__row">
-                        <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                        <div class="row__item --sm">
                             <img src="/img/case-study-3.png" class="img-responsive" alt="">
                             <a href="/en/case-study/opuspark/">
                                 <div class="item__hover">
@@ -509,7 +510,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                        <div class="row__item --sm">
                             <img src="/img/case-study-4.png" class="img-responsive" alt="">
                             <a href="/en/case-study/zuttoride-customer-management-system/">
                                 <div class="item__hover">
@@ -521,7 +522,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-xs-offset-0 col-sm-offset-3 col-md-offset-0 col-md-4 col-sm-6 col-xs-12 row__item --sm">
+                        <div class="row__item --sm">
                             <img src="/img/case-study-5.png" class="img-responsive" alt="">
                             <a href="/en/case-study/vip-plaza-progressive-web-app/">
                                 <div class="item__hover">
@@ -533,9 +534,72 @@
                                 </div>
                             </a>
                         </div>
+                        <div class="  row__item --sm morecs">
+                            <picture>
+                                <source srcset="/img/case-study-klikhoreca.webp">
+                                <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt="">
+                            </picture>
+                            <a href="/case-study/klikhoreca/">
+                                <div class="item__hover">
+                                    <picture>
+                                        <source srcset="/img/top/klikhoreca.svg">
+                                        <img src="/img/top/klikhoreca.png" alt="">
+                                    </picture>
+                                    <div>
+                                        <h4>Klikhoreca</h4>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="c row__item --sm morecs">
+                            <picture>
+                                <source srcset="/img/case-study-indonesea.webp">
+                                <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt="">
+                            </picture>
+                            <a href="/case-study/indonesea/">
+                                <div class="item__hover">
+                                    <picture>
+                                        <source srcset="/img/top/indonesea.svg">
+                                        <img src="/img/top/indonesea.png" alt="">
+                                    </picture>
+                                    <div>
+                                        <h4>Indonesea</h4>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class=" row__item --sm morecs">
+                            <picture>
+                                <source srcset="/img/case-study-pan-pacific.webp">
+                                <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt="">
+                            </picture>
+                            <a href="/case-study/pan-pacific/">
+                                <div class="item__hover">
+                                    <picture>
+                                        <source srcset="/img/top/pan-pacific.svg">
+                                        <img src="/img/top/pan-pacific.png" alt="">
+                                    </picture>
+                                    <div>
+                                        <h4>Pan Pacific</h4>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>  
                     </div>
-                    
+                    <div class="case-study-btn-container text-center ">
+                        <a href="javascript:void(0)" class=" showcase showmore">
+                           view more
+                        </a>
+                         <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
+                           view less
+                        </a>
+                      </div>
+                      <div class="casestudy-text">
                     <p><strong>LOGIQUE</strong> commits to providing the best solutions to our clients; having worked successfully on many projects such as e-commerce, car/motorcycle auction management system, CRM development, e-learning App, PWA, Recruitment system and more.</p>
+                </div>
 
                     <!-- <div class="row">
                         <div class="col-sm-12 text-center">
@@ -618,30 +682,54 @@
     <?php include 'footer.php';?>
 
     <script>
-    $('.product__slide').slick({
-        infinite: true,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        // adaptiveHeight: true,
-        responsive: [{
-                breakpoint: 1100,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 700,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
-            }
-        ]
+  
+  $slick_slider = $('.case-study__slide');
+  settings_slider = {
+    slidesToShow: 2,
+    slidesToScroll: 2,
+     arrow:true,
+    infinite: true,
+    responsive: [{ 
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          arrow:true
+        }
+      },
+    ]
+    // more settings
+  }
+  slick_on_mobile( $slick_slider, settings_slider);
+
+// slick on mobile
+  function slick_on_mobile(slider, settings){
+    $(window).on('load resize', function() {
+      if ($(window).width() > 1100) {
+        if (slider.hasClass('slick-initialized')) {
+          slider.slick('unslick');
+        }
+        return
+      }
+      if (!slider.hasClass('slick-initialized')) {
+        return slider.slick(settings);
+      }
     });
-    </script>
+  };
+
+    $('.showmore').click(function(){
+         $('.morecs').css('display','inline-block');
+         $('.showmore').css('display','none'); 
+         $('.showless').css('display','inline-block');   
+        })
+
+    $('.showless').click(function(){
+         $('.morecs').css('display','none');
+         $('.showless').css('display','none'); 
+         $('.showmore').css('display','inline-block');  
+        })
+ 
+  </script>
 
 </body>
 
