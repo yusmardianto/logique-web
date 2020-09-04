@@ -161,7 +161,7 @@ class Fgwhitepaperform
                 'subject' => "Request to download white-paper documents from ".$_POST['name']."",
             ),
             'notification' => array(
-                'subject' => "Terima kasih telah mengunduh Profil Perusahaan PT. Logique Digital Indonesia, ".$_POST['name']."",
+                'subject' => "Terima kasih telah mengunduh Whitepaper PT. Logique Digital Indonesia, ".$_POST['name']."",
             ),
         );
         foreach ($status as $key => $data) {

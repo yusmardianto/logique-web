@@ -161,7 +161,7 @@ if(isset($_POST['submitted']))
                                     <li class="active"><a href="/layanan/webdev-price-range.php">ID</a></li>
                                     <li><a href="/jp/services/web-dev-price-range.php">JP</a></li>
                                 </ul>
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                <a href="/jp/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
                                         class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
@@ -176,7 +176,7 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -194,7 +194,7 @@ if(isset($_POST['submitted']))
                                     <meta itemprop="position" content="3" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Web Price Range</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Opsi Layanan</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -232,7 +232,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -241,7 +241,7 @@ if(isset($_POST['submitted']))
                     <p class="content">Website Sederhana atau Landing Page</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Masa Produksi</span>
                             </div>
@@ -250,7 +250,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Jumlah Halaman</span>
                             </div>
@@ -259,7 +259,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Cakupan Pekerjaan</span>
                             </div>
@@ -295,7 +295,7 @@ if(isset($_POST['submitted']))
                     <p class="content">Website Layanan atau Website Perusahaan Standar</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Masa Produksi</span>
                             </div>
@@ -304,7 +304,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Jumlah Halaman</span>
                             </div>
@@ -313,7 +313,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Cakupan Pekerjaan</span>
                             </div>
@@ -338,7 +338,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/22.png" alt="">
                 </div>
             </div>
         </div>
@@ -347,7 +347,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/33.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/33.png" alt="">
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -356,7 +356,7 @@ if(isset($_POST['submitted']))
                     <p class="content">Website Layanan atau Website Perusahaan Berskala Besar</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Masa Produksi</span>
                             </div>
@@ -365,7 +365,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Jumlah Halaman </span>
                             </div>
@@ -374,7 +374,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Cakupan Pekerjaan</span>
                             </div>
@@ -410,7 +410,7 @@ if(isset($_POST['submitted']))
                     <p class="content">Menyusun rencana dan membuat website sesuai dengan perencanaan dan solusi yang sudah diformulasikan.</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Masa Produksi</span>
                             </div>
@@ -419,7 +419,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
                             <div class="detail-title">
                                 <span>Cakupan Pekerjaan</span>
                             </div>
@@ -445,7 +445,7 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
-                    <img src="assets/img/img-webdev/webdev-service/44.png" alt="">
+                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/44.png" alt="">
                 </div>
             </div>
         </div>
@@ -455,7 +455,7 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-md-12">
                     <div class="promo-container">
-                        <img src="assets/img/img-webdev/webdev-service/promo.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/promo.png" alt="">
                     </div>
                 </div>
             </div>
@@ -597,12 +597,12 @@ if(isset($_POST['submitted']))
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                      <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
                     </a>
                 </div>
             </div>
