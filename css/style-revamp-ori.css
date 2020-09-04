@@ -1254,6 +1254,9 @@ b {
     .case-study .flex__row:last-of-type{
       margin-bottom: 10px;
     }
+    .case-study .row__item.top-2 > a > .item__hover  h4 {
+      text-align: center;
+    }
     .case-study .row__item.top-2 > a > .item__hover  h4 > img {
       display: inline-block;
       margin-left: 5px;
