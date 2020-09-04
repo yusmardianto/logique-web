@@ -750,9 +750,7 @@ b {
   height: 100%;
 }
 /*
-.case-study .row__item.--sm > a > .item__hover {
-  align-items: center;
-}
+
 */
 .case-study .row__item > a > .item__hover > img:first-child {
   max-width: 160px;
@@ -1263,6 +1261,9 @@ b {
     .case-study .row__item.top-2 > a > .item__hover > .right-arrow{
       display: none;
     }
+    .case-study .row__item.--sm > a > .item__hover {
+    align-items: center;
+  }
 }
 @media (max-width: 767.98px) {
   .portfolio-update__nav .page-nav {
