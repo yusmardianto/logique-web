@@ -175,7 +175,7 @@ footer p:before {
 /* NAVIGATION */
 .logique-nav {
   width: 95px;
-  background: rgba(255, 202, 19, 0.9);
+  background: rgba(255, 202, 19, 1);
   height: 100%;
   position: fixed;
   top: 0;
@@ -189,29 +189,6 @@ footer p:before {
 }
 .logique-nav .text-center {
   padding: 5px 10px;
-}
-.logique-nav .text-center.active,
-.logique-nav .text-center.active:focus,
-.logique-nav .text-center.active:hover {
-  background: #212425;
-}
-.logique-nav .text-center:focus,
-.logique-nav .text-center:hover {
-  background: #666;
-}
-
-.logique-nav .text-center:focus a,
-.logique-nav .text-center:hover a {
-  color: #fff;
-}
-.logique-nav a {
-  color: #000;
-  text-decoration: none !important;
-}
-.logique-nav .text-center.active a,
-.logique-nav .text-center.active:focus a,
-.logique-nav .text-center.active:hover a {
-  color: #fff;
 }
 .margin-for-nav {
   margin-top: 0;
@@ -228,83 +205,6 @@ footer p:before {
   height: 44px;
   width: 44px;
 }
-.img-home {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -4px no-repeat;
-}
-.logique-nav .text-center.active .img-home,
-.logique-nav .text-center.active:focus .img-home,
-.logique-nav .text-center.active:hover .img-home,
-.logique-nav .text-center:focus .img-home,
-.logique-nav .text-center:hover .img-home {
-  background: url(/img/nav-img-white.png) -2px -4px no-repeat;
-}
-.img-about {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -62px no-repeat;
-}
-.logique-nav .text-center.active .img-about,
-.logique-nav .text-center.active:focus .img-about,
-.logique-nav .text-center.active:hover .img-about,
-.logique-nav .text-center:focus .img-about,
-.logique-nav .text-center:hover .img-about {
-  background: url(/img/nav-img-white.png) -2px -62px no-repeat;
-}
-.img-portfolio {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -123px no-repeat;
-}
-.logique-nav .text-center.active .img-portfolio,
-.logique-nav .text-center.active:focus .img-portfolio,
-.logique-nav .text-center.active:hover .img-portfolio,
-.logique-nav .text-center:focus .img-portfolio,
-.logique-nav .text-center:hover .img-portfolio {
-  background: url(/img/nav-img-white.png) -2px -123px no-repeat;
-}
-.img-services {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -184px no-repeat;
-}
-.logique-nav .text-center.active .img-services,
-.logique-nav .text-center.active:focus .img-services,
-.logique-nav .text-center.active:hover .img-services,
-.logique-nav .text-center:focus .img-services,
-.logique-nav .text-center:hover .img-services {
-  background: url(/img/nav-img-white.png) -2px -184px no-repeat;
-}
-.img-career {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -245px no-repeat;
-}
-.logique-nav .text-center.active .img-career,
-.logique-nav .text-center.active:focus .img-career,
-.logique-nav .text-center.active:hover .img-career,
-.logique-nav .text-center:focus .img-career,
-.logique-nav .text-center:hover .img-career {
-  background: url(/img/nav-img-white.png) -2px -245px no-repeat;
-}
-.img-contact {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -308px no-repeat;
-}
-.logique-nav .text-center.active .img-contact,
-.logique-nav .text-center.active:focus .img-contact,
-.logique-nav .text-center.active:hover .img-contact,
-.logique-nav .text-center:focus .img-contact,
-.logique-nav .text-center:hover .img-contact {
-  background: url(/img/nav-img-white.png) -2px -308px no-repeat;
-}
-.img-blog {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -374px no-repeat;
-}
-.logique-nav .text-center.active .img-blog,
-.logique-nav .text-center.active:focus .img-blog,
-.logique-nav .text-center.active:hover .img-blog,
-.logique-nav .text-center:focus .img-blog,
-.logique-nav .text-center:hover .img-blog {
-  background: url(/img/nav-img-white.png) -2px -374px no-repeat;
-}
 .backdrop-test {
   position: fixed;
   width: 100%;
@@ -316,18 +216,6 @@ footer p:before {
   top: 0;
   left: 0;
 }
-.img-product {
-  margin: auto;
-  background: url(/img/nav-img.png) -2px -440px no-repeat;
-}
-.logique-nav .text-center.active .img-product,
-.logique-nav .text-center.active:focus .img-product,
-.logique-nav .text-center.active:hover .img-product,
-.logique-nav .text-center:focus .img-product,
-.logique-nav .text-center:hover .img-product {
-  background: url(../img/nav-img-white.png) -2px -440px no-repeat;
-}
-
 .nav-lp .navbar-collapse {
   padding: 0;
   position: fixed;
@@ -355,7 +243,7 @@ footer {
   right: 80px;
   border-radius: 0;
   height: 34px;
-  top: -7px;
+  /* top: -7px; */
   transition: all 1s;
 }
 .nav-lp .navbar-toggle.collapsed .icon-bar.first {
@@ -449,15 +337,6 @@ footer {
 .btn-container-contact {
   margin-top: 70px;
 }
-@media (min-width: 1200px) {
-  .margin-for-nav {
-    top: 50%;
-    transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    position: relative;
-  }
-}
 .logique-nav.in-jp a {
   font-size: 12px;
 }
@@ -488,8 +367,8 @@ footer {
     padding-bottom: 30px;
   }
     .logique-nav {
-    margin-right: -150px;
-    margin-left: auto;
+    margin-left: -150px;
+    margin-right: auto;
     position: relative;
   }
   .devops-work-item .img-container{
