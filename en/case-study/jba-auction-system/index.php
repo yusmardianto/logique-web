@@ -298,7 +298,7 @@
                     <img src="/case-study/img/icon/btn-contact.png" alt="">
                   </picture>
                   <h5>CONTACT US</h5>
-                  <p>For consultations or to find out more about our other services, click here.</p> 
+                  <p class="hidden-xs">For consultations or to find out more about our other services, click here.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -309,7 +309,7 @@
                     <img src="/case-study/img/icon/btn-service.png" alt="">
                   </picture>
                   <h5>OUR SERVICE</h5>
-                  <p>A comprehensive list of our services can be found here.</p> 
+                  <p class="hidden-xs">A comprehensive list of our services can be found here.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">             
                 </a>
               </div>
@@ -320,7 +320,7 @@
                     <img src="/case-study/img/icon/btn-portfolio.png" alt="">
                   </picture>
                   <h5>PORTFOLIO</h5>
-                  <p>For more information about the companies that make up our clientele, click here.</p> 
+                  <p class="hidden-xs">For more information about the companies that make up our clientele, click here.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">          
                 </a>
               </div>
@@ -331,7 +331,7 @@
                     <img src="/case-study/img/icon/btn-web-dev.png" alt="">
                   </picture>
                   <h5>WEB DEVELOPMENT</h5>
-                  <p>Get information about creating high quality websites here.</p> 
+                  <p class="hidden-xs">Get information about creating high quality websites here.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">              
                 </a>
               </div>
@@ -342,7 +342,7 @@
                     <img src="/case-study/img/icon/btn-web-system.png" alt="">
                   </picture>
                   <h5>WEB SYSTEM DEVELOPMENT</h5>
-                  <p>For details regarding our web-based system building services, click here.</p> 
+                  <p class="hidden-xs">For details regarding our web-based system building services, click here.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">       
                 </a>
               </div>
