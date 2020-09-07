@@ -1099,7 +1099,7 @@
                                 <source srcset="assets/img/img-webdev/gly4.webp">
                                 <img loading="lazy" src="assets/img/img-webdev/gly4.jpg" class="img-responsive">
                             </picture>
-                            <a href="#" target="_blank">
+                            <a href="/white-paper-ancaman-serangan-web-application.php" target="_blank">
                                 <p class="gallery-title">Ancaman Serangan pada Web Application</p>
                                 <p class="gallery-content">Download</p>
                             </a>

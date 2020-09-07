@@ -252,7 +252,7 @@
       </section>
 
       <div class="contain-video wrapper--update-design">
-        <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop style="display:block!important">
+        <video poster="img/video-img.jpg" id="bgvid" playsinline autoplay muted loop style="display:block!important">
           <source src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
           <source src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
         </video>
@@ -488,8 +488,8 @@
               <a href="/case-study/klikhoreca/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/klikhoreca.svg">
-                    <img src="/img/top/klikhoreca.png" alt="">
+                    <source srcset="/img/top/klikhoreca-min.webp">
+                    <img src="/img/top/klikhoreca-min.png" alt="">
                   </picture>
                   <div>
                     <h4>Klikhoreca</h4>
@@ -679,7 +679,7 @@
                                              ?> 
                                                     <div class="col-xs-12 col-sm-6 col-md-6 article-container">
                                                         <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                            <img src="<?=$thumb_full_url?>" class="img-responsive" loading="lazy"v>
                                                         </div>
                                                         <div class="content-container">
                                                             <a href="<?=$remote_post->link?>" target="_blank">
