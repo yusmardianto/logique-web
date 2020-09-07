@@ -36,31 +36,29 @@ if(isset($_POST['submitted']))
 ?>
 
 <!DOCTYPE html>
-<html lang="id">
+<html lang="ja">
 
 <head>
 <meta charset="utf-8">
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE adalah perusahaan pengembang web di Jakarta. Melayani jasa pembuatan website perusahaan, toko online, UMKM & lainnya. Desain Profesional Harga Bersaing.">
+         content="Sebagai salah satu pembuat website terkemuka di Indonesia, LOGIQUE memiliki tahapan pembuatan website tersendiri yang terstruktur dan profesional dalam memberikan jasa dan layanan terbaiknya pada klien. Berikut penjelasan sederhana dari tiap tahap pembuatan website dari LOGIQUE.">
      <meta name="keywords"
-         content="jasa pembuatan website, jasa pembuatan website profesional, jasa pembuatan website jakarta">
+         content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/web-dev.php" />  
 
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Perusahaan Jasa Pembuatan Website di Jakarta | LOGIQUE">
+    <meta property="og:title" content="Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/web-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="LOGIQUE adalah perusahaan pengembang web di Jakarta. Melayani jasa pembuatan website perusahaan, toko online, UMKM & lainnya. Desain Profesional Harga Bersaing.">
-     <title>Perusahaan Jasa Pembuatan Website di Jakarta | LOGIQUE</title>
-     <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="/css/slick.css" rel="stylesheet">
-     <link href="/css/style.css" rel="stylesheet">
+    <meta property="og:description" content="Sebagai salah satu pembuat website terkemuka di Indonesia, LOGIQUE memiliki tahapan pembuatan website tersendiri yang terstruktur dan profesional dalam memberikan jasa dan layanan terbaiknya pada klien. Berikut penjelasan sederhana dari tiap tahap pembuatan website dari LOGIQUE.">
+     <title>Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-webdev-new.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -78,72 +76,81 @@ if(isset($_POST['submitted']))
 </head>
 
 <body>
-   <div class="wrapper">
-         <!-- NAVIGATION -->
-         <div class="nav-lp">
-             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                 data-toggle="collapse" data-target="#myNavbar">
-                 <span class="icon-bar first"></span>
-                 <span class="icon-bar second"></span>
-                 <span class="icon-bar third"></span>
-             </button>
-             <div class="collapse navbar-collapse" id="myNavbar">
-                 <div class="backdrop-test"></div>
-                 <div class="logique-nav logique-nav--update">
-                     <div class="margin-for-nav">
-                         <div class="text-center ">
-                             <a href="/">
-                                 <div class="img-home"></div>
-                                 Beranda
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/logique.php">
-                                 <div class="img-about"></div>
-                                 Tentang Kami
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/portofolio.php">
-                                 <div class="img-portfolio"></div>
-                                 Portfolio
-                             </a>
-                         </div>
-                         <div class="text-center active">
-                             <a href="/layanan.php">
-                                 <div class="img-services"></div>
-                                 Layanan
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/produk.php">
-                                 <div class="img-product"></div>
-                                 Produk
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/career/">
-                                 <div class="img-career"></div>
-                                 Karir
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/hubungi-kami.php">
-                                 <div class="img-contact"></div>
-                                 Hubungi Kami
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                                 <div class="img-blog"></div>
-                                 Blog
-                             </a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- NAVIGATION -->
+    <style>
+    @media only screen (max-width: 414px) {
+        .breadcrumb {
+            padding-left: 15px;
+        }
+    }
+    </style>
+    <div class="side-container"></div>
+    <div>
+
+        <!-- NAVIGATION -->
+        <div class="nav-lp">
+            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
+                data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar first"></span>
+                <span class="icon-bar second"></span>
+                <span class="icon-bar third"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <div class="backdrop-test"></div>
+                <div class="logique-nav logique-nav--update in-jp">
+                    <div class="margin-for-nav">
+                        <div class="text-center">
+                            <a href="/">
+                                <div class="img-home"></div>
+                                Beranda
+                            </a>
+                        </div>
+                        <div class="text-center">
+                            <a href="/logique.php">
+                                <div class="img-about"></div>
+                                Tentang Kami
+                            </a>
+                        </div>
+                        <div class="text-center">
+                            <a href="/portfolio.php">
+                                <div class="img-portfolio"></div>
+                                Portfolio
+                            </a>
+                        </div>
+                        <div class="text-center active">
+                            <a href="/layanan.php">
+                                <div class="img-services"></div>
+                                Layanan
+                            </a>
+                        </div>
+                        <div class="text-center">
+                            <a href="produk.php">
+                                <div class="img-product"></div>
+                                Produk
+                            </a>
+                        </div>
+                        <div class="text-center">
+                            <a href="/career/">
+                                <div class="img-career"></div>
+                                Karir
+                            </a>
+                        </div>
+                        <div class="text-center">
+                            <a href="/hubungi-kami.php">
+                                <div class="img-contact"></div>
+                                Hubungi Kami
+                            </a>
+                        </div>
+                        <div class="text-center">
+                            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
+                                <div class="img-blog"></div>
+                                Blog
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- NAVIGATION -->
 
         <!-- HEADER -->
         <div class="container-fluid">
@@ -167,7 +174,7 @@ if(isset($_POST['submitted']))
         </div>disini
         <!-- END HEADER -->
 
-        <header class="content-wrapper__ header">
+        <header class="content-wrapper__">
             
             <div class="text-left --top">
                 <div class="container-fluid">
@@ -176,25 +183,21 @@ if(isset($_POST['submitted']))
                             <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
-                            <div class="content-wrapper__">
-                                <div class="container">
-                                    <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                        itemtype="http://schema.org/BreadcrumbList">
-                                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                                href="/index.php"><span itemprop="name">Beranda</span></a>
-                                            <meta itemprop="position" content="1" />
-                                        </li>
-                                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                                itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
-                                            <meta itemprop="position" content="2" />
-                                        </li>
-                                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                                itemprop="item"><span itemprop="name">Web Development</span></a>
-                                            <meta itemprop="position" content="3" />
-                                        </li>
-                                    </ol>
-                                </div>
-                            </div>
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                        href="/index.php"><span itemprop="name">Beranda</span></a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                        itemprop="item"><span itemprop="name">Web Development</span></a>
+                                    <meta itemprop="position" content="3" />
+                                </li>
+                            </ol>
                         </div>
                         <div class="col-md-12 m-t-2em main-section">
                             <div class="container">
@@ -225,7 +228,6 @@ if(isset($_POST['submitted']))
             </div>
         </header>
     </div>
-    <div class="content-wrapper__ ">
     <section class="about">
         <div class="container">
             <div class="row">
@@ -1364,7 +1366,6 @@ Proses Bisnis Perusahaan</p>
             </div>
         </div>
     </section>
-    </div>
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
