@@ -75,7 +75,7 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div> 
+    <div class="wrapper"> 
         <!-- NAVIGATION -->
         <div class="nav-lp">
             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -149,13 +149,13 @@ if(isset($_POST['submitted']))
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li><a href="/en/services/devops.php">EN</a></li>
                                     <li class="active"><a href="/layanan/devops.php">ID</a></li>
                                     <li><a href="/jp/services/devops.php">JP</a></li>
                                 </ul>
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
