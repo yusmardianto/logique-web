@@ -750,9 +750,7 @@ b {
   justify-content: center;
   height: 100%;
 }
-/*
 
-*/
 .case-study .row__item > a > .item__hover > img:first-child {
   max-width: 160px;
   height: 40px;
@@ -1690,4 +1688,109 @@ footer .medsos-new .facebook-icon:hover{
   }
 }
 /* end portfolio content */
+
+/* portfolio modal section */
+.portfolio__modal .modal-section .modal-content {
+  padding: 15px;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section p {
+  margin-bottom: 10px;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section .title {
+  font-size: 32px;
+  font-weight: bold;
+  padding: 0;
+  line-height: 1.5;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section .subtitle {
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section .content {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container {
+  display: grid;
+  grid-template-columns: 160px auto;
+  grid-gap: 10px;
+  border-bottom: 2px solid #f0f0f0;
+  padding: 5px 0;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container {
+  display: grid;
+  grid-template-columns: 160px 250px auto;
+  grid-gap: 10px;
+  border-bottom: 2px solid #f0f0f0;
+  padding: 5px 0;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .img-section img {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+@media (max-width: 991.98px) {
+    .portfolio__modal .modal-section .modal-content .modal-body {
+        padding: 0;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .title-section .title {
+        font-size: 24px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .title-section .subtitle {
+        font-size: 18px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .title-section .content {
+        font-size: 14px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section {
+        font-size: 14px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container {
+        display: grid;
+        grid-template-areas: 'title content';
+        padding: 5px 0;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container .content-title {
+        grid-area: title;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container .content-desc {
+        grid-area: content;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container {
+        display: grid;
+        grid-template-areas: 'title title'
+                                'content desc';
+        border-bottom: 2px solid #f0f0f0;
+        grid-template-columns: 200px auto;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-title {
+        grid-area: title;
+        font-size: 16px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc {
+        grid-area: desc;
+        font-size: 14px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc:nth-child(2) {
+        grid-area: content;
+        font-size: 14px;
+    }
+}
+@media (max-width: 767.98px) {  
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container {
+        grid-template-columns: auto auto;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc {
+        font-size: 12px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc:nth-child(2) {
+        font-size: 12px;
+    }
+}
+
+/* end portfolio modal section */
  
