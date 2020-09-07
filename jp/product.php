@@ -111,13 +111,13 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="../img/logo.png" alt="Logo"
+                                        class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li><a href="../en/product.php">EN</a></li>
                                     <li><a href="/produk.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>

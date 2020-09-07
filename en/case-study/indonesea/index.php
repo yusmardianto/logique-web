@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
+  <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) has trusted LOGIQUE with the development of their website, Indonesea.id, which uses an efficient Dive Booking System.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Online Marketing Strategy | Case Study | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Website Creation & Development for Indonesea.id | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/opuspark/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
+	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) has trusted LOGIQUE with the development of their website, Indonesea.id, which uses an efficient Dive Booking System.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Online Marketing Strategy | Case Study | LOGIQUE Digital Indonesia</title>
+  <title>Website Creation & Development for Indonesea.id | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -125,6 +125,23 @@
           <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
           <h1 class="cs-title">Indonesea</h1>
           <h2 class="cs-title-2 hidden-xs">Increasing Sales of Units<br>Through Targeted Conversions</h2>
+        </section>
+        <section class="breadcrumb-container">
+          <div class="row">
+              <div class="col-sm-12">
+                  <ol class="breadcrumb breadcrumb--update-design" itemscope
+                      itemtype="http://schema.org/BreadcrumbList">
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Indonesea</span></a>
+                        <meta itemprop="position" content="2" />
+                      </li>
+                  </ol>
+              </div>
+          </div>
         </section>
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
@@ -261,6 +278,11 @@
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/en/case-study/opuspark/">
+                  <img class="img-responsive center-block" src="img/opus-park.png" alt="Other Case Studies">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/en/case-study/caroline-bidding-system/">
                   <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Other Case Studies">
                 </a>
@@ -295,15 +317,71 @@
           </div>
         </section>
         <section class="cs-bottom">
-          <h2 class="cs-subtitle">About <img src="/img/logo.png" alt="logo logique" class="cs-logo-bottom"></h2>
-          <p class="cs-desc">
-          As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
-          </p>
-          <a href="/en/contact.php" class="btn btn-cs-bottom">Contact Us</a>
-          <a href="/en/services.php" class="btn btn-cs-bottom">Our Services</a>
-          <a href="/en/portfolio.php" class="btn btn-cs-bottom">Portfolio</a>
-          <a href="/en/services/web-dev.php" class="btn btn-cs-bottom">Web Development</a>
-          <a href="/en/services/system-dev.php" class="btn btn-cs-bottom">Web System Development</a>
+          <div class="cs-bottom__text">
+            <h2 class="cs-subtitle logofont">ABOUT LOGIQUE</h2>
+            <p class="cs-desc">
+              As a professional team in website creation services, LOGIQUE provides the best optimized solution for your business. In addition to website creation services, LOGIQUE also provides other services such as digital consulting services, application creation services, web design, web system development, SEO services, and printing. We provide detailed structured designs for the creation of corporate websites, applications, as well as the creation of large-scale websites or systems with a combination of targeted design and good system architecture.
+            </p>
+          </div>
+          <div class="cs-bottom__btn">
+            <div class="btn-wrapper">
+              <div>
+                <a href="/en/contact.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-contact.svg">
+                    <img src="/case-study/img/icon/btn-contact.png" alt="">
+                  </picture>
+                  <h5>CONTACT US</h5>
+                  <p class="hidden-xs">For consultations or to find out more about our other services, click here.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                </a>
+              </div>
+              <div>
+                <a href="/en/services.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-service.svg">
+                    <img src="/case-study/img/icon/btn-service.png" alt="">
+                  </picture>
+                  <h5>OUR SERVICE</h5>
+                  <p class="hidden-xs">A comprehensive list of our services can be found here.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">             
+                </a>
+              </div>
+              <div>
+                <a href="/en/portfolio.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-portfolio.svg">
+                    <img src="/case-study/img/icon/btn-portfolio.png" alt="">
+                  </picture>
+                  <h5>PORTFOLIO</h5>
+                  <p class="hidden-xs">For more information about the companies that make up our clientele, click here.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">          
+                </a>
+              </div>
+              <div>
+                <a href="/en/services/web-dev.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-web-dev.svg">
+                    <img src="/case-study/img/icon/btn-web-dev.png" alt="">
+                  </picture>
+                  <h5>WEB DEVELOPMENT</h5>
+                  <p class="hidden-xs">Get information about creating high quality websites here.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">              
+                </a>
+              </div>
+              <div>
+                <a href="/en/services/system-dev.php" class="btn--cs-bottom">
+                  <picture>
+                    <source srcset="/case-study/img/icon/btn-web-system.svg">
+                    <img src="/case-study/img/icon/btn-web-system.png" alt="">
+                  </picture>
+                  <h5>WEB SYSTEM DEVELOPMENT</h5>
+                  <p class="hidden-xs">For details regarding our web-based system building services, click here.</p> 
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">       
+                </a>
+              </div>
+            </div>
+          </div>
         </section>
       </div>
       <style>

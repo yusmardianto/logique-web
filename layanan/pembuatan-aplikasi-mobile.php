@@ -42,20 +42,21 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.">
+         content="LOGIQUE menyediakan jasa pembuatan aplikasi mobile berbasis android & iOS yang responsif serta user-friendly dengan harga kompetitif.">
      <meta name="keywords"
-         content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
+         content="jasa pembuatan aplikasi mobile, jasa pembuatan aplikasi ios, jasa pembuatan aplikasi android">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Jasa Pembuatan Aplikasi Mobile Android dan iOS | LOGIQUE">
+     <meta property="og:title" content="Jasa Pembuatan Aplikasi Mobile Untuk Android & iOS | LOGIQUE">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php">
      <meta property="og:image" content="https://www.logique.co.id/assets/img/img-mobileapps/og-image.png">
      <meta property="og:description"
-         content="Perilaku cyber crime selalu meningkat setiap tahunnya. Karena itu, LOGIQUE menyediakan layanan jasa keamanan website menggunakan metode penetration testing sebagai solusi terbaik untuk melindungi data perusahaan Anda. Segera hubungi kami untuk mendapatkan layanan ini.!">
+         content="LOGIQUE menyediakan jasa pembuatan aplikasi mobile berbasis android & iOS yang responsif serta user-friendly dengan harga kompetitif.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>Jasa Pembuatan Aplikasi Mobile Android dan iOS | LOGIQUE</title>
+     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php" />  
+     <title>Jasa Pembuatan Aplikasi Mobile Untuk Android & iOS | LOGIQUE</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="../css/style.css" rel="stylesheet">
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">

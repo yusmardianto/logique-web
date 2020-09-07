@@ -148,7 +148,7 @@ footer {
         <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
                 <div class="row">
-                    <div class="col-sm-4 hidden-xs">
+                <div class="col-sm-4 hidden-xs">
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
                             <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
@@ -157,12 +157,10 @@ footer {
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
                                     itemprop="postalCode">12550</span>
                                 <br><br>
-                                &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
+                                &nbsp;&nbsp;&nbsp;<img src="img/phone.svg" style="width:10px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
                                 <br>
                                 <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                    rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile"
-                                        style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i
-                                        class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;<span
+                                    rel="noreferrer">&nbsp;&nbsp;&nbsp;<img src="img/handphone.svg" style="width:12px;"> <img src="img/whatsapp.svg" style="width:12px;">&nbsp;&nbsp;<span
                                         class="waNumber">0811-870-321</span></a>
                                 <br><br>
                             </div>
@@ -173,13 +171,13 @@ footer {
                         <div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Media Sosial</div>
                         <ul class="medsos-new">
                             <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer"
-                                    aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
+                                    aria-label="Facebook" class="facebook-icon"> </a></li>
                             <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer"
-                                    aria-label="Twitter"><i class="fa fa-twitter"></i></a></li>
+                                    aria-label="Twitter" class="twitter-icon"></a></li>
                             <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer"
-                                    aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
+                                    aria-label="Instagram" class='instagram-icon'> </a></li>
                             <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"
-                                    aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
+                                    aria-label="LinkedIn" class="linkedin-icon"> </a></li>
                         </ul>
                     </div>
                     <div class="col-sm-4 link-footer-nav">
@@ -307,12 +305,12 @@ footer {
         </div>
     </div>
 </footer>
-<section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; <span
-        class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section>
-<script src="/js/jquery-3.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-<script src="/js/slick.min.js"></script>
-<script src='https://www.google.com/recaptcha/api.js'></script>
+<section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; 
+<span class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section>
+<script   src="/js/jquery-3.min.js"></script>
+<script   src="/js/bootstrap.min.js"></script>
+<script   src="/js/slick.min.js"></script>
+<script   src='https://www.google.com/recaptcha/api.js'></script>
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 $('.map-container')
