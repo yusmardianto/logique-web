@@ -689,7 +689,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p class="title">Webセキュリティ診断るホワイトペーパー</p>
+                        <p class="title">White Paper Tentang Pengetesan Keamanan Website</p>
                     </div>
                 </div>
                 <div class="row gallery-container">
@@ -697,7 +697,7 @@
                         <div class="img-container">
                             <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
                             <a href="/white-paper-web-dev-3.php" target="_blank">
-                                <p class="gallery-title">会社のビジネスプロセスにおける侵入テストの役割と重要性</p>
+                                <p class="gallery-title">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</p>
                                 <p class="gallery-content">ダウンロード</p>
                             </a>
                         </div>
