@@ -3,27 +3,21 @@
 	ini_set('display_error', 0);
 ?>
 <!DOCTYPE html>
-<html lang="id" style="overflow-x: hidden;">
-
+<html lang="id" style="overflow-x: hidden;"> 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description"
-    content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
- 
-  <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan
-">  
+  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
+  <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan">  
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
-  <meta property="og:title"
-    content="Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE">
+  <meta property="og:title" content="Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
-  <meta property="og:description"
-    content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
+  <meta property="og:description" content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/" />  
@@ -51,10 +45,9 @@
   fbq('init', '713777762291663');
   fbq('track', 'PageView');
   </script>
-  <noscript><img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->  
-  <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
+  <!-- <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
   <script>
   (function(i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
@@ -70,54 +63,48 @@
 
   ga('create', 'UA-105878648-1', 'auto');
   ga('send', 'pageview');
-  </script>
+  </script> -->
   <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
   <title>Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE</title>
 
-  <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> -->
   </noscript>
 
-  <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
-
-  <link  rel="stylesheet preload" href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="css/bootstrap.min.css"></noscript>
-
-  <link href="css/style.css" rel="stylesheet">
-  <!-- <link href="css/slick.css" rel="stylesheet">
+  <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> 
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> 
+  <link href="css/slick.css" rel="stylesheet">
   <link href="css/slick-theme.css" rel="stylesheet">  
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
-
-  <link rel="stylesheet preload" href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">  <link rel="stylesheet preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
   <link rel="stylesheet preload" href="css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<!--   <link rel="stylesheet preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
-  <noscript>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
+  <link rel="stylesheet preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  -->
+
+  <link rel="stylesheet preload" href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="css/style.css" >
+  <link rel="stylesheet preload" href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+    <noscript> 
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slick-theme.css">
-    <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
-  </noscript>
-
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css"> 
+  </noscript> 
 </head>
 
 <body class="frontpage">
   <style>
   .bg--white {
     position: relative;
-  }
-
+  } 
   section.visible-xs.visible-sm.--top {
     position: relative;
     z-index: 5;
-  }
-
+  } 
   @media (max-width: 768px) and (min-width: 415px) {
     .custombox__product-wrapper {
       margin-bottom: 2em;
     }
-  }
-
+  } 
   @media (max-width: 768px) {
     .col-sm-8 .custombox__btn-product {
       font-size: 11px;
@@ -334,7 +321,7 @@
               <a href="portofolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
             </div>
             <div class="col-md-6">
-              <img src="/img/our-portfolio.png" class="portfolio__img img-responsive" alt="">
+              <img src="/img/our-portfolio-min.jpg" class="portfolio__img img-responsive" alt="">
             </div>
           </div>
         </div>
@@ -397,7 +384,7 @@
  
           <div class="flex__row case-study__slide">
             <div class=" row__item --sm top-2">
-              <img src="/img/case-study-1.png" class="img-responsive" alt="">
+              <img src="/img/case-study-1.jpg" class="img-responsive" alt="">
               <a href="/case-study/caroline-bidding-system/">
                 <div class="item__hover">
                   <img src="/img/top/i-caroline-update.png" alt="">
@@ -408,7 +395,7 @@
               </a>
             </div>
             <div class=" row__item --sm top-2">
-              <img src="/img/case-study-2.png" class="img-responsive" alt="">
+              <img src="/img/case-study-2.jpg" class="img-responsive" alt="">
               <a href="/case-study/jba-auction-system/">
                 <div class="item__hover">
                   <img src="/img/top/i-jba-update.png" alt="">
@@ -419,7 +406,7 @@
               </a>
             </div>
             <div class="  row__item --sm">
-              <img src="/img/case-study-3.png" class="img-responsive" alt="">
+              <img src="/img/case-study-3.jpg" class="img-responsive" alt="">
               <a href="/case-study/opuspark/">
                 <div class="item__hover">
                   <img src="/img/top/i-opus-park.png" alt="">
@@ -431,7 +418,7 @@
               </a>
             </div>
             <div class=" row__item --sm">
-              <img src="/img/case-study-4.png" class="img-responsive" alt="">
+              <img src="/img/case-study-4.jpg" class="img-responsive" alt="">
               <a href="/case-study/zuttoride-customer-management-system/">
                 <div class="item__hover">
                   <img src="/img/top/i-zuttoride-update.png" alt="">
@@ -443,7 +430,7 @@
               </a>
             </div>
             <div class="  row__item --sm">
-              <img src="/img/case-study-5.png" class="img-responsive" alt="">
+              <img src="/img/case-study-5.jpg" class="img-responsive" alt="">
               <a href="/case-study/vip-plaza-progressive-web-app/">
                 <div class="item__hover">
                   <img src="/img/top/i-vipplaza-update.png" alt="">
@@ -568,113 +555,7 @@
             </div>
             <div class="row">
 <div class="col-md-12">
-                    <div class="carousel slide multi-item-carousel" id="theCarousel">
-                        <div class="carousel-inner">
-                             
-                             <?php  
-                                    function shorten_string($string, $wordsreturned)
-                                {
-                                  $retval = $string;
-                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
-                                  $string = str_replace("\n", " ", $string);
-                                  $array = explode(" ", $string);
-                                  if (count($array)<=$wordsreturned)
-                                  {
-                                    $retval = $string;
-                                  }
-                                  else
-                                  {
-                                    array_splice($array, $wordsreturned);
-                                    $retval = implode(" ", $array)." ...";
-                                  }
-                                  return $retval;
-                                }
-                                function tgl_indo($tanggal){
-                                    $bulan = array (
-                                        1 =>   'Januari',
-                                        'Februari',
-                                        'Maret',
-                                        'April',
-                                        'Mei',
-                                        'Juni',
-                                        'Juli',
-                                        'Agustus',
-                                        'September',
-                                        'Oktober',
-                                        'November',
-                                        'Desember'
-                                    );
-                                    $pecahkan = explode('-', $tanggal);
-                                    
-                                    // variabel pecahkan 0 = tanggal
-                                    // variabel pecahkan 1 = bulan
-                                    // variabel pecahkan 2 = tahun
-                                 
-                                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                                }
-                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=108&per_page=5&_embed');
-                                
-                                        $x = 0;
-
-                                       $remote_posts = json_decode( $url ); 
-                                       // printf('<pre>'); 
-                                       //  var_dump($url);
-                                       // printf('</pre>');
-                                        foreach( $remote_posts as $remote_post ) { 
-                                            $thumb_full_url = '';
-                                            $thumb_url = '';
-
-                                            if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
-                                                $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
-                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
-                                            }
-                                            if($x==0) { 
-                                            ?>
-                                            <div class="item active ">
-                                             <?php } else{
-                                                echo ' <div class="item ">';
-                                             }
-
-                                             ?> 
-                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                                        <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
-                                                        </div>
-                                                        <div class="content-container">
-                                                            <a href="<?=$remote_post->link?>" target="_blank">
-                                                                <p class="title"><?=$remote_post->title->rendered?></p>
-                                                            </a>
-                                                            <p class="content"><?php 
-                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
-                                                             $array =  shorten_string($array, 25); 
-                                                            echo $array;
-                                                             ?></p>
-                                                            <p class="date"><?php 
-                                                            $tanggal = date(' Y-m-d', strtotime($remote_post->date));
-                                                            $idtanggal = tgl_indo($tanggal);
-                                                            echo $idtanggal  ;  ?> | By <?php 
-                                                              echo $remote_post->_embedded->author[0]->name;
-                                                            ?></p>
-                                                        </div>
-                                                    </div>
-                                               
-                                            </div>
-                                             
-                                       <?php  $x++;
-                                   }
-                                     
-                                ?> 
-                        
-                        <!--  Example item end -->
-                        </div>
-                        <ol class="carousel-indicators article-indicators">
-                            <li data-target="#theCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#theCarousel" data-slide-to="1"></li>
-                            <li data-target="#theCarousel" data-slide-to="2"></li>
-                            <li data-target="#theCarousel" data-slide-to="3"></li>
-                        </ol>
-                    </div>
-                </div>
+                    <!--   -->
             </div>
                 
             </div>

@@ -5,13 +5,14 @@
   src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
-}
-
+  font-display: swap;
+} 
 @font-face {
   font-family: "Novocento Sans Wide Medium";
   src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
+  font-display: swap;
 }
 
 .our-service__btn-wrapper {
@@ -749,9 +750,7 @@ b {
   justify-content: center;
   height: 100%;
 }
-/*
 
-*/
 .case-study .row__item > a > .item__hover > img:first-child {
   max-width: 160px;
   height: 40px;
@@ -1095,6 +1094,43 @@ b {
 .footer-update ul.footer__social > a > li > i {
   font-size: 20px;
 }
+footer .medsos-new li > a{
+  height: 35px;
+  width: 30px;
+  display: inline-block;
+}
+footer .medsos-new .instagram-icon{ 
+  background:url(../img/icon-instagram-white.svg)  no-repeat; 
+  background-size: contain;
+}
+footer .medsos-new .instagram-icon:hover{
+  background:url(../img/icon-instagram-hover.svg)  no-repeat;
+  background-size: contain;
+}
+footer .medsos-new .linkedin-icon{ 
+  background:url(../img/icon-linkedin-white.svg)  no-repeat; 
+  background-size: contain;
+}
+footer .medsos-new .linkedin-icon:hover{
+  background:url(../img/icon-linkedin-hover.svg)  no-repeat;
+  background-size: contain;
+}
+footer .medsos-new .twitter-icon{ 
+  background:url(../img/icon-twitter-white.svg)  no-repeat; 
+  background-size: contain;
+}
+footer .medsos-new .twitter-icon:hover{
+  background:url(../img/icon-twitter-hover.svg)  no-repeat;
+  background-size: contain;
+}
+footer .medsos-new .facebook-icon{ 
+  background:url(../img/icon-facebook-white.svg)  no-repeat; 
+  background-size: contain;
+}
+footer .medsos-new .facebook-icon:hover{
+  background:url(../img/icon-facebook-hover.svg)  no-repeat;
+  background-size: contain;
+}
 
 @media (max-width: 991.98px) {
   .footer-update p {
@@ -1232,9 +1268,14 @@ b {
         height: 30px;
         width: 30px;
         box-shadow: -4px 0px 4px 0px rgba(0, 0, 0, 0.05);
+        font-size: 0;
+        position: absolute;
+        top: 50%;
+        margin-top: -10px;
+        border:0;
     }
     .case-study .slick-prev{
-      left: 0;
+      left: 0;  
     }
     .case-study .slick-next:before,  .case-study .slick-prev:before{
       width: 0;
@@ -1246,6 +1287,7 @@ b {
       margin:0 auto;
        color: #000;
        font-size: 0;
+       content:'';
     }
     .case-study .slick-next{
       right: 0;
@@ -1646,4 +1688,109 @@ b {
   }
 }
 /* end portfolio content */
+
+/* portfolio modal section */
+.portfolio__modal .modal-section .modal-content {
+  padding: 15px;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section p {
+  margin-bottom: 10px;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section .title {
+  font-size: 32px;
+  font-weight: bold;
+  padding: 0;
+  line-height: 1.5;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section .subtitle {
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .title-section .content {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.5;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container {
+  display: grid;
+  grid-template-columns: 160px auto;
+  grid-gap: 10px;
+  border-bottom: 2px solid #f0f0f0;
+  padding: 5px 0;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container {
+  display: grid;
+  grid-template-columns: 160px 250px auto;
+  grid-gap: 10px;
+  border-bottom: 2px solid #f0f0f0;
+  padding: 5px 0;
+}
+.portfolio__modal .modal-section .modal-content .modal-body .img-section img {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+@media (max-width: 991.98px) {
+    .portfolio__modal .modal-section .modal-content .modal-body {
+        padding: 0;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .title-section .title {
+        font-size: 24px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .title-section .subtitle {
+        font-size: 18px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .title-section .content {
+        font-size: 14px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section {
+        font-size: 14px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container {
+        display: grid;
+        grid-template-areas: 'title content';
+        padding: 5px 0;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container .content-title {
+        grid-area: title;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container .content-desc {
+        grid-area: content;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container {
+        display: grid;
+        grid-template-areas: 'title title'
+                                'content desc';
+        border-bottom: 2px solid #f0f0f0;
+        grid-template-columns: 200px auto;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-title {
+        grid-area: title;
+        font-size: 16px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc {
+        grid-area: desc;
+        font-size: 14px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc:nth-child(2) {
+        grid-area: content;
+        font-size: 14px;
+    }
+}
+@media (max-width: 767.98px) {  
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container {
+        grid-template-columns: auto auto;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc {
+        font-size: 12px;
+    }
+    .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc:nth-child(2) {
+        font-size: 12px;
+    }
+}
+
+/* end portfolio modal section */
  
