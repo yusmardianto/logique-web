@@ -786,7 +786,12 @@ b {
   font-weight: 200;
   margin-bottom: 5px;
 }
-
+.case-study .row__item.--sm>a>.item__hover {
+    align-items: center;
+}
+.case-study .row__item.top-2>a>.item__hover {
+    align-items: initial;
+}
 .case-study .row__item.--sm > a > .item__hover > div > img {
   display: inline-block;
   vertical-align: baseline;
