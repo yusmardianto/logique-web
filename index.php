@@ -252,7 +252,7 @@
       </section>
 
       <div class="contain-video wrapper--update-design">
-        <video poster="img/video-img.jpg" id="bgvid" playsinline autoplay muted loop style="display:block!important">
+        <video poster="img/video-img-min.jpg" id="bgvid" playsinline autoplay muted loop style="display:block!important">
           <source src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
           <source src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
         </video>
@@ -451,7 +451,7 @@
               <a href="/case-study/zuttoride-customer-management-system/">
                 <div class="item__hover"> 
                   <picture>
-                  <source srcset="/img/i-zuttoride-update.webp">
+                  <source srcset="/img/top/i-zuttoride-update.webp">
                   <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
                 </picture> 
                   <div>
@@ -469,7 +469,7 @@
               <a href="/case-study/vip-plaza-progressive-web-app/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/i-vipplaza-update.webp">
+                    <source srcset="/img/top/i-vipplaza-update.webp">
                     <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
                   </picture> 
                  
@@ -489,7 +489,7 @@
                 <div class="item__hover">
                   <picture>
                     <source srcset="/img/top/klikhoreca-min.webp">
-                    <img src="/img/top/klikhoreca-min.png" alt="">
+                    <img src="/img/top/klikhoreca-min.png" alt="" class="img-responsive"  loading="lazy">
                   </picture>
                   <div>
                     <h4>Klikhoreca</h4>
