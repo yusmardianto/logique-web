@@ -147,6 +147,10 @@ h1, h2, h3, h4, h5, h6 {
     flex-basis: 50%;
     min-width: unset;
   }
+  .cs-bottom__btn .btn-wrapper .btn--cs-bottom {
+    min-height: unset;
+    margin: 0;
+  }
 }
 
 @media (max-width: 320px) {
