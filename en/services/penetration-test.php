@@ -828,7 +828,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p class="title">White Paper About WEB Security Assesment</p>
+                        <p class="title">White Paper Tentang Pengetesan Keamanan Website</p>
                     </div>
                 </div>
                 <div class="row gallery-container">
@@ -836,7 +836,7 @@
                         <div class="img-container">
                             <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
                             <a href="/white-paper-web-dev-3.php" target="_blank">
-                            <p class="gallery-title">The Role and Importance of Penetration Testing in Company Business Processes</p>
+                            <p class="gallery-title">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</p>
                                 <p class="gallery-content">Download</p>
                             </a>
                         </div>
