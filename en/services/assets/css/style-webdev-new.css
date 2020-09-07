@@ -67,18 +67,6 @@
   font-family: "Open Sans Extra Bold";
   src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf");
 }
-@font-face {
-  font-family: "PingfangSC";
-  src: url("../fonts/PingFangSC/PingFangRegular.ttf");
-}
-@font-face {
-  font-family: "PingfangSC Bold";
-  src: url("../fonts/PingFangSC/PingFangBold.ttf");
-}
-@font-face {
-  font-family: "PingfangSC Medium";
-  src: url("../fonts/PingFangSC/PingFangMedium.ttf");
-}
 
 
 html,
@@ -1532,7 +1520,7 @@ cursor: pointer;
 .portofolio .portofolio-section .portofolio-subtitle {
   color: rgb(1, 77, 255);
   font-size: 18px;
-  font-family: "Pingfang SC", sans-serif;
+  font-family: "M Plus 1p", sans-serif;
   font-weight: normal;
   letter-spacing: 0px;
   line-height: 26px;
@@ -1566,7 +1554,7 @@ cursor: pointer;
 .strategic .strategic-list .strategic-title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "Pingfang SC Medium", sans-serif;
+  font-family: "M Plus 1p Medium", sans-serif;
   font-weight: 600;
   letter-spacing: 0px;
   margin-bottom: 14px;
@@ -1797,7 +1785,7 @@ max-height: 720px;
 .gallery .gallery-container .gallery-title {
   color: rgb(0, 0, 0);
   font-size: 18px;
-  font-family: "PingfangSC Medium", sans-serif;
+  font-family: "M Plus 1p Medium", sans-serif;
   font-weight: 600;
   text-align: center;
   letter-spacing: 0px;
@@ -1806,7 +1794,7 @@ max-height: 720px;
 .gallery .gallery-container .gallery-content {
   color: rgb(1, 77, 255);
   font-size: 16px;
-  font-family: "PingfangSC Medium", sans-serif;
+  font-family: "M Plus 1p Medium", sans-serif;
   font-weight: normal;
   text-align: center;
   letter-spacing: 0px;
