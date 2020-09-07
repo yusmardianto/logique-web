@@ -67,18 +67,6 @@
   font-family: "Open Sans Extra Bold";
   src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf");
 }
-@font-face {
-  font-family: "PingfangSC";
-  src: url("../fonts/PingFangSC/PingFangRegular.ttf");
-}
-@font-face {
-  font-family: "PingfangSC Bold";
-  src: url("../fonts/PingFangSC/PingFangBold.ttf");
-}
-@font-face {
-  font-family: "PingfangSC Medium";
-  src: url("../fonts/PingFangSC/PingFangMedium.ttf");
-}
 
   html,
   body {
@@ -1333,7 +1321,7 @@
 .content-wrapper__ .bg-section .main-section .content {
     color: rgb(0, 0, 0);
     font-size: 16px;
-    font-family: "PingfangSC Medium", sans-serif;
+    font-family: "M Plus 1p Medium", sans-serif;
     letter-spacing: 0px;
     line-height: 25px;
     background: none;
