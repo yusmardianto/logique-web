@@ -253,8 +253,10 @@
 
       <div class="contain-video wrapper--update-design">
         <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop style="display:block!important">
-          <source src="img/12377093.mp4" type="video/mp4">
+          <source src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
+          <source src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
         </video>
+         
       </div>
 
       <div class="bg-white-opacity"></div>
@@ -321,7 +323,11 @@
               <a href="portofolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
             </div>
             <div class="col-md-6">
-              <img src="/img/our-portfolio-min.jpg" class="portfolio__img img-responsive" alt="">
+            <picture>
+                <source srcset="/img/our-portfolio-min.webp">
+                <img loading="lazy"  src="/img/our-portfolio-min.jpg" class="portfolio__img img-responsive" alt="">
+              </picture>
+              
             </div>
           </div>
         </div>
@@ -335,27 +341,21 @@
           <div class="flex__row">
             <div class="col-md-4 row__item">
               <div class="item__img">
-                <img src="/img/top/i-dokodemo.svg" alt="">
+                <img src="/img/top/i-dokodemo.svg" alt="" loading="lazy">
               </div>
               <div class="item__text">
                 <h4>Dokodemo Kerja</h4>
                 <p><strong>LOGIQUE</strong> menawarkan kepada Anda sebuah sistem web untuk bekerja remote bernama Dokodemo-Kerja. Sistem ini mampu memonitor dan mengkalkulasi jam kerja karyawan secara akurat.</p>
                 <a href="https://dokodemo-kerja.com/ind/"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
               </div>
-            </div>
-         <!--    <div class="col-md-6 row__item">
-              <div class="item__img">
-                <img src="/img/top/i-hiring-site-update.png" alt="">
-              </div>
-              <div class="item__text">
-                <h4>Custom Recruitment Website</h4>
-                <p>Situs web rekrutmen Anda sendiri dapat menjadi kunci untuk membuat recruitment efektif dan efisien! Kami menawarkan pembuatan web/software yang dapat membantu HRD untuk menghubungkan perusahaan dan kandidat.</p>
-                <a href="/layanan/pembuatan-web-karir.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
-              </div>
-            </div> -->
+            </div> 
             <div class="col-md-4 row__item">
               <div class="item__img nippo">
-                <img src="/img/top/i-nippo-update.png" alt="">
+              <picture>
+                <source srcset="/img/top/i-nippo-update.webp">
+                <img src="/img/top/i-nippo-update.png" alt="" loading="lazy" class="img-responsive">
+              </picture> 
+                
               </div>
               <div class="item__text">
                 <h4>Nippo</h4>
@@ -365,7 +365,10 @@
             </div>
             <div class="col-md-4 row__item">
               <div class="item__img">
-                <img src="/img/top/i-sugoi-saiyo-update.png" alt="">
+              <picture>
+                <source srcset="/img/top/i-sugoi-saiyo-update.webp">
+                <img src="/img/top/i-sugoi-saiyo-update.png" alt="" loading="lazy">
+              </picture>  
               </div>
               <div class="item__text">
                 <h4>Sugoi Saiyo</h4>
@@ -384,10 +387,18 @@
  
           <div class="flex__row case-study__slide">
             <div class=" row__item --sm top-2">
-              <img src="/img/case-study-1.jpg" class="img-responsive" alt="">
+              <picture>
+                <source srcset="/img/case-study-1.webp">
+                <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
+              </picture>
+              
               <a href="/case-study/caroline-bidding-system/">
                 <div class="item__hover">
-                  <img src="/img/top/i-caroline-update.png" alt="">
+                <picture>
+                  <source srcset="/img/top/i-caroline-update.webp">
+                  <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
+                </picture>
+                  
                   <h4>Situs Jual Beli dengan Sistem Penawaran Online <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
                   <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
                   <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -395,10 +406,17 @@
               </a>
             </div>
             <div class=" row__item --sm top-2">
-              <img src="/img/case-study-2.jpg" class="img-responsive" alt="">
+            <picture>
+                <source srcset="/img/case-study-2.webp">
+                <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
+              </picture>
+              
               <a href="/case-study/jba-auction-system/">
                 <div class="item__hover">
-                  <img src="/img/top/i-jba-update.png" alt="">
+                <picture>
+                  <source srcset="/img/top/i-jba-update.webp">
+                  <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
+                </picture> 
                   <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
                   <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
                   <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -406,10 +424,17 @@
               </a>
             </div>
             <div class="  row__item --sm">
-              <img src="/img/case-study-3.jpg" class="img-responsive" alt="">
+            <picture>
+                <source srcset="/img/case-study-3.webp">
+                <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
+              </picture>
+              
               <a href="/case-study/opuspark/">
                 <div class="item__hover">
-                  <img src="/img/top/i-opus-park.png" alt="">
+                <picture>
+                  <source srcset="/img/top/i-opus-park.webp">
+                  <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
+                </picture> 
                   <div>
                     <h4>Opus Park Sentul</h4>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -418,10 +443,17 @@
               </a>
             </div>
             <div class=" row__item --sm">
-              <img src="/img/case-study-4.jpg" class="img-responsive" alt="">
+            <picture>
+                <source srcset="/img/case-study-4.webp">
+                <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
+              </picture>
+              
               <a href="/case-study/zuttoride-customer-management-system/">
-                <div class="item__hover">
-                  <img src="/img/top/i-zuttoride-update.png" alt="">
+                <div class="item__hover"> 
+                  <picture>
+                  <source srcset="/img/i-zuttoride-update.webp">
+                  <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
+                </picture> 
                   <div>
                     <h4>Zutto Ride Indonesia</h4>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -430,10 +462,17 @@
               </a>
             </div>
             <div class="  row__item --sm">
-              <img src="/img/case-study-5.jpg" class="img-responsive" alt="">
+              <picture>
+                <source srcset="/img/case-study-5.webp">
+                <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
+              </picture>
               <a href="/case-study/vip-plaza-progressive-web-app/">
                 <div class="item__hover">
-                  <img src="/img/top/i-vipplaza-update.png" alt="">
+                  <picture>
+                    <source srcset="/img/i-vipplaza-update.webp">
+                    <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
+                  </picture> 
+                 
                   <div>
                     <h4>VIP Plaza</h4>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -444,7 +483,7 @@
             <div class=" row__item --sm morecs">
               <picture>
                 <source srcset="/img/case-study-klikhoreca.webp">
-                <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt="">
+                <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/klikhoreca/">
                 <div class="item__hover">
@@ -462,7 +501,7 @@
             <div class=" row__item --sm morecs">
               <picture>
                 <source srcset="/img/case-study-indonesea.webp">
-                <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt="">
+                <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/indonesea/">
                 <div class="item__hover">
@@ -480,7 +519,7 @@
             <div class=" row__item --sm morecs">
               <picture>
                 <source srcset="/img/case-study-pan-pacific.webp">
-                <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt="">
+                <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/pan-pacific/">
                 <div class="item__hover">
@@ -517,28 +556,43 @@
           <div class="flex__row">
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="layanan.php" class="item item--service">
-                <img src="/img/service.png" alt="">
+                <picture>
+                  <source srcset="/img/service.webp">
+                  <img src="/img/service.png"   alt=""  loading="lazy">
+                </picture>
+                 
                 <h3>See Service List</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="produk.php" class="item item--product">
-                <img src="/img/product.png" alt="">
+                <picture>
+                  <source srcset="/img/product.webp">
+                  <img src="/img/product.png"   alt=""  loading="lazy">
+                </picture>
+                 
                 <h3>See Product List</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="hubungi-kami.php" class="item item--contact">
-                <img src="/img/smartphone.png" alt="">
+              <picture>
+                  <source srcset="/img/smartphone.webp">
+                  <img src="/img/smartphone.png"   alt=""  loading="lazy">
+                </picture>
+                 
                 <h3>Contact Us</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="career/" class="item item--career">
-                <img src="/img/businessman.png" alt="">
+              <picture>
+                  <source srcset="/img/businessman.webp">
+                  <img src="/img/businessman.png"   alt=""  loading="lazy">
+                </picture> 
                 <h3>Career</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
@@ -555,7 +609,113 @@
             </div>
             <div class="row">
 <div class="col-md-12">
-                    <!--   -->
+<div class="carousel slide multi-item-carousel" id="theCarousel">
+                        <div class="carousel-inner">
+                             
+                             <?php  
+                                    function shorten_string($string, $wordsreturned)
+                                {
+                                  $retval = $string;
+                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                  $string = str_replace("\n", " ", $string);
+                                  $array = explode(" ", $string);
+                                  if (count($array)<=$wordsreturned)
+                                  {
+                                    $retval = $string;
+                                  }
+                                  else
+                                  {
+                                    array_splice($array, $wordsreturned);
+                                    $retval = implode(" ", $array)." ...";
+                                  }
+                                  return $retval;
+                                }
+                                function tgl_indo($tanggal){
+                                    $bulan = array (
+                                        1 =>   'Januari',
+                                        'Februari',
+                                        'Maret',
+                                        'April',
+                                        'Mei',
+                                        'Juni',
+                                        'Juli',
+                                        'Agustus',
+                                        'September',
+                                        'Oktober',
+                                        'November',
+                                        'Desember'
+                                    );
+                                    $pecahkan = explode('-', $tanggal);
+                                    
+                                    // variabel pecahkan 0 = tanggal
+                                    // variabel pecahkan 1 = bulan
+                                    // variabel pecahkan 2 = tahun
+                                 
+                                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                                }
+                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=108&per_page=5&_embed');
+                                
+                                        $x = 0;
+
+                                       $remote_posts = json_decode( $url ); 
+                                       // printf('<pre>'); 
+                                       //  var_dump($url);
+                                       // printf('</pre>');
+                                        foreach( $remote_posts as $remote_post ) { 
+                                            $thumb_full_url = '';
+                                            $thumb_url = '';
+
+                                            if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
+                                                $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
+                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                            }
+                                            if($x==0) { 
+                                            ?>
+                                            <div class="item active ">
+                                             <?php } else{
+                                                echo ' <div class="item ">';
+                                             }
+
+                                             ?> 
+                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                        <div class="img-container">
+                                                            <img src="<?=$thumb_full_url?>" class="img-responsive">
+                                                        </div>
+                                                        <div class="content-container">
+                                                            <a href="<?=$remote_post->link?>" target="_blank">
+                                                                <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            </a>
+                                                            <p class="content"><?php 
+                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                             $array =  shorten_string($array, 25); 
+                                                            echo $array;
+                                                             ?></p>
+                                                            <p class="date"><?php 
+                                                            $tanggal = date(' Y-m-d', strtotime($remote_post->date));
+                                                            $idtanggal = tgl_indo($tanggal);
+                                                            echo $idtanggal  ;  ?> | By <?php 
+                                                              echo $remote_post->_embedded->author[0]->name;
+                                                            ?></p>
+                                                        </div>
+                                                    </div>
+                                               
+                                            </div>
+                                             
+                                       <?php  $x++;
+                                   }
+                                     
+                                ?> 
+                        
+                        <!--  Example item end -->
+                        </div>
+                        <ol class="carousel-indicators article-indicators">
+                            <li data-target="#theCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#theCarousel" data-slide-to="1"></li>
+                            <li data-target="#theCarousel" data-slide-to="2"></li>
+                            <li data-target="#theCarousel" data-slide-to="3"></li>
+                        </ol>
+                    </div>
+                </div>
             </div>
                 
             </div>
