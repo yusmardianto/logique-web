@@ -36,7 +36,7 @@ if(isset($_POST['submitted']))
 ?>
 
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="id">
 
 <head>
 <meta charset="utf-8">
@@ -48,6 +48,7 @@ if(isset($_POST['submitted']))
          content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/web-dev.php" />  
 
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE">

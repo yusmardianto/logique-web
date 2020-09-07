@@ -146,12 +146,12 @@
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
                         <div class="container">
+                            <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             <ul class="list-inline">
                                 <li class="active"><a href="">EN</a></li>
                                 <li><a href="/layanan/penetration-test.php">ID</a></li>
                                 <li><a href="/jp/services/penetration-test.php">JP</a></li>
                             </ul>
-                            <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                         </div>
                     </div>
                 </div>
@@ -581,7 +581,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <img alt="10 juta" src="assets/img/img-pentest/15-million.png" class="img-responsive center-block" />
+                        <img alt="15 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" />
                     </div>
                 </div><br />
                 <div class="row">
@@ -820,6 +820,27 @@
                             <div class="sample-report__text text-center">Telnet Service Externally Available</div>
                         </a>
                     </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="gallery content-article">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="title">White Paper Tentang Pengetesan Keamanan Website</p>
+                    </div>
+                </div>
+                <div class="row gallery-container">
+                    <div class="col-xs-12 col-sm-4 col-md-4 col-sm-offset-4 article-container">
+                        <div class="img-container">
+                            <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                            <a href="/white-paper-web-dev-3.php" target="_blank">
+                            <p class="gallery-title">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</p>
+                                <p class="gallery-content">Download</p>
+                            </a>
+                        </div>
+                    </div>  
                 </div>
             </div>
         </section>
