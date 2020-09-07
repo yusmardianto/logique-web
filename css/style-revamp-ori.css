@@ -665,6 +665,10 @@ b {
 }
 .solution .flex__row > .row__item > .item__img.nippo{
   max-width: 105px;
+  display: inline-flex;
+  -webkit-box-align: center!important;
+  -ms-flex-align: center!important;
+  align-items: center!important;
 }
 .solution .flex__row > .row__item > .item__img > img {
   width: 100%;
