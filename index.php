@@ -1,7 +1,25 @@
 ﻿<?php
 	error_reporting(E_ALL|E_STRICT);
 	ini_set('display_error', 0);
-?>
+ 
+  function is_mobile() {
+      if (empty($_SERVER['HTTP_USER_AGENT'])) {
+          $is_mobile = false;
+      } else if (strpos($_SERVER['HTTP_USER_AGENT'], 'Mobile') !== false
+          // many mobile devices (all iPhone, iPad, etc.)
+          || strpos($_SERVER['HTTP_USER_AGENT'], 'Android') !== false
+          || strpos($_SERVER['HTTP_USER_AGENT'], 'Silk/') !== false
+          || strpos($_SERVER['HTTP_USER_AGENT'], 'Kindle') !== false
+          || strpos($_SERVER['HTTP_USER_AGENT'], 'BlackBerry') !== false
+          || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mini') !== false
+          || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mobi') !== false) {
+          $is_mobile = true;
+      } else {
+          $is_mobile = false;
+      }
+      return $is_mobile;
+  }
+?> 
 <!DOCTYPE html>
 <html lang="id" style="overflow-x: hidden;"> 
 <head>
@@ -67,8 +85,7 @@
   <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
   <title>Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE</title>
 
-  </noscript>
-
+  </noscript> 
   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> 
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> 
   <link href="css/slick.css" rel="stylesheet">
@@ -80,9 +97,9 @@
   <link rel="stylesheet preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   -->
 
-  <link rel="stylesheet preload" href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet" href="css/style.css" >
-  <link rel="stylesheet preload" href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+  <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="css/style-ori.css" >
+  <link rel="stylesheet  " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
     <noscript> 
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slick-theme.css">
@@ -280,32 +297,28 @@
               <div class="row homepage-hero__card">
                 <div class="col-md-3 col-xs-6">
                   <a href="/layanan/web-dev.php" class="div-service-cat">
-                    <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"
-                      class="img-responsive" />
+                    <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"  class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Website</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
                 <div class="col-md-3 col-xs-6">
                   <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
-                    <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi"
-                      class="img-responsive" />
+                    <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi" class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Aplikasi</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
                 <div class="col-md-3 col-xs-6">
                   <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
-                    <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web"
-                      class="img-responsive" />
+                    <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web"  class="img-responsive" />
                     <h2>Jasa Pembuatan<br />Sistem Web</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
                 <div class="col-md-3 col-xs-6">
                   <a href="/layanan/penetration-test.php" class="div-service-cat">
-                    <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing"
-                      class="img-responsive" />
+                    <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing"  class="img-responsive" />
                     <h2>Jasa Penetration<br />Testing</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
@@ -732,7 +745,7 @@
   <?php include 'footer.php';?>
  
   <script>
-  
+  $(document).ready(function() {
   $slick_slider = $('.case-study__slide');
   settings_slider = {
     slidesToShow: 2,
@@ -778,9 +791,7 @@
          $('.showless').css('display','none'); 
          $('.showmore').css('display','inline-block');  
         })
- 
-  </script>
-  <script type="text/javascript">
+     
         // Instantiate the Bootstrap carousel
         $('.multi-item-carousel').carousel({
         interval: false
@@ -801,27 +812,9 @@
         //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
         // }
         });
+      }); 
     </script>
-    <?php
-function is_mobile() {
-    if (empty($_SERVER['HTTP_USER_AGENT'])) {
-        $is_mobile = false;
-    } else if (strpos($_SERVER['HTTP_USER_AGENT'], 'Mobile') !== false
-        // many mobile devices (all iPhone, iPad, etc.)
-        || strpos($_SERVER['HTTP_USER_AGENT'], 'Android') !== false
-        || strpos($_SERVER['HTTP_USER_AGENT'], 'Silk/') !== false
-        || strpos($_SERVER['HTTP_USER_AGENT'], 'Kindle') !== false
-        || strpos($_SERVER['HTTP_USER_AGENT'], 'BlackBerry') !== false
-        || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mini') !== false
-        || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mobi') !== false) {
-        $is_mobile = true;
-    } else {
-        $is_mobile = false;
-    }
-    return $is_mobile;
-}
-?>
-    ?>
+
 </body>
 
 </html>

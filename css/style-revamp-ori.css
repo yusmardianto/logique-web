@@ -572,7 +572,7 @@
   font-family: 'FontAwesome';
 }
 
-[class*='update-design'].wrapper--update-design-font strong {
+[class*='update-design'].wrapper--update-design-font strong, .content-wrapper__ strong  {
   font-family: 'Novocento Sans Wide Medium' !important;
 }
 
@@ -853,7 +853,7 @@ b {
     .content-article .article-container .content-container .title {
       color: rgb(0, 0, 0);
       font-size: 16px;
-      font-family: "Raleway", sans-serif;
+      font-family: "Montserrat", sans-serif;
       font-weight: 600;
       letter-spacing: 0.23px;
       margin-bottom: 10px;
@@ -863,14 +863,14 @@ b {
     .content-article .article-container .content-container .content {
       color: rgb(98, 98, 98);
       font-size: 12px;
-      font-family: "Raleway", sans-serif;
+      font-family: "Montserrat", sans-serif;
       letter-spacing: 0.28px;
       margin-bottom: 20px;
     }
     .content-article .article-container .content-container .date {
       color: rgb(0, 0, 0);
       font-size: 14px;
-      font-family: "Raleway", sans-serif;
+      font-family: "Montserrat", sans-serif;
       font-weight: 600;
       letter-spacing: -0.2px;
     }

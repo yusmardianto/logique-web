@@ -150,7 +150,7 @@ footer {
                 <div class="row">
                 <div class="col-sm-4 hidden-xs">
                         <div itemscope itemtype="https://schema.org/Organization">
-                            <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
+                            <div class="footer-title"><strong><span itemprop="name"> LOGIQUE DIGITAL INDONESIA </span></strong></div>
                             <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5
                                     <br />
@@ -237,7 +237,7 @@ footer {
                                 </ul>
                             </li>
                             <li><a href="/portofolio.php">Portofolio</a></li>
-                            <li><a href="/career/">Join LOGIQUE (Karir)</a></li>
+                            <li><a href="/career/">Join  Logique (Karir)</a></li>
                             <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
                         </ul>
                     </div>
@@ -246,9 +246,9 @@ footer {
                 <div class="row">
                     <div class="col-sm-12 link-footer">
                         <h3>Tentang Kami</h3>
-                        <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik
+                        <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website,  <strong>LOGIQUE</strong> menyediakan solusi terbaik
                             yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/web-dev.php" target="_blank"><b>jasa
-                                    pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi
+                                    pembuatan website</b></a>, <strong>LOGIQUE</strong> juga menyediakan jasa lainnya seperti jasa konsultasi
                             digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami
                             memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi,
                             maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan
@@ -308,9 +308,9 @@ footer {
 <section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; 
 <span class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section>
 <script   src="/js/jquery-3.min.js"></script>
-<script   src="/js/bootstrap.min.js"></script>
-<script   src="/js/slick.min.js"></script>
-<script   src='https://www.google.com/recaptcha/api.js'></script>
+<script async  src="/js/bootstrap.min.js"></script>
+<script  async src="/js/slick.min.js"></script>
+<script async  src='https://www.google.com/recaptcha/api.js'></script>
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 $('.map-container')
