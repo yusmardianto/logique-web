@@ -102,7 +102,7 @@ if(isset($_POST['submitted']))
     </script>
  </head>
 
- <body>
+ <body class="wrapper" style="overflow: hidden;">
      <style>
      .logique-nav {
          left: 0;
@@ -194,13 +194,13 @@ if(isset($_POST['submitted']))
                  <div class="row">
                      <div class="col-sm-offset-1 col-sm-11">
                          <div class="container">
+                             <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
+                                     class="img-responsive logo--update-design" /></a>
                              <ul class="list-inline">
                                  <li><a href="/en/product/nippo.php" target="_blank">EN</a></li>
                                  <li><a href="/produk/nippo.php" target="_blank">ID</a></li>
                                  <li class="active"><a href="#">JP</a></li>
                              </ul>
-                             <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
-                                     class="img-responsive logo--update-design" /></a>
                          </div>
                      </div>
                  </div>
@@ -284,19 +284,19 @@ if(isset($_POST['submitted']))
                      <span class="Kenapa-Harus-Menggun">Nippo導入のメリット</span><br>
                      <img src="img/nippo/LogoNippo-kecil.png" alt="Nippo Logo" style="padding: 10px">
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-1.png" alt="Nippo導入のメリット">
                      <div class="Dapat-diakses-melalu">モバイルからも入力可能なので出先からの日報入力が可能です。</div>
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-2.png" alt="Nippo導入のメリット">
                      <div class="Dapat-diakses-melalu">とても簡単で直感的なUIです。<br><br><br><br></div>
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-3.png" alt="Nippo導入のメリット">
                      <div class="Dapat-diakses-melalu">プロジェクト毎、タスク毎、人別に、原価工数管理・集計が可能です。</div>
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-4.png" alt="Nippo導入のメリット">
                      <div class="Dapat-diakses-melalu">スタッフの自己評価、スーパーバイザーの評価を日々管理でき、集計も可能です。</div>
                  </div>
@@ -502,6 +502,10 @@ if(isset($_POST['submitted']))
 
                  <div class="row row-fix-2">
                      <div class="col-md-offset-1 col-md-10">
+                         <div class="text-center">
+                            <a class="font-16" href="https://drive.google.com/file/d/1YKjRKuNe2IChWBjZYg2jPCnBqgTWawVZ/view" target="_blank"><b>Download user manual (ID)</b></a>
+                         </div>
+                         <br>
                          <ol>
                              <li class="-Bagaimana-cara-ke">
                                  <h3><b>Nippoってどんなツールなの？</b></h3>
