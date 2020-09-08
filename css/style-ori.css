@@ -12,13 +12,13 @@
 }
 @font-face {
     font-family: 'Novecentosanswide-medium';
-    src: url('../fonts/Novecentosanswide-Medium.otf') format('otf'), 
+    src: url('../fonts/Novecentosanswide-Medium.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Novecentosanswide-normal';
-    src: url('../fonts/Novecentosanswide-Normal.otf') format('otf'), 
+    src: url('../fonts/Novecentosanswide-Normal.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 }
@@ -1907,6 +1907,7 @@ left: -70px;
     background-color: transparent;
     font-weight: bold;
     margin-bottom: 0;
+    word-break: break-all;
 }
 
 .breadcrumb--update-design a {
@@ -1943,7 +1944,7 @@ left: -70px;
 
 .lang-logo--update-design .breadcrumb>.active,
 .lang-logo .breadcrumb>.active {
-    color: #66657
+    color: #666;
 }
 
 .workflow-container {

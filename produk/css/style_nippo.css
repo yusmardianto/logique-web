@@ -151,7 +151,7 @@ span, p {cursor: default;}
 
 .Rectangle-2-Copy {
     width: 60%;
-    height: 47px;
+    height: auto;
     background-color: #000000;
     padding-top: 15px;
     text-align: center;
@@ -205,7 +205,14 @@ span, p {cursor: default;}
   z-index: 9;
   margin-top: -85px;
   background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
   border-bottom: solid 10px #000;
+}
+@media (max-width: 1439.98px) {
+  .laptop {
+    height: 1150px;
+  }
 }
 .Rectangle-2-Copy-2 {
   width: 402px;
@@ -464,7 +471,7 @@ span, p {cursor: default;}
 }
 .NIPPO-system-menyedi {
   width: 100%;
-  height: 105px;
+  /* height: 105px; */
   font-size: 13px;
   font-weight: normal;
   font-style: normal;
@@ -491,6 +498,10 @@ span, p {cursor: default;}
 .p-l-25 {padding-left: 25%;}
 .lg-1{margin-top: -3.5em;}
 
+@media (max-width: 1439.98px) {
+  .div-fitur {margin-left: 6em;}
+}
+
 /* Half Size Desktop */
 @media (min-width: 1031px) and (max-width: 1199px) {
   .NIPPO-SYSTEM {font-size: 50px;}
@@ -498,7 +509,7 @@ span, p {cursor: default;}
   .layer {font-size: 110px;}
   .Rectangle-2-Copy {width: 85%;}
   .Rectangle-2-Copy-2 {margin-top: 4.8em;}
-  .Rectangle-3 {height: auto; padding-bottom: 4em;}
+  .Rectangle-3 {height: calc(100% + 60px); padding-bottom: 4em;}
   .laptop {background-size: 120%; background-position-x: center;}
   .laptop .div-fitur {margin-top: 5.3em;}
   .laptop .row-fix-3 .col-md-offset-2 {margin-left: 4%;}
@@ -550,11 +561,11 @@ span, p {cursor: default;}
   .container{padding-left: 0; padding-right: 0;}
   .Rectangle-2 {width: 100%;margin-left: 0}
   /* .Rectangle-3 {height: 100%;padding: 2em 6em 5em;} */
-  .Rectangle-3 {min-height: 800px;padding: 2em 0 4em;}
+  .Rectangle-3 {height: calc(100% + 100px);padding: 2em 0 4em;}
   .hidden-sm {display: none !important}
   .hidden-md {display: block !important}
   .laptop{background: none;}
-  .Rectangle-2-Copy{width: 100%;height: 100%;padding-bottom: 10px;margin-left: 0}
+  .Rectangle-2-Copy{width: 100%;padding-bottom: 10px;margin-left: 0}
   .Rectangle-2-Copy-4{width: 100%;height: auto;padding-bottom: 10px;margin-right: 0;margin-top: 0}
   .Rectangle-2-Copy-2{width: 100%;margin-top: 5.6em;}
   .laptop {height: auto;}
@@ -638,7 +649,7 @@ body {overflow-x: hidden;}
 .SISTEM-LAPORAN-KERJA{font-size: 18px}
 .Nippo-adalah-aplikas{padding: 10px}
 .Dapat-diakses-melalu{padding-bottom: 1em}
-.Rectangle-2-Copy{width: 100%;height: 100%;padding-bottom: 10px;margin-left: 0}
+.Rectangle-2-Copy{width: 100%;padding-bottom: 10px;margin-left: 0}
 .div-fitur {margin: auto;}
 .row-fix{margin-right: -15px;}
 .row-fix-2{margin-top: -6em}
@@ -651,6 +662,18 @@ body {overflow-x: hidden;}
 .Rectangle-10{width:100px}
 .OH1E290{width: 104%}
 .Rectangle{width: 96.3%}
+.manfaat__item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.manfaat__item > img {
+  max-width: 130px;
+  margin-right: 20px;
+}
+.manfaat__item > div {
+  text-align: left;
+}
 }
 .language-btn {position: absolute;right: 1.5em;top: 1.5em;z-index: 9}
 .logo-top__absolute {position: absolute;padding: 8px 15px 5px; top: 1.5em; left: 1.5em; border-radius: 10px; background-color: rgba(74, 74, 77, 0.4);}
