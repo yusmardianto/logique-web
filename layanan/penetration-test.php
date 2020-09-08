@@ -1084,11 +1084,23 @@
                     </div>
                 </div>
                 <div class="row gallery-container">
-                    <div class="col-xs-12 col-sm-4 col-md-4 col-sm-offset-4 article-container">
+                    <div class="col-xs-12 col-sm-4 col-md-4 col-sm-offset-2 article-container">
                         <div class="img-container">
                             <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
                             <a href="/white-paper-web-dev-3.php" target="_blank">
                                 <p class="gallery-title">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</p>
+                                <p class="gallery-content">Download</p>
+                            </a>
+                        </div>
+                    </div>  
+                    <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                        <div class="img-container">
+                            <picture>
+                                <source srcset="assets/img/img-webdev/gly4.webp">
+                                <img loading="lazy" src="assets/img/img-webdev/gly4.jpg" class="img-responsive">
+                            </picture>
+                            <a href="/white-paper-ancaman-serangan-web-application.php" target="_blank">
+                                <p class="gallery-title">Ancaman Serangan pada Web Application</p>
                                 <p class="gallery-content">Download</p>
                             </a>
                         </div>
