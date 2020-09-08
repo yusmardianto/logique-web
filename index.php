@@ -250,14 +250,18 @@
             </div>
           </div>
       </section>
+      <?php if(is_mobile()){
 
-      <div class="contain-video wrapper--update-design">
+      }else{ ?>
+          <div class="contain-video wrapper--update-design">
         <video poster="img/video-img-min.jpg" id="bgvid" playsinline autoplay muted loop style="display:block!important">
           <source src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
           <source src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
         </video>
          
       </div>
+      <?php } ?>
+      
 
       <div class="bg-white-opacity"></div>
 
@@ -798,6 +802,24 @@
         // }
         });
     </script>
+    <?php 
+      function is_mobile() {
+        if ( empty( $_SERVER['HTTP_USER_AGENT'] ) ) {
+            $is_mobile = false;
+        } elseif ( strpos( $_SERVER['HTTP_USER_AGENT'], 'Mobile' ) !== false // Many mobile devices (all iPhone, iPad, etc.)
+            || strpos( $_SERVER['HTTP_USER_AGENT'], 'Android' ) !== false
+            || strpos( $_SERVER['HTTP_USER_AGENT'], 'Silk/' ) !== false
+            || strpos( $_SERVER['HTTP_USER_AGENT'], 'Kindle' ) !== false
+            || strpos( $_SERVER['HTTP_USER_AGENT'], 'BlackBerry' ) !== false
+            || strpos( $_SERVER['HTTP_USER_AGENT'], 'Opera Mini' ) !== false
+            || strpos( $_SERVER['HTTP_USER_AGENT'], 'Opera Mobi' ) !== false ) {
+                $is_mobile = true;
+        } else {
+            $is_mobile = false;
+        }
+     
+    }
+    ?>
 </body>
 
 </html>
