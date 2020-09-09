@@ -1,5 +1,4 @@
-﻿@charset "UTF-8";
-
+﻿@charset "UTF-8"; 
 @import url('/css/style-revamp.css');
 @import url('/css/sidebar-update.css');
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
@@ -9,18 +8,21 @@
         url('../fonts/Bebas.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Novecentosanswide-medium';
     src: url('../fonts/Novecentosanswide-Medium.otf') format('otf');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: 'Novecentosanswide-normal';
     src: url('../fonts/Novecentosanswide-Normal.otf') format('otf');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
@@ -2614,13 +2616,13 @@ html[lang=ja] .partner-section .div-main p {
         margin-bottom: 20px
     }
     #bgImg .img {
-        background-image: url(../img/video-img.png)
+        background-image: url(../img/video-img-min.jpg);
     }
     .top-only #bgImg .img {
         background-image: none
     }
     .top-only {
-        background-image: url(../img/video-img.png);
+        background-image: url(../img/video-img-min.jpg);
         background-size: cover
     }
      .studi-kasus >div{
@@ -2829,7 +2831,7 @@ video {
 }
 
 video {
-    background: url(../img/video-img.png) no-repeat;
+    background: url(../img/video-img-min.jpg) no-repeat;
     background-size: cover
 }
 
