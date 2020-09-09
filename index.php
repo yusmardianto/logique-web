@@ -99,13 +99,13 @@
 
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <link rel="stylesheet" href="css/style-ori.css" >
-  <link rel="stylesheet  " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
-    <noscript> 
+  <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+    <!-- <noscript> 
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slick-theme.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css"> 
-  </noscript> 
+  </noscript>  -->
 </head>
 
 <body class="frontpage">
@@ -524,7 +524,7 @@
                 <div class="item__hover">
                   <picture>
                     <source srcset="/img/top/indonesea.svg">
-                    <img src="/img/top/indonesea.png" alt="">
+                    <img src="/img/top/indonesea.png" alt=""  loading="lazy">
                   </picture>
                   <div>
                     <h4>Indonesea</h4>
@@ -542,7 +542,7 @@
                 <div class="item__hover">
                   <picture>
                     <source srcset="/img/top/pan-pacific.svg">
-                    <img src="/img/top/pan-pacific.png" alt="">
+                    <img src="/img/top/pan-pacific.png" alt=""  loading="lazy">
                   </picture>
                   <div>
                     <h4>Pan Pacific</h4>
