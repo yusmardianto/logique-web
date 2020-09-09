@@ -110,10 +110,11 @@ span, p {cursor: default;}
 
 .Rectangle-3 {
   width: 100%;
-  height: 550px;
+  /* height: 550px; */
   opacity: 0.8;
   background-color: #10bb67;
   /* padding: 0 6em; */
+  padding-bottom: 4em;
 }
 .Kenapa-Harus-Menggun {
   width: 423px;
@@ -212,7 +213,7 @@ span, p {cursor: default;}
 }
 .Rectangle-2-Copy-2 {
   width: 402px;
-  height: 47px;
+  /* height: 47px; */
   background-blend-mode: multiply;
   background-image: linear-gradient(#50e3c2, #50e3c2);
   padding-top: 15px;
@@ -249,7 +250,7 @@ span, p {cursor: default;}
 
 .Mask-Copy {
   width: 100%;
-  height: 798px;
+  min-height: 798px;
   background-color: #eaeaeb;
   padding: 5em 7em;
 }
@@ -273,13 +274,13 @@ span, p {cursor: default;}
   letter-spacing: 3px;
 }
 .Rectangle-6 {
-  width: 15.5em;
+  /* width: 15.5em; */
   height: 14px;
   background-color: #50e3c2;
   margin-top: 4px;
 }
 .Rectangle {
-  width: 345px;
+  width: calc(100% - 30px);
   min-height: 155px;
   background-blend-mode: multiply;
   background-image: linear-gradient(rgba(6, 6, 6, 0.65), rgba(74, 74, 77, 0.9));
@@ -308,13 +309,14 @@ span, p {cursor: default;}
 }
 .Rectangle:hover {background-color: #4fe3c3;}
 .OH1E290 {
-  width: 345px;
+  /* width: 345px; */
   height: 286px;
 }
 
 .OH1E290 img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
 }
 
 .Rectangle-7 {
@@ -322,6 +324,7 @@ span, p {cursor: default;}
   height: auto;
   background-color: #eafbf7;
   border-top: solid 10px #000;
+  padding-bottom: 3em;
 }
 .Rectangle-2-Copy-4 {
   width: 60%;
@@ -495,6 +498,19 @@ span, p {cursor: default;}
 
 @media (max-width: 1439.98px) {
   .div-fitur {margin-left: 6em;}
+  .OPSA3E0 .OPSA3E0__section--desktop img {
+    max-width: 60px;
+    height: auto;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .OPSA3E0 .OPSA3E0__section--desktop > div[style="padding-top: 7em; "] {
+    padding-top: 5em !important;
+  }
+  .OPSA3E0 .OPSA3E0__section--desktop img {
+    max-width: 50px;
+  }
 }
 
 /* Half Size Desktop */
@@ -504,13 +520,13 @@ span, p {cursor: default;}
   .layer {font-size: 110px;}
   .Rectangle-2-Copy {width: 85%;}
   .Rectangle-2-Copy-2 {margin-top: 4.8em;}
-  .Rectangle-3 {height: auto; padding-bottom: 4em;}
+  /* .Rectangle-3 {padding-bottom: 4em;} */
   .laptop {background-size: 120%; background-position-x: center;}
-  .laptop .div-fitur {margin-top: 5.3em; margin-left: 4em;}
+  /* .laptop .div-fitur {margin-top: 5.3em; margin-left: 4em;} */
   .laptop .row-fix-3 .col-md-offset-2 {margin-left: 4%;}
   .laptop .row-fix-3 .col-md-8 {width: 89%;}
-  .OH1E290 {height: auto; width: 300px;}
-  .OH1E290 .Rectangle {width: 300px;}
+  /* .OH1E290 {width: 300px;} */
+  /* .OH1E290 .Rectangle {width: 300px;} */
 }
 
 /* iPad Pro Landscape Settings */
@@ -565,11 +581,12 @@ span, p {cursor: default;}
   .container{width:100%;padding-left: 0; padding-right: 0;}
   .Mask {height: 250px;}
   .Rectangle-2 {width: 100%;margin-left: 0}
-  .Rectangle-3 {height: 100%;padding: 2em 6em 5em;}
+  /* .Rectangle-3 {height: 100%;padding: 2em 6em 5em;} */
   .hidden-sm {display: none !important}
   .hidden-md {display: block !important}
   .laptop{background: none;}
-  .Rectangle-2-Copy{width: 100%;height: 100%;padding-bottom: 10px;margin-left: 0}
+  /* .Rectangle-2-Copy{width: 100%;height: 100%;padding-bottom: 10px;margin-left: 0} */
+  .Rectangle-2-Copy{margin: auto;}
   .Rectangle-2-Copy-4{width: 100%;height: auto;padding-bottom: 10px;margin-right: 0;margin-top: 0}
   .Rectangle-2-Copy-2{width: 100%;margin-top: 5.6em;}
   .laptop {height: auto; padding-bottom: 2em;}
@@ -581,11 +598,11 @@ span, p {cursor: default;}
   .laptop .row-fix-3 .col-md-8 {width: 83.33333333%;}
   .question {display: none;}
   .OPSA3E0 {padding-top: 0;}
-  .OH1E290 {width: 410px; height: auto;}
-  .OH1E290 .Rectangle {width: 410px;}
-  .Mask-Copy {height: 100%; padding: 0 5em 7em;}
-  .Mask-Copy .col-md-4.text-left:nth-child(1) {width: 100%; margin-bottom: 4em;}
-  .Mask-Copy .col-md-4 {width: 50%;}
+  /* .OH1E290 {width: 410px; height: auto;} */
+  /* .OH1E290 .Rectangle {width: 410px;} */
+  /* .Mask-Copy {height: 100%; padding: 0 5em 7em;} */
+  .Mask-Copy .col-md-4.text-left:nth-child(1) {margin-bottom: 4em;}
+  /* .Mask-Copy .col-md-4 {width: 50%;} */
   .Mask-Copy .m-top-0 .col-md-4:nth-last-child(1) {margin-top: 4em;}
   .NIPPO-SYSTEM {position: relative;letter-spacing: 5px;font-size: 36px;}
   .NIPPO-SYSTEM-Copy{letter-spacing: 5px;font-size: 36px;top:10px;position: relative;}
@@ -594,8 +611,8 @@ span, p {cursor: default;}
 
 /* Mobile Medium landscape */
 @media (max-width: 815px) and (orientation: landscape) {
-  .OH1E290 {width: 385px !important;}
-  .Mask-Copy .Rectangle {width:385px !important}
+  /* .OH1E290 {width: 385px !important;}
+  .Mask-Copy .Rectangle {width:385px !important} */
   .Mask-Copy .col-md-4.text-left:nth-child(1) {margin-bottom: 0;}
   .Mask-Copy .col-md-4 {padding: 15px;}
   .Mask-Copy .m-top-0 .col-md-4:nth-last-child(1) {margin-top: 0;}
@@ -604,19 +621,19 @@ span, p {cursor: default;}
 
 /* Mobile small landscape */
 @media (max-width: 740px ) and (orientation: landscape){
-  .OH1E290 {width: 320px !important;}
-  .Mask-Copy .Rectangle {width:320px !important}
+  /* .OH1E290 {width: 320px !important;}
+  .Mask-Copy .Rectangle {width:320px !important} */
 }
 
 /* Mobile xs */
 @media (max-width: 325px) {
-  .Mask-Copy .Rectangle {width:94%}
+  /* .Mask-Copy .Rectangle {width:94%} */
 }
 
 /* Mobile xs */
 @media (max-width: 570px ) and (orientation: landscape){
-  .OH1E290 {width: 250px !important;}
-  .Mask-Copy .Rectangle {width:250px !important}
+  /* .OH1E290 {width: 250px !important;}
+  .Mask-Copy .Rectangle {width:250px !important} */
 }
 
 /*Mobile Setting*/
@@ -661,8 +678,8 @@ body {overflow-x: hidden;}
 .Rectangle-2-Copy-4{width: 100%;height: auto;padding-bottom: 10px;margin-right: 0;margin-top: 0}
 .KONTAK-KAMI{font-size: 26px;text-align: center;padding-bottom: 1em;}
 .Rectangle-10{width:100px}
-.OH1E290{width: 104%}
-.Rectangle{width: 96.3%}
+.OH1E290{margin-bottom: 15px;}
+.Rectangle{bottom: 15px;}
 .manfaat__item {
   display: flex;
   align-items: center;
