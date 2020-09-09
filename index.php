@@ -98,7 +98,7 @@
   -->
 
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet" href="css/style-ori.css" >
+  <link rel="stylesheet" href="css/style.css" >
   <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
     <!-- <noscript> 
     <link rel="stylesheet" href="css/slick.css">
