@@ -196,12 +196,6 @@ section.maintop {
     }
 }
 
-@media (max-width: 740px) and (orientation: landscape) {
-    .lang-logo--update-design .list-inline {
-        right: 5em !important;
-    }
-}
-
 .logo {
     max-width: 235px; 
     margin-top: 16px;
