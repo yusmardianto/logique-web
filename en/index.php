@@ -474,10 +474,16 @@
  
                     <div class="flex__row case-study__slide">
                         <div class=" row__item top-2">
-                            <img src="/img/case-study-1.png" class="img-responsive" alt="">
+                        <picture>
+                            <source srcset="/img/case-study-1.webp">
+                            <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
+                        </picture>
                             <a href="/en/case-study/caroline-bidding-system/">
                                 <div class="item__hover">
-                                <img src="/img/top/i-caroline-update.png" alt="">
+                                <picture>
+                                    <source srcset="/img/top/i-caroline-update.webp">
+                                    <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
+                                </picture>
                                 <h4>Situs Jual Beli dengan Sistem Penawaran Online <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
                                 <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -485,10 +491,16 @@
                             </a>
                         </div>
                         <div class=" row__item top-2">
-                            <img src="/img/case-study-2.png" class="img-responsive" alt="">
+                        <picture>
+                            <source srcset="/img/case-study-2.webp">
+                            <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
+                        </picture>
                             <a href="/en/case-study/jba-auction-system">
                                 <div class="item__hover">
-                                <img src="/img/top/i-jba-update.png" alt="">
+                                <picture>
+                                        <source srcset="/img/top/i-jba-update.webp">
+                                        <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
+                                    </picture>
                              
                                 <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
                                 <p>JBA is the largest car and motorcycle auction company in Indonesia. For JBA, we have been trusted in developing almost all systems used which include the main systems. 
@@ -499,10 +511,17 @@
                             </a>
                         </div>
                         <div class="row__item --sm">
-                            <img src="/img/case-study-3.png" class="img-responsive" alt="">
+                        <picture>
+                            <source srcset="/img/case-study-3.webp">
+                            <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
+                        </picture>
                             <a href="/en/case-study/opuspark/">
                                 <div class="item__hover">
-                                    <img src="/img/top/i-opus-park.png" alt="">
+                                    
+                                    <picture>
+                                    <source srcset="/img/top/i-opus-park.webp">
+                                    <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
+                                    </picture>  
                                     <div>
                                         <h4>Opus Park Sentul</h4>
                                         <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -511,10 +530,16 @@
                             </a>
                         </div>
                         <div class="row__item --sm">
-                            <img src="/img/case-study-4.png" class="img-responsive" alt="">
+                        <picture>
+                            <source srcset="/img/case-study-4.webp">
+                            <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
+                        </picture>
                             <a href="/en/case-study/zuttoride-customer-management-system/">
                                 <div class="item__hover">
-                                    <img src="/img/top/i-zuttoride-update.png" alt="">
+                                <picture>
+                                <source srcset="/img/top/i-zuttoride-update.webp">
+                                <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
+                                </picture> 
                                     <div>
                                         <h4>Zutto Ride Indonesia</h4>
                                         <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -523,10 +548,16 @@
                             </a>
                         </div>
                         <div class="row__item --sm">
-                            <img src="/img/case-study-5.png" class="img-responsive" alt="">
+                        <picture>
+                            <source srcset="/img/case-study-5.webp">
+                            <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
+                        </picture>
                             <a href="/en/case-study/vip-plaza-progressive-web-app/">
                                 <div class="item__hover">
-                                    <img src="/img/top/i-vipplaza-update.png" alt="">
+                                <picture>
+                                    <source srcset="/img/top/i-vipplaza-update.webp">
+                                    <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
+                                </picture> 
                                     <div>
                                         <h4>VIP Plaza</h4>
                                         <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -560,8 +591,8 @@
                             <a href="/case-study/indonesea/">
                                 <div class="item__hover">
                                     <picture>
-                                        <source srcset="/img/top/indonesea.svg">
-                                        <img src="/img/top/indonesea.png" alt="">
+                                        <source srcset="/img/top/indonesea-min.webp" >
+                                        <img src="/img/top/indonesea.png" alt=""  class="img-responsive" >
                                     </picture>
                                     <div>
                                         <h4>Indonesea</h4>
@@ -649,6 +680,27 @@
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
+                        <div class="col-sm-6 col-xs-12 row__item">
+                        <a href="contact-us.php" class="item item--contact">
+                        <picture>
+                            <source srcset="/img/smartphone.webp">
+                            <img src="/img/smartphone.png"   alt=""  loading="lazy">
+                            </picture>
+                            
+                            <h3>Contact Us</h3>
+                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                        </a>
+                        </div>
+                        <div class="col-sm-6 col-xs-12 row__item">
+                        <a href="../career/" class="item item--career">
+                        <picture>
+                            <source srcset="/img/businessman.webp">
+                            <img src="/img/businessman.png"   alt=""  loading="lazy">
+                            </picture> 
+                            <h3>Career</h3>
+                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                        </a>
+                        </div>
                     </div>
                     <!-- <div class="row">
                         <div class="col-sm-12">
@@ -676,6 +728,127 @@
                     </div> -->
                 </div>
             </section>
+            <section class="content-article  bg--white"  >
+        <div class="container__">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="title">Related Article</p>
+                </div>
+            </div>
+            <div class="row">
+            <div class="col-md-12">
+            <div class="carousel slide multi-item-carousel" id="theCarousel">
+                        <div class="carousel-inner">
+                             
+                             <?php  
+                                    function shorten_string($string, $wordsreturned)
+                                {
+                                  $retval = $string;
+                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                  $string = str_replace("\n", " ", $string);
+                                  $array = explode(" ", $string);
+                                  if (count($array)<=$wordsreturned)
+                                  {
+                                    $retval = $string;
+                                  }
+                                  else
+                                  {
+                                    array_splice($array, $wordsreturned);
+                                    $retval = implode(" ", $array)." ...";
+                                  }
+                                  return $retval;
+                                }
+                                function tgl_indo($tanggal){
+                                    $bulan = array (
+                                        1 =>   'Januari',
+                                        'Februari',
+                                        'Maret',
+                                        'April',
+                                        'Mei',
+                                        'Juni',
+                                        'Juli',
+                                        'Agustus',
+                                        'September',
+                                        'Oktober',
+                                        'November',
+                                        'Desember'
+                                    );
+                                    $pecahkan = explode('-', $tanggal);
+                                    
+                                    // variabel pecahkan 0 = tanggal
+                                    // variabel pecahkan 1 = bulan
+                                    // variabel pecahkan 2 = tahun
+                                 
+                                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                                }
+                                    $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?tags=924&per_page=5&_embed');
+                                
+                                        $x = 0;
+
+                                       $remote_posts = json_decode( $url ); 
+                                       // printf('<pre>'); 
+                                       //  var_dump($url);
+                                       // printf('</pre>');
+                                        foreach( $remote_posts as $remote_post ) { 
+                                            $thumb_full_url = '';
+                                            $thumb_url = '';
+
+                                            if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
+                                                $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
+                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                            }
+                                            if($x==0) { 
+                                            ?>
+                                            <div class="item active ">
+                                             <?php } else{
+                                                echo ' <div class="item ">';
+                                             }
+
+                                             ?> 
+                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                        <div class="img-container">
+                                                            <img src="<?=$thumb_full_url?>" class="img-responsive" loading="lazy"v>
+                                                        </div>
+                                                        <div class="content-container">
+                                                            <a href="<?=$remote_post->link?>" target="_blank">
+                                                                <p class="title"><?=$remote_post->title->rendered?></p>
+                                                            </a>
+                                                            <p class="content"><?php 
+                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                             $array =  shorten_string($array, 25); 
+                                                            echo $array;
+                                                             ?></p>
+                                                            <p class="date"><?php 
+                                                            $tanggal = date(' Y-m-d', strtotime($remote_post->date));
+                                                            $idtanggal = tgl_indo($tanggal);
+                                                            echo $idtanggal  ;  ?> | By <?php 
+                                                              echo $remote_post->_embedded->author[0]->name;
+                                                            ?></p>
+                                                        </div>
+                                                    </div>
+                                               
+                                            </div>
+                                             
+                                       <?php  $x++;
+                                   }
+                                     
+                                ?> 
+                        
+                        <!--  Example item end -->
+                        </div>
+                        <ol class="carousel-indicators article-indicators">
+                            <li data-target="#theCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#theCarousel" data-slide-to="1"></li>
+                            <li data-target="#theCarousel" data-slide-to="2"></li>
+                            <li data-target="#theCarousel" data-slide-to="3"></li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+                
+            </div>
+        </div>
+    </section>
         </div>
     </div>
 
@@ -728,7 +901,19 @@
          $('.showless').css('display','none'); 
          $('.showmore').css('display','inline-block');  
         })
- 
+        $('.multi-item-carousel .item').each(function(){
+        var next = $(this).next();
+        if (!next.length) {
+            next = $(this).siblings(':first');
+        }
+        next.children(':first-child').clone().appendTo($(this));
+        
+        // if (next.next().length>0) {
+        //     next.next().children(':first-child').clone().appendTo($(this));
+        // } else {
+        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+        // }
+        });
   </script>
 
 </body>
