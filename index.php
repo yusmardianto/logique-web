@@ -726,10 +726,10 @@
                         <!--  Example item end -->
                         </div>
                         <ol class="carousel-indicators article-indicators">
-                            <li data-target="#theCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#theCarousel" data-slide-to="1"></li>
-                            <li data-target="#theCarousel" data-slide-to="2"></li>
-                            <li data-target="#theCarousel" data-slide-to="3"></li>
+                            <li data-target="#newsCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#newsCarousel" data-slide-to="1"></li>
+                            <li data-target="#newsCarousel" data-slide-to="2"></li>
+                            <li data-target="#newsCarousel" data-slide-to="3"></li>
                         </ol>
                     </div>
                 </div>
@@ -794,7 +794,7 @@
      
         // Instantiate the Bootstrap carousel
         $('#newsCarousel').carousel({
-        interval: false
+          interval: false
         });
 
         // for every slide in carousel, copy the next slide's item in the slide.
