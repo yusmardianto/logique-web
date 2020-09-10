@@ -14,7 +14,10 @@
   font-style: normal;
   font-display: swap;
 }
-
+.flex-row{
+  display: flex;
+  flex-wrap: wrap;
+}
 .our-service__btn-wrapper {
   display: flex;
   justify-content: center;
@@ -572,7 +575,7 @@
   font-family: 'FontAwesome';
 }
 
-[class*='update-design'].wrapper--update-design-font strong, .content-wrapper__ strong  {
+[class*='update-design'].wrapper--update-design-font strong,   .footer-title span , .logo-font{
   font-family: 'Novocento Sans Wide Medium' !important;
 }
 
@@ -1017,90 +1020,81 @@ b {
 .footer-update {
   background-color: #212425;
   color: #fff;
-  padding-top: 20px;
-  padding-bottom: 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
   font-weight: 300;
 }
-
+.footer-update a{
+  color: #fff;
+}
+.footer-update h3{
+  font-size: 20px;
+}
+.footer-title span{
+  font-size: 45px;
+}
 .footer-update * {  
   font-family: 'Montserrat', sans-serif;
 }
-
-.footer-update .mr-4 {
-  margin-right: 2rem;
+.footer-update .footer-address{
+  font-size: 18px;
 }
-
-.footer-update .mb-2 {
-  margin-bottom: .5rem;
+.phone-info { 
+  margin-top: 20px;
 }
-
-.footer-update .fw--600 {
-  font-weight: 600;
+ .link-footer-nav ul{
+   padding:0;
+   margin:0; 
+ }
+ .link-footer-nav li{
+   padding-bottom: 15px;
+   list-style:none;
+ }
+ .main-footer-nav li{
+   padding-bottom: 20px;
+ }
+ .link-footer-nav li:last-child{
+   padding-bottom: 0;
+ }
+ .main-footer-nav li a,  .link-footer-nav li:first-child a{
+  font-weight: bold;
+ }
+ .link-footer-nav li li a{
+   font-weight: normal !important;
+ }
+ .footer-update a:hover, .link-footer-nav li a:hover{
+   color:#ffca13;
+ }
+ .link-footer-nav li li{
+   padding:10px 0 0 10px;
+ }
+.phone-info li{
+  padding-bottom: 5px;
+  list-style: none;
+ }
+ footer .medsos-new{
+   padding-top: 20px;
+ }
+.link-footer{
+  padding-top: 20px;
 }
-
-.footer-update a {
-  color: #fff;
-}
-
-.footer-update a:hover {
-  color: #ffca13;
-}
-
-.footer-update h4 {
-  font-size: 22px;
-  padding-bottom: 40px;
-  font-weight: 600;
-}
-
-.footer-update p {
-  line-height: 32px;
-}
-
-.footer-update ul:not(.list-unstyled) {
-  list-style: square;
-  padding-left: 20px;
-}
-
-.footer-update ul:not(.list-unstyled) > li {
-  padding-bottom: 30px;
-  font-weight: 300;
-}
-
-.footer-update ul.footer__contact > li {
-  font-size: 20px;
-  margin-bottom: 15px;
-}
-
-.footer-update ul.footer__contact > li i {
-  font-size: 28px;
-}
-
-.footer-update ul.footer__social {
-  padding-left: 0;
-}
-
-.footer-update ul.footer__social > a > li {
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  margin: 10px 15px 20px 0;
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  border: solid 1px #fff;
-}
-
-.footer-update ul.footer__social > a:hover > li,
-.footer-update ul.footer__social > a:hover > li a {
-  border-color: #ffca13;
-}
-
-.footer-update ul.footer__social > a > li > i {
-  font-size: 20px;
-}
+footer .medsos-new li{
+    padding: 0 5px;
+    text-align: center;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #fff;
+    width: 30px;
+    height: 30px;
+    border-radius:50%;
+    margin-right: 8px;
+ }
 footer .medsos-new li > a{
-  height: 35px;
-  width: 30px;
+  height: 17px;
+  width: 17px;
   display: inline-block;
 }
 footer .medsos-new .instagram-icon{ 
@@ -1480,7 +1474,9 @@ footer .medsos-new .facebook-icon:hover{
   color: #515151;
   font-size: 14px;
 }
+.footer-title{
 
+}
 /* dm */
 #portfolio_dm .flex__row > div {
   margin-bottom: 40px;
@@ -1661,6 +1657,12 @@ footer .medsos-new .facebook-icon:hover{
   }
   .case-study .row__item.morecs{
     display: inline-block !important;
+  }
+  .company-info{
+    order: 2;
+  }
+  .company-footer-nav{
+    order: 1;
   }
 }
 @media (max-width: 414px) {

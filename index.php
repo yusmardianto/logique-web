@@ -15,7 +15,7 @@
           || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mobi') !== false) {
           $is_mobile = true;
       } else {
-          $is_mobile = false;
+          $is_mobile = true;
       }
       return $is_mobile;
   }
@@ -523,8 +523,8 @@
               <a href="/case-study/indonesea/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/indonesea.svg">
-                    <img src="/img/top/indonesea.png" alt=""  loading="lazy">
+                    <source srcset="/img/top/indonesea-min.webp">
+                    <img src="/img/top/indonesea.png" alt=""  loading="lazy"  class="img-responsive" > 
                   </picture>
                   <div>
                     <h4>Indonesea</h4>
@@ -625,8 +625,8 @@
                 </div>
             </div>
             <div class="row">
-<div class="col-md-12">
-<div class="carousel slide multi-item-carousel" id="theCarousel">
+            <div class="col-md-12">
+            <div class="carousel slide multi-item-carousel" id="newsCarousel">
                         <div class="carousel-inner">
                              
                              <?php  
@@ -793,25 +793,25 @@
         })
      
         // Instantiate the Bootstrap carousel
-        $('.multi-item-carousel').carousel({
+        $('#newsCarousel').carousel({
         interval: false
         });
 
         // for every slide in carousel, copy the next slide's item in the slide.
         // Do the same for the next, next item.
-        $('.multi-item-carousel .item').each(function(){
-        var next = $(this).next();
-        if (!next.length) {
-            next = $(this).siblings(':first');
-        }
-        next.children(':first-child').clone().appendTo($(this));
-        
-        // if (next.next().length>0) {
-        //     next.next().children(':first-child').clone().appendTo($(this));
-        // } else {
-        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
-        // }
-        });
+        $('#newsCarousel .item').each(function(){
+          var next = $(this).next();
+          if (!next.length) {
+              next = $(this).siblings(':first');
+          }
+          next.children(':first-child').clone().appendTo($(this));
+          
+          // if (next.next().length>0) {
+          //     next.next().children(':first-child').clone().appendTo($(this));
+          // } else {
+          //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+          // }
+          });
       }); 
     </script>
 

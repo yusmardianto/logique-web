@@ -1954,7 +1954,6 @@ left: -70px;
     margin-top: -20px
 }
 
-.footer-title,
 .services #vacancy .fa-ul li {
     margin-bottom: 10px
 }
@@ -2128,80 +2127,7 @@ footer {
     font-size: 14px;
     text-align: justify
 }
-
-footer h5,
-footer h6 {
-    font-size: 14px;
-}
-
-.footer-title,
-.link-footer-nav,
-.title-bg-grey {
-    font-weight: 700
-}
-.link-footer-nav ul li{
-    list-style: none;
-
-}
-.link-footer-nav ul li  ul{
-    padding-left: 20px;
-}
-.link-footer-nav li a{
-    font-weight: normal;
-    padding-bottom: 10px;
-    display: block;
-}
-.link-footer-nav .have-submenu a{
-    padding: 8px 0;
-    line-height: normal;
-
-}
-.link-footer-nav > ul > li{
-    border-bottom: 1px dotted #666;
-}
-.link-footer-nav > ul > li > a{
-    padding: 8px 0;
-    line-height: normal;
-    }
-    
-.link-footer-nav > ul > li.have-submenu > ul > li:first-child  > a{
-    padding-top: 0;
  
-}
-.link-footer-nav > ul > li.have-submenu > ul > li:last-child  > a{
-    padding-bottom: 8px;
-    }
-.link-footer-nav .have-submenu li.have-submenu li a{
-    font-size: 12px;
-    padding: 1px 0;
-    
-}
-.link-footer-nav .have-submenu li li {
-    list-style: disc;
-    
-}
-footer a, footer a:focus {
-    color: #fff;
-}
-
-footer a:hover {
-    color: #ffca13;
-}
-
-.link-footer {
-    text-align: left
-}
-
-@media (min-width: 768px) {
-    .link-footer p {
-        margin-bottom: 45px;
-    }
-}
-
-.footer-title {
-    font-size: 16px
-}
-
 .copyright {
     font-size: 12px
 }
@@ -3157,16 +3083,7 @@ blockquote {
     width: 100%;
     margin: 60px 0
 }
-
-.copyright-career {
-    padding: 15px;
-    text-align: center;
-    color: #fff;
-    font-size: 12px;
-    border-top: 2px solid #fff;
-    border-bottom: 2px solid #fff;
-    background: #000
-}
+ 
 
 .bg-footer-new-career .btn-contact-us-black:focus,
 .bg-footer-new-career .btn-contact-us-black:hover {
@@ -4623,22 +4540,8 @@ blockquote::before {
 .btn-hubungi{padding: 10px 25px;background: #ffca13;color: #000;margin-top: 20px;}
 .font-16{font-size:16px}
 .kontak-img{height: 400px;width: 100%;object-fit: cover;object-position: 0 -30px;}
-.medsos-new .fa{font-size:35px;margin-top:10px}
-.medsos-new .fa-facebook-official:hover{color:#3b5999}
-.medsos-new .fa-twitter:hover{color:#0084ff}
-.medsos-new .fa-instagram:hover{color:#e4405f}
-.medsos-new .fa-linkedin-square:hover{color:#0077B5}
-ul.medsos-new li{
-    display: inline-block;
-    padding:0 5px;
-}
-
-ul.medsos-new{
-    padding: 0;
-}
-ul.medsos-new li a{
-    font-size: 26px;
-}
+ 
+ 
 video.vd-log{
     background: none;
     position: relative;
@@ -4709,7 +4612,6 @@ video.vd-log{
     .floating-banner {top: auto;bottom: 140px;}
     .col-benefit .content-benefits .valign-center{padding:0}
     .content-benefits{height: 245px;}
-    .footer-title {margin-top: 20px;border-bottom: 2px solid #ffca13;padding-bottom: 3px;display: inline-block;}
     .carousel-home-new .carousel-control .icon-next, .carousel-home-new .carousel-control .fa-angle-right {right: 5.5%!important;position: fixed!important;top: 55%!important;}
     .carousel-home-new .carousel-control .icon-prev, .carousel-home-new .carousel-control .fa-angle-left {left: 5%!important;position: fixed!important;top: 55%!important;}
     .onhover img{width:100%!important}
