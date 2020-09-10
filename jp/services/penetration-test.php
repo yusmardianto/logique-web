@@ -178,11 +178,11 @@
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/jp/services.php"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
+                                        href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                            itemprop="name">&nbsp;Webセキュリティ診断（脆弱性診断・検査）</span></a>
+                                            itemprop="name">&nbsp;Webセキュリティ診断</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>

@@ -284,7 +284,7 @@ if(isset($_POST['submitted']))
          </div>
 
          <div class="Rectangle-3">
-             <div class="container__">
+             <div class="">
                  <div class="col-lg-12 text-center" style="padding: 45px 0">
                      <span class="Kenapa-Harus-Menggun">Why Nippo?</span><br>
                      <img src="img/nippo/LogoNippo-kecil.png" alt="Nippo Logo" style="padding: 10px">
@@ -306,6 +306,7 @@ if(isset($_POST['submitted']))
                      <img src="img/nippo/kenapa-4.png" alt="Why Nippo?">
                      <div class="Dapat-diakses-melalu">Evaluation and Self-Assessment can be conducted on a daily basis.</div>
                  </div>
+                 <div class="clearfix"></div>
              </div>
          </div>
 
@@ -314,9 +315,9 @@ if(isset($_POST['submitted']))
                  <div class="Rectangle-2-Copy">
                      <span class="Masalah-yang-sering">Problems That Companies Often Face</span>
                  </div>
-                 <section class="hidden-xs hidden-sm">
+                 <section class="hidden-xs hidden-sm OPSA3E0__section--desktop">
                      <!-- For Desktop -->
-                     <div class="col-md-12" style=" padding-top: 7em; ">
+                     <div class="col-md-12" style="padding-top: 7em; ">
                          <div class="col-md-6 text-right">
                              <div class="col-md-10"><span class="Evaluasi-kinerja-sel">A lack of objective and fair employee
                                      evaluation.
@@ -335,7 +336,7 @@ if(isset($_POST['submitted']))
                                      time.</span></div>
                          </div>
                      </div>
-                     <div class="col-md-12" style=" padding-top: 2em; ">
+                     <div class="col-md-12" style="padding-top: 2em; ">
                          <div class="col-md-6 text-right">
                              <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Where internal communication is lacking,
                                      employees themselves must find ways to evaluate
@@ -352,6 +353,7 @@ if(isset($_POST['submitted']))
                                      time on them.</span></div>
                          </div>
                      </div>
+                     <div class="clearfix"></div>
                  </section>
                  <section class="hidden-md hidden-lg">
                      <!-- For Mobile -->
@@ -479,8 +481,8 @@ if(isset($_POST['submitted']))
          </div>
 
          <div class="Mask-Copy">
-             <div class="container__">
-                 <div class="row" style=" margin-right: 0; ">
+             <div class="">
+                 <div class="row">
                      <div class="col-md-4 col-xs-12 text-left p-t-9">
                          <span class="Keuntungan-Perusahaa">Benefits of<br>
                              <span class="text-style-1">Using Nippo</span>
@@ -504,8 +506,7 @@ if(isset($_POST['submitted']))
                                  can be conducted in this way on a daily basis by mangers.</div>
                          </div>
                      </div>
-                 </div>
-                 <div class="row m-top-0" style=" margin-right: 0; margin-top: 4em">
+                     <div class="clearfix"></div>
                      <div class="col-md-4 col-xs-12 text-center">
                          <div class="OH1E290">
                              <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
@@ -532,6 +533,7 @@ if(isset($_POST['submitted']))
                                  regular workers.</div>
                          </div>
                      </div>
+                     <div class="clearfix"></div>
                  </div>
              </div>
          </div>
