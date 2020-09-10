@@ -524,7 +524,7 @@
                 <div class="item__hover">
                   <picture>
                     <source srcset="/img/top/indonesea-min.webp">
-                    <img src="/img/top/indonesea.png" alt=""  loading="lazy">
+                    <img src="/img/top/indonesea.png" alt=""  loading="lazy"  class="img-responsive" > 
                   </picture>
                   <div>
                     <h4>Indonesea</h4>
