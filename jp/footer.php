@@ -129,48 +129,52 @@ footer {
                     </div>
                     <div class="col-sm-8 company-footer-nav">
                         <div class="row">
-                            <div class="col-sm-4 link-footer-nav  main-footer-nav" >
+                            <div class="col-sm-6 link-footer-nav  main-footer-nav" >
                                 <ul>
                                     <li><a href="/jp/index.php">Home</a></li>
                                     <li><a href="/jp/logique.php">会社概要</a></li>
+                                    <li class="have-submenu"><a href="/jp/services.php">サービス</a>
+                                        <ul>
+                                            <li class="have-submenu">  <a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a> </li>
+                                            <li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
+                                            <li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
+                                            <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
+                                            <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a>
+                                                <ul>
+                                                <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>
+                                                </ul>
+                                            </li> 
+                                        </ul> 
+                                    </li>
                                     <li><a href="/jp/portfolio.php">制作開発実績</a></li>
+                                    
+                                </ul>
+                            </div> 
+                            <div class="col-sm-6 link-footer-nav">
+                                <ul>
+                                    <li class="have-submenu"><a href="/jp/product.php">プロダクト</a> 
+                                        <ul>
+                                            <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
+                                            <li><a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo  <span style="font-size: 12px;">（採用管理ツール）</span></a></li>
+                                            <li><a href="/jp/product/nippo.php" target="_blank">Nippo  <span style="font-size: 12px;">（日報＆人事評価ツール）</span></a></li>    
+                                        </ul>
+                                    </li>
                                     <li><a href="/career/">採用/パートナー (求人/インターン)</a></li>
                                     <li><a href="/jp/contact.php">お問い合わせ</a></li>  
                                     <li><a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></li>
                                 </ul>
                             </div>
-                            <div class="col-sm-4 link-footer-nav"> 
-                                <ul>
-                                    <li class="have-submenu"><a href="/jp/services.php">サービス</a> </li>
-                                    <li class="have-submenu">  <a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a> </li>
-                                    <li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
-                                    <li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
-                                    <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
-                                    <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a>
-                                        <ul>
-                                        <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>
-                                        </ul>
-                                    </li> 
-                                </ul> 
-                            </div>
-                            <div class="col-sm-4 link-footer-nav">
-                                <ul>
-                                    <li class="have-submenu"><a href="/jp/product.php">プロダクト</a> </li>
-                                        <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja<br><span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
-                                        <li><a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo <br><span style="font-size: 12px;">（採用管理ツール）</span></a></li>
-                                        <li><a href="/jp/product/nippo.php" target="_blank">Nippo <br><span style="font-size: 12px;">（日報＆人事評価ツール）</span></a></li>    
-                                </ul>
-                            </div>
                         </div> 
-                        <div class="row"> 
-                            <div class="col-sm-12 link-footer"> 
-                                <h3>LOGIQUEについて</h3>
-                                <p>LOGIQUEは、ジャカルタでWebコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。
-                                </p>
-                            </div>
-                        </div> 
+                          
                     </div>
-                      
+                    <div class="col-sm-12 link-footer"> 
+                        <h3><span  class="logo-font">LOGIQUE</span>について</h3>
+                        <p>
+                        <span class="logo-font">LOGIQUE</span>はインドネシアでDXによるお客様のビジネスの成長を支援しています。ITコンサルティング、Webサイト制作、Web・モバイルアプリ開発、システム開発、デジタルマーケティング運用サービス等を提供しています。
+                        </p>
+                        <!--  <p>LOGIQUEは、ジャカルタでWebコンサルティング、Webサイト制作、スマートフォンサイト制作、レスポンシブWebデザイン制作、システム開発、採用ページ制作、グラフィックデザイン制作、動画制作、会社案内・パンフレットデザイン制作サービス等を提供しています。 
+                        </p> -->
+                    </div>
                 </div>
                 <br>
                 <div class="row">
@@ -178,8 +182,7 @@ footer {
                         <div itemscope itemtype="https://schema.org/CreativeWork">
                             <div class="copyright">&copy; <span class="copyrightYear" itemprop="copyrightYear">2017</span>
                                 <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span
-                                        itemprop="name">Logique
-                                        Digital Indonesia. All Rights Reserved.</span></span></div>
+                                        itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span>All Rights Reserved.</span></span></div>
                         </div>
                     </div>
                 </div>

@@ -1049,24 +1049,26 @@ b {
  .link-footer-nav li{
    padding-bottom: 15px;
    list-style:none;
- }
- .main-footer-nav li{
-   padding-bottom: 20px;
- }
+ } 
  .link-footer-nav li:last-child{
    padding-bottom: 0;
- }
- .main-footer-nav li a,  .link-footer-nav li:first-child a{
-  font-weight: bold;
- }
+ } 
  .link-footer-nav li li a{
    font-weight: normal !important;
+ }
+ .link-footer-nav li li ul{
+   padding-left: 20px;
+ }
+ .link-footer-nav li li li{
+   list-style: disc;
+   padding-left: 0;
+  
  }
  .footer-update a:hover, .link-footer-nav li a:hover{
    color:#ffca13;
  }
  .link-footer-nav li li{
-   padding:10px 0 0 10px;
+   padding:10px 0 0 20px;
  }
 .phone-info li{
   padding-bottom: 5px;
@@ -1079,22 +1081,17 @@ b {
   padding-top: 20px;
 }
 footer .medsos-new li{
-    padding: 0 5px;
+    padding-right:5px;
     text-align: center;
     display: inline-flex;
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    justify-content: center;
-    border: 1px solid #fff;
-    width: 30px;
-    height: 30px;
-    border-radius:50%;
-    margin-right: 8px;
+    justify-content: center;   
  }
 footer .medsos-new li > a{
-  height: 17px;
-  width: 17px;
+  width: 35px;
+  height: 35px;
   display: inline-block;
 }
 footer .medsos-new .instagram-icon{ 
