@@ -161,57 +161,61 @@ footer {
                     </div>
                     <div class="col-sm-8 company-footer-nav">
                         <div class="row">
-                            <div class="col-sm-3 link-footer-nav  main-footer-nav">
+                            <div class="col-sm-6 link-footer-nav  main-footer-nav">
                                 <ul>
                                     <li><a href="/en/index.php">Home</a></li>
                                     <li><a href="/en/logique.php">About Us</a></li>
-                                    <li><a href="/en/portfolio.php">Portfolio</a></li>
-                                    <li><a href="/career/">Join LOGIQUE (Career)</a></li>
-                                    <li><a href="/en/contact.php">Contact Us</a></li>
-                                    <li><a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></li>
-                                   
-                                </ul>
-                            </div>
-                            <div class="col-sm-5  link-footer-nav ">
-                                <ul>
-                                    <li class="have-submenu"><a href="/en/services.php">Service</a> </li>
-                                    <li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a> </li>
-                                    <li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
-                                    <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a></li>
-                                    <li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
-                                    <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital  Marketing </a>
+                                    <li class="have-submenu"><a href="/en/services.php">Service</a> 
                                         <ul>
-                                            <!-- <li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li> -->
-                                            <li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO
-                                                    Service</a></li>
-                                            <!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
+                                            <li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a> </li>
+                                            <li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
+                                            <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a></li>
+                                            <li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
+                                            <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital  Marketing </a>
+                                                <ul>
+                                                    <!-- <li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li> -->
+                                                    <li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO
+                                                            Service</a></li>
+                                                    <!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
+                                                </ul>
+                                            </li>
                                         </ul>
                                     </li>
+                                    <li><a href="/en/portfolio.php">Portfolio</a></li>
+                                    
+                                   
                                 </ul>
-                            </div>
-                            <div class="col-sm-4 link-footer-nav">
+                            </div> 
+                            <div class="col-sm-6 link-footer-nav">
                                 <ul>
-                                    <li><a href="/en/product.php">Products</a></li>
-                                    <li> <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja
-                                                <br><span style="font-size: 11px;">(Remote Working Tool)</span> </a></li>
-                                    <li><a href="/en/product/nippo.php" target="_blank">Nippo
-                                            <br><span style="font-size: 11px;">(Daily Report Tool)</span> </a></li>
-                                    <li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo
-                                            <br><span style="font-size: 11px;">(Employee Recruitment System)</span> </a></li>
+                                    <li><a href="/en/product.php">Products</a>
+                                        <ul>
+                                            <li> <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 11px;">(Remote Working Tool)</span> </a></li>
+                                            <li><a href="/en/product/nippo.php" target="_blank">Nippo <span style="font-size: 11px;">(Daily Report Tool)</span> </a></li>
+                                            <li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo <span style="font-size: 11px;">(Employee Recruitment System)</span> </a></li>
+                                        </ul>
+                                    </li> 
+                                    <li><a href="/career/">Join LOGIQUE (Career)</a>
+                                        <ul>
+                                            <li><a href="/career/">Kerja di LOGIQUE</a></li>
+                                            <li> <a href="/career/lowongan/"  >Lowongan Kerja </a></li>  
+                                        </ul>
+                                    </li>
+                                    <li><a href="/en/contact.php">Contact Us</a></li>
+                                    <li><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
                                 </ul>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-12 link-footer">
-                                <h3>About Us</h3>
-                                <p>LOGIQUE aims to provide you with the best solutions tailored to your company’s
-                                specific digital requirements. Through an innovative combination of artistic design
-                                and information architecture, our professional team specializes in the creation of
-                                a wide range of systems: from large scale corporate websites, to smartphones,
-                                responsive web design implementation, systems development, graphic design
-                                and more. </p>
-                            </div>
-                        </div>
+                        </div> 
+                    </div>
+                    <div class="col-sm-12 link-footer">
+                        <h3>About Us</h3>
+                        <p><span class="logo-font">LOGIQUE </span> is supporting the growth of your business by DX. We provide IT consulting, website production, web/mobile application development, system development and digital marketing operation service. </p>                               
+                        <!-- <p>LOGIQUE aims to provide you with the best solutions tailored to your company’s
+                        specific digital requirements. Through an innovative combination of artistic design
+                        and information architecture, our professional team specializes in the creation of
+                        a wide range of systems: from large scale corporate websites, to smartphones,
+                        responsive web design implementation, systems development, graphic design
+                        and more. </p> -->
                     </div>
                 </div> 
                 <br>
@@ -220,8 +224,7 @@ footer {
                         <div itemscope itemtype="https://schema.org/CreativeWork">
                             <div class="copyright">&copy; <span class="copyrightYear" itemprop="copyrightYear">2017</span>
                                 <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span
-                                        itemprop="name">Logique
-                                        Digital Indonesia. All Rights Reserved.</span></span></div>
+                                        itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span> All Rights Reserved.</span></span></div>
                         </div>
                     </div>
                 </div>
