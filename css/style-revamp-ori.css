@@ -1030,8 +1030,11 @@ b {
 .footer-update h3{
   font-size: 20px;
 }
-.footer-title span{
+.footer-title span{ 
   font-size: 45px;
+  line-height: 40px;
+  margin-bottom: 18px;
+  display: block;
 }
 .footer-update * {  
   font-family: 'Montserrat', sans-serif;
@@ -1053,23 +1056,28 @@ b {
  .link-footer-nav li:last-child{
    padding-bottom: 0;
  } 
+  .link-footer-nav ul{
+    padding-left: 20px;
+  }
  .link-footer-nav li li a{
    font-weight: normal !important;
  }
+ .link-footer-nav li li{
+  padding:10px 0 0 0px;
+  list-style: disc;
+}
  .link-footer-nav li li ul{
    padding-left: 20px;
  }
  .link-footer-nav li li li{
-   list-style: disc;
+   list-style: circle;
    padding-left: 0;
   
  }
  .footer-update a:hover, .link-footer-nav li a:hover{
    color:#ffca13;
  }
- .link-footer-nav li li{
-   padding:10px 0 0 20px;
- }
+
 .phone-info li{
   padding-bottom: 5px;
   list-style: none;
