@@ -90,64 +90,62 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                     </div>
                     <div class="col-sm-8 company-footer-nav">
                         <div class="row">
-                            <div class="col-sm-3 link-footer-nav main-footer-nav">
+                            <div class="col-sm-6 link-footer-nav main-footer-nav">
                                 <ul>
                                     <li><a href="/index.php">Beranda</a></li>
                                     <li><a href="/logique.php">Tentang Kami</a> </li>
+                                    <li class="have-submenu"><a href="/layanan.php">Layanan</a>
+                                        <ul>
+                                        <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan  Website</a> </li>
+                                        <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
+                                        <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>
+                                        <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan  Keamanan  Website (Pentest) </a></li>
+                                        <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
+                                            <ul>
+                                                <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        </ul>
+                                    </li> 
                                     <li><a href="/portofolio.php">Portofolio</a></li>
-                                    <li><a href="/career/">Join  Logique (Karir)</a></li>
-                                    <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
-                                    <li><a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></li>
+                                    
                                     
                                 </ul>
-                            </div>
-                            <div class="col-sm-5 link-footer-nav">
-                                <ul>
-                                    <li class="have-submenu"><a href="/layanan.php">Layanan</a></li> 
-                                    <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan  Website</a> </li>
-                                    <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
-                                    <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>
-                                    <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan  Keamanan  Website (Pentest) </a></li>
-                                    <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
+                            </div> 
+                            <div class="col-sm-6 link-footer-nav">
+                                
+                                    <li class="have-submenu">  <a href="/produk.php">Produk Kami</a>
                                         <ul>
-                                            <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a>
-                                            </li>
+                                            <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja  <span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a> </li>
+                                            <li><a href="/produk/nippo.php" target="_blank"> Nippo <span style="font-size: 11px;">(Sistem aplikasi laporan pegawai harian)</span> </a> </li>
+                                            <li><a href="/produk/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <span style="font-size: 11px;">(Sistem aplikasi perekrutan pegawai)</span></a> </li>   
                                         </ul>
                                     </li>
-                                        
-                                </ul>
+                                    <li><a href="/career/">Join  Logique (Karir)</a>
+                                        <ul>
+                                                <li><a href="/career/">Kerja di LOGIQUE</a></li>
+                                                <li> <a href="/career/lowongan/"  >Lowongan Kerja </a></li>  
+                                            </ul>
+                                        </li>
+                                    <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
+                                    <li><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
                             </div>
-                            <div class="col-sm-4 link-footer-nav">
-                                <ul>
-                                    <li class="have-submenu">  <a href="/produk.php">Produk Kami</a></li>
-                                    <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja 
-                                        <br><span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a>
-                                    </li>
-                                    <li>
-                                        <a href="/produk/nippo.php" target="_blank"> Nippo <br> <span
-                                                style="font-size: 11px;">(Sistem
-                                                aplikasi laporan pegawai harian)</span> </a>
-                                    </li>
-                                    <li>
-                                        <a href="/produk/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <br> <span
-                                                style="font-size: 11px;">(Sistem aplikasi perekrutan pegawai)</span></a>
-                                    </li>   
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-12  link-footer">
+                        </div> 
+                    </div> 
+                    <div class="col-sm-12  link-footer">
                                 <h3>Tentang Kami</h3>
-                                <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website,  <strong>LOGIQUE</strong> menyediakan solusi terbaik
+                                <p><span class="logo-font">LOGIQUE </span>membantu bisnis Anda tumbuh dengan transformasi digital. Kami menyediakan konsultasi IT, 
+                              produksi situs web,  pengembangan aplikasi web / seluler, pengembangan sistem, dan layanan operasi 
+                              pemasaran digital</p>
+                                <!-- <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website,  <strong>LOGIQUE</strong> menyediakan solusi terbaik
                                 yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/web-dev.php" target="_blank"><b>jasa
                                         pembuatan website</b></a>, <strong>LOGIQUE</strong> juga menyediakan jasa lainnya seperti jasa konsultasi
                                 digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami
                                 memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi,
                                 maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan
-                                arsitektur sistem yang baik.</p>
-                            </div>
-                        </div>
-                    </div>       
+                                arsitektur sistem yang baik.</p>   -->
+                            </div>      
                 </div>
                 <br>
                 
@@ -156,8 +154,7 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                         <div itemscope itemtype="https://schema.org/CreativeWork">
                             <div class="copyright">&copy; <span class="copyrightYear" itemprop="copyrightYear">2017</span>
                                 <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span
-                                        itemprop="name">Logique
-                                        Digital Indonesia. All Rights Reserved.</span></span></div>
+                                        itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span> All Rights Reserved.</span></span></div>
                         </div>
                     </div>
                 </div>
