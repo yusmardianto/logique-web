@@ -98,7 +98,8 @@
   -->
 
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet" href="css/style.css" >
+  <!-- <link rel="stylesheet" href="css/style.css" > -->
+  <link rel="stylesheet" href="css/newstyle.css" >
   <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
     <!-- <noscript> 
     <link rel="stylesheet" href="css/slick.css">
@@ -193,21 +194,19 @@
       </div>
     </div>
     <!-- END NAVIGATION -->
-
+ 
     <div class="container-fluid">
 
       <div class="row lang-logo--update-design">
         <div class="container">
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-11">
-              <div class="container">
+            <div class="col-sm-offset-1 col-sm-11"> 
                 <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                 <ul class="list-inline">
                   <li><a href="en/index.php">EN</a></li>
                   <li class="active"><a href="#">ID</a></li>
                   <li><a href="jp/index.php">JP</a></li>
-                </ul>
-              </div>
+                </ul> 
             </div>
           </div>
         </div>
@@ -215,61 +214,7 @@
     </div>
 
     <div class="content-wrapper__">
-      <section class="visible-sm visible-xs --top">
-        <div class="container__">
-          <div class="row">
-            <div class="col-sm-12">
-              <div class="title-container">
-                <div style="background: none;">                  
-                  <h1 class="title-index text-center" style="margin-top: 50px;">Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi Digital
-                    untuk Bisnis Anda</h1>
-                  <p class="text-center"><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Perusahaan Pengembang Sistem & Aplikasi (System & Application Development) berbasis Web maupun Mobile yang memiliki profesionalitas tinggi. Spesialisasi dalam pembuatan dan perancangan WebApp dengan penekanan pada Pemasaran Digital (Digital Marketing) untuk meningkatkan dan memaksimalkan keuntungan bisnis Anda. <br>
-                    Kami telah bekerja dengan banyak perusahaan ternama baik lokal maupun internasional, memenuhi berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen karyawan, e-money, berbagai aplikasi internal perusahaan dan pengoperasian iklan digital.</p> 
-
-
-                  <div class="row homepage-hero__card">
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/web-dev.php" class="div-service-cat">
-                        <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"
-                          class="img-responsive" />
-                        <h2>Jasa Pembuatan <br />Website</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
-                        <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi"
-                          class="img-responsive" />
-                        <h2>Jasa Pembuatan <br />Aplikasi</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
-                        <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web"
-                          class="img-responsive" />
-                        <h2>Jasa Pembuatan<br />Sistem Web</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/penetration-test.php" class="div-service-cat">
-                        <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing"
-                          class="img-responsive" />
-                        <h2>Jasa Penetration<br />Testing</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-      </section>
-      <?php if(is_mobile()){
-        
-      }else{ ?>
+  
           <div class="contain-video wrapper--update-design">
         <video poster="img/video-img-min.jpg" id="bgvid" playsinline autoplay muted loop style="display:block!important">
           <source src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
@@ -277,7 +222,7 @@
         </video>
          
       </div>
-      <?php } ?>
+     
       
 
       <div class="bg-white-opacity"></div>
@@ -294,7 +239,7 @@
                     Kami telah bekerja dengan banyak perusahaan ternama baik lokal maupun internasional, memenuhi berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen karyawan, e-money, berbagai aplikasi internal perusahaan dan pengoperasian iklan digital.</p> 
                 </div>
               </div>
-              <div class="row homepage-hero__card">
+              <div class="row flex__row homepage-hero__card">
                 <div class="col-md-3 col-xs-6">
                   <a href="/layanan/web-dev.php" class="div-service-cat">
                     <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"  class="img-responsive" />
@@ -686,6 +631,7 @@
                                                 $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
                                                 $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
                                             }
+                                            //echo  $thumb_url ;
                                             if($x==0) { 
                                             ?>
                                             <div class="item active ">
@@ -696,7 +642,7 @@
                                              ?> 
                                                     <div class="col-xs-12 col-sm-6 col-md-6 article-container">
                                                         <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive" loading="lazy"v>
+                                                            <img src="<?=$thumb_url?>" class="img-responsive" loading="lazy"v>
                                                         </div>
                                                         <div class="content-container">
                                                             <a href="<?=$remote_post->link?>" target="_blank">
