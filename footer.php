@@ -64,7 +64,7 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                 <div class="row flex-row">
                     <div class="col-sm-4 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">
-                        <div class="footer-title"> <span itemprop="name">LOGIQUE</span></strong></div>
+                        <div class="footer-title "> <span itemprop="name" class="logo-font" >LOGIQUE</span></strong></div>
                             <div itemprop="address" class='footer-address' itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> <strong>Ad Premier Building 19th Floor. </strong><br>Jalan Tb. Simatupang No. 5
                                     <br />

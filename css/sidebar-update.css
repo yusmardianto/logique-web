@@ -18,7 +18,7 @@
 .logique-nav.logique-nav--update .margin-for-nav > div {
     background-color: transparent;
     padding-top: 10px;
-    padding-left: 20px;
+    padding-left: 10px;
     line-height: 0;
     height: 80px;
 }
@@ -46,6 +46,9 @@
     text-transform: uppercase;
     letter-spacing: .2px;
     font-weight: 600 !important;
+}
+.logique-nav a:hover{
+    text-decoration: none;
 }
 .logique-nav.in-jp a {
     font-size: 10px;
@@ -165,3 +168,80 @@
     background: url('/img/sidebar/blog-active.svg') center/28px no-repeat;
 }
 /* end icons */
+  .wrapper .navbar-toggle .icon-bar {
+    background: #000;
+    transition: all 0.5s;
+  }
+  .wrapper .navbar-toggle {
+    background-color: #ffca13 !important;
+    z-index: 9999;
+    transition: all 1s;
+    position: fixed;
+    right: 80px;
+    border-radius: 0;
+    height: 34px;
+    margin-top: 0;
+  }
+  .wrapper .navbar-toggle.collapsed {
+    background-color: #ffca13 !important;
+    position: relative;
+    right: 0 !important;
+    margin-top: 0px;
+  }
+  .navbar-toggle--update-design {
+    position: fixed !important;
+  }
+  .wrapper .navbar-toggle.collapsed .icon-bar.first {
+    transform: rotate(0) !important;
+  }
+  .wrapper .navbar-toggle.collapsed .icon-bar.second {
+    background: #000 !important;
+  }
+  .wrapper .navbar-toggle.collapsed .icon-bar.third {
+    transform: rotate(0) !important;
+    margin-top: 4px !important;
+  }
+  .wrapper .navbar-toggle .icon-bar.first {
+    transform: rotate(45deg);
+  }
+  .wrapper .navbar-toggle .icon-bar.second {
+    background: 0 0;
+  }
+  .wrapper .navbar-toggle .icon-bar.third {
+    transform: rotate(-45deg);
+    margin-top: -8px;
+  }
+  .backdrop-test {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    z-index: 999;
+    opacity: .7;
+    display: none;
+    top: 0;
+}
+  @media (max-width: 767.98px){
+    .logique-nav {
+        margin-left: -150px;
+        position: relative;
+    }
+    .wrapper .navbar-collapse {
+        height: 100%!important;
+    }
+    .wrapper .navbar-toggle.collapsed {
+        left: 10px!important;
+    }
+    .wrapper .navbar-toggle {
+        left: 110px;
+        top: 10px;
+    }
+    .collapse.in .logique-nav {
+        margin-left: 0;
+        padding-top: 0;
+    }
+    .backdrop-test {
+        display: block;
+    }
+
+  }
