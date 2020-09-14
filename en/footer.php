@@ -87,7 +87,7 @@ footer {
     }
 }
 </style>
-<footer class="content-wrapper__ bg--footer footer-section">
+<footer class="content-wrapper__ bg--footer footer-section footer-update">
     <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
 
     <script type='text/javascript' data-cfasync='false'>
@@ -135,157 +135,105 @@ footer {
     <div class="container__footer">
         <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-                <div class="row">
-                    <div class="col-sm-4 hidden-xs">
+                <div class="row flex-row">
+                    <div class="col-sm-4 company-info ">
                         <div itemscope itemtype="https://schema.org/Organization">
-                            <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-                            <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+                        <div class="footer-title"> <span itemprop="name">LOGIQUE</span></strong></div>
+                            <div  class='footer-address' itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 <br />
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
                                     itemprop="postalCode">12550</span>
-                                <br><br>
-                                &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
-                                <br>
-                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                    rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile"
-                                        style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i
-                                        class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-                                <br><br>
+                                    <ul class="phone-info">
+                                    <li class=""><img src="../img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                    <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
+                                    rel="noreferrer"> <img src="../img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
+                                        class="waNumber">0811-870-321</span></a></li> 
+                                </ul>  
                             </div>
                         </div>
-    
-                        <div class="provacy-policy-container">
-                            <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
-                        </div>
-                        <div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
-                        <ul class=" medsos-new" sty>
-                            <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer"
-                                    aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
-                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i
-                                        class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer"
-                                    aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"
-                                    aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
+                        <ul class="medsos-new">
+                            <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook" class="facebook-icon"> </a></li>
+                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer"  aria-label="Twitter" class="twitter-icon"></a></li>
+                            <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram" class='instagram-icon'> </a></li>
+                            <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"  aria-label="LinkedIn" class="linkedin-icon"> </a></li>
                         </ul>
+                        
                     </div>
-                    <div class="col-sm-4 link-footer-nav">
-                        <ul>
-                            <li><a href="/en/index.php">Home</a></li>
-                            <li><a href="/en/logique.php">About Us</a></li>
-    
-                            <li class="have-submenu"><a href="/en/services.php">Service</a>
+                    <div class="col-sm-8 company-footer-nav">
+                        <div class="row">
+                            <div class="col-sm-6 link-footer-nav  main-footer-nav">
                                 <ul>
-                                    <li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web
-                                            Development</a>
+                                    <li><a href="/en/index.php">Home</a></li>
+                                    <li><a href="/en/logique.php">About Us</a></li>
+                                    <li class="have-submenu"><a href="/en/services.php">Service</a> 
                                         <ul>
-                                            <li><a href="/en/services/recruitment-web-dev.php" target="_blank"> Recruitment
-                                                    Website Creation</a></li>
-                                            <li><a href="/layanan/pembuatan-web-klinik-gigi-2.php" target="_blank"> Dentist
-                                                    Website Creation</a></li>
-                                            <!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
+                                            <li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a> </li>
+                                            <li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
+                                            <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a></li>
+                                            <li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
+                                            <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital  Marketing </a>
+                                                <ul>
+                                                    <!-- <li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li> -->
+                                                    <li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO
+                                                            Service</a></li>
+                                                    <!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
+                                                </ul>
+                                            </li>
                                         </ul>
                                     </li>
-                                    <li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
-                                    <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a>
-                                    </li>
-                                    <li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment
-                                            (Pentest)</a></li>
-                                    <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital
-                                            Marketing </a>
-                                        <ul>
-                                            <!-- <li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li> -->
-                                            <li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO
-                                                    Service</a></li>
-                                            <!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
-                                        </ul>
+                                    <li><a href="/en/portfolio.php">Portfolio</a></li>
+                                    
+                                   
                                 </ul>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-sm-4 link-footer-nav">
-                        <ul>
-                            <li class="have-submenu"><a href="/en/product.php">Products</a>
+                            </div> 
+                            <div class="col-sm-6 link-footer-nav">
                                 <ul>
-                                    <li>
-                                        <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja
-                                            <span style="font-size: 12px;">(Remote Working Tool)</span> </a></li>
-                                    <li><a href="/en/product/nippo.php" target="_blank">Nippo<span style="font-size: 12px;"> (Daily
-                                                Report Tool)</span> </a></li>
-                                    <li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo<span
-                                                style="font-size: 12px;">
-                                                (Employee Recruitment System)</span> </a></li>
+                                    <li><a href="/en/product.php">Products</a>
+                                        <ul>
+                                            <li> <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 11px;">(Remote Working Tool)</span> </a></li>
+                                            <li><a href="/en/product/nippo.php" target="_blank">Nippo <span style="font-size: 11px;">(Daily Report Tool)</span> </a></li>
+                                            <li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo <span style="font-size: 11px;">(Employee Recruitment System)</span> </a></li>
+                                        </ul>
+                                    </li> 
+                                    <li><a href="/career/">Join LOGIQUE (Career)</a>
+                                        <ul>
+                                            <li><a href="/career/">Kerja di LOGIQUE</a></li>
+                                            <li> <a href="/career/lowongan/"  >Lowongan Kerja </a></li>  
+                                        </ul>
+                                    </li>
+                                    <li><a href="/en/contact.php">Contact Us</a></li>
+                                    <li><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
                                 </ul>
-                            </li>
-                            <li><a href="/en/portfolio.php">Portfolio</a></li>
-                            <li><a href="/career/">Join LOGIQUE (Career)</a></li>
-                            <li><a href="/en/contact.php">Contact Us</a></li>
-                        </ul>
+                            </div>
+                        </div> 
                     </div>
-                </div>
-                <br>
-                <div class="row">
                     <div class="col-sm-12 link-footer">
                         <h3>About Us</h3>
-                        <p>LOGIQUE aims to provide you with the best solutions tailored to your company’s
-                            specific digital requirements. Through an innovative combination of artistic design
-                            and information architecture, our professional team specializes in the creation of
-                            a wide range of systems: from large scale corporate websites, to smartphones,
-                            responsive web design implementation, systems development, graphic design
-                            and more. </p>
+                        <p><span class="logo-font">LOGIQUE </span> is supporting the growth of your business by DX. We provide IT consulting, website production, web/mobile application development, system development and digital marketing operation service. </p>                               
+                        <!-- <p>LOGIQUE aims to provide you with the best solutions tailored to your company’s
+                        specific digital requirements. Through an innovative combination of artistic design
+                        and information architecture, our professional team specializes in the creation of
+                        a wide range of systems: from large scale corporate websites, to smartphones,
+                        responsive web design implementation, systems development, graphic design
+                        and more. </p> -->
                     </div>
-                </div>
+                </div> 
+                <br>
                 <div class="row">
                     <div class="col-sm-12">
                         <div itemscope itemtype="https://schema.org/CreativeWork">
                             <div class="copyright">&copy; <span class="copyrightYear" itemprop="copyrightYear">2017</span>
                                 <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span
-                                        itemprop="name">Logique
-                                        Digital Indonesia. All Rights Reserved.</span></span></div>
+                                        itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span> All Rights Reserved.</span></span></div>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-12 show-xs hidden-sm hidden-md hidden-lg">
-                        <div itemscope itemtype="https://schema.org/Organization">
-                            <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
-                            <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-                                <span itemprop="streetAddress"> Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 <br />
-                                    Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
-                                    itemprop="postalCode">12550</span>
-                                <br><br>
-                                &nbsp;&nbsp;&nbsp;<i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;(021) 22708935 / 36
-                                <br>
-                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                    rel="noreferrer">&nbsp;&nbsp;&nbsp;<i class="fa fa-mobile"
-                                        style="font-size: 18px;vertical-align: -1px;"></i>&nbsp;&nbsp;<i
-                                        class="fa fa-whatsapp"></i>&nbsp;&nbsp;&nbsp;0811-870-321</a>
-                                <br><br>
-                            </div>
-                        </div>
-    
-                        <div class="provacy-policy-container">
-                            <a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a>
-                        </div>
-                        <div class="footer-title" style="margin-top: 20px; margin-bottom: 0;">Social Media</div>
-                        <ul class=" medsos-new" sty>
-                            <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer"
-                                    aria-label="Facebook"><i class="fa fa-facebook-official"></i></a></li>
-                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer" aria-label="Twitter"><i
-                                        class="fa fa-twitter"></i></a></li>
-                            <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer"
-                                    aria-label="Instagram"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"
-                                    aria-label="LinkedIn"><i class="fa fa-linkedin-square"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>
 </footer>
-<section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; <span
-        class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section>
+ 
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
