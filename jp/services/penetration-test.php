@@ -19,7 +19,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Webサイト脆弱性セキュリティテスト｜LOGIQUEデジタルインドネシア</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../css/style.css" rel="stylesheet">
+    <link href="../../css/style.css?v=1.1" rel="stylesheet">
     <link href="assets/css/style-pentest.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
