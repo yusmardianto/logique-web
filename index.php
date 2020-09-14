@@ -99,7 +99,7 @@
 
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <!-- <link rel="stylesheet" href="css/style.css" > -->
-  <link rel="stylesheet" href="css/newstyle.css" >
+  <link rel="stylesheet" href="css/newstyle-ori.css" >
   <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
     <!-- <noscript> 
     <link rel="stylesheet" href="css/slick.css">
@@ -200,7 +200,7 @@
       <div class="row lang-logo--update-design">
         <div class="container">
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-11"> 
+            <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
                 <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                 <ul class="list-inline">
                   <li><a href="en/index.php">EN</a></li>
@@ -229,7 +229,7 @@
 
       <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto; overflow: visible">
         <div class="img homepage-hero">
-          <div class="title-container hidden-sm">
+          <div class="title-container  ">
             <div class="container__">
               <div class="row">
                 <div class="col-md-offset-1 col-md-10 text-center">

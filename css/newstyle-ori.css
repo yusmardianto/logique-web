@@ -678,12 +678,19 @@ footer ul, footer ol{
   }
   /* -------------- responsive harus di bawah ini ---------------*/
 
-@media (max-width: 1119px) and (min-width: 992px){
+ 
+ @media only screen and (max-width: 1024px) {
+ 
     .container__ {
-        width: 900px;
+        width: auto;
+        padding: 2.5em;
+    } 
+    .solution .flex__row>.row__item {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: 40px;
+        flex-direction: column;
     }
-  @media only screen and (max-width: 1100px) {
-      
     .case-study .row__item.morecs{
     display: inline-block;
     }
@@ -754,12 +761,16 @@ footer ul, footer ol{
       .case-study .row__item.--sm > a > .item__hover {
       align-items: center;
     }
+    .case-study .row__item > a > .item__hover > p{
+        display: none
+    }
   }
   @media (max-width: 767.98px){
     .container__ {
-        padding: 1.5em 1em;
-        width: auto;
+        width: 900px;
+        padding: 2.5em;
     }
+
     footer {
         margin-left: 0;
         background-color: transparent;
@@ -856,4 +867,11 @@ footer ul, footer ol{
     .solution .flex__row>.row__item:last-child{
         margin: 0;
     }
+}
+@media (max-width: 500px){
+    .container__ {
+        padding: 1.5em 1em;
+        width: auto;
+        padding: 2.5em;
+    } 
 }
