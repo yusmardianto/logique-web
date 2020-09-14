@@ -1905,6 +1905,10 @@ left: -70px;
     margin-bottom: 0;
 }
 
+.breadcrumb--update-design > li {
+    word-break: keep-all;
+}
+
 .breadcrumb--update-design a {
     color: #ffca13;
 }
