@@ -677,7 +677,13 @@ footer ul, footer ol{
     background-size: contain;
   }
   /* -------------- responsive harus di bawah ini ---------------*/
+
+@media (max-width: 1119px) and (min-width: 992px){
+    .container__ {
+        width: 900px;
+    }
   @media only screen and (max-width: 1100px) {
+      
     .case-study .row__item.morecs{
     display: inline-block;
     }
