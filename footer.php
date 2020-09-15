@@ -2,61 +2,7 @@
 footer{margin-left:0;background-color:transparent}@media only screen and (max-width:414px){footer{padding:30px 10px 10px}}.bg--footer{background-color:#212425}.tahap-pemesanan-2{background-color:#ffcd38}#PureChatWidget.purechat.purechat-bottom-right{right:20px!important;bottom:20px!important}#PureChatWidget{transition:all ease-in-out .25s!important}#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header{min-height:55px!important}#PureChatWidget.purechat.purechat-style-classic{border:none!important}#PureChatWidget.purechat .purechat-content-wrapper{background-color:#f1f1f1!important}#PureChatWidget.purechat .purechat-card{background-color:#fff!important}#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse{bottom:70px!important}#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right{bottom:-60px!important}#PureChatWidget.purechat .purechat-widget-header .purechat-btn,#PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,#PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover{box-shadow:none!important}.purechat-widget-title__arrow.--hide{display:none!important}@media (max-width:991.98px){#PureChatWidget{width:200px!important}#PureChatWidget.purechat.purechat-bottom-right,#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom,#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom{left:unset!important;right:50%!important;transform:translateX(50%)!important}#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom,#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right{bottom:-65px!important}#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse,#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse{bottom:70px!important;right:unset!important;left:45%!important;transform:translateX(-50%)!important}}
 </style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">
-    <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
-
-    <script type='text/javascript' data-cfasync='false'>
-    window.purechatApi = {
-        l: [],
-        t: [],
-        on: function() {
-            this.l.push(arguments);
-        }
-    };
-    (function() {
-        var done = false;
-        var script = document.createElement('script');
-        script.async = true;
-        script.type = 'text/javascript';
-        script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript';
-        document.getElementsByTagName('HEAD').item(0).appendChild(script);
-        script.onreadystatechange = script.onload = function(e) {
-            if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-                var w = new PCWidget({
-                    c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6',
-                    f: true
-                });
-                done = true;
-            }
-        };
-    })();
-    </script>
-    <script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o), m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-105878648-1', 'auto');
-    ga('send', 'pageview');
-    </script>
-    <!-- Twitter universal website tag code -->
-    <script>
-    ! function(e, t, n, s, u, a) {
-        e.twq || (s = e.twq = function() {
-                s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
-            }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src =
-            '//static.ads-twitter.com/uwt.js', a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
-    }(window, document, 'script');
-    // Insert Twitter Pixel ID and Standard Event data below
-    twq('init', 'o0xru');
-    twq('track', 'PageView');
-    </script>
+  
     <!-- End Twitter universal website tag code -->
     <div class="container__footer">
         <div class="row">
@@ -71,9 +17,9 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
                                     itemprop="postalCode">12550</span>
                                 <ul class="phone-info">
-                                    <li class=""><img src="img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                    <li class=""><img src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
                                     <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                    rel="noreferrer"> <img src="img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
+                                    rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
                                         class="waNumber">0811-870-321</span></a></li> 
                                 </ul> 
                                 
@@ -163,13 +109,64 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
         </div>
     </div>
 </footer>
- 
+  <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
+
+  <script type='text/javascript' data-cfasync='false'>
+    window.purechatApi = {  l: [],  t: [],  on: function() {   this.l.push(arguments); }  };
+    (function() {
+        var done = false;
+        var script = document.createElement('script');
+        script.async = true;
+        script.type = 'text/javascript';
+        script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript';
+        document.getElementsByTagName('HEAD').item(0).appendChild(script);
+        script.onreadystatechange = script.onload = function(e) {
+            if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                var w = new PCWidget({
+                    c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6',
+                    f: true
+                });
+                done = true; } };  })();
+    </script>
+    <script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-105878648-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <!-- Twitter universal website tag code -->
+    <script>
+    ! function(e, t, n, s, u, a) {
+        e.twq || (s = e.twq = function() {
+                s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+            }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src =
+            '//static.ads-twitter.com/uwt.js', a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+    }(window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'o0xru');
+    twq('track', 'PageView');
+    </script>
 <script   src="/js/jquery-3.min.js"></script>
 <script    src="/js/bootstrap.min.js"></script>
 <script  async src="/js/slick.min.js"></script>
-<script async  src='https://www.google.com/recaptcha/api.js'></script>
+
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
+/**
+ * jQuery.browser.mobile (http://detectmobilebrowser.com/)
+ * jQuery.browser.mobile will be true if the browser is a mobile device
+ **/
+(function(a){($.browser=$.browser||{}).mobile=/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))})(navigator.userAgent||navigator.vendor||window.opera);
+
 $('.map-container')
     .click(function() {
         $(this).find('iframe').addClass('clicked')
@@ -237,6 +234,22 @@ $('.map-container')
 
 <!-- MULTI DROPDOWN -->
 <script>
+    
+if($.browser)
+{ 
+    var sources = document.querySelectorAll('video#bgvid source');
+    // Define the video object this source is contained inside
+    var video = document.querySelector('video#bgvid');
+    for(var i = 0; i<sources.length;i++) {
+    sources[i].setAttribute('src', sources[i].getAttribute('data-src'));
+    }
+    video.load(); 
+
+    }
+else
+{
+   
+}
 $(document).ready(function() {
     $('.dropdown-submenu .dropdown-submenu__item').on("mouseover", function(e) {
         $('.dropdown-menu.show').removeClass("show");
@@ -266,5 +279,6 @@ $(document).ready(function() {
         $('.caret.--sm.--yellow').removeClass("--yellow");
     });   
 });
+ 
 </script>
 <!-- END MEGAMENU -->

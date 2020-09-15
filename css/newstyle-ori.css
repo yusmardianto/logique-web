@@ -1,5 +1,4 @@
-@charset "UTF-8";  
-@import url('/css/sidebar-update.css'); 
+@charset "UTF-8";   
 @font-face {
     font-family: "Novocento Sans Wide";
     src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');

@@ -1,24 +1,6 @@
 ﻿<?php
 	error_reporting(E_ALL|E_STRICT);
-	ini_set('display_error', 0);
- 
-  function is_mobile() {
-      if (empty($_SERVER['HTTP_USER_AGENT'])) {
-          $is_mobile = false;
-      } else if (strpos($_SERVER['HTTP_USER_AGENT'], 'Mobile') !== false
-          // many mobile devices (all iPhone, iPad, etc.)
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Android') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Silk/') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Kindle') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'BlackBerry') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mini') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mobi') !== false) {
-          $is_mobile = true;
-      } else {
-          $is_mobile = true;
-      }
-      return $is_mobile;
-  }
+	ini_set('display_error', 0); 
 ?> 
 <!DOCTYPE html>
 <html lang="id" style="overflow-x: hidden;"> 
@@ -99,8 +81,10 @@
 
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <!-- <link rel="stylesheet" href="css/style.css" > -->
+  <link rel="stylesheet" href="css/sidebar-update.css" >
   <link rel="stylesheet" href="css/newstyle.css" >
   <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+  
     <!-- <noscript> 
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slick-theme.css">
@@ -215,14 +199,14 @@
 
     <div class="content-wrapper__">
   
-          <div class="contain-video wrapper--update-design">
+      <div class="contain-video wrapper--update-design" id='bgvideo'>
         <video poster="img/video-img-min.jpg" id="bgvid" playsinline autoplay muted loop style="display:block!important">
-          <source src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
-          <source src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+          <source data-src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
+          <source data-src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
         </video>
          
       </div>
-     
+  
       
 
       <div class="bg-white-opacity"></div>
@@ -486,7 +470,7 @@
               <a href="/case-study/pan-pacific/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/pan-pacific.svg">
+                    <source srcset="/img/top/pan-pacific.webp">
                     <img src="/img/top/pan-pacific.png" alt=""  loading="lazy">
                   </picture>
                   <div>
