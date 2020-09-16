@@ -508,7 +508,7 @@
                                 <source srcset="/img/case-study-klikhoreca.webp">
                                 <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt="">
                             </picture>
-                            <a href="/case-study/klikhoreca/">
+                            <a href="/en/case-study/klikhoreca/">
                                 <div class="item__hover">
                                     <picture>
                                         <source srcset="/img/top/klikhoreca.svg">
@@ -526,7 +526,7 @@
                                 <source srcset="/img/case-study-indonesea.webp">
                                 <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt="">
                             </picture>
-                            <a href="/case-study/indonesea/">
+                            <a href="/en/case-study/indonesea/">
                                 <div class="item__hover">
                                     <picture>
                                         <source srcset="/img/top/indonesea-min.webp" >
@@ -544,7 +544,7 @@
                                 <source srcset="/img/case-study-pan-pacific.webp">
                                 <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt="">
                             </picture>
-                            <a href="/case-study/pan-pacific/">
+                            <a href="/en/case-study/pan-pacific/">
                                 <div class="item__hover">
                                     <picture>
                                         <source srcset="/img/top/pan-pacific.svg">
