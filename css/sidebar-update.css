@@ -59,6 +59,10 @@
 .logique-nav.logique-nav--update .margin-for-nav > div > a > div {
     transition: all .8s;
   }
+.img-about, .img-blog, .img-career, .img-contact, .img-home, .img-portfolio, .img-product, .img-services {
+    height: 44px;
+    width:44px
+}
 .logique-nav.logique-nav--update .margin-for-nav > div.active {
     background-image: url('/img/sidebar/hover.png');
     background-size: 100%;
@@ -132,8 +136,7 @@
 .img-career {
     margin: auto;
     background: url('/img/sidebar/career.svg') center/28px no-repeat;
-}
-
+} 
 .logique-nav .text-center.active .img-career,
 .logique-nav .text-center.active:focus .img-career,
 .logique-nav .text-center.active:hover .img-career,

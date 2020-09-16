@@ -174,7 +174,7 @@
                             <div class="title"><h1>LOGIQUEのWeb制作実績</h1></div>
                             <p class="title__description" style="margin-left: 0;">幾つかの公開可能なWeb制作実績を掲載します。制作した後のRevampやページ追加制作なども多く行っていますので、制作数としてはここに掲載しているものよりもずっと多くなります。より詳細な情報をお求めの場合はお気軽にお問い合わせください。</p>
                             <picture>
-                                <source srcset="/img/portfolio/bg-portfolio-detail-website.webp">
+                                <source srcset="/img/portfolio/bg-portfolio-detail-website.webp" type="image/webp">
                                 <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
                             </picture>
                         </div>

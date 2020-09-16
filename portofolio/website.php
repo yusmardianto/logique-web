@@ -174,7 +174,7 @@
                             <div class="title"><h1>Website Creation Works</h1></div>
                             <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil pengembangan Website kami.</p>
                             <picture>
-                                <source srcset="/img/portfolio/bg-portfolio-detail-website.webp">
+                                <source srcset="/img/portfolio/bg-portfolio-detail-website.webp" type="image/webp">
                                 <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
                             </picture>
                         </div>
