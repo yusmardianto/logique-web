@@ -61,28 +61,28 @@
         <div class="row other-service__list">
             <div class="col-sm-3">
                 <a href="/en/services/web-dev.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive">
+                    <!-- <img src="/en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive"> -->
                     <h4>Website Production Service</h4>
                     <p><strong>LOGIQUE</strong> is a website development company that strives to raise your business.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/en/services/mobile-app-dev.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive">
+                    <!-- <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive"> -->
                     <h4>Apps Development Service</h4>
                     <p><strong>LOGIQUE</strong> provide efficient solutions to your Mobile App for iOS & Android.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/en/services/system-dev.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive">
+                    <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
                     <h4>Web System Development Service</h4>
                     <p><strong>LOGIQUE</strong> assist business goals through latest advance in web base technology.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/en/services/penetration-test.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive">
+                    <!-- <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive"> -->
                     <h4>Penetration Testing Service</h4>
                     <p><strong>LOGIQUE</strong> will perform various security assessment to your website.</p>
                 </a>

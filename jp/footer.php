@@ -6,7 +6,7 @@ footer {
 
 @media only screen and (max-width:414px) {
     footer {
-        padding: 30px 10px 10px;
+        padding: 30px 15px 10px;
     }
 }
 
@@ -113,9 +113,9 @@ footer {
                                         Ragunan, <br>Ps. Minggu, Jakarta Selatan,<br> Indonesia </span><span
                                         itemprop="postalCode">12550</span>
                                         <ul class="phone-info">
-                                            <li class=""><img src="../img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                            <li class=""><img src="/../img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
                                             <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                            rel="noreferrer"> <img src="../img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
+                                            rel="noreferrer"> <img src="/../img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
                                                 class="waNumber">0811-870-321</span></a></li> 
                                         </ul>  
                                 </div>
@@ -182,7 +182,7 @@ footer {
                         <div itemscope itemtype="https://schema.org/CreativeWork">
                             <div class="copyright">&copy; <span class="copyrightYear" itemprop="copyrightYear">2017</span>
                                 <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span
-                                        itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span>All Rights Reserved.</span></span></div>
+                                        itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span> All Rights Reserved.</span></span></div>
                         </div>
                     </div>
                 </div>
