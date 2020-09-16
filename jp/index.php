@@ -304,8 +304,8 @@
                   <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
                 </picture>
                   
-                  <h4>Situs Jual Beli dengan Sistem Penawaran Online <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                  <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
+                  <h4>Cars Selling Site with Online Bidding System<img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
+                  <p>Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.</p>
                   <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                 </div>
               </a>
