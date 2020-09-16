@@ -299,7 +299,7 @@
             <div class="col-md-4 row__item">
               <div class="item__img nippo">
               <picture>
-                <source srcset="/img/top/i-nippo-update.webp">
+                <source srcset="/img/top/i-nippo-update.webp" type="image/webp">
                 <img src="/img/top/i-nippo-update.png" alt="" loading="lazy" class="img-responsive">
               </picture> 
                 
@@ -313,7 +313,7 @@
             <div class="col-md-4 row__item">
               <div class="item__img">
               <picture>
-                <source srcset="/img/top/i-sugoi-saiyo-update.webp">
+                <source srcset="/img/top/i-sugoi-saiyo-update.webp" type="image/webp">
                 <img src="/img/top/i-sugoi-saiyo-update.png" alt="" loading="lazy">
               </picture>  
               </div>
@@ -342,7 +342,7 @@
               <a href="/case-study/caroline-bidding-system/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-caroline-update.webp">
+                  <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
                   <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
                 </picture>
                   
@@ -354,14 +354,14 @@
             </div>
             <div class=" row__item --sm top-2">
             <picture>
-                <source srcset="/img/case-study-2.webp">
+                <source srcset="/img/case-study-2.webp" type="image/webp">
                 <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/case-study/jba-auction-system/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-jba-update.webp">
+                  <source srcset="/img/top/i-jba-update.webp" type="image/webp">
                   <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
                 </picture> 
                   <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
@@ -372,14 +372,14 @@
             </div>
             <div class="  row__item --sm">
             <picture>
-                <source srcset="/img/case-study-3.webp">
+                <source srcset="/img/case-study-3.webp" type="image/webp">
                 <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/case-study/opuspark/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-opus-park.webp">
+                  <source srcset="/img/top/i-opus-park.webp" type="image/webp">
                   <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
                 </picture> 
                   <div>
@@ -391,14 +391,14 @@
             </div>
             <div class=" row__item --sm">
             <picture>
-                <source srcset="/img/case-study-4.webp">
+                <source srcset="/img/case-study-4.webp" type="image/webp">
                 <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/case-study/zuttoride-customer-management-system/">
                 <div class="item__hover"> 
                   <picture>
-                  <source srcset="/img/top/i-zuttoride-update.webp">
+                  <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp"> 
                   <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
                 </picture> 
                   <div>
@@ -410,13 +410,13 @@
             </div>
             <div class="  row__item --sm">
               <picture>
-                <source srcset="/img/case-study-5.webp">
+                <source srcset="/img/case-study-5.webp" type="image/webp">
                 <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               <a href="/case-study/vip-plaza-progressive-web-app/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/i-vipplaza-update.webp">
+                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
                     <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
                   </picture> 
                  
@@ -429,13 +429,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-klikhoreca.webp">
+                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
                 <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/klikhoreca/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/klikhoreca-min.webp">
+                    <source srcset="/img/top/klikhoreca-min.webp" type="image/webp">
                     <img src="/img/top/klikhoreca-min.png" alt="" class="img-responsive"  loading="lazy">
                   </picture>
                   <div>
@@ -447,13 +447,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-indonesea.webp">
+                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
                 <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/indonesea/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/indonesea-min.webp">
+                    <source srcset="/img/top/indonesea-min.webp" type="image/webp">
                     <img src="/img/top/indonesea.png" alt=""  loading="lazy"  class="img-responsive" > 
                   </picture>
                   <div>
@@ -465,13 +465,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-pan-pacific.webp">
+                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
                 <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/pan-pacific/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/pan-pacific.webp">
+                    <source srcset="/img/top/pan-pacific.webp" type="image/webp">
                     <img src="/img/top/pan-pacific.png" alt=""  loading="lazy">
                   </picture>
                   <div>
@@ -504,7 +504,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="layanan.php" class="item item--service">
                 <picture>
-                  <source srcset="/img/service.webp">
+                  <source srcset="/img/service.webp" type="image/webp">
                   <img src="/img/service.png"   alt=""  loading="lazy">
                 </picture>
                  
@@ -515,7 +515,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="produk.php" class="item item--product">
                 <picture>
-                  <source srcset="/img/product.webp">
+                  <source srcset="/img/product.webp" type="image/webp">
                   <img src="/img/product.png"   alt=""  loading="lazy">
                 </picture>
                  
@@ -526,7 +526,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="hubungi-kami.php" class="item item--contact">
               <picture>
-                  <source srcset="/img/smartphone.webp">
+                  <source srcset="/img/smartphone.webp" type="image/webp">
                   <img src="/img/smartphone.png"   alt=""  loading="lazy">
                 </picture>
                  
@@ -537,7 +537,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="career/" class="item item--career">
               <picture>
-                  <source srcset="/img/businessman.webp">
+                  <source srcset="/img/businessman.webp" type="image/webp">
                   <img src="/img/businessman.png"   alt=""  loading="lazy">
                 </picture> 
                 <h3>Career</h3>
