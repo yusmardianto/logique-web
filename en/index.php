@@ -411,7 +411,7 @@
 
  
                     <div class="flex__row case-study__slide">
-                        <div class=" row__item top-2">
+                        <div class=" row__item --sm top-2">
                         <picture>
                             <source srcset="/img/case-study-1.webp" type="image/webp">
                             <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
@@ -428,7 +428,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class=" row__item top-2">
+                        <div class=" row__item --sm top-2">
                         <picture>
                             <source srcset="/img/case-study-2.webp" type="image/webp">
                             <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
@@ -605,14 +605,14 @@
             <section class="see-list bg--white">
                 <div class="container__">
                     <div class="flex__row">
-                        <div class="col-md-6 col-xs-12 row__item">
+                        <div class="col-sm-6 col-xs-12 row__item">
                             <a href="services.php" class="item item--service">
                                 <img src="/img/service.png" alt="">
                                 <h3>See Service List</h3>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>                           
                         </div>
-                        <div class="col-md-6 col-xs-12 row__item">
+                        <div class="col-sm-6 col-xs-12 row__item">
                             <a href="product.php" class="item item--product">
                                 <img src="/img/product.png" alt="">
                                 <h3>See Product List</h3>

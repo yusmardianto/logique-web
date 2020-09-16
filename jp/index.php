@@ -471,7 +471,28 @@
                 <h3>製品について確認する</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
-            </div>            
+            </div> 
+            <div class="col-sm-6 col-xs-12 row__item">
+              <a href="/jp/contact.php" class="item item--contact">
+              <picture>
+                  <source srcset="/img/smartphone.webp" type="image/webp">
+                  <img src="/img/smartphone.png"   alt=""  loading="lazy">
+                </picture>
+                 
+                <h3>お問い合わせ</h3>
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>
+            <div class="col-sm-6 col-xs-12 row__item">
+              <a href="/career/" class="item item--career">
+              <picture>
+                  <source srcset="/img/businessman.webp" type="image/webp">
+                  <img src="/img/businessman.png"   alt=""  loading="lazy">
+                </picture> 
+                <h3>採用/パートナー</h3>
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>           
           </div>
         </div>
       </section>
@@ -590,12 +611,12 @@
       </section>
     
     </div>
-    <div class="content-wrapper__"> 
+    <!-- <div class="content-wrapper__"> 
       <section class="content-article  bg--white"  >
-          <?php include 'services/assets/components/dm-links.php' ?>
-          <?php include 'services/assets/components/other-services.php' ?>
+          <?php //include 'services/assets/components/dm-links.php' ?>
+          <?php //include 'services/assets/components/other-services.php' ?>
         </section>
-    </div>
+    </div> -->
   </div>
     <?php include 'footer.php';?>
 
