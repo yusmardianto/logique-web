@@ -555,7 +555,15 @@ section.maintop video, video {
 
 /*-------end article------*/
   /* footer */
-
+ 
+@media only screen and (max-width: 414px) {
+    footer {
+        padding: 30px 10px 10px;
+    }
+}
+.bg--footer {
+    background-color: #212425;
+}
 footer {
     z-index: 5;
     margin-left: 95px;
@@ -779,6 +787,7 @@ footer ul, footer ol{
 
     footer {
         margin-left: 0;
+        padding: 30px 10px 10px; 
         background-color: transparent;
     }
     .content-wrapper__ .--top, .top--.content-wrapper__ {
