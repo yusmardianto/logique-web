@@ -177,7 +177,7 @@
     z-index: 9999;
     transition: all 1s;
     position: fixed;
-    right: 80px;
+    right: auto;
     border-radius: 0;
     height: 34px;
     margin-top: 0;
@@ -185,7 +185,7 @@
   .wrapper .navbar-toggle.collapsed {
     background-color: #ffca13 !important;
     position: relative;
-    right: 0 !important;
+    right: 0 ;
     margin-top: 0px;
   }
   .navbar-toggle--update-design {
@@ -231,6 +231,7 @@
     }
     .wrapper .navbar-toggle.collapsed {
         left: 10px!important;
+        right: auto;
     }
     .wrapper .navbar-toggle {
         left: 110px;
