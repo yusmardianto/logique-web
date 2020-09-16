@@ -47,6 +47,10 @@ span {
     margin-left: -15px;
     margin-right: -15px;
 }
+.flex__row:before {
+  display: none;
+}
+
 [class*=update-design].wrapper--update-design-font .content-wrapper__ {
     position: relative;
 }

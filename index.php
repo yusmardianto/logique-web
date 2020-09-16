@@ -270,7 +270,8 @@
             </div>
             <div class="col-md-6">
             <picture>
-                <source srcset="/img/our-portfolio-min.webp">
+                <source srcset="/img/our-portfolio-min.webp" type="image/webp">
+                <source srcset="/img/our-portfolio-min.jpg">
                 <img loading="lazy"  src="/img/our-portfolio-min.jpg" class="portfolio__img img-responsive" alt="">
               </picture>
               
@@ -334,7 +335,7 @@
           <div class="flex__row case-study__slide">
             <div class=" row__item --sm top-2">
               <picture>
-                <source srcset="/img/case-study-1.webp">
+                <source srcset="/img/case-study-1.webp" type="image/webp">
                 <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
