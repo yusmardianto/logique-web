@@ -1,5 +1,4 @@
-@charset "UTF-8";  
-@import url('/css/sidebar-update.css'); 
+@charset "UTF-8";   
 @font-face {
     font-family: "Novocento Sans Wide";
     src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
@@ -22,6 +21,9 @@
     font-family: 'Montserrat',sans-serif;
     font-size: 16px;
     line-height: 1.7;
+}
+a:hover, a:hover *{
+  text-decoration: none;
 }
 .content-wrapper__ strong, [class*=update-design].wrapper--update-design-font strong , .logo-font{
     font-family: 'Novocento Sans Wide Medium'!important;
@@ -159,7 +161,7 @@ span {
     font-weight: 500;
     text-align: center;
     letter-spacing: 0;
-    margin-bottom: 47px;
+    margin-bottom: 10px;
 }
 .title {
     font-size: 36px;
@@ -870,8 +872,7 @@ footer ul, footer ol{
 }
 @media (max-width: 500px){
     .container__ {
-        padding: 1.5em 1em;
-        width: auto;
-        padding: 2.5em;
+        padding: 1em 1em;
+        width: auto;  
     } 
 }

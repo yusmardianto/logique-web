@@ -17,9 +17,9 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
                                     itemprop="postalCode">12550</span>
                                 <ul class="phone-info">
-                                    <li class=""><img src="img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                    <li class=""><img src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
                                     <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                    rel="noreferrer"> <img src="img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
+                                    rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
                                         class="waNumber">0811-870-321</span></a></li> 
                                 </ul> 
                                 
@@ -155,10 +155,11 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
     twq('init', 'o0xru');
     twq('track', 'PageView');
     </script>
-<script   src="/js/jquery-3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!-- <script   src="/js/jquery-3.min.js"></script> -->
 <script    src="/js/bootstrap.min.js"></script>
 <script  async src="/js/slick.min.js"></script>
-<script async  src='https://www.google.com/recaptcha/api.js'></script>
+
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 /**
@@ -244,7 +245,7 @@ if($.browser)
     sources[i].setAttribute('src', sources[i].getAttribute('data-src'));
     }
     video.load(); 
-    
+
     }
 else
 {

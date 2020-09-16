@@ -81,8 +81,10 @@
 
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <!-- <link rel="stylesheet" href="css/style.css" > -->
-  <link rel="stylesheet" href="css/newstyle.css" >
+  <link rel="stylesheet" href="css/sidebar-update.css" >
+  <link rel="stylesheet" href="css/newstyle-ori.css" >
   <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+  
     <!-- <noscript> 
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slick-theme.css">
@@ -665,9 +667,15 @@
                 
             </div>
         </div>
-    </section>
-
+      </section> 
     </div>
+    <div class="content-wrapper__">
+    <section class="content-article  bg--white"  >
+        <?php include 'layanan/assets/components/dm-links.php' ?>
+        <?php include 'layanan/assets/components/other-services.php' ?>
+      </section>
+    </div>
+
 
   </div>
   <?php include 'footer.php';?>
