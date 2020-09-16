@@ -69,7 +69,7 @@
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
     <link rel=" stylesheet  " href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="../css/sidebar-update.css" >
-    <link href="../css/newstyle-ori.css" rel="stylesheet">
+    <link href="../css/newstyle.css" rel="stylesheet">
     <!-- <link href="../css/slick.css" rel="stylesheet">
     <link href="../css/slick-theme.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />

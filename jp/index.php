@@ -479,63 +479,59 @@
         <div class="container__">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="title">Artikel Terkait Pembuatan Website</p>
+                    <p class="title">LOGIQUEからのお知らせ / News (日本語</p>
                 </div>
             </div>
             <div class="row">
-            <div class="col-md-12">
-            <div class="carousel slide multi-item-carousel" id="newsCarousel">
-                        <div class="carousel-inner">
-                             
+              <div class="col-md-12">
+                <div class="carousel slide multi-item-carousel" id="newsCarousel">
+                    <div class="carousel-inner">         
                              <?php  
                                     function shorten_string($string, $wordsreturned)
-                                {
-                                  $retval = $string;
-                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
-                                  $string = str_replace("\n", " ", $string);
-                                  $array = explode(" ", $string);
-                                  if (count($array)<=$wordsreturned)
-                                  {
-                                    $retval = $string;
-                                  }
-                                  else
-                                  {
-                                    array_splice($array, $wordsreturned);
-                                    $retval = implode(" ", $array)." ...";
-                                  }
-                                  return $retval;
-                                }
-                                function tgl_indo($tanggal){
-                                    $bulan = array (
-                                        1 =>   'Januari',
-                                        'Februari',
-                                        'Maret',
-                                        'April',
-                                        'Mei',
-                                        'Juni',
-                                        'Juli',
-                                        'Agustus',
-                                        'September',
-                                        'Oktober',
-                                        'November',
-                                        'Desember'
-                                    );
-                                    $pecahkan = explode('-', $tanggal);
-                                    
-                                    // variabel pecahkan 0 = tanggal
-                                    // variabel pecahkan 1 = bulan
-                                    // variabel pecahkan 2 = tahun
-                                 
-                                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                                }
+                                        {
+                                          $retval = $string;
+                                          $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                          $string = str_replace("\n", " ", $string);
+                                          $array = explode(" ", $string);
+                                          if (count($array)<=$wordsreturned)
+                                          {
+                                            $retval = $string;
+                                          }
+                                          else
+                                          {
+                                            array_splice($array, $wordsreturned);
+                                            $retval = implode(" ", $array)." ...";
+                                          }
+                                          return $retval;
+                                        }
+                                        function tgl_indo($tanggal){
+                                          $bulan = array (
+                                              1 =>   'Januari',
+                                              'Februari',
+                                              'Maret',
+                                              'April',
+                                              'Mei',
+                                              'Juni',
+                                              'Juli',
+                                              'Agustus',
+                                              'September',
+                                              'Oktober',
+                                              'November',
+                                              'Desember'
+                                          );
+                                          $pecahkan = explode('-', $tanggal);
+                                          
+                                          // variabel pecahkan 0 = tanggal
+                                          // variabel pecahkan 1 = bulan
+                                          // variabel pecahkan 2 = tahun
+                                      
+                                          return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                                      }
                                     $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?categories=76&per_page=5&_embed');
                                 
                                         $x = 0;
 
-                                       $remote_posts = json_decode( $url ); 
-                                       // printf('<pre>'); 
-                                       //  var_dump($url);
-                                       // printf('</pre>');
+                                       $remote_posts = json_decode( $url );  ;
                                         foreach( $remote_posts as $remote_post ) { 
                                             $thumb_full_url = '';
                                             $thumb_url = '';
@@ -547,61 +543,60 @@
                                             //echo  $thumb_url ;
                                             if($x==0) { 
                                             ?>
-                                            <div class="item active ">
-                                             <?php } else{
-                                                echo ' <div class="item ">';
-                                             }
-
-                                             ?> 
-                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                                        <div class="img-container">
-                                                            <img src="<?=$thumb_url?>" class="img-responsive" loading="lazy"v>
-                                                        </div>
-                                                        <div class="content-container">
-                                                            <a href="<?=$remote_post->link?>" target="_blank">
-                                                                <p class="title"><?=$remote_post->title->rendered?></p>
-                                                            </a>
-                                                            <p class="content"><?php 
-                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
-                                                            $excerpt = strip_tags($array);
-                                                            $the_str = mb_substr($excerpt, 0, 100);   
-                                                            
-                                                            // $array =  shorten_string($array, 25); 
-                                                            echo $the_str;
-                                                             ?></p>
-                                                            <p class="date"><?php 
-                                                            $tanggal = date(' Y-m-d', strtotime($remote_post->date));
-                                                             
-                                                            echo $tanggal  ;  ?> | By <?php 
-                                                              echo $remote_post->_embedded->author[0]->name;
-                                                            ?></p>
-                                                        </div>
+                                              <div class="item active ">
+                                              <?php } else {  echo ' <div class="item ">';  }  ?> 
+                                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                    <div class="img-container">
+                                                        <img src="<?=$thumb_url?>" class="img-responsive" loading="lazy"v>
                                                     </div>
-                                               
-                                            </div>
-                                             
-                                       <?php  $x++;
-                                   }
-                                     
-                                ?> 
+                                                    <div class="content-container">
+                                                        <a href="<?=$remote_post->link?>" target="_blank">
+                                                            <p class="title"><?=$remote_post->title->rendered?></p>
+                                                        </a>
+                                                        <p class="content"><?php 
+                                                          $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                          $excerpt = strip_tags($array);
+                                                          $the_str = mb_substr($excerpt, 0, 100);   
+                                                          
+                                                          
+                                                          echo $the_str;
+                                                          ?></p>
+                                                          <p class="date"><?php 
+                                                          $tanggal = date(' Y-m-d', strtotime($remote_post->date));
+                                                          
+                                                          echo $tanggal  ;  ?> | By <?php 
+                                                            echo $remote_post->_embedded->author[0]->name;  ?>
+                                                        </p>
+                                                    </div>
+                                                </div> 
+                                              </div>
+                                              <?php  $x++;  
+                                            }  ?> 
                         
-                        <!--  Example item end -->
+                            <!--  Example item end -->
+                            </div>
+                            <ol class="carousel-indicators article-indicators">
+                                <li data-target="#newsCarousel" data-slide-to="0" class="active"></li>
+                                <li data-target="#newsCarousel" data-slide-to="1"></li>
+                                <li data-target="#newsCarousel" data-slide-to="2"></li>
+                                <li data-target="#newsCarousel" data-slide-to="3"></li>
+                            </ol>
                         </div>
-                        <ol class="carousel-indicators article-indicators">
-                            <li data-target="#newsCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#newsCarousel" data-slide-to="1"></li>
-                            <li data-target="#newsCarousel" data-slide-to="2"></li>
-                            <li data-target="#newsCarousel" data-slide-to="3"></li>
-                        </ol>
                     </div>
                 </div>
-            </div>
                 
             </div>
         </div>
-    </section>
+      </section>
+    
     </div>
-
+    <div class="content-wrapper__"> 
+      <section class="content-article  bg--white"  >
+          <?php include 'services/assets/components/dm-links.php' ?>
+          <?php include 'services/assets/components/other-services.php' ?>
+        </section>
+    </div>
+  </div>
     <?php include 'footer.php';?>
 
     <script>
