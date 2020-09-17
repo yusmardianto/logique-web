@@ -69,7 +69,7 @@
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
     <link rel=" stylesheet  " href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="../css/sidebar-update.css" >
-    <link href="../css/newstyle-ori.css" rel="stylesheet">
+    <link href="../css/newstyle.css" rel="stylesheet">
     <!-- <link href="../css/slick.css" rel="stylesheet">
     <link href="../css/slick-theme.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
@@ -411,32 +411,32 @@
 
  
                     <div class="flex__row case-study__slide">
-                        <div class=" row__item top-2">
+                        <div class=" row__item --sm top-2">
                         <picture>
-                            <source srcset="/img/case-study-1.webp">
+                            <source srcset="/img/case-study-1.webp" type="image/webp">
                             <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
                         </picture>
                             <a href="/en/case-study/caroline-bidding-system/">
                                 <div class="item__hover">
                                 <picture>
-                                    <source srcset="/img/top/i-caroline-update.webp">
+                                    <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
                                     <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
                                 </picture>
-                                <h4>Situs Jual Beli dengan Sistem Penawaran Online <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                                <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
+                                <h4>Cars Selling Site with Online Bidding System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
+                                <p>Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.</p>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                 </div>
                             </a>
                         </div>
-                        <div class=" row__item top-2">
+                        <div class=" row__item --sm top-2">
                         <picture>
-                            <source srcset="/img/case-study-2.webp">
+                            <source srcset="/img/case-study-2.webp" type="image/webp">
                             <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
                         </picture>
                             <a href="/en/case-study/jba-auction-system">
                                 <div class="item__hover">
                                 <picture>
-                                        <source srcset="/img/top/i-jba-update.webp">
+                                        <source srcset="/img/top/i-jba-update.webp" type="image/webp">
                                         <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
                                     </picture>
                              
@@ -450,14 +450,14 @@
                         </div>
                         <div class="row__item --sm">
                         <picture>
-                            <source srcset="/img/case-study-3.webp">
+                            <source srcset="/img/case-study-3.webp" type="image/webp">
                             <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
                         </picture>
                             <a href="/en/case-study/opuspark/">
                                 <div class="item__hover">
                                     
                                     <picture>
-                                    <source srcset="/img/top/i-opus-park.webp">
+                                    <source srcset="/img/top/i-opus-park.webp" type="image/webp">
                                     <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
                                     </picture>  
                                     <div>
@@ -469,13 +469,13 @@
                         </div>
                         <div class="row__item --sm">
                         <picture>
-                            <source srcset="/img/case-study-4.webp">
+                            <source srcset="/img/case-study-4.webp" type="image/webp">
                             <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
                         </picture>
                             <a href="/en/case-study/zuttoride-customer-management-system/">
                                 <div class="item__hover">
                                 <picture>
-                                <source srcset="/img/top/i-zuttoride-update.webp">
+                                <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp">
                                 <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
                                 </picture> 
                                     <div>
@@ -487,13 +487,13 @@
                         </div>
                         <div class="row__item --sm">
                         <picture>
-                            <source srcset="/img/case-study-5.webp">
+                            <source srcset="/img/case-study-5.webp" type="image/webp">
                             <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
                         </picture>
                             <a href="/en/case-study/vip-plaza-progressive-web-app/">
                                 <div class="item__hover">
                                 <picture>
-                                    <source srcset="/img/top/i-vipplaza-update.webp">
+                                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
                                     <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
                                 </picture> 
                                     <div>
@@ -505,10 +505,10 @@
                         </div>
                         <div class="  row__item --sm morecs">
                             <picture>
-                                <source srcset="/img/case-study-klikhoreca.webp">
+                                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
                                 <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt="">
                             </picture>
-                            <a href="/case-study/klikhoreca/">
+                            <a href="/en/case-study/klikhoreca/">
                                 <div class="item__hover">
                                     <picture>
                                         <source srcset="/img/top/klikhoreca.svg">
@@ -523,10 +523,10 @@
                         </div>
                         <div class="c row__item --sm morecs">
                             <picture>
-                                <source srcset="/img/case-study-indonesea.webp">
+                                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
                                 <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt="">
                             </picture>
-                            <a href="/case-study/indonesea/">
+                            <a href="/en/case-study/indonesea/">
                                 <div class="item__hover">
                                     <picture>
                                         <source srcset="/img/top/indonesea-min.webp" >
@@ -541,10 +541,10 @@
                         </div>
                         <div class=" row__item --sm morecs">
                             <picture>
-                                <source srcset="/img/case-study-pan-pacific.webp">
+                                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
                                 <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt="">
                             </picture>
-                            <a href="/case-study/pan-pacific/">
+                            <a href="/en/case-study/pan-pacific/">
                                 <div class="item__hover">
                                     <picture>
                                         <source srcset="/img/top/pan-pacific.svg">
@@ -605,14 +605,14 @@
             <section class="see-list bg--white">
                 <div class="container__">
                     <div class="flex__row">
-                        <div class="col-md-6 col-xs-12 row__item">
+                        <div class="col-sm-6 col-xs-12 row__item">
                             <a href="services.php" class="item item--service">
                                 <img src="/img/service.png" alt="">
                                 <h3>See Service List</h3>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>                           
                         </div>
-                        <div class="col-md-6 col-xs-12 row__item">
+                        <div class="col-sm-6 col-xs-12 row__item">
                             <a href="product.php" class="item item--product">
                                 <img src="/img/product.png" alt="">
                                 <h3>See Product List</h3>
@@ -622,7 +622,7 @@
                         <div class="col-sm-6 col-xs-12 row__item">
                         <a href="contact-us.php" class="item item--contact">
                         <picture>
-                            <source srcset="/img/smartphone.webp">
+                            <source srcset="/img/smartphone.webp" type="image/webp">
                             <img src="/img/smartphone.png"   alt=""  loading="lazy">
                             </picture>
                             
@@ -633,7 +633,7 @@
                         <div class="col-sm-6 col-xs-12 row__item">
                         <a href="../career/" class="item item--career">
                         <picture>
-                            <source srcset="/img/businessman.webp">
+                            <source srcset="/img/businessman.webp" type="image/webp">
                             <img src="/img/businessman.png"   alt=""  loading="lazy">
                             </picture> 
                             <h3>Career</h3>

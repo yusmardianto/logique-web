@@ -262,7 +262,7 @@
             <div class="col-md-4 row__item">
               <div class="item__img nippo">
                 <picture>
-                  <source srcset="/img/top/i-nippo-update.webp">
+                  <source srcset="/img/top/i-nippo-update.webp" type="image/webp">
                   <img src="/img/top/i-nippo-update.png" alt="" loading="lazy" class="img-responsive">
                 </picture>
               </div>
@@ -293,33 +293,33 @@
           <div class="flex__row case-study__slide">
             <div class=" row__item --sm top-2">
               <picture>
-                <source srcset="/img/case-study-1.webp">
+                <source srcset="/img/case-study-1.webp" type="image/webp">
                 <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/en/case-study/caroline-bidding-system/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-caroline-update.webp">
+                  <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
                   <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
                 </picture>
                   
-                  <h4>Situs Jual Beli dengan Sistem Penawaran Online <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                  <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
+                  <h4>Cars Selling Site with Online Bidding System<img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
+                  <p>Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.</p>
                   <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                 </div>
               </a>
             </div>
             <div class=" row__item --sm top-2">
             <picture>
-                <source srcset="/img/case-study-2.webp">
+                <source srcset="/img/case-study-2.webp" type="image/webp">
                 <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/en/case-study/jba-auction-system/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-jba-update.webp">
+                  <source srcset="/img/top/i-jba-update.webp" type="image/webp">
                   <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
                 </picture> 
                   <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
@@ -330,14 +330,14 @@
             </div>
             <div class="  row__item --sm">
             <picture>
-                <source srcset="/img/case-study-3.webp">
+                <source srcset="/img/case-study-3.webp" type="image/webp">
                 <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/en/case-study/opuspark/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-opus-park.webp">
+                  <source srcset="/img/top/i-opus-park.webp" type="image/webp">
                   <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
                 </picture> 
                   <div>
@@ -349,14 +349,14 @@
             </div>
             <div class=" row__item --sm">
             <picture>
-                <source srcset="/img/case-study-4.webp">
+                <source srcset="/img/case-study-4.webp" type="image/webp">
                 <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/en/case-study/zuttoride-customer-management-system/">
                 <div class="item__hover"> 
                   <picture>
-                  <source srcset="/img/top/i-zuttoride-update.webp">
+                  <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp">
                   <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
                 </picture> 
                   <div>
@@ -368,13 +368,13 @@
             </div>
             <div class="  row__item --sm">
               <picture>
-                <source srcset="/img/case-study-5.webp">
+                <source srcset="/img/case-study-5.webp" type="image/webp">
                 <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               <a href="/en/case-study/vip-plaza-progressive-web-app/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/i-vipplaza-update.webp">
+                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
                     <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
                   </picture> 
                  
@@ -387,13 +387,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-klikhoreca.webp">
+                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
                 <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/en/case-study/klikhoreca/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/klikhoreca-min.webp">
+                    <source srcset="/img/top/klikhoreca-min.webp" type="image/webp">
                     <img src="/img/top/klikhoreca-min.png" alt="" class="img-responsive"  loading="lazy">
                   </picture>
                   <div>
@@ -405,13 +405,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-indonesea.webp">
+                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
                 <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/en/case-study/indonesea/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/indonesea-min.webp">
+                    <source srcset="/img/top/indonesea-min.webp" type="image/webp">
                     <img src="/img/top/indonesea.png" alt=""  loading="lazy"  class="img-responsive" > 
                   </picture>
                   <div>
@@ -423,13 +423,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-pan-pacific.webp">
+                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
                 <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/en/case-study/pan-pacific/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/pan-pacific.webp">
+                    <source srcset="/img/top/pan-pacific.webp" type="image/webp">
                     <img src="/img/top/pan-pacific.png" alt=""  loading="lazy">
                   </picture>
                   <div>
@@ -471,7 +471,28 @@
                 <h3>製品について確認する</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
-            </div>            
+            </div> 
+            <div class="col-sm-6 col-xs-12 row__item">
+              <a href="/jp/contact.php" class="item item--contact">
+              <picture>
+                  <source srcset="/img/smartphone.webp" type="image/webp">
+                  <img src="/img/smartphone.png"   alt=""  loading="lazy">
+                </picture>
+                 
+                <h3>お問い合わせ</h3>
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>
+            <div class="col-sm-6 col-xs-12 row__item">
+              <a href="/career/" class="item item--career">
+              <picture>
+                  <source srcset="/img/businessman.webp" type="image/webp">
+                  <img src="/img/businessman.png"   alt=""  loading="lazy">
+                </picture> 
+                <h3>採用/パートナー</h3>
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>           
           </div>
         </div>
       </section>
@@ -479,63 +500,59 @@
         <div class="container__">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="title">Artikel Terkait Pembuatan Website</p>
+                    <p class="title">LOGIQUEからのお知らせ / News (日本語)</p>
                 </div>
             </div>
             <div class="row">
-            <div class="col-md-12">
-            <div class="carousel slide multi-item-carousel" id="newsCarousel">
-                        <div class="carousel-inner">
-                             
+              <div class="col-md-12">
+                <div class="carousel slide multi-item-carousel" id="newsCarousel">
+                    <div class="carousel-inner">         
                              <?php  
                                     function shorten_string($string, $wordsreturned)
-                                {
-                                  $retval = $string;
-                                  $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
-                                  $string = str_replace("\n", " ", $string);
-                                  $array = explode(" ", $string);
-                                  if (count($array)<=$wordsreturned)
-                                  {
-                                    $retval = $string;
-                                  }
-                                  else
-                                  {
-                                    array_splice($array, $wordsreturned);
-                                    $retval = implode(" ", $array)." ...";
-                                  }
-                                  return $retval;
-                                }
-                                function tgl_indo($tanggal){
-                                    $bulan = array (
-                                        1 =>   'Januari',
-                                        'Februari',
-                                        'Maret',
-                                        'April',
-                                        'Mei',
-                                        'Juni',
-                                        'Juli',
-                                        'Agustus',
-                                        'September',
-                                        'Oktober',
-                                        'November',
-                                        'Desember'
-                                    );
-                                    $pecahkan = explode('-', $tanggal);
-                                    
-                                    // variabel pecahkan 0 = tanggal
-                                    // variabel pecahkan 1 = bulan
-                                    // variabel pecahkan 2 = tahun
-                                 
-                                    return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
-                                }
+                                        {
+                                          $retval = $string;
+                                          $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                          $string = str_replace("\n", " ", $string);
+                                          $array = explode(" ", $string);
+                                          if (count($array)<=$wordsreturned)
+                                          {
+                                            $retval = $string;
+                                          }
+                                          else
+                                          {
+                                            array_splice($array, $wordsreturned);
+                                            $retval = implode(" ", $array)." ...";
+                                          }
+                                          return $retval;
+                                        }
+                                        function tgl_indo($tanggal){
+                                          $bulan = array (
+                                              1 =>   'Januari',
+                                              'Februari',
+                                              'Maret',
+                                              'April',
+                                              'Mei',
+                                              'Juni',
+                                              'Juli',
+                                              'Agustus',
+                                              'September',
+                                              'Oktober',
+                                              'November',
+                                              'Desember'
+                                          );
+                                          $pecahkan = explode('-', $tanggal);
+                                          
+                                          // variabel pecahkan 0 = tanggal
+                                          // variabel pecahkan 1 = bulan
+                                          // variabel pecahkan 2 = tahun
+                                      
+                                          return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                                      }
                                     $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?categories=76&per_page=5&_embed');
                                 
                                         $x = 0;
 
-                                       $remote_posts = json_decode( $url ); 
-                                       // printf('<pre>'); 
-                                       //  var_dump($url);
-                                       // printf('</pre>');
+                                       $remote_posts = json_decode( $url );  ;
                                         foreach( $remote_posts as $remote_post ) { 
                                             $thumb_full_url = '';
                                             $thumb_url = '';
@@ -547,61 +564,60 @@
                                             //echo  $thumb_url ;
                                             if($x==0) { 
                                             ?>
-                                            <div class="item active ">
-                                             <?php } else{
-                                                echo ' <div class="item ">';
-                                             }
-
-                                             ?> 
-                                                    <div class="col-xs-12 col-sm-6 col-md-6 article-container">
-                                                        <div class="img-container">
-                                                            <img src="<?=$thumb_url?>" class="img-responsive" loading="lazy"v>
-                                                        </div>
-                                                        <div class="content-container">
-                                                            <a href="<?=$remote_post->link?>" target="_blank">
-                                                                <p class="title"><?=$remote_post->title->rendered?></p>
-                                                            </a>
-                                                            <p class="content"><?php 
-                                                            $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
-                                                            $excerpt = strip_tags($array);
-                                                            $the_str = mb_substr($excerpt, 0, 100);   
-                                                            
-                                                            // $array =  shorten_string($array, 25); 
-                                                            echo $the_str;
-                                                             ?></p>
-                                                            <p class="date"><?php 
-                                                            $tanggal = date(' Y-m-d', strtotime($remote_post->date));
-                                                             
-                                                            echo $tanggal  ;  ?> | By <?php 
-                                                              echo $remote_post->_embedded->author[0]->name;
-                                                            ?></p>
-                                                        </div>
+                                              <div class="item active ">
+                                              <?php } else {  echo ' <div class="item ">';  }  ?> 
+                                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                    <div class="img-container">
+                                                        <img src="<?=$thumb_url?>" class="img-responsive" loading="lazy"v>
                                                     </div>
-                                               
-                                            </div>
-                                             
-                                       <?php  $x++;
-                                   }
-                                     
-                                ?> 
+                                                    <div class="content-container">
+                                                        <a href="<?=$remote_post->link?>" target="_blank">
+                                                            <p class="title"><?=$remote_post->title->rendered?></p>
+                                                        </a>
+                                                        <p class="content"><?php 
+                                                          $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                          $excerpt = strip_tags($array);
+                                                          $the_str = mb_substr($excerpt, 0, 100);   
+                                                          
+                                                          
+                                                          echo $the_str;
+                                                          ?></p>
+                                                          <p class="date"><?php 
+                                                          $tanggal = date(' Y-m-d', strtotime($remote_post->date));
+                                                          
+                                                          echo $tanggal  ;  ?> | By <?php 
+                                                            echo $remote_post->_embedded->author[0]->name;  ?>
+                                                        </p>
+                                                    </div>
+                                                </div> 
+                                              </div>
+                                              <?php  $x++;  
+                                            }  ?> 
                         
-                        <!--  Example item end -->
+                            <!--  Example item end -->
+                            </div>
+                            <ol class="carousel-indicators article-indicators">
+                                <li data-target="#newsCarousel" data-slide-to="0" class="active"></li>
+                                <li data-target="#newsCarousel" data-slide-to="1"></li>
+                                <li data-target="#newsCarousel" data-slide-to="2"></li>
+                                <li data-target="#newsCarousel" data-slide-to="3"></li>
+                            </ol>
                         </div>
-                        <ol class="carousel-indicators article-indicators">
-                            <li data-target="#newsCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#newsCarousel" data-slide-to="1"></li>
-                            <li data-target="#newsCarousel" data-slide-to="2"></li>
-                            <li data-target="#newsCarousel" data-slide-to="3"></li>
-                        </ol>
                     </div>
                 </div>
-            </div>
                 
             </div>
         </div>
-    </section>
+      </section>
+    
     </div>
-
+    <!-- <div class="content-wrapper__"> 
+      <section class="content-article  bg--white"  >
+          <?php //include 'services/assets/components/dm-links.php' ?>
+          <?php //include 'services/assets/components/other-services.php' ?>
+        </section>
+    </div> -->
+  </div>
     <?php include 'footer.php';?>
 
     <script>

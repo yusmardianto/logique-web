@@ -252,7 +252,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-3">
                             <a href="/case-study/klikhoreca/">
                             <picture>
-                                <source srcset="img/btn-klikhoreca.webp">
+                                <source srcset="img/btn-klikhoreca.webp" >
                                 <img class="img-responsive center-block" src="img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
                             </picture>
                             </a>
@@ -260,7 +260,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-3">
                             <a href="/case-study/indonesea/">
                             <picture>
-                                <source srcset="img/btn-indonesea.webp">
+                                <source srcset="img/btn-indonesea.webp"  type="image/webp">
                                 <img class="img-responsive center-block" src="img/btn-indonesea.png" alt="Studi Kasus Lainnya">
                             </picture>
                             </a>
@@ -268,7 +268,7 @@
                         <div class="col-xs-12 col-sm-6 col-md-3">
                             <a href="/case-study/pan-pacific/">
                             <picture>
-                                <source srcset="img/btn-pan-pacific.webp">
+                                <source srcset="img/btn-pan-pacific.webp"  type="image/webp">
                                 <img class="img-responsive center-block" src="img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
                             </picture>
                             </a>
