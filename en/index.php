@@ -76,7 +76,7 @@
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
 
     <link rel="stylesheet  " href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
-   
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 <!--     <link rel="preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
  
 </head>
