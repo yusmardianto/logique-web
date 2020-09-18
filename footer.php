@@ -67,35 +67,36 @@
     <!-- End Twitter universal website tag code -->
     <div class="container__footer">
         <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
+            <div class="col-md-offset-1 col-md-10 col-sm-12">
                 <div class="row flex-row">
-                    <div class="col-sm-4 company-info">
+                    <div class="col-md-4 col-sm-12 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">
-                        <div class="footer-title "> <span itemprop="name" class="logo-font" >LOGIQUE</span></strong></div>
+                            <div class="footer-title "> 
+                                <span itemprop="name" class="logo-font" >LOGIQUE</span> 
+                            </div>
                             <div itemprop="address" class='footer-address' itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> <strong>Ad Premier Building 19th Floor. </strong><br>Jalan Tb. Simatupang No. 5
                                     <br />
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
-                                    itemprop="postalCode">12550</span>
+                                    itemprop="postalCode">12550</span>  
+                            </div> 
+                            <div class="footer-extrainfo">    
                                 <ul class="phone-info">
-                                    <li class=""><img src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
-                                    <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                    rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
-                                        class="waNumber">0811-870-321</span></a></li> 
-                                </ul> 
-                                
-                            </div>
+                                                <li class=""><img src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                                <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
+                                                rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
+                                                    class="waNumber">0811-870-321</span></a></li> 
+                                            </ul> 
+                                            <ul class="medsos-new">
+                                    <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook" class="facebook-icon"> </a></li>
+                                    <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer"  aria-label="Twitter" class="twitter-icon"></a></li>
+                                    <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram" class='instagram-icon'> </a></li>
+                                    <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"  aria-label="LinkedIn" class="linkedin-icon"> </a></li>
+                                </ul>
+                            </div>  
                         </div>
-                         
-                       
-                        <ul class="medsos-new">
-                            <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook" class="facebook-icon"> </a></li>
-                            <li><a href="https://twitter.com/LogiqueDigital" target="_blank" rel="noreferrer"  aria-label="Twitter" class="twitter-icon"></a></li>
-                            <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram" class='instagram-icon'> </a></li>
-                            <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"  aria-label="LinkedIn" class="linkedin-icon"> </a></li>
-                        </ul>
                     </div>
-                    <div class="col-sm-8 company-footer-nav">
+                    <div class="col-md-8 col-sm-12 company-footer-nav">
                         <div class="row">
                             <div class="col-sm-6 link-footer-nav main-footer-nav">
                                 <ul>
@@ -115,9 +116,7 @@
                                         </li>
                                         </ul>
                                     </li> 
-                                    <li><a href="/portofolio.php">Portofolio</a></li>
-                                    
-                                    
+                                    <li><a href="/portofolio.php">Portofolio</a></li> 
                                 </ul>
                             </div> 
                             <div class="col-sm-6 link-footer-nav">
@@ -296,22 +295,6 @@ $('.map-container')
 
 <!-- MULTI DROPDOWN -->
 <script>
-    
-if($.browser)
-{ 
-    var sources = document.querySelectorAll('video#bgvid source');
-    // Define the video object this source is contained inside
-    var video = document.querySelector('video#bgvid');
-    for(var i = 0; i<sources.length;i++) {
-    sources[i].setAttribute('src', sources[i].getAttribute('data-src'));
-    }
-    video.load(); 
-
-    }
-else
-{
-   
-}
 $(document).ready(function() {
     $('.dropdown-submenu .dropdown-submenu__item').on("mouseover", function(e) {
         $('.dropdown-menu.show').removeClass("show");

@@ -113,7 +113,7 @@ span {
     position: fixed;
     width: 100%; 
     z-index: 10;
-    box-shadow: 2px 4px 9px 0px #ccc;
+    box-shadow: 2px 4px 9px 0px #ccc; 
   }  
 /*header*/
 
@@ -778,12 +778,42 @@ footer ul, footer ol{
         display: none
     }
   }
+  @media (max-width: 991px) { 
+    .container__footer{
+      padding-left: 2px;
+    }
+    footer .medsos-new{
+      padding-left: 0;
+    }
+    .footer-address, .footer-extrainfo{
+      display: inline-block;
+      vertical-align: top;
+    }
+    .footer-extrainfo > ul {
+      display: block;
+      margin-left: 0;
+      padding:0;
+  
+    }
+    .footer-extrainfo ul li{
+      list-style: none;
+    }
+    .footer-address{
+      padding-right: 10px;
+    }
+    .company-info{
+      margin-bottom: 30px;
+    }
+    footer p{
+      padding-left: 0;
+    }
+  }
   @media (max-width: 767.98px){
     .container__ {
         width: 900px;
         padding: 2.5em;
     }
-
+    
     footer {
         margin-left: 0;
         padding: 30px 10px 10px; 
@@ -831,6 +861,7 @@ footer ul, footer ol{
     }
     .lang-logo--update-design {
         padding-bottom: 0;
+        margin:0
     } 
     .title-container {
         margin-left: 0;
@@ -887,4 +918,7 @@ footer ul, footer ol{
         padding: 1em 1em;
         width: auto;  
     } 
+    #newsCarousel .item  .img-container{
+      text-align: center;
+    }
 }

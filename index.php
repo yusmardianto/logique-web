@@ -23,6 +23,7 @@
   <link rel="canonical" href="https://www.logique.co.id/" />  
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
   <script>
   ! function(f, b, e, v, n, t, s) {
     if (f.fbq) return;
@@ -680,7 +681,24 @@
 
   </div>
   <?php include 'footer.php';?>
- 
+  <script>
+    
+    if($.browser)
+    { 
+        var sources = document.querySelectorAll('video#bgvid source');
+        // Define the video object this source is contained inside
+        var video = document.querySelector('video#bgvid');
+        for(var i = 0; i<sources.length;i++) {
+        sources[i].setAttribute('src', sources[i].getAttribute('data-src'));
+        }
+        video.load(); 
+    
+        }
+    else
+    {
+       
+    }
+    </script>
   <script>
   $(document).ready(function() {
   $slick_slider = $('.case-study__slide');
