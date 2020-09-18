@@ -47,9 +47,8 @@
 }
 
 .logique-nav.logique-nav--update .margin-for-nav > div {
-    background-color: transparent;
-    padding-top: 10px;
-    padding-left: 10px;
+    background-color: transparent; 
+    padding: 10px;
     line-height: 0;
     height: 80px;
 }
