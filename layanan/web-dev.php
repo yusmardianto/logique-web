@@ -121,7 +121,7 @@ if(isset($_POST['submitted']))
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="produk.php">
+                            <a href="/produk.php">
                                 <div class="img-product"></div>
                                 Produk
                             </a>
@@ -156,7 +156,7 @@ if(isset($_POST['submitted']))
                 <div class="container">
                     <div class="row">
                     <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
-                        <a href="index.php" class='logo-container'><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+                        <a href="/index.php" class='logo-container'><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                         <ul class="list-inline">
                             <li><a href="/en/services/web-dev.php">EN</a></li>
                             <li class="active"><a href="#">ID</a></li>
