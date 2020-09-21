@@ -281,7 +281,7 @@
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/case-study/klikhoreca/">
                   <picture>
-                    <source srcset="img/btn-klikhoreca.webp">
+                    <source srcset="img/btn-klikhoreca.webp" type="image/webp">
                     <img class="img-responsive center-block" src="img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
                   </picture>
                 </a>
@@ -289,7 +289,7 @@
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/case-study/indonesea/">
                   <picture>
-                    <source srcset="img/btn-indonesea.webp">
+                    <source srcset="img/btn-indonesea.webp" type="image/webp">
                     <img class="img-responsive center-block" src="img/btn-indonesea.png" alt="Studi Kasus Lainnya">
                   </picture>
                 </a>
@@ -297,7 +297,7 @@
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/case-study/pan-pacific/">
                   <picture>
-                    <source srcset="img/btn-pan-pacific.webp">
+                    <source srcset="img/btn-pan-pacific.webp" type="image/webp">
                     <img class="img-responsive center-block" src="img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
                   </picture>
                 </a>
@@ -321,7 +321,7 @@
                     <img src="/case-study/img/icon/btn-contact.png" alt="">
                   </picture>
                   <h5>KONTAK LOGIQUE</h5>
-                  <p>Untuk konsultasi atau mendapatkan informasi lengkap dengan layanan kami lainnya, klik disini.</p> 
+                  <p class="hidden-xs">Untuk konsultasi atau mendapatkan informasi lengkap dengan layanan kami lainnya, klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">          
                 </a>
               </div>
@@ -332,7 +332,7 @@
                     <img src="/case-study/img/icon/btn-service.png" alt="">
                   </picture>
                   <h5>LAYANAN LOGIQUE</h5>
-                  <p>Seluruh informasi mengenai layanan kami selengkapnya bisa Anda temukan disini.</p> 
+                  <p class="hidden-xs">Seluruh informasi mengenai layanan kami selengkapnya bisa Anda temukan disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -343,7 +343,7 @@
                     <img src="/case-study/img/icon/btn-portfolio.png" alt="">
                   </picture>
                   <h5>PORTOFOLIO</h5>
-                  <p>Temukan informasi mengenai perusahaan yang telah menjadi klien kami disini.</p> 
+                  <p class="hidden-xs">Temukan informasi mengenai perusahaan yang telah menjadi klien kami disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
                 </a>
               </div>
@@ -354,7 +354,7 @@
                     <img src="/case-study/img/icon/btn-web-dev.png" alt="">
                   </picture>
                   <h5>INGIN BUAT WEBSITE?</h5>
-                  <p>Dapatkan informasi layanan mengenai pembuatan website berstandar tinggi dengan klik disini.</p> 
+                  <p class="hidden-xs">Dapatkan informasi layanan mengenai pembuatan website berstandar tinggi dengan klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">         
                 </a>
               </div>
@@ -365,7 +365,7 @@
                     <img src="/case-study/img/icon/btn-web-system.png" alt="">
                   </picture>
                   <h5>INGIN BUAT SISTEM BERBASIS WEB?</h5>
-                  <p>Temukan informasi lengkap mengenai layanan pembuatan sistem berbasis web dengan klik disini.</p> 
+                  <p class="hidden-xs">Temukan informasi lengkap mengenai layanan pembuatan sistem berbasis web dengan klik disini.</p> 
                   <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">          
                 </a>
               </div>

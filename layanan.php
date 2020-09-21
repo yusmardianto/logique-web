@@ -111,13 +111,13 @@
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
                             <div class="container">
+                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                                        class="img-responsive logo--update-design" /></a>
                                 <ul class="list-inline">
                                     <li><a href="en/services.php">EN</a></li>
                                     <li class="active"><a href="#">ID</a></li>
                                     <li><a href="jp/services.php">JP</a></li>
                                 </ul>
-                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>

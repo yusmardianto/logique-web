@@ -225,7 +225,7 @@
                     <div class="content__wrapper">
                         <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://aiapremieracademy.co.id/" target="_blank" rel="noreferrer">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_aia" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
                                     <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
@@ -235,7 +235,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.bekalhidup.com" target="_blank" rel="noreferrer">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
                                     <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
@@ -245,7 +245,7 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://jba.co.id/" target="_blank" rel="noreferrer">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
                                     <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
@@ -436,6 +436,330 @@
                     </a>
                 </div>
             </div>
+
+            <section class="portfolio__modal">
+                <div class="modal fade modal-section" id="modal_aia" tabindex="-1" role="dialog" aria-labelledby="modal_aia" aria-hidden="true">
+                    <div class="modal-dialog modal-lg" role="document">
+                        <div class="modal-content">
+                            <div class="modal-body aia-section">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                                <div class="title-section">
+                                    <p class="title">AIA - Premier Academy</p>
+                                    <p class="content">Merupakan situs website yang membantu AIA dalam menyediakan informasi yang dibutuhkan oleh agen dan calon agen mengenai AIA Premier Academy.</p>
+                                    <p class="content">
+                                        Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                                    </p>
+                                    <p class="content">
+                                        Pembuatan desain disesuaikan dengan konsep Formula 1 yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik tanpa mengurangi fungsionalitas dan tetap memperhatikan konsep responsif desain yang diperlukan saat ini. 
+                                    </p>
+                                    <p class="content">
+                                        Pada website juga terdapat implementasi Income Calculator berdasarkan formula perhitungan yang komprehensif dengan variasi output yang mencakup grafik. Hasil akhir website ini kemudian di implementasi pada infrastruktur AWS. 
+                                    </p>
+                                    <p class="content">
+                                        Salah satu tantangan dalam proyek ini adalah kebutuhan AIA untuk merilis versi awal hanya dalam 2 minggu, dan LOGIQUE mampu menjawab ekspektasi tersebut dengan baik. 
+                                    </p>
+                                    <p class="content">
+                                        Setelah versi awal dirilis, pengembangan berlanjut dengan peningkatan fungsi termasuk implementasi fungsi kalkulator dengan total waktu pengembangan dari awal sampai akhir sekitar 5 minggu.
+                                    </p>
+                                </div>
+                                <div class="content-section">
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>URL</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <a href="https://aiapremieracademy.co.id/en/home" target="_blank">
+                                                <p>https://aiapremieracademy.co.id/en/home</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Industry/Industry</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Asuransi</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Tipe</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Website Statis (Responsif) dan Fungsi Kalkulator</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Durasi</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>5 Minggu</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Ruang Lingkup</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Manajemen Proyek (PM), Perencanaan Layout / Desain, HTML Coding dan Animasi, Fungsional, Implementasi Cloud Server</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container scope-container">
+                                        <div class="content-title">
+                                            <p>Tim</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Pengarah Proyek (PM)</p>
+                                            <p>
+                                            Desainer Kreatif
+                                            </p>
+                                            <p>
+                                            Implementasi HTML dan Animasi
+                                            </p>
+                                            <p>
+                                            Fungsional
+                                            </p>
+                                            <p>
+                                            Testing
+                                            </p>
+                                            <p>
+                                            Infrastruktur
+                                            </p>
+                                                
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Nico</p>
+                                            <p>
+                                            Adit/Angel
+                                            </p>
+                                            <p>
+                                            Fahmi, Bagas
+                                            </p>
+                                            <p>
+                                            Andre
+                                            </p>
+                                            <p>
+                                            Angga
+                                            </p>
+                                            <p>
+                                            Wisya
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="img-section">
+                                    <img loading="lazy" src="/img/portfolio/update/modal-aia.jpg" alt="">
+                                    <br/>
+                                    <img loading="lazy" src="/img/portfolio/update/modal-aia2.jpg" alt="">
+                                    <br/>
+                                    <img loading="lazy" src="/img/portfolio/update/modal-aia3.jpg" alt="">
+                                    <br/>
+                                    <img loading="lazy" src="/img/portfolio/update/modal-aia4.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal fade modal-section" id="modal_panin" tabindex="-1" role="dialog" aria-labelledby="modal_panin" aria-hidden="true">
+                    <div class="modal-dialog modal-lg" role="document">
+                        <div class="modal-content">
+                            <div class="modal-body aia-section">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                                <div class="title-section">
+                                    <p class="title">Panin Dai-ichi Life – Bekal Hidup</p>
+                                    <p class="content">
+                                        Merupakan suatu terobosan dari Panin Dai-ichi Life dalam bentuk produk-produk asuransi digital yang dapat dibeli langsung secara online melalui website E-Commerce. 
+                                    </p>
+                                    <p class="content">
+                                        Berangkat dari pengalaman LOGIQUE yang telah banyak menangani proyek E-Commerce baik untuk industri asuransi maupun barang retail, kami membantu merancang konsep e-commerce Panin Dai-ichi Life mulai dari tahap perencanaan, desain, pengembangan kode, dan implementasi pada server yang telah disediakan. 
+                                    </p>
+                                    <p class="content">
+                                        Pembuatan desain disesuaikan dengan konsep branding ‘Bekal Hidup’ yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik, termasuk sangat memperhatikan User Experience untuk memudahkan Customer dalam melakukan pembelian produk asuransi yang ada. 
+                                    </p>
+                                    <p class="content">
+                                        Dalam website e-commerce ini, Customer dapat melakukan pembelian beberapa produk asuransi sejenis untuk menerima keuntungan ganda; sistem secara otomatis melakukan verifikasi apakah Customer tersebut masih dapat melakukan pembelian produk dengan kriteria-kriteria yang telah ditentukan. 
+                                    </p>
+                                    <p class="content">
+                                        Website E-Commerce ini juga terintegrasi dengan sistem pembayaran Midtrans yang mencakup pembelian awal dan recurring serta integrasi dengan sistem inti dari Panin Dai-ichi Life itu sendiri. 
+                                    </p>
+                                    <p class="content">
+                                        Dalam pelaksanaannya, LOGIQUE membantu Panin Dai-ichi memiliki sebuah website E-Commerce yang dapat digunakan dalam waktu 3 bulan (fase 1), yang kemudian berlanjut dengan peningkatan fungsi untuk memenuhi cakupan tipe produk asuransi baru yang akan disediakan secara online di fase 2.
+                                    </p>
+                                </div>
+                                <div class="content-section">
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>URL</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <a href="https://www.bekalhidup.com/" target="_blank">
+                                                <p>https://www.bekalhidup.com/</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Industri</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Asuransi</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Tipe</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>E-Commerce</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Durasi</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>3 Bulan (Fase 1)</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Ruang Lingkup</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Manajemen Proyek (PM), Perencanaan Konsep, Perencanaan Layout / Desain, HTML Coding, Fungsional dan Integrasi Sistem Inti, Integrasi <i>Payment Gateway</i></p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container scope-container">
+                                        <div class="content-title">
+                                            <p>Tim</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Pengarah Proyek (PM)</p>
+                                            <p>
+                                            Perencanaan Konsep
+                                            </p>
+                                            <p>
+                                            Desainer Kreatif
+                                            </p>
+                                            <p>
+                                            Implementasi HTML dan Animasi
+                                            </p>
+                                            <p>
+                                            Fungsional
+                                            </p>
+                                            <p>
+                                            Testing
+                                            </p>
+                                            <p>
+                                            Infrastruktur
+                                            </p>  	
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Paskal</p>
+                                            <p>
+                                            Paskal / Irvan
+                                            </p>
+                                            <p>
+                                            Adit
+                                            </p>
+                                            <p>
+                                            Anggo, Nico
+                                            </p>
+                                            <p>
+                                            Daniel, Dimas
+                                            </p>
+                                            <p>
+                                            Winda, Edi
+                                            </p>
+                                            <p>
+                                            Wisya
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="img-section">
+                                    <img loading="lazy" src="/img/portfolio/update/modal-panin.jpg" alt="">
+                                    <br/>
+                                    <img loading="lazy" src="/img/portfolio/update/modal-panin2.jpg" alt="">
+                                    <br/>
+                                    <img loading="lazy" src="/img/portfolio/update/modal-panin3.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal fade modal-section" id="modal_jba" tabindex="-1" role="dialog" aria-labelledby="modal_jba" aria-hidden="true">
+                    <div class="modal-dialog modal-lg" role="document">
+                        <div class="modal-content">
+                            <div class="modal-body aia-section">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                </button>
+                                <div class="title-section">
+                                    <p class="title">JBA – Website Perusahaan dan Layanan</p>
+                                    <p class="content">
+                                    Merupakan situs website yang menyediakan semua informasi yang dibutuhkan oleh pelanggan terkait lelang mobil dan motor yang dilakukan oleh JBA Indonesia. 
+                                    </p>
+                                    <p class="content">
+                                    Berdasarkan kebutuhan dan materi yang diberikan user kami merancang website tersebut mulai dari desain, pengembangan kode, dan implementasi pada cloud server. 
+                                    </p>
+                                    <p class="content">
+                                    Konsep pembuatan desain diarahkan untuk menguatkan kesan korporasi yang terpercaya dan profesional, dengan implementasi yang mudah digunakan pengguna, dan pengaplikasian teknologi desain responsif yang dapat dilihat dengan baik pada Smartphone, Tablet, dan Desktop. 
+                                    </p>
+                                    <p class="content">
+                                    Untuk dapat menampilkan data-data mobil dan motor yang dilelang, website terintegrasi dengan sistem inti melalui API yang juga dirancang oleh LOGIQUE dengan hasil akhir website yang diimplementasi pada infrastruktur AWS. 
+                                    </p>
+                                    <p class="content">
+                                    Selain pembuatan website perusahaan, LOGIQUE membantu JBA secara menyeluruh untuk pembuatan berbagai sistem dan aplikasi mobile untuk mendukung proses bisnis yang ada.
+                                    </p>
+                                </div>
+                                <div class="content-section">
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>URL</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <a href="https://jba.co.id/" target="_blank">
+                                                <p>https://jba.co.id/</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Industri</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Otomotif / Lelang</p>
+                                        </div>
+                                    </div>
+                                    <div class="content-container">
+                                        <div class="content-title">
+                                            <p>Tipe</p>
+                                        </div>
+                                        <div class="content-desc">
+                                            <p>Website</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="img-section">
+                                    <img loading="lazy" src="/img/portfolio/update/modal-jba1.jpg" alt="">
+                                    <br />
+                                    <img loading="lazy" src="/img/portfolio/update/modal-jba2.jpg" alt="">
+                                    <br />
+                                    <img loading="lazy" src="/img/portfolio/update/modal-jba4.jpg" alt="">
+                                    <br />
+                                    <img loading="lazy" src="/img/portfolio/update/modal-jba6.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
         </div>
 

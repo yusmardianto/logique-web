@@ -734,6 +734,8 @@ if($kodeBarang == 0)
 		$filename  = "white-paper-commerce.pdf";
 	}else if($type == 3){
 		$filename  = "white-paper-security.pdf";
+	}else if($type == 4){
+		$filename  = "white-paper-ancaman-serangan-web-application.pdf";
 	}
 		$back_dir    ="whitepaper/";
 		$file = $back_dir.$filename;
