@@ -43,26 +43,25 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="Sebagai salah satu pembuat website terkemuka di Indonesia, LOGIQUE memiliki tahapan pembuatan website tersendiri yang terstruktur dan profesional dalam memberikan jasa dan layanan terbaiknya pada klien. Berikut penjelasan sederhana dari tiap tahap pembuatan website dari LOGIQUE.">
+         content="LOGIQUE adalah perusahaan pengembang web di Jakarta. Melayani jasa pembuatan website perusahaan, toko online, UMKM & lainnya. Desain Profesional Harga Bersaing.">
      <meta name="keywords"
-         content="pembuatan website, pengembangan aplikasi, pembuatan aplikasi, jasa konsultasi, aplikasi android, jasa pembuatan website, logique, logique digital indonesia, mekanisme, desain web, aplikasi android, keamanan web, pengembangan website, jasa pembuatan website, pembuatan website perusahaan.">
+         content="jasa pembuatan website, jasa pembuatan website profesional, jasa pembuatan website jakarta">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/layanan/web-dev.php" />  
 
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE">
+    <meta property="og:title" content="Perusahaan Jasa Pembuatan Website di Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/web-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="Sebagai salah satu pembuat website terkemuka di Indonesia, LOGIQUE memiliki tahapan pembuatan website tersendiri yang terstruktur dan profesional dalam memberikan jasa dan layanan terbaiknya pada klien. Berikut penjelasan sederhana dari tiap tahap pembuatan website dari LOGIQUE.">
-     <title>Jasa Pembuatan Website | Tahapan Pembuatan Website | LOGIQUE</title>
+    <meta property="og:description" content="LOGIQUE adalah perusahaan pengembang web di Jakarta. Melayani jasa pembuatan website perusahaan, toko online, UMKM & lainnya. Desain Profesional Harga Bersaing.">
+     <title>Perusahaan Jasa Pembuatan Website di Jakarta | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
-    <link href="assets/css/style-webdev-new.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="../css/sidebar-update.css" >
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="assets/css/style-webdev-new.css" rel="stylesheet"> 
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -84,9 +83,7 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div class="side-container"></div>
-    <div>
-
+      <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
         <!-- NAVIGATION -->
         <div class="nav-lp">
             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -97,7 +94,7 @@ if(isset($_POST['submitted']))
             </button>
             <div class="collapse navbar-collapse" id="myNavbar">
                 <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update in-jp">
+                <div class="logique-nav logique-nav--update ">
                     <div class="margin-for-nav">
                         <div class="text-center">
                             <a href="/">
@@ -124,7 +121,7 @@ if(isset($_POST['submitted']))
                             </a>
                         </div>
                         <div class="text-center">
-                            <a href="produk.php">
+                            <a href="/produk.php">
                                 <div class="img-product"></div>
                                 Produk
                             </a>
@@ -154,57 +151,48 @@ if(isset($_POST['submitted']))
         <!-- NAVIGATION -->
 
         <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+        <div class="container-fluid"> 
+            <div class=" lang-logo--update-design">
                 <div class="container">
                     <div class="row">
-                        <div class="col-sm-12">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/services/web-dev.php">JP</a></li>
-                                </ul>
-                                <a href="/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
+                    <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
+                        <a href="/index.php" class='logo-container'><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+                        <ul class="list-inline">
+                            <li><a href="/en/services/web-dev.php">EN</a></li>
+                            <li class="active"><a href="#">ID</a></li>
+                            <li><a href="/jp/services/web-dev.php">JP</a></li>
+                        </ul> 
+                    </div>
                     </div>
                 </div>
             </div>
-        </div>disini
+        </div>
         <!-- END HEADER -->
 
-        <header class="content-wrapper__">
-            
-            <div class="text-left --top">
-                <div class="container-fluid">
-                    <div class="row bg-section">
-                        <div class="col-md-12">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
-                        </div>
-                        <div class="col-sm-12 breadcrumb-section">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/index.php"><span itemprop="name">Beranda</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">Web Development</span></a>
-                                    <meta itemprop="position" content="3" />
-                                </li>
-                            </ol>
-                        </div>
-                        <div class="col-md-12 m-t-2em main-section">
-                            <div class="container">
+        <header class="content-wrapper__ header" style="">
+            <div class="container__">
+                <div class="bg-header">
+                <div class=" breadcrumb-section container">
+                    <ol class="breadcrumb breadcrumb--update-design" itemscope
+                        itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                href="/index.php"><span itemprop="name">Beranda</span></a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                itemprop="item"><span itemprop="name">Web Development</span></a>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                    </ol>
+                </div>
+                <div class="main-section  "> 
                                 <div class="row">
-                                    <div class="col-md-5 col-sm-5 col-lg-6"></div>
-                                    <div class="col-md-7 col-sm-7 col-lg-6">
+                                    <div class="col-md-6 "></div>
+                                    <div class="col-md-6 col-sm-12">
                                         <h1 class="title">
                                             <span>Jasa Pembuatan Website LOGIQUE</span>
                                         </h1>
@@ -221,14 +209,12 @@ if(isset($_POST['submitted']))
                                             </p>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
+                                </div> 
                         </div>
                     </div>
-                </div>
-            </div>
+            </div>      
         </header>
-    </div>
+    
     <section class="about">
         <div class="container">
             <div class="row">
@@ -463,15 +449,15 @@ if(isset($_POST['submitted']))
             </div>
             <div class="row portofolio-section">
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                        <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="AIA website">
                         <p class="portofolio-title text-center">AIA</p>
                     </div>
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                        <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="panin website">
                         <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                 </div>
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-                        <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="jba website">
                         <p class="portofolio-title text-center">JBA</p>
                 </div>
             </div>
@@ -696,7 +682,7 @@ if(isset($_POST['submitted']))
                     <p class="title">White Paper Tentang Pembuatan Web di Indonesia</p>
                 </div>
             </div>
-            <div class="row gallery-container">
+            <div class="row gallery-container white-paper">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
                         <img loading="lazy" src="assets/img/img-webdev/gly1.png" class="img-responsive">
@@ -967,12 +953,12 @@ Proses Bisnis Perusahaan</p>
     </section>
     <section class="domore">
         <div class="container">
-            <div class="row img-container">
-                <div class="col-md-12">
-                    <img loading="lazy" src="assets/img/img-webdev/domore.png" alt="">
-                </div>
-                <div class="col-md-12 col-lg-8 content-container">
-                    <p class="title">Kami selalu siap untuk membantu Anda dalam pembuatan dan pengembangan situs web, serta:</p>
+            <div class="domore-container"  >
+                <div class="row">
+                    <div class="col-sm-5"></div>
+                    <div class="col-md-7 col-sm-12">
+                    <div class="domore-content">
+              <p class="title">Kami selalu siap untuk membantu Anda dalam pembuatan dan pengembangan situs web, serta:</p>
                     <p class="list">
                         • 	Pembuatan dan /atau pengoperasian situs website
                     </p>
@@ -1009,8 +995,12 @@ Proses Bisnis Perusahaan</p>
                     <p class="list">
                         • 	Membuat dan memasang chatbot online untuk situs website Anda
                     </p>
+              </div> 
+                    </div>
+
                 </div>
-            </div>
+                               
+            </div> 
             <div class="row">
                 <div class="col-md-12">
                     <a href="/hubungi-kami.php">
@@ -1029,20 +1019,20 @@ Proses Bisnis Perusahaan</p>
             <div class="row ads-container">
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt=" facebook ads">
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
+                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="linkedinads">
                     </a>
                 </div>
             </div>
         </div>
     </section>
-    <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+    <!-- <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section> -->
 
-    <section id="modal">
+    <div id="modal">
         <div class="modal fade modal-section" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
@@ -1157,13 +1147,13 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/aia.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia.jpg" alt="AIA Website">
                             <br/>
-                            <img loading="lazy" src="assets/img/aia2.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia2.jpg" alt="AIA Website">
                             <br/>
-                            <img loading="lazy" src="assets/img/aia3.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia3.jpg" alt="AIA Website">
                             <br/>
-                            <img loading="lazy" src="assets/img/aia4.jpg" alt="">
+                            <img loading="lazy" src="assets/img/aia4.jpg" alt="AIA Website">
                         </div>
                     </div>
                 </div>
@@ -1290,11 +1280,11 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/panin.jpg" alt="">
+                            <img loading="lazy" src="assets/img/panin.jpg" alt="Panin Website">
                             <br/>
-                            <img loading="lazy" src="assets/img/panin2.jpg" alt="">
+                            <img loading="lazy" src="assets/img/panin2.jpg" alt="Panin Website">
                             <br/>
-                            <img loading="lazy" src="assets/img/panin3.jpg" alt="">
+                            <img loading="lazy" src="assets/img/panin3.jpg" alt="Panin Website">
                         </div>
                     </div>
                 </div>
@@ -1354,19 +1344,20 @@ Proses Bisnis Perusahaan</p>
                             </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/jba1.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba1.jpg" alt="JBA website">
                             <br />
-                            <img loading="lazy" src="assets/img/jba2.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba2.jpg" alt="JBA website">
                             <br />
-                            <img loading="lazy" src="assets/img/jba4.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba4.jpg" alt="JBA website">
                             <br />
-                            <img loading="lazy" src="assets/img/jba6.jpg" alt="">
+                            <img loading="lazy" src="assets/img/jba6.jpg" alt="JBA website">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+                                </div>
+    </div>
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

@@ -115,7 +115,7 @@ if(isset($_POST['submitted']))
      <!-- End Twitter universal website tag code -->
  </head>
 
- <body>
+ <body class="wrapper"  style="overflow: hidden;">
      <style>
      .logique-nav {
          left: 0;
@@ -206,13 +206,13 @@ if(isset($_POST['submitted']))
                  <div class="row">
                      <div class="col-sm-offset-1 col-sm-11">
                          <div class="container">
+                             <a href="/en/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                                     class="img-responsive logo--update-design" /></a>
                              <ul class="list-inline">
                                  <li><a href="/en/product/nippo.php">EN</a></li>
                                  <li class="active"><a href="#">ID</a></li>
                                  <li><a href="/jp/product/nippo.php">JP</a></li>
                              </ul>
-                             <a href="/en/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                     class="img-responsive logo--update-design" /></a>
                          </div>
                      </div>
                  </div>
@@ -296,29 +296,30 @@ if(isset($_POST['submitted']))
          </div>
 
          <div class="Rectangle-3">
-             <div class="container__">
+             <div class="">
                  <div class="col-md-12 text-center" style="padding: 45px 0">
                      <span class="Kenapa-Harus-Menggun">Manfaat Menggunakan Nippo</span><br>
                      <img src="img/nippo/LogoNippo-kecil.png" alt="Logo Nippo" style="padding: 10px">
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-1.png" alt="Manfaat Nippo">
                      <div class="Dapat-diakses-melalu">Dapat diakses melalui desktop maupun mobile secara responsif</div>
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-2.png" alt="Manfaat Nippo">
                      <div class="Dapat-diakses-melalu">Memiliki user-interface yang sederhana sehingga mudah untuk dipahami</div>
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-3.png" alt="Manfaat Nippo">
                      <div class="Dapat-diakses-melalu">Membantu manajer dalam menentukan performa/kinerja para staf</div>
                  </div>
-                 <div class="col-lg-3 col-md-6 text-center">
+                 <div class="col-lg-3 col-md-6 text-center manfaat__item">
                      <img src="img/nippo/kenapa-4.png" alt="Manfaat Nippo">
                      <div class="Dapat-diakses-melalu">Anda dapat mengetahui pengeluaran projek berdasarkan jam kerja serta
                          mengalkulasikan total jam
                          kerja pengerjaan suatu projek.</div>
                  </div>
+                 <div class="clearfix"></div>
              </div>
          </div>
 
@@ -327,9 +328,9 @@ if(isset($_POST['submitted']))
                  <div class="Rectangle-2-Copy">
                      <span class="Masalah-yang-sering">Masalah yang Sering Dialami Perusahaan</span>
                  </div>
-                 <section class="hidden-xs hidden-sm">
+                 <section class="hidden-xs hidden-sm OPSA3E0__section--desktop">
                      <!-- For Desktop -->
-                     <div class="col-md-12" style=" padding-top: 7em; ">
+                     <div class="col-md-12" style="padding-top: 7em; ">
                          <div class="col-md-6 text-right">
                              <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk mengkalkulasikan total jam
                                      pengerjaan
@@ -344,7 +345,7 @@ if(isset($_POST['submitted']))
                                      menghabiskan cukup banyak waktu</span></div>
                          </div>
                      </div>
-                     <div class="col-md-12" style=" padding-top: 2em; ">
+                     <div class="col-md-12" style="padding-top: 2em; ">
                          <div class="col-md-6 text-right">
                              <div class="col-md-10"><span class="Evaluasi-kinerja-sel">Sulit untuk memantau manajemen kerja
                                      karyawan
@@ -361,6 +362,7 @@ if(isset($_POST['submitted']))
                                      tidak spesifik dan kurang jelas</span></div>
                          </div>
                      </div>
+                     <div class="clearfix"></div>
                  </section>
                  <section class="hidden-md hidden-lg">
                      <!-- For Mobile -->
@@ -489,8 +491,8 @@ if(isset($_POST['submitted']))
          </div>
 
          <div class="Mask-Copy">
-             <div class="container__">
-                 <div class="row" style=" margin-right: 0; ">
+             <div class="">
+                 <div class="row">
                      <div class="col-md-4 col-xs-12 text-left p-t-9">
                          <span class="Keuntungan-Perusahaa">KEUNTUNGAN<br>
                              <span class="text-style-1">Perusahaan</span>
@@ -510,8 +512,7 @@ if(isset($_POST['submitted']))
                              <div class="Rectangle">Mempermudah manajer dalam melakukan <b>evaluasi kinerja</b> para staf</div>
                          </div>
                      </div>
-                 </div>
-                 <div class="row m-top-0" style=" margin-right: 0; margin-top: 4em">
+                     <div class="clearfix"></div>
                      <div class="col-md-4 col-xs-12 text-center">
                          <div class="OH1E290">
                              <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
@@ -537,6 +538,7 @@ if(isset($_POST['submitted']))
                                  membangun komunikasi yang baik dengan mereka.</div>
                          </div>
                      </div>
+                     <div class="clearfix"></div>
                  </div>
              </div>
          </div>
@@ -554,6 +556,10 @@ if(isset($_POST['submitted']))
 
                  <div class="row row-fix-2">
                      <div class="col-md-offset-1 col-md-10">
+                         <div class="text-center">
+                            <a class="font-16" href="https://drive.google.com/file/d/1YKjRKuNe2IChWBjZYg2jPCnBqgTWawVZ/view" target="_blank"><b>Download user manual (ID)</b></a>
+                         </div>
+                         <br>
                          <ol>
                              <li class="-Bagaimana-cara-ke">
                                  <h3>Bagaimana cara kerja Nippo?</h3>

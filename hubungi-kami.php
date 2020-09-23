@@ -1322,6 +1322,7 @@ if(isset($_POST['submitted']))
         </div>
 
         <?php include 'footer.php';?>
+        <script async  src='https://www.google.com/recaptcha/api.js'></script>
         <script>
         $(function() {
             $('.smooth').click(function() {

@@ -19,7 +19,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Webサイト脆弱性セキュリティテスト｜LOGIQUEデジタルインドネシア</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../css/style.css" rel="stylesheet">
+    <link href="../../css/style.css?v=1.1" rel="stylesheet">
     <link href="assets/css/style-pentest.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
@@ -178,11 +178,11 @@
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/jp/services.php"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
+                                        href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                            itemprop="name">&nbsp;Webセキュリティ診断（脆弱性診断・検査）</span></a>
+                                            itemprop="name">&nbsp;Webセキュリティ診断</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -693,11 +693,23 @@
                     </div>
                 </div>
                 <div class="row gallery-container">
-                    <div class="col-xs-12 col-sm-4 col-md-4 col-sm-offset-4 article-container">
+                    <div class="col-xs-12 col-sm-4 col-md-4 col-sm-offset-2 article-container">
                         <div class="img-container">
                             <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
                             <a href="/white-paper-web-dev-3.php" target="_blank">
                                 <p class="gallery-title">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</p>
+                                <p class="gallery-content">ダウンロード</p>
+                            </a>
+                        </div>
+                    </div>  
+                    <div class="col-xs-12 col-sm-4 col-md-4 article-container">
+                        <div class="img-container">
+                            <picture>
+                                <source srcset="assets/img/img-webdev/gly4.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/img-webdev/gly4.jpg" class="img-responsive">
+                            </picture>
+                            <a href="/white-paper-ancaman-serangan-web-application.php" target="_blank">
+                                <p class="gallery-title">Ancaman Serangan pada Web Application</p>
                                 <p class="gallery-content">ダウンロード</p>
                             </a>
                         </div>
