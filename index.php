@@ -1,24 +1,6 @@
 ﻿<?php
 	error_reporting(E_ALL|E_STRICT);
-	ini_set('display_error', 0);
- 
-  function is_mobile() {
-      if (empty($_SERVER['HTTP_USER_AGENT'])) {
-          $is_mobile = false;
-      } else if (strpos($_SERVER['HTTP_USER_AGENT'], 'Mobile') !== false
-          // many mobile devices (all iPhone, iPad, etc.)
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Android') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Silk/') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Kindle') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'BlackBerry') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mini') !== false
-          || strpos($_SERVER['HTTP_USER_AGENT'], 'Opera Mobi') !== false) {
-          $is_mobile = true;
-      } else {
-          $is_mobile = true;
-      }
-      return $is_mobile;
-  }
+	ini_set('display_error', 0); 
 ?> 
 <!DOCTYPE html>
 <html lang="id" style="overflow-x: hidden;"> 
@@ -41,6 +23,7 @@
   <link rel="canonical" href="https://www.logique.co.id/" />  
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
   <script>
   ! function(f, b, e, v, n, t, s) {
     if (f.fbq) return;
@@ -98,8 +81,11 @@
   -->
 
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet" href="css/style.css" >
+  <!-- <link rel="stylesheet" href="css/style.css" > -->
+  <link rel="stylesheet" href="css/sidebar-update.css" >
+  <link rel="stylesheet" href="css/newstyle.css" >
   <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
+  
     <!-- <noscript> 
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slick-theme.css">
@@ -193,21 +179,19 @@
       </div>
     </div>
     <!-- END NAVIGATION -->
-
+ 
     <div class="container-fluid">
 
       <div class="row lang-logo--update-design">
         <div class="container">
           <div class="row">
-            <div class="col-sm-offset-1 col-sm-11">
-              <div class="container">
+            <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
                 <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                 <ul class="list-inline">
                   <li><a href="en/index.php">EN</a></li>
                   <li class="active"><a href="#">ID</a></li>
                   <li><a href="jp/index.php">JP</a></li>
-                </ul>
-              </div>
+                </ul> 
             </div>
           </div>
         </div>
@@ -215,76 +199,22 @@
     </div>
 
     <div class="content-wrapper__">
-      <section class="visible-sm visible-xs --top">
-        <div class="container__">
-          <div class="row">
-            <div class="col-sm-12">
-              <div class="title-container">
-                <div style="background: none;">                  
-                  <h1 class="title-index text-center" style="margin-top: 50px;">Pengembang Sistem Web Terbaik di Jakarta, Menyediakan Solusi Digital
-                    untuk Bisnis Anda</h1>
-                  <p class="text-center"><strong>LOGIQUE DIGITAL INDONESIA</strong> adalah Perusahaan Pengembang Sistem & Aplikasi (System & Application Development) berbasis Web maupun Mobile yang memiliki profesionalitas tinggi. Spesialisasi dalam pembuatan dan perancangan WebApp dengan penekanan pada Pemasaran Digital (Digital Marketing) untuk meningkatkan dan memaksimalkan keuntungan bisnis Anda. <br>
-                    Kami telah bekerja dengan banyak perusahaan ternama baik lokal maupun internasional, memenuhi berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen karyawan, e-money, berbagai aplikasi internal perusahaan dan pengoperasian iklan digital.</p> 
-
-
-                  <div class="row homepage-hero__card">
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/web-dev.php" class="div-service-cat">
-                        <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"
-                          class="img-responsive" />
-                        <h2>Jasa Pembuatan <br />Website</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
-                        <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi"
-                          class="img-responsive" />
-                        <h2>Jasa Pembuatan <br />Aplikasi</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                    <div class="clearfix"></div>
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
-                        <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web"
-                          class="img-responsive" />
-                        <h2>Jasa Pembuatan<br />Sistem Web</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                    <div class="col-md-3 col-xs-6">
-                      <a href="/layanan/penetration-test.php" class="div-service-cat">
-                        <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing"
-                          class="img-responsive" />
-                        <h2>Jasa Penetration<br />Testing</h2>
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-      </section>
-      <?php if(is_mobile()){
-        
-      }else{ ?>
-          <div class="contain-video wrapper--update-design">
+  
+      <div class="contain-video wrapper--update-design" id='bgvideo'>
         <video poster="img/video-img-min.jpg" id="bgvid" playsinline autoplay muted loop style="display:block!important">
-          <source src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
-          <source src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
+          <source data-src="img/mainbanner-video.webm" type='video/webm;codecs="vp8, vorbis"'/>
+          <source data-src="img/12377093.mp4" type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"'/>
         </video>
          
       </div>
-      <?php } ?>
+  
       
 
       <div class="bg-white-opacity"></div>
 
       <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto; overflow: visible">
         <div class="img homepage-hero">
-          <div class="title-container hidden-sm">
+          <div class="title-container  ">
             <div class="container__">
               <div class="row">
                 <div class="col-md-offset-1 col-md-10 text-center">
@@ -294,7 +224,7 @@
                     Kami telah bekerja dengan banyak perusahaan ternama baik lokal maupun internasional, memenuhi berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen karyawan, e-money, berbagai aplikasi internal perusahaan dan pengoperasian iklan digital.</p> 
                 </div>
               </div>
-              <div class="row homepage-hero__card">
+              <div class="row flex__row homepage-hero__card">
                 <div class="col-md-3 col-xs-6">
                   <a href="/layanan/web-dev.php" class="div-service-cat">
                     <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"  class="img-responsive" />
@@ -341,7 +271,8 @@
             </div>
             <div class="col-md-6">
             <picture>
-                <source srcset="/img/our-portfolio-min.webp">
+                <source srcset="/img/our-portfolio-min.webp" type="image/webp">
+                <source srcset="/img/our-portfolio-min.jpg">
                 <img loading="lazy"  src="/img/our-portfolio-min.jpg" class="portfolio__img img-responsive" alt="">
               </picture>
               
@@ -369,7 +300,7 @@
             <div class="col-md-4 row__item">
               <div class="item__img nippo">
               <picture>
-                <source srcset="/img/top/i-nippo-update.webp">
+                <source srcset="/img/top/i-nippo-update.webp" type="image/webp">
                 <img src="/img/top/i-nippo-update.png" alt="" loading="lazy" class="img-responsive">
               </picture> 
                 
@@ -383,7 +314,7 @@
             <div class="col-md-4 row__item">
               <div class="item__img">
               <picture>
-                <source srcset="/img/top/i-sugoi-saiyo-update.webp">
+                <source srcset="/img/top/i-sugoi-saiyo-update.webp" type="image/webp">
                 <img src="/img/top/i-sugoi-saiyo-update.png" alt="" loading="lazy">
               </picture>  
               </div>
@@ -405,14 +336,14 @@
           <div class="flex__row case-study__slide">
             <div class=" row__item --sm top-2">
               <picture>
-                <source srcset="/img/case-study-1.webp">
+                <source srcset="/img/case-study-1.webp" type="image/webp">
                 <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/case-study/caroline-bidding-system/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-caroline-update.webp">
+                  <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
                   <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
                 </picture>
                   
@@ -424,14 +355,14 @@
             </div>
             <div class=" row__item --sm top-2">
             <picture>
-                <source srcset="/img/case-study-2.webp">
+                <source srcset="/img/case-study-2.webp" type="image/webp">
                 <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/case-study/jba-auction-system/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-jba-update.webp">
+                  <source srcset="/img/top/i-jba-update.webp" type="image/webp">
                   <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
                 </picture> 
                   <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
@@ -442,14 +373,14 @@
             </div>
             <div class="  row__item --sm">
             <picture>
-                <source srcset="/img/case-study-3.webp">
+                <source srcset="/img/case-study-3.webp" type="image/webp">
                 <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/case-study/opuspark/">
                 <div class="item__hover">
                 <picture>
-                  <source srcset="/img/top/i-opus-park.webp">
+                  <source srcset="/img/top/i-opus-park.webp" type="image/webp">
                   <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
                 </picture> 
                   <div>
@@ -461,14 +392,14 @@
             </div>
             <div class=" row__item --sm">
             <picture>
-                <source srcset="/img/case-study-4.webp">
+                <source srcset="/img/case-study-4.webp" type="image/webp">
                 <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               
               <a href="/case-study/zuttoride-customer-management-system/">
                 <div class="item__hover"> 
                   <picture>
-                  <source srcset="/img/top/i-zuttoride-update.webp">
+                  <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp"> 
                   <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
                 </picture> 
                   <div>
@@ -480,13 +411,13 @@
             </div>
             <div class="  row__item --sm">
               <picture>
-                <source srcset="/img/case-study-5.webp">
+                <source srcset="/img/case-study-5.webp" type="image/webp">
                 <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
               </picture>
               <a href="/case-study/vip-plaza-progressive-web-app/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/i-vipplaza-update.webp">
+                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
                     <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
                   </picture> 
                  
@@ -499,13 +430,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-klikhoreca.webp">
+                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
                 <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/klikhoreca/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/klikhoreca-min.webp">
+                    <source srcset="/img/top/klikhoreca-min.webp" type="image/webp">
                     <img src="/img/top/klikhoreca-min.png" alt="" class="img-responsive"  loading="lazy">
                   </picture>
                   <div>
@@ -517,13 +448,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-indonesea.webp">
+                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
                 <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/indonesea/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/indonesea-min.webp">
+                    <source srcset="/img/top/indonesea-min.webp" type="image/webp">
                     <img src="/img/top/indonesea.png" alt=""  loading="lazy"  class="img-responsive" > 
                   </picture>
                   <div>
@@ -535,13 +466,13 @@
             </div>
             <div class=" row__item --sm morecs">
               <picture>
-                <source srcset="/img/case-study-pan-pacific.webp">
+                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
                 <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt=""  loading="lazy">
               </picture>
               <a href="/case-study/pan-pacific/">
                 <div class="item__hover">
                   <picture>
-                    <source srcset="/img/top/pan-pacific.svg">
+                    <source srcset="/img/top/pan-pacific.webp" type="image/webp">
                     <img src="/img/top/pan-pacific.png" alt=""  loading="lazy">
                   </picture>
                   <div>
@@ -574,7 +505,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="layanan.php" class="item item--service">
                 <picture>
-                  <source srcset="/img/service.webp">
+                  <source srcset="/img/service.webp" type="image/webp">
                   <img src="/img/service.png"   alt=""  loading="lazy">
                 </picture>
                  
@@ -585,7 +516,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="produk.php" class="item item--product">
                 <picture>
-                  <source srcset="/img/product.webp">
+                  <source srcset="/img/product.webp" type="image/webp">
                   <img src="/img/product.png"   alt=""  loading="lazy">
                 </picture>
                  
@@ -596,7 +527,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="hubungi-kami.php" class="item item--contact">
               <picture>
-                  <source srcset="/img/smartphone.webp">
+                  <source srcset="/img/smartphone.webp" type="image/webp">
                   <img src="/img/smartphone.png"   alt=""  loading="lazy">
                 </picture>
                  
@@ -607,7 +538,7 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="career/" class="item item--career">
               <picture>
-                  <source srcset="/img/businessman.webp">
+                  <source srcset="/img/businessman.webp" type="image/webp">
                   <img src="/img/businessman.png"   alt=""  loading="lazy">
                 </picture> 
                 <h3>Career</h3>
@@ -686,6 +617,7 @@
                                                 $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
                                                 $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
                                             }
+                                            //echo  $thumb_url ;
                                             if($x==0) { 
                                             ?>
                                             <div class="item active ">
@@ -696,7 +628,7 @@
                                              ?> 
                                                     <div class="col-xs-12 col-sm-6 col-md-6 article-container">
                                                         <div class="img-container">
-                                                            <img src="<?=$thumb_full_url?>" class="img-responsive" loading="lazy"v>
+                                                            <img src="<?=$thumb_url?>" class="img-responsive" loading="lazy"v>
                                                         </div>
                                                         <div class="content-container">
                                                             <a href="<?=$remote_post->link?>" target="_blank">
@@ -737,13 +669,36 @@
                 
             </div>
         </div>
-    </section>
-
+      </section> 
     </div>
+    <div class="content-wrapper__">
+    <section class="content-article  bg--white"  >
+        <?php include 'layanan/assets/components/dm-links.php' ?>
+        <?php include 'layanan/assets/components/other-services.php' ?>
+      </section>
+    </div>
+
 
   </div>
   <?php include 'footer.php';?>
- 
+  <script>
+    
+    if($.browser)
+    { 
+        var sources = document.querySelectorAll('video#bgvid source');
+        // Define the video object this source is contained inside
+        var video = document.querySelector('video#bgvid');
+        for(var i = 0; i<sources.length;i++) {
+        sources[i].setAttribute('src', sources[i].getAttribute('data-src'));
+        }
+        video.load(); 
+    
+        }
+    else
+    {
+       
+    }
+    </script>
   <script>
   $(document).ready(function() {
   $slick_slider = $('.case-study__slide');

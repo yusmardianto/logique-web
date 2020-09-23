@@ -893,6 +893,7 @@ $kodeBarang = $result;
         </div>
 
         <?php include 'footer.php';?>
+        <script async  src='https://www.google.com/recaptcha/api.js'></script>
         <script>
         $(function() {
 			<?php if($co=='1'){ ?>

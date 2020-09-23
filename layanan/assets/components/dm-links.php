@@ -59,11 +59,11 @@
     top: 50%;
     left: calc(100% + 20px);
     transform: translateY(-45%);
-    background: url('/en/services/digital-marketing/img/img-digital-marketing/arrow-right.svg') center/contain no-repeat;
+    background: url('/../img/top/right-arrow.svg') center/contain no-repeat;
 }
 
 .dm__links .links__item  p {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 @media (max-width: 1199.98px) {

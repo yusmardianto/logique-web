@@ -705,7 +705,7 @@
                     <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                         <div class="img-container">
                             <picture>
-                                <source srcset="assets/img/img-webdev/gly4.webp">
+                                <source srcset="assets/img/img-webdev/gly4.webp" type="image/webp">
                                 <img loading="lazy" src="assets/img/img-webdev/gly4.jpg" class="img-responsive">
                             </picture>
                             <a href="/white-paper-ancaman-serangan-web-application.php" target="_blank">
