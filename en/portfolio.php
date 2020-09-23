@@ -228,7 +228,7 @@
                         <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_aia" rel="noreferrer">
-                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
+                                    <img src="/img/portfolio/update/web-aia-premiere.jpg" class="img-responsive" alt="AIA Premier Academy">
                                     <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
                                         <li>Website Creation (Design | Coding)</li>
@@ -238,7 +238,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
-                                    <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
                                         <li>E-Commerce Dev (Design | Coding | CMS | Payment)</li>
@@ -248,7 +248,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Dev & Operation (Design | CMS | System | Operation | AWS)</li>
@@ -258,7 +258,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="">
                                     <h3>JTrust Bank (Re-design)</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Re-Design (Design | Coding | CMS Integration)</li>
@@ -268,7 +268,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Design (Design | Coding | Deployment)</li>
@@ -278,7 +278,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jnto.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">
                                     <h3>JNTO Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>WEB Remake & Operation (Design | Coding | Operation)</li>
