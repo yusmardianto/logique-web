@@ -921,4 +921,7 @@ footer ul, footer ol{
     #newsCarousel .item  .img-container{
       text-align: center;
     }
+    #newsCarousel .item  .img-container img{
+      margin:auto;
+    }
 }
