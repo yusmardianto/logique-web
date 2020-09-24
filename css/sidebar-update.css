@@ -238,8 +238,7 @@
   }
   .wrapper .navbar-toggle.collapsed {
     background-color: #ffca13 !important;
-    position: relative;
-    right: 0 ;
+    position: relative; 
     margin-top: 0px;
   }
   .navbar-toggle--update-design {
@@ -297,6 +296,14 @@ footer {
     padding-bottom: 5px;
     list-style: none;
 }
+
+.container__footer{
+    padding:0 15px;
+}
+.footer-update h3 {
+    font-size: 20px;
+    font-weight: 400;
+}
 footer .medsos-new {
     padding-top: 20px;
 }
@@ -305,6 +312,9 @@ footer .medsos-new {
   }  
 .footer-update.content-wrapper__ {
     margin-left: 90px;
+}
+.footer-update * {
+    font-family: 'Montserrat', sans-serif;
 }
     footer a {
     color: #fff;
@@ -325,7 +335,8 @@ footer .medsos-new {
 .link-footer-nav li li {
     padding: 10px 0 0 0px;
     list-style: disc;
-} ink-footer-nav li li li {
+} 
+.ink-footer-nav li li li {
     list-style: circle;
     padding-left: 0;
 }
@@ -343,6 +354,9 @@ footer .medsos-new li {
     -ms-flex-align: center;
     align-items: center;
     justify-content: center;
+}
+.logo-font {
+    font-family: 'Novocento Sans Wide Medium' !important;
 }
 footer .medsos-new li > a{
     width: 35px;
@@ -438,8 +452,8 @@ background-size: contain;
         height: 100%!important;
     }
     .wrapper .navbar-toggle.collapsed {
-        left: 10px!important;
-        right: auto;
+        left: 10px!important; 
+        float: none;
     }
     .wrapper .navbar-toggle {
         left: 110px;

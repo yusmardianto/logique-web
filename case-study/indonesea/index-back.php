@@ -29,17 +29,17 @@
   <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
- 
+	</noscript>
 
-  <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
-   <link rel="stylesheet" href="../../../css/sidebar-update.css" >
+  <link href="../../../css/style.css" rel="stylesheet">
+	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
-  <link href="css/new-style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
 
     </head>
 	<body>
-	 
-        <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
+		<div class="wrapper o-wrapper top-only">
+
       <header>
         <div class="container-fluid">
           <div class="row">
@@ -123,97 +123,87 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="new-img/main-banner.jpg" alt="case study logique" class="img-fluid">
-         
+          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
+          <h1 class="cs-title">Indonesea</h1>
           <!-- <h2 class="cs-title-2">(Progressive Web App)</h2> -->
-          <div class="cs-line line01" style="">
-            <img src="new-img/line-01.svg">
-        </div>
-        <div class="breadcrumb-container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <ol class="breadcrumb breadcrumb--update-design" itemscope
-                        itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
-                        </li>
-                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item"><span itemprop="name">&nbsp; Case Study - Pan Pacific Insurance</span></a>
-                            <meta itemprop="position" content="2" />
-                        </li>
-                    </ol>
-                </div>
-            </div>
-        </div> 
-        <h1 class="cs-title text-center">Pan Pacific<br><i>Insurance</i></h1>
         </section>
-        <section class='cs-section client-info'>
-            <div class="row">
-                <div class="col-sm-7 text-container">
-                    <h2 class="section-title">Pan Pacific Insurance</h2>
-                    <p>
-                    PT. Pan Pacific Insurance merupakan perusahaan asuransi lokal yang memiiki produk-produk asuransi umum yang lengkap sehingga mampu bersaing dengan perusahaan asuransi sejenis yang setiap tahunnya bertambah. PT. Pan Pacific insurance berhasil mengkukuhkan diri menjadi salah satu perusahaan asuransi umum yang berkembang pesat dan terpercaya dalam kurun waktu sepuluh tahun.
-                  </p>
-                </div>
-                <div class="col-sm-5 photo-container">
-                    <div class=" ">
-                        <img src="new-img/client-img.png"  >
-                        </div>
-                </div>
-            </div>
+        <section class="breadcrumb-container">
+          <div class="row">
+              <div class="col-sm-12">
+                  <ol class="breadcrumb breadcrumb--update-design" itemscope
+                      itemtype="http://schema.org/BreadcrumbList">
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                        <meta itemprop="position" content="1" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Indonesea</span></a>
+                        <meta itemprop="position" content="2" />
+                      </li>
+                  </ol>
+              </div>
+          </div>
         </section>
-        <section class='cs-section background-info bg-option1'>
-            <div class="cs-line line02" style="">
-                <img src="new-img/line-02.svg">
+        <section class="cs-section">
+          <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
+          <div class="row">
+            <div class="col-sm-6 col-md-push-6 relative">
+              <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
-            <div class="row flex__row">
-                <div class="col-sm-6  photo-container text-center   "> 
-                   <img src="new-img/latarbelakang-img.png" style="max-width: 100%; margin: 0 auto;">   
-                </div>
-                <div class="col-sm-6 text-container">
-                    <h2 class="section-title">Latar Belakang</h2>
-                    <p>
-                    Dalam keseharian aktivitasnya, PT. Pan Pacific melakukan kegiatan investasi pada berbagai instrumen yang meliputi deposito, obligasi, saham, dan reksadana. Kegiatan investasi yang dilakukan oleh PT. Pan Pacific sudah berjalan lama namun dalam pencatatan dan laporannya masih dilakukan secara manual. Kondisi ini menyebabkan terjadinya kendala selama kegiatan investasi dilakukan seperti data yang tidak sinkron, verifikasi ke berbagai pihak yang menghabiskan waktu, dan kehilangan atau rusaknya dokumen-dokumen yang ada. Sebagai solusi, dengan bantuan LOGIQUE, PT. Pan Pacific melakukan pembuatan sistem yang dapat memonitor investasi secara menyeluruh. 
-                  </p>       
-                </div> 
-               
+            <div class="col-sm-6 col-md-pull-6">
+              <h2 class="cs-subtitle">Indonesea.id</h2>
+              <p class="cs-desc">
+              Indonesea menjadi salah satu <i>start up</i> atau marketplace yang bergerak di industri wisata selam. Indonesea sebagai Dive Booking System membantu mengintegrasikan Penyelam baik professional maupun non professional dengan Dive Center dan Liveaboard di Indonesia. Website Indonesea dapat digunakan di Indonesia dan Mancanegara, customer dapat melakukan pemesanan dan pembayaran melalui website Indonesea untuk memulai explorasi wisata selam di Indonesia.  Sudah tidak diragukan lagi, Indonesia memiliki banyak spot diving dengan keindahan bawah laut yang menarik untuk dikunjungi seperti, Bali, Labuan Bajo, Bunaken, Raja Ampat dan masih banyak lagi tentunya. Indonesia.id akan membantu penyelam mendapatkan informasi yang lengkap terkait deskripsi lokasi spot diving, dive master, fasilitas, <i>service</i> dan <i>safety guidance</i> bahkan untuk kamu yang belum memiliki perlengkapan scuba <i>diving/snorkeling</i> tidak perlu kebingungan, kamu juga dapat menyewanya melalui website Indonesea.id.  
+              </p>
             </div>
-        </section> 
-        <section class='cs-section tect-info '>
-            <div class="cs-line line03" style="">
-                <img src="new-img/line-03.svg">
-            </div>
-            <div class="row flex__row">
-                <div class="col-sm-7 text-container">
-                    <h2 class="section-title">Teknologi yang diterapkan</h2>
-                    <p>
-                    Untuk membuat sistem investasi Pan Pacific, teknologi yang digunakan adalah framework Laravel yang menggunakan bahasa pemrograman PHP. Framework Laravel ini dipilih dalam pengembangan sistem investasi karena memiliki keunggulan seperti adanya dukungan struktur MVC, skalabilitas, performa yang lebih ringan, keamanan yang baik, serta keuntungan lainya. Sistem ini diimplementasikan pada infrastruktur cloud berbasis Azure yang di kelola langsung oleh pihak Pan Pacific.
-                    </p> 
-                </div>
-                <div class="col-sm-5 vertical-align  photo-container">
-                    <div class="img-place-right">
-                        <img src="new-img/techinfo-img.png"  style="width: 100%;">
-                        </div>
-                </div>
-                
-            </div>
+          </div>
         </section>
-        <section class='cs-section result-info bg-option2'>
-            <div class="cs-line line04" style="">
-                <img src="new-img/line-04.svg">
+        <section class="cs-section">
+          <img src="img/line-2.png" alt="case study logique" class="cs-line cs-line-2">
+          <div class="row">
+            <div class="col-sm-6 relative">
+              <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
-            <div class="result-content-container" >
-                
-                    <h2 class="section-title text-center">Hasil Sistem Investasi Pan Pacific Insurance </h2>
-                    <p>
-                    Sebelum adanya sistem investasi, Pan Pacific memiliki kesulitan untuk memonitor investasi yang dilakukan secara menyeluruh, karyawan menjadi tidak fokus karena harus melakukan verifikasi data ke berbagai pihak melalui berbagai media dan menyimpan informasi secara terpisah yang menyebabkan potensi terjadinya data hilang atau kesalahan dalam melakukan pencatatan cukup besar. Namun, setelah adanya sistem investasi yang dibuat oleh LOGIQUE, prosedur kegiatan investasi menjadi terotomatisasi dan berjalan dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data investasi hilang atau mengalami kerusakan.
-                   </p>
-                
-                    <div class="  text-center">
-                        <img src="new-img/result-img.png"  style="width: 100%;">
-                        </div>  
+            <div class="col-sm-6">
+              <h2 class="cs-subtitle">Latar Belakang</h2>
+              <p class="cs-desc">
+              Indonesea.id dinaungi oleh PT.Jelajah Bahari Indonesia, terdiri dari pemuda Indonesia yang memiliki kecintaan pada traveling dan diving ingin menciptakan Dive Booking System dengan kredibilitas baik untuk dapat membuka peluang bagi penggerak wisata bahari dan olahraga air seperti Diving Center serta Liveaboard agar dapat dengan mudah diakses oleh customer untuk dapat melakukan pencarian destinasi-destinasi terbaik di Indonesia. 
+              <div class="m-t-1 visible-lg"><br><br><br><br></div>
+              </p>
             </div>
+          </div>
+          <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
+        </section>
+        <section class="cs-section">
+          <img src="img/line-3.png" alt="case study logique" class="cs-line cs-line-3">
+          <div class="row">
+            <div class="col-sm-6 col-md-push-6 relative">
+              <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
+            </div>
+            <div class="col-sm-6 col-md-pull-6">
+              <h2 class="cs-subtitle">Teknologi yang diterapkan</h2>
+              <p class="cs-desc">
+              Indonesea dibangun oleh framework Laravel PHP 7 yang dikembangkan oleh Taylor Otwell dengan versi pertamanya rilis pada tahun 2011. Framework/Library PHP merupakan teknologi web development open source  dengan menggunakan Konsep MVC dan terkenal sebagai Bahasa pemrograman Expressive & Beautifull Syntax karena memiliki komponen-komponen yang tidak monoton dan pemilihan syntaxnya yang secara harfiah sangat relevan dengan fungsi yang dijalankan seperti <i>illuminate</i>, <i>artisan</i>, <i>migrate</i>. Pada Konsep <i>Model</i> Laravel juga terkenal sebagai friendly team collaboration salah satunya dengan adanya fungsi/komponen migrate, dengan komponen migrate maka Tim dapat mendesain database secara langsung dari <i>composser</i> Laravel untuk menjalankan queries mysql sehingga tidak perlu secara manual membuat Tabel melalui <i>phpmyadmin</i> dan sharing database file <i>mysql</i>.
+              </p>
+            </div>
+            <div class="col-md-12 col-sm-6 col-sm-push-6 col-md-push-0">
+              <i>Composser</i> Laravel digunakan untuk menarik dan menjalankan package dengan syntax yang mudah dipahami tersebut dan sangat <i>user friendly</i> karena perintah-perintahnya dapat dijalankan melalui <i>Terminal/Git Bash</i>, command seperti <i>PHP Artisan config cache</i>, <i>PHP Artisan View Clear</i> untuk melakukan clear cache pada settingan config dan tampilan User Interface selain itu Laravel juga sudah mendukung keseluruhan system/website <i>maintenance mode</i> secara otomatis hanya cukup dengan menjalankan <i>PHP Artisan Down</i> dan untuk mengembalikannya cukup menjalankan <i>PHP Artisan Up</i>, perintah-perintah ini dapat dieksekusi dengan mudah melalui <i>Terminal/Git Bash</i>. Pada Konsep View Laravel didukung dengan templating engine yang terkenal sebagai Blade Template mampu menjalankan fungsi – fungsi Teknologi Front End seperti <i>CSS</i>, <i>React</i>, <i>Javascript</i> dan <i>Vue</i> dan semuanya akan tersimpan dalam 1 package <i>Laravel/ui</i>. 
+              <div class="visible-lg"><br><br><br></div>
+            </div>
+          </div>
+        </section>
+        <section class="cs-section">
+          <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
+          <div class="row">
+            <div class="col-md-12">
+              <h2 class="cs-subtitle text-center">Hasil Indonesea.id</h2>
+              <p class="cs-desc text-center">
+              Indonesea mempercayakan kebutuhan bisnis mereka pada Logique dalam menentukan kebutuhan rancangan dan pengembangan website Indonesea.id yang tepat guna dan dapat diandalkan sehingga tujuan dari bisnis Indonesea.id untuk memudahkan visitor/customer domestik maupun tourist asing menemukan objek wisata diving di Indonesia dapat tercapai, yakni dengan menawarkan  fitur <i>search</i> dan <i>filtering</i> diving destination berdasarkan harga dan lokasi yang juga telah terintegrasi dengan <i>payment gateway</i> sehingga customer dapat melakukan pembayaran secara <i>real time</i> dan semua data reservation akan terecord pada Administration Panel Booking System indonesea.id. 
+              </p>
+              <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
+            </div>
+          </div>
+          <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
         <section class="cs-section cs-others">
           <div>
@@ -331,7 +321,6 @@
           </div>
         </section>
       </div>
-
       <style>
         .cs-wrap footer {
           padding-bottom:10px;
@@ -342,18 +331,20 @@
         </style>
      <?php include '../../footer.php';?>
 		</div>
-		<script>
-        $('.showmore').click(function(){
-            $(this).parent('.case-study-btn-container').siblings('.morecs').css('display','inline-block');
-            $(this).css('display','none'); 
-            $(this).siblings('.showless').css('display','inline-block');   
-            })
-
-        $('.showless').click(function(){
-            $(this).parent('.case-study-btn-container').siblings('.morecs').css('display','none');
-            $(this).css('display','none'); 
-            $(this).siblings('.showmore').css('display','inline-block');  
-            })
-        </script>
+		<script type="application/ld+json">
+			{
+			  "@context": "http://schema.org",
+			  "@type": "Organization",
+			  "address": {
+					"@type": "PostalAddress",
+					"addressLocality": "Jakarta, Indonesia",
+					"postalCode": "12550",
+					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+			  },
+			  "logo": "https://www.logique.co.id/img/logo.png",
+			  "email": "info(at)logique.co.id",
+			  "telephone": "+62 (21) 2270 8935/36"
+			}
+		</script>
 	</body>
 </html>

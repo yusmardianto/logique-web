@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
+  <meta name="description" itemprop="description" content="Pembuatan Sistem Investasi Pan Pacific oleh LOGIQUE mampu mempermudah Pan Pacific dalam memonitor investasi yang dilakukan secara detail dan menyeluruh.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE">
+	<meta property="og:title" content="Pembuatan & Pengembangan Sistem Investasi Pan Pacific | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
+	<meta property="og:description" content="Pembuatan Sistem Investasi Pan Pacific oleh LOGIQUE mampu mempermudah Pan Pacific dalam memonitor investasi yang dilakukan secara detail dan menyeluruh.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
@@ -26,20 +26,20 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
+  <title>Pembuatan & Pengembangan Sistem Investasi Pan Pacific | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
- 
+	</noscript>
 
-  <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
-   <link rel="stylesheet" href="../../../css/sidebar-update.css" >
+  <link href="../../../css/style.css" rel="stylesheet">
+	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
-  <link href="css/new-style.css" rel="stylesheet">
+  <link href="css/style.css" rel="stylesheet">
 
     </head>
 	<body>
-	 
-        <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
+		<div class="wrapper o-wrapper top-only">
+
       <header>
         <div class="container-fluid">
           <div class="row">
@@ -48,7 +48,7 @@
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <!-- <li><a href="/en/case-study/indonesea/">EN</a></li> -->
+                <!-- <li><a href="/en/case-study/pan-pacific/">EN</a></li> -->
                 <li><a href="#">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
@@ -123,97 +123,82 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="new-img/main-banner.jpg" alt="case study logique" class="img-fluid">
-         
+          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
+          <h1 class="cs-title">Pan Pacific Insurance</h1>
           <!-- <h2 class="cs-title-2">(Progressive Web App)</h2> -->
-          <div class="cs-line line01" style="">
-            <img src="new-img/line-01.svg">
-        </div>
-        <div class="breadcrumb-container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <ol class="breadcrumb breadcrumb--update-design" itemscope
-                        itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
-                        </li>
-                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item"><span itemprop="name">&nbsp; Case Study - Pan Pacific Insurance</span></a>
-                            <meta itemprop="position" content="2" />
-                        </li>
-                    </ol>
-                </div>
-            </div>
-        </div> 
-        <h1 class="cs-title text-center">Pan Pacific<br><i>Insurance</i></h1>
         </section>
-        <section class='cs-section client-info'>
-            <div class="row">
-                <div class="col-sm-7 text-container">
-                    <h2 class="section-title">Pan Pacific Insurance</h2>
-                    <p>
-                    PT. Pan Pacific Insurance merupakan perusahaan asuransi lokal yang memiiki produk-produk asuransi umum yang lengkap sehingga mampu bersaing dengan perusahaan asuransi sejenis yang setiap tahunnya bertambah. PT. Pan Pacific insurance berhasil mengkukuhkan diri menjadi salah satu perusahaan asuransi umum yang berkembang pesat dan terpercaya dalam kurun waktu sepuluh tahun.
-                  </p>
-                </div>
-                <div class="col-sm-5 photo-container">
-                    <div class=" ">
-                        <img src="new-img/client-img.png"  >
-                        </div>
-                </div>
-            </div>
+        <section class="breadcrumb-container">
+          <div class="row">
+              <div class="col-sm-12">
+                  <ol class="breadcrumb breadcrumb--update-design" itemscope
+                      itemtype="http://schema.org/BreadcrumbList">
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                        <meta itemprop="position" content="1" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Pan Pacific Insurance</span></a>
+                        <meta itemprop="position" content="2" />
+                      </li>
+                  </ol>
+              </div>
+          </div>
         </section>
-        <section class='cs-section background-info bg-option1'>
-            <div class="cs-line line02" style="">
-                <img src="new-img/line-02.svg">
+        <section class="cs-section">
+          <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1" style="z-index: 0;">
+          <div class="row">
+            <div class="col-sm-6 col-md-push-6 relative">
+              <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
-            <div class="row flex__row">
-                <div class="col-sm-6  photo-container text-center   "> 
-                   <img src="new-img/latarbelakang-img.png" style="max-width: 100%; margin: 0 auto;">   
-                </div>
-                <div class="col-sm-6 text-container">
-                    <h2 class="section-title">Latar Belakang</h2>
-                    <p>
-                    Dalam keseharian aktivitasnya, PT. Pan Pacific melakukan kegiatan investasi pada berbagai instrumen yang meliputi deposito, obligasi, saham, dan reksadana. Kegiatan investasi yang dilakukan oleh PT. Pan Pacific sudah berjalan lama namun dalam pencatatan dan laporannya masih dilakukan secara manual. Kondisi ini menyebabkan terjadinya kendala selama kegiatan investasi dilakukan seperti data yang tidak sinkron, verifikasi ke berbagai pihak yang menghabiskan waktu, dan kehilangan atau rusaknya dokumen-dokumen yang ada. Sebagai solusi, dengan bantuan LOGIQUE, PT. Pan Pacific melakukan pembuatan sistem yang dapat memonitor investasi secara menyeluruh. 
-                  </p>       
-                </div> 
-               
+            <div class="col-sm-6 col-md-pull-6">
+              <h2 class="cs-subtitle">Pan Pacific Insurance</h2>
+              <p class="cs-desc">
+              PT. Pan Pacific Insurance merupakan perusahaan asuransi lokal yang memiiki produk-produk asuransi umum yang lengkap sehingga mampu bersaing dengan perusahaan asuransi sejenis yang setiap tahunnya bertambah. PT. Pan Pacific insurance berhasil mengkukuhkan diri menjadi salah satu perusahaan asuransi umum yang berkembang pesat dan terpercaya dalam kurun waktu sepuluh tahun.
+              </p>
             </div>
-        </section> 
-        <section class='cs-section tect-info '>
-            <div class="cs-line line03" style="">
-                <img src="new-img/line-03.svg">
-            </div>
-            <div class="row flex__row">
-                <div class="col-sm-7 text-container">
-                    <h2 class="section-title">Teknologi yang diterapkan</h2>
-                    <p>
-                    Untuk membuat sistem investasi Pan Pacific, teknologi yang digunakan adalah framework Laravel yang menggunakan bahasa pemrograman PHP. Framework Laravel ini dipilih dalam pengembangan sistem investasi karena memiliki keunggulan seperti adanya dukungan struktur MVC, skalabilitas, performa yang lebih ringan, keamanan yang baik, serta keuntungan lainya. Sistem ini diimplementasikan pada infrastruktur cloud berbasis Azure yang di kelola langsung oleh pihak Pan Pacific.
-                    </p> 
-                </div>
-                <div class="col-sm-5 vertical-align  photo-container">
-                    <div class="img-place-right">
-                        <img src="new-img/techinfo-img.png"  style="width: 100%;">
-                        </div>
-                </div>
-                
-            </div>
+          </div>
         </section>
-        <section class='cs-section result-info bg-option2'>
-            <div class="cs-line line04" style="">
-                <img src="new-img/line-04.svg">
+        <section class="cs-section">
+          <img src="img/line-2.png" alt="case study logique" class="cs-line cs-line-2">
+          <div class="row">
+            <div class="col-sm-6 relative">
+              <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
             </div>
-            <div class="result-content-container" >
-                
-                    <h2 class="section-title text-center">Hasil Sistem Investasi Pan Pacific Insurance </h2>
-                    <p>
-                    Sebelum adanya sistem investasi, Pan Pacific memiliki kesulitan untuk memonitor investasi yang dilakukan secara menyeluruh, karyawan menjadi tidak fokus karena harus melakukan verifikasi data ke berbagai pihak melalui berbagai media dan menyimpan informasi secara terpisah yang menyebabkan potensi terjadinya data hilang atau kesalahan dalam melakukan pencatatan cukup besar. Namun, setelah adanya sistem investasi yang dibuat oleh LOGIQUE, prosedur kegiatan investasi menjadi terotomatisasi dan berjalan dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data investasi hilang atau mengalami kerusakan.
-                   </p>
-                
-                    <div class="  text-center">
-                        <img src="new-img/result-img.png"  style="width: 100%;">
-                        </div>  
+            <div class="col-sm-6">
+              <h2 class="cs-subtitle">Latar Belakang</h2>
+              <p class="cs-desc">
+              Dalam keseharian aktivitasnya, PT. Pan Pacific melakukan kegiatan investasi pada berbagai instrumen yang meliputi deposito, obligasi, saham, dan reksadana. Kegiatan investasi yang dilakukan oleh PT. Pan Pacific sudah berjalan lama namun dalam pencatatan dan laporannya masih dilakukan secara manual. Kondisi ini menyebabkan terjadinya kendala selama kegiatan investasi dilakukan seperti data yang tidak sinkron, verifikasi ke berbagai pihak yang menghabiskan waktu, dan kehilangan atau rusaknya dokumen-dokumen yang ada. Sebagai solusi, dengan bantuan LOGIQUE, PT. Pan Pacific melakukan pembuatan sistem yang dapat memonitor investasi secara menyeluruh.
+              </p>
             </div>
+          </div>
+          <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
+        </section>
+        <section class="cs-section">
+          <img src="img/line-3.png" alt="case study logique" class="cs-line cs-line-3">
+          <div class="row">
+            <div class="col-sm-6 col-md-push-6 relative">
+              <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
+            </div>
+            <div class="col-sm-6 col-md-pull-6">
+              <h2 class="cs-subtitle">Teknologi yang diterapkan</h2>
+              <p class="cs-desc">
+              Untuk membuat sistem investasi Pan Pacific, teknologi yang digunakan adalah framework Laravel yang menggunakan bahasa pemrograman PHP. Framework Laravel ini dipilih dalam pengembangan sistem investasi karena memiliki keunggulan seperti adanya dukungan struktur MVC, skalabilitas, performa yang lebih ringan, keamanan yang baik, serta keuntungan lainya. Sistem ini diimplementasikan pada infrastruktur cloud berbasis Azure yang di kelola langsung oleh pihak Pan Pacific.
+              </p>
+            </div>
+          </div>
+        </section>
+        <section class="cs-section">
+          <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
+          <div class="row">
+            <div class="col-md-12">
+              <h2 class="cs-subtitle text-center">Hasil Sistem Investasi Pan Pacific Insurance</h2>
+              <p class="cs-desc text-center">
+              Sebelum adanya sistem investasi, Pan Pacific memiliki kesulitan untuk memonitor investasi yang dilakukan secara menyeluruh, karyawan menjadi tidak fokus karena harus melakukan verifikasi data ke berbagai pihak melalui berbagai media dan menyimpan informasi secara terpisah yang menyebabkan potensi terjadinya data hilang atau kesalahan dalam melakukan pencatatan cukup besar. Namun, setelah adanya sistem investasi yang dibuat oleh LOGIQUE, prosedur kegiatan investasi menjadi terotomatisasi dan berjalan dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data investasi hilang atau mengalami kerusakan.
+              </p>
+              <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
+            </div>
+          </div>
+          <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
         <section class="cs-section cs-others">
           <div>
@@ -247,16 +232,16 @@
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/case-study/klikhoreca/">
                   <picture>
-                    <source srcset="img/btn-klikhoreca.webp"  type="image/webp">
+                    <source srcset="img/btn-klikhoreca.webp" type="image/webp">
                     <img class="img-responsive center-block" src="img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
                   </picture>
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
-                <a href="/case-study/pan-pacific/">
+                <a href="/case-study/indonesea/">
                   <picture>
-                    <source srcset="img/btn-pan-pacific.webp"  type="image/webp">
-                    <img class="img-responsive center-block" src="img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
+                    <source srcset="img/btn-indonesea.webp" type="image/webp">
+                    <img class="img-responsive center-block" src="img/btn-indonesea.png" alt="Studi Kasus Lainnya">
                   </picture>
                 </a>
               </div>
@@ -280,7 +265,7 @@
                   </picture>
                   <h5>KONTAK LOGIQUE</h5>
                   <p class="hidden-xs">Untuk konsultasi atau mendapatkan informasi lengkap dengan layanan kami lainnya, klik disini.</p> 
-                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">          
                 </a>
               </div>
               <div>
@@ -313,7 +298,7 @@
                   </picture>
                   <h5>INGIN BUAT WEBSITE?</h5>
                   <p class="hidden-xs">Dapatkan informasi layanan mengenai pembuatan website berstandar tinggi dengan klik disini.</p> 
-                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">         
                 </a>
               </div>
               <div>
@@ -324,14 +309,13 @@
                   </picture>
                   <h5>INGIN BUAT SISTEM BERBASIS WEB?</h5>
                   <p class="hidden-xs">Temukan informasi lengkap mengenai layanan pembuatan sistem berbasis web dengan klik disini.</p> 
-                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">          
                 </a>
               </div>
             </div>
           </div>
         </section>
       </div>
-
       <style>
         .cs-wrap footer {
           padding-bottom:10px;
@@ -342,18 +326,20 @@
         </style>
      <?php include '../../footer.php';?>
 		</div>
-		<script>
-        $('.showmore').click(function(){
-            $(this).parent('.case-study-btn-container').siblings('.morecs').css('display','inline-block');
-            $(this).css('display','none'); 
-            $(this).siblings('.showless').css('display','inline-block');   
-            })
-
-        $('.showless').click(function(){
-            $(this).parent('.case-study-btn-container').siblings('.morecs').css('display','none');
-            $(this).css('display','none'); 
-            $(this).siblings('.showmore').css('display','inline-block');  
-            })
-        </script>
+		<script type="application/ld+json">
+			{
+			  "@context": "http://schema.org",
+			  "@type": "Organization",
+			  "address": {
+					"@type": "PostalAddress",
+					"addressLocality": "Jakarta, Indonesia",
+					"postalCode": "12550",
+					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+			  },
+			  "logo": "https://www.logique.co.id/img/logo.png",
+			  "email": "info(at)logique.co.id",
+			  "telephone": "+62 (21) 2270 8935/36"
+			}
+		</script>
 	</body>
 </html>
