@@ -26,11 +26,8 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
-
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
- 
-
+  <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title> 
+	<link href="../../../css/bootstrap.min.css" rel="stylesheet"> 
   <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
    <link rel="stylesheet" href="../../../css/sidebar-update.css" >
   <!-- case study style -->
@@ -41,7 +38,7 @@
 	 
         <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
@@ -49,7 +46,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <!-- <li><a href="/en/case-study/indonesea/">EN</a></li> -->
-                <li><a href="#">EN</a></li>
+                <li><a href="/en/case-study/pan-pacific/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
@@ -199,21 +196,19 @@
                 
             </div>
         </section>
-        <section class='cs-section result-info bg-option2'>
+        <section class="cs-section result-info bg-option2">
             <div class="cs-line line04" style="">
                 <img src="new-img/line-04.svg">
             </div>
-            <div class="result-content-container" >
-                
-                    <h2 class="section-title text-center">Hasil Sistem Investasi Pan Pacific Insurance </h2>
-                    <p>
-                    Sebelum adanya sistem investasi, Pan Pacific memiliki kesulitan untuk memonitor investasi yang dilakukan secara menyeluruh, karyawan menjadi tidak fokus karena harus melakukan verifikasi data ke berbagai pihak melalui berbagai media dan menyimpan informasi secara terpisah yang menyebabkan potensi terjadinya data hilang atau kesalahan dalam melakukan pencatatan cukup besar. Namun, setelah adanya sistem investasi yang dibuat oleh LOGIQUE, prosedur kegiatan investasi menjadi terotomatisasi dan berjalan dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data investasi hilang atau mengalami kerusakan.
-                   </p>
-                
-                    <div class="  text-center">
-                        <img src="new-img/result-img.png"  style="width: 100%;">
-                        </div>  
-            </div>
+            <div class="result-content-container">   
+              <h2 class="section-title text-center">Hasil Sistem Investasi Pan Pacific Insurance </h2>
+              <p>
+              Sebelum adanya sistem investasi, Pan Pacific memiliki kesulitan untuk memonitor investasi yang dilakukan secara menyeluruh, karyawan menjadi tidak fokus karena harus melakukan verifikasi data ke berbagai pihak melalui berbagai media dan menyimpan informasi secara terpisah yang menyebabkan potensi terjadinya data hilang atau kesalahan dalam melakukan pencatatan cukup besar. Namun, setelah adanya sistem investasi yang dibuat oleh LOGIQUE, prosedur kegiatan investasi menjadi terotomatisasi dan berjalan dengan baik, kami merasakan jika pekerjaan kami menjadi jauh lebih efektif dan efisien tanpa perlu khawatir data investasi hilang atau mengalami kerusakan.
+              </p> 
+            <div class="  text-center">
+              <img src="new-img/result-img.png" style="width: 100%;">
+            </div>  
+          </div>
         </section>
         <section class="cs-section cs-others">
           <div>
@@ -247,16 +242,16 @@
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/case-study/klikhoreca/">
                   <picture>
-                    <source srcset="img/btn-klikhoreca.webp"  type="image/webp">
+                    <source srcset="img/btn-klikhoreca.webp" type="image/webp">
                     <img class="img-responsive center-block" src="img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
                   </picture>
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
-                <a href="/case-study/pan-pacific/">
+                <a href="/case-study/indonesea/">
                   <picture>
-                    <source srcset="img/btn-pan-pacific.webp"  type="image/webp">
-                    <img class="img-responsive center-block" src="img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
+                    <source srcset="img/btn-indonesea.webp" type="image/webp">
+                    <img class="img-responsive center-block" src="img/btn-indonesea.png" alt="Studi Kasus Lainnya">
                   </picture>
                 </a>
               </div>
@@ -265,7 +260,7 @@
         </section>
         <section class="cs-bottom">
           <div class="cs-bottom__text">
-            <h2 class="cs-subtitle logofont">TENTANG LOGIQUE</h2>
+            <h2 class="cs-subtitle  ">TENTANG LOGIQUE</h2>
             <p class="cs-desc">
             LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll.
             </p>

@@ -41,7 +41,7 @@
 	 
         <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
@@ -49,7 +49,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <!-- <li><a href="/en/case-study/indonesea/">EN</a></li> -->
-                <li><a href="#">EN</a></li>
+                <li><a href="/en/case-study/indonesea/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
