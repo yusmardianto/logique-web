@@ -8,7 +8,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
+  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia | Agensi Jasa Pengembangan Sistem Web (Web System Development) untuk e-commerce & lainnya | Lokasi: Jl.Simatupang Jakarta Selatan">
   <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan">  
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -17,7 +17,7 @@
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
-  <meta property="og:description" content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
+  <meta property="og:description" content="LOGIQUE Digital Indonesia | Agensi Jasa Pengembangan Sistem Web (Web System Development) untuk e-commerce & lainnya | Lokasi: Jl.Simatupang Jakarta Selatan">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/" />  
