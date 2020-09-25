@@ -76,6 +76,29 @@
 	</script>
  </head>
 
+ <script type="text/javascript">
+  function parseJSAtOnload() {
+  var links = [
+      'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js',
+        'https://www.logique.co.id/js/bootstrap.min.js',
+        'https://use.fontawesome.com/df558bb4a1.js',
+        'https://www.logique.co.id/layanan/pembuatan-sistem-web.php',
+  ],
+  headElement = document.getElementsByTagName("head")[0],
+  linkElement, i;
+  for (i = 0; i < links.length; i++) {
+  linkElement = document.createElement("script");
+  linkElement.src = links[i];
+  headElement.appendChild(linkElement);
+  }
+  }
+  if (window.addEventListener)
+  window.addEventListener("load", parseJSAtOnload, false);
+  else if (window.attachEvent)
+  window.attachEvent("onload", parseJSAtOnload);
+  else window.onload = parseJSAtOnload;
+</script>  
+
  <body class="systedev-page">
  
      <div class="wrapper">
@@ -237,7 +260,10 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Dalam proses pengembangan sistem berbasis web, kami menggunakan metode agile developement yang fleksibel dan cepat. Tim developer kami dapat beradaptasi terhadap perubahan agar sistem yang dikembangkan tetap berkualitas serta sesuai dengan kebutuhan yang dinamis.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -249,7 +275,10 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
 
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-secure.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -259,7 +288,10 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <p>Kami berpengalaman dalam memberikan jasa pembuatan sistem berbasis web untuk banyak klien internasional dan lokal berskala besar khususnya dalam industri otomotif, lelang, dan e-commerce. Namun secara menyeluruh kami juga telah membantu berbagai industri lainnya seperti asuransi, finansial, pariwisata, manufaktur, dan startup-startup digital baik dalam pembuatan sistem berbasis web ataupun layanan lainnnya seperti pengembangan aplikasi mobile atau pemasaran digital. Dengan pengalaman tersebut, kami dengan cepat memahami kebutuhan bisnis klien dan memberikan solusi terbaik untuk Anda. </p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-experienced.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -270,7 +302,10 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   <a href="/layanan/devops.php" class="btn-yellow text-center">Cloud Sever DevOps</a>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-infra.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -289,14 +324,20 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div> 
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaproyek.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
+                                </picture>
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaresources.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
+                                </picture>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -315,14 +356,20 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         </div> 
                         <div class="col-sm-6">
                              <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemapengembangan.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
+                                </picture>
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaoutsource.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
+                                </picture>
                             </div>
                         </div> 
                         <div class="col-sm-6">
@@ -1118,15 +1165,30 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="col-sm-6">
                             <ul class="techlist text-center">
                                 <li>
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/laravel.png"></div>
+                                    <div class="icon-container">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/laravel.webp" type="image/webp">
+                                        <img src="assets/img/img-systemdev/newlayout/laravel.png">
+                                    </picture>
+                                    </div>
                                     Laravel
                                 </li>
                                 <li>
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/symphony.png"></div>
+                                    <div class="icon-container">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/symphony.webp" type="image/webp">
+                                        <img src="assets/img/img-systemdev/newlayout/symphony.png">
+                                    </picture>
+                                    </div>
                                     Symphony
                                 </li>
                                 <li>
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/cakephp.png"></div>
+                                    <div class="icon-container">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/cakephp.webp" type="image/webp">
+                                        <img src="assets/img/img-systemdev/newlayout/cakephp.png">
+                                    </picture>
+                                    </div>
                                     CakePHP
                                 </li>
                             </ul>
@@ -1145,19 +1207,28 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <ul class="w3tech-info">
                             <li>
                                Menurut laporan <br>
-                               <img src="assets/img/img-systemdev/newlayout/w3tech.png">
+                               <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/w3tech.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/w3tech.png">
+                                </picture>
                             </li>
                             <li>
                                 <img src="assets/img/img-systemdev/newlayout/arrow-right.svg">
                             </li>
                             <li>
-                                <img src="assets/img/img-systemdev/newlayout/percentage.png"><br>
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/percentage.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/percentage.png"><br>
+                                </picture>
                                 website didunia
                             </li>
                         </ul>
                         dibangun menggunakan bahasa pemrograman
                         <div class="img-contianer">
-                            <img src="assets/img/img-systemdev/newlayout/phplogo.png">
+                            <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/phplogo.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/phplogo.png">
+                                </picture>
                         </div>
                     </div>
 
@@ -1179,7 +1250,11 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="js-desc-continer">
                             <div class="row">
                                 <div class=" col-md-3  col-sm-4 text-center">
-                                    <img src="assets/img/img-systemdev/newlayout/logo-js.png"><br> 
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/logo-js.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/logo-js.png">
+                                </picture>
+                                    <br> 
                                     JavaScript
                                 </div>
                                 <div class="col-md-9  col-sm-8 text-left js-desc">
@@ -1191,9 +1266,29 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             Selain mahir dalam pengembangan web menggunakan PHP dan JavaScript, <br><span class="logofont">LOGIQUE</span> juga sangat baik dalam pengembangan PWA menggunakan framework JavaScript seperti 
                         </p>
                         <ul class="jsframework framework-list">
-                            <li><img src="assets/img/img-systemdev/newlayout/logo-react.png"> <br> React</li>
-                            <li><img src="assets/img/img-systemdev/newlayout/logo-angular.png"> <br> Angular</li>
-                            <li><img src="assets/img/img-systemdev/newlayout/logo-vue.png"> <br> Vue.js</li>
+                            <li>
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/logo-react.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/logo-react.png"> 
+                                </picture>
+                                <br> React
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/logo-angular.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/logo-angular.png"> 
+                                </picture>
+                                <br> 
+                                Angular
+                            </li>
+                            <li>
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/logo-vue.webp" type="image/webp">
+                                    <img src="assets/img/img-systemdev/newlayout/logo-vue.png"> 
+                                </picture>
+                                <br> 
+                                Vue.js
+                            </li>
                         </ul>
                         <p>
                             <span class="logofont">LOGIQUE</span> juga memiliki kemampuan untuk membangun sistem berskala besar <br>dengan menggabungkan Node.js dan Express.js.
@@ -1309,11 +1404,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
      <?php include '../footer.php'; ?>
 
      <section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright 2018 <span class="logofont">Logique</span></section>
-     <style type="text/css">
-         .more{
-            display: none;
-         }
-     </style>
+     <style type="text/css">.more{display: none;}</style>
      <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
      <script src="/js/bootstrap.min.js"></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
