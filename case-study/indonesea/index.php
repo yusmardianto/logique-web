@@ -29,19 +29,19 @@
   <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
-	</noscript>
+ 
 
-  <link href="../../../css/style.css" rel="stylesheet">
-	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
+   <link rel="stylesheet" href="../../../css/sidebar-update.css" >
   <!-- case study style -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="css/new-style.css" rel="stylesheet">
 
     </head>
 	<body>
-		<div class="wrapper o-wrapper top-only">
-
+	 
+        <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
@@ -49,7 +49,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <!-- <li><a href="/en/case-study/indonesea/">EN</a></li> -->
-                <li><a href="#">EN</a></li>
+                <li><a href="/en/case-study/indonesea/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
@@ -123,87 +123,110 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">Indonesea</h1>
+          <img src="new-img/main-banner.jpg" alt="case study logique" class="img-fluid">
+         
           <!-- <h2 class="cs-title-2">(Progressive Web App)</h2> -->
+          <div class="cs-line line01" style="">
+            <img src="new-img/line-01.svg">
+        </div>
+        <div class="breadcrumb-container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <ol class="breadcrumb breadcrumb--update-design" itemscope
+                        itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                            <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Indonesea</span></a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </div> 
+        <h1 class="cs-title">Indonesea</h1>
         </section>
-        <section class="breadcrumb-container">
-          <div class="row">
-              <div class="col-sm-12">
-                  <ol class="breadcrumb breadcrumb--update-design" itemscope
-                      itemtype="http://schema.org/BreadcrumbList">
-                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
-                        <meta itemprop="position" content="1" />
-                      </li>
-                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Indonesea</span></a>
-                        <meta itemprop="position" content="2" />
-                      </li>
-                  </ol>
-              </div>
-          </div>
+        <section class='cs-section client-info'>
+            <div class="row">
+                <div class="col-sm-7 text-container">
+                    <h2 class="section-title">Indonesea.id</h2>
+                    <p>
+                    Indonesea menjadi salah satu start up atau marketplace yang bergerak di industri wisata selam. Indonesea sebagai Dive Booking System membantu mengintegrasikan Penyelam baik professional maupun non professional dengan Dive Center dan Liveaboard di Indonesia. Website Indonesea dapat digunakan di Indonesia dan Mancanegara, customer dapat melakukan pemesanan dan pembayaran melalui website Indonesea untuk memulai explorasi wisata selam di Indonesia.  Sudah tidak diragukan lagi, Indonesia memiliki banyak spot diving dengan keindahan bawah laut yang menarik untuk dikunjungi seperti, Bali, Labuan Bajo, Bunaken, Raja Ampat dan masih banyak lagi tentunya. Indonesia.id akan membantu penyelam mendapatkan informasi yang lengkap terkait deskripsi lokasi spot diving, dive master, fasilitas, service dan safety guidance bahkan untuk kamu yang belum memiliki perlengkapan scuba diving/snorkeling tidak perlu kebingungan, kamu juga dapat menyewanya melalui website Indonesea.id.</p>
+                </div>
+                <div class="col-sm-4 photo-container">
+                    <div class="img-place-right">
+                        <img src="new-img/client-img.png"  >
+                        </div>
+                </div>
+            </div>
         </section>
-        <section class="cs-section">
-          <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
-          <div class="row">
-            <div class="col-sm-6 col-md-push-6 relative">
-              <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
+        <section class='cs-section background-info bg-option1'>
+            <div class="cs-line line02" style="">
+                <img src="new-img/line-02.svg">
             </div>
-            <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Indonesea.id</h2>
-              <p class="cs-desc">
-              Indonesea menjadi salah satu <i>start up</i> atau marketplace yang bergerak di industri wisata selam. Indonesea sebagai Dive Booking System membantu mengintegrasikan Penyelam baik professional maupun non professional dengan Dive Center dan Liveaboard di Indonesia. Website Indonesea dapat digunakan di Indonesia dan Mancanegara, customer dapat melakukan pemesanan dan pembayaran melalui website Indonesea untuk memulai explorasi wisata selam di Indonesia.  Sudah tidak diragukan lagi, Indonesia memiliki banyak spot diving dengan keindahan bawah laut yang menarik untuk dikunjungi seperti, Bali, Labuan Bajo, Bunaken, Raja Ampat dan masih banyak lagi tentunya. Indonesia.id akan membantu penyelam mendapatkan informasi yang lengkap terkait deskripsi lokasi spot diving, dive master, fasilitas, <i>service</i> dan <i>safety guidance</i> bahkan untuk kamu yang belum memiliki perlengkapan scuba <i>diving/snorkeling</i> tidak perlu kebingungan, kamu juga dapat menyewanya melalui website Indonesea.id.  
-              </p>
+            <div class="row">
+                <div class="col-sm-6  photo-container">
+                    <div  >
+                        <img src="new-img/latarbelakang-img.png" style="width: 100%;">
+                        </div>
+                </div>
+                <div class="col-sm-6 text-container">
+                    <h2 class="section-title">Latar Belakang</h2>
+                    <p>
+                    Indonesea.id dinaungi oleh PT.Jelajah Bahari Indonesia, terdiri dari pemuda Indonesia yang memiliki kecintaan pada traveling dan diving ingin menciptakan Dive Booking System dengan kredibilitas baik untuk dapat membuka peluang bagi penggerak wisata bahari dan olahraga air seperti Diving Center serta Liveaboard agar dapat dengan mudah diakses oleh customer untuk dapat melakukan pencarian destinasi-destinasi terbaik di Indonesia.</p>
+                </div>
+               
             </div>
-          </div>
+        </section> 
+        <section class='cs-section tect-info '>
+            <div class="cs-line line03" style="">
+                <img src="new-img/line-03.svg">
+            </div>
+            <div class="row flex__row">
+                <div class="col-sm-7 text-container">
+                    <h2 class="section-title">Teknologi yang diterapkan</h2>
+                    <p>
+                    Indonesea dibangun oleh framework Laravel PHP 7 yang dikembangkan oleh Taylor Otwell dengan versi pertamanya rilis pada tahun 2011. Framework/Library PHP merupakan teknologi web development open source  dengan menggunakan Konsep MVC dan terkenal sebagai Bahasa pemrograman Expressive & Beautifull Syntax karena memiliki komponen-komponen yang tidak monoton dan pemilihan syntaxnya yang secara harfiah sangat relevan dengan fungsi yang dijalankan seperti illuminate, artisan, migrate. Pada Konsep Model Laravel juga terkenal sebagai friendly team collaboration salah satunya dengan adanya fungsi/komponen migrate, dengan komponen migrate maka Tim dapat mendesain database secara langsung dari composser Laravel untuk menjalankan queries mysql sehingga tidak perlu secara manual membuat Tabel melalui phpmyadmin dan sharing database file mysql.</p>
+                                  
+                </div>
+                <div class="col-sm-5 vertical-align  photo-container">
+                    <div class="img-place-right">
+                        <img src="new-img/techinfo-img.png"  style="width: 100%;">
+                        </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="morecs">
+                     Composser Laravel digunakan untuk menarik dan menjalankan package dengan syntax yang mudah dipahami tersebut dan sangat user friendly karena perintah-perintahnya dapat dijalankan melalui Terminal/Git Bash, command seperti PHP Artisan config cache, PHP Artisan View Clear untuk melakukan clear cache pada settingan config dan tampilan User Interface selain itu Laravel juga sudah mendukung keseluruhan system/website maintenance mode secara otomatis hanya cukup dengan menjalankan PHP Artisan Down dan untuk mengembalikannya cukup menjalankan PHP Artisan Up, perintah-perintah ini dapat dieksekusi dengan mudah melalui Terminal/Git Bash. Pada Konsep View Laravel didukung dengan templating engine yang terkenal sebagai Blade Template mampu menjalankan fungsi – fungsi Teknologi Front End seperti CSS, React, Javascript dan Vue dan semuanya akan tersimpan dalam 1 package Laravel/ui.
+                    </div>
+                    <div class="case-study-btn-container " style="padding-top:10px;">
+                        <a href="javascript:void(0)" class=" showcase showmore">
+                        Lihat lebih banyak 
+                        </a>
+                        <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
+                        Lihat lebih sedikit 
+                        </a>
+                    </div>   
+                </div>
+            </div>
         </section>
-        <section class="cs-section">
-          <img src="img/line-2.png" alt="case study logique" class="cs-line cs-line-2">
-          <div class="row">
-            <div class="col-sm-6 relative">
-              <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
+        <section class='cs-section result-info bg-option2'>
+            <div class="cs-line line04" style="">
+                <img src="new-img/line-04.svg">
             </div>
-            <div class="col-sm-6">
-              <h2 class="cs-subtitle">Latar Belakang</h2>
-              <p class="cs-desc">
-              Indonesea.id dinaungi oleh PT.Jelajah Bahari Indonesia, terdiri dari pemuda Indonesia yang memiliki kecintaan pada traveling dan diving ingin menciptakan Dive Booking System dengan kredibilitas baik untuk dapat membuka peluang bagi penggerak wisata bahari dan olahraga air seperti Diving Center serta Liveaboard agar dapat dengan mudah diakses oleh customer untuk dapat melakukan pencarian destinasi-destinasi terbaik di Indonesia. 
-              <div class="m-t-1 visible-lg"><br><br><br><br></div>
-              </p>
+            <div class="result-content-container" >
+                
+                    <h2 class="section-title text-center">Hasil Indonesea.id</h2>
+                    <p>
+                    Indonesea mempercayakan kebutuhan bisnis mereka pada Logique dalam menentukan kebutuhan rancangan dan pengembangan website Indonesea.id yang tepat guna dan dapat diandalkan sehingga tujuan dari bisnis Indonesea.id untuk memudahkan visitor/customer domestik maupun tourist asing menemukan objek wisata diving di Indonesia dapat tercapai, yakni dengan menawarkan  fitur search dan filtering diving destination berdasarkan harga dan lokasi yang juga telah terintegrasi dengan payment gateway sehingga customer dapat melakukan pembayaran secara real time dan semua data reservation akan terecord pada Administration Panel Booking System indonesea.id.</p>
+                
+                    <div class="  text-center">
+                        <img src="new-img/result-img.png"  style="width: 100%;">
+                        </div>
+            
+                
             </div>
-          </div>
-          <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
-        </section>
-        <section class="cs-section">
-          <img src="img/line-3.png" alt="case study logique" class="cs-line cs-line-3">
-          <div class="row">
-            <div class="col-sm-6 col-md-push-6 relative">
-              <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3">
-            </div>
-            <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Teknologi yang diterapkan</h2>
-              <p class="cs-desc">
-              Indonesea dibangun oleh framework Laravel PHP 7 yang dikembangkan oleh Taylor Otwell dengan versi pertamanya rilis pada tahun 2011. Framework/Library PHP merupakan teknologi web development open source  dengan menggunakan Konsep MVC dan terkenal sebagai Bahasa pemrograman Expressive & Beautifull Syntax karena memiliki komponen-komponen yang tidak monoton dan pemilihan syntaxnya yang secara harfiah sangat relevan dengan fungsi yang dijalankan seperti <i>illuminate</i>, <i>artisan</i>, <i>migrate</i>. Pada Konsep <i>Model</i> Laravel juga terkenal sebagai friendly team collaboration salah satunya dengan adanya fungsi/komponen migrate, dengan komponen migrate maka Tim dapat mendesain database secara langsung dari <i>composser</i> Laravel untuk menjalankan queries mysql sehingga tidak perlu secara manual membuat Tabel melalui <i>phpmyadmin</i> dan sharing database file <i>mysql</i>.
-              </p>
-            </div>
-            <div class="col-md-12 col-sm-6 col-sm-push-6 col-md-push-0">
-              <i>Composser</i> Laravel digunakan untuk menarik dan menjalankan package dengan syntax yang mudah dipahami tersebut dan sangat <i>user friendly</i> karena perintah-perintahnya dapat dijalankan melalui <i>Terminal/Git Bash</i>, command seperti <i>PHP Artisan config cache</i>, <i>PHP Artisan View Clear</i> untuk melakukan clear cache pada settingan config dan tampilan User Interface selain itu Laravel juga sudah mendukung keseluruhan system/website <i>maintenance mode</i> secara otomatis hanya cukup dengan menjalankan <i>PHP Artisan Down</i> dan untuk mengembalikannya cukup menjalankan <i>PHP Artisan Up</i>, perintah-perintah ini dapat dieksekusi dengan mudah melalui <i>Terminal/Git Bash</i>. Pada Konsep View Laravel didukung dengan templating engine yang terkenal sebagai Blade Template mampu menjalankan fungsi – fungsi Teknologi Front End seperti <i>CSS</i>, <i>React</i>, <i>Javascript</i> dan <i>Vue</i> dan semuanya akan tersimpan dalam 1 package <i>Laravel/ui</i>. 
-              <div class="visible-lg"><br><br><br></div>
-            </div>
-          </div>
-        </section>
-        <section class="cs-section">
-          <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">Hasil Indonesea.id</h2>
-              <p class="cs-desc text-center">
-              Indonesea mempercayakan kebutuhan bisnis mereka pada Logique dalam menentukan kebutuhan rancangan dan pengembangan website Indonesea.id yang tepat guna dan dapat diandalkan sehingga tujuan dari bisnis Indonesea.id untuk memudahkan visitor/customer domestik maupun tourist asing menemukan objek wisata diving di Indonesia dapat tercapai, yakni dengan menawarkan  fitur <i>search</i> dan <i>filtering</i> diving destination berdasarkan harga dan lokasi yang juga telah terintegrasi dengan <i>payment gateway</i> sehingga customer dapat melakukan pembayaran secara <i>real time</i> dan semua data reservation akan terecord pada Administration Panel Booking System indonesea.id. 
-              </p>
-              <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
-            </div>
-          </div>
-          <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
         <section class="cs-section cs-others">
           <div>
@@ -321,6 +344,7 @@
           </div>
         </section>
       </div>
+
       <style>
         .cs-wrap footer {
           padding-bottom:10px;
@@ -331,20 +355,18 @@
         </style>
      <?php include '../../footer.php';?>
 		</div>
-		<script type="application/ld+json">
-			{
-			  "@context": "http://schema.org",
-			  "@type": "Organization",
-			  "address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Jakarta, Indonesia",
-					"postalCode": "12550",
-					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-			  },
-			  "logo": "https://www.logique.co.id/img/logo.png",
-			  "email": "info(at)logique.co.id",
-			  "telephone": "+62 (21) 2270 8935/36"
-			}
-		</script>
+		<script>
+        $('.showmore').click(function(){
+            $('.morecs').css('display','inline-block');
+            $('.showmore').css('display','none'); 
+            $('.showless').css('display','inline-block');   
+            })
+
+        $('.showless').click(function(){
+            $('.morecs').css('display','none');
+            $('.showless').css('display','none'); 
+            $('.showmore').css('display','inline-block');  
+            })
+        </script>
 	</body>
 </html>

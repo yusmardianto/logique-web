@@ -43,7 +43,7 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE adalah perusahaan pengembang web di Jakarta. Melayani jasa pembuatan website perusahaan, toko online, UMKM & lainnya. Desain Profesional Harga Bersaing.">
+         content="LOGIQUE melayani jasa pembuatan website individu & perusahaan; otomotif, asuransi, ecommerce, toko online & lainnya. Profesional & yang terbaik di Jakarta.">
      <meta name="keywords"
          content="jasa pembuatan website, jasa pembuatan website profesional, jasa pembuatan website jakarta">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -56,7 +56,7 @@ if(isset($_POST['submitted']))
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/web-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="LOGIQUE adalah perusahaan pengembang web di Jakarta. Melayani jasa pembuatan website perusahaan, toko online, UMKM & lainnya. Desain Profesional Harga Bersaing.">
+    <meta property="og:description" content="LOGIQUE melayani jasa pembuatan website individu & perusahaan; otomotif, asuransi, ecommerce, toko online & lainnya. Profesional & yang terbaik di Jakarta.">
      <title>Perusahaan Jasa Pembuatan Website di Jakarta | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="../css/sidebar-update.css" >
@@ -254,7 +254,7 @@ if(isset($_POST['submitted']))
                     </p>
                     <a href="/layanan/webdev-price-range.php" target="_blank">
                         <div class="flow-button">
-                        Lihat Opsi Pembuatan Website
+                        Lihat Opsi Harga Pembuatan Website
                         <img loading="lazy" src="assets/img/img-webdev/arrow.png" alt="">
                         </div>
                     </a>
