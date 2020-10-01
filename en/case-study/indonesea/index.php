@@ -191,26 +191,16 @@ Through Targeted Conversions</i></h1>
                     <p>
                       Indonesea was built using the Laravel PHP 7 framework, developed by Taylor Otwell, the first version of which was released in 2011. The PHP framework / library is a type of open source web development technology which utilizes the concept of MVC. It is known as a framework which incorporates expressive & beautiful syntax, as it uses components that are not monotone, with its syntax being specifically relevant to the various functions it performs, such as illuminate, artisan and migrate. Laravel’s concept of the Model is known for its friendly team collaboration, an example of which is it’s migrate function / component. With this component, the team can design the database directly from the Laravel composer so as to run mysql queries. Therefore, there is no need to manually create tables via phpmyadmin and to share mysql database files.
                     </p>
-                                  
+                    <p>
+                    Laravel’s Composer is used to pull and run packages through its easy-to-understand syntax. It is very user friendly because the commands can be run through Terminal / Git Bash, and it can also use commands such as the PHP Artisan config cache, and the PHP Artisan View Clear to clear the cache on config and display settings. In addition, Laravel’s user interface also supports the entire system / website maintenance mode automatically. One just needs to run the PHP Artisan Down. These commands can be executed easily via Terminal / Git Bash. The Laravel View Concept is supported by a templating engine known as a Blade Template capable of carrying out Front End Technology functions such as CSS, React, Javascript and Vue, all of which will be stored in 1 Laravel / ui package.
+                </p>              
                 </div>
                 <div class="col-sm-5 vertical-align  photo-container">
                     <div class="img-place-right">
                         <img src="new-img/techinfo-img.png"  style="width: 100%;">
                         </div>
                 </div>
-                <div class="col-sm-12">
-                    <div class="morecs">
-                    Laravel’s Composer is used to pull and run packages through its easy-to-understand syntax. It is very user friendly because the commands can be run through Terminal / Git Bash, and it can also use commands such as the PHP Artisan config cache, and the PHP Artisan View Clear to clear the cache on config and display settings. In addition, Laravel’s user interface also supports the entire system / website maintenance mode automatically. One just needs to run the PHP Artisan Down. These commands can be executed easily via Terminal / Git Bash. The Laravel View Concept is supported by a templating engine known as a Blade Template capable of carrying out Front End Technology functions such as CSS, React, Javascript and Vue, all of which will be stored in 1 Laravel / ui package.
-                    </div>
-                    <div class="case-study-btn-container " style="padding-top:10px;">
-                        <a href="javascript:void(0)" class=" showcase showmore">
-                          See More
-                        </a>
-                        <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
-                          See Less
-                        </a>
-                    </div>   
-                </div>
+                
             </div>
         </section>
         <section class='cs-section result-info bg-option2'>

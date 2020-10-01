@@ -182,7 +182,7 @@
  
     <div class="container-fluid">
 
-      <div class="row lang-logo--update-design">
+      <div class="lang-logo--update-design">
         <div class="container">
           <div class="row">
             <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
