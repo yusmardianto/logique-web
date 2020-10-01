@@ -177,25 +177,15 @@
                     <p>
                     Bisnis PT. Sinar Horeca Sukses sebenarnya sudah berjalan secara Offline saat ini, tetapi mereka ingin terus mengembangkan bisnis mereka di era digital ini agar dapat terus bersaing. Karena itu, mereka mempunyai keinginan untuk membuat sebuah web system sekaligus Progressive Web App (PWA) yang bernama Klikhoreca dan bertujuan untuk menarik semua kalangan untuk berbelanja bahan-bahan makanan, jadi diharapkan customer dari Klikhoreca tidak hanya sebatas pemilik Hotel, Restoran, atau Kafe, tetapi juga perorangan yang tinggal di rumah. Klikhoreca dapat diakses dari desktop dan mobile, dan karena memakai teknologi PWA, customer tidak perlu menginstall atau memasang aplikasi yang menyebabkan performa smartphone menjadi berkurang.  
                   </p>
-                  <div class=" ">
-                    <div class="morecs">
-                    Untuk membuat Progressive Web App yang mereka inginkan, PT. Sinar Horeca Sukses merasa perlu bekerja sama dengan LOGIQUE DIGITAL INDONESIA untuk membantu mereka dalam mengembangkan sistem tersebut. Sistem PWA juga telah menciptakan standar baru untuk aplikasi yang dapat diinstal dan telah didukung oleh setiap platform sehingga membuat user experience yang berbeda dalam berbelanja.
-                    </div>
-                    <div class="case-study-btn-container " style="padding-top:10px;">
-                        <a href="javascript:void(0)" class=" showcase showmore">
-                        Lihat lebih banyak 
-                        </a>
-                        <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
-                        Lihat lebih sedikit 
-                        </a>
-                    </div>   
-                </div>
+                  <p>  Untuk membuat Progressive Web App yang mereka inginkan, PT. Sinar Horeca Sukses merasa perlu bekerja sama dengan LOGIQUE DIGITAL INDONESIA untuk membantu mereka dalam mengembangkan sistem tersebut. Sistem PWA juga telah menciptakan standar baru untuk aplikasi yang dapat diinstal dan telah didukung oleh setiap platform sehingga membuat user experience yang berbeda dalam berbelanja.
+</p>
+                  
                        
                 </div> 
                
             </div>
         </section> 
-        <section class='cs-section tect-info '>
+        <section class='cs-section tech-info '>
             <div class="cs-line line03" style="">
                 <img src="new-img/line-03.svg">
             </div>
@@ -205,18 +195,11 @@
                     <p>
                       Dalam membuat sistem Klikhoreca PWA (Progressive Web App), teknologi yang digunakan adalah Next.JS yang berbasis React.JS. Framework ini merupakan kerangka JavaScript universal yang mampu beroperasi di browser dan server. Framework ini berasal dari sebuah start-up bernama zeit, dan menjadikan Next.js sebagai kerangka kerja pilihan universal dan terpopuler di tahun 2018. Framework ini menawarkan cara pengembangan yang mudah saat Anda menggunakan React.js sebagai template-nya.
                     </p>
-                     
-                    <div class="morecs">
+                    <p>
                     Framework Next.JS ini dipilih dalam pengembangan sistem ini, karena memiliki keunggulan seperti, seluruh komponen Anda di dalam folder “pages” mendapatkan server-rendered secara otomatis, SEO Friendly, serta berbagai keuntungan lainnya yang mendukung pengembangan sistem PWA yang akan dilakukan.
-                    </div>
-                    <div class="case-study-btn-container " style="padding-top:10px;">
-                        <a href="javascript:void(0)" class=" showcase showmore">
-                        Lihat lebih banyak 
-                        </a>
-                        <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
-                        Lihat lebih sedikit 
-                        </a>
-                    </div>   
+
+                    </p>
+                     
                         
                 </div>
                 <div class="col-sm-5 vertical-align  photo-container">

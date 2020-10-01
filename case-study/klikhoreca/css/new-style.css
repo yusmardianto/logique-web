@@ -262,6 +262,9 @@ margin-bottom: 30px;
 .cs-section:nth-child(4), .cs-section:nth-child(5) {
     margin-bottom: 50px;
 } 
+.cs-section.tech-info{
+    padding-bottom: 40px;
+}
 .cs-line {
     position: absolute;
     width: 100%;

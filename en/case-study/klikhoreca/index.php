@@ -178,10 +178,11 @@
 In this regard, they have aimed to create a web system as well as a Progressive Web App (PWA) called Klikhoreca that assists people with their grocery related needs, so that Klikhoreca’s customers will not simply be limited to hotel, restaurant or cafe owners, but also individuals who are living and working from their homes. 
 Klikhoreca can be accessed from both desktop and mobile, and because it uses PWA technology, customers don't need to install applications that could potentially cause a decrease in their smartphone’s overall functionality.
  </p>
-                  <div class=" ">
+ <p> In order to make the Progressive Web App that they require, PT. Sinar Horeca Sukses has felt it necessary to work with LOGIQUE DIGITAL INDONESIA in assisting them with developing the system. The PWA system has also created a new standard for installable applications and is further supported by all major platforms, thus creating a different user experience when shopping through each respective platform.
+</p>
+                <?php /*  <div class=" ">
                     <div class="morecs">
-                    In order to make the Progressive Web App that they require, PT. Sinar Horeca Sukses has felt it necessary to work with LOGIQUE DIGITAL INDONESIA in assisting them with developing the system. The PWA system has also created a new standard for installable applications and is further supported by all major platforms, thus creating a different user experience when shopping through each respective platform.
-                   </div>
+                                      </div>
                     <div class="case-study-btn-container " style="padding-top:10px;">
                         <a href="javascript:void(0)" class=" showcase showmore">
                         See more
@@ -190,7 +191,7 @@ Klikhoreca can be accessed from both desktop and mobile, and because it uses PWA
                         See less
                         </a>
                     </div>   
-                </div>
+                  </div> */ ?>
                        
                 </div> 
                
