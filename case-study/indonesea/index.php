@@ -189,26 +189,15 @@
                     <h2 class="section-title">Teknologi yang diterapkan</h2>
                     <p>
                     Indonesea dibangun oleh framework Laravel PHP 7 yang dikembangkan oleh Taylor Otwell dengan versi pertamanya rilis pada tahun 2011. Framework/Library PHP merupakan teknologi web development open source  dengan menggunakan Konsep MVC dan terkenal sebagai Bahasa pemrograman Expressive & Beautifull Syntax karena memiliki komponen-komponen yang tidak monoton dan pemilihan syntaxnya yang secara harfiah sangat relevan dengan fungsi yang dijalankan seperti illuminate, artisan, migrate. Pada Konsep Model Laravel juga terkenal sebagai friendly team collaboration salah satunya dengan adanya fungsi/komponen migrate, dengan komponen migrate maka Tim dapat mendesain database secara langsung dari composser Laravel untuk menjalankan queries mysql sehingga tidak perlu secara manual membuat Tabel melalui phpmyadmin dan sharing database file mysql.</p>
+                    <p>
+                    Composser Laravel digunakan untuk menarik dan menjalankan package dengan syntax yang mudah dipahami tersebut dan sangat user friendly karena perintah-perintahnya dapat dijalankan melalui Terminal/Git Bash, command seperti PHP Artisan config cache, PHP Artisan View Clear untuk melakukan clear cache pada settingan config dan tampilan User Interface selain itu Laravel juga sudah mendukung keseluruhan system/website maintenance mode secara otomatis hanya cukup dengan menjalankan PHP Artisan Down dan untuk mengembalikannya cukup menjalankan PHP Artisan Up, perintah-perintah ini dapat dieksekusi dengan mudah melalui Terminal/Git Bash. Pada Konsep View Laravel didukung dengan templating engine yang terkenal sebagai Blade Template mampu menjalankan fungsi – fungsi Teknologi Front End seperti CSS, React, Javascript dan Vue dan semuanya akan tersimpan dalam 1 package Laravel/ui.</p>
                                   
                 </div>
                 <div class="col-sm-5 vertical-align  photo-container">
                     <div class="img-place-right">
                         <img src="new-img/techinfo-img.png"  style="width: 100%;">
                         </div>
-                </div>
-                <div class="col-sm-12">
-                    <div class="morecs">
-                     Composser Laravel digunakan untuk menarik dan menjalankan package dengan syntax yang mudah dipahami tersebut dan sangat user friendly karena perintah-perintahnya dapat dijalankan melalui Terminal/Git Bash, command seperti PHP Artisan config cache, PHP Artisan View Clear untuk melakukan clear cache pada settingan config dan tampilan User Interface selain itu Laravel juga sudah mendukung keseluruhan system/website maintenance mode secara otomatis hanya cukup dengan menjalankan PHP Artisan Down dan untuk mengembalikannya cukup menjalankan PHP Artisan Up, perintah-perintah ini dapat dieksekusi dengan mudah melalui Terminal/Git Bash. Pada Konsep View Laravel didukung dengan templating engine yang terkenal sebagai Blade Template mampu menjalankan fungsi – fungsi Teknologi Front End seperti CSS, React, Javascript dan Vue dan semuanya akan tersimpan dalam 1 package Laravel/ui.
-                    </div>
-                    <div class="case-study-btn-container " style="padding-top:10px;">
-                        <a href="javascript:void(0)" class=" showcase showmore">
-                        Lihat lebih banyak 
-                        </a>
-                        <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
-                        Lihat lebih sedikit 
-                        </a>
-                    </div>   
-                </div>
+                </div> 
             </div>
         </section>
         <section class='cs-section result-info bg-option2'>

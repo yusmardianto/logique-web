@@ -260,7 +260,7 @@
         </section>
         <section class="cs-bottom">
           <div class="cs-bottom__text">
-            <h2 class="cs-subtitle  ">TENTANG LOGIQUE</h2>
+            <h2 class="cs-subtitle logofont">TENTANG LOGIQUE</h2>
             <p class="cs-desc">
             LOGIQUE adalah Web Developer di Jakarta yang menyediakan aneka jasa pembuatan website termasuk desain web, pembuatan aplikasi, pemasaran digital, pengembangan sistem berbasis web, dan jasa SEO. Kami memberikan dukungan pembuatan website atau sistem berbasis web serta pengelolaannya di Jakarta, Indonesia dan di mancanegara seperti di Jepang. Selain jasa yang berhubungan dengan website, kami juga menyediakan layanan desain dan percetakan untuk profil perusahaan, katalog, brosur, dll.
             </p>
