@@ -533,7 +533,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
                           alt="Quality Assurance">
-                        <h3 class="heading-black">Quality Assurance Engineer (Sofware)</h3>
+                        <h3 class="heading-black">Quality Assurance Engineer (Software)</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
