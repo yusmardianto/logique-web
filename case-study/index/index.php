@@ -137,31 +137,31 @@
       <div class="logique-nav logique-nav--update logique-nav--update">
         <div class="margin-for-nav">
           <div class="text-center active">
-            <a href="#">
+            <a href="/">
               <div class="img-home"></div>
               Beranda
             </a>
           </div>
           <div class="text-center">
-            <a href="logique.php">
+            <a href="/logique.php">
               <div class="img-about"></div>
               Tentang Kami
             </a>
           </div>
           <div class="text-center">
-            <a href="portofolio.php">
+            <a href="/portofolio.php">
               <div class="img-portfolio"></div>
               Portfolio
             </a>
           </div>
           <div class="text-center">
-            <a href="layanan.php">
+            <a href="/layanan.php">
               <div class="img-services"></div>
               Layanan
             </a>
           </div>
           <div class="text-center">
-            <a href="produk.php">
+            <a href="/produk.php">
               <div class="img-product"></div>
               Produk
             </a>
@@ -198,9 +198,9 @@
               <div class="container">
                 <a href="/"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                 <ul class="list-inline">
-                  <li><a href="en/index.php">EN</a></li>
+                  <!-- <li><a href="en/index.php">EN</a></li> -->
                   <li class="active"><a href="#">ID</a></li>
-                  <li><a href="jp/index.php">JP</a></li>
+                  <!-- <li><a href="jp/index.php">JP</a></li> -->
                 </ul>
               </div>
             </div>
