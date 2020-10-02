@@ -1,47 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) has trusted LOGIQUE with the development of their website, Indonesea.id, which uses an efficient Dive Booking System.">
+  <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Website Creation & Development for Indonesea.id | LOGIQUE">
+	<meta property="og:title" content="Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/en/case-study/opuspark/">
+	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) has trusted LOGIQUE with the development of their website, Indonesea.id, which uses an efficient Dive Booking System.">
+	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&amp;display=swap" rel="stylesheet">
 	ga('create', 'UA-105878648-1', 'auto');
 	ga('send', 'pageview');
 
 	</script>
-  <title>Website Creation & Development for Indonesea.id | LOGIQUE</title>
+  <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
-	</noscript>
+ 
 
-  <link href="../../../css/style.css" rel="stylesheet">
-	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
+   <link rel="stylesheet" href="../../../css/sidebar-update.css" >
   <!-- case study style -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="css/new-style.css" rel="stylesheet">
 
     </head>
-	<body>
-		<div class="wrapper o-wrapper top-only">
-
-      <header>
-        <div class="container-fluid">
+	<body> 
+        <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
+        <header>
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -65,8 +64,8 @@
 			</button>
 			<div class="collapse navbar-collapse" id="myNavbar">
 			<div class="backdrop-test"></div>
-				<div class="logique-nav logique-nav--update">
-					<div class="margin-for-nav">
+        <div class="logique-nav logique-nav--update">
+          <div class="margin-for-nav">
 						<div class="text-center">
 							<a href="/en">
 								<div class="img-home"></div>
@@ -122,11 +121,13 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">Indonesea</h1>
-          <h2 class="cs-title-2 hidden-xs">Increasing Sales of Units<br>Through Targeted Conversions</h2>
-        </section>
-        <section class="breadcrumb-container">
+          <img src="new-img/main-banner.jpg" alt="case study logique" class="img-fluid">
+         
+          <!-- <h2 class="cs-title-2">(Progressive Web App)</h2> -->
+          <div class="cs-line line01" style="">
+            <img src="new-img/line-01.svg">
+        </div>
+        <div class="breadcrumb-container">
           <div class="row">
               <div class="col-sm-12">
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -142,131 +143,83 @@
                   </ol>
               </div>
           </div>
+        </div> 
+        <h1 class="cs-title">Indonesea<br><i>Increasing Sales of Units<br>
+Through Targeted Conversions</i></h1>
         </section>
-        <section class="cs-section">
-          <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">
-          <div class="row">
-            <div class="col-sm-6 col-md-push-6 relative">
-              <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
-            </div>
-            <div class="col-sm-6 col-md-pull-6">
-              <p class="cs-subtitle-top">Opus Park</p>
-              <h2 class="cs-subtitle">World Class Property in Sentul City</h2>
-              <p class="cs-desc">
-                Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp. Opus Park consists of three premium quality apartment towers with 1,095 units in total. Located in Central Business District (CBD) area of ​​Sentul City, Bogor, Opus Park offers strategic housings in the form of luxury apartments and penthouses with world-class facilities. In the area, also built a shopping center from Japan, AEON Mall, offices, and five-star hotels with a total building area of ​​500 thousand square meters.
-            </div>
-          </div>
-        </section>
-        <section class="cs-section">
-          <img src="img/line-2.png" alt="case study logique" class="cs-line cs-line-2">
-          <div class="row">
-            <div class="col-sm-6 relative">
-              <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2 custom1">
-            </div>
-            <div class="col-sm-6">
-              <p class="cs-subtitle-top">Targets Opus Park Wants to Achieve</p>
-              <h2 class="cs-subtitle">Find the right people</h2>
-              <p class="cs-desc">
-              Opus Park sees the online digital world as the largest potential source of sales of their units. They want targeted marketing through digital marketing to find potential buyers. By using the operation of online advertising and the application of SEO on the website, they have at least two goals. First, they want the right people to contact them—either by telephone, WhatsApp, or email—to ask related questions, and register a schedule to visit the Show Unit with the sales team of Opus Park. Second, so that the number of callers/users increases and they actually meet the schedule to visit the Show Unit.
-              <br>
-              </p>
-            </div>
-          </div>
-          <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
-        </section>
-        <section class="cs-section">
-          <img src="img/line-3.png" alt="case study logique" class="cs-line cs-line-3">
-          <div class="row">
-            <div class="col-sm-6 col-md-push-6 relative">
-              <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3 custom2">
-            </div>
-            <div class="col-sm-6 col-md-pull-6">
-              <p class="cs-subtitle-top">The Strategy Applied by LOGIQUE</p>
-              <h2 class="cs-subtitle">Maximizing Digital Marketing</h2>
-              <p class="cs-desc custom4">
-              Opus Park wants the operation of ads and social media to get paid traffic, and the implementation of SEO on the website for organic traffic from search engines. Both types of traffic play a major role in achieving the desired goals.
-              <br><br>
-              <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
-              <div class="modal fade" id="modal-id">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                      <h4 class="modal-title">Maximizing Digital Marketing</h4>
-                    </div>
-                    <div class="modal-body">
-                    Opus Park wants the operation of ads and social media to get paid traffic, and the
-                    implementation of SEO on the website for organic traffic from search engines. Both types of
-                    traffic play a major role in achieving the desired goals. <br>
-                    For this reason, LOGIQUE applies a phased digital marketing strategy. First, increasing brand
-                    awareness among residential enthusiasts in the form of apartments and penthouses. Second,
-                    make the audience eager to find out more about Opus Park units by visiting the website.<br><br>
-                    Finally, make those who have the potential to consider and be interested in buying the unit to
-                    fill out the schedule form for the Show Unit private visit available on the website.
-                    The strategy consists of operating social media and advertising campaigns with a variety of
-                    objectives for targeted audiences through Facebook Ads that includes Facebook and Instagram,
-                    as well as Google Ads which includes Search Ads, Display Ads, and Youtube Ads.
-                    After the campaigns launch, LOGIQUE continues to perform a variety of structured approaches
-                    and optimizations to increase traffic every month. It starts from the production and design of
-                    banners in various sizes, making ad copies regularly, evaluating the targetings, A/B testing,
-                    adding keywords, and all efforts to increase the Quality Score so the costs remain low and
-                    effective.<br><br>
-                    Meanwhile, the implementation of SEO on Opus Park website is also conducted gradually. It
-                    starts with adding related keywords, meta tags, setting navigation and elements on the
-                    website, reworking on the contents provided to be SEO friendly, creating Indonesian-language
-                    pages, and many more, including to implement accelerated mobile pages (AMP) on the
-                    website.<br><br>
-                    Here are the Key Performance Indicators (KPI) applied:<br>
-                    1. Reach as many targeted audiences as possible<br>
-                    2. Leading users to the Opus Park website<br>
-                    3. Increasing engagements with users<br>
-                    4. Navigate website visits in conversions<br>
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                  </div>
+        <section class='cs-section client-info'>
+            <div class="row">
+                <div class="col-sm-7 text-container">
+                    <h2 class="section-title">Indonesea.id</h2>
+                    <p>
+                    Indonesea has become among the various start-ups or marketplaces to have developed within the diving tourism industry. Indonesea, which functions as a Dive Booking System, aims to help integrate divers both professional and non-professional with Dive Centers and Liveaboards operating out of Indonesia. The Indonesea website can be used both within Indonesia and abroad. Customers can place orders and payments through the Indonesea website and start exploring the world of Indonesian diving tourism. There is no doubt that Indonesia possesses a wide away of diving hotspots defined by their captivating underwater beauty, known to places such as Bali, Labuan Bajo, Bunaken, Raja Ampat and much more. Indonesia.id aims to assist its divers in regards to a wide array of important services, such as information about diving locations, dive masters, safety and facilities; even for those of you who don't own scuba diving / snorkeling equipment, there’s no need to worry as you can also rent them through the Indonesea.id website.
+                  </p>
                 </div>
-              </div>
-              </p>
-            </div>
-          </div>
-        </section>
-        <section class="cs-section">
-          <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
-          <div class="row">
-            <div class="col-md-12">
-              <p class="text-center cs-subtitle-top">Results</p>
-              <h2 class="cs-subtitle text-center">Reached Conversions</h2>
-              <p class="cs-desc text-center">
-              Implementing a digital marketing strategy has helped Opus Park increase awareness among a targeted audience. Not only that, the Opus Park website has a significant increase in traffic. The engagement that was obtained was fairly satisfying. This good result has even been seen in 1-2 months since the digital marketing operations were executed in a cost-efficient manner.
-              <br><br>
-              <a class="btn btn-cs" data-toggle="modal" href='#modal-id-2'>Detail</a>
-              <div class="modal fade" id="modal-id-2">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                      <h4 class="modal-title">Reached Conversions</h4>
-                    </div>
-                    <div class="modal-body">
-                    Implementing a digital marketing strategy has helped Opus Park increase awareness among a targeted audience. Not only that, the Opus Park website has a significant increase in traffic. The engagement that was obtained was fairly satisfying. This good result has even been seen in 1-2 months since the digital marketing operations were executed in a cost-efficient manner. Here are the results achieved from August to November 2018: <br><br>
-                    - Engagements increased by +500,000 in total on Opus Park social media <br>
-                    - +600,000 sessions generated by users on Opus Park website <br>
-                    - The number of bounce rate drops to -9.12%<br>
-                    - +2,000 conversions have been made by users on the website<br>
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                  </div>
+                <div class="col-sm-4 photo-container">
+                    <div class="img-place-right">
+                        <img src="new-img/client-img.png"  >
+                        </div>
                 </div>
-              </div>
-              </p>
-              <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block custom3">
             </div>
-          </div>
-          <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
+        </section>
+        <section class='cs-section background-info bg-option1'>
+            <div class="cs-line line02" style="">
+                <img src="new-img/line-02.svg">
+            </div>
+            <div class="row">
+                <div class="col-sm-6  photo-container">
+                    <div  >
+                        <img src="new-img/latarbelakang-img.png" style="width: 100%;">
+                        </div>
+                </div>
+                <div class="col-sm-6 text-container">
+                    <h2 class="section-title">Background</h2>
+                    <p>
+                    Indonesea.id is managed by PT. Exploration Bahari Indonesia, which consists of a group of young Indonesians who, through their love of traveling and diving, sought to create a credible Dive Booking System which would be able to open up opportunities for marine tourism and water sports activities, similar to that of a Diving Center and Liveaboard, so as to make it easy and accessible to customers in their search for the best diving destinations throughout Indonesia.  
+                  </p>
+                </div>
+               
+            </div>
+        </section> 
+        <section class='cs-section tect-info '>
+            <div class="cs-line line03" style="">
+                <img src="new-img/line-03.svg">
+            </div>
+            <div class="row flex__row">
+                <div class="col-sm-7 text-container">
+                    <h2 class="section-title">Applied Technology </h2>
+                    <p>
+                      Indonesea was built using the Laravel PHP 7 framework, developed by Taylor Otwell, the first version of which was released in 2011. The PHP framework / library is a type of open source web development technology which utilizes the concept of MVC. It is known as a framework which incorporates expressive & beautiful syntax, as it uses components that are not monotone, with its syntax being specifically relevant to the various functions it performs, such as illuminate, artisan and migrate. Laravel’s concept of the Model is known for its friendly team collaboration, an example of which is it’s migrate function / component. With this component, the team can design the database directly from the Laravel composer so as to run mysql queries. Therefore, there is no need to manually create tables via phpmyadmin and to share mysql database files.
+                    </p>
+                    <p>
+                    Laravel’s Composer is used to pull and run packages through its easy-to-understand syntax. It is very user friendly because the commands can be run through Terminal / Git Bash, and it can also use commands such as the PHP Artisan config cache, and the PHP Artisan View Clear to clear the cache on config and display settings. In addition, Laravel’s user interface also supports the entire system / website maintenance mode automatically. One just needs to run the PHP Artisan Down. These commands can be executed easily via Terminal / Git Bash. The Laravel View Concept is supported by a templating engine known as a Blade Template capable of carrying out Front End Technology functions such as CSS, React, Javascript and Vue, all of which will be stored in 1 Laravel / ui package.
+                </p>              
+                </div>
+                <div class="col-sm-5 vertical-align  photo-container">
+                    <div class="img-place-right">
+                        <img src="new-img/techinfo-img.png"  style="width: 100%;">
+                        </div>
+                </div>
+                
+            </div>
+        </section>
+        <section class='cs-section result-info bg-option2'>
+            <div class="cs-line line04" style="">
+                <img src="new-img/line-04.svg">
+            </div>
+            <div class="result-content-container" >
+                
+                    <h2 class="section-title text-center">Indonesea.id results</h2>
+                    <p>
+                    Indonesea has put their trust in LOGIQUE to determine the design and development needs of an website appropriate for their requirements. The purpose of the website and their business is to make it easier for domestic and foreign visitors / customers to facilitate their diving tourism needs in Indonesia, namely through offering search and filtering features regarding diving destinations based on price and location. This feature has also been integrated with a payment gateway so that customers can make payments in real time and so that all reservation data will be recorded on the Indonesea.id Administration Panel Booking System.
+                    </p>
+                
+                    <div class="  text-center">
+                        <img src="new-img/result-img.png"  style="width: 100%;">
+                        </div>
+            
+                
+            </div>
         </section>
         <section class="cs-section cs-others">
           <div>
@@ -274,42 +227,42 @@
             <div class="row text-center">
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/en/case-study/jba-auction-system/">
-                  <img class="img-responsive center-block" src="img/jba-auction-system.png" alt="Other Case Studies">
+                  <img class="img-responsive center-block" src="new-img/jba-auction-system.png" alt="Other Case Studies">
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/en/case-study/opuspark/">
-                  <img class="img-responsive center-block" src="img/opus-park.png" alt="Other Case Studies">
+                  <img class="img-responsive center-block" src="new-img/opus-park.png" alt="Other Case Studies">
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/en/case-study/caroline-bidding-system/">
-                  <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Other Case Studies">
+                  <img class="img-responsive center-block" src="new-img/caroline-bidding-system.png" alt="Other Case Studies">
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/en/case-study/vip-plaza-progressive-web-app/">
-                  <img class="img-responsive center-block" src="img/vip-plaza.png" alt="Other Case Studies">
+                  <img class="img-responsive center-block" src="new-img/vip-plaza.png" alt="Other Case Studies">
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/en/case-study/zuttoride-customer-management-system/">
-                  <img class="img-responsive center-block" src="img/zuttoride.png" alt="Other Case Studies">
+                  <img class="img-responsive center-block" src="new-img/zuttoride.png" alt="Other Case Studies">
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
                   <a href="/en/case-study/klikhoreca/">
                     <picture>
-                        <source srcset="img/btn-klikhoreca.webp" type="image/webp">
-                        <img class="img-responsive center-block" src="img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
+                        <source srcset="new-img/btn-klikhoreca.webp" type="image/webp">
+                        <img class="img-responsive center-block" src="new-img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
                     </picture>
                   </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
                   <a href="/en/case-study/pan-pacific/">
                     <picture>
-                        <source srcset="img/btn-pan-pacific.webp" type="image/webp">
-                        <img class="img-responsive center-block" src="img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
+                        <source srcset="new-img/btn-pan-pacific.webp" type="image/webp">
+                        <img class="img-responsive center-block" src="new-img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
                     </picture>
                   </a>
               </div>
@@ -384,6 +337,7 @@
           </div>
         </section>
       </div>
+
       <style>
         .cs-wrap footer {
           padding-bottom:10px;
@@ -392,22 +346,20 @@
           display:block;
         }
         </style>
-      <?php include '../../footer.php';?>
+     <?php include '../../footer.php';?>
 		</div>
-		<script type="application/ld+json">
-			{
-			  "@context": "http://schema.org",
-			  "@type": "Organization",
-			  "address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Jakarta, Indonesia",
-					"postalCode": "12550",
-					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-			  },
-			  "logo": "https://www.logique.co.id/img/logo.png",
-			  "email": "info(at)logique.co.id",
-			  "telephone": "+62 (21) 2270 8935/36"
-			}
-		</script>
+		<script>
+        $('.showmore').click(function(){
+            $('.morecs').css('display','inline-block');
+            $('.showmore').css('display','none'); 
+            $('.showless').css('display','inline-block');   
+            })
+
+        $('.showless').click(function(){
+            $('.morecs').css('display','none');
+            $('.showless').css('display','none'); 
+            $('.showmore').css('display','inline-block');  
+            })
+        </script>
 	</body>
 </html>

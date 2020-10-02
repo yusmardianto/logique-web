@@ -41,18 +41,20 @@ if(isset($_POST['submitted']))
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Cache-control" content="public, max-age=86400">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="LOGIQUE Digital Indonesia membuat dan mengembangkan website dan sistem web dengan kualitas tinggi, standar internasional, profesional, kecepatan, dan fleksibilitas terhadap segala macam perubahan yang Anda minta. Lihat harga pembuatan website dari LOGIQUE di sini.">
+	<meta name="description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE
+">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Harga Pembuatan Website | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia membuat dan mengembangkan website dan sistem web dengan kualitas tinggi, standar internasional, profesional, kecepatan, dan fleksibilitas terhadap segala macam perubahan yang Anda minta. Lihat harga pembuatan website dari LOGIQUE di sini.">
+	<meta property="og:description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Harga Pembuatan Website | LOGIQUE Digital Indonesia</title>
+	<title>Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style_webdev_service_new.css" rel="stylesheet">
@@ -60,6 +62,7 @@ if(isset($_POST['submitted']))
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -194,7 +197,7 @@ if(isset($_POST['submitted']))
                                     <meta itemprop="position" content="3" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Opsi Layanan</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Harga Pembuatan Website</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -205,7 +208,7 @@ if(isset($_POST['submitted']))
                                     <div class="col-md-6"></div>
                                     <div class="col-md-6">
                                         <h1 class="title">
-                                            <span><span>Opsi Layanan Pembuatan Website</span></span>
+                                            <span><span>Opsi Harga & Layanan Pembuatan Website</span></span>
                                         </h1>
                                         <div class="content">
                                             <p>
@@ -232,7 +235,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/webdev-service/11.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                </picture>
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -272,7 +278,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="detail-contact">
                         <div class="price-container">
-                            <p class="title">Biaya Produksi</p>
+                            <p class="title">Biaya Pembuatan Website</p>
                             <p class="price">15 juta 〜 30 juta IDR</p>
                         </div>
                         <div class="button-container">
@@ -327,7 +333,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="detail-contact">
                         <div class="price-container">
-                            <p class="title">Biaya Produksi</p>
+                            <p class="title">Biaya Pembuatan Website</p>
                             <p class="price">30 juta 〜 60 juta IDR</p>
                         </div>
                         <div class="button-container">
@@ -338,7 +344,10 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
+                <picture>
+                    <source srcset="assets/img/img-webdev/webdev-service/22.webp" type="image/webp">
                     <img loading="lazy" src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                </picture>
                 </div>
             </div>
         </div>
@@ -347,7 +356,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
+                <picture>
+                    <source srcset="assets/img/img-webdev/webdev-service/33.webp" type="image/webp">
                     <img loading="lazy" src="assets/img/img-webdev/webdev-service/33.png" alt="">
+                </picture>
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -387,7 +399,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="detail-contact">
                         <div class="price-container">
-                            <p class="title">Biaya Produksi</p>
+                            <p class="title">Biaya Pembuatan Website</p>
                             <p class="price">80 juta 〜 150 juta IDR</p>
                         </div>
                         <div class="button-container">
@@ -434,7 +446,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="detail-contact">
                         <div class="price-container">
-                            <p class="title">Biaya Produksi </p>
+                            <p class="title">Biaya Pembuatan Website </p>
                             <p class="price">200 juta 〜 500 juta</p>
                         </div>
                         <div class="button-container">
@@ -445,7 +457,10 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
+                <picture>
+                    <source srcset="assets/img/img-webdev/webdev-service/44.webp" type="image/webp">
                     <img loading="lazy" src="assets/img/img-webdev/webdev-service/44.png" alt="">
+                </picture>
                 </div>
             </div>
         </div>
