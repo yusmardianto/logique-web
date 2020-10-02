@@ -147,6 +147,9 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
+            <div class="career-requirement">
+                <p>Sebagai SENIOR Frontend Developer, Anda akan menjadi ahli yang diandalkan pelanggan untuk pembuatan aplikasi web. Anda akan memiliki kesempatan untuk mengerjakan tantangan teknis termasuk mengembangkan arsitektur informasi kami dan memecahkan masalah unik.</p>
+            </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
