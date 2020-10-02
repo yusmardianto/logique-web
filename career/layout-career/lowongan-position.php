@@ -68,7 +68,7 @@
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/specialist/quality-assurance.php" class="lowongan-position__item bg--sub-qa">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">Quality Assurance</h3>
+              <h3 class="section-title">Quality Assurance Engineer (Sofware)</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -81,7 +81,7 @@
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/specialist/devops.php" class="lowongan-position__item bg--sub-devops">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">DevOps</h3>
+              <h3 class="section-title">DevOps Engineer</h3>
             </a>
           </div>
         </div>
