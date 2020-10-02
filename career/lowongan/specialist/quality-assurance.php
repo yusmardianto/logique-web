@@ -229,7 +229,7 @@
                     Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
                     dihadapi.
                   </li>
-                  <li>Heath Insurance.</li>
+                  <li>Health Insurance.</li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">
