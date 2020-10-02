@@ -511,7 +511,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
-                        <h3 class="heading-black">DevOps</h3>
+                        <h3 class="heading-black">DevOps Engineer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -533,7 +533,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
                           alt="Quality Assurance">
-                        <h3 class="heading-black">Quality Assurance</h3>
+                        <h3 class="heading-black">Quality Assurance Engineer (Software)</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
