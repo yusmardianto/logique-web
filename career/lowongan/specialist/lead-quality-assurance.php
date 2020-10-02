@@ -10,7 +10,7 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lead Quality Assurance | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lead Quality Assurance Engineer (Sofware) | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -18,7 +18,7 @@
   <meta property="og:description"
     content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Lead Quality Assurance. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lead Quality Assurance | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia</title>
+  <title>Lead Quality Assurance Engineer (Sofware) | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -107,7 +107,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Quality Assurance</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Quality Assurance Engineer (Sofware)</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -117,7 +117,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Lead Quality Assurance</h1>
+              <h1 class="header__title">Lead Quality Assurance Engineer (Sofware)</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">

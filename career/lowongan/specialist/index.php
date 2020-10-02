@@ -11,7 +11,7 @@
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
-    content="Lowongan Kerja Security Specialist | QA Specialist | DevOps | LOGIQUE Digital Indonesia">
+    content="Lowongan Kerja Security Specialist | QA Specialist | DevOps Engineer | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -19,7 +19,7 @@
   <meta property="og:description"
     content="LOGIQUE membuka kesempatan bagi Anda yang ingin bergabung bersama kami sebagai specialis di bidang IT. Jika Anda tertarik dan ingin bergabung serta berkembang bersama kami, segera daftarkan diri Anda dan kunjungi halaman karir LOGIQUE">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja Security Specialist | QA Specialist | DevOps | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan Kerja Security Specialist | QA Specialist | DevOps Engineer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
