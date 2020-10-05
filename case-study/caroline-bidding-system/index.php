@@ -51,7 +51,7 @@
     <div class="wrapper o-wrapper top-only">
 
         <header>
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row">
                     <div class="col-xs-6">
                         <img src="/img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -133,11 +133,10 @@
 
         <div class="cs-wrap">
             <section class="cs-top">
-                <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-                <h1 class="cs-title">Caroline <p class="hidden-sm hidden-md hidden-lg"><small>Situs Jual Beli Mobil dengan Sistem
-                            Penawaran Online</small></p>
+                <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
+                <h1 class="cs-title">Caroline  
                 </h1>
-                <h2 class="cs-title-2 hidden-xs">Situs Jual Beli Mobil dengan <br>Sistem Penawaran Online</h2>
+                <h2 class="cs-title-2  ">Situs Jual Beli Mobil dengan <br>Sistem Penawaran Online</h2>
             </section>
             <section class="breadcrumb-container">
                 <div class="row">
@@ -205,9 +204,9 @@
                         <img src="img/img-3.png" alt="case study logique" class="img-responsive center-block custom-1">
                     </div>
                 </div>
-                <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
+                
             </section>
-            <section class="cs-section">
+            <section class="cs-section result-section">
                 <div class="row">
                     <div class="col-md-12">
                         <h2 class="cs-subtitle text-center">Hasil dan Dampak</h2>

@@ -170,7 +170,7 @@
         <!-- END NAVIGATION -->
 
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class=" lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
