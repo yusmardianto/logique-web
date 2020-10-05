@@ -107,7 +107,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp;Senior React JS Developer</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp;React JS Developer</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -148,7 +148,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
             <div class="career-requirement">
-                <p>Sebagai SENIOR Frontend Developer, Anda akan menjadi ahli yang diandalkan pelanggan untuk pembuatan aplikasi web. Anda akan memiliki kesempatan untuk mengerjakan tantangan teknis termasuk mengembangkan arsitektur informasi kami dan memecahkan masalah unik.</p>
+                <p>Sebagai ReactJS Frontend Developer, Anda akan menjadi ahli yang diandalkan pelanggan untuk pembuatan aplikasi web. Anda akan memiliki kesempatan untuk mengerjakan tantangan teknis termasuk mengembangkan arsitektur informasi kami dan memecahkan masalah unik.</p>
             </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
