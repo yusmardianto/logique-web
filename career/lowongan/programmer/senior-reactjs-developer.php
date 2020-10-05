@@ -201,7 +201,7 @@
                     Berpengalaman minimal 3 tahun dalam menggunakan:
                   </li>
                   <li style="list-style:none;">
-                      <ul class="career-list">
+                      <ul class="career-list" style="list-style: circle;">
                           <li>
                           HTML, CSS, JavaScript
                           </li>
@@ -220,7 +220,7 @@
                     Berpengalaman minimal 3 tahun dalam menggunakan:
                   </li>
                   <li style="list-style:none;">
-                      <ul class="career-list">
+                      <ul class="career-list" style="list-style: circle;">
                           <li>
                           CSS Preprocessors seperti SASS, LESS 
                           </li>
@@ -245,7 +245,7 @@
                     Memahami dasar menggunakan:
                   </li>
                   <li style="list-style:none;">
-                      <ul class="career-list">
+                      <ul class="career-list" style="list-style: circle;">
                           <li>
                           SEO
                           </li>
@@ -302,7 +302,7 @@
                     Berpengalaman dalam menggunakan:
                   </li>
                   <li style="list-style:none;">
-                      <ul class="career-list">
+                      <ul class="career-list" style="list-style: circle;">
                           <li>
                           GraphQL
                           </li>
