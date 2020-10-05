@@ -57,32 +57,32 @@
 
 <section class="dm__other-service">
     <div class="container__">
-        <h3 class="text-center">Other services</h3>
+        <h3 class="text-center">Layanan Lainnya</h3>
         <div class="row other-service__list">
             <div class="col-sm-3">
                 <a href="/layanan/web-dev.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive">
+                    <!-- <img src="en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive"> -->
                     <h4>Jasa Pembuatan Website</h4>
                     <p><strong>LOGIQUE</strong> adalah perusahaan pengembangan situs web yang berupaya meningkatkan bisnis Anda.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/layanan/pembuatan-aplikasi-mobile.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive">
+                    <!-- <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive"> -->
                     <h4>Jasa Pembuatan Aplikasi</h4>
                     <p><strong>LOGIQUE</strong> memberikan solusi yang efisien dalam pengembangan Mobile App untuk iOS & Android.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/layanan/pembuatan-sistem-web.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive">
+                    <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
                     <h4>Jasa Pembuatan Sistem Web</h4>
                     <p><strong>LOGIQUE</strong> membantu mencapai tujuan bisnis Anda melalui kemajuan terbaru dalam teknologi berbasis web.</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/layanan/penetration-test.php" class="list__item">
-                    <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive">
+                    <!-- <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive"> -->
                     <h4>Jasa Penetration Testing</h4>
                     <p><strong>LOGIQUE</strong> akan melakukan berbagai uji coba keamanan di situs web Anda.</p>
                 </a>

@@ -59,7 +59,7 @@
     top: 50%;
     left: calc(100% + 20px);
     transform: translateY(-45%);
-    background: url('/en/services/digital-marketing/img/img-digital-marketing/arrow-right.svg') center/contain no-repeat;
+    background: url('/../img/top/right-arrow.svg') center/contain no-repeat;
 }
 
 .dm__links .links__item  p {
@@ -122,17 +122,17 @@
     <div class="container__">
         <div class="row">
             <div class="col-sm-4 col-xs-12">
-                <a href="/en/logique.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
+                <a href="/jp/logique.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-about.jpg')">
                     <div>
-                        <h3>About</h3>
+                        <h3>会社概要</h3>
                         <p><strong>LOGIQUE</strong> Digital Indonesiaはジャカルタに本社を置く日本人が設立したITコンサルティング会社です。Web制作、アプリ・システム開発サービス等を提供しています。</p>
                     </div>
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12">
-                <a href="/en/portfolio.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
+                <a href="/jp/portfolio.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-ourwork.jpg')">
                     <div>
-                        <h3>Our Work</h3>
+                        <h3>ポートフォリオ</h3>
                         <p><strong>LOGIQUE</strong>のWebサイト制作、アプリ開発、システム開発、デジタルマーケティング運用の実績を紹介します。</p>
                     </div>
                 </a>
@@ -140,7 +140,7 @@
             <div class="col-sm-4 col-xs-12">
                 <a href="/jp/contact.php" class="links__item" style="background-image: url('/en/services/digital-marketing/img/img-seo-optimization/links-contact.jpg')">
                     <div>
-                        <h3>お問い合わせ </h3>
+                        <h3>お問い合わせ</h3>
                         <p>インドネシアでのデジタルマーケティングに関して、また他のサービスについてもこちらよりお気軽にご連絡ください。</p>
                     </div>
                 </a>

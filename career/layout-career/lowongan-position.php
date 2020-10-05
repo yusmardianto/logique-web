@@ -68,7 +68,7 @@
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/specialist/quality-assurance.php" class="lowongan-position__item bg--sub-qa">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">Quality Assurance</h3>
+              <h3 class="section-title">Quality Assurance Engineer (Software)</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -81,7 +81,7 @@
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/specialist/devops.php" class="lowongan-position__item bg--sub-devops">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">DevOps</h3>
+              <h3 class="section-title">DevOps Engineer</h3>
             </a>
           </div>
         </div>
@@ -129,6 +129,13 @@
               class="lowongan-position__item bg--sub-mobile-app-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Mobile App Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/senior-reactjs-developer.php"
+              class="lowongan-position__item bg--sub-senior-react-js-dev ">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Senior React JS Developer</h3>
             </a>
           </div>
         </div>

@@ -202,9 +202,9 @@
       <h4>Others IT Specialist</h4>
     </a>
     <ul class="mega-menu__list">
-      <a href="/career/lowongan/specialist/devops.php"><li>Devops</li></a>
+      <a href="/career/lowongan/specialist/devops.php"><li>Devops Engineer</li></a>
       <a href="/career/lowongan/specialist/it-security-specialist.php"><li>IT Security Specialist</li></a>
-      <a href="/career/lowongan/specialist/quality-assurance.php"><li>Quality Assurance</li></a>
+      <a href="/career/lowongan/specialist/quality-assurance.php"><li>Quality Assurance Engineer (Software)</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/digitalmarketing/" class="mega-menu__title">
