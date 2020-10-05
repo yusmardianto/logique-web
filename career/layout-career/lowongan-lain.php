@@ -43,7 +43,7 @@
                 <h3 class="section-title">Others IT Specialist</h3>
               </div>
               <p>
-                Security Specialist, DevOps, QA Specialist, etc.,
+                Security Specialist, DevOps Engineer, QA Specialist, etc.,
               </p>
             </a>
           </div>
