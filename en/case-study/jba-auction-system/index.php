@@ -122,7 +122,7 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
+          <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
           <h1 class="cs-title">JBA Auction System</h1>
         </section>
         <section class="breadcrumb-container">
