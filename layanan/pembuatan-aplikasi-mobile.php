@@ -62,8 +62,8 @@ if(isset($_POST['submitted']))
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
      <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Rokkitt:300,400,600,700" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Rokkitt:300,400,600,700&display=swap" rel="stylesheet"> 
+     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
      <script>
      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -178,7 +178,7 @@ if(isset($_POST['submitted']))
 
      <!-- HEADER -->
      <div class="container-fluid">
-         <div class="row lang-logo--update-design">
+         <div class="lang-logo--update-design">
              <div class="container">
                  <div class="row">
                      <div class="col-sm-offset-1 col-sm-11">
@@ -229,7 +229,7 @@ if(isset($_POST['submitted']))
                          <br /><br /><br />
                          <h1 style="font-size: 30px">Ingin Mengembangkan <span class="yellow">Aplikasi Mobile (Android | iOS |
                                  Hybrid)</span> dengan kualitas tinggi dan biaya terjangkau? Silahkan Hubungi <span
-                                 class="yellow">LOGIQUE</span></h1>
+                                 class="yellow logo-font">LOGIQUE</span></h1>
                          <p>
                              LOGIQUE siap membantu Anda yang ingin berkonsultasi mengenai pengembangan, pengelolaan, dan
                              peningkatan aplikasi mobile (Android | iOS | Hybrid). Kami menawarkan jasa pengembangan aplikasi
