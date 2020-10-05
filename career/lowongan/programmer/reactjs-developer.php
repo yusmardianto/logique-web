@@ -117,7 +117,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-8 col-md-9 col-sm-10">
-              <h1 class="header__title">Senior React JS Developer</h1>
+              <h1 class="header__title">React JS Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
