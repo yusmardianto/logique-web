@@ -1,0 +1,433 @@
+#bgImg .img {
+    background-image: url('../img/bg.png');
+}
+[class*='update-design'].wrapper--update-design-font .content-wrapper__ {
+    margin-left: 0;
+}
+.breadcrumb-section {
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+.breadcrumb-section .col-md-12 {
+    display: flex;
+}
+.breadcrumb-section .col-md-12 p {
+    font-size: 16px;
+    font-family: Montserrat-Regular;
+    font-weight: normal;
+    line-height: 34px;
+    margin-right: 10px;
+}
+.breadcrumb-section .col-md-12 p a {
+    color: rgb(255, 202, 0);
+}
+.top-only #bgImg {
+    max-height: 427px;
+    height: 427px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    overflow: visible;
+}
+#bgImg .title-index {
+    margin-top: 10px;
+}
+.case-study .pill-container .filter-button {
+    background: rgb(255, 202, 0);
+    border: 1px solid rgb(236, 188, 1);
+    border-radius: 20px;
+    width: 198px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    margin-right: 13px;
+    opacity: .6;
+}
+.case-study .pill-container .filter-button:hover {
+   transition: .5s ease;
+   opacity: 1;
+}
+.case-study .pill-container .filter-button:focus {
+    opacity: 1;
+    outline: none;
+}
+.case-study .pill-container .filter-button.activated {
+    opacity: 1;
+}
+
+.case-study .card-container {
+    margin-top: 80px;
+}
+.case-study .card-container .col-xs-12 {
+    height: 350px;
+    margin-bottom: 30px;
+}
+.case-study .card-container .img-container {
+    position: relative;
+}
+.case-study .card-container .text-container {
+    position: absolute;
+    background-color:rgb(255, 202, 0);
+    color: #000;
+    top: 0;
+    font-size: 10px;
+    padding: 5px;
+    text-transform: uppercase;
+}
+.case-study .card-container .card-title {
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    font-family: Montserrat-Regular;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.case-study .card-container .card-content {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: Montserrat-Regular;
+    font-weight: normal;
+}
+.case-study .contact-container img {
+    width: 100%;
+    position: relative;
+}
+.case-study .contact-container p.contact-title {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-family: Montserrat-Regular;
+    font-weight: normal;
+    position: absolute;
+    top: 20px;
+    left: 185px;
+}
+.case-study .contact-container p.contact-content {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-family: Montserrat-Regular;
+    font-weight: normal;
+    position: absolute;
+    top: 70px;
+    left: 185px;
+    line-height: 34px;
+    width: 650px;
+}
+.case-study .contact-container .contact-button {
+    width: 220px;
+    height: 60px;
+    background: rgb(255, 202, 0);
+    border: 1px solid rgb(236, 188, 1);
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: Montserrat-Regular;
+    font-weight: normal;
+    text-align: center;
+    top: 50px;
+    right: 40px;
+    position: absolute;
+}
+
+@media (max-width: 1280px) {
+    .logo--update-design {
+        margin-left: 70px;
+    }
+    .container__ {
+        padding: 1.5em;
+        margin-left: 140px;
+    }
+    .case-study .pill-container .filter-button {
+        width: 191px;
+    }
+    .case-study .pill-container .filter-button:last-child {
+        margin-right: 0;
+    }
+    .case-study .contact-container p.contact-content {
+        width: 550px;
+    }
+    .case-study .contact-container p.contact-title {
+        font-size: 28px;
+    }
+}
+@media (max-width: 1024px) {
+    .case-study .pill-container .filter-button {
+        width: 156px;
+    }
+    .top-only #bgImg {
+        width: 106%;
+    }
+    .case-study .card-container .img-container img {
+       width: 100%;
+    } 
+    .case-study .card-container .img-container img.icon {
+       width: auto;
+    } 
+    .case-study .contact-container p.contact-content {
+        width: 450px;
+        line-height: 27px;
+        top: 55px;
+    }
+    .case-study .card-container .col-xs-12 {
+        height: 300px;
+    }
+    .case-study .contact-container p.contact-title {
+        font-size: 26px;
+        top: 10px;
+    }
+    .case-study .contact-container .contact-button {
+        width: 200px;
+        height: 45px;
+    }
+    .content-wrapper__.bg--footer.footer-section {
+        width: 106%;
+    }
+    .dm__links .links__item > div {
+        padding-top: 80% !important;
+    }
+    .dm__links .links__item h3 {
+        font-size: 18px;
+    }
+    .dm__links .links__item p {
+        font-size: 14px !important;
+    }
+}
+@media (max-width: 768px) {
+    .top-only #bgImg {
+        height: auto;
+    }
+    .top-only #bgImg .img {
+        background-image: url('../img/bg.png');
+    }
+    .breadcrumb-section {
+        margin-top: 5rem;
+    }
+    .container__ {
+        margin-left: 110px;
+    }
+    #bgImg .title-index {
+        margin-top: 0;
+    }
+    .case-study .pill-container .filter-button {
+        margin-bottom: 20px;
+    }
+    .case-study .card-container {
+        margin-top: 20px;
+    }
+    .case-study .card-container .col-xs-12 {
+        height: 250px;
+    }
+    .case-study .contact-container p.contact-title {
+        font-size: 18px;
+        top: 7px;
+        left: 100px;
+    }
+    .case-study .contact-container p.contact-content {
+        width: 350px;
+        line-height: 20px;
+        top: 35px;
+        left: 100px;
+        font-size: 12px;
+    }
+    .case-study .contact-container .contact-button {
+        width: 100px;
+        height: 35px;
+        font-size: 10px;
+        top: 20px;
+        right: 30px;
+    }
+    .dm__links .links__item h3 {
+        font-size: 16px !important;
+    }
+    .dm__links .links__item p {
+        font-size: 11px !important;
+    }
+    .dm__links .links__item > div {
+        padding-top: unset !important;
+    } 
+    .case-study .pill-container .filter-button {
+        width: 171px;
+    }
+    .logo--update-design {
+        margin-left: 90px;
+    }
+    #bgImg .homepage-hero .title-container .container__ {
+        padding: 1.5em 1.5em 1.5em 0;
+    }
+    #bgImg .homepage-hero .title-container .container__.breadcrumb-section {
+        padding: 1.5em 1.5em 0 0;
+    }
+}
+@media (max-width: 414px) {
+    .logo--update-design {
+        margin-left: auto;
+    }
+    .top-only #bgImg {
+        z-index: 1;
+        position: relative;
+        width: 100%;
+        margin-top: 10rem;
+    }
+    .container__ {
+        margin-left: 0;
+    }
+    #bgImg .homepage-hero .title-container .container__ {
+        padding: 1.5em;
+    }
+    #bgImg .title-index {
+        margin-top: 0;
+    }
+    .case-study .pill-container {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .case-study .card-container .col-xs-12 {
+        height: auto;
+    }
+    .case-study .contact-container p.contact-title {
+        font-size: 13px;
+        top: 2px;
+        left: 0;
+        width: 100%;
+        text-align: center;
+    } 
+    .case-study .contact-container p.contact-content {
+        width: 100%;
+        line-height: 13px;
+        top: 25px;
+        left: 0;
+        font-size: 8px;
+        text-align: center;
+        padding: 0px 70px;
+    }
+    .case-study .contact-container .contact-button {
+        position: initial;
+        top: unset;
+        left: unset;
+        margin-top: 15px;
+        width: 100%;
+    }
+    .dm__links .links__item > div {
+        padding-top: 2rem !important;
+    }
+    .link-footer {
+        padding-right: 30px;
+    }
+    #bgImg .homepage-hero .title-container .container__.breadcrumb-section {
+        padding: 1.5em 1.5em 0 2.5rem;
+    }
+}
+
+@media (max-width: 360px) {
+    .case-study .pill-container .filter-button {
+        width: 150px;
+        font-size: 13px;
+    }
+    .case-study .contact-container p.contact-title {
+        font-size: 11px;
+    }
+    .case-study .contact-container p.contact-content {
+        width: 100%;
+        line-height: 13px;
+        top: 18px;
+        left: 0;
+        font-size: 8px;
+        text-align: center;
+        padding: 0px 40px;
+    }
+    #bgImg .title-index {
+        font-size: 24px !important;
+    }
+    #bgImg .title-container p {
+        font-size: 14px;
+    }
+}
+
+
+footer {
+    margin-left: 0;
+    background-color: transparent;
+}
+
+@media only screen and (max-width:414px) {
+    footer {
+        padding: 30px 10px 10px;
+    }
+}
+
+.bg--footer {
+    background-color: #212425;
+}
+
+.tahap-pemesanan-2 {
+    background-color: #ffcd38;
+}
+
+#PureChatWidget.purechat.purechat-bottom-right {
+    right: 20px !important;
+    bottom: 20px !important;
+}
+
+#PureChatWidget {
+    transition: all ease-in-out .25s !important;
+}
+
+#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {
+    min-height: 55px !important;
+}
+
+#PureChatWidget.purechat.purechat-style-classic {
+    border: none !important;
+}
+
+#PureChatWidget.purechat .purechat-content-wrapper {
+    background-color: #f1f1f1 !important;
+}
+
+#PureChatWidget.purechat .purechat-card {
+    background-color: #fff !important;
+}
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
+    bottom: 70px !important;
+}
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right,
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left {
+    bottom: -60px !important;
+}
+
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn,
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {
+    box-shadow: none !important;
+}
+
+.purechat-widget-title__arrow.--hide {
+    display: none !important;
+}
+
+@media (max-width: 991.98px) {
+    #PureChatWidget {
+        width: 200px !important;
+    }
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom,
+    #PureChatWidget.purechat.purechat-bottom-right {
+        left: unset !important;
+        right: 50% !important;
+        transform: translateX(50%) !important;
+    }
+    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right,
+    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {
+        bottom: -65px !important;
+    }
+    #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse {
+        bottom: 70px !important;
+        right: unset !important;
+        left: 45% !important;
+        transform: translateX(-50%) !important;
+    }
+}
