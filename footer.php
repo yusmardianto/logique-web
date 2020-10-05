@@ -82,10 +82,10 @@
                             </div> 
                             <div class="footer-extrainfo">    
                                 <ul class="phone-info">
-                                                <li class=""><img src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                                <li class=""><img alt="Telepon Kantor" src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
                                                 <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
                                                 rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
-                                                    class="waNumber">0811-870-321</span></a></li> 
+                                                    class="waNumber" alt="Whatapps Kantor">0811-870-321</span></a></li> 
                                             </ul> 
                                             <ul class="medsos-new">
                                     <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook" class="facebook-icon"> </a></li>

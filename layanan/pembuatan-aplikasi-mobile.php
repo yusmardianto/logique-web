@@ -42,7 +42,7 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE menyediakan jasa pembuatan aplikasi mobile berbasis android & iOS yang responsif serta user-friendly dengan harga kompetitif.">
+         content="LOGIQUE | Jasa pembuatan aplikasi mobile berbasis hybrid untuk android & iOS. Aplikasi inspeksi otomotif, ecommerce & lainnya dengan teknologi flutter.">
      <meta name="keywords"
          content="jasa pembuatan aplikasi mobile, jasa pembuatan aplikasi ios, jasa pembuatan aplikasi android">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -53,7 +53,7 @@ if(isset($_POST['submitted']))
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php">
      <meta property="og:image" content="https://www.logique.co.id/assets/img/img-mobileapps/og-image.png">
      <meta property="og:description"
-         content="LOGIQUE menyediakan jasa pembuatan aplikasi mobile berbasis android & iOS yang responsif serta user-friendly dengan harga kompetitif.">
+         content="LOGIQUE | Jasa pembuatan aplikasi mobile berbasis hybrid untuk android & iOS. Aplikasi inspeksi otomotif, ecommerce & lainnya dengan teknologi flutter.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php" />  
      <title>Jasa Pembuatan Aplikasi Mobile Untuk Android & iOS | LOGIQUE</title>
@@ -240,8 +240,11 @@ if(isset($_POST['submitted']))
                          <div class="visible-md visible-lg"><br /><br /><br /><br /><br /><br /><br /><br /><br /></div>
                      </div>
                      <div class="col-md-5">
-                         <img alt="Mobile" src="assets/img/img-mobileapps/hp-header.png"
-                             class="hp-header img-responsive center-block" />
+                     <picture>
+                        <source srcset="assets/img/img-mobileapps/webp/hp-header.webp" type="image/webp"> 
+                        <img loading="lazy" alt="Mobile" src="assets/img/img-mobileapps/hp-header.png" class="hp-header img-responsive center-block" />
+                     </picture>
+                        
                      </div>
                  </div>
              </div>
@@ -265,8 +268,10 @@ if(isset($_POST['submitted']))
                      <div class="col-md-5">
                          <h2 class="first">Kami adalah Mitra yang Tepat untuk Pengembangan <span>Aplikasi Mobile</span> Anda</h2>
                          <br />
-                         <img alt="Pengembangan Aplikasi Mobile Berorientasi Pengguna"
-                             src="assets/img/img-mobileapps/mobile-phone.png" class="img-responsive center-block mobile-phone" />
+                         <picture>
+                            <source srcset="assets/img/img-mobileapps/webp/mobile-phone.webp" type="image/webp"> 
+                            <img loading="lazy"alt="Pengembangan Aplikasi Mobile Berorientasi Pengguna" src="assets/img/img-mobileapps/mobile-phone.png" class="img-responsive center-block mobile-phone"  />
+                        </picture>
                      </div>
                      <div class="col-md-7">
                          <p>
@@ -351,8 +356,11 @@ if(isset($_POST['submitted']))
                      <div class="div-help">
                          <h3 class="div-title"><span class="title purple"><b>Membuat Produk Berbasis Aplikasi</b></span></h3>
                          <div class="">
-                             <img alt="Ide Aplikasi Inovatif" class="img-responsive center-block"
-                                 src="assets/img/img-mobileapps/inovatif.png" /><br />
+                            <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/inovatif.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Ide Aplikasi Inovatif" class="img-responsive center-block" src="assets/img/img-mobileapps/inovatif.png"   />
+                            </picture><br />
+                        
                              Apakah Anda sudah menemukan ide untuk mengembangkan aplikasi mobile senilai milyaran rupiah
                              seperti
                              Go-Jek, Traveloka, atau Tokopedia? Dengan keamanaan informasi melalui Perjanjian Kerahasiaan kami
@@ -364,9 +372,11 @@ if(isset($_POST['submitted']))
                      <div class="div-help">
                          <h3 class="div-title"><span class="title purple"><b>Memberikan Nilai Tambah dengan Aplikasi
                                      Mobile</b></span></h3>
-                         <div class="">
-                             <img alt="Memberikan Nilai Tambahan" class="img-responsive center-block"
-                                 src="assets/img/img-mobileapps/nilai-tambah.png" /><br />
+                         <div class=""> <br />
+                            <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/nilai-tambah.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Memberikan Nilai Tambahan" class="img-responsive center-block" src="assets/img/img-mobileapps/nilai-tambah.png"   />
+                            </picture>
                              Sudah menyediakan produk dan layanan kepada pelanggan Anda? Kami dapat membantu Anda menggunakan
                              teknologi berbasis aplikasi untuk membangun nilai tambah sesuai dengan penawaran Anda.
                              Kenyamanan,
@@ -379,8 +389,11 @@ if(isset($_POST['submitted']))
                          <h3 class="div-title"><span class="title purple"><b>Optimasi Bisnis dengan Aplikasi Mobile</b></span>
                          </h3>
                          <div class="">
-                             <img alt="Meningkatkan Proses Bisnis" class="img-responsive center-block"
-                                 src="assets/img/img-mobileapps/proses-bisnis.png" /><br />
+                            <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/proses-bisnis.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Meningkatkan Proses Bisnis" class="img-responsive center-block" src="assets/img/img-mobileapps/proses-bisnis.png"   />
+                            </picture>
+                             <img /><br />
                              Pernahkah Anda mempertimbangkan bagaimana Anda dapat mengefektifkan bisnis atau perusahaan Anda
                              menggunakan teknologi aplikasi mobile? Aplikasi memberikan peluang yang sangat luas untuk
                              memberdayakan staf dan meningkatkan efisiensi. Solusi aplikasi mobile dengan perencanaan sesuai
@@ -434,8 +447,11 @@ if(isset($_POST['submitted']))
                          <div class="layanan-kami">
                              <h3 class="title">Pengembangan Aplikasi iOS untuk iPhone / iPad</h3>
                              <br />
-                             <img alt="Pengembangan Aplikasi iOS untuk iPhone / iPad" src="assets/img/img-mobileapps/apple.png"
-                                 class="img-responsive center-block" /><br />
+                             <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/apple.webp" type="image/webp"> 
+                                <img loading="lazy"alt="Pengembangan Aplikasi iOS untuk iPhone / iPad" src="assets/img/img-mobileapps/apple.png" class="img-responsive center-block" />
+                            </picture> 
+                                 <br />
                              Kami berpengalaman mengembangkan aplikasi yang memiliki kompatibilitas pada berbagai versi iOS
                              dengan
                              menggunakan bahasa Swift mulai dari Swift 1 hingga Swift 4 dan Objective-C yang populer digunakan
@@ -446,8 +462,11 @@ if(isset($_POST['submitted']))
                          <div class="layanan-kami">
                              <h3 class="title">Pengembangan Aplikasi Android</h3>
                              <br />
-                             <img alt="Pengembangan Aplikasi Android" src="assets/img/img-mobileapps/android.png"
-                                 class="img-responsive center-block" /><br />
+                             <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/android.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Pengembangan Aplikasi Android" src="assets/img/img-mobileapps/android.png"  class="img-responsive center-block" />
+                            </picture> 
+                              <br />
                              Berbagai macam aplikasi Android native berbasis Java, C++, Kotlin, Basic, & Corona/LUA mulai dari
                              yang sederhana, multi-bahasa, hingga dengan kompleksitas yang tinggi telah kami hasilkan.
                          </div>
@@ -470,8 +489,11 @@ if(isset($_POST['submitted']))
                          <div class="layanan-kami">
                              <h3 class="title">Desain UI/UX Aplikasi Mobile</h3>
                              <br />
-                             <img alt="Desain UI/UX Aplikasi Mobile" src="assets/img/img-mobileapps/ux.png"
-                                 class="img-responsive center-block" /><br />
+                             <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/ux.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Desain UI/UX Aplikasi Mobile" src="assets/img/img-mobileapps/ux.png" class="img-responsive center-block" />
+                            </picture> 
+                            <br />
                              Semua aplikasi mobile kami dikembangkan dengan estetika desain yang sesuai dengan fungsinya.
                              Dengan
                              standar desain yang tinggi, kami memastikan pelanggan akan menyukai interaksi berkelanjutan.
@@ -484,8 +506,11 @@ if(isset($_POST['submitted']))
                          <div class="layanan-kami">
                              <h3 class="title">Pengembangan CMS / API</h3>
                              <br />
-                             <img alt="Pengembangan CMS / API" src="assets/img/img-mobileapps/cms.png"
-                                 class="img-responsive center-block" /><br />
+                             <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/cms.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Pengembangan CMS / API" src="assets/img/img-mobileapps/cms.png" class="img-responsive center-block"/>
+                            </picture> 
+                            <br />
                              Untuk mendukung pengembangan aplikasi mobile kami juga menyediakan layanan pembuatan CMS dan API
                              dalam berbagai platform, khususnya PHP.
                          </div>
@@ -494,8 +519,10 @@ if(isset($_POST['submitted']))
                          <div class="layanan-kami">
                              <h3 class="title">Progressive Web App</h3>
                              <br />
-                             <img alt="Pengembangan CMS / API" src="assets/img/img-mobileapps/pwa.png"
-                                 class="img-responsive center-block" /><br />
+                             <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/pwa.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Pengembangan CMS / API" src="assets/img/img-mobileapps/pwa.png" class="img-responsive center-block" >
+                            </picture>  <br />
                              Kami menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah
                              pada
                              website Anda sehingga dapat diakses seperti aplikasi mobile, yang memiliki beragam keunggulan dan
@@ -525,8 +552,11 @@ if(isset($_POST['submitted']))
                          <div>
                                 <div class="row">
                                     <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
-                                            src="assets/img/img-mobileapps/jba-bike-inspection-app-1.png" />
+                                    <picture>
+                                        <source srcset="assets/img/img-mobileapps/webp/jba-bike-inspection-app-1.webp" type="image/webp"> 
+                                        <img loading="lazy" alt="JBA Bike Inspection Apps" class="img-responsive center-block" src="assets/img/img-mobileapps/jba-bike-inspection-app-1.png">
+                                    </picture>
+                                       
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -542,9 +572,11 @@ if(isset($_POST['submitted']))
                             </div>
                             <div>
                                 <div class="row">
-                                    <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
-                                            src="assets/img/img-mobileapps/weeo-hino-connect-2.png" />
+                                    <div class="col-sm-5"> 
+                                    <picture>
+                                        <source srcset="assets/img/img-mobileapps/webp/weeo-hino-connect-2.webp" type="image/webp"> 
+                                        <img loading="lazy" alt="Weeo Hino Apps" class="img-responsive center-block" src="assets/img/img-mobileapps/weeo-hino-connect-2.png">
+                                    </picture>
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -560,9 +592,11 @@ if(isset($_POST['submitted']))
                             </div>
                             <div>
                                 <div class="row">
-                                    <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
-                                            src="assets/img/img-mobileapps/weeo-testing-app-1.jpg" />
+                                    <div class="col-sm-5"> 
+                                    <picture>
+                                        <source srcset="assets/img/img-mobileapps/webp/weeo-testing-app-1.webp" type="image/webp"> 
+                                        <img loading="lazy" alt="Weeo Testing Apps" class="img-responsive center-block" src="assets/img/img-mobileapps/weeo-testing-app-1.jpg">
+                                    </picture>    
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -578,9 +612,11 @@ if(isset($_POST['submitted']))
                             </div>
                             <div>
                                 <div class="row">
-                                    <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
-                                            src="assets/img/img-mobileapps/wantjp1.png" />
+                                    <div class="col-sm-5"> 
+                                    <picture>
+                                        <source srcset="assets/img/img-mobileapps/webp/wantjp1.webp" type="image/webp"> 
+                                        <img loading="lazy" alt="Weeo Hino Apps" class="img-responsive center-block" src="assets/img/img-mobileapps/wantjp1.png">
+                                    </picture>
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -596,9 +632,11 @@ if(isset($_POST['submitted']))
                             </div>
                              <div>
                                  <div class="row">
-                                     <div class="col-sm-5">
-                                         <img alt="Sunlife" class="img-responsive center-block"
-                                             src="assets/img/img-mobileapps/sunlife.png" />
+                                     <div class="col-sm-5"> 
+                                        <picture>
+                                            <source srcset="assets/img/img-mobileapps/webp/sunlife.webp" type="image/webp"> 
+                                            <img loading="lazy" alt="Sunlife Apps" class="img-responsive center-block" src="assets/img/img-mobileapps/sunlife.png">
+                                        </picture>
                                      </div>
                                      <div class="col-sm-7">
                                          <div class="caption-portfolio">
@@ -616,9 +654,11 @@ if(isset($_POST['submitted']))
                              </div>
                              <div>
                                  <div class="row">
-                                     <div class="col-sm-5">
-                                         <img alt="Frangipani" class="img-responsive center-block"
-                                             src="assets/img/img-mobileapps/frangipani.png" />
+                                     <div class="col-sm-5"> 
+                                        <picture>
+                                            <source srcset="assets/img/img-mobileapps/webp/frangipani.webp" type="image/webp"> 
+                                            <img loading="lazy"alt="Frangipani" class="img-responsive center-block"  src="assets/img/img-mobileapps/frangipani.png" >
+                                        </picture>
                                      </div>
                                      <div class="col-sm-7">
                                          <div class="caption-portfolio">
@@ -635,9 +675,11 @@ if(isset($_POST['submitted']))
                              </div>
                              <div>
                                  <div class="row">
-                                     <div class="col-sm-5">
-                                         <img alt="Otomart" class="img-responsive center-block"
-                                             src="assets/img/img-mobileapps/otomart.png" />
+                                     <div class="col-sm-5"> 
+                                        <picture>
+                                            <source srcset="assets/img/img-mobileapps/webp/otomart.webp" type="image/webp"> 
+                                            <img loading="lazy"alt="Otomart Apps" class="img-responsive center-block"  src="assets/img/img-mobileapps/otomart.png" >
+                                        </picture>
                                      </div>
                                      <div class="col-sm-7">
                                          <div class="caption-portfolio">
@@ -675,9 +717,11 @@ if(isset($_POST['submitted']))
                  <br /><br />
                  <div class="row">
                      <div class="col-md-5ths">
-                         <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja1.png"
-                                 alt="Perencanaan" />
+                         <div class="contain-img"> 
+                                <picture>
+                                    <source srcset="assets/img/img-mobileapps/webp/cara-kerja1.webp" type="image/webp"> 
+                                    <img loading="lazy"alt="Perencanaan" class="img-responsive center-block"  src="assets/img/img-mobileapps/cara-kerja1.png" >
+                                </picture>    
                              <div class="text-center title">Perencanaan</div>
                          </div>
                          <p>
@@ -688,8 +732,10 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja2.png"
-                                 alt="Desain" />
+                                <picture>
+                                    <source srcset="assets/img/img-mobileapps/webp/cara-kerja2.webp" type="image/webp"> 
+                                    <img loading="lazy" alt="Design" class="img-responsive center-block"  src="assets/img/img-mobileapps/cara-kerja2.png" >
+                                </picture>   
                              <div class="text-center title">Desain</div>
                          </div>
                          <p>
@@ -700,8 +746,10 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja3.png"
-                                 alt="Pengembangan" />
+                            <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/cara-kerja3.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Pengembangan" class="img-responsive center-block"  src="assets/img/img-mobileapps/cara-kerja3.png" >
+                            </picture>   
                              <div class="text-center title">Pengemba<br class="hidden-lg hidden-sm hidden-xs">ngan</div>
                          </div>
                          <p>
@@ -711,8 +759,10 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja4.png"
-                                 alt="Testing" />
+                            <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/cara-kerja4.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Testing" class="img-responsive center-block"  src="assets/img/img-mobileapps/cara-kerja4.png" >
+                            </picture>  
                              <div class="text-center title">Testing</div>
                          </div>
                          <p>
@@ -722,8 +772,10 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja5.png"
-                                 alt="Peluncuran Aplikasi" />
+                            <picture>
+                                <source srcset="assets/img/img-mobileapps/webp/cara-kerja5.webp" type="image/webp"> 
+                                <img loading="lazy" alt="Peluncuran Applikasi" class="img-responsive center-block"  src="assets/img/img-mobileapps/cara-kerja5.png" >
+                            </picture>
                              <div class="text-center title">Peluncuran Aplikasi</div>
                          </div>
                          <p>
