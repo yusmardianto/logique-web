@@ -184,12 +184,12 @@ if(isset($_POST['submitted']))
         <div class="container">
           <div class="row">
             <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
-                <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+                <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                 <ul class="list-inline">
-                  <li><a href="en/index.php">EN</a></li>
-                  <li class="active"><a href="#">ID</a></li>
-                  <li><a href="jp/index.php">JP</a></li>
-                </ul> 
+                <li><a href="/en/services/mobile-app-dev.php">EN</a></li>
+                <li class="active"><a href="#">ID</a></li>
+                <li><a href="/jp/services/mobile-app-dev.php">JP</a></li>
+            </ul>
             </div>
           </div>
         </div>
