@@ -1,4 +1,4 @@
-﻿ <?php 
+﻿<?php 
 require_once("assets/form/fgcontact_mobileapps.php");
 
 $formproc = new FGContactForm();
@@ -58,10 +58,9 @@ if(isset($_POST['submitted']))
      <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php" />  
      <title>Jasa Pembuatan Aplikasi Mobile Untuk Android & iOS | LOGIQUE</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="../css/style.css" rel="stylesheet">
+     <link rel="stylesheet" href="/css/sidebar-update.css" >
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
-     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
-     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+   
      <link href="https://fonts.googleapis.com/css?family=Rokkitt:300,400,600,700&display=swap" rel="stylesheet"> 
      <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
      <script>
@@ -112,6 +111,7 @@ if(isset($_POST['submitted']))
          padding: 30px 0 10px;
      }
      </style>
+     <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper   ">
      <!-- NAVIGATION -->
      <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
          data-toggle="collapse" data-target="#myNavbar">
@@ -175,27 +175,27 @@ if(isset($_POST['submitted']))
          </div>
      </div>
      <!-- NAVIGATION -->
-
+     
      <!-- HEADER -->
+ 
      <div class="container-fluid">
-         <div class="lang-logo--update-design">
-             <div class="container">
-                 <div class="row">
-                     <div class="col-sm-offset-1 col-sm-11">
-                         <div class="container">
-                             <ul class="list-inline">
-                                 <li><a href="/en/services/mobile-app-dev.php">EN</a></li>
-                                 <li class="active"><a href="#">ID</a></li>
-                                 <li><a href="/jp/services/mobile-app-dev.php">JP</a></li>
-                             </ul>
-                             <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                     class="img-responsive logo--update-design" /></a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
+
+      <div class="lang-logo--update-design">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
+                <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+                <ul class="list-inline">
+                  <li><a href="en/index.php">EN</a></li>
+                  <li class="active"><a href="#">ID</a></li>
+                  <li><a href="jp/index.php">JP</a></li>
+                </ul> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
      <!-- END HEADER -->
 
      <div class="content-wrapper__">
@@ -311,26 +311,26 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-8">
                          <ul class="fa-ul">
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>LOGIQUE dapat menyesuaikan
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span>LOGIQUE dapat menyesuaikan
                                  kebutuhan
                                  dan keinginan klien dengan teknologi terkini untuk menghasilkan aplikasi (iOS | Android |
                                  Hybrid)
                                  yang terdepan dan berskala internasional.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi iOS dan Android yang
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Aplikasi iOS dan Android yang
                                  kami
                                  kembangkan telah melalui proses perencanaan desain yang matang oleh Desainer UI/UX
                                  berpengalaman
                                  sehingga tampilan yang dihasilkan sangat user friendly.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Keamanan, optimasi, dan
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Keamanan, optimasi, dan
                                  skalabilitas
                                  aplikasi diperhitungkan dengan detil oleh ahli teknis kami untuk memberikan hasil akhir yang
                                  dapat digunakan dengan maksimal oleh pengguna.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Dengan pengalaman lebih dari
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Dengan pengalaman lebih dari
                                  lima
                                  tahun, kemampuan dan keahlian tim LOGIQUE sudah teruji kualitasnya pada berbagai macam klien
                                  dan
                                  proyek yang berasal dari dalam dan luar negeri.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Proses perencanaan,
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Proses perencanaan,
                                  pengembangan,
                                  pengoperasian, serta maintenance aplikasi mobile menyesuaikan dengan permintaan pelanggan dan
                                  kebutuhan pengguna untuk menghasilkan aplikasi mobile dengan hasil akhir yang berkualitas
@@ -414,16 +414,16 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-8">
                          <ul class="fa-ul">
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai produk
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Aplikasi mobile sebagai produk
                                  dan
                                  aset yang menghasilkan.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai media
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Aplikasi mobile sebagai media
                                  penghubung antara perusahan dan karyawan.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai alat
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Aplikasi mobile sebagai alat
                                  pendukung pemasaran produk dan jasa anda.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile sebagai aplikasi
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Aplikasi mobile sebagai aplikasi
                                  pendukung pengunaan produk anda.</li>
-                             <li><span class="fa-li"><i class="fa fa-check-square"></i></span>Aplikasi mobile dengan
+                             <li><span class="fa-li"><img src="assets/img/img-mobileapps/check.svg" style="width:13px;"> </span></span>Aplikasi mobile dengan
                                  pengoperasian
                                  yang mudah dan responsif.</li>
                          </ul>
@@ -882,17 +882,18 @@ if(isset($_POST['submitted']))
              </div>
          </section>
      </div>
-
+    </div>
      <?php include '../footer.php' ?>
-     <script src="/js/jquery.matchHeight.js"></script>
-     <script src="/js/slick.min.js"></script>
-     <script src='https://www.google.com/recaptcha/api.js'></script>
+     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" /> 
+     <script async src="/js/jquery.matchHeight.js"></script>
+     <script async src="/js/slick.min.js"></script>
+     <script defer src='https://www.google.com/recaptcha/api.js'></script>
      <script type="text/javascript">
      $(function() {
          $('.div-help').matchHeight();
          $('.layanan-kami').matchHeight();
      });
-
+     $( document ).ready(function() {
      $('.portfolio-slider').slick({
          dots: true,
          infinite: true,
@@ -902,6 +903,7 @@ if(isset($_POST['submitted']))
          autoplay: true,
          cssEase: 'linear'
      });
+    });
      </script>
  </body>
 
