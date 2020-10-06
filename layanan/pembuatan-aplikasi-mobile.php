@@ -32,8 +32,7 @@ if(isset($_POST['submitted']))
         $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
    }
  }
-?>
-
+?> 
  <!DOCTYPE html>
  <html lang="id">
 
@@ -60,56 +59,18 @@ if(isset($_POST['submitted']))
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link rel="stylesheet" href="/css/sidebar-update.css" >
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Rokkitt:wght@300;400;600;700&display=swap" rel="stylesheet">
    
-     <link href="https://fonts.googleapis.com/css?family=Rokkitt:300,400,600,700&display=swap" rel="stylesheet"> 
-     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
-     <script>
-     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-     ga('create', 'UA-105878648-1', 'auto');
-     ga('send', 'pageview');
-     </script>
-     <!-- Twitter universal website tag code -->
-     <script>
-     !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
-     },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
-     a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
-     // Insert Twitter Pixel ID and Standard Event data below
-      twq('init','o0xru');
-      twq('track','PageView');
-     </script>
      <!-- End Twitter universal website tag code -->
  </head>
 
- <body class="wrapper wrapper--update-design mobileapp-page">
+ <body class="wrapper wrapper--update-design mobileapp-page ">
      <style>
-     .container__ {
-         padding-top: 0;
-         padding-bottom: 0;
-     }
-
-     .logique-nav {
-         left: 0;
-     }
-
-     .title {
-         background-color: transparent;
-         padding: 0;
-     }
-
-     .copyright {
-         background-color: transparent;
-         text-align: left;
-         border: none;
-         color: inherit;
-     }
-
-     footer {
-         padding: 30px 0 10px;
-     }
+.container__ { padding-top: 0; padding-bottom: 0; }
+.logique-nav { left: 0; }
+.title { background-color: transparent; padding: 0; }
+.copyright { background-color: transparent; text-align: left; border: none; color: inherit;              }
+ footer { padding: 30px 0 10px; }
      </style>
      <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper   ">
      <!-- NAVIGATION -->
@@ -130,41 +91,13 @@ if(isset($_POST['submitted']))
                      </a>
                  </div>
                  <div class="text-center">
-                     <a href="/logique.php">
-                         <div class="img-about"></div>
-                         Tentang Kami
-                     </a>
+                     <a href="/logique.php"> <div class="img-about"></div> Tentang Kami </a>
                  </div>
-                 <div class="text-center">
-                     <a href="/portofolio.php">
-                         <div class="img-portfolio"></div>
-                         Portfolio
-                     </a>
-                 </div>
-                 <div class="text-center active">
-                     <a href="/layanan.php">
-                         <div class="img-services"></div>
-                         Layanan
-                     </a>
-                 </div>
-                 <div class="text-center">
-                     <a href="/produk.php">
-                         <div class="img-product"></div>
-                         Produk
-                     </a>
-                 </div>
-                 <div class="text-center">
-                     <a href="/career/">
-                         <div class="img-career"></div>
-                         Karir
-                     </a>
-                 </div>
-                 <div class="text-center">
-                     <a href="/hubungi-kami.php">
-                         <div class="img-contact"></div>
-                         Hubungi Kami
-                     </a>
-                 </div>
+                 <div class="text-center">  <a href="/portofolio.php"> <div class="img-portfolio"></div> Portfolio </a>  </div>
+                 <div class="text-center active"> <a href="/layanan.php"> <div class="img-services"></div> Layanan </a>  </div>
+                 <div class="text-center"> <a href="/produk.php"> <div class="img-product"></div>  Produk  </a>  </div>
+                 <div class="text-center"> <a href="/career/"> <div class="img-career"></div>  Karir  </a> </div>
+                 <div class="text-center">  <a href="/hubungi-kami.php"> <div class="img-contact"></div> Hubungi Kami </a> </div>
                  <div class="text-center">
                      <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
                          <div class="img-blog"></div>
@@ -174,10 +107,8 @@ if(isset($_POST['submitted']))
              </div>
          </div>
      </div>
-     <!-- NAVIGATION -->
-     
-     <!-- HEADER -->
- 
+     <!-- NAVIGATION --> 
+     <!-- HEADER --> 
      <div class="container-fluid">
 
       <div class="lang-logo--update-design">
@@ -194,12 +125,10 @@ if(isset($_POST['submitted']))
           </div>
         </div>
       </div>
-    </div>
-
-     <!-- END HEADER -->
-
+    </div> 
+     <!-- END HEADER --> 
      <div class="content-wrapper__">
-         <header>
+         <header class=" ">
              <section class="--top">
                  <div class="container__" style="padding:0">
                      <div class="row">
@@ -291,9 +220,7 @@ if(isset($_POST['submitted']))
                              pengoperasian, dan pemeliharaan (maintenance) aplikasi, Kami juga akan menyesuaikan dengan
                              permintaan pelanggan dan memberikan saran strategis untuk menghasilkan aplikasi dengan hasil
                              akhir yang optimal. Jangan ragu untuk menghubungi LOGIQUE jika Anda memiliki masalah atau
-                             kebutuhan terkait dengan aplikasi mobile.
-
-
+                             kebutuhan terkait dengan aplikasi mobile. 
                          </p>
                      </div>
                  </div>
@@ -888,11 +815,38 @@ if(isset($_POST['submitted']))
      <script async src="/js/jquery.matchHeight.js"></script>
      <script async src="/js/slick.min.js"></script>
      <script defer src='https://www.google.com/recaptcha/api.js'></script>
+     <script  src='assets/js/modernizr-custom.js'></script>
+ <?php /*    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+     ga('create', 'UA-105878648-1', 'auto');
+     ga('send', 'pageview');
+     </script>
+     <!-- Twitter universal website tag code -->
+     <script>
+     !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+     },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+     a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+     // Insert Twitter Pixel ID and Standard Event data below
+      twq('init','o0xru');
+      twq('track','PageView');
+     </script>
+     */ ?>
      <script type="text/javascript">
+     var html = '<html>'; 
+        var result = html.replace(/>\s+|\s+</g, function(m) {
+            return m.trim();
+        });
+        $( document ).ready(function() {
      $(function() {
          $('.div-help').matchHeight();
          $('.layanan-kami').matchHeight();
      });
+     collapsed = expanded.replace(/(<(pre|script|style|textarea)[^]+?<\/\2)|(^|>)\s+|\s+(?=<|$)/g, "$1$3");
+    });
      $( document ).ready(function() {
      $('.portfolio-slider').slick({
          dots: true,

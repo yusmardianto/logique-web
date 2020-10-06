@@ -1,69 +1,24 @@
 <style>
- 
-.tahap-pemesanan-2 {
-    background-color: #ffcd38;
-}
-#PureChatWidget.purechat.purechat-bottom-right {
-    right: 20px !important;
-    bottom: 20px !important;
-}
-#PureChatWidget {
-    transition: all ease-in-out 0.25s !important;
-}
-#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {
-    min-height: 55px !important;
-}
-#PureChatWidget.purechat.purechat-style-classic {
-    border: none !important;
-}
-#PureChatWidget.purechat .purechat-content-wrapper {
-    background-color: #f1f1f1 !important;
-}
-#PureChatWidget.purechat .purechat-card {
-    background-color: #fff !important;
-}
-#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
-    bottom: 70px !important;
-}
+.tahap-pemesanan-2 { background-color: #ffcd38; }
+#PureChatWidget.purechat.purechat-bottom-right {  right: 20px !important; bottom: 20px !important; }
+#PureChatWidget { transition: all ease-in-out 0.25s !important; }
+#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {  min-height: 55px !important; }
+#PureChatWidget.purechat.purechat-style-classic { border: none !important; }
+#PureChatWidget.purechat .purechat-content-wrapper {  background-color: #f1f1f1 !important; }
+#PureChatWidget.purechat .purechat-card { background-color: #fff !important; }
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse { bottom: 70px !important; }
 #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,
-#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right {
-    bottom: -60px !important;
-}
-#PureChatWidget.purechat .purechat-widget-header .purechat-btn,
-#PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,
-#PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {
-    box-shadow: none !important;
-}
-.purechat-widget-title__arrow.--hide {
-    display: none !important;
-}
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right { bottom: -60px !important;}
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn, #PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active, #PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {box-shadow: none !important;}
+.purechat-widget-title__arrow.--hide {display: none !important;}
 @media (max-width: 991.98px) {
-    #PureChatWidget {
-        width: 200px !important;
-    }
-    #PureChatWidget.purechat.purechat-bottom-right,
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom,
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {
-        left: unset !important;
-        right: 50% !important;
-        transform: translateX(50%) !important;
-    }
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom,
-    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,
-    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right {
-        bottom: -65px !important;
-    }
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse,
-    #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
-        bottom: 70px !important;
-        right: unset !important;
-        left: 45% !important;
-        transform: translateX(-50%) !important;
-    }
+#PureChatWidget {width: 200px !important;}
+#PureChatWidget.purechat.purechat-bottom-right, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {left: unset !important; right: 50% !important; transform: translateX(50%) !important;}
+#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom, #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left, #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right { bottom: -65px !important;} #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse,
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse { bottom: 70px !important; right: unset !important; left: 45% !important; transform: translateX(-50%) !important; }
 }
 </style>
-<footer class="content-wrapper__ bg--footer footer-section  footer-update">
-  
+<footer class="content-wrapper__ bg--footer footer-section  footer-update">  
     <!-- End Twitter universal website tag code -->
     <div class="container__footer">
         <div class="row">
@@ -84,7 +39,7 @@
                                 <ul class="phone-info">
                                                 <li class=""><img alt="Telepon Kantor" src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
                                                 <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                                rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
+                                                rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;" loading="lazyload">&nbsp;&nbsp;<span
                                                     class="waNumber" alt="Whatapps Kantor">0811-870-321</span></a></li> 
                                             </ul> 
                                             <ul class="medsos-new">
@@ -143,14 +98,7 @@
                                 <h3>Tentang Kami</h3>
                                 <p><span class="logo-font">LOGIQUE </span>membantu bisnis Anda tumbuh dengan transformasi digital. Kami menyediakan konsultasi IT, 
                               produksi situs web,  pengembangan aplikasi web / seluler, pengembangan sistem, dan layanan operasi 
-                              pemasaran digital</p>
-                                <!-- <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website,  <strong>LOGIQUE</strong> menyediakan solusi terbaik
-                                yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/web-dev.php" target="_blank"><b>jasa
-                                        pembuatan website</b></a>, <strong>LOGIQUE</strong> juga menyediakan jasa lainnya seperti jasa konsultasi
-                                digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami
-                                memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi,
-                                maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan
-                                arsitektur sistem yang baik.</p>   -->
+                              pemasaran digital</p> 
                             </div>      
                 </div>
                 <br>
@@ -170,8 +118,7 @@
     </div>
 </footer>
   <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
-
-  <script type='text/javascript' data-cfasync='false'>
+<script type='text/javascript' data-cfasync='false'>
     window.purechatApi = {  l: [],  t: [],  on: function() {   this.l.push(arguments); }  };
     (function() {
         var done = false;
