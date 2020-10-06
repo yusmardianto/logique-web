@@ -1,10 +1,4 @@
-﻿@-webkit-viewport { width: device-width; }
-@-moz-viewport { width: device-width; }
-@-ms-viewport { width: device-width; }
-@-o-viewport { width: device-width; }
-@viewport { width: device-width; }
-@charset "UTF-8";
-/**
+﻿/**
 CSS Reset
 */
 @font-face {
@@ -50,36 +44,39 @@ strong{font-weight: 700!important;}
 p{margin-bottom: 20px;}
 p:last-child{margin-bottom: 0;}
 
-header{
+.no-webp header {
 	background:url('../img/img-mobileapps/bg-header.png') no-repeat;
 	background-size:cover;
 }
-
+.webp header {
+	background:url('../img/img-mobileapps/webp/bg-header.webp') no-repeat;
+	background-size:cover;
+}
 .yellow{color:#f2f511;}
 h1{font-size:50px;color:#FFF;text-transform:uppercase;font-weight:600}
 header p{font-size:18px;color:#fff}
 .hp-header {margin-bottom: -115px;}
 .hubungi-kami-top{background:#ededed;padding:50px 0;color:#000;font-size:30px;font-weight:600}
-.purple{color:#cb2bb9;}
-
+.purple{color:#cb2bb9;} 
 h2.first{font-size:36px;font-weight:300;}
 h2.first span{color:#5f1cc9;font-weight:bold;}
 .solusi {
 	color:#fff;
-	background: rgba(95,28,201,1);
+	/* background: rgba(95,28,201,1);
 	background: -moz-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(95,28,201,1)), color-stop(80%, rgba(203,43,184,1)), color-stop(100%, rgba(203,43,184,1)));
 	background: -webkit-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: -o-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: -ms-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: linear-gradient(to right, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5f1cc9', endColorstr='#cb2bb8', GradientType=1 );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5f1cc9', endColorstr='#cb2bb8', GradientType=1 ); */
 }
 .solusi .title{font-size:28px;text-align:right}
 .solusi .title span{display:block}
 .solusi ul li{font-size:15px;padding:8px 0}
 .solusi ul .fa-li{top:9px}
-.div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.png') no-repeat;background-size:cover}
+.no-webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.jpg') no-repeat;background-size:cover}
+.webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps//webp/bg-div-form.webp') no-repeat;background-size:cover}
 .div-form form{margin-top:20px;}
 .div-form form textarea{resize:none;height:170px}
 .div-form form .form-control{border-radius:0;padding:12px;font-size:18px}
@@ -155,7 +152,8 @@ footer .title{font-size:24px;}
 .div-help .title{background: #fff;padding: 0 8px;font-size:24px;margin:auto}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 .m-t-30{margin-top: 30px;}
-.solusi.revision{background:url(../img/img-mobileapps/div-solusi.png);background-size:cover;font-size:15px}
+.no-webp .solusi.revision{background:url(../img/img-mobileapps/div-solusi.jpg);background-size:cover;font-size:15px}
+.webp .solusi.revision{background:url(../img/img-mobileapps/webp/div-solusi.webp);background-size:cover;font-size:15px}
 .layanan-kami{background:rgba(255,255,255,0.1);padding:15px;margin-bottom:10px}
 .layanan-kami .title{font-size:20px;text-align:center;padding: 0 35px;}
 .bg-grey{background:#ececec;padding:50px 0}
@@ -244,6 +242,22 @@ footer .title{font-size:24px;}
 	.lang-logo--update-design a {
 		display: inline-block;
 	}
+}
+@media (max-width:460px) {
+	.no-webp header {
+		background:url('../img/img-mobileapps/bg-header-mobile.png') no-repeat;
+		background-size:cover;
+	}
+	.webp header {
+		background:url('../img/img-mobileapps/webp/bg-header-mobile.webp') no-repeat;
+		background-size:cover;
+	}
+	.solusi.revision{
+		background:#4C2E2B !important;
+	} 
+	.no-webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form-mobile.jpg') no-repeat;background-size:cover}
+	.webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps//webp/bg-div-form-mobile.webp') no-repeat;background-size:cover}
+
 }
 
 
