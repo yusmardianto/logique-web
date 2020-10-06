@@ -85,7 +85,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--main-react-js-dev">
+      <section class="container-fluid --top bg--main-senior-react-js-dev">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -107,7 +107,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; React JS Developer</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp;React JS Developer</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -147,28 +147,35 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
+            <div class="career-requirement">
+                <p>Sebagai ReactJS Frontend Developer, Anda akan menjadi ahli yang diandalkan pelanggan untuk pembuatan aplikasi web. Anda akan memiliki kesempatan untuk mengerjakan tantangan teknis termasuk mengembangkan arsitektur informasi kami dan memecahkan masalah unik.</p>
+            </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
-                    Mengembangkan dan mengkonversi kode HTML ke React.js.
+                    Melakukan konversi dari desain ke ReactJs
                   </li>
                   <li>
-                    Mengintegrasikan React.js dengan API.
+                    Melakukan integrasi RESTful API dengan React.JS
                   </li>
                   <li>
-                    Melakukan coding HTML-CSS (responsive design and cross browser).
+                    Bekerja sama dan berkolborasi dengan tim Back-End dan Desainer
                   </li>
                   <li>
-                    Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan
-                    team-results yang optimal.
+                    Berkomunikasi dengan penanggung jawab proyek terkait pekerjaan yang diberikan
                   </li>
                   <li>
-                    Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.
+                    Mengoptimalkan performa dan skalabilitas pada website / aplikasi
                   </li>
                   <li>
-                    Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan
-                    client/customer.
+                    Membuat kode / library yang berkualitas dan dapat digunakan kembali
+                  </li>
+                  <li>
+                    Melakukan pengetesan pada antar muka yang dibuat untuk menjamin kualitas
+                  </li>
+                  <li>
+                    Memastikan antar muka yang dibuat mendukung lintas browser & mobile friendly
                   </li>
                 </ul>
               </div>
@@ -176,62 +183,155 @@
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Pengalaman pada bidang software development minimal 2 tahun.
+                    Minimal 4 tahun pengalaman dibidang dan industry yang sama
                   </li>
                   <li>
-                    Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
+                    Mahir dalam penggunaan React.JS 
                   </li>
                   <li>
-                    Berpengalaman menggunakan React.js setahun belakangan.
+                    Mahir dalam menggunakan JavaScript termasuk Document Object Model (DOM) manipulation dan JavaScript Object Model
                   </li>
                   <li>
-                    Terbiasa menggunakan EcmaScript dengan versi terbaru.
+                    Memahami spesifikasi terbaru dari Ecma Script
                   </li>
                   <li>
                     Terbiasa melakukan integrasi RESTful API.
                   </li>
                   <li>
-                    Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau
-                    sejenisnya.
+                    Berpengalaman minimal 3 tahun dalam menggunakan:
+                  </li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                          <li>
+                          HTML, CSS, JavaScript
+                          </li>
+                          <li>
+                          React.JS State dan Lifecycle seperti Hooks
+                          </li>
+                          <li>
+                          JavaScript Unit Testing framework seperti Jest, Mocha, dll
+                          </li>
+                          <li>
+                          React.JS workflow seperti Flux/Redux
+                          </li>
+                      </ul>
                   </li>
                   <li>
-                    Familiar dengan version control system (VCS) seperti Git.
+                    Berpengalaman minimal 3 tahun dalam menggunakan:
+                  </li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                          <li>
+                          CSS Preprocessors seperti SASS, LESS 
+                          </li>
+                          <li>
+                          CSS Framework seperti Bootstrap, Foundation, Material UI
+                          </li>
+                          <li>
+                          Aplikasi desain seperti Adobe Photoshop / Sketch
+                          </li>
+                          <li>
+                          Front End Development Tools seperti Babel, Webpack, NPM / Yarn, dll
+                          </li>
+                          <li>
+                          Version control system seperti GIT
+                          </li>
+                          <li>
+                          Browser Development Tools
+                          </li>
+                      </ul>
                   </li>
                   <li>
-                    Berpengalaman menggunakan React.js workflow seperti Redux / Flux.
+                    Memahami dasar menggunakan:
                   </li>
-                  <li>
-                    Memiliki kemampuan analisa dan debugging yang kuat dan teliti.
-                  </li>
-                  <li>
-                    Berpengalaman dalam penggunaan HTML, CSS, JavaScript.
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                          <li>
+                          SEO
+                          </li>
+                          <li>
+                          Bahasa pemrograman PHP
+                          </li>
+                      </ul>
                   </li>
                 </ul>
               </div>
 
-              <div class="career-requirement">
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
                   <li>
-                    Pengetahuan tentang PWA.
+                    Berpengalaman dalam menggunakan:
+                  </li>
+                  <li style="list-style:none;">
+                      <ul class="career-list">
+                          <li>
+                          GraphQL
+                          </li>
+                          <li>
+                          Progressive Web App (PWA)
+                          </li>
+                          <li>
+                          Typescript
+                          </li>
+                          <li>
+                          React Native
+                          </li>
+                          <li>
+                          Data Structure Libraries seperti Imutable.JS
+                          </li>
+                      </ul>
                   </li>
                   <li>
-                    Memiliki pengetahuan dalam isomorphic React.
+                    Familiar dengan Isomorphic React
                   </li>
                   <li>
-                    Pengalaman dalam coding PSD ke HTML-CSS.
+                    Berpengalaman membuat custom tema Wordpress
                   </li>
                   <li>
-                    Pengalaman menggunakan CSS framework seperti bootstrap dan foundation.
+                    Memahami penggunaan plugin Wordpress
+                  </li>
+                </ul>
+              </div> -->
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+            <div class="career-requirement">
+                <h3 class="section-title">Preferable</h3>
+                <ul class="career-list">
+                  <li>
+                    Berpengalaman dalam menggunakan:
+                  </li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                          <li>
+                          GraphQL
+                          </li>
+                          <li>
+                          Progressive Web App (PWA)
+                          </li>
+                          <li>
+                          Typescript
+                          </li>
+                          <li>
+                          React Native
+                          </li>
+                          <li>
+                          Data Structure Libraries seperti Imutable.JS
+                          </li>
+                      </ul>
                   </li>
                   <li>
-                    Pengalaman dengan ExpressJS, mongoDB.
+                    Familiar dengan Isomorphic React
+                  </li>
+                  <li>
+                    Berpengalaman membuat custom tema Wordpress
+                  </li>
+                  <li>
+                    Memahami penggunaan plugin Wordpress
                   </li>
                 </ul>
               </div>
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-              <div class="career-requirement">
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
                   <li>
@@ -244,7 +344,7 @@
                     Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).
                   </li>
                 </ul>
-              </div>
+              </div> -->
               <!-- <div class="career-requirement">
                 <h3 class="section-title">Cara Bekerja React JS Developer Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <h4 class="section-subtitle">React JS Developer</h4>
