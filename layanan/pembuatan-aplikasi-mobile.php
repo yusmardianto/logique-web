@@ -1,18 +1,14 @@
-﻿<?php 
-require_once("assets/form/fgcontact_mobileapps.php");
-
-$formproc = new FGContactForm();
-
+﻿
+<?php 
+require_once("assets/form/fgcontact_mobileapps.php"); 
+$formproc = new FGContactForm(); 
 //1. Add your email address here.
 //You can add more than one receipients.
-$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
-
+$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here 
 //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
 // and put it here
-$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
-
-//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
-
+$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg'); 
+//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960); 
 if(isset($_POST['submitted']))
 {
     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
@@ -33,7 +29,7 @@ if(isset($_POST['submitted']))
    }
  }
 ?> 
- <!DOCTYPE html>
+<!DOCTYPE html>
  <html lang="id">
 
  <head>
@@ -85,10 +81,7 @@ if(isset($_POST['submitted']))
          <div class="logique-nav logique-nav--update">
              <div class="margin-for-nav">
                  <div class="text-center">
-                     <a href="/index.php">
-                         <div class="img-home"></div>
-                         Beranda
-                     </a>
+                     <a href="/index.php">  <div class="img-home"></div>  Beranda </a>
                  </div>
                  <div class="text-center">
                      <a href="/logique.php"> <div class="img-about"></div> Tentang Kami </a>
@@ -115,7 +108,7 @@ if(isset($_POST['submitted']))
         <div class="container">
           <div class="row">
             <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
-                <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+                <a href="/index.php"><img src="assets/img/logo.svg" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                 <ul class="list-inline">
                 <li><a href="/en/services/mobile-app-dev.php">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
@@ -299,11 +292,11 @@ if(isset($_POST['submitted']))
                      <div class="div-help">
                          <h3 class="div-title"><span class="title purple"><b>Memberikan Nilai Tambah dengan Aplikasi
                                      Mobile</b></span></h3>
-                         <div class=""> <br />
+                         <div class=""> 
                             <picture>
                                 <source srcset="assets/img/img-mobileapps/webp/nilai-tambah.webp" type="image/webp"> 
                                 <img loading="lazy" alt="Memberikan Nilai Tambahan" class="img-responsive center-block" src="assets/img/img-mobileapps/nilai-tambah.png"   />
-                            </picture>
+                            </picture><br />
                              Sudah menyediakan produk dan layanan kepada pelanggan Anda? Kami dapat membantu Anda menggunakan
                              teknologi berbasis aplikasi untuk membangun nilai tambah sesuai dengan penawaran Anda.
                              Kenyamanan,
@@ -402,8 +395,10 @@ if(isset($_POST['submitted']))
                          <div class="layanan-kami">
                              <h3 class="title">Pengembangan Aplikasi Hybrid</h3>
                              <br />
-                             <img alt="Pengembangan Aplikasi Hybrid" src="assets/img/img-mobileapps/hybrid.png"
-                                 class="img-responsive center-block" /><br />
+                             <picture>
+                            <source srcset="assets/img/img-mobileapps/webp/hybrid.webp" type="image/webp"> 
+                            <img loading="lazy" alt="Pengembangan Aplikasi Hybrid" src="assets/img/img-mobileapps/hybrid.png" class="img-responsive center-block"  />
+                        </picture><br />
                              Jika Anda ingin memiliki dua aplikasi untuk Android dan iOS sekaligus dalam satu waktu kami juga
                              dapat memberikan layanan pembuatan berbasis hybrid dengan mengimplementasikan berbagai teknologi
                              seperti Ionic, Adobe PhoneGap, Apache Cordova, Xamarin, AngularJS, dan sebagainya.
@@ -812,8 +807,7 @@ if(isset($_POST['submitted']))
     </div>
      <?php include '../footer.php' ?>
      <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" /> 
-     <script async src="/js/jquery.matchHeight.js"></script>
-     <script async src="/js/slick.min.js"></script>
+     <script async src="assets/js/jquery.matchHeight.js"></script>
      <script defer src='https://www.google.com/recaptcha/api.js'></script>
      <script  src='assets/js/modernizr-custom.js'></script>
  <?php /*    <script>
