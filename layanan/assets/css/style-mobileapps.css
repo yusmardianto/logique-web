@@ -50,11 +50,14 @@ strong{font-weight: 700!important;}
 p{margin-bottom: 20px;}
 p:last-child{margin-bottom: 0;}
 
-header{
+.no-webp header {
 	background:url('../img/img-mobileapps/bg-header.png') no-repeat;
 	background-size:cover;
 }
-
+.webp header {
+	background:url('../img/img-mobileapps/webp/bg-header.webp') no-repeat;
+	background-size:cover;
+}
 .yellow{color:#f2f511;}
 h1{font-size:50px;color:#FFF;text-transform:uppercase;font-weight:600}
 header p{font-size:18px;color:#fff}
@@ -79,7 +82,8 @@ h2.first span{color:#5f1cc9;font-weight:bold;}
 .solusi .title span{display:block}
 .solusi ul li{font-size:15px;padding:8px 0}
 .solusi ul .fa-li{top:9px}
-.div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.png') no-repeat;background-size:cover}
+.no-webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.png') no-repeat;background-size:cover}
+.webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps//webp/bg-div-form.webp') no-repeat;background-size:cover}
 .div-form form{margin-top:20px;}
 .div-form form textarea{resize:none;height:170px}
 .div-form form .form-control{border-radius:0;padding:12px;font-size:18px}
@@ -155,7 +159,8 @@ footer .title{font-size:24px;}
 .div-help .title{background: #fff;padding: 0 8px;font-size:24px;margin:auto}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 .m-t-30{margin-top: 30px;}
-.solusi.revision{background:url(../img/img-mobileapps/div-solusi.png);background-size:cover;font-size:15px}
+.no-webp .solusi.revision{background:url(../img/img-mobileapps/div-solusi.png);background-size:cover;font-size:15px}
+.webp .solusi.revision{background:url(../img/img-mobileapps/webp/div-solusi.webp);background-size:cover;font-size:15px}
 .layanan-kami{background:rgba(255,255,255,0.1);padding:15px;margin-bottom:10px}
 .layanan-kami .title{font-size:20px;text-align:center;padding: 0 35px;}
 .bg-grey{background:#ececec;padding:50px 0}

@@ -32,8 +32,7 @@ if(isset($_POST['submitted']))
         $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
    }
  }
-?>
-
+?> 
  <!DOCTYPE html>
  <html lang="id">
 
@@ -60,9 +59,7 @@ if(isset($_POST['submitted']))
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link rel="stylesheet" href="/css/sidebar-update.css" >
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
-   
-     <link href="https://fonts.googleapis.com/css?family=Rokkitt:300,400,600,700&display=swap" rel="stylesheet"> 
-     <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Rokkitt:wght@300;400;600;700&display=swap" rel="stylesheet">
      <script>
      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -84,7 +81,7 @@ if(isset($_POST['submitted']))
      <!-- End Twitter universal website tag code -->
  </head>
 
- <body class="wrapper wrapper--update-design mobileapp-page">
+ <body class="wrapper wrapper--update-design mobileapp-page ">
      <style>
      .container__ {
          padding-top: 0;
@@ -176,8 +173,7 @@ if(isset($_POST['submitted']))
      </div>
      <!-- NAVIGATION -->
      
-     <!-- HEADER -->
- 
+     <!-- HEADER --> 
      <div class="container-fluid">
 
       <div class="lang-logo--update-design">
@@ -199,7 +195,7 @@ if(isset($_POST['submitted']))
      <!-- END HEADER -->
 
      <div class="content-wrapper__">
-         <header>
+         <header class=" ">
              <section class="--top">
                  <div class="container__" style="padding:0">
                      <div class="row">
@@ -888,11 +884,15 @@ if(isset($_POST['submitted']))
      <script async src="/js/jquery.matchHeight.js"></script>
      <script async src="/js/slick.min.js"></script>
      <script defer src='https://www.google.com/recaptcha/api.js'></script>
+     <script  src='assets/js/modernizr-custom.js'></script>
+     
      <script type="text/javascript">
+        $( document ).ready(function() {
      $(function() {
          $('.div-help').matchHeight();
          $('.layanan-kami').matchHeight();
      });
+    });
      $( document ).ready(function() {
      $('.portfolio-slider').slick({
          dots: true,
