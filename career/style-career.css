@@ -1077,6 +1077,10 @@ ul.medsos-new li a {
   background: url("/img/career/bg-img/bg-main-react-js-dev.png") center/cover
     no-repeat;
 }
+.bg--main-senior-react-js-dev {
+  background: url("/img/career/bg-img/bg-main-senior-reactjs-dev.png") center/cover
+    no-repeat;
+}
 .bg--sub-react-js-dev {
   background: url("/img/career/bg-img/bg-sub-react-js-dev.png") center/cover
     no-repeat;
@@ -1097,6 +1101,10 @@ ul.medsos-new li a {
 }
 .bg--sub-mobile-app-dev {
   background: url("/img/career/bg-img/bg-sub-mobile-app-dev.png") center/cover
+    no-repeat;
+}
+.bg--sub-senior-react-js-dev {
+  background: url("/img/career/bg-img/bg-sub-senior-react-js-dev.png") center/cover
     no-repeat;
 }
 .bg--faq-btn {
