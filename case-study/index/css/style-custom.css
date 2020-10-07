@@ -1,3 +1,20 @@
+@font-face {
+    font-family: Novocento-Wide-Regular;
+    src: url("../fonts/NovecentoWideBook.otf");
+  }
+@font-face {
+    font-family: Novocento-Wide-Normal;
+    src: url("../fonts/NovecentoWideNormal.otf");
+  }
+
+.novocentoNormal {
+    font-family: Novocento-Wide-Normal, sans-serif !important;
+    text-transform: uppercase;
+}
+.novocentoRegular {
+    font-family: Novocento-Wide-Regular, sans-serif !important;
+    text-transform: uppercase;
+}
 #bgImg .img {
     background-image: url('../img/bg.png');
 }
