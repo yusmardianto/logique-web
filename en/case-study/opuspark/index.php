@@ -41,7 +41,7 @@
 		<div class="wrapper o-wrapper top-only">
 
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -122,9 +122,9 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">Opus Park <p class="hidden-sm hidden-md hidden-lg"><small>Increasing Sales of Units Through Targeted Conversions</small></p></h1>
-          <h2 class="cs-title-2 hidden-xs">Increasing Sales of Units<br>Through Targeted Conversions</h2>
+          <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
+          <h1 class="cs-title">Opus Park  </h1>
+          <h2 class="cs-title-2  ">Increasing Sales of Units<br>Through Targeted Conversions</h2>
         </section>
         <section class="breadcrumb-container">
           <div class="row">
@@ -232,7 +232,7 @@
             </div>
           </div>
         </section>
-        <section class="cs-section">
+        <section class="cs-section result-section">
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">

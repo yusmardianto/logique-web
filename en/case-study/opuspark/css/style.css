@@ -386,7 +386,7 @@ header {
   height: 40px;
   font-size: 16px;
   color: #fff;
-  z-index: 1001;
+  z-index: 2;
   padding: 7px 0;
 }
 
@@ -538,6 +538,20 @@ footer {
   .custom2 {margin-top: -1.5em;margin-bottom: 1.5em}
   .custom3 {margin-bottom: -20px;}
   .custom4 {text-align: center;}
+  .cs-title-2{
+    position: static; 
+    font-weight: normal;
+    font-size: 22px; 
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .wrapper .navbar-toggle{
+    top: 45px;
+  }
+  .content-wrapper__.bg--footer.footer-section {
+    padding-left: 0px;
+  }
 }
 
 /* breadcrumb */
