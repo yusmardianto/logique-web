@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="LOGIQUE menyediakan jasa Digital Marketing di Jakarta sebagai solusi untuk meningkatkan bisnis Anda. Cari Agensi Digital terpercaya? Hubungi kami.">
+        content="Jasa Digital Marketing di Jakarta untuk perusahaan Otomotif, Asuransi, E-commerce & Lainnya. LOGIQUE | Digital marketing agency terbaik & profesional. ">
     <meta name="keywords"
         content="jasa digital marketing, agensi digital marketing, agensi digital marketing jakarta">
     <meta name="title"
@@ -19,7 +19,7 @@
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/digital-marketing.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="LOGIQUE menyediakan jasa Digital Marketing di Jakarta sebagai solusi untuk meningkatkan bisnis Anda. Cari Agensi Digital terpercaya? Hubungi kami.">
+    <meta property="og:description" content="Jasa Digital Marketing di Jakarta untuk perusahaan Otomotif, Asuransi, E-commerce & Lainnya. LOGIQUE | Digital marketing agency terbaik & profesional. ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/layanan/digital-marketing.php" />  
     <title>Agensi Digital Marketing Jakarta | LOGIQUE Digital Indonesia</title>
@@ -167,7 +167,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8 text-center">
-                        <h1>Layanan Pemasaran Digital  360<sup>o</sup></h1>
+                        <h1>Layanan Digital Marketing  360<sup>o</sup></h1>
                         <p>Di <strong>LOGIQUE</strong>, kami memberikan pelayanan untuk setiap kebutuhan pemasaran digital. Mulai dari perencanaan, produksi, pengoperasian, perawatan, hingga monetisasi.</p>
                     </div>
                 </div>
@@ -188,7 +188,7 @@
                                 <meta itemprop="position" content="2" />
                             </li>
                             <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                        itemprop="name">&nbsp;Digital Marketing Service</span></a>
+                                        itemprop="name">&nbsp;Jasa Digital Marketing</span></a>
                                 <meta itemprop="position" content="3" />
                             </li>
                         </ol>
