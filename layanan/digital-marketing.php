@@ -25,10 +25,7 @@
     <title>Agensi Digital Marketing Jakarta | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
-    <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet"> -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/style-digital-marketing.css" rel="stylesheet">  
     <!-- <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -139,10 +136,10 @@
             </div>
         </div>
     </div>
-
+    
     <!-- HEADER -->
     <div class="container-fluid">
-        <div class="row lang-logo--update-design">
+        <div class="lang-logo--update-design">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -205,29 +202,29 @@
                         <p>Dengan beragam objektif seperti,</p>
                         <div class="row text-left list__wrapper">
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-awareness.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-awareness.svg" alt="">
                                 <p>Brand Awareness</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-sales.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-sales.svg" alt="">
                                 <p>Sales</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-brand.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-brand.svg" alt="">
                                 <p>Brand Consideration</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-purchase.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-purchase.svg" alt="">
                                 <p>Purchase</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-engagement.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-engagement.svg" alt="">
                                 <p>Brand Engagement</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-leads.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-leads.svg" alt="">
                                 <p>Leads, & etc.</p>
                             </div>
                         </div>
@@ -241,7 +238,10 @@
             <div class="container__ text-center">
                 <h2>Trend Pemasaran</h2>
                 <p>Trend pemasaran telah berubah sangat drastic, Digital Marketing menjadi standar penting untuk kegiatan usaha hampir di setiap jenis industry.</p>
-                <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                <picture>
+                    <source srcset="assets/img/img-digital-marketing/webp/trend-image.webp" type="image/webp"> 
+                    <img loading="lazy" alt="Marketing Trend" src="assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                </picture> 
                 <p>Dengan memanfaatkan pengalaman kami selama bertahun-tahun yang sukses dalam pengembangan banyak bisnis dalam maupun luar negeri, dan didukung dengan team professional yang memiliki kemampuan teknis dalam pengembangan system web yang mutakhir dan team kreatif dengan skill desain dan penulisan konten, Kami percaya, kami mampu memberikan kesuksesan yang nyata untuk bisnis Anda.</p>
             </div>
         </section>
@@ -252,25 +252,25 @@
                 <div class="row get__list">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-awareness.png" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="">
                             <p>Meningkatkan <br> kesadaran merk</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-sales.png" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="">
                             <p>Meningkatkan Angka <br> Penjualan / Transaksi</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-user.png" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="">
                             <p>Meningkatkan database <br> pengguna / pelanggan</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-interaction.png" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="">
                             <p>Meningkatkan interaksi <br> pengguna </p>
                         </div>
                     </div>
@@ -320,27 +320,27 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         <div class="row dm__list-circle">
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Pemograman</p>
                             </div>
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Desain</p>
                             </div>
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Penulisan</p>
                             </div>
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Digital Ads</p>
                             </div>
@@ -357,7 +357,7 @@
                 <div class="row dm__list-circle dm__list-circle--white">
                     <div class="col-md-offset-4 col-md-4">
                         <div class="list-circle__img">
-                            <img src="/en/services/assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
+                            <img src="assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
                         </div>
                     </div>
                 </div>
@@ -374,19 +374,19 @@
                         <div class="row dm__list-circle">
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Long-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Medium-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Short-term <br>Plan</p>
                             </div>                            
@@ -399,8 +399,12 @@
         <section class="dm__teamwork">
             <div class="container__ text-center">
                 <h2>How <strong>LOGIQUE</strong>'s Team Work</h2><br>
-                <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
-                    <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+                <a href="assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
+                    
+                    <picture>
+                    <source srcset="assets/img/img-digital-marketing/webp/lgq-teamwork.webp" type="image/webp"> 
+                    <img loading="lazy" alt="Logique Team Work" src="assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+                </picture> 
                 </a>
             </div>
         </section>
@@ -411,6 +415,7 @@
     </div>
 
     <?php include '../footer.php'; ?>
+    <script  src='assets/js/modernizr-custom.js'></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
     <script>
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {

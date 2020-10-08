@@ -13,9 +13,11 @@
 .purechat-widget-title__arrow.--hide {display: none !important;}
 @media (max-width: 991.98px) {
 #PureChatWidget {width: 200px !important;}
-#PureChatWidget.purechat.purechat-bottom-right, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {left: unset !important; right: 50% !important; transform: translateX(50%) !important;}
+#PureChatWidget.purechat.purechat-bottom-right, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {left: unset !important; right: 50% !important; transform: translateX(50%) !important;  }
 #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom, #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left, #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right { bottom: -65px !important;} #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse,
 #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse { bottom: 70px !important; right: unset !important; left: 45% !important; transform: translateX(-50%) !important; }
+}
+@media (max-width: 486px) {
 }
 </style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">  
