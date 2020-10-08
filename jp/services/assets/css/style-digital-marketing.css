@@ -5,6 +5,7 @@ html, body {
     background-color: #fff;
     color: #000;
     font-family: 'M PLUS 1p','Raleway', sans-serif; 
+    font-display: swap;
 }
 
 @-ms-viewport {width: device-width}
@@ -390,11 +391,13 @@ strong {
     border-radius: 5px;
     padding: 15px;
     min-height: 295px;
-}
-
+} 
 .dm .dm__get .get__list .list__item img {
-    margin: 10px 10px 0;
-    width: calc(100% - 20px);
+  
+    /* width: calc(100% - 20px); */
+    border-radius: 12px;
+    box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.2);
+    margin: 10px auto;
 }
 
 .dm .dm__get .get__list .list__item p {
@@ -524,6 +527,8 @@ strong {
 
 .dm .dm__list-circle .list-circle__img img {
     margin: auto;
+    width: 64px;
+    height: auto;
 }
 /* end dm list circle*/
 

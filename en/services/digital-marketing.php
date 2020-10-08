@@ -142,7 +142,7 @@
 
     <!-- HEADER -->
     <div class="container-fluid">
-        <div class="row lang-logo--update-design">
+        <div class="  lang-logo--update-design">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
@@ -252,25 +252,25 @@
                 <div class="row get__list">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-awareness.png" class="img-responsive" alt="">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="">
                             <p>Increase brand <br>awareness</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-sales.png" class="img-responsive" alt="">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="">
                             <p>Increase Sales / <br>Transaction Numbers</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-user.png" class="img-responsive" alt="">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="">
                             <p> Increase user / <br>customer database</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-interaction.png" class="img-responsive" alt="">
+                            <img src="/en/services/assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="">
                             <p>Increase user <br>interaction</p>
                         </div>
                     </div>
@@ -320,25 +320,25 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         <div class="row dm__list-circle">
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
                                     <img src="/en/services/assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Programming</p>
                             </div>
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
                                     <img src="/en/services/assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Design</p>
                             </div>
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
                                     <img src="/en/services/assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
                                 </div>
                                 <p>Writing</p>
                             </div>
-                            <div class="col-md-3 col-sm-6">
+                            <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
                                     <img src="/en/services/assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
                                 </div>
@@ -411,6 +411,7 @@
     </div>
 
     <?php include '../footer.php'; ?>
+    <script  src='assets/js/modernizr-custom.js'></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
     <script>
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
