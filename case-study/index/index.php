@@ -137,31 +137,31 @@
       <div class="logique-nav logique-nav--update logique-nav--update">
         <div class="margin-for-nav">
           <div class="text-center active">
-            <a href="#">
+            <a href="/">
               <div class="img-home"></div>
               Beranda
             </a>
           </div>
           <div class="text-center">
-            <a href="logique.php">
+            <a href="/logique.php">
               <div class="img-about"></div>
               Tentang Kami
             </a>
           </div>
           <div class="text-center">
-            <a href="portofolio.php">
+            <a href="/portofolio.php">
               <div class="img-portfolio"></div>
               Portfolio
             </a>
           </div>
           <div class="text-center">
-            <a href="layanan.php">
+            <a href="/layanan.php">
               <div class="img-services"></div>
               Layanan
             </a>
           </div>
           <div class="text-center">
-            <a href="produk.php">
+            <a href="/produk.php">
               <div class="img-product"></div>
               Produk
             </a>
@@ -198,9 +198,9 @@
               <div class="container">
                 <a href="/"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                 <ul class="list-inline">
-                  <li><a href="en/index.php">EN</a></li>
+                  <!-- <li><a href="en/index.php">EN</a></li> -->
                   <li class="active"><a href="#">ID</a></li>
-                  <li><a href="jp/index.php">JP</a></li>
+                  <!-- <li><a href="jp/index.php">JP</a></li> -->
                 </ul>
               </div>
             </div>
@@ -230,7 +230,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <h1 class="title-index">Studi Kasus</h1>
-                  <p>Selama lebih dari 7 tahun, LOGIQUE telah membantu berbagai klien ternama, dari startup lokal sampai dengan perusahaan internasional untuk mengembangkan Website, Sistem, Web App dan Aplikasi Mobile.</p> 
+                  <p>Selama lebih dari 7 tahun, <span class="novocentoMedium">Logique</span> telah membantu berbagai klien ternama, dari startup lokal sampai dengan perusahaan internasional untuk mengembangkan Website, Sistem, Web App dan Aplikasi Mobile.</p> 
                 </div>
               </div>
             </div>
@@ -463,7 +463,7 @@
                 <div class="row">
                     <div class="col-sm-4 hidden-xs">
                         <div itemscope itemtype="https://schema.org/Organization">
-                            <div class="footer-title"><span itemprop="name">LOGIQUE DIGITAL INDONESIA</span></div>
+                            <div class="footer-title"><span itemprop="name"><span class="novocentoMedium">Logique</span> DIGITAL INDONESIA</span></div>
                             <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> Ad Premier Building 19th Floor. <br>Jalan Tb. Simatupang No. 5
                                     <br />
@@ -552,7 +552,7 @@
                                 </ul>
                             </li>
                             <li><a href="/portofolio.php">Portofolio</a></li>
-                            <li><a href="/career/">Join LOGIQUE (Karir)</a></li>
+                            <li><a href="/career/">Join <span class="novocentoMedium">LOGIQUE</span> (Karir)</a></li>
                             <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
                         </ul>
                     </div>
@@ -561,9 +561,9 @@
                 <div class="row">
                     <div class="col-sm-12 link-footer">
                         <h3>Tentang Kami</h3>
-                        <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, LOGIQUE menyediakan solusi terbaik
+                        <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website, <span class="novocentoMedium">LOGIQUE</span> menyediakan solusi terbaik
                             yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/web-dev.php" target="_blank"><b>jasa
-                                    pembuatan website</b></a>, LOGIQUE juga menyediakan jasa lainnya seperti jasa konsultasi
+                                    pembuatan website</b></a>, <span class="novocentoMedium">LOGIQUE</span> juga menyediakan jasa lainnya seperti jasa konsultasi
                             digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami
                             memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi,
                             maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan
@@ -621,7 +621,7 @@
     </div>
 </footer>
 <section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; <span
-        class="copyrightYear"></span> Logique Digital Indonesia. All Rights Reserved.</section>
+        class="copyrightYear"></span> <span class="novocentoMedium">Logique</span> Digital Indonesia. All Rights Reserved.</section>
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
