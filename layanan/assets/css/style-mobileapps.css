@@ -73,8 +73,8 @@ h2.first span{color:#5f1cc9;font-weight:bold;}
 }
 .solusi .title{font-size:28px;text-align:right}
 .solusi .title span{display:block}
-.solusi ul li{font-size:15px;padding:8px 0}
-.solusi ul .fa-li{top:9px}
+.solusi ul li{ font-size: 15px; padding: 8px 0 8px 20px; padding-left: 25px; position: relative;}
+.solusi ul .fa-li{top:7px; position: absolute; left: 0; }
 .no-webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.jpg') no-repeat;background-size:cover}
 .webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps//webp/bg-div-form.webp') no-repeat;background-size:cover}
 .div-form form{margin-top:20px;}
