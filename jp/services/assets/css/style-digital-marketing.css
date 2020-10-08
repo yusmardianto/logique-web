@@ -31,24 +31,15 @@ body {
     }
 }
 a:hover {text-decoration: none;}
-
-.backdrop-test {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    background-color: #000;
-    z-index: 999;
-    opacity: .7;
-    display: none;
-    top: 0;
-    left: 0;
-}
-
+ 
 .card section{margin-left:0}
+.nav-lp .navbar-toggle{
+    right: auto !important; 
+}
 .nav-lp .navbar-toggle.collapsed {
     background-color: #ffca13!important;
     position: fixed!important;
-    right: 0 !important;
+    right: auto !important;
     /* top: 0 !important; */
     /* top: 40px; */
     /* outline: solid 2px #000; */
