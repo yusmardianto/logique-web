@@ -787,8 +787,7 @@ if(isset($_POST['submitted']))
                      </div>
                  </div>
              </div>
-         </section>
-
+         </section> 
          <section class="buat-sekarang">
              <div class="container__">
                  <div class="row row-center-md">
