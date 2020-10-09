@@ -237,11 +237,6 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <!-- <div class="row">
-                <div class="col-sm-12">
-                  <img class="img-responsive" src="/img/career/bg-img/dummy-video.png" alt="" style="min-width:100%">
-                </div>
-              </div> -->
               <h2 class="section-title --black">Logique’s Gallery</h2>
               <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
