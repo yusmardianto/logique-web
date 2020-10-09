@@ -320,8 +320,8 @@ button:focus {
     display: block;
   }
   .logique-nav {
-    margin-right: -150px;
-    margin-left: auto;
+    margin-left: -150px;
+    margin-right: auto;
     position: relative;
   }
 }
