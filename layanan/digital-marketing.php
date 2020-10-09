@@ -293,8 +293,8 @@
                     <div class="col-md-6">
                         <div class="variety__content">
                             <div class="tab-content">
-                                <div id="variety_list_1" class="tab-pane fade in active">
-                                    Kami akan <span>meningkatkan performa</span> media yang Anda miliki agar mampu dimonetisasi dan menghasilkan konversi. Jika Anda belum memiliki media sendiri, jangan ragu untuk menghubungi kami yang akan selalu siap menjadi partner bisnis Anda dalam pengembangan Website maupun Aplikasi yang sesuai dengan kebutuhan Anda.<a target="_blank" href="/en/services/web-dev.php">Jasa Pembuatan Website</a>
+                                <div id="variety_list_1" class="tab-pane fade in active"> 
+                                    Kami akan <span>meningkatkan performa</span> media yang Anda miliki agar dapat dimonetisasi dan menghasilkan konversi. Namun jika Anda belum memiliki media sendiri, Logique selalu siap menjadi partner dalam pengembangan website dan aplikasi sesuai dengan kebutuhan bisnis Anda. Silahkan kunjungi <a href="https://www.logique.co.id/layanan/web-dev.php"  target="_blank" >Jasa Pembuatan Website</a> atau <a href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php"  target="_blank" >Jasa Pembuatan Aplikasi</a> kami.
                                 </div>
                                 <div id="variety_list_2" class="tab-pane fade">
                                     Meningkatkan traffic organic sangatlah penting dalam upaya monetisasi website Anda. Kami memiliki banyak pengalaman dalam penanggulangan proyek-proyek SEO dalam bahasa Indonesia dan Inggris, dan <strong>LOGIQUE</strong> telah terbukti sukses dalam upaya pengoptimalan mesin pencarian dengan beragam jenis kategori kata kunci mulai dari keuangan hingga otomotif. Kami juga siap memberikan konsultasi yang berkelanjutan dalam upaya peningkatan kualitas website Anda pada setiap mesin pencari, hingga memodifikasi halaman website berdasarkan tahapan dan kaedah SEO yang berlaku.
