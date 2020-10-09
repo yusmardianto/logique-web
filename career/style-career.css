@@ -1390,6 +1390,8 @@ ul.medsos-new li a {
   justify-content: space-between;
 }
 .urgent-need__item {
+  width: 33.33%;
+  flex-basis: 33.33%;
   text-align: center;
   padding: 10px 15px;
   border: 0.5px solid transparent;
