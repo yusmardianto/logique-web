@@ -146,8 +146,7 @@ if(isset($_POST['submitted']))
              </section>
              <div class="container__">
                  <div class="row">
-                     <div class="col-md-7">
-                         <br /><br /><br />
+                     <div class="col-md-7"> 
                          <h1 style="font-size: 30px">Ingin Mengembangkan <span class="yellow">Aplikasi Mobile (Android | iOS |
                                  Hybrid)</span> dengan kualitas tinggi dan biaya terjangkau? Silahkan Hubungi <span
                                  class="yellow logo-font">LOGIQUE</span></h1>

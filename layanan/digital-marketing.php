@@ -169,8 +169,7 @@
                     </div>
                 </div>
             </div>
-        </section>
-
+        </section> 
         <section class="dm__pagination">
             <div class="container__" style="padding:0">
                 <div class="row">
@@ -181,7 +180,7 @@
                                 <meta itemprop="position" content="1" />
                             </li>
                             <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                    href="/layanan.php"><span itemprop="name">&nbsp;Services</span></a>
+                                    href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
                                 <meta itemprop="position" content="2" />
                             </li>
                             <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
