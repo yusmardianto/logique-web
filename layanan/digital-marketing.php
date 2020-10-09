@@ -169,8 +169,7 @@
                     </div>
                 </div>
             </div>
-        </section>
-
+        </section> 
         <section class="dm__pagination">
             <div class="container__" style="padding:0">
                 <div class="row">
