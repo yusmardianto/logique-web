@@ -227,7 +227,7 @@ button:focus {
   background-color: #ffca13 !important;
   position: relative;
   right: 0 !important;
-  margin-top: 18px;
+  margin-top: 4px;
 }
 .navbar-toggle--update-design {
   position: fixed !important;
@@ -320,8 +320,8 @@ button:focus {
     display: block;
   }
   .logique-nav {
-    margin-right: -150px;
-    margin-left: auto;
+    margin-left: -150px;
+    margin-right: auto;
     position: relative;
   }
 }
@@ -343,9 +343,10 @@ button:focus {
   width: 200px;
   margin-top: 10px;
 }
-@media (max-width: 415px) {
+@media (max-width: 767.98px) {
   .logo--update-design {
     margin-top: 15px;
+    margin-left: 55px;
   }
 }
 
@@ -618,33 +619,42 @@ button:focus {
 }
 .message-from,
 .career-update__case-study {
-  background: url("../img/career/bg-img/bg-case-study.png") 10%/75% no-repeat, linear-gradient(#fff, #fff);
+  background: url("../img/career/bg-img/bg-case-study.jpg") 10%/75% no-repeat, linear-gradient(#fff, #fff);
+  background: url("../img/career/bg-img/bg-case-study.webp") 10%/75% no-repeat, linear-gradient(#fff, #fff);
 }
 .message-from .container--max-width,
 .career-update__case-study .container--max-width {
   background: url("../img/career/bg-img/bg-image-case-study.png") 90% bottom/auto 90% no-repeat;
+  background: url("../img/career/bg-img/bg-image-case-study.webp") 90% bottom/auto 90% no-repeat;
 }
 @media only screen and (max-width: 1024px) {
   .message-from,
   .career-update__case-study {
     background: linear-gradient(#fff, #fff) right/30% no-repeat,
-                url("../img/career/bg-img/bg-case-study.png") 10%/cover no-repeat,
+                url("../img/career/bg-img/bg-case-study.jpg") 10%/cover no-repeat,
+                linear-gradient(#fff, #fff);
+    background: linear-gradient(#fff, #fff) right/30% no-repeat,
+                url("../img/career/bg-img/bg-case-study.webp") 10%/cover no-repeat,
                 linear-gradient(#fff, #fff);
   }
   .message-from .container--max-width,
   .career-update__case-study .container--max-width {
     background: url("../img/career/bg-img/bg-image-case-study.png") 95% bottom/35% 91% no-repeat;
+    background: url("../img/career/bg-img/bg-image-case-study.webp") 95% bottom/35% 91% no-repeat;
   }
 }
 @media only screen and (max-width: 768px) {
   .message-from,
   .career-update__case-study {
-    background: url("../img/career/bg-img/bg-case-study.png") top/auto 75% no-repeat,
+    background: url("../img/career/bg-img/bg-case-study.jpg") top/auto 75% no-repeat,
+                linear-gradient(#fff, #fff);
+    background: url("../img/career/bg-img/bg-case-study.webp") top/auto 75% no-repeat,
                 linear-gradient(#fff, #fff);
   }
   .message-from .container--max-width,
   .career-update__case-study .container--max-width {
     background: url("../img/career/bg-img/bg-image-case-study.png") 60% bottom/auto 40% no-repeat;
+    background: url("../img/career/bg-img/bg-image-case-study.webp") 60% bottom/auto 40% no-repeat;
   }
 }
 @media only screen and (min-width: 1441px) {
@@ -654,8 +664,10 @@ button:focus {
   }
   .message-from .container--max-width,
   .career-update__case-study .container--max-width {
-    background: url("../img/career/bg-img/bg-image-case-study.png") 90% bottom/auto 90% no-repeat,
+    background: url("../img/career/bg-img/bg-image-case-study.jpg") 90% bottom/auto 90% no-repeat,
                 url("../img/career/bg-img/bg-case-study.png") 10%/75% no-repeat;
+    background: url("../img/career/bg-img/bg-image-case-study.webp") 90% bottom/auto 90% no-repeat,
+                url("../img/career/bg-img/bg-case-study.webp") 10%/75% no-repeat;
   }
 }
 
@@ -797,40 +809,46 @@ ul.medsos-new li a {
 
 /* BG */
 .bg--informasi {
-  background: url("../img/career/bg-img/bg-informasi.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-informasi.jpg") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-informasi.webp");
 }
 .bg--message {
-  background: url("../img/career/bg-img/bg-message.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-message.jpg") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-message.webp");
 }
 .bg--h-vision {
-  background: url("../img/career/bg-img/bg-head-vision.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-head-vision.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-head-vision.webp");
 }
 .bg--working {
   background: url("../career/pedoman-hr/img/main-banner.png") center/cover no-repeat;
 }
 .bg--yoshi {
   background-image: url("../img/career/bg-img/bg-yoshi2.png");
+  background-image: url("../img/career/bg-img/bg-yoshi2.webp");
   background-position: 35% top;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .bg--salary {
-  background: url("../img/career/bg-img/bg-salary.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-salary.jpg") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-salary.webp");
 }
 .bg--vision-mission {
-  background: linear-gradient(to bottom,#f5f5f5,transparent,#f5f5f5), url("../img/career/bg-img/bg-visi-misi.png") center/cover no-repeat;
+  background: linear-gradient(to bottom,#f5f5f5,transparent,#f5f5f5), url("../img/career/bg-img/bg-visi-misi.jpg") center/cover no-repeat;
+  background-image: linear-gradient(to bottom,#f5f5f5,transparent,#f5f5f5), url("../img/career/bg-img/bg-visi-misi.webp");
 }
-
 .bg--vision {
-  background: url("../img/career/bg-img/bg-vision.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-vision.jpg") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-vision.webp");
 }
 .bg--kerja {
-  background: url("../img/career/bg-img/bg-kerja.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-kerja.jpg") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-kerja.webp");
 }
 .bg--career {
-  background: url("../img/career/bg-img/bg-career.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-career.jpg") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-career.webp");
 }
 .bg--career-apply {
   background: url("../img/career/bg-img/bg-career-apply.png") center/cover
@@ -840,7 +858,8 @@ ul.medsos-new li a {
   background: url("../img/career/interview-bg.png") center/cover no-repeat;
 }
 .bg--env {
-  background: url("../img/career/bg-img/bg-env.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-env.jpg") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-env.webp");
 }
 .bg--ctc {
   background: url("../img/career/bg-img/bg-contact.png") center/cover no-repeat;
@@ -849,269 +868,238 @@ ul.medsos-new li a {
   background: url("../img/career/bg-img/bg-lowongan.png") center/cover no-repeat;
 }
 .bg--magang {
-  background: url("../img/career/bg-img/bg-magang.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-magang.jpg") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-magang.webp");
 }
 .bg--btn-intern {
-  background: url("../img/career/bg-img/bg-btn-intern.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-btn-intern.png") center/cover no-repeat;
 }
-
 .bg--op-programmer {
-  background: url("../img/career/bg-img/bg-op-programmer.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-op-programmer.png") center/cover no-repeat;
 }
 .bg--op-designer {
-  background: url("../img/career/bg-img/bg-op-designer.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-op-designer.png") center/cover no-repeat;
 }
 .bg--op-specialist {
-  background: url("../img/career/bg-img/bg-op-specialist.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-op-specialist.png") center/cover no-repeat;
 }
 .bg--op-sales {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../img/career/bg-img/bg-op-sales.png") center/cover no-repeat;
 }
 .bg--op-internship {
-  background: url("../img/career/bg-img/bg-op-internship.png") center/cover
-    no-repeat;
+  background: url("../img/career/bg-img/bg-op-internship.png") center/cover no-repeat;
 }
-
 .bg--lowongan-project-manager {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-    url("../img/career/bg-img/bg-project-manager-thumb.png") center/cover
-      no-repeat;
+    url("../img/career/bg-img/bg-project-manager-thumb.png") center/cover no-repeat;
 }
 .bg--lowongan-product-manager {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-    url("../img/career/bg-img/bg-product-manager-thumb.png") center/cover
-      no-repeat;
+    url("../img/career/bg-img/bg-product-manager-thumb.png") center/cover no-repeat;
 }
 .bg--lowongan-business-analyst {
   background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
-    url("../img/career/bg-img/bg-business-analyst-thumb.png") center/cover
-      no-repeat;
+    url("../img/career/bg-img/bg-business-analyst-thumb.png") center/cover no-repeat;
 }
-
 .bg--banner-lowongan {
-  background: url("/img/career/bg-img/banner-lowongan-top.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/banner-lowongan-top.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/banner-lowongan-top.webp");
 }
-
 .bg--banner-pekerjaan {
-  background: url("/img/career/bg-img/banner-pekerjaan-logique-top.png")
-    center/cover no-repeat;
+  background: url("/img/career/bg-img/banner-pekerjaan-logique-top.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/banner-pekerjaan-logique-top.webp");
 }
-
 .bg--career-dev {
-  background: url("/img/career/bg-img/bg-career-dev.png") center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-career-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-career-dev.webp");
 }
-
 .bg--main-it-generalist {
-  background: url("/img/career/bg-img/bg-main-it-generalist.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-it-generalist.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-it-generalist.webp");
 }
-
 .bg--sub-it-generalist {
-  background: url("/img/career/bg-img/bg-sub-it-generalist.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-it-generalist.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-it-generalist.webp");
 }
-
 .bg--main-programmer {
-  background: url("/img/career/bg-img/bg-main-programmer.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-programmer.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-programmer.webp");
 }
-
 .bg--sub-programmer {
-  background: url("/img/career/bg-img/bg-sub-programmer.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-programmer.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-programmer.webp");
 }
-
 .bg--main-designer-dm {
-  background: url("/img/career/bg-img/bg-main-designer-dm.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-designer-dm.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-designer-dm.webp");
 }
-
 .bg--sub-designer-dm {
-  background: url("/img/career/bg-img/bg-sub-designer-dm.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-designer-dm.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-designer-dm.webp");
 }
-
 .bg--main-other-it-specialist {
-  background: url("/img/career/bg-img/bg-main-other-it-specialist.png")
-    center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-main-other-it-specialist.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-other-it-specialist.webp");
 }
-
 .bg--sub-other-it-specialist {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../img/career/bg-img/bg-sub-other-it-specialist.png") center/cover
-      no-repeat;
+    url("../img/career/bg-img/bg-sub-other-it-specialist.jpg") center/cover no-repeat;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/career/bg-img/bg-sub-other-it-specialist.webp");
 }
-
 .bg--main-sales-marketing {
-  background: url("/img/career/bg-img/bg-main-sales-marketing.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-sales-marketing.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-sales-marketing.webp");
 }
-
 .bg--sub-sales-marketing {
-  background: url("/img/career/bg-img/bg-sub-sales-marketing.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-sales-marketing.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-sales-marketing.webp");
 }
-
 .bg--main-back-office {
-  background: url("/img/career/bg-img/bg-main-back-office.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-back-office.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-back-office.webp");
 }
-
 .bg--sub-back-office {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("../img/career/bg-img/bg-sub-back-office.png") center/cover no-repeat;
+    url("/img/career/bg-img/bg-sub-back-office.jpg") center/cover no-repeat;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/img/career/bg-img/bg-sub-back-office.webp");
 }
-
 .bg--main-project-manager {
-  background: url("/img/career/bg-img/bg-main-project-manager.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-project-manager.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-project-manager.webp");
 }
 .bg--sub-project-manager {
-  background: url("/img/career/bg-img/bg-sub-project-manager.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-project-manager.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-project-manager.webp");
 }
-
 .bg--main-business-analyst {
-  background: url("/img/career/bg-img/bg-main-business-analyst.png")
-    center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-main-business-analyst.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-business-analyst.webp");
 }
 .bg--sub-business-analyst {
-  background: url("/img/career/bg-img/bg-sub-business-analyst.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-business-analyst.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-business-analyst.webp");
 }
-
 .bg--main-product-manager {
-  background: url("/img/career/bg-img/bg-main-product-manager.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-product-manager.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-product-manager.webp");
 }
 .bg--sub-product-manager {
-  background: url("/img/career/bg-img/bg-sub-product-manager.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-product-manager.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-product-manager.webp")
 }
-
 .bg--main-consultant {
-  background: url("/img/career/bg-img/bg-main-consultant.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-consultant.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-consultant.webp");
 }
 .bg--sub-consultant {
-  background: url("/img/career/bg-img/bg-sub-consultant.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-consultant.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-consultant.webp");
 }
-
 .bg--main-dm-specialist {
-  background: url("/img/career/bg-img/bg-main-dm-specialist.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-dm-specialist.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-dm-specialist.webp");
 }
 .bg--sub-dm-specialist {
-  background: url("/img/career/bg-img/bg-sub-dm-specialist.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-dm-specialist.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-dm-specialist.webp");
 }
-
 .bg--main-ui-ux-designer {
-  background: url("/img/career/bg-img/bg-main-ui-ux-designer.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-ui-ux-designer.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-ui-ux-designer.webp");
 }
 .bg--sub-ui-ux-designer {
-  background: url("/img/career/bg-img/bg-sub-ui-ux-designer.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-ui-ux-designer.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-ui-ux-designer.webp");
 }
-
 .bg--main-qa {
-  background: url("/img/career/bg-img/bg-main-qa.png") center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-main-qa.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-qa.webp");
 }
 .bg--sub-qa {
-  background: url("/img/career/bg-img/bg-sub-qa.png") center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-sub-qa.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-qa.webp");
 }
-
 .bg--main-security-specialist {
-  background: url("/img/career/bg-img/bg-main-security-specialist.png")
-    center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-main-security-specialist.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-security-specialist.webp");
 }
 .bg--sub-security-specialist {
-  background: url("/img/career/bg-img/bg-sub-security-specialist.png")
-    center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-sub-security-specialist.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-security-specialist.webp");
 }
-
 .bg--main-devops {
-  background: url("/img/career/bg-img/bg-main-devops.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-devops.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-devops.webp");
 }
 .bg--sub-devops {
-  background: url("/img/career/bg-img/bg-sub-devops.png") center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-sub-devops.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-devops.webp");
 }
-
 .bg--main-product-dev {
-  background: url("/img/career/bg-img/bg-main-product-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-product-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-product-dev.webp");
 }
 .bg--sub-product-dev {
-  background: url("/img/career/bg-img/bg-sub-product-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-product-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-product-dev.webp");
 }
-
 .bg--main-web-dev {
-  background: url("/img/career/bg-img/bg-main-web-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-web-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-web-dev.webp");
 }
 .bg--sub-web-dev {
-  background: url("/img/career/bg-img/bg-sub-web-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-web-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-web-dev.webp");
 }
-
 .bg--main-front-end-dev {
-  background: url("/img/career/bg-img/bg-main-front-end-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-front-end-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-front-end-dev.webp");
 }
 .bg--sub-front-end-dev {
-  background: url("/img/career/bg-img/bg-sub-front-end-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-front-end-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-front-end-dev.webp");
 }
-
 .bg--main-react-js-dev {
-  background: url("/img/career/bg-img/bg-main-react-js-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-react-js-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-react-js-dev.webp");
 }
 .bg--main-senior-react-js-dev {
-  background: url("/img/career/bg-img/bg-main-senior-reactjs-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-senior-reactjs-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-senior-reactjs-dev.webp");
 }
 .bg--sub-react-js-dev {
-  background: url("/img/career/bg-img/bg-sub-react-js-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-react-js-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-react-js-dev.webp");
 }
-
 .bg--main-react-native-dev {
-  background: url("/img/career/bg-img/bg-main-react-native-dev.png")
-    center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-main-react-native-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-react-native-dev.webp");
 }
 .bg--sub-react-native-dev {
-  background: url("/img/career/bg-img/bg-sub-react-native-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-react-native-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-react-native-dev.webp");
 }
-
 .bg--main-mobile-app-dev {
-  background: url("/img/career/bg-img/bg-main-mobile-app-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-main-mobile-app-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-mobile-app-dev.webp");
 }
 .bg--sub-mobile-app-dev {
-  background: url("/img/career/bg-img/bg-sub-mobile-app-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-mobile-app-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-mobile-app-dev.webp");
 }
 .bg--sub-senior-react-js-dev {
-  background: url("/img/career/bg-img/bg-sub-senior-react-js-dev.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-sub-senior-react-js-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-senior-react-js-dev.webp");
 }
 .bg--faq-btn {
   background: url("/img/career/bg-img/bg-faq-btn.png") center/cover no-repeat;
 }
 .bg--faq {
-  background: url("/img/career/bg-img/bg-faq.png") center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-faq.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-faq.webp");
 }
 
 /* END BG */
@@ -1402,6 +1390,8 @@ ul.medsos-new li a {
   justify-content: space-between;
 }
 .urgent-need__item {
+  width: 33.33%;
+  flex-basis: 33.33%;
   text-align: center;
   padding: 10px 15px;
   border: 0.5px solid transparent;
