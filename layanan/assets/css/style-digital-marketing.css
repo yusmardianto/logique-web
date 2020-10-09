@@ -573,6 +573,9 @@ strong {
     .dm__strong .dm__list-circle > div p{
         margin-bottom: 20px;
     }
+    .dm .dm__variety .variety__content{
+        padding: 20px;
+    }
     
 }
 @media (max-width: 486px) {
