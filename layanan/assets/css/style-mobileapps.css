@@ -174,13 +174,37 @@ footer .title{font-size:24px;}
 .lang-logo .list-inline li.active a, .lang-logo .list-inline li:focus a, .lang-logo .list-inline li:hover a, .lang-logo--update-design .list-inline li.active a, .lang-logo--update-design .list-inline li:focus a, .lang-logo--update-design .list-inline li:hover a{
 	color: #111;
 }
+.content-wrapper__ .--top {
+    padding-top: 4.3em;
+}
+.breadcrumb--update-design {
+    font-size: 16px;
+    padding: 1.5em 15px;
+    background-color: transparent;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+ 
+.breadcrumb--update-design>li {
+    word-break: keep-all;
+}
+.breadcrumb>li {
+    display: inline-block;
+}
+
+.breadcrumb--update-design a {
+    color: #ffca13;
+}
+.breadcrumb--update-design .active a span{
+    color: #fff;
+}
 @media screen and (min-width: 992px) {
-.contain-img {
-	min-height: 215px;
-}
-.div-help .div-title {
-	min-height: 115px;
-}
+	.contain-img {
+		min-height: 215px;
+	}
+	.div-help .div-title {
+		min-height: 115px;
+	}
 }
 @media screen and (max-width: 979px) {
 	.col-md-5ths {
@@ -241,6 +265,9 @@ footer .title{font-size:24px;}
 	}
 	.lang-logo--update-design a {
 		display: inline-block;
+	}
+	.content-wrapper__ .--top {
+		padding-top: 90px;
 	}
 }
 @media (max-width:460px) {
