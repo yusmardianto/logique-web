@@ -1,0 +1,37 @@
+.modal-open .portfolio__modal  .modal{
+    top: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 9999999;
+} 
+.portfolio__modal  .modal-body {
+    position: relative;
+}
+.portfolio__modal  .modal-body .close{
+    position: absolute;
+    top:-15px;
+    right: -15px;
+    background: RED;
+    color: #fff;
+    text-shadow: none;
+    opacity: 1;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    font-size: 31px;
+}
+.portfolio__modal  .modal-body .close span{
+    line-height: 0;
+}
+@media (max-width: 1023px) {
+ 
+}
+@media (max-width: 991.98px) {
+ 
+} 
+@media (max-width: 767.98px) {
+}
+@media (max-width: 468px) {
+    .portfolio-update .portfolio__banner {
+        background: url(../img/portfolio/bg-portfolio-mobile.jpg) center/cover no-repeat;
+    }
+}
