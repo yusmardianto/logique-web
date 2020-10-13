@@ -397,21 +397,21 @@
                     <div class="content__wrapper">
                         <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
-                                    <img src="/img/portfolio/update/dm-bamboo.png" alt="" loading="lazy" >
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.jpg')">
+                                    <img src="/img/portfolio/client-list/kbj-white.svg" alt="" loading="lazy" >
                                     <h4>Real Estate - Bamboo</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.jpg')">
                                     <img src="/img/portfolio/update/dm-mirai.png" alt="" loading="lazy" >
                                     <h4>Real Estate - Hajime</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
                                 </div>
                             </div>
                             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.jpg')">
                                     <img src="/img/portfolio/update/dm-pilipili.png" alt="" loading="lazy" >
                                     <h4>E Commerce - Pilipili</h4>
                                     <p>SEO | Website Maintenance</p>
