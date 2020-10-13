@@ -291,7 +291,7 @@
             </section>
 
             <section id="portfolio_mobile" class="portfolio-update__content">
-                <div class="container">
+                <div class="container__">
                     <h2 class="text-center">Mobile App / PWA</h2>
                     <div class="content__wrapper">
                         <div class="row">
@@ -352,7 +352,7 @@
             </section>
 
             <section id="portfolio_sys" class="portfolio-update__content">
-                <div class="container">
+                <div class="container__">
                     <h2 class="text-center">Aplikasi Berbasis Web</h2>
                     <div class="content__wrapper">
                         <div class="flex__row">
