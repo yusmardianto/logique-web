@@ -73,7 +73,7 @@ if(isset($_POST['submitted']))
 	</script>
 
     <?php 
-        if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
             echo "<!-- Google Tag Manager -->
             <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -89,7 +89,7 @@ if(isset($_POST['submitted']))
 <body>
 
     <?php 
-        if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
             echo '<!-- Google Tag Manager (noscript) -->
             <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

@@ -36,7 +36,7 @@
     <link href="css/style.css" rel="stylesheet">
 
     <?php 
-      if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+      if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
         echo '<!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -47,7 +47,7 @@
   
 	<body>
     <?php 
-      if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+      if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
         echo '<!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
