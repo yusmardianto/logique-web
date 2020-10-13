@@ -1,4 +1,12 @@
 <?php 
+  if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+    echo '<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->';
+  }
+?>
+<?php 
     $baseFileName = basename($_SERVER['PHP_SELF']);
 ?>
 <!-- NAVIGATION -->

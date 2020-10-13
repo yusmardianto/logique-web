@@ -1,42 +1,58 @@
 <!DOCTYPE html>
 <html lang="id">
   <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
-	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
-	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
+    <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
+    <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
+    <meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
+    <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
+    ga('create', 'UA-105878648-1', 'auto');
+    ga('send', 'pageview');
 
-	</script>
-  <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title> 
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet"> 
-  <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
-   <link rel="stylesheet" href="../../../css/sidebar-update.css" >
-  <!-- case study style -->
-  <link href="css/new-style.css" rel="stylesheet">
+    </script>
+    <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title> 
+    <link href="../../../css/bootstrap.min.css" rel="stylesheet"> 
+    <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
+    <link rel="stylesheet" href="../../../css/sidebar-update.css" >
+    <!-- case study style -->
+    <link href="css/new-style.css" rel="stylesheet">
+    
+    <?php 
+      if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+        echo '<!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->';
+      }
+    ?>
+  </head>
 
-    </head>
 	<body>
-	 
-        <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
+    <?php 
+      if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+        echo '<!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->';
+      }
+    ?>	 
+    <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
       <header>
         <div class="container">
           <div class="row">

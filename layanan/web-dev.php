@@ -63,25 +63,48 @@ if(isset($_POST['submitted']))
     <!-- <link href="/css/style.css" rel="stylesheet"> -->
     <link href="assets/css/style-webdev-new.css" rel="stylesheet"> 
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    
     <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
+        ga('create', 'UA-105878648-1', 'auto');
+        ga('send', 'pageview');
 	</script>
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+
 </head>
 
 <body>
-    <style>
-    @media only screen (max-width: 414px) {
-        .breadcrumb {
-            padding-left: 15px;
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
         }
-    }
+    ?>
+
+    <style>
+        @media only screen (max-width: 414px) {
+            .breadcrumb {
+                padding-left: 15px;
+            }
+        }
     </style>
       <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
         <!-- NAVIGATION -->

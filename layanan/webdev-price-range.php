@@ -43,8 +43,7 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Cache-control" content="public, max-age=86400">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE
-">
+	<meta name="description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE">
 	<meta name="keywords" content="">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -64,24 +63,46 @@ if(isset($_POST['submitted']))
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
     <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
+        ga('create', 'UA-105878648-1', 'auto');
+        ga('send', 'pageview');
 	</script>
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+
 </head>
 
 <body>
-    <style>
-    @media only screen (max-width: 414px) {
-        .breadcrumb {
-            padding-left: 15px;
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'logique-web.test') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
         }
-    }
+    ?>
+
+    <style>
+        @media only screen (max-width: 414px) {
+            .breadcrumb {
+                padding-left: 15px;
+            }
+        }
     </style>
     <div class="side-container"></div>
     <div>
@@ -97,56 +118,56 @@ if(isset($_POST['submitted']))
             <div class="collapse navbar-collapse" id="myNavbar">
         <div class="backdrop-test"></div>
         <div class="logique-nav logique-nav--update">
-        <div class="margin-for-nav">
-						<div class="text-center">
-							<a href="/">
-								<div class="img-home"></div>
-								Beranda
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/logique.php">
-								<div class="img-about"></div>
-								Tentang Kami
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/portofolio.php">
-								<div class="img-portfolio"></div>
-								Portfolio
-							</a>
-						</div>
-						<div class="text-center active">
-							<a href="/layanan.php">
-								<div class="img-services"></div>
-								Layanan
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/produk.php">
-								<div class="img-product"></div>
-								Produk
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/career/">
-								<div class="img-career"></div>
-								Karir
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/hubungi-kami.php">
-								<div class="img-contact"></div>
-								Hubungi Kami
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
-						</div>
-					</div>
+            <div class="margin-for-nav">
+                <div class="text-center">
+                    <a href="/">
+                        <div class="img-home"></div>
+                        Beranda
+                    </a>
+                </div>
+                <div class="text-center">
+                    <a href="/logique.php">
+                        <div class="img-about"></div>
+                        Tentang Kami
+                    </a>
+                </div>
+                <div class="text-center">
+                    <a href="/portofolio.php">
+                        <div class="img-portfolio"></div>
+                        Portfolio
+                    </a>
+                </div>
+                <div class="text-center active">
+                    <a href="/layanan.php">
+                        <div class="img-services"></div>
+                        Layanan
+                    </a>
+                </div>
+                <div class="text-center">
+                    <a href="/produk.php">
+                        <div class="img-product"></div>
+                        Produk
+                    </a>
+                </div>
+                <div class="text-center">
+                    <a href="/career/">
+                        <div class="img-career"></div>
+                        Karir
+                    </a>
+                </div>
+                <div class="text-center">
+                    <a href="/hubungi-kami.php">
+                        <div class="img-contact"></div>
+                        Hubungi Kami
+                    </a>
+                </div>
+                <div class="text-center">
+                    <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+                        <div class="img-blog"></div>
+                        Blog
+                    </a>
+                </div>
+            </div>
         </div>
       </div>
         </div>
@@ -154,7 +175,7 @@ if(isset($_POST['submitted']))
 
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
