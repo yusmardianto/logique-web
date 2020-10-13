@@ -40,8 +40,8 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 	</script>
-	<!-- Twitter universal website tag code <-->
-	</-->
+	
+	<!-- Twitter universal website tag code -->
 	<script>
 		! function(e, t, n, s, u, a) {
 			e.twq || (s = e.twq = function() {
@@ -434,7 +434,10 @@
 							</ul>
 							<div class="row">
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="" class=" contribution__img img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.webp" type="image/webp">
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="Our Contribution" class=" contribution__img img-responsive">
+									</picture>
 								</div>
 								<div class="tab-content tab-content__text col-md-6 col-xs-12">
 									<div id="contribution_1" class="tab-pane fade in active">
