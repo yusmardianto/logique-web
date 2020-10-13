@@ -19,19 +19,76 @@
         content="LOGIQUE dapat membantu meningkatkan sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Penetration Test | Keamanan website | LOGIQUE Digital Indonesia</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet">  
-    <link rel="stylesheet" href="/css/sidebar-update.css" > 
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
     <link href="assets/css/style-pentest.css" rel="stylesheet">
     <link href="/css/animate.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
-    <!-- <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
+    <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet"> -->
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css"> -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
+    <script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-105878648-1', 'auto');
+    ga('send', 'pageview');
+    </script>
+    <!-- Twitter universal website tag code -->
+    <script>
+    ! function(e, t, n, s, u, a) {
+        e.twq || (s = e.twq = function() {
+                s.exe ? s.exe.apply(s, arguments) : s.queue.push(arguments);
+            }, s.version = '1.1', s.queue = [], u = t.createElement(n), u.async = !0, u.src =
+            '//static.ads-twitter.com/uwt.js',
+            a = t.getElementsByTagName(n)[0], a.parentNode.insertBefore(u, a))
+    }(window, document, 'script');
+    Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'o0xru');
+    twq('track', 'PageView');
+    </script>
+    <!-- End Twitter universal website tag code -->
 </head>
 
 <body class="wrapper wrapper--update-design">
- 
+    <style>
+    .container__ {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
+    .logique-nav {
+        left: 0;
+    }
+
+    .breadcrumb--update-design a {
+        color: #f5f5f5;
+    }
+
+    .title {
+        background: transparent;
+        padding: 0;
+    }
+
+    .tahapan .title {
+        font-size: 15px;
+    }
+
+    @media only screen and (min-width: 1024px) {
+        .content-wrapper__ .--top {
+            margin-bottom: 2.5em
+        }
+    }
+    </style>
 
     <!-- NAVIGATION -->
     <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -99,28 +156,29 @@
 
     <!-- HEADER -->
     <div class="container-fluid">
-        <div class="  lang-logo--update-design"> 
+        <div class="row lang-logo--update-design">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9">
-                    <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                        class="img-responsive logo--update-design"   loading="lazy" /></a>
-                <ul class="list-inline">
-                    <li><a href="/en/services/penetration-test.php">EN</a></li>
-                    <li class="active"><a href="#">ID</a></li>
-                    <li><a href="/jp/services/penetration-test.php">JP</a></li>
-                </ul>
+                    <div class="col-sm-offset-1 col-sm-11">
+                        <div class="container">
+                            <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
+                                    class="img-responsive logo--update-design" /></a>
+                            <ul class="list-inline">
+                                <li><a href="/en/services/penetration-test.php">EN</a></li>
+                                <li class="active"><a href="#">ID</a></li>
+                                <li><a href="/jp/services/penetration-test.php">JP</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
-               
-            </div>         
+            </div>
         </div>
     </div>
     <!-- END HEADER -->
     <div class="content-wrapper__">
         <div class="header-top">
             <section class="--top">
-                <div class="container__">
+                <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -145,12 +203,18 @@
             </section>
             <div class="container__">
                 <div class="row">
-                    <div class="col-md-12"> 
-                        <picture> 
-                            <source media="(max-width: 468px)" srcset="assets/img/img-pentest/top-banner-mobile.png" type="image/png">
-                            <source media="(min-width: 469px)" srcset="assets/img/img-pentest/top-banner.png" type="image/png">
-                            <img src="assets/img/img-pentest/top-banner-mobile.png"  loading="lazy"  class="img-responsive center-block top-banner" alt="Top Banner">
-                        </picture>
+                    <div class="col-md-12">
+                        <!-- <div class="nav-security clearfix">
+                            <a href="/"><img class="img-responsive logo" src="assets/img/img-pentest/logo.png"
+                                    alt="Logique" /></a>
+                            <div class="div-lang">
+                                <a class="active" href="#">IND</a>
+                                <a href="/en/services/penetration-test.php">ENG</a>
+                                <a href="/jp/services/penetration-test.php">JPN</a>
+                            </div>
+                        </div> -->
+                        <img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png"
+                            alt="Top Banner" />
                         <div class="div-question-top">
                             <div class="inside">
                                 <div class="row">
@@ -243,16 +307,15 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-4">
-                                           <img   loading="lazy" alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari"
-                                                src="assets/img/img-pentest/kasus1-1.png" class="img-responsive center-block" /> 
-                                               
+                                            <img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari"
+                                                src="assets/img/img-pentest/kasus1-1.png" class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-4">
-                                            <img  loading="lazy" alt="Serangan IoT meningkat 600% pada 2017"
+                                            <img alt="Serangan IoT meningkat 600% pada 2017"
                                                 src="assets/img/img-pentest/kasus1-2.png" class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-4">
-                                            <img  loading="lazy" alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
+                                            <img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
                                                 src="assets/img/img-pentest/kasus1-3.png" class="img-responsive center-block" />
                                         </div>
                                     </div>
@@ -289,12 +352,12 @@
                                         11 persen dan Rusia sebesar 6 persen. Dimana 71% nya menggunakan email
                                         spear-phishing untuk melakukan serangan cyber tersebut.
                                     </div>
-                                    <img loading="lazy"  class="img-responsive center-block" src="assets/img/img-pentest/line-serangan.png"
+                                    <img class="img-responsive center-block" src="assets/img/img-pentest/line-serangan.png"
                                         alt="Line Serangan" /><br />
                                     <div class="row">
                                         <div class="col-sm-4">
                                             <div class="border-serangan">
-                                                <img  loading="lazy"  class="img-responsive center-block"
+                                                <img class="img-responsive center-block"
                                                     src="assets/img/img-pentest/serangan1.png" alt="Serangan 1" />
                                                 Format Microsoft Office (<i>Ppt, Word, dan Excel</i>) membuat,
                                                 <span>38%</span>
@@ -324,7 +387,7 @@
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="border-serangan phishing">
-                                                <img loading="lazy"  class="img-responsive center-block"
+                                                <img class="img-responsive center-block"
                                                     src="assets/img/img-pentest/serangan2.png" alt="Serangan 2" />
                                                 <span>71%</span>
                                                 serangan cyber dimulai dengan email <strong>spear-phishing</strong>
@@ -350,22 +413,22 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-4 mt-2m">
-                                            <img  loading="lazy" alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari"
+                                            <img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari"
                                                 src="assets/img/img-pentest/dampak1.png" class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-4 mt-2m">
-                                            <img  loading="lazy" alt="Serangan IoT meningkat 600% pada 2017"
+                                            <img alt="Serangan IoT meningkat 600% pada 2017"
                                                 src="assets/img/img-pentest/dampak2.png" class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-4 mt-2m">
-                                            <img  loading="lazy" alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
+                                            <img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
                                                 src="assets/img/img-pentest/dampak3.png" class="img-responsive center-block" />
                                         </div>
                                     </div>
                                     <img class="img-responsive left-block" src="assets/img/img-pentest/garis-dampak4.png" />
                                     <div class="row">
                                         <div class="col-sm-3">
-                                            <img  loading="lazy" class="img-responsive center-block" src="assets/img/img-pentest/rumah-dampak.png"
+                                            <img class="img-responsive center-block" src="assets/img/img-pentest/rumah-dampak.png"
                                                 alt="Rumah Dampak" />
                                         </div>
                                         <div class="col-sm-6">
@@ -378,7 +441,7 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-3">
-                                            <img  loading="lazy" class="img-responsive center-block" src="assets/img/img-pentest/dampak-ratio.png"
+                                            <img class="img-responsive center-block" src="assets/img/img-pentest/dampak-ratio.png"
                                                 alt="Dampak Ratio" />
                                         </div>
                                     </div>
@@ -397,15 +460,15 @@
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-4 mt-2m">
-                                            <img  loading="lazy" alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari"
+                                            <img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari"
                                                 src="assets/img/img-pentest/kerugian1.png" class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-4 mt-2m">
-                                            <img  loading="lazy" alt="Serangan IoT meningkat 600% pada 2017"
+                                            <img alt="Serangan IoT meningkat 600% pada 2017"
                                                 src="assets/img/img-pentest/kerugian2.png" class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-4 mt-2m">
-                                            <img  loading="lazy" alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
+                                            <img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
                                                 src="assets/img/img-pentest/kerugian3.png" class="img-responsive center-block" />
                                         </div>
                                     </div>
@@ -415,8 +478,10 @@
                                         <div style="background-color:black;color:white;margin: 0 1px;">
                                             <p class="six-billion"><span>USD 6</span> Trilliun<br />per tahun pada 2021</p>
                                         </div>
-                                        <div style="background-color:black;color:white;">
-                                        <img loading="lazy"   alt="Serangan IoT meningkat 600% pada 2017" src="assets/img/img-pentest/image-risk-cmputer.png" class="img-responsive center-block" /></div>
+                                        <div style="background-color:black;color:white;"><img
+                                                alt="Serangan IoT meningkat 600% pada 2017"
+                                                src="assets/img/img-pentest/image-risk-cmputer.png"
+                                                class="img-responsive center-block" /></div>
                                     </div>
 
                                     <br /><br />
@@ -434,32 +499,31 @@
                                         anti-virus milik mereka.
                                     </div>
 
-                                    <div class="row text-center attact-type">
-                                        <div class="col-sm-3 mt-2m img-centered img-up"> 
-                                                <div class="yellow-box" >
-                                                   <span style="font-size:22px; font-weight:bold;">74%</span> perusahaan memiliki lebih dari <b>1000 file sensitif</b>     
-                                                </div>
+                                    <div class="row text-center">
+                                        <div class="col-sm-3 mt-2m img-centered img-up">
+                                            <img alt="Sekitar 24.000 aplikasi seluler berbahaya diblokir setiap hari"
+                                                src="assets/img/img-pentest/mengalami/mengalami1.png"
+                                                class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-3 mt-2m img-centered img-up">
-                                           
-                                                <div class="yellow-box">
-                                                   <span style="font-size:22px; font-weight:bold;">21%</span> dari semua file <b>tidak di lindungi</b> dalam cara apapun     
-                                                </div>
+                                            <img alt="Serangan IoT meningkat 600% pada 2017"
+                                                src="assets/img/img-pentest/mengalami/mengalami2.png"
+                                                class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-3 mt-2m img-centered img-up">
-                                        <div class="yellow-box" style="padding: 15px 13px 15px; line-height: 13px; font-size: 9px; ">
-                                                   <span style="font-size:22px; font-weight:bold;">41%</span> perusahaan memiliki <b>1000 file sensitif</b> termasuk nomor kartu kredit serta catatan kesehatan yang tidak dilindungi    
-                                                </div>
+                                            <img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
+                                                src="assets/img/img-pentest/mengalami/mengalami3.png"
+                                                class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-3 mt-2m img-centered">
-                                            <div class="yellow-box" style="padding:  15px 13px 15px; line-height: 13px; font-size: 9px; ">
-                                                <span style="font-size:22px; font-weight:bold;">65%</span> perusahaan memiliki <b>lebih dari 500 pengguna</b> yang tidak pernah diminta mengubah kata sandi   
-                                            </div>
+                                            <img alt="Serangan IoT meningkat 600% pada 2017"
+                                                src="assets/img/img-pentest/mengalami/mengalami2.png"
+                                                class="img-responsive center-block" />
                                         </div>
                                         <div class="col-sm-3 mt-2m img-centered">
-                                        <div class="yellow-box" style="padding:  15px 13px 15px; line-height: 13px; font-size: 9px; ">
-                                                <span style="font-size:22px; font-weight:bold;">69%</span>  organisasi <b>tidak percaya  </b>  ancaman yang mereka lihat dapat diblockir oleh perangkat lunak anti virus mereka 
-                                            </div>
+                                            <img alt="serangan ransomware tumbuh lebih dari 350% setiap tahun"
+                                                src="assets/img/img-pentest/mengalami/mengalami3.png"
+                                                class="img-responsive center-block" />
                                         </div>
                                     </div>
 
@@ -522,12 +586,8 @@
                 </div>
             </div>
         </section>
-                <picture> 
-                    <source media="(max-width: 468px)" srcset="assets/img/img-pentest/typing-mobile.jpg" type="image/png">
-                    <source media="(min-width: 469px)" srcset="assets/img/img-pentest/typing.jpg" type="image/png">
-                    <img src="assets/img/img-pentest/typing.jpg"  loading="lazy"  width="100%" alt="Top Banner">
-                </picture>
-        
+
+        <img src="assets/img/img-pentest/typing.png" width="100%" alt="Typing" /><br /><br />
 
         <section class="plus-minus-bg">
             <div class="container__">
@@ -552,7 +612,7 @@
                     <div class="col-md-12">
                         <hr />
                         <div class="each-plus-minus">
-                            <div class="title-each"><img  loading="lazy"  src="assets/img/img-pentest/kelebihan.png" alt="Kelebihan" />KELEBIHAN
+                            <div class="title-each"><img src="assets/img/img-pentest/kelebihan.png" alt="Kelebihan" />KELEBIHAN
                             </div>
                             <ul>
                                 <li><span>Dapat dilakukan secara cepat dengan sedikit waktu sehingga harganya murah</span>
@@ -591,12 +651,12 @@
 
                         <div class="title">Metode apa yang digunakan Logique Digital Indonesia dalam melakukan pentest?
                         </div>
-                        <div class="text-center">Dalam melakukan pentest, Logique Digital Indonesia mempunyai 3 metode yang dapat digunakan,
-                            antara lain yaitu:</div>
+                        <center>Dalam melakukan pentest, Logique Digital Indonesia mempunyai 3 metode yang dapat digunakan,
+                            antara lain yaitu:</center>
                         <br />
                         <div class="row row-center">
                             <div class="col-sm-2">
-                                <img  loading="lazy"  alt="Black Box" src="assets/img/img-pentest/black-box.png"
+                                <img alt="Black Box" src="assets/img/img-pentest/black-box.png"
                                     class="img-responsive center-block" />
                             </div>
                             <div class="col-sm-10">
@@ -612,7 +672,7 @@
                         <hr />
                         <div class="row row-center">
                             <div class="col-sm-2">
-                                <img alt="White Box" loading="lazy"  src="assets/img/img-pentest/white-box.png"
+                                <img alt="White Box" src="assets/img/img-pentest/white-box.png"
                                     class="img-responsive center-block" />
                             </div>
                             <div class="col-sm-10">
@@ -627,7 +687,7 @@
                         <hr />
                         <div class="row row-center">
                             <div class="col-sm-2">
-                                <img  loading="lazy" alt="Grey Box" src="assets/img/img-pentest/grey-box.png"
+                                <img alt="Grey Box" src="assets/img/img-pentest/grey-box.png"
                                     class="img-responsive center-block" />
                             </div>
                             <div class="col-sm-10">
@@ -646,7 +706,6 @@
         <div class="clearfix"></div><br /><br />
 
         <section class="tahapan-title">
-        <div class="container__">
             <div class="question">
                 Apa saja tahapan-tahapan yang dilakukan <b>Logique</b> dalam melakukan penetration testing?
             </div>
@@ -654,7 +713,6 @@
                 <b>Logique Digital Indonesia </b> menggunakan standar penetration testing international sebagai acuan
                 pelaksanaan dalam melakukan pengujian, antara lain yaitu:
             </div>
-        </div>
         </section>
         <br /><br />
 
@@ -680,7 +738,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img loading="lazy"  alt="Step 2" src="assets/img/img-pentest/step2.png"
+                                <img alt="Step 2" src="assets/img/img-pentest/step2.png"
                                     class="img-responsive center-block" /><br />
                             </div>
                             <div class="col-sm-8 text-justify">
@@ -697,7 +755,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img  loading="lazy" alt="Step 3" src="assets/img/img-pentest/step3.png"
+                                <img alt="Step 3" src="assets/img/img-pentest/step3.png"
                                     class="img-responsive center-block" /><br />
                             </div>
                             <div class="col-sm-8 text-justify">
@@ -712,7 +770,7 @@
                     <div class="col-md-6">
                         <div class="row">
                             <div class="col-sm-4">
-                                <img  loading="lazy" alt="Step 4" src="assets/img/img-pentest/step4.png"
+                                <img alt="Step 4" src="assets/img/img-pentest/step4.png"
                                     class="img-responsive center-block" /><br />
                             </div>
                             <div class="col-sm-8 text-justify">
@@ -731,7 +789,7 @@
                     <div class="bg-yellow">
                         <div class="row">
                             <div class="col-sm-2">
-                                <img  loading="lazy" alt="Step 6" src="assets/img/img-pentest/report.png" class="img-responsive center-block" />
+                                <img alt="Step 6" src="assets/img/img-pentest/report.png" class="img-responsive center-block" />
                             </div>
                             <div class="col-sm-10 text-justify">
                                 <div class="title"><span>5</span> <b>Covering Tracks</b></div>
@@ -746,16 +804,8 @@
                 </div>
                 <br /><br />
 
-                
-
-            </div>
-        </section>
-        <section class="experience" style="padding-bottom:20px">
-            <div class="container__" style=" padding-bottom:0">
-                <div class="kasus-subtitle">Pengalaman Logique Digital Indonesia dalam Melakukan Penetration Testing</div>  
-             
-            <div class="div-kasus">
-                
+                <div class="kasus-subtitle">Pengalaman Logique Digital Indonesia dalam Melakukan Penetration Testing</div>
+                <div class="div-kasus">
                     Logique Digital Indonesia sudah sangat berpengalaman dalam melakukan security assessment. Kami telah
                     melakukan penetration test untuk situs web pemerintah dan sejumlah perusahaan di berbagai bidang
                     industri mulai dari fintech, e-commerce, otomotif, dan masih banyak lagi.<br /><br />
@@ -769,8 +819,10 @@
                         <li>4. Security misconfiguration</li>
                         <li>5. Broken access control, dan lain-lain.</li>
                     </ol>
-                </div>
-            </div> 
+
+                </div><br>
+
+            </div>
         </section>
 
         <section class="harga">
@@ -783,7 +835,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <img  loading="lazy" alt="10 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" />
+                        <img alt="10 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" />
                     </div>
                 </div><br />
                 <div class="row">
@@ -803,12 +855,8 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h2 class="assessment-flow-title text-center"><span class="logo-font">LOGIQUE  ASSESSMENT FLOW</span></h2>
                         <a href="#sampleReport">
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/assesment-flow.webp" type="image/webp">
-                                <img  loading="lazy" alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block">
-                            </picture>  
+                            <img alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block">
                         </a>
                     </div>
                 </div>
@@ -988,58 +1036,39 @@
             <div class="container__">
                 <div class="row sample-report">
                     <div class="col-sm-4">
-                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox" data-title="SQL Injection"> 
-                            
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/thumb-sample-report-sql.webp" type="image/webp">
-                                <img loading="lazy" src="assets/img/img-pentest/thumb-sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
-                            </picture>
+                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
                             <div class="sample-report__text text-center">SQL Injection</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="assets/img/img-pentest/sample-report-missing.jpg" data-toggle="lightbox"  data-title="Missing Authorization Mechanism">
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/thumb-sample-report-missing.webp" type="image/webp">
-                                <img  loading="lazy" src="assets/img/img-pentest/thumb-sample-report-missing.jpg" class="img-responsive" alt="Missing Authorization Mechanism">
-                            </picture> 
+                        <a href="assets/img/img-pentest/sample-report-missing.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="Missing Authorization Mechanism">
                             <div class="sample-report__text text-center">Missing Authorization Mechanism</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="assets/img/img-pentest/sample-report-bypass.jpg" data-toggle="lightbox" data-title="Bypassing Unrestricted File Upload"> 
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/thumb-sample-report-missing.webp" type="image/webp">
-                                <img  loading="lazy" src="assets/img/img-pentest/thumb-sample-report-bypass.jpg" class="img-responsive" alt="Bypassing Unrestricted File Upload">
-                            </picture> 
+                        <a href="assets/img/img-pentest/sample-report-bypass.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="Bypassing Unrestricted File Upload">
                             <div class="sample-report__text text-center">Bypassing Unrestricted File Upload</div>
                         </a>
                     </div>
                     <div class="clearfix"></div>
                     <div class="col-sm-4" >
-                        <a href="assets/img/img-pentest/sample-report-bug-finding.jpg" data-toggle="lightbox" data-title="Table Bug of Finding">
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/thumb-sample-report-bug-finding.webp" type="image/webp">
-                                <img  loading="lazy" src="assets/img/img-pentest/thumb-sample-report-bug-finding.jpg" class="img-responsive" alt="Table Bug of Finding" style="border: solid 1px">
-                            </picture> 
+                        <a href="assets/img/img-pentest/sample-report-bug-finding.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-bug-finding.jpg" class="img-responsive" alt="Table Bug of Finding" style="border: solid 1px">
                             <div class="sample-report__text text-center">Table Bug of Finding</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="assets/img/img-pentest/sample-report-local-storage.jpg" data-toggle="lightbox" data-title="Unencrypted Local Storage"> 
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/thumb-sample-report-local-storage.webp" type="image/webp">
-                                <img  loading="lazy" src="assets/img/img-pentest/thumb-sample-report-local-storage.jpg" class="img-responsive" alt="Unencrypted Local Storage">
-                            </picture> 
+                        <a href="assets/img/img-pentest/sample-report-local-storage.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-local-storage.jpg" class="img-responsive" alt="Unencrypted Local Storage">
                             <div class="sample-report__text text-center">Unencrypted Local Storage</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
-                        <a href="assets/img/img-pentest/sample-report-telnet.jpg" data-toggle="lightbox" data-title="Telnet Service Externally Available">
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/thumb-sample-report-telnet.webp" type="image/webp">
-                                <img  loading="lazy" src="assets/img/img-pentest/thumb-sample-report-telnet.jpg" class="img-responsive" alt="Telnet Service Externally Available">
-                            </picture> 
+                        <a href="assets/img/img-pentest/sample-report-telnet.jpg" data-toggle="lightbox">
+                            <img src="assets/img/img-pentest/sample-report-telnet.jpg" class="img-responsive" alt="Telnet Service Externally Available">
                             <div class="sample-report__text text-center">Telnet Service Externally Available</div>
                         </a>
                     </div>
@@ -1048,7 +1077,7 @@
         </section>
 
         <section class="gallery content-article">
-            <div class="container__">
+            <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <p class="title">White Paper Tentang Pengetesan Keamanan Website</p>
@@ -1057,11 +1086,7 @@
                 <div class="row gallery-container">
                     <div class="col-xs-12 col-sm-4 col-md-4 col-sm-offset-2 article-container">
                         <div class="img-container">
-                            <picture>
-                                <source srcset="assets/img/img-pentest/webp/gly3.webp" type="image/webp">
-                                <img loading="lazy" src="assets/img/img-pentest/gly3.jpg" class="img-responsive">
-                            </picture>
-                            
+                            <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
                             <a href="/white-paper-web-dev-3.php" target="_blank">
                                 <p class="gallery-title">Peran dan Pentingnya Pengujian Penetrasi dalam Proses Bisnis Perusahaan</p>
                                 <p class="gallery-content">Download</p>
@@ -1167,15 +1192,16 @@
                         link berikut ini <br /><br />
                         <div class="row">
                             <div class="col">
-                                <img  loading="lazy" alt="Form" src="assets/img/img-pentest/form-footer-text.png" class="img-responsive center-block" />
+                                <img alt="Form" src="assets/img/img-pentest/form-footer-text.png"
+                                    class="img-responsive center-block" />
                             </div>
                         </div>
 
                         <div class="info-contact-icon">
                             <div class="row">
                                 <div class="info-column">
-                                    <a href="/hubungi-kami.php" target="_blank">
-                                    <img  loading="lazy" alt="Form" src="assets/img/img-pentest/form-footer-icon.png" class="center-block" />
+                                    <a href="/hubungi-kami.php" target="_blank"><img alt="Form"
+                                            src="assets/img/img-pentest/form-footer-icon.png" class="center-block" />
                                     </a>
                                 </div>
                                 <div class="info-column">
@@ -1201,7 +1227,7 @@
         <div class="hidden contact-us">
             <div class="container">
                 <h2 class="contact-title">
-                    <img  loading="lazy"  src="assets/img/img-pentest/i-contact.png" alt="contact">Contact Us
+                    <img src="assets/img/img-pentest/i-contact.png" alt="contact">Contact Us
                 </h2>
                 <form action="">
                     <div class="row">
@@ -1284,7 +1310,9 @@
         </div>
     </div>
 
-    <?php include '../footer.php'; ?> 
+    <?php include '../footer.php'; ?>
+    <!-- <script src="/js/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script> -->
     <script src="assets/js/jquery.matchHeight.js"></script>
     <script src="assets/js/wow.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
