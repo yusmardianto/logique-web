@@ -97,31 +97,49 @@
     <link rel="stylesheet" href="/fonts/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css">
   </noscript>
-
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>
 </head>
 
 <body class="frontpage">
+	<?php 
+		if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+			echo '<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<!-- End Google Tag Manager (noscript) -->';
+		}
+	?>
   <style>
-  .bg--white {
-    position: relative;
-  }
-
-  section.visible-xs.visible-sm.--top {
-    position: relative;
-    z-index: 5;
-  }
-
-  @media (max-width: 768px) and (min-width: 415px) {
-    .custombox__product-wrapper {
-      margin-bottom: 2em;
+    .bg--white {
+      position: relative;
     }
-  }
 
-  @media (max-width: 768px) {
-    .col-sm-8 .custombox__btn-product {
-      font-size: 11px;
+    section.visible-xs.visible-sm.--top {
+      position: relative;
+      z-index: 5;
     }
-  }
+
+    @media (max-width: 768px) and (min-width: 415px) {
+      .custombox__product-wrapper {
+        margin-bottom: 2em;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .col-sm-8 .custombox__btn-product {
+        font-size: 11px;
+      }
+    }
   </style>
   <?//php include './popup.php'; ?>
   <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">

@@ -82,43 +82,66 @@ if(isset($_POST['submitted']))
 	twq('track','PageView');
 	</script>
      <!-- End Twitter universal website tag code -->
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+
  </head>
 
  <body class="wrapper wrapper--update-design">
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
+        }
+    ?>
+
      <style>
-     body {
-         padding-left: 0;
-     }
+        body {
+            padding-left: 0;
+        }
 
-     .container__ {
-         padding-top: 0;
-         padding-bottom: 0;
-     }
+        .container__ {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
 
-     .breadcrumb__wrapper {
-         text-align: left;
-     }
+        .breadcrumb__wrapper {
+            text-align: left;
+        }
 
-     .breadcrumb--update-design {
-         margin-top: 0;
-         margin-bottom: 2em;
-         padding: 0;
-         padding-left: 15px;
-     }
+        .breadcrumb--update-design {
+            margin-top: 0;
+            margin-bottom: 2em;
+            padding: 0;
+            padding-left: 15px;
+        }
 
-     .breadcrumb--update-design li.active a {
-         color: #f5f5f5;
-     }
+        .breadcrumb--update-design li.active a {
+            color: #f5f5f5;
+        }
 
-     .content-wrapper__ .--top {
-         margin-top: 0;
-     }
+        .content-wrapper__ .--top {
+            margin-top: 0;
+        }
 
-     @media only screen and (max-width: 414.98px) {
-         .content-wrapper__ .--top {
-             margin-top: 2.3em !important;
-         }
-     }
+        @media only screen and (max-width: 414.98px) {
+            .content-wrapper__ .--top {
+                margin-top: 2.3em !important;
+            }
+        }
      </style>
      <div class="nav-lp">
          <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -186,7 +209,7 @@ if(isset($_POST['submitted']))
 
      <!-- HEADER -->
      <div class="container-fluid">
-         <div class="row lang-logo--update-design">
+         <div class="lang-logo--update-design">
              <div class="container">
                  <div class="row">
                      <div class="col-sm-offset-1 col-sm-11">
