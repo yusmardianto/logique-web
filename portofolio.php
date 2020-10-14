@@ -35,8 +35,12 @@
             })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
             <!-- End Google Tag Manager -->";
         }
+<<<<<<< HEAD
     ?>
 
+=======
+    ?>       
+>>>>>>> 6722ceb8efb44d56b0f8920eb036e20d84aab3d8
 </head>
 
 <body style="overflow-x: hidden">
@@ -139,9 +143,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> 
             </div> 
         </div>  
+ 
 
         <div class="portfolio-update content-wrapper__">
 
