@@ -1,39 +1,4 @@
-﻿ <?php
- require_once("assets/form/fgcontact_systemdev.php");
- 
- $formproc = new FGContactForm();
- 
- //1. Add your email address here.
- //You can add more than one receipients.
- $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
- 
- //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
- // and put it here
- $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
- 
- //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
-  
- if(isset($_POST['submitted']))
- {
-	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
-		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-		// print_r($verifyResponse); exit;
-		$responseData = json_decode($verifyResponse);
-		if ($responseData->success) {
-			if ($formproc->ProcessForm()) {
-				$msg = "<div class='alert alert-success' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-			}
-		} else {
-			$msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-		}
-	} else {
-		$msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-	}
-}
-?> 
- <!DOCTYPE html>
+﻿ <!DOCTYPE html>
  <html lang="id">
 
  <head>
@@ -58,48 +23,13 @@
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php" />  
 
     <title>Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta</title>
- 
+     
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
-     <link href="/css/style.css" rel="stylesheet">
-     <link href="assets/css/style-systemdev.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
-     <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
-     <script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-		
-		ga('create', 'UA-105878648-1', 'auto');
-		ga('send', 'pageview');
-		
-	</script>
- </head>
-
- <script type="text/javascript">
-  function parseJSAtOnload() {
-  var links = [
-      'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js',
-        'https://www.logique.co.id/js/bootstrap.min.js',
-        'https://use.fontawesome.com/df558bb4a1.js',
-        'https://www.logique.co.id/layanan/pembuatan-sistem-web.php',
-  ],
-  headElement = document.getElementsByTagName("head")[0],
-  linkElement, i;
-  for (i = 0; i < links.length; i++) {
-  linkElement = document.createElement("script");
-  linkElement.src = links[i];
-  headElement.appendChild(linkElement);
-  }
-  }
-  if (window.addEventListener)
-  window.addEventListener("load", parseJSAtOnload, false);
-  else if (window.attachEvent)
-  window.attachEvent("onload", parseJSAtOnload);
-  else window.onload = parseJSAtOnload;
-</script>  
-
+     <link rel="stylesheet" href="/css/sidebar-update.css" >
+     <link href="assets/css/style-systemdev.css" rel="stylesheet"> 
+ 
+ </head> 
  <body class="systedev-page">
  
      <div class="wrapper">
@@ -167,16 +97,15 @@
                  </div>
              </div>
          </div>
-         <!-- NAVIGATION -->
-
+         <!-- NAVIGATION --> 
          <!-- HEADER -->
          <div class="container-fluid">
-             <div class="row lang-logo--update-design">
-                 <div class="container">
+             <div class="  lang-logo--update-design">
+                 <div class="container__">
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
                               
-                                 <a href="/index.php"><img src="/img/logo.png"
+                                 <a href="/index.php"><img loading="lazy" src="/img/logo.png"
                                          alt="Jasa Pembuatan Website Logique Digital Indonesia"
                                          class="img-responsive logo--update-design" /></a>
                                  <ul class="list-inline">
@@ -206,13 +135,13 @@
 Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga! </p>
 
                      </h3>
-                     <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                     <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                  </div>
              </div>
          </div>
      </header>
      <div class="breadcrumb-container">
-            <div class="container">
+            <div class="container__">
                 <div class="row">
                     <div class="col-sm-12">
                         <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -236,7 +165,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
         </div>
      
     <section class="content-section first-part">
-        <div class="container">
+        <div class="container__">
             <div class="section-desc">
                 <div class="row">
                     <div class="ol-md-12 text-center"> 
@@ -262,8 +191,8 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             </div>
                             <div class="col-sm-6 text-center">
                                 <picture>
-                                    <source srcset="assets/img/img-systemdev/newlayout/laptop.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
+                                    <source  srcset="assets/img/img-systemdev/newlayout/laptop.webp" type="image/webp">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/laptop.jpg">
                                 </picture>
                             </div>
                          </div>
@@ -278,7 +207,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="col-sm-6 text-center">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/laptop-secure.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
                                 </picture>
                             </div>
                          </div>
@@ -291,7 +220,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="col-sm-6 text-center">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/laptop-experienced.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
                                 </picture>
                             </div>
                          </div>
@@ -305,7 +234,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="col-sm-6 text-center">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/laptop-infra.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
                                 </picture>
                             </div>
                          </div>
@@ -327,7 +256,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="skema-img">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/skemaproyek.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/skemaproyek.png">
                                 </picture>
                             </div>
                         </div>
@@ -337,7 +266,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="skema-img">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/skemaresources.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/skemaresources.png">
                                 </picture>
                             </div>
                         </div>
@@ -359,7 +288,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                              <div class="skema-img">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/skemapengembangan.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
                                 </picture>
                             </div>
                         </div>
@@ -369,7 +298,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="skema-img">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/skemaoutsource.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
                                 </picture>
                             </div>
                         </div> 
@@ -386,7 +315,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
         </div>
     </section>
     <section class="content-section second-part whyus-section">
-        <div class="container">
+        <div class="container__">
             <div class="sec-content-part">
                 <h2 class="text-center sub-section-title">Mengapa harus memilih <span class="logofont">LOGIQUE</span> ?</h2>
                 <div class="page-content whyus-accordion">
@@ -434,27 +363,27 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
         </div>
     </section>
     <section class="content-section third-part">
-        <div class="container">
+        <div class="container__">
              <div class="sec-content-part unsupport-service">
                 <h2 class="sub-section-title text-center">Layanan yang belum kami dukung untuk saat ini</h2>
                 <div class="page-content">
                     <div class="row rowflex">
-                        <div class="col-sm-6">
+                        <div class="col-lg-6">
                             <div class="unsupport1 unsupport-content">
                                 <h3><div>Implementasi Paket Software</div></h3>
                                 <div class="unsupport-icon  text-center">
-                                     <img src="assets/img/img-systemdev/newlayout/unsupport-1.svg">
+                                     <img loading="lazy" src="assets/img/img-systemdev/newlayout/unsupport-1.svg">
                                 </div>
                                 <div  class="unsupport-info">
                                     Kami mengutamakan pengembangan sistem berbasis web dari awal yang optimal sesuai dengan tujuan dan kebutuhan bisnis Anda. Dengan menggunakan layanan kami yang berbasis open source framework, Anda akan mendapatkan sistem berbasis web dalam waktu yang singkat tanpa harus menggunakan paket software yang mahal seperti SAP, Microsoft Dynamics, dan SalesForce.
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-lg-6">
                             <div class="unsupport2 unsupport-content">
                                 <h3>Hanya mengembangkan bagian spesifik dari proyek berskala besar</h3>
                                 <div class="unsupport-icon text-center">
-                                     <img src="assets/img/img-systemdev/newlayout/unsupport-2.svg">
+                                     <img loading="lazy" src="assets/img/img-systemdev/newlayout/unsupport-2.svg">
                                 </div>
                                 <div class="unsupport-info">
                                     Kami memiliki kemampuan dalam manajemen proyek, pemeliharaan, dan perbaikan sistem. Oleh karenanya, sulit bagi kami jika hanya harus fokus untuk mengembangkan bagian tertentu dalam suatu proyek. Pada proyek berskala besar, biasanya lokasi untuk pengembangan sistem juga sudah ditentukan sehingga bertentangan dengan cara kerja kami yang mengutamakan efisiensi waktu dan tempat.
@@ -472,7 +401,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <h2 class="sub-section-title text-center">Studi Kasus</h2>
                 <div class="page-content">
                     <div class="row rowflex nogutter">
-                        <div class="col-sm-6 ">
+                        <div class="col-lg-6 ">
                             <div class="img-slide-content">
                             <div class="sliderimg-studycase">
                                 <div class="slider-item" style="background-image: url(assets/img/img-systemdev/newlayout/jba-img.jpg);">
@@ -513,7 +442,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             </div>
                             </div> 
                         </div>
-                        <div class="col-sm-6  ">
+                        <div class="col-lg-6  ">
                             <div class="studycase-content text-slide-content">
                                 <div class="slidertext-studycase">
                                     <div class="slider2-item">
@@ -536,14 +465,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <div class="page-content">
                     <div class="success-service-list">
                         <div class="row rowflex col10">
-                            <div class="col-sm-3">
+                            <div class="col-md-3 col-sm-6">
                                 <div class="modal fade modal-achivement" id="achievementmodal1" tabindex="-1" role="dialog" aria-labelledby="achievementLabel1" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel1">Manajemen Poin Bermanfaat & Pengembangan <br>Sistem E-Commerce.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -559,7 +488,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem1.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem1.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Manajemen Poin & Pengembangan Sistem <br>E-Commerce.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
@@ -567,14 +496,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" class="more-icon" data-toggle="modal" data-target="#achievementmodal1">  Detail </a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-md-3 col-sm-6">
                                 <div class="modal fade modal-achivement" id="achievementmodal2" tabindex="-1" role="dialog" aria-labelledby="achievementLabel2" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel2">Pengembangan <br>E-Commerce untuk Perusahaan MLM.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -588,7 +517,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan <br>E-Commerce untuk Perusahaan MLM.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework</p>
@@ -596,14 +525,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal2" class="more-icon">  Detail </a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-md-3 col-sm-6">
                                 <div class="modal fade modal-achivement" id="achievementmodal3" tabindex="-1" role="dialog" aria-labelledby="achievementLabel3" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel3">Sistem Pengembangan Manajemen <br>Lelang Kendaraan.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -618,7 +547,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem Pengembangan Manajemen Lelang Kendaraan.</h3>
                                         <p>6 bulan, AWS, Linux, MySQL, PHP Framework, Node.js</p>
@@ -626,14 +555,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal3" class="more-icon"> Detail </a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-md-3 col-sm-6">
                                 <div class="modal fade modal-achivement" id="achievementmodal4" tabindex="-1" role="dialog" aria-labelledby="achievementLabel4" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel4">Pengembangan Aplikasi <br>(Penawaran Lelang / Bidding di Android).</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -647,7 +576,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem4.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem4.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Aplikasi  (Penawaran Lelang / Bidding di Android).</h3>
                                         <p>4 bulan, Android, node.js, JAVA, AWS</p>
@@ -657,14 +586,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             </div>
                         </div>
                         <div class="row rowflex col10">
-                            <div class="col-sm-3">
+                            <div class="col-md-3 col-sm-6">
                                  <div class="modal fade modal-achivement" id="achievementmodal5" tabindex="-1" role="dialog" aria-labelledby="achievementLabel5" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel5">Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -680,7 +609,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem5.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem5.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</h3>
                                         <p>4 bulan, Android, node.js, JAVA, AWS</p>
@@ -688,14 +617,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal5"  class="more-icon"> Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-md-3 col-sm-6">
                                 <div class="modal fade modal-achivement" id="achievementmodal6" tabindex="-1" role="dialog" aria-labelledby="achievementLabel6" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel6">Sistem CRM untuk Jasa Jalan Kendaraan Bermotor.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -710,7 +639,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem2.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem CRM untuk Jasa Jalan Kendaraan Bermotor.</h3>
                                         <p>3 bulan, PHP Framework, Payment Gateway, AWS</p>
@@ -718,14 +647,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a  href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal6"  class="more-icon">  Detail </a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 ">
+                            <div class="col-md-3 col-sm-6">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Sistem CRM untuk Pembeli Lelang.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -739,51 +668,22 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem CRM untuk Pembeli Lelang.</h3>
                                         <p>2 bulan, PHP Framework, MySQL, AWS</p>
                                     </div>
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
-                            </div>
-                            <!-- <div class="col-sm-3 more">
-                                <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
-                                  <div class="modal-dialog" role="document">
-                                    <div class="modal-content">
-                                      <div class="modal-header">
-                                        <h4 class="modal-title text-center" id="achievementLabel7">Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</h4>
-                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
-                                        </button>
-                                      </div>
-                                      <div class="subheader">
-                                          2.5 bulan, JQuery, HTML5, PHP Framework, MySQL
-                                      </div>
-                                      <div class="modal-body">
-                                        <p>Merupakan sistem layout management berbasis web yang digunakan untuk mengatur tata letak kolom iklan untuk media cetak dari publisher terkemuka asal Jepang. Dengan dukungan desain UI/UX yang baik, aplikasi web ini sangat mudah digunakan (user-friendly). Dengan fitur drag-and-drop, user dapat mengatur tata letak iklan sesuai keinginan. Sistem ini juga memiliki fitur export dan import pengaturan tata letak dalam bentuk file csv. Sistem ini dikembangkan dengan teknologi PHP dengan framework pilihan, JQuery, serta HTML5-CSS3. Proses pengembagan aplikasi web ini membutuhkan waktu 3 bulan.</p>
-                                      </div>
-                                       
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
-                                    <div class="scitem-content">
-                                        <h3>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah</h3>
-                                        <p>2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
-                                    </div>
-                                    <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
-                                </div>
-                            </div> -->
-                            <div class="col-sm-3 more">
+                            </div> 
+                            <div class="col-md-3 col-sm-6 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -798,7 +698,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</h3>
                                         <p>2.5 bulan, JQuery, HTML5, PHP Framework, MySQL</p>
@@ -806,14 +706,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <div class="col-md-3 col-sm-6 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Peta Digital.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -827,7 +727,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Sistem Peta Digital.</h3>
                                         <p>3 bulan, PHP Framework, MySQL, Google map API, Java Script</p>
@@ -836,14 +736,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 </div>
                             </div>
                             
-                            <div class="col-sm-3 more">
+                            <div class="col-md-3 col-sm-6 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Lelang C2C.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -857,7 +757,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>  
                                 <div class="success-item scitem1 ">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Sistem Lelang C2C.</h3>
                                         <p>2 bulan, PHP Framework, MySQL, JQuery/Ajax, HTML5/CSS3 </p>
@@ -865,14 +765,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <div class="col-md-3 col-sm-6 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan Sistem Web CMS Untuk Organisasi Publik.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -886,7 +786,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</h3>
                                         <p>2 bulan, PHP Framework, MySQL</p>
@@ -894,14 +794,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <div class="col-md-3 col-sm-6 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Pengembangan web CMS untuk e-book commerce.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -915,7 +815,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Pengembangan web CMS untuk e-book commerce.</h3>
                                         <p>2 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
@@ -923,14 +823,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <div class="col-md-3 col-sm-6 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Sistem Portal Lowongan Pekerjaan.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -944,7 +844,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem Portal Lowongan Pekerjaan.</h3>
                                         <p>2 bulan, PHP Framework, MySQL</p>
@@ -952,14 +852,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <div class="col-md-3 col-sm-6 more">
                                 <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Web Dengan Sistem Rekrutmen</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -973,7 +873,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div>
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Web Dengan Sistem Rekrutmen</h3>
                                         <p>3 bulan, PHP Framework, HTML5/CSS3,MySQL</p>
@@ -981,14 +881,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <a href="javascript:void(0)" data-toggle="modal" data-target="#achievementmodal7" class="more-icon">Detail</a>
                                 </div>
                             </div>
-                            <div class="col-sm-3 more">
+                            <div class="col-md-3 col-sm-6 more">
                                 <!-- <div class="modal fade modal-achivement" id="achievementmodal7" tabindex="-1" role="dialog" aria-labelledby="achievementLabel7" aria-hidden="true">
                                   <div class="modal-dialog" role="document">
                                     <div class="modal-content">
                                       <div class="modal-header">
                                         <h4 class="modal-title text-center" id="achievementLabel7">Sistem Management Kendaraan untuk perusahaan sewa mobil.</h4>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                          <img src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
+                                          <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-close.svg"> 
                                         </button>
                                       </div>
                                       <div class="subheader">
@@ -1002,7 +902,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                   </div>
                                 </div> -->
                                 <div class="success-item scitem1">
-                                    <div class="icon-container"><img src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
+                                    <div class="icon-container"><img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-scitem3.svg"></div>
                                     <div class="scitem-content">
                                         <h3>Sistem Management Kendaraan untuk perusahaan sewa mobil.</h3>
                                         <p>6 Months, AWS, Linux, MySQL, SAP Connection, PHP Framework</p>
@@ -1011,21 +911,21 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 </div>
                             </div>
                             
-                            <div class="col-sm-3 showmore">
+                            <div class="col-md-3 col-sm-6 showmore">
                                 <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
                                     <div class="center-btn" style=""> 
-                                        <span class="other-success-item">  <img src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        <span class="other-success-item">  <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
                                         <span class="btntext">Lihat lebih banyak</span>
                                     </div>    
                                 </div>
                                 </a>
                             </div>
-                            <div class="col-sm-3 showless" style="display: none;">
+                            <div class="col-md-3 col-sm-6 showless" style="display: none;">
                                 <a href="javascript:void(0)" class="">
                                 <div class="success-item sc-seeall text-center"> 
                                     <div class="center-btn" style=""> 
-                                        <span class="other-success-item">  <img src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
+                                        <span class="other-success-item">  <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-forward-yellow.svg"> </span><br>
                                         <span class="btntext">Lihat lebih sedikit</span>
                                     </div>    
                                 </div>
@@ -1039,68 +939,43 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
         </div>
     </section>
     <section class="content-section fourth-part">
+        <div class="container__">
          <div class="sec-content-part testimonial">
             <h2 class="sub-section-title text-center">Testimoni dari Klien</h2>
             <div class="page-content">
                 <div class="testimonial-slider">
                     <div class="testislider-item">
-                        <div class="client-container">
-                           <!--  <ul class="clientinfo">
-                                <li class="client-photo">
-                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
-                                </li>
-                                <li class="client-desc">
-                                    <span class="client-name">Axel, 27</span>
-                                    <span class="client-title">Project Manager</span>
-                                </li>
-                            </ul> -->
+                        <div class="client-container"> 
                             <div class="client-testimoni">
                                 Sebagai kepala departemen IT, saya telah terlibat dalam berbagai proyek pengembangan sistem. Namun sejauh ini saya belum pernah menemukan perusahaan pengembangan yang fleksibel dan dinamis seperti <span class="logofont">LOGIQUE</span> yang mampu menyesuaikan dengan kebutuhan User yang sering berubah tanpa mengabaikan kualitas yang diberikan. Saya juga pernah meminta layanan maintenance kepada <span class="logofont">LOGIQUE</span>, dan saya sangat berterimakasih atas update informasi yang dilakukan secara rutin dan tepat waktu.   
                             </div>
-                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                     <div class="testislider-item">
-                         <div class="client-container">
-                            <!-- <ul class="clientinfo">
-                                <li class="client-photo">
-                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
-                                </li>
-                                <li class="client-desc">
-                                    <span class="client-name">Axel, 27</span>
-                                    <span class="client-title">Project Manager</span>
-                                </li>
-                            </ul> -->
+                         <div class="client-container"> 
                             <div class="client-testimoni">
                                 Karena banyaknya masalah yang terjadi, saya memutuskan untuk membatalkan kontrak dengan perusahaan pengembangan sebelumnya dan memilih <span class="logofont">LOGIQUE</span> untuk melakukan pengembangan lanjutan dan mengelola sistem kami. Saya sangat senang karena <span class="logofont">LOGIQUE</span> berhasil melanjutkan pengembangan sistem berbasis web tersebut dengan fleksibel dan efektif meskipun tanpa dokumentasi dan informasi yang memadai. Pihak kami hanya menunjukkan beberapa masalah yang sebenarnya tidak terlalu kami mengerti, namun <span class="logofont">LOGIQUE</span> justru dapat memahami masalah yang terjadi dan memberikan solusi terbaik untuk pengembangan sistem kami.
                             </div>
-                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                     <div class="testislider-item">
-                         <div class="client-container">
-                            <!-- <ul class="clientinfo">
-                                <li class="client-photo">
-                                    <img src="assets/img/img-systemdev/newlayout/sample-clinetphoto.png">
-                                </li>
-                                <li class="client-desc">
-                                    <span class="client-name">Axel, 27</span>
-                                    <span class="client-title">Project Manager</span>
-                                </li>
-                            </ul> -->
+                         <div class="client-container"> 
                             <div class="client-testimoni">
                                 Kami melakukan pengembangan sistem berbasis web dengan tarif tetap perbulan yang memungkinkan proses pengerjaan hanya dilakukan pada hari-hari tertentu. Saya sangat senang dengan tipe pengembangan seperti ini karena sistem yang dikerjakan dapat selesai dengan baik namun tetap hemat biaya. Untuk proyek selanjutnya, mungkin kami akan meminta pengembangan dengan skema berbasis resource yang dinamis
                             </div>
-                            <a href="#" class="more-icon">  <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
+                            <a href="#" class="more-icon">  <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"> </a>
                         </div>
                     </div>
                 </div>
 
             </div>
         </div>   
+        </div>
     </section>
     <section class="content-section fifth-part">
-        <div class="container">
+        <div class="container__">
             <div class="sec-content-part important-point">
                 <h2 class="sub-section-title text-center">Poin penting untuk pengembangan sistem web yang berhasil!</h2>
                 <div class="page-content importantpoint-list">
@@ -1109,7 +984,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="importantpoint-item text-center">
                                 <h3>Pengalaman</h3>
                                 <div class="icon-container">
-                                    <img src="assets/img/img-systemdev/newlayout/icon-point1.svg">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-point1.svg">
                                 </div>
                                 <div class="point-desc">
                                     <span class="logofont">LOGIQUE</span> memiliki banyak pengalaman dalam pengembangan sistem berbasis web. Kami akan memanfaatkan pengalaman tersebut untuk setiap proses pengembangan, mulai dari analisa kebutuhan klien, memformulasikan solusi, membuat rancangan sistem dan infrastruktur, pengembangan fungsionalitas sistem, deployment , sampai ke pelatihan untuk user.
@@ -1120,7 +995,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="importantpoint-item text-center">
                                 <h3>Kecepatan / fleksibilitas</h3>
                                 <div class="icon-container">
-                                    <img src="assets/img/img-systemdev/newlayout/icon-point2.svg">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-point2.svg">
                                 </div>
                                 <div class="point-desc">
                                     Persaingan bisnis bergerak semakin cepat setiap harinya. Jika pengembangan sistem berbasis web membutuhkan waktu lebih dari 6 bulan, maka Anda akan kesulitan untuk mengikuti perkembangan bisnis yang sedang terjadi. Di <span class="logofont">LOGIQUE</span>, kecepatan adalah hal terpenting. Dengan metode agile development, maka kami dapat merespon dengan cepat dan fleksibel terhadap setiap perubahan.
@@ -1131,7 +1006,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <div class="importantpoint-item text-center">
                                 <h3>Kualitas / keamanan</h3>
                                 <div class="icon-container">
-                                    <img src="assets/img/img-systemdev/newlayout/icon-point3.svg">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/icon-point3.svg">
                                 </div>
                                 <div class="point-desc">
                                     Kualitas harus tetap diutamakan. Dengan melakukan pengembangan sesuai standar internasional baik dalam hal kualitas dan keamanan yang telah teruji, kami akan selalu meminimalisir kesalahan dan mengoptimalkan pemeliharan sistem.
@@ -1149,14 +1024,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                 <ul>
                     <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem berbasis web yang optimal!<li>
                     <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                     </li>
                 </ul>
             </div>
         </div>
     </section>
     <section class="content-section seventh-part">
-        <div class="container">
+        <div class="container__">
             <div class="sec-content-part usedtechnology">
                 <h2 class="sub-section-title text-center">Bahasa pemrograman yang kami gunakan</h2>
                 <div class="page-content ">
@@ -1169,7 +1044,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <div class="icon-container">
                                     <picture>
                                         <source srcset="assets/img/img-systemdev/newlayout/laravel.webp" type="image/webp">
-                                        <img src="assets/img/img-systemdev/newlayout/laravel.png">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/laravel.png">
                                     </picture>
                                     </div>
                                     Laravel
@@ -1178,7 +1053,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <div class="icon-container">
                                     <picture>
                                         <source srcset="assets/img/img-systemdev/newlayout/symphony.webp" type="image/webp">
-                                        <img src="assets/img/img-systemdev/newlayout/symphony.png">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/symphony.png">
                                     </picture>
                                     </div>
                                     Symphony
@@ -1187,7 +1062,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                     <div class="icon-container">
                                     <picture>
                                         <source srcset="assets/img/img-systemdev/newlayout/cakephp.webp" type="image/webp">
-                                        <img src="assets/img/img-systemdev/newlayout/cakephp.png">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/cakephp.png">
                                     </picture>
                                     </div>
                                     CakePHP
@@ -1199,7 +1074,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
             </div>
         </div> 
         <div class="whyphp">
-            <div class="container">
+            <div class="container__">
                 <div class="sec-content-part "> 
                      
                     <div class="page-content  text-center">
@@ -1210,16 +1085,16 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                Menurut laporan <br>
                                <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/w3tech.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/w3tech.png">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/w3tech.png">
                                 </picture>
                             </li>
                             <li>
-                                <img src="assets/img/img-systemdev/newlayout/arrow-right.svg">
+                                <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg">
                             </li>
                             <li>
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/percentage.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/percentage.png"><br>
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/percentage.png"><br>
                                 </picture>
                                 website didunia
                             </li>
@@ -1228,7 +1103,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                         <div class="img-contianer">
                             <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/phplogo.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/phplogo.png">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/phplogo.png">
                                 </picture>
                         </div>
                     </div>
@@ -1237,13 +1112,17 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
             </div>
         </div>
         <div class="othertech">
-            <div class="container">
+            <div class="container__">
                 <div class="sec-content-part ">
                  
                 <div class="page-content text-center"> 
                     Meskipun beberapa orang beranggapan bahwa PHP sudah tua, namun bahasa pemrograman ini <b>masih menjadi pilihan utama</b> untuk mengembangkan sistem berbasis web karena kompatibilitasnya dengan banyak website serta ketersediaan operasional.
                     <div class="img-container">
-                        <img src="assets/img/img-systemdev/newlayout/web-img.svg">
+                         
+                        <picture>
+                            <source srcset="assets/img/img-systemdev/newlayout/web-img.webp" type="image/webp">
+                            <img loading="lazy" src="assets/img/img-systemdev/newlayout/web-img.png">
+                        </picture>
                     </div>
                     <p> Selain itu, saat ini banyak CMS seperti Wordpress juga berjalan menggunakan bahasa pemrograman PHP.</p>
                     <div class="jsfw-container">
@@ -1253,7 +1132,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                                 <div class=" col-md-3  col-sm-4 text-center">
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/logo-js.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/logo-js.png">
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/logo-js.png">
                                 </picture>
                                     <br> 
                                     JavaScript
@@ -1270,14 +1149,14 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <li>
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/logo-react.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/logo-react.png"> 
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/logo-react.png"> 
                                 </picture>
                                 <br> React
                             </li>
                             <li>
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/logo-angular.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/logo-angular.png"> 
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/logo-angular.png"> 
                                 </picture>
                                 <br> 
                                 Angular
@@ -1285,7 +1164,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             <li>
                                 <picture>
                                     <source srcset="assets/img/img-systemdev/newlayout/logo-vue.webp" type="image/webp">
-                                    <img src="assets/img/img-systemdev/newlayout/logo-vue.png"> 
+                                    <img loading="lazy" src="assets/img/img-systemdev/newlayout/logo-vue.png"> 
                                 </picture>
                                 <br> 
                                 Vue.js
@@ -1299,117 +1178,18 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
             </div>
         </div>
     </section>
-    <div class="content-wrapper__">
-    <?php include './assets/components/dm-links.php' ?>
-        <?php include './assets/components/other-services.php' ?>
-    </div>
-<!--         <section class="content-section sixth-part">
-        <div class="sec-content-part contact-banner">
-            <div class="page-content">
-                <ul>
-                    <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem yang optimal!<li>
-                    <li>
-                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </section>
-    <section class="content-section eighth-part">
-        <div class="container">
-            <div class="sec-content-part  "> 
-                <div class="page-content otherinfo-list">
-                    <div class="row rowflex col10">
-                        <div class="col-sm-4">
-                            <div class="otherinfo-item  ">
-                                <a href="/logique.php">
-                                <img src="assets/img/img-systemdev/newlayout/img-about.jpg">
-                                <div class="otherinfo-desc">
-                                    <h3>About  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
-                                    <p><span class="logofont">LOGIQUE Digital Indonesia</span> adalah konsultan IT dan perusahaan pengembang sistem terkemuka Jakarta. </p>
-                                </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-4">
-                             <div class="otherinfo-item  ">
-                                <a href="/portofolio.php">
-                                <img src="assets/img/img-systemdev/newlayout/img-ourwork.jpg">
-                                <div class="otherinfo-desc">
-                                    <h3>Our Work  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
-                                    <p><span class="logofont">LOGIQUE</span> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan  </p>
-                                </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-4">
-                             <div class="otherinfo-item  ">
-                                <a href="#">
-                                <img src="assets/img/img-systemdev/newlayout/img-faq.jpg">
-                                <div class="otherinfo-desc">
-                                    <h3>FAQ  <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></h3>
-                                    <p>A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes. </p>
-                                </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="sec-content-part"> 
-                 <h2 class="sub-section-title text-center">Other services</h2>
-                <div class="page-content otherservice-list">
-                    <div class="row col10">
-                        <div class="col-sm-3">
-                            <a href="/layanan/web-dev.php">
-                                <img src="assets/img/img-systemdev/newlayout/img-febe.jpg">
-                                <h3 class="text-center">Pengembangan / Pembaharuan Website</h3>
-                                <p>
-                                    Work remotely in the Cloud - anytime and on any device - without the hassle 
-                                </p>
-                            </a>
-                        </div>
-                        <div class="col-sm-3">
-                             <a href="/layanan.php#dm_">
-                               <img src="assets/img/img-systemdev/newlayout/img-webdis.jpg">
-                                <h3 class="text-center">Digital Marketing</h3>
-                                <p>
-                                    Kami akan melakukan pemasaan website anda melalui berbagai platform marketing
-                                </p>
-                            </a>
-                        </div>
-                        <div class="col-sm-3">
-                            <a href="/layanan.php#otherService_itConsultant">
-                                <img src="assets/img/img-systemdev/newlayout/img-consultant.jpg">
-                                <h3 class="text-center">Consultant</h3>
-                                <p>
-                                   Kami dapat menyediakan berbagai layanan konsultasi melalui "Indonesia x IT" 
-                                </p>
-                            </a>
-                        </div>
-                        <div class="col-sm-3">
-                            <a href="/layanan/pembuatan-aplikasi-mobile.php">
-                                <img src="assets/img/img-systemdev/newlayout/img-mobileapp.jpg">
-                                <h3 class="text-center">Mobile Apps</h3>
-                                <p>
-                                    Kami menyediakan jasa pengembangan aplikasi Android/iOS secara komprehensif
-                                </p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
-        </div>
-    </section>
-     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+        <div class="content-wrapper__">
+            <?php include './assets/components/dm-links.php' ?>
+            <?php include './assets/components/other-services.php' ?>
+        </div> 
+    </div>  
      <?php include '../footer.php'; ?>
-
-     <section class="tahap-pemesanan-2 text-center hidden-md hidden-lg" style="padding: 2em">Copyright 2018 <span class="logofont">Logique</span></section>
-     <style type="text/css">.more{display: none;}</style>
-     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
-     <script src="/js/bootstrap.min.js"></script>
+     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
+     <script    src="/js/bootstrap.min.js"></script>
+    <script  async src="/js/slick.min.js"></script>
+     
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-     <script src='https://www.google.com/recaptcha/api.js'></script>
+  
      <script type="text/javascript">
      $(function() {
          $('.smooth').click(function() {
@@ -1428,91 +1208,24 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
          $('a[data-toggle="collapse"]').on('click', function () {   
             $('a[data-toggle="collapse"]').removeClass('actives');
             $(this).addClass('actives');
-         });
+         }); 
 
+     $('.min-h').matchHeight({  byRow: false  });  $('.unsupport-content h3').matchHeight({  byRow: false }); $(' scitem-content h3').matchHeight({  byRow: false });
+    $('.slidertext-studycase').slick({ slidesToShow: 1, slidesToScroll: 1, arrows: false, fade: true, adaptiveHeight : true, asNavFor: '.sliderimg-studycase'});
+    $('.sliderimg-studycase').slick({ slidesToShow: 1, slidesToScroll: 1, asNavFor: '.slidertext-studycase', dots: true,  nextArrow :'<button type="button" class="slick-next"><img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' , prevArrow : '<button type="button" class="slick-prev"><img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>'});
 
-     $('.min-h').matchHeight({
-         byRow: false
-     });
-      $('.unsupport-content h3, .scitem-content h3').matchHeight({
-         byRow: false
-     });
-
-     $('.slidertext-studycase').slick({
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      arrows: false,
-      fade: true,
-      adaptiveHeight : true,
-      asNavFor: '.sliderimg-studycase'
+$('.testimonial-slider').slick({
+        slidesToShow: 1, slidesToScroll: 1,  dots: false, arrows:true, centerMode: true, focusOnSelect: true, variableWidth: true,   autoplay: true, autoplaySpeed: 2000,
+        nextArrow :'<button type="button" class="slick-next"><img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' ,
+        prevArrow : '<button type="button" class="slick-prev"><img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>',
+        responsive: [
+        { breakpoint: 1024, settings: {  slidesToShow: 1, slidesToScroll: 1, infinite: true, dots: true } },
+        { breakpoint: 600, settings: { slidesToShow: 1,  slidesToScroll: 1 } },
+        { breakpoint: 480,  settings: {  slidesToShow: 1, slidesToScroll: 1, variableWidth: false,  centerMode: false, focusOnSelect:false} } 
+    ]
     });
-    $('.sliderimg-studycase').slick({
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      asNavFor: '.slidertext-studycase',
-      dots: true, 
-      nextArrow :'<button type="button" class="slick-next"><img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' ,
-      prevArrow : '<button type="button" class="slick-prev"><img src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>'
-    });
-
-    $('.testimonial-slider').slick({
-          slidesToShow: 1,
-          slidesToScroll: 1, 
-          dots: false,
-          arrows:true,
-          centerMode: true,
-          focusOnSelect: true,
-          variableWidth: true, 
-          autoplay: true,
-          autoplaySpeed: 2000,
-          nextArrow :'<button type="button" class="slick-next"><img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></button>' ,
-         prevArrow : '<button type="button" class="slick-prev"><img src="assets/img/img-systemdev/newlayout/arrow-left.svg"></button>',
-          responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 3,
-            slidesToScroll: 3,
-            infinite: true,
-            dots: true
-          }
-        },
-        {
-          breakpoint: 600,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 2
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            variableWidth: false, 
-            centerMode: false,
-            focusOnSelect:false,
-          }
-        }
-        // You can unslick at a given breakpoint now by adding:
-        // settings: "unslick"
-        // instead of a settings object
-      ]
-        });
-
-
-    $('.showmore').click(function(){
-         $('.more').css('display','inline-block');
-         $('.showmore').css('display','none'); 
-         $('.showless').css('display','inline-block');   
-        })
-
-    $('.showless').click(function(){
-         $('.more').css('display','none');
-         $('.showless').css('display','none'); 
-         $('.showmore').css('display','inline-block');  
-        })
-     });
+$('.showmore').click(function(){  $('.more').css('display','inline-block');  $('.showmore').css('display','none'); $('.showless').css('display','inline-block');   });
+$('.showless').click(function(){  $('.more').css('display','none');  $('.showless').css('display','none');  $('.showmore').css('display','inline-block'); }) });
 
      </script>
  </body>

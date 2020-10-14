@@ -118,29 +118,7 @@
                     </div>
                 </div>
             </div>
-        </div>
-
-        <style>
-        html {
-            scroll-behavior: smooth;
-        }
-
-        .addition-desc {
-            font-size: 12px
-        }
-
-        .grey-clr {
-            color: grey
-        }
-
-        .circle-list>li {
-            padding-bottom: 7px
-        }
-
-        .modal-backdrop {
-            display: none !important
-        }
-        </style>
+        </div> 
 
         <div class="portfolio-update content-wrapper__">
 
