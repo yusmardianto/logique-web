@@ -35,8 +35,10 @@
             })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
             <!-- End Google Tag Manager -->";
         }
+ 
     ?>
 
+ 
 </head>
 
 <body style="overflow-x: hidden">
@@ -139,31 +141,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <style>
-            html {
-                scroll-behavior: smooth;
-            }
-
-            .addition-desc {
-                font-size: 12px
-            }
-
-            .grey-clr {
-                color: grey
-            }
-
-            .circle-list>li {
-                padding-bottom: 7px
-            }
-
-            .modal-backdrop {
-                display: none !important
-            }
-        </style>
+                </div> 
+            </div> 
+        </div>  
+ 
 
         <div class="portfolio-update content-wrapper__">
 
