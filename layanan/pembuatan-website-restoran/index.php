@@ -42,8 +42,31 @@
 	twq('track','PageView');
 	</script>
 	<!-- End Twitter universal website tag code -->
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+
 </head>
 	<body class="careerpage">
+
+		<?php 
+			if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+				echo '<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+				height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+				<!-- End Google Tag Manager (noscript) -->';
+			}
+		?>
+
 		<div class="wrapper">
 			<header>
 				<div class="container">
@@ -85,8 +108,7 @@
 			</section>	
 			<section class="solution-part">
 				<div class="container">
-					<h2 class="text-center">Kami Memberikan <span class="sp-text black">Solusi</span> Pembuatan Website <br>
-untuk <span class="sp-text black">Restoran</span> Anda, Apa saja <span class="sp-text black">keuntungannya? </span></h2>
+					<h2 class="text-center">Kami Memberikan <span class="sp-text black">Solusi</span> Pembuatan Website <br> untuk <span class="sp-text black">Restoran</span> Anda, Apa saja <span class="sp-text black">keuntungannya? </span></h2>
 					<div class="row">
 						<div class="col-sm-4 text-center solpart partone">
 							<h3>Mudah ditemukan</h3>
@@ -200,8 +222,7 @@ untuk <span class="sp-text black">Restoran</span> Anda, Apa saja <span class="sp
 						<div class="col-sm-7  ">
 							<div class="testi-cont">
 							<div class="testi-text">
-								“ Sudah lama kami ingin memiliki website untuk mendukung restoran kami tapi 
-bingung bagaimana cara memulainya. Dan Logique memberi kemudahan dan dapat memenuhi sagala keinginan kami atas website kami.  Hasilnya sungguh diatas harapan kami sekarang restoran kami tampil lebih profesional dan mendapatkan hasil yang lebih baik dan semoga kedepannya kami dapat bekerja sama lagi dengan Logique.
+								“ Sudah lama kami ingin memiliki website untuk mendukung restoran kami tapi bingung bagaimana cara memulainya. Dan Logique memberi kemudahan dan dapat memenuhi sagala keinginan kami atas website kami.  Hasilnya sungguh diatas harapan kami sekarang restoran kami tampil lebih profesional dan mendapatkan hasil yang lebih baik dan semoga kedepannya kami dapat bekerja sama lagi dengan Logique.
 							</div>
 							<div class="testi-owner">
 								Joko Tingkir<br>

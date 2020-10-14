@@ -23,10 +23,33 @@
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet"> 
     <link href="css/style.css" rel="stylesheet">
-    <link href="css/portfolio.css" rel="stylesheet">    
+    <link href="css/portfolio.css" rel="stylesheet">
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+
 </head>
 
 <body style="overflow-x: hidden">
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
+        }
+    ?>
+
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
@@ -102,7 +125,7 @@
         <div class="bg-white-opacity"></div> -->
 
         <div class="container-fluid">
-            <div class=" lang-logo--update-design">
+            <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
@@ -117,8 +140,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div> 
+            </div> 
+        </div>  
 
         <div class="portfolio-update content-wrapper__">
 
@@ -153,32 +176,106 @@
                     <div class="client-list__wrapper">
                         <h2 class="portfolio-sec__title">Klien Kami</h2>
                         <div class="client-list">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="asean">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
+                            <!-- square logo -->
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/assa.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/asean.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="asean">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/toyota.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
+                            </picture>
                             <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="jjc">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/tripatra.png" alt="tripatra">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/panpacific.png" alt="panpacific">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="panin">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/mpm.png" alt="mpm">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="pertamina">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="sinarmas">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/tripatra.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/tripatra.png" alt="tripatra">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/tolaram.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/nissin.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/nissin.png" alt="nissin">
+                            </picture>
+
+                            <!-- rectangle logo -->
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/panpacific.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/panpacific.png" alt="panpacific">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="panin">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/pasaraya.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/mpm.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/mpm.png" alt="mpm">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/aia.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/pertamina.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="pertamina">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="sinarmas">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/j-trust.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
+                            </picture>
                             <picture>
                                 <source srcset="/img/portfolio/client-list/gakken.svg">
                                 <img class="client-list__img" src="/img/portfolio/client-list/gakken.png" alt="gakken">
                             </picture>
                             <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
-                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/sunlife.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/jba.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/hino.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/sumitomo-heavy.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/buma.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/buma.png" alt="buma">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/k-line.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/k-line.png" alt="k-line">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/benese.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/benese.png" alt="benese">
+                            </picture>
                         </div>
                     </div>
                 </div>

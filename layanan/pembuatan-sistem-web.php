@@ -25,12 +25,70 @@
     <title>Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta</title>
      
      <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="/css/slick.css" rel="stylesheet">
+     <link href="/css/slick.css" rel="stylesheet"> 
      <link rel="stylesheet" href="/css/sidebar-update.css" >
      <link href="assets/css/style-systemdev.css" rel="stylesheet"> 
  
  </head> 
+ <?php /*
+      <link href="/css/style.css" rel="stylesheet">
+      <link href="assets/css/style-systemdev.css" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
+      <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+      <script>
+         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+         
+         ga('create', 'UA-105878648-1', 'auto');
+         ga('send', 'pageview');		
+     </script>
+     <?php 
+         if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+             echo "<!-- Google Tag Manager -->
+             <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+             })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+             <!-- End Google Tag Manager -->";
+         }
+     ?>
+  </head>
+ 
+  <script type="text/javascript">
+   function parseJSAtOnload() {
+   var links = [
+       'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js',
+         'https://www.logique.co.id/js/bootstrap.min.js',
+         'https://use.fontawesome.com/df558bb4a1.js',
+         'https://www.logique.co.id/layanan/pembuatan-sistem-web.php',
+   ],
+   headElement = document.getElementsByTagName("head")[0],
+   linkElement, i;
+   for (i = 0; i < links.length; i++) {
+   linkElement = document.createElement("script");
+   linkElement.src = links[i];
+   headElement.appendChild(linkElement);
+   }
+   }
+   if (window.addEventListener)
+   window.addEventListener("load", parseJSAtOnload, false);
+   else if (window.attachEvent)
+   window.attachEvent("onload", parseJSAtOnload);
+   else window.onload = parseJSAtOnload;
+ </script>  */
+ ?>
  <body class="systedev-page">
+	<?php 
+		if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+			echo '<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<!-- End Google Tag Manager (noscript) -->';
+		}
+	?>
  
      <div class="wrapper">
          <!-- NAVIGATION -->
@@ -100,8 +158,13 @@
          <!-- NAVIGATION --> 
          <!-- HEADER -->
          <div class="container-fluid">
+<<<<<<< HEAD
              <div class="  lang-logo--update-design">
                  <div class="container__">
+=======
+             <div class="lang-logo--update-design">
+                 <div class="container">
+>>>>>>> bccbb8e19c3ddd2d0a34beb5bce8c0a5a66aa07c
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
                               
