@@ -155,14 +155,10 @@
          </div>
          <!-- NAVIGATION --> 
          <!-- HEADER -->
-         <div class="container-fluid">
-<<<<<<< HEAD
+         <div class="container-fluid"> 
              <div class="  lang-logo--update-design">
                  <div class="container__">
-=======
-             <div class="lang-logo--update-design">
-                 <div class="container">
->>>>>>> bccbb8e19c3ddd2d0a34beb5bce8c0a5a66aa07c
+ 
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
                               
