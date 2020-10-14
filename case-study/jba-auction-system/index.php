@@ -1,43 +1,63 @@
 <!DOCTYPE html>
 <html lang="id">
   <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
-	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Sistem Lelang Mobil dan Motor Bekas | JBA | LOGIQUE Digital Indonesia">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
-	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
-  <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
+    <meta name="description" itemprop="description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
+    <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Sistem Lelang Mobil dan Motor Bekas | JBA | LOGIQUE Digital Indonesia">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
+    <meta property="og:description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
+    <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
+    <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
+    ga('create', 'UA-105878648-1', 'auto');
+    ga('send', 'pageview');
 
-	</script>
-  <title>Sistem Lelang Mobil dan Motor Bekas | JBA | LOGIQUE Digital Indonesia</title>
+    </script>
+    <title>Sistem Lelang Mobil dan Motor Bekas | JBA | LOGIQUE Digital Indonesia</title>
 
-	<link href="../../css/bootstrap.min.css" rel="stylesheet">
-	</noscript>
+    <link href="../../css/bootstrap.min.css" rel="stylesheet">
+    </noscript>
 
-  <link href="../../css/style.css" rel="stylesheet">
-	<link href="../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <!-- case study style -->
-  <link href="css/style.css" rel="stylesheet">
+    <link href="../../css/style.css" rel="stylesheet">
+    <link href="../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- case study style -->
+    <link href="css/style.css" rel="stylesheet">
 
-    </head>
+    <?php 
+      if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo "<!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+        <!-- End Google Tag Manager -->";
+      }
+    ?>
+  </head>
+
 	<body>
+    <?php 
+      if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo '<!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->';
+      }
+    ?>
 		<div class="wrapper o-wrapper top-only">
 
       <header>

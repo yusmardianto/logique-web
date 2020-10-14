@@ -91,32 +91,55 @@ if(isset($_POST['submitted']))
     twq('track', 'PageView');
     </script>
     <!-- End Twitter universal website tag code -->
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+
 </head>
 
 <body class="careerpage">
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
+        }
+    ?>
+
     <style>
-    .container__ {
-        padding-top: 0;
-        padding-bottom: 0;
-    }
+        .container__ {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
 
-    .reason-container {
-        margin-top: -15px;
-        margin-bottom: -35px;
-    }
+        .reason-container {
+            margin-top: -15px;
+            margin-bottom: -35px;
+        }
 
-    .col-sm-12.link-footer {
-        margin-bottom: 2em;
-    }
+        .col-sm-12.link-footer {
+            margin-bottom: 2em;
+        }
 
-    footer {
-        top: 35px;
-    }
+        footer {
+            top: 35px;
+        }
 
-    .tahap-pemesanan-2 {
-        position: relative;
-        top: 35px;
-    }
+        .tahap-pemesanan-2 {
+            position: relative;
+            top: 35px;
+        }
     </style>
     <div class="wrapper wrapper--update-design">
         <!-- NAVIGATION -->
@@ -187,7 +210,7 @@ if(isset($_POST['submitted']))
 
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
