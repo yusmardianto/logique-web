@@ -25,13 +25,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<script>
-		!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview");
-	</script>
+	<script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview");</script>
 	<!-- Twitter universal website tag code -->
-	<script>
-		!function(e,t,n,i,a,c){e.twq||((i=e.twq=function(){i.exe?i.exe.apply(i,arguments):i.queue.push(arguments)}).version="1.1",i.queue=[],(a=t.createElement(n)).async=!0,a.src="//static.ads-twitter.com/uwt.js",(c=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,c))}(window,document,"script"),twq("init","o0xru"),twq("track","PageView");
-	</script>
+	<script>!function(e,t,n,i,a,c){e.twq||((i=e.twq=function(){i.exe?i.exe.apply(i,arguments):i.queue.push(arguments)}).version="1.1",i.queue=[],(a=t.createElement(n)).async=!0,a.src="//static.ads-twitter.com/uwt.js",(c=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,c))}(window,document,"script"),twq("init","o0xru"),twq("track","PageView");</script>
 	<!-- End Twitter universal website tag code -->
     <?php 
         if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
@@ -185,7 +181,7 @@
 							<div class="solution__main text-center">
 								<h2 class="main__cloud">Jasa SEO</h2>
 								<h2>Search Engine Optimization (SEO) Salah Satu Solusinya</h2>
-								<p>Search engine menjadi platform dimana user mencari sebuah jawaban atau solusi, dalam situasi ini website Anda harus mampu hadir sebagai solusi bagi setiap User yang berpotensi menjadi pelanggan Anda.</p>
+								<p>Search engine menjadi platform utama dimana User mencari informasi dan solusi. Melalui jasa SEO yang ditawarkan, Logique hadir untuk memaksimalkan website Anda agar menjadi solusi bagi setiap User yang berpotensi menjadi pelanggan Anda.</p>
 								<p>Dengan didukung oleh <span>lebih dari 50 orang tenaga professional</span> di bidang Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, dan Cloud Server Engineer menjadikan <strong>LOGIQUE</strong> sebagai perusahaan satu-satunya yang mampu mensinergikan setiap aspek pengoptimalan sebuah website dalam satu atap dan mekanisme kerja. </p>
 							</div>
 							<br class="visible-lg">
