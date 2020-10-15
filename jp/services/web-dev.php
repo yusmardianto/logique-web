@@ -153,7 +153,7 @@ if(isset($_POST['submitted']))
 
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class="  lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
