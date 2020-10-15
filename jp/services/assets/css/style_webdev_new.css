@@ -1375,21 +1375,21 @@ footer {
   margin-bottom: 30px;
 }
 .flow .flow-button {
-  height: 60px;
+  height: 55px;
   background: rgb(251, 201, 53);
   border-radius: 4px;
   color: rgb(0, 0, 0);
-  font-size: 24px;
+  font-size: 18px;
   font-family: "Raleway Medium", sans-serif;
   font-weight: 600;
   text-align: left;
   padding: 13px 20px;
   letter-spacing: 0px;
-  width: 488px;
+  width: 400px;
 }
 .flow .flow-button img {
   float: right;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 .discuss {
   padding-top: 5px;
@@ -3513,7 +3513,8 @@ header {
   }
   .flow .flow-button {
       width: 100%;
-      font-size: 20px;
+      font-size: 16px;
+      text-align: center;
   }
   .flow .flow-button img {
       width: 16px; 
