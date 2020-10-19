@@ -19,6 +19,7 @@
     <meta property="og:description"
         content="Caroline adalah klien dari LOGIQUE untuk pembuatan dan pengembangan sistem penawaran jual beli mobil online. Anda ingin membuat dan mengembangkan website seperti mereka, segera hubungi kami. Kami siap membantu Anda!">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/caroline-bidding-system/">
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;

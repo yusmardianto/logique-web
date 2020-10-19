@@ -16,6 +16,7 @@
     <meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/indonesea/"/>
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

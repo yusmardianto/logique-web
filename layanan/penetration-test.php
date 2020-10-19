@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="/css/sidebar-update.css" > 
     <link href="assets/css/style-pentest.css" rel="stylesheet">
     <link href="/css/animate.min.css" rel="stylesheet">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/penetration-test.php"/>  
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
     <!-- <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

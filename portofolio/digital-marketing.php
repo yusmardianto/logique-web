@@ -18,6 +18,7 @@
     <meta property="og:description"
         content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing.php">
     <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
 
     <!-- Bootstrap -->
