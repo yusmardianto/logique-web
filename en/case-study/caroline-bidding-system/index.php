@@ -131,12 +131,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
-                        <meta itemprop="position" content="1" />
+                          <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+                          <meta itemprop="position" content="1" />
+                      </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
                       </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Caroline</span></a>
-                        <meta itemprop="position" content="2" />
+                          <a itemprop="item"><span itemprop="name">&nbsp; Caroline</span></a>
+                          <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>

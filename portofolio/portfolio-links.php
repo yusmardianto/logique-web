@@ -76,9 +76,9 @@
         <div class="row">
           <div class="col-md-6">
             <div class="text-center">
-              <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/portofolio.php">
+              <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/case-study/">
                 <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Kontak Kami">
-                <span>See other portfolios</span>
+                <span>See Case Studies</span>
               </a>
             </div>
           </div>

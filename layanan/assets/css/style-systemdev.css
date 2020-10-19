@@ -343,6 +343,10 @@ section h2{
 .unsupport-desc{
     padding-top: 40px;
 }
+.see-more-studycase-wrapper{
+    padding: 2em 0 1em;
+    text-align: center;
+}
 .text-slide-content{
     background: url(../img/img-systemdev/newlayout/bg-slidertext-left.jpg) no-repeat left top, url(../img/img-systemdev/newlayout/bg-slidertext-right.jpg) no-repeat right bottom #fff;
     border-radius: 5px;
