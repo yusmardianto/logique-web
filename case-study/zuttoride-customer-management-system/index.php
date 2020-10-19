@@ -16,6 +16,7 @@
     <meta property="og:description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/zuttoride-customer-management-system/"/>
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
