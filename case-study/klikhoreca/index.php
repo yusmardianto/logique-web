@@ -27,7 +27,7 @@
     ga('send', 'pageview');
 
     </script>
-    <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
+    <title>Pengembangan Sistem Klikhoreca PWA (Progressive Web App) | LOGIQUE</title>
 
     <link href="../../../css/bootstrap.min.css" rel="stylesheet">
   
@@ -154,14 +154,18 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb breadcrumb--update-design" itemscope
                         itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
-                        </li>
-                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item"><span itemprop="name">&nbsp; Case Study - Klikhoreca</span></a>
-                            <meta itemprop="position" content="2" />
-                        </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                      </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item"><span itemprop="name">&nbsp; Klikhoreca</span></a>
+                          <meta itemprop="position" content="3" />
+                      </li>
                     </ol>
                 </div>
             </div>

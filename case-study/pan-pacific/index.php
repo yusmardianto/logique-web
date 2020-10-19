@@ -27,7 +27,7 @@
     ga('send', 'pageview');
 
     </script>
-    <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title> 
+    <title>Pembuatan & Pengembangan Sistem Investasi Pan Pacific | LOGIQUE</title> 
     <link href="../../../css/bootstrap.min.css" rel="stylesheet"> 
     <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
     <link rel="stylesheet" href="../../../css/sidebar-update.css" >
@@ -149,12 +149,16 @@
                     <ol class="breadcrumb breadcrumb--update-design" itemscope
                         itemtype="http://schema.org/BreadcrumbList">
                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
+                          <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+                          <meta itemprop="position" content="1" />
+                        </li>
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                            <meta itemprop="position" content="2" />
                         </li>
                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item"><span itemprop="name">&nbsp; Case Study - Pan Pacific Insurance</span></a>
-                            <meta itemprop="position" content="2" />
+                            <a itemprop="item"><span itemprop="name">&nbsp; Pan Pacific</span></a>
+                            <meta itemprop="position" content="3" />
                         </li>
                     </ol>
                 </div>

@@ -502,6 +502,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="see-more-studycase-wrapper">
+                    <a href="/case-study/" class="btn-yellow">See More Case Studies</a>
+                </div>
             </div>
             <div class="sec-content-part success-service">
                 <h2 class="sub-section-title text-center">その他のシステム開発実績</h2>
