@@ -16,6 +16,7 @@
     <meta property="og:description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/jba-auction-system/">
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -151,12 +152,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                        <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
+                      </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - JBA Indonesia</span></a>
-                        <meta itemprop="position" content="2" />
+                          <a itemprop="item"><span itemprop="name">&nbsp; JBA Indonesia</span></a>
+                          <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>

@@ -505,12 +505,12 @@
 
           </div>
           <div class="case-study-btn-container text-center ">
-            <a href="javascript:void(0)" class=" showcase showmore">
+            <a href="/case-study/" class="showcase showmore">
                Lihat lebih banyak 
             </a>
-             <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
+             <!-- <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
                Lihat lebih sedikit 
-            </a>
+            </a> -->
           </div>
           <div class="casestudy-text">
             <p><strong>LOGIQUE</strong> berkomitmen untuk memberikan solusi terbaik untuk klien-klien kami; berdasarkan pengalaman kami dalam e-commerce, sistem management pelelangan mobil/motor, pengembangan CRM, aplikasi e-learning, PWA, sistem rekrutmen dan lainnya.</p>
