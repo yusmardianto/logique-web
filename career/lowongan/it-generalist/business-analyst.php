@@ -177,10 +177,9 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Anda akan terlibat dalam projek besar dengan client perusahaan yang sudah berjaya di industri otomotif.</li>
-                  <li>Jam kerja yang flexible (40 jam /minggu) dan bebas memilih start time kerja (8.00 am – 10.00 am).</li>
-                  <li>Anda juga akan mendapatkan fasilitas remote working 1 – 3 hari setiap minggunya.</li>
-                  <li>Bonus kinerja bulanan (performance based)</li>
+                  <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
+                  <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
+                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
                 </ul>
               </div>
               <div class="career-requirement">
