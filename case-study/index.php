@@ -10,22 +10,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
+    content="Daftar klien Logique Digital Indonesia untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
  
-  <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan
+  <meta name="keywords" content="Daftar klien logique, Klien logique untuk pembuatan website, Klien logique untuk pembuatan sistem web, Klien logique untuk pembuatan mobile app, Klien logique untuk pembuatan web app, Klien logique untuk pembuatan aplikasi web
 ">  
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
-    content="Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE">
+    content="Daftar Klien Logique Digital Indonesia | JBA, Caroline & Lainnya.">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
   <meta property="og:description"
-    content="LOGIQUE Digital Indonesia | Jasa Pengembangan Sistem Web (Web System Development) & Lainnya | Alamat: Jl. Simatupang Jakarta Selatan | Solusi Digital Bisnis Anda.">
+    content="Daftar klien Logique Digital Indonesia untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="/case-study/assets/favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/" />  
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
@@ -72,7 +72,7 @@
   ga('send', 'pageview');
   </script>
   <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-  <title>Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE</title>
+  <title>Daftar Klien Logique Digital Indonesia | JBA, Caroline & Lainnya.</title>
 
   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> -->
   </noscript>
@@ -274,13 +274,14 @@
                         <source srcset="./assets/img/card/1.webp" type="image/webp">
                         <img src="./assets/img/card/1.png" class="img-responsive" alt="">
                       </picture>
-                      <div class="text-container">
-                        <p>Website</p>
-                      </div>
-                      <p class="card-title">Caroline</p>
-                      <p class="card-content">Situs Jual Beli dengan Sistem Penawaran Online</p>
-                      <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                     </div>
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">Caroline</p>
+                    <p class="card-content">Situs Jual Beli dengan Sistem Penawaran Online</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12 filter website">
@@ -290,13 +291,14 @@
                         <source srcset="./assets/img/card/2.webp" type="image/webp">
                         <img src="./assets/img/card/2.png" class="img-responsive"  alt="">
                       </picture>
-                      <div class="text-container">
-                        <p>Website</p>
-                      </div>
-                      <p class="card-title">JBA Indonesia</p>
-                      <p class="card-content">Online Auction System</p>
-                      <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                     </div>
+
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">JBA Indonesia</p>
+                    <p class="card-content">Online Auction System</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12 filter website">
@@ -306,13 +308,13 @@
                         <source srcset="./assets/img/card/3.webp" type="image/webp">
                         <img src="./assets/img/card/3.png" class="img-responsive" alt="">
                       </picture>
-                      <div class="text-container">
-                        <p>Website</p>
-                      </div>
-                      <p class="card-title">Opus Park</p>
-                      <p class="card-content">Properti Berkelas Dunia di Sentul City</p>
-                      <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                     </div>
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">Opus Park</p>
+                    <p class="card-content">Properti Berkelas Dunia di Sentul City</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12 filter websystem">
@@ -322,13 +324,14 @@
                         <source srcset="./assets/img/card/4.webp" type="image/webp">
                         <img src="./assets/img/card/4.png" class="img-responsive"  alt="">
                       </picture>
+                    </div>
+
                       <div class="text-container">
                         <p>Web System</p>
                       </div>
                       <p class="card-title">Zutto Ride CRM</p>
                       <p class="card-content">Sistem Management Pelanggan</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
-                    </div>
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12 filter webapp">
@@ -338,13 +341,14 @@
                         <source srcset="./assets/img/card/5.webp" type="image/webp">
                         <img src="./assets/img/card/5.png" class="img-responsive"  alt="">
                       </picture>
+                      </div>
+
                       <div class="text-container">
                         <p>Web App</p>
                       </div>
                       <p class="card-title">VIP Plaza</p>
                       <p class="card-content">Progressive Web App</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
-                    </div>
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12 filter webapp">
@@ -354,13 +358,14 @@
                         <source srcset="./assets/img/card/6.webp" type="image/webp">
                         <img src="./assets/img/card/6.png" class="img-responsive" alt="">
                       </picture>
+                      </div>
+
                       <div class="text-container">
                         <p>Web App</p>
                       </div>
                       <p class="card-title">Klikhoreca</p>
                       <p class="card-content">Progressive Web App</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
-                    </div>
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12 filter website">
@@ -370,13 +375,13 @@
                         <source srcset="./assets/img/card/7.webp" type="image/webp">
                         <img src="./assets/img/card/7.png" class="img-responsive" alt="">
                       </picture>
-                      <div class="text-container">
-                        <p>Website</p>
-                      </div>
-                      <p class="card-title">Indonesea</p>
-                      <p class="card-content">Dive Booking System</p>
-                      <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                     </div>
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">Indonesea</p>
+                    <p class="card-content">Dive Booking System</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
             <div class="col-sm-4 col-xs-12 filter websystem">
@@ -386,27 +391,35 @@
                         <source srcset="./assets/img/card/8.webp" type="image/webp">
                         <img src="./assets/img/card/8.png" class="img-responsive" alt="">
                       </picture>
-                      <div class="text-container">
-                        <p>Web System</p>
-                      </div>
-                      <p class="card-title">Pan Pacific</p>
-                      <p class="card-content">Hasil Sistem Investasi Pan Pacific Insurance</p>
-                      <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                     </div>
+                    <div class="text-container">
+                      <p>Web System</p>
+                    </div>
+                    <p class="card-title">Pan Pacific</p>
+                    <p class="card-content">Hasil Sistem Investasi Pan Pacific Insurance</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
         </div>
         <div class="row contact-container">
           <div class="col-md-12">
-            <picture>
+            <!-- <picture>
               <source srcset="./assets/img/bg-content.webp" type="image/webp">
               <img src="./assets/img/bg-content.png" alt="">
-            </picture>
-            <p class="contact-title">Our experience is also applicable to you</p>
-            <p class="contact-content">Anda tertarik bekerja sama dengan kami dalam mengembangkan produk dalam bentuk website, aplikasi berbasis web, mobile app dan aplikasi mobile ?</p>
-            <a href="/hubungi-kami.php">
-            <button class="btn btn-default contact-button"> Hubungi Kami</button>
-            </a>
+            </picture> -->
+            <div class="contact-us-section">
+              <p class="contact-title">Our experience is also applicable to you</p>
+              <div class="row">
+                <div class="col-md-9">
+                  <p class="contact-content">Anda tertarik bekerja sama dengan kami dalam mengembangkan produk dalam bentuk website, aplikasi berbasis web, mobile app dan aplikasi mobile ?</p>
+                </div>
+                <div class="col-md-3">
+                  <a class="btn btn-default contact-button" href="/hubungi-kami.php">
+                    Hubungi Kami            
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -643,6 +656,7 @@
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
+<script src="/js/modernizr-custom.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
@@ -674,6 +688,16 @@ $('.map-container')
     $('.copyrightYear').html(updatedYear);
 </script>
 
+<!-- Modernizr Webp -->
+<script>
+  Modernizr.on('webp', function(result){
+    if(result){
+      $(".contact-us-section").addClass('webp').removeClass('no-webp');
+    } else {
+      $(".contact-us-section").addClass('no-webp').removeClass('webp');
+    }
+  })
+</script>
 <!-- override purechat styling -->
 <script>
     $(function() {

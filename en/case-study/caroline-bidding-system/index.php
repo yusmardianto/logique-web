@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia in collaboration with Caroline. We assisted in car trading system development with online bidding system. In a short time, we developed a high quality car selling site center, easy to use by users. Learn the case study here.">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+  <meta name="description" itemprop="description" content="Working with Caroline, LOGIQUE has assisted in developing a car trading system with an online bidding system, creating a quality car selling site center.">
+	<meta name="keywords" content="Caroline Car Online Bidding System, Car Online Bidding System Jakarta, Car Online Bidding System company, Car Online Bidding System service, Bidding System for Car Website, Logique Bidding System, Caroline Case Study, Logique Case Study">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Car Trading System Development | Case Study | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Caroline Car Bidding System | Case Study | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia in collaboration with Caroline. We assisted in car trading system development with online bidding system. In a short time, we developed a high quality car selling site center, easy to use by users. Learn the case study here.">
+	<meta property="og:description" content="LOGIQUE developed a quality car trading system & online bidding system for Caroline. Create a System for Your Business with LOGIQUE.">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -25,7 +25,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Car Trading System Development | Case Study | LOGIQUE Digital Indonesia</title>
+  <title>Caroline Car Bidding System | Case Study | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>

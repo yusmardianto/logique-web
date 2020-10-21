@@ -8,7 +8,7 @@
     <meta name="description" itemprop="description"
         content="Caroline adalah klien dari LOGIQUE untuk pembuatan dan pengembangan sistem penawaran jual beli mobil online. Anda ingin membuat dan mengembangkan website seperti mereka, segera hubungi kami. Kami siap membantu Anda!">
     <meta name="keywords"
-        content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+        content="Pengembangan sistem penawaran online, Sistem penawaran mobil online, Sistem penawaran mobil website caroline, Pembuatan sistem penawaran mobil Caroline, Contoh pengembangan sistem web otomotif, Klien otomotif logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Sistem Penawaran Jual Beli Mobil Online | Caroline | LOGIQUE">
