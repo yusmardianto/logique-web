@@ -109,7 +109,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
-                            <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
+                            <a href="/en/index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             <ul class="list-inline">
                                 <li class="active"><a href="#">EN</a></li>
                                 <li><a href="/portofolio/website.php">ID</a></li>

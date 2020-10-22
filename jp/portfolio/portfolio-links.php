@@ -76,7 +76,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="text-center">
-              <a class="btn-banner-pattern mb--60" style="min-width: 350px;" href="/jp/portfolio.php">
+              <a class="btn-banner-pattern mb--60" style="min-width: 350px;" href="/case-study/">
                 <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Kontak Kami">
                 <span>ケーススタディをみる</span>
               </a>

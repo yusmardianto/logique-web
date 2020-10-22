@@ -132,7 +132,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
-                            <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+                            <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
                             <ul class="list-inline">
                                 <li><a href="/en/portfolio/website.php">EN</a></li>
                                 <li class="active"><a href="#">ID</a></li>

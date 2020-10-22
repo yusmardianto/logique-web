@@ -108,7 +108,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
-                            <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
+                            <a href="/jp/index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                             <ul class="list-inline">
                                 <li><a href="/en/portfolio/website.php">EN</a></li>
                                 <li><a href="/portofolio/website.php">ID</a></li>
@@ -151,7 +151,7 @@
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
                                 itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">ホーム</span></a>
+                                        href="/index.php"><span itemprop="name">ホーム</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
