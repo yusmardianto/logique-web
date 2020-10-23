@@ -3201,13 +3201,28 @@ font-weight: 500;
   margin: -20px 0 -30px;
 }
 .hr-rule .bg-7--- {
+  background: linear-gradient(-225deg, rgb(255, 209, 208) 0%, rgba(255, 67, 28, 0.5) 100%);
+  padding: 0 30px;
+  position: relative;
+}
+.hr-rule .bg-7--- h2 { 
+  padding-top: 20px;
+}
+.hr-rule .bg-7--- p { 
+  padding-bottom: 20px;
+}
+.hr-rule .bg-7--- img { 
+  margin: 5px 0 0px;
+  max-width: 400px;
+}
+.hr-rule .bg-8--- {
   background: linear-gradient(-45deg, rgb(255, 201, 111) 0%, rgb(217, 156, 255) 100%);
   padding: 0 30px;
 }
-.hr-rule .bg-7--- h2 { 
+.hr-rule .bg-8--- h2 { 
   padding-top: 60px;
 }
-.hr-rule .bg-7--- img { 
+.hr-rule .bg-8--- img { 
   margin: -20px 0 -30px;
 }
 

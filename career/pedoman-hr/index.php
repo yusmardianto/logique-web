@@ -206,13 +206,31 @@
               </div>
             </div>
           </div>
-
           <div class="row">
             <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
               <div class="box-hr-rule-1 bg-7---">
                 <div class="row">
+                  <div class="col-xs-12 col-md-6 order2">
+                    <h2>No Unpaid Overtime</h2>
+                    <p>Jika Anda ingin lebih banyak bekerja untuk mendapatkan lebih banyak income, maka kami dapat memberikan kesempatan kerja lembur yang dibayar. Kerja lembur dilakukan berdasarkan project sehingga upah akan tergantung pada nilai project tersebut. Sesuai dengan filosofi dan konsep yang kami miliki, LOGIQUE akan memberikan apa yang dibutuhkan karyawan sesuai dengan kontribusi yang dapat karyawan berikan.</p>
+                  </div>
+                  <div class="col-xs-12 col-md-6 text-right order1">
+                    <picture>
+                      <source srcset="/career/pedoman-hr/img/banner7.webp" type="image/webp">
+                      <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner7.png" alt="Logique HR Rule">
+                    </picture>
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-8---">
+                <div class="row">
                   <div class="col-xs-12 col-md-6 text-center">
-                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner7.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner8.svg" alt="Logique HR Rule">
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Asuransi Kesehatan</h2>
