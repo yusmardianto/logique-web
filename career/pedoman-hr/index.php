@@ -209,6 +209,21 @@
           </div>
           <div class="row">
             <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-8---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6 text-center">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner8.svg" alt="Logique HR Rule">
+                  </div>
+                  <div class="col-xs-12 col-md-6">
+                    <h2>Asuransi Kesehatan</h2>
+                    <p>Tak hanya dalam hal pekerjaan, LOGIQUE juga memperhatikan kesehatan para karyawan dengan memberikan benefit asuransi kesehatan Allianz.</p>
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
               <div class="box-hr-rule-1 bg-7---">
                 <div class="row">
                   <div class="col-xs-12 col-md-6 order2">
@@ -225,23 +240,6 @@
               </div>
             </div>
           </div>
-
-          <div class="row">
-            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
-              <div class="box-hr-rule-1 bg-8---">
-                <div class="row">
-                  <div class="col-xs-12 col-md-6 text-center">
-                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner8.svg" alt="Logique HR Rule">
-                  </div>
-                  <div class="col-xs-12 col-md-6">
-                    <h2>Asuransi Kesehatan</h2>
-                    <p>Tak hanya dalam hal pekerjaan, LOGIQUE juga memperhatikan kesehatan para karyawan dengan memberikan benefit asuransi kesehatan Allianz.</p>
-                  </div>
-                </div>            
-              </div>
-            </div>
-          </div>
-
         </div>
       </section>
 
