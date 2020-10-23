@@ -104,18 +104,16 @@
         <div class="bg-white-opacity"></div> -->
 
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/portfolio/website.php">EN</a></li>
-                                    <li><a href="/portofolio/website.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                            </div>
+                            <a href="/jp/index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
+                            <ul class="list-inline">
+                                <li><a href="/en/portfolio/website.php">EN</a></li>
+                                <li><a href="/portofolio/website.php">ID</a></li>
+                                <li class="active"><a href="#">JP</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -153,7 +151,7 @@
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
                                 itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">ホーム</span></a>
+                                        href="/index.php"><span itemprop="name">ホーム</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"

@@ -66,6 +66,7 @@
     font-weight: 600;
     text-align: center;
     margin-right: 13px;
+    margin-bottom: 10px;
     opacity: .6;
 }
 .case-study .pill-container .filter-button:hover {
@@ -113,6 +114,20 @@
     font-family: Montserrat-Regular;
     font-weight: normal;
 }
+
+.case-study .contact-container .contact-us-section.webp  {
+    background-image: url('../img/bg-content.webp');
+}
+.case-study .contact-container .contact-us-section.no-webp {
+    background-image: url('../img/bg-content.png');
+}
+
+.case-study .contact-container .contact-us-section{
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 20px 20px 150px;
+}
+
 .case-study .contact-container img {
     width: 100%;
     position: relative;
@@ -122,7 +137,7 @@
     font-size: 32px;
     font-family: Montserrat-Regular;
     font-weight: normal;
-    position: absolute;
+    /* position: absolute; */
     top: 20px;
     left: 185px;
 }
@@ -131,15 +146,18 @@
     font-size: 16px;
     font-family: Montserrat-Regular;
     font-weight: normal;
-    position: absolute;
+    /* position: absolute; */
     top: 70px;
     left: 185px;
     line-height: 34px;
-    width: 650px;
+    /* width: 650px; */
 }
 .case-study .contact-container .contact-button {
-    width: 220px;
+    max-width: 220px;
     height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background: rgb(255, 202, 0);
     border: 1px solid rgb(236, 188, 1);
     border-radius: 5px;
@@ -150,7 +168,7 @@
     text-align: center;
     top: 50px;
     right: 40px;
-    position: absolute;
+    /* position: absolute; */
 }
 
 @media (max-width: 1280px) {
@@ -168,7 +186,7 @@
         margin-right: 0;
     }
     .case-study .contact-container p.contact-content {
-        width: 550px;
+        /* width: 550px; */
     }
     .case-study .contact-container p.contact-title {
         font-size: 28px;
@@ -188,7 +206,7 @@
        width: auto;
     } 
     .case-study .contact-container p.contact-content {
-        width: 450px;
+        /* width: 450px; */
         line-height: 27px;
         top: 55px;
     }
@@ -200,7 +218,7 @@
         top: 10px;
     }
     .case-study .contact-container .contact-button {
-        width: 200px;
+        max-width: 200px;
         height: 45px;
     }
     .content-wrapper__.bg--footer.footer-section {
@@ -219,6 +237,7 @@
 @media (max-width: 768px) {
     .top-only #bgImg {
         height: auto;
+        margin-top: 10rem;
     }
     .top-only #bgImg .img {
         background-image: url('../img/bg.png');
@@ -227,7 +246,7 @@
         margin-top: 5rem;
     }
     .container__ {
-        margin-left: 110px;
+        margin-left: 0;
     }
     #bgImg .title-index {
         margin-top: 0;
@@ -237,9 +256,12 @@
     }
     .case-study .card-container {
         margin-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
     }
     .case-study .card-container .col-xs-12 {
-        height: 250px;
+        height: auto;
+        flex: 1 50%;
     }
     .case-study .contact-container p.contact-title {
         font-size: 18px;
@@ -247,14 +269,14 @@
         left: 100px;
     }
     .case-study .contact-container p.contact-content {
-        width: 350px;
+        /* width: 350px; */
         line-height: 20px;
         top: 35px;
         left: 100px;
         font-size: 12px;
     }
     .case-study .contact-container .contact-button {
-        width: 100px;
+        max-width: 100px;
         height: 35px;
         font-size: 10px;
         top: 20px;
@@ -276,10 +298,10 @@
         margin-left: 90px;
     }
     #bgImg .homepage-hero .title-container .container__ {
-        padding: 1.5em 1.5em 1.5em 0;
+        padding: 1.5em;
     }
     #bgImg .homepage-hero .title-container .container__.breadcrumb-section {
-        padding: 1.5em 1.5em 0 0;
+        padding: 1.5em 1.5em 0 2.5rem;
     }
 }
 @media (max-width: 414px) {
@@ -307,22 +329,20 @@
     }
     .case-study .card-container .col-xs-12 {
         height: auto;
+        flex: 1 100%;
     }
     .case-study .contact-container p.contact-title {
-        font-size: 13px;
+        /* font-size: 13px; */
         top: 2px;
         left: 0;
         width: 100%;
-        text-align: center;
     } 
     .case-study .contact-container p.contact-content {
         width: 100%;
-        line-height: 13px;
+        line-height: 14px;
         top: 25px;
         left: 0;
-        font-size: 8px;
-        text-align: center;
-        padding: 0px 70px;
+        font-size: 9px;
     }
     .case-study .contact-container .contact-button {
         position: initial;
@@ -356,8 +376,6 @@
         top: 18px;
         left: 0;
         font-size: 8px;
-        text-align: center;
-        padding: 0px 40px;
     }
     #bgImg .title-index {
         font-size: 24px !important;
