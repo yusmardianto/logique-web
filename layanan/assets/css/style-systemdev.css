@@ -3,24 +3,31 @@
     src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: "Novocento Sans Wide Medium";
     src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 body{
-    font-size: 16px;
-}
-*{
+    font-size: 16px; 
     font-family: 'Montserrat', sans-serif;
+}
+.container__ {
+    width: 1075px;
+    margin:0 auto;
 }
 p{
     margin-bottom: 10px;
 }
 p:last-of-type{
     margin:0;
+}
+img{
+    max-width: 100%;
 }
 .col10{
 /*padding10 each col*/
@@ -39,11 +46,17 @@ p:last-of-type{
     display: flex;
     flex-wrap: wrap;
 }
-.content-section{
+.content-section, .dm__links, .dm__other-service{
     margin-left: 90px;
 }
+.dm__links{
+    margin-bottom: 50px;
+}
+.dm__links .links__item:hover, .dm__other-service .other-service__list .list__item:hover{
+    text-decoration:none;
+}
 .sec-content-part {
-    width: 90%;
+ 
     margin:0 auto;
 }
 .logofont{
@@ -63,9 +76,24 @@ p:last-of-type{
     padding: 128px 0 84px 90px;
     margin:0;
 }
+.content-wrapper__ header   .container__{
+    padding:0 15px;
+}
+.breadcrumb--update-design {
+    font-size: 16px;
+    padding: 1.5em 15px;
+    background-color: transparent;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: ">"!important;
+}
 .breadcrumb-container{
 background: #000000;
-padding:2px 0;
+padding:5px 0;
 }
 .breadcrumb--update-design {
     padding:0; 
@@ -119,8 +147,7 @@ padding:2px 0;
     }
 .btn-yellow:hover{
     background-color: #ffd74f;
-    color: #000;
- 
+    color: #000; 
 }
 .btn-yellow span.icon{
     float: right; 
@@ -159,15 +186,14 @@ section h2{
     margin:0 0 40px 0;
     text-align: center;
 }
-.whyour-systemdev ul li{
- 
+.whyour-systemdev ul li{ 
     display: inline-block;
     float: none;
     width: 23%;
     padding: 0 8px;
- 
- 
+  
 }
+.more{display: none;}
 .whyour-systemdev ul li a{
     border-radius: 22.5px;
     color: #9d9d9d;
@@ -317,6 +343,10 @@ section h2{
 .unsupport-desc{
     padding-top: 40px;
 }
+.see-more-studycase-wrapper{
+    padding: 2em 0 1em;
+    text-align: center;
+}
 .text-slide-content{
     background: url(../img/img-systemdev/newlayout/bg-slidertext-left.jpg) no-repeat left top, url(../img/img-systemdev/newlayout/bg-slidertext-right.jpg) no-repeat right bottom #fff;
     border-radius: 5px;
@@ -420,6 +450,10 @@ section h2{
 .success-item .icon-container{
     margin-bottom: 26px;
 }
+.success-item .icon-container img{
+    height:40px;
+    width: 40px;
+}
 .success-item .scitem-content {
     padding-bottom: 30px;
 }
@@ -451,6 +485,10 @@ section h2{
     margin-top: 50%;
     transform: translatey(-10px) rotate(-90deg);
 
+} 
+.more-icon img{
+    height: 30px;
+    width: 30px;
 }
 .success-item a.more-icon{
     text-decoration: underline;
@@ -508,7 +546,7 @@ section h2{
     padding: 0;    
     opacity: 1;
 }
-.content-section.first-part, .content-section.fourth-part, .content-section.fifth-part, .content-section.sixth-part, .content-section.seventh-part, .content-section.eighth-part, section.dm__other-service, section.dm__links{
+.content-section.first-part, .content-section.fourth-part, .content-section.fifth-part, .content-section.sixth-part, .content-section.seventh-part, .content-section.eighth-part {
     padding-top: 0;
 }
 
@@ -585,6 +623,10 @@ section h2{
 }
 .othertech p ..othertech div{
     line-height: 30px;
+}
+.othertech .img-container img{
+    width: 200px;
+    height: 200px;
 }
 .jsfw-container{
     padding-top: 20px;
@@ -770,9 +812,53 @@ section.dm__other-service  strong, section.dm__links   strong {
     display: inline !important;
     font-weight: normal !important;
 }
-@media (max-width: 1199px) {   }
+ 
+@media (max-width: 1024px) { 
+    .container__ {
+        width: 90%;
+    }
+ }
 
-@media (max-width: 991px) {   }
+@media (max-width: 991px) {  
+    .skema-list > .row:nth-child(even) .skema-img, .skema-list > .row:nth-child(odd) .skema-content{
+        padding: 0 0px 0 0;
+    }
+    .skema-list > .row:nth-child(odd) .skema-img, .skema-list > .row:nth-child(even) .skema-content{
+        padding: 0 0px 0 0px;
+    }
+    .whyour-systemdev ul li a{
+        font-size: 13px;
+    }
+    .whyour-systemdev ul li { 
+        width: 24%;
+        padding: 0 5px;
+    }
+    .unsupport-content{
+        margin-bottom: 20px;
+    }
+    .rowflex::before{
+        display: none;
+    }
+    .unsupport-service .rowflex > div:not(:last-child){
+        padding-bottom: 30px;
+    }
+    .unsupport-icon {
+        padding:20px 0;
+    }
+    .unsupport-content h3{
+        margin:0 10px;
+        height: auto !important;
+    }
+    .studycase .rowflex{
+        display: BLOCK;
+    }
+    .studycase  .text-slide-content{ 
+        padding: 30px;
+    }
+    .testimonial-slider .slick-arrow.slick-next,  .testimonial-slider .slick-arrow.slick-prev{
+        display: none !important;
+    }
+ }
 
 @media (max-width: 762px) {
     .whyus-accordion .panel-collapse {
@@ -935,9 +1021,47 @@ section.dm__other-service  strong, section.dm__links   strong {
         padding: 0;
         opacity: 1;
      }
+     .lang-logo--update-design > .container__{
+         padding:0;
+         width: 100%;
+     }
+     .lang-logo--update-design a{
+         display: inline-block;
+         padding: 5px 0;
+     }
+     .logo--update-design {
+         margin:0 auto
+     }
+      .dm__links, .dm__other-service{
+         margin:0
+     }
 }
 
-@media (max-width: 575px) {   }
+@media (max-width: 575px) {  
+    .content-wrapper__.header {
+        background: url(../img/img-systemdev/newlayout/top-bg-mobile.jpg) no-repeat;
+        background-size: cover;
+        padding: 128px 0 84px 10px;
+        margin:0;
+    }
+    .whyus-section {
+        background: url(../img/img-systemdev/newlayout/whyus-bg-mobile.png) no-repeat bottom;
+        background-size: contain; 
+        margin-bottom: 10px;
+        background-color: rgb(255, 202, 19, 0.2);
+    }
+    .contact-banner.sec-content-part {
+        background: url(../img/img-systemdev/newlayout/bg-contactbanner-mobile.jpg) no-repeat;
+        background-size: cover;
+        padding:30px 0;
+    }
+    .whyphp {
+    background: url(../img/img-systemdev/newlayout/bg-whyphp-mobile.jpg) no-repeat;
+    background-size: cover;
+    padding: 35px 0 40px 0;
+    margin-bottom: 30px;
+}
+ }
 
  
 

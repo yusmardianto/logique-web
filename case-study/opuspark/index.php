@@ -15,6 +15,7 @@
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
     <meta property="og:description" content="Sebagai perusahaan web developer terbaik, LOGIQUE memberikan layanan jasa marketing online kepada kliennya, seperti yang kami lakukan pada klien kami, yaitu apartemen Opus Park. Jika Anda ingin menggunakan jasa layanan ini, silahkan hubungi kami!">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/opuspark/">
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -147,14 +148,18 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb breadcrumb--update-design" itemscope
                         itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
-                        </li>
-                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                            <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Opus Park</span></a>
-                            <meta itemprop="position" content="2" />
-                        </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+                        <meta itemprop="position" content="1" />
+                      </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item"><span itemprop="name">&nbsp; Opus Park</span></a>
+                          <meta itemprop="position" content="3" />
+                      </li>
                     </ol>
                 </div>
             </div>

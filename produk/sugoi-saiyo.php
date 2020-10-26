@@ -58,6 +58,7 @@ if(isset($_POST['submitted']))
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="../css/style.css" rel="stylesheet">
      <link href="css/style_sugoisaiyo.css" rel="stylesheet">
+     <link rel="canonical" href="https://www.logique.co.id/produk/sugoi-saiyo.php"/>
      <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

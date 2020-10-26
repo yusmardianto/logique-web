@@ -18,6 +18,7 @@
     <meta property="og:description"
         content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/portofolio.php">
     <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
 
     <!-- Bootstrap -->
@@ -35,8 +36,10 @@
             })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
             <!-- End Google Tag Manager -->";
         }
+
     ?>
 
+ 
 </head>
 
 <body style="overflow-x: hidden">
@@ -139,31 +142,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <style>
-            html {
-                scroll-behavior: smooth;
-            }
-
-            .addition-desc {
-                font-size: 12px
-            }
-
-            .grey-clr {
-                color: grey
-            }
-
-            .circle-list>li {
-                padding-bottom: 7px
-            }
-
-            .modal-backdrop {
-                display: none !important
-            }
-        </style>
+                </div> 
+            </div> 
+        </div>  
+ 
 
         <div class="portfolio-update content-wrapper__">
 

@@ -442,12 +442,12 @@
 
           </div>
           <div class="case-study-btn-container text-center ">
-            <a href="javascript:void(0)" class=" showcase showmore">
+            <a href="/case-study/" class=" showcase showmore">
               続きを見る
             </a>
-             <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
+             <!-- <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
              少なく見る 
-            </a>
+            </a> -->
           </div>
           <div class="casestudy-text">
             <p>インドネシア進出時のマーケティング支援、Webサイトやモバイルアプリのセキュリティ脆弱性診断などの実績も豊富にあります。当社の実績や経験をもっとご紹介することも可能ですのでお気軽にお問い合わせください。</p>

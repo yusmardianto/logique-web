@@ -8,7 +8,7 @@
     <meta name="description" itemprop="description"
         content="Caroline adalah klien dari LOGIQUE untuk pembuatan dan pengembangan sistem penawaran jual beli mobil online. Anda ingin membuat dan mengembangkan website seperti mereka, segera hubungi kami. Kami siap membantu Anda!">
     <meta name="keywords"
-        content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+        content="Pengembangan sistem penawaran online, Sistem penawaran mobil online, Sistem penawaran mobil website caroline, Pembuatan sistem penawaran mobil Caroline, Contoh pengembangan sistem web otomotif, Klien otomotif logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Sistem Penawaran Jual Beli Mobil Online | Caroline | LOGIQUE">
@@ -19,6 +19,7 @@
     <meta property="og:description"
         content="Caroline adalah klien dari LOGIQUE untuk pembuatan dan pengembangan sistem penawaran jual beli mobil online. Anda ingin membuat dan mengembangkan website seperti mereka, segera hubungi kami. Kami siap membantu Anda!">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/caroline-bidding-system/">
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -166,9 +167,13 @@
                                 <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
                                 <meta itemprop="position" content="1" />
                             </li>
-                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Caroline</span></a>
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
                                 <meta itemprop="position" content="2" />
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                <a itemprop="item"><span itemprop="name">&nbsp; Caroline</span></a>
+                                <meta itemprop="position" content="3" />
                             </li>
                         </ol>
                     </div>
