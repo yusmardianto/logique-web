@@ -42,19 +42,19 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now.">
+         content="LOGIQUE is a mobile app developer in Jakarta, providing Mobile App development & design services, for Android, iOS or Hybrid Mobile Apps.">
      <meta name="keywords"
-         content="jasa pengembangan aplikasi mobile, jasa pengembangan mobile app, jasa pembuatan aplikasi mobile, pengembangan aplikasi mobile">
+         content="Android Application Development, iOS Application Development, Mobile Application development, Mobile app design, Andriod Application Development">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta property="og:title"
-         content="Mobile App Developer | Android, Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA">
+         content="LOGIQUE | Mobile App Developer & Design For Android, iOS or Hybrid">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now">
+         content="LOGIQUE is a mobile app developer in Jakarta, providing Mobile App development & design services, for Android, iOS or Hybrid Mobile Apps.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>Mobile App Developer | Android, Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA</title>
+     <title>LOGIQUE | Mobile App Developer & Design For Android, iOS or Hybrid</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="../../css/style.css" rel="stylesheet">
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
