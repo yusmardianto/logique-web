@@ -6,18 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
+        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <meta name="keywords"
-        content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
+        content="web system development company indonesia, web system development services indonesia, web system development jakarta, web system developer indonesia">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Web System Development Company in Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://logique.co.id/en">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
+        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <!-- Facebook Pixel Code -->
     <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
@@ -63,7 +63,7 @@
     ga('send', 'pageview');
     </script>
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-    <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Web System Development Company in Jakarta | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
@@ -834,17 +834,17 @@
     });
   };
 
-    $('.showmore').click(function(){
-         $('.morecs').css('display','inline-block');
-         $('.showmore').css('display','none'); 
-         $('.showless').css('display','inline-block');   
-        })
+    // $('.showmore').click(function(){
+    //      $('.morecs').css('display','inline-block');
+    //      $('.showmore').css('display','none'); 
+    //      $('.showless').css('display','inline-block');   
+    //     })
 
-    $('.showless').click(function(){
-         $('.morecs').css('display','none');
-         $('.showless').css('display','none'); 
-         $('.showmore').css('display','inline-block');  
-        })
+    // $('.showless').click(function(){
+    //      $('.morecs').css('display','none');
+    //      $('.showless').css('display','none'); 
+    //      $('.showmore').css('display','inline-block');  
+    //     })
         $('.multi-item-carousel .item').each(function(){
         var next = $(this).next();
         if (!next.length) {

@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is a web design and development company from Japan, currently based in Jakarta. Trusted by both local and international clients in the creation of mobile apps, as well as digital marketing and corporate software of the highest quality, our experienced team aims to provide you with the best solutions to grow your business. Contact us now.">
+        content="LOGIQUE is an IT developer based in Jakarta, providing app/website creation & Digital Marketing services, providing digital solutions for your business.">
     <meta name="keywords"
-        content="website creation, onstruction web, internet marketing, SEO, maintenance, mobile application, design, pamphlet">
+        content="Logique About Us, IT developer Jakarta, IT developer Indonesia, IT development company">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Developer, Mobile App, Digital Marketing Jakarta | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="About Us | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/logique.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is a web design and development company from Japan, currently based in Jakarta. Trusted by both local and international clients in the creation of mobile apps, as well as digital marketing and corporate software of the highest quality, our experienced team aims to provide you with the best solutions to grow your business. Contact us now.">
+        content="LOGIQUE is an IT developer based in Jakarta, providing app/website creation & Digital Marketing services, providing digital solutions for your business.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Web Developer, Mobile App, Digital Marketing Jakarta | LOGIQUE DIGITAL INDONESIA</title>
+    <title>About Us | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

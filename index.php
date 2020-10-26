@@ -755,17 +755,17 @@
     });
   };
 
-    $('.showmore').click(function(){
-         $('.morecs').css('display','inline-block');
-         $('.showmore').css('display','none'); 
-         $('.showless').css('display','inline-block');   
-        })
+    // $('.showmore').click(function(){
+    //      $('.morecs').css('display','inline-block');
+    //      $('.showmore').css('display','none'); 
+    //      $('.showless').css('display','inline-block');   
+    //     })
 
-    $('.showless').click(function(){
-         $('.morecs').css('display','none');
-         $('.showless').css('display','none'); 
-         $('.showmore').css('display','inline-block');  
-        })
+    // $('.showless').click(function(){
+    //      $('.morecs').css('display','none');
+    //      $('.showless').css('display','none'); 
+    //      $('.showmore').css('display','inline-block');  
+    //     })
      
         // Instantiate the Bootstrap carousel
         $('#newsCarousel').carousel({

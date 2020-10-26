@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped Zuttoride Indonesia in creating and developing Customer Management System (CRM) Application with data integration system that has high customization and scalability. Learn the case study of a system that helps bike riders here.">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+  <meta name="description" itemprop="description" content="Logique develops web based system for its client including Zuttoride as part of logique's web system strategy, which includes a Customer Management System (CRM).">
+	<meta name="keywords" content="Zuttoride web system, Zuttorude web based system, Logique development strategy, Logique web system strategy, Zuttoride Web System Strategy">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Customer Management System (CRM) Application | Case Study | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Zuttoride Web System Strategy | Case Study | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia helped Zuttoride Indonesia in creating and developing Customer Management System (CRM) Application with data integration system that has high customization and scalability. Learn the case study of a system that helps bike riders here.">
+	<meta property="og:description" content="Logique develops web based system for its client including Zuttoride as part of logique's web system strategy, which includes a Customer Management System (CRM).">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Customer Management System (CRM) Application | Case Study | LOGIQUE Digital Indonesia</title>
+  <title>Zuttoride Web System Strategy | Case Study | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
