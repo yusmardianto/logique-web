@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
-    <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+    <meta name="description" itemprop="description" content="LOGIQUE membantu JBA membuat & mengembangkan website serta sistem aplikasi untuk lelang mobil & motor bekas. Ingin membuat website serupa? Hubungi kami.">
+    <meta name="keywords" content="Pengembangan sistem lelang, Pengembangan sistem lelang mobil, Pengembangan sistem lelang motor, Pembuatan sistem lelang online, Pengambangan aplikasi lelang, Klien logique untuk aplikasi lelang">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Sistem Lelang Mobil dan Motor Bekas | JBA | LOGIQUE Digital Indonesia">
@@ -13,9 +13,10 @@
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-    <meta property="og:description" content="LOGIQUE bekerja sama dengan balai lelang mobil bekas JBA. Mulai dari pembuatan dan pengembangan website lelang mobil dan lelang motor bekas, serta pembuatan aplikasi mobile lelang mobil dan lelang motor bekas. Jika Anda tertarik untuk membuat website dan aplikasi, hubungi kami sekarang juga!">
+    <meta property="og:description" content="LOGIQUE membantu JBA membuat & mengembangkan website serta sistem aplikasi untuk lelang mobil & motor bekas. Ingin membuat website serupa? Hubungi kami.">
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/jba-auction-system/">
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -151,12 +152,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                        <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
+                      </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - JBA Indonesia</span></a>
-                        <meta itemprop="position" content="2" />
+                          <a itemprop="item"><span itemprop="name">&nbsp; JBA Indonesia</span></a>
+                          <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>

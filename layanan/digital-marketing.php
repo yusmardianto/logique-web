@@ -59,7 +59,7 @@
     ?>
 </head>
 
-<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-x: hidden;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-x: hidden; overflow-y:auto">
 	<?php 
 		if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
 			echo '<!-- Google Tag Manager (noscript) -->

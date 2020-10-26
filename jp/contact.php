@@ -740,19 +740,17 @@ if(isset($_POST['submitted']))
 			<br/> -->
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="../en/contact.php">EN</a></li>
-                                    <li><a href="../hubungi-kami.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                                <a href="index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
+                            <ul class="list-inline">
+                                <li><a href="../en/contact.php">EN</a></li>
+                                <li><a href="../hubungi-kami.php">ID</a></li>
+                                <li class="active"><a href="#">JP</a></li>
+                            </ul>
+                            <a href="index.php"><img src="../img/logo.png" alt="Logo"
+                                    class="img-responsive logo--update-design" /></a>
                         </div>
                     </div>
                 </div>

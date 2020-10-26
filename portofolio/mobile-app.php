@@ -26,7 +26,7 @@
     <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/mobile-app.php"/>
     <?php 
         if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
             echo "<!-- Google Tag Manager -->

@@ -559,12 +559,12 @@
                         </div>  
                     </div>
                     <div class="case-study-btn-container text-center ">
-                        <a href="javascript:void(0)" class=" showcase showmore">
-                           view more
+                        <a href="/case-study/" class=" showcase showmore">
+                            View More 
                         </a>
-                         <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
+                         <!-- <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
                            view less
-                        </a>
+                        </a> -->
                     </div>
                     <div class="casestudy-text">
                         <p><strong>LOGIQUE</strong> commits to providing the best solutions to our clients; having worked

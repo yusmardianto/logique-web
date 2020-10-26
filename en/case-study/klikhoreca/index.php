@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
+  <meta name="description" itemprop="description" content="LOGIQUE DIGITAL INDONESIA has developed PWA (Progressive Web App) systems for Klikhoreca using the latest React.JS-based Framework technology.">
 	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE">
+	<meta property="og:title" content="Klikhoreca PWA (Progressive Web App) System Development | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
+	<meta property="og:url" content="https://www.logique.co.id/en/case-study/klikhoreca/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) mempercayakan LOGIQUE dalam membuat & mengembangkan website Indonesea.id sebagai Dive Booking System yang mudah & efisien.">
+	<meta property="og:description" content="LOGIQUE DIGITAL INDONESIA has developed PWA (Progressive Web App) systems for Klikhoreca using the latest React.JS-based Framework technology.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Pembuatan & Pengembangan Website Indonesea.id | LOGIQUE</title>
+  <title>Klikhoreca PWA (Progressive Web App) System Development | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
  
@@ -134,12 +134,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
+                        <a itemprop="item" href="/en"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
+                      </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Klikhoreca</span></a>
-                        <meta itemprop="position" content="2" />
+                          <a itemprop="item"><span itemprop="name">&nbsp; Klikhoreca</span></a>
+                          <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>
