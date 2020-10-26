@@ -353,156 +353,40 @@
           <h3 class="section-title">Studi Kasus</h3>
           <p>Selama lebih dari 7 tahun, <strong>LOGIQUE</strong> telah membantu berbagai klien ternama, dari startup lokal sampai dengan perusahaan internasional untuk mengembangkan Website, Sistem, Web App dan Aplikasi Mobile.</p>
  
-          <div class="flex__row case-study__slide">
-            <div class=" row__item --sm top-2">
-              <picture>
-                <source srcset="/img/case-study-1.webp" type="image/webp">
-                <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/case-study/caroline-bidding-system/">
-                <div class="item__hover">
+          <div class="flex__row case-study__slide case-study__case-item">
+            <div class="col-md-4 col-xs-12">
+              <a href="/case-study/jba-auction-system/" class="case-item" data-card-category="WEBSITE">
                 <picture>
-                  <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
-                  <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
+                  <source srcset="/img/case-study-2.webp" type="image/webp">
+                  <img src="/img/case-study-2.jpg" class="img-responsive case-item__img" alt="JBA Indonesia" loading="lazy">
                 </picture>
-                  
-                  <h4>Situs Jual Beli dengan Sistem Penawaran Online <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                  <p>Caroline merupakan bagian dari PT Triputra Group yang bergerak di berbagai industri seperti agribisnis, manufaktur, dan pertambangan..</p>
-                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </div>
+                <h6>JBA Indonesia</h6>
+                <h4>Online Auction System</h4>                
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
-            <div class=" row__item --sm top-2">
-            <picture>
-                <source srcset="/img/case-study-2.webp" type="image/webp">
-                <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/case-study/jba-auction-system/">
-                <div class="item__hover">
+            <div class="col-md-4 col-xs-12">
+              <a href="/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
                 <picture>
-                  <source srcset="/img/top/i-jba-update.webp" type="image/webp">
-                  <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
-                </picture> 
-                  <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                  <p>JBA Indonesia merupakan salah satu perusahaan asing yang bergerak di bidang lelang dengan skala besar dan berkantor pusat di Jepang.</p>
-                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </div>
+                  <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
+                  <img src="/img/case-study-klikhoreca.jpg" class="img-responsive case-item__img" alt="Klikhoreca"  loading="lazy">
+                </picture>
+                <h6>Klikhoreca</h6>
+                <h4>Progressive Web App</h4>                
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
-            <div class="  row__item --sm">
-            <picture>
-                <source srcset="/img/case-study-3.webp" type="image/webp">
-                <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/case-study/opuspark/">
-                <div class="item__hover">
+            <div class="col-md-4 col-xs-12">
+              <a target="_blank" href="https://www.logique.co.id/blog/ja/2020/10/26/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E7%95%8C%E6%A8%99%E6%BA%96%E5%8C%96%E3%81%A8it/" class="case-item" data-card-category="">
                 <picture>
-                  <source srcset="/img/top/i-opus-park.webp" type="image/webp">
-                  <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
-                </picture> 
-                  <div>
-                    <h4>Opus Park Sentul</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
+                  <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
+                  <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
+                </picture>
+                <h6>INTERVIEW</h6>
+                <h4>PT JBA Indonesia Car & Bike Auction Standardization and DX  </h4>                
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
-            <div class=" row__item --sm">
-            <picture>
-                <source srcset="/img/case-study-4.webp" type="image/webp">
-                <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/case-study/zuttoride-customer-management-system/">
-                <div class="item__hover"> 
-                  <picture>
-                  <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp"> 
-                  <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
-                </picture> 
-                  <div>
-                    <h4>Zutto Ride Indonesia</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class="  row__item --sm">
-              <picture>
-                <source srcset="/img/case-study-5.webp" type="image/webp">
-                <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              <a href="/case-study/vip-plaza-progressive-web-app/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
-                    <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
-                  </picture> 
-                 
-                  <div>
-                    <h4>VIP Plaza</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class=" row__item --sm morecs">
-              <picture>
-                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt=""  loading="lazy">
-              </picture>
-              <a href="/case-study/klikhoreca/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/klikhoreca-min.webp" type="image/webp">
-                    <img src="/img/top/klikhoreca-min.png" alt="" class="img-responsive"  loading="lazy">
-                  </picture>
-                  <div>
-                    <h4>Klikhoreca</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class=" row__item --sm morecs">
-              <picture>
-                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
-                <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt=""  loading="lazy">
-              </picture>
-              <a href="/case-study/indonesea/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/indonesea-min.webp" type="image/webp">
-                    <img src="/img/top/indonesea.png" alt=""  loading="lazy"  class="img-responsive" > 
-                  </picture>
-                  <div>
-                    <h4>Indonesea</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class=" row__item --sm morecs">
-              <picture>
-                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
-                <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt=""  loading="lazy">
-              </picture>
-              <a href="/case-study/pan-pacific/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/pan-pacific.webp" type="image/webp">
-                    <img src="/img/top/pan-pacific.png" alt=""  loading="lazy">
-                  </picture>
-                  <div>
-                    <h4>Pan Pacific</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-
           </div>
           <div class="case-study-btn-container text-center ">
             <a href="/case-study/" class="showcase showmore">
@@ -755,17 +639,17 @@
     });
   };
 
-    $('.showmore').click(function(){
-         $('.morecs').css('display','inline-block');
-         $('.showmore').css('display','none'); 
-         $('.showless').css('display','inline-block');   
-        })
+    // $('.showmore').click(function(){
+    //      $('.morecs').css('display','inline-block');
+    //      $('.showmore').css('display','none'); 
+    //      $('.showless').css('display','inline-block');   
+    //     })
 
-    $('.showless').click(function(){
-         $('.morecs').css('display','none');
-         $('.showless').css('display','none'); 
-         $('.showmore').css('display','inline-block');  
-        })
+    // $('.showless').click(function(){
+    //      $('.morecs').css('display','none');
+    //      $('.showless').css('display','none'); 
+    //      $('.showmore').css('display','inline-block');  
+    //     })
      
         // Instantiate the Bootstrap carousel
         $('#newsCarousel').carousel({

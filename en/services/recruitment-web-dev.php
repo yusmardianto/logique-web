@@ -42,19 +42,19 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
-    <meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
+        content="LOGIQUE can develop a recruitment website to make online recruitment easier for your company, utilizing an easy-to-navigate & attractive design.">
+    <meta name="keywords" content="Develop Recruitment website, Logique recruitment services, Logique Recruitment Jakarta, HR services Jakarta">
     <meta name="author" content="Logique Digital Indonesia">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Develop Your Recruitment Website | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/recruitment-web-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
+        content="LOGIQUE can develop a recruitment website to make online recruitment easier for your company, utilizing an easy-to-navigate & attractive design.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Develop Your Recruitment Website | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">

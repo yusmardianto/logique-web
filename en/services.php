@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is a company highly experienced in website creation, design and development; further specializing in web vulnerability assessment, digital marketing and the advancement of mobile app technology. We serve a single and comprehensive package deal of solutions for all your business problems. See all of our services here.">
+        content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
     <meta name="keywords"
-        content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
+        content="logique services, IT services jakarta, IT development, IT development services jakarta, web creation jakarta">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Website Creation, Mobile App, Web Vulnerabilty Assessment | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Jakarta Based Web Creation & IT Services | LOGIQUE ">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services.php">
     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is a company highly experienced in website creation, design and development; further specializing in web vulnerability assessment, digital marketing and the advancement of mobile app technology. We serve a single and comprehensive package deal of solutions for all your business problems. See all of our services here.">
+        content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Website Creation, Mobile App, Web Vulnerabilty Assessment | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Jakarta Based Web Creation & IT Services | LOGIQUE </title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

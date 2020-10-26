@@ -6,18 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
+        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <meta name="keywords"
-        content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
+        content="web system development company indonesia, web system development services indonesia, web system development jakarta, web system developer indonesia">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Web System Development Company in Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://logique.co.id/en">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
+        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <!-- Facebook Pixel Code -->
     <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
@@ -63,7 +63,7 @@
     ga('send', 'pageview');
     </script>
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-    <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Web System Development Company in Jakarta | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
@@ -410,156 +410,43 @@
                     <p>For more than 7 years, <strong>LOGIQUE</strong> has helped many high-end clients, ranging from the local startups to international enterprise, by developing various Websites, System, Web Apps and Mobile Apps.</p>
 
  
-                    <div class="flex__row case-study__slide">
-                        <div class=" row__item --sm top-2">
-                        <picture>
-                            <source srcset="/img/case-study-1.webp" type="image/webp">
-                            <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/caroline-bidding-system/">
-                                <div class="item__hover">
+                    <div class="flex__row case-study__slide case-study__case-item">
+                        <div class="col-md-4 col-xs-12">
+                            <a href="/en/case-study/jba-auction-system/" class="case-item" data-card-category="WEBSITE">
                                 <picture>
-                                    <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
-                                    <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
+                                    <source srcset="/img/case-study-2.webp" type="image/webp">
+                                    <img src="/img/case-study-2.jpg" class="img-responsive case-item__img" alt="JBA Indonesia" loading="lazy">
                                 </picture>
-                                <h4>Cars Selling Site with Online Bidding System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                                <p>Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.</p>
+                                <h6>JBA Indonesia</h6>
+                                <h4>Online Auction System</h4>                
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                </div>
                             </a>
                         </div>
-                        <div class=" row__item --sm top-2">
-                        <picture>
-                            <source srcset="/img/case-study-2.webp" type="image/webp">
-                            <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/jba-auction-system">
-                                <div class="item__hover">
+                        <div class="col-md-4 col-xs-12">
+                            <a href="/en/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
                                 <picture>
-                                        <source srcset="/img/top/i-jba-update.webp" type="image/webp">
-                                        <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
-                                    </picture>
-                             
-                                <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                                <p>JBA is the largest car and motorcycle auction company in Indonesia. For JBA, we have been trusted in developing almost all systems used which include the main systems. 
-                                    </p>
-                              
+                                    <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
+                                    <img src="/img/case-study-klikhoreca.jpg" class="img-responsive case-item__img" alt="Klikhoreca"  loading="lazy">
+                                </picture>
+                                <h6>Klikhoreca</h6>
+                                <h4>Progressive Web App</h4>                
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                </div>
                             </a>
                         </div>
-                        <div class="row__item --sm">
-                        <picture>
-                            <source srcset="/img/case-study-3.webp" type="image/webp">
-                            <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/opuspark/">
-                                <div class="item__hover">
-                                    
-                                    <picture>
-                                    <source srcset="/img/top/i-opus-park.webp" type="image/webp">
-                                    <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
-                                    </picture>  
-                                    <div>
-                                        <h4>Opus Park Sentul</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="row__item --sm">
-                        <picture>
-                            <source srcset="/img/case-study-4.webp" type="image/webp">
-                            <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/zuttoride-customer-management-system/">
-                                <div class="item__hover">
+                        <div class="col-md-4 col-xs-12">
+                            <a target="_blank" href="https://www.logique.co.id/blog/ja/2020/10/26/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E7%95%8C%E6%A8%99%E6%BA%96%E5%8C%96%E3%81%A8it/" class="case-item" data-card-category="">
                                 <picture>
-                                <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp">
-                                <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
-                                </picture> 
-                                    <div>
-                                        <h4>Zutto Ride Indonesia</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
+                                    <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
+                                    <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
+                                </picture>
+                                <h6>INTERVIEW</h6>
+                                <h4>PT JBA Indonesia Car & Bike Auction Standardization and DX  </h4>                
+                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
-                        <div class="row__item --sm">
-                        <picture>
-                            <source srcset="/img/case-study-5.webp" type="image/webp">
-                            <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/vip-plaza-progressive-web-app/">
-                                <div class="item__hover">
-                                <picture>
-                                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
-                                    <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
-                                </picture> 
-                                    <div>
-                                        <h4>VIP Plaza</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="  row__item --sm morecs">
-                            <picture>
-                                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                                <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt="">
-                            </picture>
-                            <a href="/en/case-study/klikhoreca/">
-                                <div class="item__hover">
-                                    <picture>
-                                        <source srcset="/img/top/klikhoreca.svg">
-                                        <img src="/img/top/klikhoreca.png" alt="">
-                                    </picture>
-                                    <div>
-                                        <h4>Klikhoreca</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="c row__item --sm morecs">
-                            <picture>
-                                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
-                                <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt="">
-                            </picture>
-                            <a href="/en/case-study/indonesea/">
-                                <div class="item__hover">
-                                    <picture>
-                                        <source srcset="/img/top/indonesea-min.webp" >
-                                        <img src="/img/top/indonesea.png" alt=""  class="img-responsive" >
-                                    </picture>
-                                    <div>
-                                        <h4>Indonesea</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class=" row__item --sm morecs">
-                            <picture>
-                                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
-                                <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt="">
-                            </picture>
-                            <a href="/en/case-study/pan-pacific/">
-                                <div class="item__hover">
-                                    <picture>
-                                        <source srcset="/img/top/pan-pacific.svg">
-                                        <img src="/img/top/pan-pacific.png" alt="">
-                                    </picture>
-                                    <div>
-                                        <h4>Pan Pacific</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>  
                     </div>
                     <div class="case-study-btn-container text-center ">
-                        <a href="/case-study/" class=" showcase showmore">
+                        <a href="/case-study/" class="showcase showmore">
                             View More 
                         </a>
                          <!-- <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
@@ -834,17 +721,17 @@
     });
   };
 
-    $('.showmore').click(function(){
-         $('.morecs').css('display','inline-block');
-         $('.showmore').css('display','none'); 
-         $('.showless').css('display','inline-block');   
-        })
+    // $('.showmore').click(function(){
+    //      $('.morecs').css('display','inline-block');
+    //      $('.showmore').css('display','none'); 
+    //      $('.showless').css('display','inline-block');   
+    //     })
 
-    $('.showless').click(function(){
-         $('.morecs').css('display','none');
-         $('.showless').css('display','none'); 
-         $('.showmore').css('display','inline-block');  
-        })
+    // $('.showless').click(function(){
+    //      $('.morecs').css('display','none');
+    //      $('.showless').css('display','none'); 
+    //      $('.showmore').css('display','inline-block');  
+    //     })
         $('.multi-item-carousel .item').each(function(){
         var next = $(this).next();
         if (!next.length) {
