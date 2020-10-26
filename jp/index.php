@@ -319,8 +319,8 @@
                   <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
                   <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
                 </picture>
-                <h6>INTERVIEW</h6>
-                <h4>PT JBA Indonesia Car & Bike Auction Standardization and DX  </h4>                
+                <h6>インタビュー</h6>
+                <h4>PT JBA Indonesia 自動車＆バイクオークション業界におけるDXの重要性と業界標準化について</h4>                
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
