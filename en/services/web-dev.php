@@ -43,20 +43,20 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
+         content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
      <meta name="keywords"
-         content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
+         content="web developer jakarta, web development service, web developer company">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Web Development Service | LOGIQUE Digital Indonesia">
+     <meta property="og:title" content="A Jakarta Based Web Developer Service Company | LOGIQUE">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
+         content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
 
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>Web Development Service | LOGIQUE Digital Indonesia</title>
+     <title>A Jakarta Based Web Developer Service Company | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-webdev-new.css" rel="stylesheet">

@@ -5,19 +5,19 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="Logique offers professional seo optimization services, which include seo marketing, seo auditing and seo analysis, led by digital marketing consultants">
-	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, SEO consultation, search console service, web maintenance, content writing, creative content, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, brand recognition, multilanguage content, website portfolio, SEO strategy">
+	<meta name="description" content="Logique is a professional SEO service agency in Jakarta, optimizing your website, Increasing your organic traffic & gaining more conversions.">
+	<meta name="keywords" content="SEO service jakarta, SEO content writer, SEO service provider">
 	<meta name="title" content="Logique provides Jakarta based Search Engine Optimization services">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="LOGIQUE: Jakarta Based SEO Services & Consulting Available">
+	<meta property="og:title" content="LOGIQUE | A Professional SEO Service Agency In Jakarta">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/digital-marketing/seo-service.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-	<meta property="og:description" content="Advance your website through high quality SEO Services to get you started. Rise through Google’s Ranks and improve your site’s on page SEO.">
+	<meta property="og:description" content="Logique is a professional SEO service agency in Jakarta, optimizing your website, Increasing your organic traffic & gaining more conversions.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Logique Digital Marketing - SEO Service Page</title>
+	<title>LOGIQUE | A Professional SEO Service Agency In Jakarta</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">

@@ -42,20 +42,19 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
-場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
-    <meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
+    <meta name="description" content="LOGIQUE is a highly ranked web development company in Jakarta offering a range of prices and platforms for developing a Website or web Application.">
+    <meta name="keywords" content="web development price list, web development price list in jakarta">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Web Development Service | LOGIQUE Digital Indonesia">
+     <meta property="og:title" content="Complete Web Development Price List Jakarta | LOGIQUE">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
-    <title>Web Development Price | LOGIQUE Digital Indonesia</title>
+         content="LOGIQUE is a highly ranked web development company in Jakarta offering a range of prices and platforms for developing a Website or web Application.">
+    <title>Complete Web Development Price List Jakarta | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style_webdev_service_new.css" rel="stylesheet">

@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia respects the privacy of its customers and the visitors and users of this website. We pay close attention to how Personal Information is used and shared, to maintain a long term service. Here’s our Privacy Policy.">
-    <meta name="keywords" content="logique privacy policy, web privacy">
+    <meta name="description" itemprop="description" content="LOGIQUE respects the privacy of its customers and the visitors and users of this website. We pay attention to how Personal Information is handled.">
+    <meta name="keywords" content="Logique Privacy Policy, Logique Terms and Conditions, Logique Terms of service">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Privacy Policy | Web Developer Jakarta | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Privacy Policy | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/privacy-policy.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/privacy-policy.png">
-    <meta property="og:description" content="LOGIQUE Digital Indonesia respects the privacy of its customers and the visitors and users of this website. We pay close attention to how Personal Information is used and shared, to maintain a long term service. Here’s our Privacy Policy.">
+    <meta property="og:description" content="LOGIQUE respects the privacy of its customers and the visitors and users of this website. We pay attention to how Personal Information is handled.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-      <title>Privacy Policy | Web Developer Jakarta | LOGIQUE Digital Indonesia</title>
+      <title>Privacy Policy | LOGIQUE Digital Indonesia</title>
 
       <!-- Bootstrap -->
       <link href="../css/bootstrap.min.css" rel="stylesheet">

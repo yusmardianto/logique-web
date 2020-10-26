@@ -41,9 +41,9 @@
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
+         content="LOGIQUE: web based system development & website management services. Through agile development methods, we develop & design your web based system.">
      <meta name="keywords"
-         content="web systems, web developer, web design, mobile app, mobile applications, web development, web services, web development services, web security, logique digital Indonesia">
+         content="System development, Web based systems, Web system, System maintenance">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
      <meta property="og:title" content="Web System Development Service | LOGIQUE Digital Indonesia">
@@ -51,8 +51,7 @@
      <meta property="og:site_name" content="Logique">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
-
+         content="LOGIQUE: web based system development & website management services. Through agile development methods, we develop & design your web based system.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <title>Web System Development Service | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
