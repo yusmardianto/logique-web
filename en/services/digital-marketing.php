@@ -50,7 +50,7 @@
     <!-- End Twitter universal website tag code -->
 </head>
 
-<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-x: hidden;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-y: auto;">
     <style>
     .--top {
         background-color: black;
