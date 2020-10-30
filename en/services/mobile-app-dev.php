@@ -80,7 +80,7 @@ if(isset($_POST['submitted']))
      </script>
  </head>
 
- <body class="wrapper wrapper--update-design mobileapp-page">
+ <body class="wrapper wrapper--update-design mobileapp-page"  style="overflow-y:auto">
      <style>
      .container__ {
          padding-top: 0;
@@ -174,7 +174,7 @@ if(isset($_POST['submitted']))
 
      <!-- HEADER -->
      <div class="container-fluid">
-         <div class="row lang-logo--update-design">
+         <div class="  lang-logo--update-design">
              <div class="container">
                  <div class="row">
                      <div class="col-sm-offset-1 col-sm-11">

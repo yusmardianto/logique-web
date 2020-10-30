@@ -94,7 +94,7 @@
 
 </head>
 
-<body class="wrapper wrapper--update-design wrapper--update-design-font --jp" style="overflow-x: hidden;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font --jp" style="overflow-y: auto;">
     <div class="nav-lp">
         <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
             <span class="icon-bar first"></span>
