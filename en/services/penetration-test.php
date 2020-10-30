@@ -44,7 +44,7 @@
     </script>
 </head>
 
-<body class="wrapper wrapper--update-design">
+<body class="wrapper wrapper--update-design" style="overflow-y: auto;">
     <style>
     .container__ {
         padding-top: 0;
@@ -141,7 +141,7 @@
 
     <!-- HEADER -->
     <div class="container-fluid">
-        <div class="row lang-logo--update-design">
+        <div class="lang-logo--update-design">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
