@@ -142,7 +142,7 @@
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>Melakukan konversi dari desain ke HTML & CSS / ReactJs / Vue JS</li>
+                  <li>Melakukan konversi dari desain ke HTML & CSS / React JS / Vue JS</li>
                   <li>Melakukan integrasi RESTful API</li>
                   <li>Bekerja sama dan berkolborasi dengan tim Back-End dan Desainer</li>
                   <li>Berkomunikasi dengan penanggung jawab proyek terkait pekerjaan yang diberikan</li>
@@ -162,7 +162,7 @@
                   <li>Berpengalaman menggunakan CSS Preprocessors seperti SASS, LESS</li>
                   <li>Berpengalaman menggunakan CSS Framework seperti Bootstrap, Foundation, Material UI</li>
                   <li>Berpengalaman menggunakan aplikasi desain seperti Adobe Photoshop / Sketch</li>
-                  <li>Berpengalaman menggunakan JavaScript Framework seperti ReactJS / Vue JS</li>
+                  <li>Berpengalaman menggunakan JavaScript Framework seperti React JS / Vue JS</li>
                   <li>Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya.</li>
                   <li>Berpengalaman menggunakan version control system seperti GIT</li>
                   <li>Mahir menggunakan Browser Development Tools</li>
