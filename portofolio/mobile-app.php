@@ -78,7 +78,7 @@
                         </a>
                     </div>
                     <div class="text-center active">
-                        <a href="#">
+                        <a href="/portofolio.php">
                             <div class="img-portfolio"></div>
                             Portfolio
                         </a>
