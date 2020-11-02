@@ -267,7 +267,7 @@
           </div>
 
           <div class="row card-container">
-            <div class="col-sm-4 col-xs-12 filter website">
+            <div class="col-sm-4 col-xs-12 filter website websystem">
                 <a href="/case-study/caroline-bidding-system" class="links__item">
                     <div class="img-container">
                       <picture>
@@ -276,7 +276,7 @@
                       </picture>
                     </div>
                     <div class="text-container">
-                      <p>Website</p>
+                      <p>Website & Web System</p>
                     </div>
                     <p class="card-title">Caroline</p>
                     <p class="card-content">Situs Jual Beli dengan Sistem Penawaran Online</p>
@@ -284,7 +284,7 @@
                 
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter website">
+            <div class="col-sm-4 col-xs-12 filter website mobileapp websystem">
               <a href="/case-study/jba-auction-system" class="links__item">
                     <div class="img-container">
                       <picture>
@@ -294,7 +294,7 @@
                     </div>
 
                     <div class="text-container">
-                      <p>Website</p>
+                      <p>Website & Web System & Aplikasi Mobile</p>
                     </div>
                     <p class="card-title">JBA Indonesia</p>
                     <p class="card-content">Online Auction System</p>
