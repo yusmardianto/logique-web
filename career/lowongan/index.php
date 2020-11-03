@@ -139,11 +139,11 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/frontend-developer.php">
+                  <a href="/career/lowongan/it-generalist/business-analyst.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body ">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Front End Developer">
-                        <h3 class="heading-black">Front End Developer</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/analysis.png" alt="Front End Developer">
+                        <h3 class="heading-black">Business Analyst</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
