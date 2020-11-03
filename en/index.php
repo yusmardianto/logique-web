@@ -19,49 +19,14 @@
     <meta property="og:description"
         content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/en/index.php" />  
     <!-- Facebook Pixel Code -->
     <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
-    <script>
-    ! function(f, b, e, v, n, t, s) {
-        if (f.fbq) return;
-        n = f.fbq = function() {
-            n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n;
-        n.push = n;
-        n.loaded = !0;
-        n.version = '2.0';
-        n.queue = [];
-        t = b.createElement(e);
-        t.async = !0;
-        t.src = v;
-        s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-    }(window, document, 'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '713777762291663');
-    fbq('track', 'PageView');
-    </script>
+    <script>!function(e,t,n,c,o,a){e.fbq||(c=e.fbq=function(){c.callMethod?c.callMethod.apply(c,arguments):c.queue.push(arguments)},e._fbq||(e._fbq=c),(c.push=c).loaded=!0,c.version="2.0",c.queue=[],(o=t.createElement(n)).async=!0,o.src="https://connect.facebook.net/en_US/fbevents.js",(a=t.getElementsByTagName(n)[0]).parentNode.insertBefore(o,a))}(window,document,"script"),fbq("init","713777762291663"),fbq("track","PageView");</script>
     <noscript><img height="1" width="1" style="display:none"
             src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->
-    <script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-105878648-1', 'auto');
-    ga('send', 'pageview');
-    </script>
+    <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview"); </script>
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
     <title>Web System Development Company in Jakarta | LOGIQUE</title>
 
@@ -83,23 +48,7 @@
 
 <body>
     <style>
-    .bg--white {
-        position: relative;
-    }
-    section.visible-xs.visible-sm.--top {
-        position: relative;
-        z-index: 5;
-    }
-    @media (max-width: 768px) and (min-width: 415px) {
-        .custombox__product-wrapper {
-            margin-bottom: 2em;
-        }
-    }
-    @media (max-width: 768px) {
-        .col-sm-8 .custombox__btn-product {
-            font-size: 11px;
-        }
-    }
+    .bg--white{position:relative}section.visible-xs.visible-sm.--top{position:relative;z-index:5}@media (min-width:1200px){.title-index{white-space:nowrap}}@media (max-width:768px) and (min-width:415px){.custombox__product-wrapper{margin-bottom:2em}}@media (max-width:768px){.col-sm-8 .custombox__btn-product{font-size:11px}}
     </style>
 
     <?//php include '../popup.php'; ?>
@@ -198,55 +147,52 @@
 
             <div id="bgImg" style="height: auto; margin-left:auto; margin-right: auto; overflow: visible;">
                 <div class="img homepage-hero">
-                    <div class="title-container  ">
-                         
-                            <div class="container__">
-                                <div class="row">
-                                    <div class="col-md-offset-1 col-md-10 text-center">
-                                        <h1 class="title-index" style="margin-top: 100px;">The Top Web System Developer in Jakarta, <br>Providing Digital
-                                            Solutions for Your Business</h1>
-                                        <p><strong>LOGIQUE DIGITAL INDONESIA</strong> is a professional Web Application / Mobile App Developer that
-                                            specializes in creating and designing WebApps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits.
-                                            <br>
-                                            Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
-                                    </div>
-                                </div>
-                                <div class="row  homepage-hero__card flex__row ">
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/web-dev.php" class="div-service-cat">
-                                            <img src="/img/top/i-top1.svg" alt="Website Production Service"
-                                                class="img-responsive" />
-                                            <h2>Website Production Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-                                            <img src="/img/top/i-top2.svg" alt="Apps Development Service"
-                                                class="img-responsive" />
-                                            <h2>Apps Development Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/system-dev.php" class="div-service-cat">
-                                            <img src="/img/top/i-top3.svg" alt="Web System Development Service"
-                                                class="img-responsive" />
-                                            <h2>Web System Development Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/penetration-test.php" class="div-service-cat">
-                                            <img src="/img/top/i-top4.svg" alt="Penetration Testing Service"
-                                                class="img-responsive" />
-                                            <h2>Penetration Testing Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
+                    <div class="title-container">                         
+                        <div class="container__">
+                            <div class="row">
+                                <div class="col-md-offset-1 col-md-10 text-center">
+                                    <h1 class="title-index" style="margin-top: 100px; ">The Top Web System Development Company in Jakarta, <br>Providing Digital Solutions for Your Business</h1>
+                                    <p><strong>LOGIQUE DIGITAL INDONESIA</strong> is a professional Web Application / Mobile App Developer that
+                                        specializes in creating and designing WebApps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits.
+                                        <br>
+                                        Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
                                 </div>
                             </div>
-                         
+                            <div class="row  homepage-hero__card flex__row ">
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/web-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top1.svg" alt="Website Production Service"
+                                            class="img-responsive" />
+                                        <h2>Website Production Service</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top2.svg" alt="Apps Development Service"
+                                            class="img-responsive" />
+                                        <h2>Apps Development Service</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/system-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top3.svg" alt="Web System Development Service"
+                                            class="img-responsive" />
+                                        <h2>Web System Development Service</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/penetration-test.php" class="div-service-cat">
+                                        <img src="/img/top/i-top4.svg" alt="Penetration Testing Service"
+                                            class="img-responsive" />
+                                        <h2>Penetration Testing Service</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -262,7 +208,11 @@
                             <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
                         </div>
                         <div class="col-md-6">
-                            <img class="portfolio__img img-responsive" src="/img/our-portfolio.png" alt="portfolio">
+                            <picture>
+                                <source srcset="/img/our-portfolio-min.webp" type="image/webp">
+                                <source srcset="/img/our-portfolio-min.jpg">
+                                <img loading="lazy"  src="/img/our-portfolio-min.jpg" class="portfolio__img img-responsive" alt="">
+                            </picture>
                         </div>
                     </div>
                     <!-- <div class="row">
@@ -312,7 +262,10 @@
                         </div> -->
                         <div class="col-md-4 row__item">
                             <div class="item__img nippo">
-                                <img src="/img/top/i-nippo-update.png" alt="" class="img-responsive">
+                                <picture>
+                                    <source srcset="/img/top/i-nippo-update.webp" type="image/webp">
+                                    <img src="/img/top/i-nippo-update.png" alt="" loading="lazy" class="img-responsive">
+                                </picture> 
                             </div>
                             <div class="item__text">
                                 <h4>Nippo</h4>
@@ -322,7 +275,10 @@
                         </div>
                         <div class="col-md-4 row__item">
                             <div class="item__img">
-                                <img src="/img/top/i-sugoi-saiyo-update.png" alt="">
+                                <picture>
+                                    <source srcset="/img/top/i-sugoi-saiyo-update.webp" type="image/webp">
+                                    <img src="/img/top/i-sugoi-saiyo-update.png" alt="" loading="lazy">
+                                </picture>  
                             </div>
                             <div class="item__text">
                                 <h4>Sugoi Saiyo</h4>
@@ -494,23 +450,29 @@
                     <div class="flex__row">
                         <div class="col-sm-6 col-xs-12 row__item">
                             <a href="services.php" class="item item--service">
-                                <img src="/img/service.png" alt="">
+                                <picture>
+                                    <source srcset="/img/service.webp" type="image/webp">
+                                    <img src="/img/service.png" alt="service"  loading="lazy">
+                                </picture>
                                 <h3>See Service List</h3>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>                           
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
                             <a href="product.php" class="item item--product">
-                                <img src="/img/product.png" alt="">
+                                <picture>
+                                    <source srcset="/img/product.webp" type="image/webp">
+                                    <img src="/img/product.png" alt="product"  loading="lazy">
+                                </picture>
                                 <h3>See Product List</h3>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
-                        <a href="contact-us.php" class="item item--contact">
-                        <picture>
-                            <source srcset="/img/smartphone.webp" type="image/webp">
-                            <img src="/img/smartphone.png"   alt=""  loading="lazy">
+                        <a href="contact.php" class="item item--contact">
+                            <picture>
+                                <source srcset="/img/smartphone.webp" type="image/webp">
+                                <img src="/img/smartphone.png"   alt=""  loading="lazy">
                             </picture>
                             
                             <h3>Contact Us</h3>
@@ -519,9 +481,9 @@
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
                         <a href="../career/" class="item item--career">
-                        <picture>
-                            <source srcset="/img/businessman.webp" type="image/webp">
-                            <img src="/img/businessman.png"   alt=""  loading="lazy">
+                            <picture>
+                                <source srcset="/img/businessman.webp" type="image/webp">
+                                <img src="/img/businessman.png"   alt=""  loading="lazy">
                             </picture> 
                             <h3>Career</h3>
                             <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -685,65 +647,64 @@
 
     <?php include 'footer.php';?>
 
-    <script>
-  
-  $slick_slider = $('.case-study__slide');
-  settings_slider = {
-    slidesToShow: 2,
-    slidesToScroll: 2,
-     arrow:true,
-    infinite: true,
-    responsive: [{ 
-        breakpoint: 768,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          arrow:true
+    <script>  
+        $slick_slider = $('.case-study__slide');
+        settings_slider = {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            arrow:true,
+            infinite: true,
+            responsive: [{ 
+                breakpoint: 768,
+                settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrow:true
+                }
+            },
+            ]
+            // more settings
         }
-      },
-    ]
-    // more settings
-  }
-  slick_on_mobile( $slick_slider, settings_slider);
+        slick_on_mobile( $slick_slider, settings_slider);
 
-// slick on mobile
-  function slick_on_mobile(slider, settings){
-    $(window).on('load resize', function() {
-      if ($(window).width() > 1100) {
-        if (slider.hasClass('slick-initialized')) {
-          slider.slick('unslick');
-        }
-        return
-      }
-      if (!slider.hasClass('slick-initialized')) {
-        return slider.slick(settings);
-      }
-    });
-  };
+        // slick on mobile
+        function slick_on_mobile(slider, settings){
+            $(window).on('load resize', function() {
+            if ($(window).width() > 1100) {
+                if (slider.hasClass('slick-initialized')) {
+                slider.slick('unslick');
+                }
+                return
+            }
+            if (!slider.hasClass('slick-initialized')) {
+                return slider.slick(settings);
+            }
+            });
+        };
 
-    // $('.showmore').click(function(){
-    //      $('.morecs').css('display','inline-block');
-    //      $('.showmore').css('display','none'); 
-    //      $('.showless').css('display','inline-block');   
-    //     })
+        // $('.showmore').click(function(){
+        //      $('.morecs').css('display','inline-block');
+        //      $('.showmore').css('display','none'); 
+        //      $('.showless').css('display','inline-block');   
+        //     })
 
-    // $('.showless').click(function(){
-    //      $('.morecs').css('display','none');
-    //      $('.showless').css('display','none'); 
-    //      $('.showmore').css('display','inline-block');  
-    //     })
+        // $('.showless').click(function(){
+        //      $('.morecs').css('display','none');
+        //      $('.showless').css('display','none'); 
+        //      $('.showmore').css('display','inline-block');  
+        //     })
         $('.multi-item-carousel .item').each(function(){
-        var next = $(this).next();
-        if (!next.length) {
-            next = $(this).siblings(':first');
-        }
-        next.children(':first-child').clone().appendTo($(this));
-        
-        // if (next.next().length>0) {
-        //     next.next().children(':first-child').clone().appendTo($(this));
-        // } else {
-        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
-        // }
+            var next = $(this).next();
+            if (!next.length) {
+                next = $(this).siblings(':first');
+            }
+            next.children(':first-child').clone().appendTo($(this));
+            
+            // if (next.next().length>0) {
+            //     next.next().children(':first-child').clone().appendTo($(this));
+            // } else {
+            //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+            // }
         });
   </script>
 
