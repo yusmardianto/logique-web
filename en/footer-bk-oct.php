@@ -1,18 +1,144 @@
 <style>
-footer{margin-left:0;background-color:transparent}@media only screen and (max-width:414px){footer{padding:30px 15px 10px}}.bg--footer{background-color:#212425}.tahap-pemesanan-2{background-color:#ffcd38}#PureChatWidget.purechat.purechat-bottom-right{right:20px!important;bottom:20px!important}#PureChatWidget{transition:all ease-in-out .25s!important}#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header{min-height:55px!important}#PureChatWidget.purechat.purechat-style-classic{border:none!important}#PureChatWidget.purechat .purechat-content-wrapper{background-color:#f1f1f1!important}#PureChatWidget.purechat .purechat-card{background-color:#fff!important}#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse{bottom:70px!important}#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right{bottom:-60px!important}#PureChatWidget.purechat .purechat-widget-header .purechat-btn,#PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,#PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover{box-shadow:none!important}.purechat-widget-title__arrow.--hide{display:none!important}@media (max-width:991.98px){#PureChatWidget{width:200px!important}#PureChatWidget.purechat.purechat-bottom-right,#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom,#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom{left:unset!important;right:50%!important;transform:translateX(50%)!important}#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom,#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right{bottom:-65px!important}#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse,#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse{bottom:70px!important;right:unset!important;left:45%!important;transform:translateX(-50%)!important}}
+footer {
+    margin-left: 0;
+    background-color: transparent;
+}
+
+@media only screen and (max-width:414px) {
+    footer {
+        padding: 30px 15px 10px;
+    }
+}
+
+.bg--footer {
+    background-color: #212425;
+}
+
+.tahap-pemesanan-2 {
+    background-color: #ffcd38;
+}
+
+#PureChatWidget.purechat.purechat-bottom-right {
+    right: 20px !important;
+    bottom: 20px !important;
+}
+
+#PureChatWidget {
+    transition: all ease-in-out .25s !important;
+}
+
+#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {
+    min-height: 55px !important;
+}
+
+#PureChatWidget.purechat.purechat-style-classic {
+    border: none !important;
+}
+
+#PureChatWidget.purechat .purechat-content-wrapper {
+    background-color: #f1f1f1 !important;
+}
+
+#PureChatWidget.purechat .purechat-card {
+    background-color: #fff !important;
+}
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
+    bottom: 70px !important;
+}
+
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right,
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left {
+    bottom: -60px !important;
+}
+
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn,
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {
+    box-shadow: none !important;
+}
+
+.purechat-widget-title__arrow.--hide {
+    display: none !important;
+}
+
+@media (max-width: 991.98px) {
+    #PureChatWidget {
+        width: 200px !important;
+    }
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom,
+    #PureChatWidget.purechat.purechat-bottom-right {
+        left: unset !important;
+        right: 50% !important;
+        transform: translateX(50%) !important;
+    }
+    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right,
+    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {
+        bottom: -65px !important;
+    }
+    #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse,
+    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse {
+        bottom: 70px !important;
+        right: unset !important;
+        left: 45% !important;
+        transform: translateX(-50%) !important;
+    }
+}
 </style>
 <footer class="content-wrapper__ bg--footer footer-section footer-update">
     <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
 
-    <script type='text/javascript' data-cfasync='false'>window.purechatApi={l:[],t:[],on:function(){this.l.push(arguments)}},function(){var e=!1,t=document.createElement("script");t.async=!0,t.type="text/javascript",t.src="https://app.purechat.com/VisitorWidget/WidgetScript",document.getElementsByTagName("HEAD").item(0).appendChild(t),t.onreadystatechange=t.onload=function(t){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(new PCWidget({c:"4c745242-66c8-4931-9b56-3c3bdcc5cbe6",f:!0}),e=!0)}}();</script>
-    <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview");</script>
+    <script type='text/javascript' data-cfasync='false'>
+    window.purechatApi = {
+        l: [],
+        t: [],
+        on: function() {
+            this.l.push(arguments);
+        }
+    };
+    (function() {
+        var done = false;
+        var script = document.createElement('script');
+        script.async = true;
+        script.type = 'text/javascript';
+        script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript';
+        document.getElementsByTagName('HEAD').item(0).appendChild(script);
+        script.onreadystatechange = script.onload = function(e) {
+            if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+                var w = new PCWidget({
+                    c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6',
+                    f: true
+                });
+                done = true;
+            }
+        };
+    })();
+    </script>
+    <script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-105878648-1', 'auto');
+    ga('send', 'pageview');
+    </script>
     <div class="container__footer">
         <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
                 <div class="row flex-row">
                     <div class="col-sm-4 company-info ">
                         <div itemscope itemtype="https://schema.org/Organization">
-                            <div class="footer-title"> <span itemprop="name">LOGIQUE</span></strong></div>
+                        <div class="footer-title"> <span itemprop="name">LOGIQUE</span></strong></div>
                             <div  class='footer-address' itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> Ad Premier Building 19th Floor.<br> Jalan Tb. Simatupang No. 5 <br />
                                     Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
@@ -55,7 +181,8 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a href="/en/portfolio.php">Portfolio</a></li>                                    
+                                    <li><a href="/en/portfolio.php">Portfolio</a></li>
+                                    
                                    
                                 </ul>
                             </div> 
@@ -95,10 +222,9 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                 <div class="row">
                     <div class="col-sm-12">
                         <div itemscope itemtype="https://schema.org/CreativeWork">
-                            <div class="copyright">
-                                &copy; <span class="copyrightYear" itemprop="copyrightYear">2017</span>
-                                <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span> All Rights Reserved.</span></span>
-                            </div>
+                            <div class="copyright">&copy; <span class="copyrightYear" itemprop="copyrightYear">2017</span>
+                                <span itemprop="copyrightHolder" itemtype="https://schema.org/Organization"><span
+                                        itemprop="name"><span  class="logo-font">Logique Digital Indonesia.</span> All Rights Reserved.</span></span></div>
                         </div>
                     </div>
                 </div>
