@@ -19,7 +19,7 @@
     <meta property="og:description"
         content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/en/index.php" />  
+    <link rel="canonical" href="https://www.logique.co.id/en/" />  
     <!-- Facebook Pixel Code -->
     <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
     <script>!function(e,t,n,c,o,a){e.fbq||(c=e.fbq=function(){c.callMethod?c.callMethod.apply(c,arguments):c.queue.push(arguments)},e._fbq||(e._fbq=c),(c.push=c).loaded=!0,c.version="2.0",c.queue=[],(o=t.createElement(n)).async=!0,o.src="https://connect.facebook.net/en_US/fbevents.js",(a=t.getElementsByTagName(n)[0]).parentNode.insertBefore(o,a))}(window,document,"script"),fbq("init","713777762291663"),fbq("track","PageView");</script>
