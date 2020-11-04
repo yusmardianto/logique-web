@@ -285,7 +285,7 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <!-- <h4 class="title-index--bold">PERKEMBANGAN</h4><br> -->
-                            <p>Mndukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</p>
+                            <p>Mendukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</p>
                         </div>
                         <div class="col-sm-6">
                             <!-- <h4 class="title-index--bold">INOVASI</h4><br> -->
