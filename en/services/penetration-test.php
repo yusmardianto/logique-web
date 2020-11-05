@@ -613,7 +613,7 @@
 
         <section>
             <br />
-            <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> Works 2019</div>
+            <div class="mengapa-harus"><a href="/en/" target="_blank"><b class="logo-font">LOGIQUE</b></a> Works 2019 - 2020</div>
             <div class="container__">
                 <div class="row">
 
@@ -769,6 +769,142 @@
                                         <td><span class="table__round --high">3</span></td>
                                         <td><span class="table__round --middle">4</span></td>
                                         <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Mobile App</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">8</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">3</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Automotive</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Service</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Mobilephone Provider</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">10</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Airline</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Financial Planner</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Travel</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Apr 2020</td>
+                                        <td>Service</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Apr 2020</td>
+                                        <td>Service</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 2020</td>
+                                        <td>Insurance</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 2020</td>
+                                        <td>Insurance</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jun 2020</td>
+                                        <td>Pharmacies</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jun 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct 2020</td>
+                                        <td>Agriculture</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">5</span></td>
+                                        <td><span class="table__round --low">1</span></td>
                                     </tr>
                                 </tbody>
                             </table>
