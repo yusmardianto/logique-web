@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
   font-family: "Novocento Sans Wide";
   src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
   font-weight: normal;
@@ -10,8 +10,8 @@
   src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
   font-weight: bold;
   font-style: normal;
-}
-@font-face {
+} */
+/* @font-face {
   font-family: "M Plus 1p";
   src: url("../fonts/M_PLUS_1p/MPLUS1p-Regular.ttf");
 }
@@ -26,8 +26,8 @@
 @font-face {
   font-family: "M Plus 1p Extra Bold";
   src: url("../fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf");
-}
-@font-face {
+} */
+/* @font-face {
   font-family: "Raleway";
   src: url("../fonts/Raleway/Raleway-Regular.ttf");
 }
@@ -50,8 +50,8 @@
 @font-face {
   font-family: "Raleway Extra Bold";
   src: url("../fonts/Raleway/Raleway-ExtraBold.ttf");
-}
-@font-face {
+} */
+/* @font-face {
   font-family: "Open Sans";
   src: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
 }
@@ -66,12 +66,12 @@
 @font-face {
   font-family: "Open Sans Extra Bold";
   src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf");
-}
+} */
 
 
 html,
 body {
-  font-family: "M Plus 1p", Lato, sans-serif !important;
+  /* font-family: "M Plus 1p", Lato, sans-serif !important; */
 
   background-color: #fff;
   overflow-x: hidden;
@@ -81,7 +81,7 @@ body {
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
 * {
-    font-family: 'M Plus 1p',Lato, sans-serif; 
+  font-family: 'Raleway', 'sans-serif';
 }
 
 header {
@@ -190,7 +190,7 @@ header h1 {
   margin-bottom: 10px;
   padding: 0 15px;
   font-weight: 500;
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
 }
 .obstacle p {
   padding: 0 15px;
@@ -198,7 +198,7 @@ header h1 {
   font-size: 14px;
   color: #4a4a4a;
   letter-spacing: 0;
-  font-family:"M Plus 1p", sans-serif;
+  /* font-family:"M Plus 1p", sans-serif; */
 }
 
 section {
@@ -229,14 +229,14 @@ section {
   border-left: none;
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 1.33px;
 }
 .title-content-p {
   color: rgb(0, 0, 0);
   font-size: 13px;
-  font-family: "M Plus 1p", sans-serif;
+  /* font-family: "M Plus 1p", sans-serif; */
   font-weight: normal;
   letter-spacing: 0.72px;
 }
@@ -724,7 +724,7 @@ footer {
   margin-top: 0;
   color: rgb(0, 0, 0);
   font-size: 18px;
-  font-family: "M Plus 1p bold", sans-serif;
+  /* font-family: "M Plus 1p bold", sans-serif; */
   font-weight: bold;
   letter-spacing: 1px;
 }
@@ -735,7 +735,7 @@ footer {
   margin-left: -50px;
   color: rgb(0, 0, 0);
   font-size: 14px;
-  font-family: "M Plus 1p", sans-serif;
+  /* font-family: "M Plus 1p", sans-serif; */
   font-weight: normal;
   letter-spacing: 0.78px;
 }
@@ -969,7 +969,7 @@ footer {
   border-radius: 5px;
   height: 60px;
   font-size: 16px;
-  font-family:"M Plus 1p", sans-serif;
+  /* font-family:"M Plus 1p", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1313,7 +1313,7 @@ footer {
 .content-wrapper__ .bg-section .main-section .title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 0px;
   background: none;
@@ -1337,7 +1337,7 @@ footer {
 .about .about-title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 0px;
   margin-bottom: 30px;
@@ -1345,7 +1345,7 @@ footer {
 .about .about-content {
   color: rgb(81, 81, 81);
   font-size: 14px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 0px;
   line-height: 25px;
@@ -1363,7 +1363,7 @@ footer {
 .flow .flow-title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 0px;
   margin-bottom: 30px;
@@ -1371,7 +1371,7 @@ footer {
 .flow .flow-content {
   color: rgb(81, 81, 81);
   font-size: 14px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 0px;
   line-height: 25px;
@@ -1383,7 +1383,7 @@ footer {
   border-radius: 4px;
   color: rgb(0, 0, 0);
   font-size: 21px;
-  font-family: "Raleway Medium", sans-serif;
+  /* font-family: "Raleway Medium", sans-serif; */
   font-weight: 600;
   text-align: left;
   padding: 15px 20px;
@@ -1400,7 +1400,7 @@ footer {
 .discuss .discuss-title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 0px;
   margin-bottom: 20px;
@@ -1408,7 +1408,7 @@ footer {
 .discuss .discuss-content {
   color: rgb(81, 81, 81);
   font-size: 14px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   letter-spacing: 0px;
   line-height: 25px;
@@ -1428,7 +1428,7 @@ footer {
 .announce .announce-content .announce-title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1437,7 +1437,7 @@ footer {
 .announce .announce-content .announce-p {
   color: rgb(81, 81, 81);
   font-size: 15px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1454,7 +1454,7 @@ footer {
 .division .division-title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1469,7 +1469,7 @@ footer {
 .division .division-container .title {
   color: rgb(0, 0, 0);
   font-size: 18px;
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1477,7 +1477,7 @@ footer {
 .division .division-container .content {
   color: rgb(0, 0, 0);
   font-size: 14px;
-  font-family:"M Plus 1p", sans-serif;
+  /* font-family:"M Plus 1p", sans-serif; */
   font-weight: normal;
   text-align: center;
   letter-spacing: 0px;
@@ -1488,7 +1488,7 @@ footer {
 .portofolio .title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1497,7 +1497,7 @@ footer {
 .portofolio .content {
   color: rgb(81, 81, 81);
   font-size: 15px;
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1521,7 +1521,7 @@ cursor: pointer;
 .portofolio .portofolio-section .portofolio-subtitle {
   color: rgb(1, 77, 255);
   font-size: 18px;
-  font-family: "M Plus 1p", sans-serif;
+  /* font-family: "M Plus 1p", sans-serif; */
   font-weight: normal;
   letter-spacing: 0px;
   line-height: 26px;
@@ -1532,7 +1532,7 @@ cursor: pointer;
 .strategic .title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1540,7 +1540,7 @@ cursor: pointer;
 }
 .strategic .subtitle {
   color: rgb(0, 0, 0);
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1555,7 +1555,7 @@ cursor: pointer;
 .strategic .strategic-list .strategic-title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 600;
   letter-spacing: 0px;
   margin-bottom: 14px;
@@ -1563,7 +1563,7 @@ cursor: pointer;
 .strategic .strategic-list .strategic-content {
   color: rgb(0, 0, 0);
   font-size: 14px;
-  font-family:"M Plus 1p", sans-serif;
+  /* font-family:"M Plus 1p", sans-serif; */
   font-weight: normal;
   letter-spacing: 0.78px;
   min-height: 100px;
@@ -1574,7 +1574,7 @@ cursor: pointer;
 .strategic .strategic-exp p {
   color: rgb(0, 0, 0);
   font-size: 14px;
-  font-family:"M Plus 1p", sans-serif;
+  /* font-family:"M Plus 1p", sans-serif; */
   font-weight: normal;
   text-align: center;
   letter-spacing: 0.78px;
@@ -1585,7 +1585,7 @@ cursor: pointer;
 .service .title {
   color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family:"M Plus 1p Medium", sans-serif;
+  /* font-family:"M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
@@ -1597,7 +1597,7 @@ cursor: pointer;
 .content-article .title {
 color: rgb(0, 0, 0);
   font-size: 24px;
-  font-family: "M Plus 1p Medium", sans-serif;
+  /* font-family: "M Plus 1p Medium", sans-serif; */
   font-weight: 500;
   text-align: center;
   letter-spacing: 0px;
