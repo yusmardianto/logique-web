@@ -1,5 +1,8 @@
 <?php
 
+error_reporting(0);
+ini_set('display_errors', 0);
+
 require_once("assets/form/fgcontact_webdev.php");
 
 $formproc = new FGContactForm();
@@ -32,31 +35,32 @@ if(isset($_POST['submitted']))
     } else {
         $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
    }
- }
+ };
 ?>
 
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 
 <head>
 <meta charset="utf-8">
-     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-     <meta name="description"
-         content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
-     <meta name="keywords"
-         content="web developer jakarta, web development service, web developer company">
-     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="A Jakarta Based Web Developer Service Company | LOGIQUE">
-     <meta property="og:type" content="website">
-     <meta property="og:site_name" content="Logique">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-     <meta property="og:description"
-         content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
+    <meta name="description"
+        content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
+    <meta name="keywords"
+        content="web developer jakarta, web development service, web developer company">
+    <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="A Jakarta Based Web Developer Service Company | LOGIQUE">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:description"
+        content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
 
-     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <title>A Jakarta Based Web Developer Service Company | LOGIQUE</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/en/services/web-dev.php" />  
+    <title>A Jakarta Based Web Developer Service Company | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-webdev-new.css" rel="stylesheet">
@@ -154,7 +158,7 @@ if(isset($_POST['submitted']))
 
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
@@ -180,13 +184,16 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
+                            <picture>
+                                <source srcset="assets/img/img-webdev/webdev-bg.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/img-webdev/webdev-bg.jpg" alt="web dev">
+                            </picture>
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
                                 itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/index.php"><span itemprop="name">Beranda</span></a>
+                                        href="/index.php"><span itemprop="name">Home</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -205,7 +212,7 @@ if(isset($_POST['submitted']))
                                     <div class="col-md-5 col-sm-5 col-lg-6"></div>
                                     <div class="col-md-7 col-sm-7 col-lg-6">
                                         <h1 class="title">
-                                            <span>LOGIQUE Web / Homepage Production Service</span>
+                                            <span>LOGIQUE | High Quality Web Development Services</span>
                                         </h1>
                                         <div class="content">
                                             <p>
@@ -235,17 +242,18 @@ if(isset($_POST['submitted']))
                     <p class="about-title">If you seek to develop a high quality website, contact LOGIQUE for our professional web design and development services.</p>
                     <p class="about-content">
                     LOGIQUE has developed over 200 websites spanning various fields throughout Indonesia; from government organizations, to financial institutions, many of which require high levels of security. Such are made in regards to a client’s specific and creative demands, methods of programming, etc. We are trusted for the emphasis we put on business growth in regards to the digital world, which ultimately means greater profits for your company.
-
-As a professional web development company, we work to create the maximum quality of output for a reasonable price, through our team, consisting of experienced web developers, designers and content writers; all of whom constitute 40 hardworking and experienced individuals in total. Further, although we are an international company, we have extensive knowledge of the digital world’s applicability on a local level. Therefore, if you are looking for an Indonesian-built high quality website, feel free to consult LOGIQUE anytime.
+                    As a professional web development company, we work to create the maximum quality of output for a reasonable price, through our team, consisting of experienced web developers, designers and content writers; all of whom constitute 40 hardworking and experienced individuals in total. Further, although we are an international company, we have extensive knowledge of the digital world’s applicability on a local level. Therefore, if you are looking for an Indonesian-built high quality website, feel free to consult LOGIQUE anytime.
                     </p>
                 </div>
                 <div class="col-md-5 col-sm-6">
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
                          <!-- Wrapper for slides -->
                          <div class="carousel-inner">
                              <div class="item active">
-                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
+                                 <picture>
+                                     <source srcset="assets/img/img-webdev/carousel.webp" type="image/webp">
+                                     <img loading="lazy" src="assets/img/img-webdev/carousel.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+                                 </picture>
                              </div>
                          </div>
                          <ol class="carousel-indicators">
@@ -260,16 +268,17 @@ As a professional web development company, we work to create the maximum quality
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-md-5">
-                    <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/flow.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/flow.jpg" alt="production service">
+                    </picture>
                 </div>
                 <div class="col-sm-7 col-md-7">
                     <p class="flow-title">Building the Ideal Website depends on the expectations set for your site, your budget, and the structure that can be prepared for it.</p>
                     <p class="flow-content">
                     We have prepared four basic service plans to meet the various homepage, website production and operation needs of our customers.
-
-We aim to create the best possible website within the predefined scope regardless of our budget.
-
-If you are still uncertain about which service menu fits your needs, please feel free to contact us. In the case that your requirements do not currently apply to any of our plans, we will provide a flexible estimation for you.     
+                    We aim to create the best possible website within the predefined scope regardless of our budget.
+                    If you are still uncertain about which service menu fits your needs, please feel free to contact us. In the case that your requirements do not currently apply to any of our plans, we will provide a flexible estimation for you.     
                     </p>
                     <a href="./webdev-price-range.php" target="_blank">
                         <div class="flow-button">
@@ -302,7 +311,10 @@ If you are still uncertain about which service menu fits your needs, please feel
                     </div>
                 </div>
                 <div class="col-md-5 col-sm-5">
-                    <img loading="lazy" src="assets/img/img-webdev/discuss.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/discuss.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/discuss.jpg" alt="production principle">
+                    </picture>
                 </div>
             </div>
         </div>
@@ -463,23 +475,31 @@ If you are still uncertain about which service menu fits your needs, please feel
                 <div class="col-md-12">
                     <p class="title">Website Production Results</p>
                     <p class="content">
-                    We would like to showcase a few websites that have been developed by LOGIQUE.
-We have further posted many of our results here for reference.
+                    We would like to showcase a few websites that have been developed by LOGIQUE. We have further posted many of our results here for reference.
                     </p>
                 </div>
             </div>
             <div class="row portofolio-section">
                <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong">
-                        <img loading="lazy" src="assets/img/img-webdev/AIA.png" alt="">
-                        <p class="portofolio-title text-center">AIA</p>
+                   <picture>
+                       <source srcset="assets/img/img-webdev/AIA.webp" type="image/webp">
+                       <img loading="lazy" src="assets/img/img-webdev/AIA.jpg" alt="aia">
+                   </picture>
+                    <p class="portofolio-title text-center">AIA</p>
                 </div>
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong2">
-                        <img loading="lazy" src="assets/img/img-webdev/panin.png" alt="">
-                        <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
+                    <picture>
+                        <source srcset="assets/img/img-webdev/panin.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/panin.jpg" alt="panin">
+                    </picture>
+                    <p class="portofolio-title text-center">Panin Life Dai - Ichi</p>
                 </div>
                 <div class="col-md-6 col-lg-4 col-sm-4" data-toggle="modal" data-target="#exampleModalLong3">
-                        <img loading="lazy" src="assets/img/img-webdev/JBA.png" alt="">
-                        <p class="portofolio-title text-center">JBA</p>
+                    <picture>
+                        <source srcset="assets/img/img-webdev/JBA.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/JBA.jpg" alt="jba">
+                    </picture>
+                    <p class="portofolio-title text-center">JBA</p>
                 </div>
             </div>
         </div>
@@ -494,47 +514,74 @@ We have further posted many of our results here for reference.
             </div>
             <div class="row strategic-list">
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/1.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/1.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/1.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Customer Journey</p>
                     <p class="strategic-content">It is possible to create a website that leads to greater conversions through providing web functions and content that meet the customer's needs, </p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/2.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/2.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/2.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Persona Analysis</p>
                     <p class="strategic-content">Actualizing and visualizing the needs of targeted customers leads to producing a website that they will find appealing.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/3.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/3.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/3.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">SEO Keyword List</p>
                     <p class="strategic-content">Targeted keywords are selected by analyzing the number of searches and each keyword's degree of competition. The selected keywords will form basis of any SEO measures and content creation.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/4.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/4.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/4.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Brand Concept Formulation</p>
                     <p class="strategic-content">Convey the right messages to your customers by defining the service, product concept, and your brand's values.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/5.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/5.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/5.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Brand Message Proposal</p>
                     <p class="strategic-content">The proposition of a brand concept, statement, mission, and defining a brand message that will be conveyed to targeted users on your website.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/6.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/6.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/6.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Design Guideline</p>
                     <p class="strategic-content">Create a design guide to ensure a level of consistency for your design's overall aesthetic. Here, we will define the colors, fonts and margins used.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/7.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/7.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/7.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Access Analysis</p>
                     <p class="strategic-content">Analyse the current access status and clarify any issues. A Detailed analysis is the key to setting concrete and realistic KPIs.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/8.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/8.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/8.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Sitemap</p>
                     <p class="strategic-content">This details the content and overall page structure of your website. This is required to create a proper means of navigation & an internal link structure design for your website.</p>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6">
-                    <img loading="lazy" src="assets/img/img-webdev/strategic/9.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/strategic/9.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/strategic/9.jpg" alt="">
+                    </picture>
                     <p class="strategic-title">Wireframe</p>
                     <p class="strategic-content">This is a document that determines the layout and components of each web page. Based on this, we will then proceed to designing the production.</p>
                 </div>
@@ -702,7 +749,10 @@ We have further posted many of our results here for reference.
             <div class="row gallery-container">
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img loading="lazy" src="assets/img/img-webdev/gly1.png" class="img-responsive">
+                        <picture>
+                            <source srcset="assets/img/img-webdev/gly1.webp" type="image/webp">
+                            <img loading="lazy" src="assets/img/img-webdev/gly1.jpg" class="img-responsive">
+                        </picture>
                         <a href="/white-paper-web-dev-1.php" target="_blank">
                         <p class="gallery-title">How to Create an Effective Website for Your Business</p>
                             <p class="gallery-content">Download</p>
@@ -711,7 +761,10 @@ We have further posted many of our results here for reference.
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img loading="lazy" src="assets/img/img-webdev/gly2.png" class="img-responsive">
+                        <picture>
+                            <source srcset="assets/img/img-webdev/gly2.webp" type="image/webp">
+                            <img loading="lazy" src="assets/img/img-webdev/gly2.jpg" class="img-responsive">
+                        </picture>
                         <a href="/white-paper-web-dev-2.php" target="_blank">
                         <p class="gallery-title">Build an Appealing E-Commerce Website</p>
                             <p class="gallery-content">Download</p>
@@ -720,7 +773,10 @@ We have further posted many of our results here for reference.
                 </div>  
                 <div class="col-xs-12 col-sm-4 col-md-4 article-container">
                     <div class="img-container">
-                        <img loading="lazy" src="assets/img/img-webdev/gly3.png" class="img-responsive">
+                        <picture>
+                            <source srcset="assets/img/img-webdev/gly3.webp" type="image/webp">
+                            <img loading="lazy" src="assets/img/img-webdev/gly3.jpg" class="img-responsive">
+                        </picture>
                         <a href="/white-paper-web-dev-3.php" target="_blank">
                         <p class="gallery-title">The Role and Importance of Penetration Testing in Company Business Processes</p>
                             <p class="gallery-content">Download</p>
@@ -969,7 +1025,10 @@ We have further posted many of our results here for reference.
         <div class="container">
             <div class="row img-container">
                 <div class="col-md-12">
-                    <img loading="lazy" src="assets/img/img-webdev/domore.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/domore.webp" type="image/webp">
+                        <img loading="lazy" src="assets/img/img-webdev/domore.jpg" alt="assist">
+                    </picture>
                 </div>
                 <div class="col-md-12 col-lg-8 content-container">
                     <p class="title">We are ready to assist you in creating a website, and also:</p>
@@ -1157,13 +1216,25 @@ We have further posted many of our results here for reference.
                             </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/aia.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/aia.jpg" type="image/webp">
+                                <img loading="lazy" src="assets/img/aia.jpg" alt="">
+                            </picture>
                             <br/>
-                            <img loading="lazy" src="assets/img/aia2.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/aia2.jpg" type="image/webp">
+                                <img loading="lazy" src="assets/img/aia2.jpg" alt="">
+                            </picture>
                             <br/>
-                            <img loading="lazy" src="assets/img/aia3.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/aia3.jpg" type="image/webp">
+                                <img loading="lazy" src="assets/img/aia3.jpg" alt="">
+                            </picture>
                             <br/>
-                            <img loading="lazy" src="assets/img/aia4.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/aia4.jpg" type="image/webp">
+                                <img loading="lazy" src="assets/img/aia4.jpg" alt="">
+                            </picture>
                         </div>
                     </div>
                 </div>
@@ -1290,11 +1361,20 @@ We have further posted many of our results here for reference.
                             </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/panin.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/panin.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/panin.jpg" alt="">
+                            </picture>
                             <br/>
-                            <img loading="lazy" src="assets/img/panin2.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/panin2.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/panin2.jpg" alt="">
+                            </picture>
                             <br/>
-                            <img loading="lazy" src="assets/img/panin3.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/panin3.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/panin3.jpg" alt="">
+                            </picture>
                         </div>
                     </div>
                 </div>
@@ -1354,13 +1434,25 @@ We have further posted many of our results here for reference.
                             </div>
                         </div>
                         <div class="img-section">
-                            <img loading="lazy" src="assets/img/jba1.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/jba1.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/jba1.jpg" alt="">
+                            </picture>
                             <br />
-                            <img loading="lazy" src="assets/img/jba2.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/jba2.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/jba2.jpg" alt="">
+                            </picture>
                             <br />
-                            <img loading="lazy" src="assets/img/jba4.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/jba4.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/jba4.jpg" alt="">
+                            </picture>
                             <br />
-                            <img loading="lazy" src="assets/img/jba6.jpg" alt="">
+                            <picture>
+                                <source srcset="assets/img/jba6.webp" type="image/webp">
+                                <img loading="lazy" src="assets/img/jba6.jpg" alt="">
+                            </picture>
                         </div>
                     </div>
                 </div>
