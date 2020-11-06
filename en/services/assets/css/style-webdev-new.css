@@ -262,7 +262,8 @@ section {
   height: 550px;
 }
 .tahap-pemesanan-bg {
-  background-image: url(../img/img-webdev/service-banner.png);
+  background-image: url(../img/img-webdev/service-banner.jpg);
+  background-image: url(../img/img-webdev/service-banner.webp);
   background-position: center center;
   background-size: contain;
   height: 434px;
