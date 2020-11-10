@@ -251,7 +251,7 @@ if(isset($_POST['submitted']))
                     <p class="content">Simple Web or Landing Page</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Production Period</span>
                             </div>
@@ -260,7 +260,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Number of Pages</span>
                             </div>
@@ -269,7 +269,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Work Content</span>
                             </div>
@@ -305,7 +305,7 @@ if(isset($_POST['submitted']))
                     <p class="content">Standard Corporate Web or Web Service</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Production Period</span>
                             </div>
@@ -314,7 +314,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Number of Pages</span>
                             </div>
@@ -323,7 +323,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Work Content</span>
                             </div>
@@ -372,7 +372,7 @@ if(isset($_POST['submitted']))
                     <p class="content">Large Scale Corporate Web or Web Service</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Production Period</span>
                             </div>
@@ -381,7 +381,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Number of Pages</span>
                             </div>
@@ -390,7 +390,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Work Content</span>
                             </div>
@@ -426,7 +426,7 @@ if(isset($_POST['submitted']))
                     <p class="content">After formulating a strategy, we will then create a website in line with said strategy.</p>
                     <div class="detail-requirement">
                         <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Production Period</span>
                             </div>
@@ -435,7 +435,7 @@ if(isset($_POST['submitted']))
                             </div>
                         </div>
                         <div class="detail-container detail-margin">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" width="24" alt="">
                             <div class="detail-title">
                                 <span>Work Content</span>
                             </div>
