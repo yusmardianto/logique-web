@@ -55,13 +55,15 @@ if(isset($_POST['submitted']))
      <meta property="og:description"
          content="LOGIQUE is a highly ranked web development company in Jakarta offering a range of prices and platforms for developing a Website or web Application.">
     <title>Complete Web Development Price List Jakarta | LOGIQUE</title>
+    <link rel="canonical" href="https://www.logique.co.id/en/services/webdev-price-range.php"/>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="preload" as="style"/>
+    <link href="/css/style.css" rel="stylesheet"/>
     <link href="assets/css/style_webdev_service_new.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
+    <!-- <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -153,7 +155,7 @@ if(isset($_POST['submitted']))
 
         <!-- HEADER -->
         <div class="container-fluid">
-            <div class="row lang-logo--update-design">
+            <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
@@ -178,7 +180,10 @@ if(isset($_POST['submitted']))
                 <div class="container-fluid">
                     <div class="row bg-section">
                         <div class="col-md-12">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
+                            <picture>
+                                <source srcset="assets/img/img-webdev/webdev-service/mainbg.webp" type="image/webp"/>
+                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/mainbg.jpg" alt="">
+                            </picture>
                         </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -234,7 +239,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/quickimg.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/webdev-service/quickimg.webp" type="image/webp"/>
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/quickimg.png" alt="">
+                    </picture>
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -340,7 +348,10 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/standardimg.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/webdev-service/standardimg.webp"/>
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/standardimg.png" alt="">
+                    </picture>
                 </div>
             </div>
         </div>
@@ -349,7 +360,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/largeimg.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/webdev-service/largeimg.webp" type="image/webp"/>
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/largeimg.jpg" alt="">
+                    </picture>
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -447,7 +461,10 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/strategicimg.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/webdev-service/strategicimg.webp" type="image/webp"/>
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/strategicimg.jpg" alt="">
+                    </picture>
                 </div>
             </div>
         </div>
@@ -457,7 +474,10 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-md-12">
                     <div class="promo-container">
-                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/promo.png" alt="">
+                        <picture>
+                            <source srcset="assets/img/img-webdev/webdev-service/promo.webp" type="image/webp"/>
+                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/promo.jpg" alt="">
+                        </picture>
                     </div>
                 </div>
             </div>
@@ -625,10 +645,7 @@ if(isset($_POST['submitted']))
     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
     <?php include '../footer.php'; ?>
 
-    <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
     <script type="text/javascript">
     $(function() {
         $('.smooth').click(function() {
@@ -645,27 +662,5 @@ if(isset($_POST['submitted']))
             }
         });
     });
-    </script>
-    <script type="text/javascript">
-        // Instantiate the Bootstrap carousel
-        $('.multi-item-carousel').carousel({
-        interval: false
-        });
-
-        // for every slide in carousel, copy the next slide's item in the slide.
-        // Do the same for the next, next item.
-        $('.multi-item-carousel .item').each(function(){
-        var next = $(this).next();
-        if (!next.length) {
-            next = $(this).siblings(':first');
-        }
-        next.children(':first-child').clone().appendTo($(this));
-        
-        // if (next.next().length>0) {
-        //     next.next().children(':first-child').clone().appendTo($(this));
-        // } else {
-        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
-        // }
-        });
     </script>
 </html>
