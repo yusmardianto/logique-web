@@ -62,6 +62,7 @@ if(isset($_POST['submitted']))
      <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
      <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;600;700&display=swap" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap" rel="stylesheet">
      <style>
      h1{font-family:Rokkitt,serif}.container__{padding-top:0;padding-bottom:0}.logique-nav{left:0}.title{background-color:transparent;padding:0}.copyright{background-color:transparent;text-align:left;border:none;color:inherit}footer{padding:30px 0 10px}.container__footer{padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto;}
      .yellow {
@@ -83,7 +84,7 @@ if(isset($_POST['submitted']))
         font-size: 16px;
         padding: 1.5em 15px;
         background-color: transparent;
-        font-weight: 700;
+        font-weight: bold;
         margin-bottom: 0
     }
 
