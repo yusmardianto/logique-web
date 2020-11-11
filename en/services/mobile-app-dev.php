@@ -55,14 +55,19 @@ if(isset($_POST['submitted']))
          content="LOGIQUE is a mobile app developer in Jakarta, providing Mobile App development & design services, for Android, iOS or Hybrid Mobile Apps.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <title>LOGIQUE | Mobile App Developer & Design For Android, iOS or Hybrid</title>
+     <link rel="canonical" href="https://www.logique.co.id/en/services/mobile-app-dev.php">
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="../../css/style.css" rel="stylesheet">
+     <!-- <link href="../../css/style-revamp.css" rel="stylesheet"> -->
+     <!-- <link href="../../css/sidebar-update.css" rel="stylesheet"> -->
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
      <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
-     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Rokkitt:300,400,600,700" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-     <script>
+     <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;600;700&display=swap" rel="stylesheet">
+     <!-- <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> -->
+     <style>
+     h1{font-family:Rokkitt,serif}.container__{padding-top:0;padding-bottom:0}.logique-nav{left:0}.title{background-color:transparent;padding:0}.copyright{background-color:transparent;text-align:left;border:none;color:inherit}footer{padding:30px 0 10px}
+     </style>
+     <script type="text/javascript" defer>
      (function(i, s, o, g, r, a, m) {
          i['GoogleAnalyticsObject'] = r;
          i[r] = i[r] || function() {
@@ -78,35 +83,11 @@ if(isset($_POST['submitted']))
      ga('create', 'UA-105878648-1', 'auto');
      ga('send', 'pageview');
      </script>
+
  </head>
 
  <body class="wrapper wrapper--update-design mobileapp-page"  style="overflow-y:auto">
-     <style>
-     .container__ {
-         padding-top: 0;
-         padding-bottom: 0;
-     }
-
-     .logique-nav {
-         left: 0;
-     }
-
-     .title {
-         background-color: transparent;
-         padding: 0;
-     }
-
-     .copyright {
-         background-color: transparent;
-         text-align: left;
-         border: none;
-         color: inherit;
-     }
-
-     footer {
-         padding: 30px 0 10px;
-     }
-     </style>
+ 
      <!-- NAVIGATION -->
      <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
          data-toggle="collapse" data-target="#myNavbar">
@@ -150,7 +131,7 @@ if(isset($_POST['submitted']))
                      </a>
                  </div>
                  <div class="text-center">
-                     <a href="/en/career/">
+                     <a href="/career/">
                          <div class="img-career"></div>
                          Career
                      </a>
@@ -234,8 +215,12 @@ if(isset($_POST['submitted']))
                          </div>
                      </div>
                      <div class="col-md-5">
-                         <img alt="Mobile" src="assets/img/img-mobileapps/hp-header.png"
+                         <picture>
+                             <source srcset="assets/img/img-mobileapps/hp-header.webp" type="image/webp"/>
+                            <img alt="phone-header" src="assets/img/img-mobileapps/hp-header.png"
                              class="hp-header img-responsive center-block" />
+                         </picture>
+                         
                      </div>
                  </div>
              </div>
@@ -477,8 +462,12 @@ if(isset($_POST['submitted']))
                             <div>
                                 <div class="row">
                                     <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
-                                            src="assets/img/img-mobileapps/jba-bike-inspection-app-1.png" />
+                                        <picture>
+                                            <source srcset="assets/img/img-mobileapps/jba-bike-inspection-app-1.webp" type="image/webp">
+                                            <img alt="jba" class="img-responsive center-block"
+                                            src="assets/img/img-mobileapps/jba-bike-inspection-app-1.jpg" />
+                                        </picture>
+                                        
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -495,8 +484,11 @@ if(isset($_POST['submitted']))
                             <div>
                                 <div class="row">
                                     <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
-                                            src="assets/img/img-mobileapps/weeo-hino-connect-2.png" />
+                                        <picture>
+                                            <source srcset="assets/img/img-mobileapps/weeo-hino-connect-2.webp" type="image/webp"/>
+                                            <img alt="weeo-2" class="img-responsive center-block"
+                                            src="assets/img/img-mobileapps/weeo-hino-connect-2.jpg" />
+                                        </picture>
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -513,8 +505,12 @@ if(isset($_POST['submitted']))
                             <div>
                                 <div class="row">
                                     <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
+                                        <picture>
+                                            <source srcset="assets/img/img-mobileapps/weeo-testing-app-1.webp" type="image/webp"/>
+                                            <img alt="weeo-testing" class="img-responsive center-block"
                                             src="assets/img/img-mobileapps/weeo-testing-app-1.jpg" />
+                                        </picture>
+
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -531,8 +527,12 @@ if(isset($_POST['submitted']))
                             <div>
                                 <div class="row">
                                     <div class="col-sm-5">
-                                        <img alt="Frangipani" class="img-responsive center-block"
+                                        <picture>
+                                            <source srcset="assets/img/img-mobileapps/wantjp1.webp" type="image/webp"/>
+                                            <img alt="Frangipani" class="img-responsive center-block"
                                             src="assets/img/img-mobileapps/wantjp1.png" />
+                                        </picture>
+
                                     </div>
                                     <div class="col-sm-7">
                                         <div class="caption-portfolio">
@@ -549,8 +549,12 @@ if(isset($_POST['submitted']))
                              <div>
                                  <div class="row">
                                      <div class="col-sm-5">
-                                         <img alt="Sunlife" class="img-responsive center-block"
-                                             src="assets/img/img-mobileapps/sunlife.png" />
+                                         <picture>
+                                            <source srcset="assets/img/img-mobileapps/sunlife.webp" type="image/webp">
+                                            <img alt="Sunlife" class="img-responsive center-block"
+                                             src="assets/img/img-mobileapps/sunlife.jpg" />
+                                         </picture>
+
                                      </div>
                                      <div class="col-sm-7">
                                          <div class="caption-portfolio">
@@ -567,8 +571,12 @@ if(isset($_POST['submitted']))
                              <div>
                                  <div class="row">
                                      <div class="col-sm-5">
-                                         <img alt="Otomart" class="img-responsive center-block"
+                                         <picture>
+                                            <source srcset="assets/img/img-mobileapps/otomart.webp" type="image/webp"/>
+                                            <img alt="Otomart" class="img-responsive center-block"
                                              src="assets/img/img-mobileapps/otomart.png" />
+                                         </picture>
+                                         
                                      </div>
                                      <div class="col-sm-7">
                                          <div class="caption-portfolio">
@@ -586,8 +594,11 @@ if(isset($_POST['submitted']))
                              <div>
                                  <div class="row">
                                      <div class="col-sm-5">
-                                         <img alt="Frangipani" class="img-responsive center-block"
+                                         <picture>
+                                            <source srcset="assets/img/img-mobileapps/frangipani.webp">
+                                            <img alt="Frangipani" class="img-responsive center-block"
                                              src="assets/img/img-mobileapps/frangipani.png" />
+                                         </picture>
                                      </div>
                                      <div class="col-sm-7">
                                          <div class="caption-portfolio">
@@ -626,8 +637,7 @@ if(isset($_POST['submitted']))
                  <div class="row">
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja1.png"
-                                 alt="Perencanaan" />
+                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja1.png" alt="Perencanaan" width="90"/>
                              <div class="text-center title">Planning</div>
                          </div>
                          <p>
@@ -640,8 +650,7 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja2.png"
-                                 alt="Desain" />
+                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja2.png" alt="Desain" width="90"/>
                              <div class="text-center title">Design</div>
                          </div>
                          <p>
@@ -653,8 +662,7 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja3.png"
-                                 alt="Pengembangan" />
+                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja3.png" alt="Pengembangan" width="90"/>
                              <div class="text-center title">Development</div>
                          </div>
                          <p>
@@ -665,8 +673,7 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja4.png"
-                                 alt="Testing" />
+                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja4.png" alt="Testing" width="90"/>
                              <div class="text-center title">Testing</div>
                          </div>
                          <p>
@@ -677,8 +684,7 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-5ths">
                          <div class="contain-img">
-                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja5.png"
-                                 alt="Peluncuran Aplikasi" />
+                             <img class="img-responsive center-block" src="assets/img/img-mobileapps/cara-kerja5.png" alt="Peluncuran Aplikasi" width="90"/>
                              <div class="text-center title">Launch Application</div>
                          </div>
                          <p>
@@ -790,23 +796,32 @@ if(isset($_POST['submitted']))
      <?php include '../footer.php' ?>
 
      <script src="/js/jquery.matchHeight.js"></script>
-     <script src="/js/slick.min.js"></script>
-     <script src='https://www.google.com/recaptcha/api.js'></script>
+     <script src="/js/modernizr-custom.js"></script>
      <script type="text/javascript">
      $(function() {
          $('.div-help').matchHeight();
          $('.layanan-kami').matchHeight();
+
+         $('.portfolio-slider').slick({
+            dots: true,
+            infinite: true,
+            speed: 500,
+            fade: true,
+            arrows: false,
+            autoplay: true,
+            cssEase: 'linear'
+        });
+
+        Modernizr.on('webp', function(){
+            if(result){
+                $("body").addClass('webp');
+            } else {
+                $("body").addClass('no-webp');
+            }
+        })
      });
 
-     $('.portfolio-slider').slick({
-         dots: true,
-         infinite: true,
-         speed: 500,
-         fade: true,
-         arrows: false,
-         autoplay: true,
-         cssEase: 'linear'
-     });
+
      </script>
  </body>
 
