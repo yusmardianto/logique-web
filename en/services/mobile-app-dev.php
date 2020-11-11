@@ -57,33 +57,212 @@ if(isset($_POST['submitted']))
      <title>LOGIQUE | Mobile App Developer & Design For Android, iOS or Hybrid</title>
      <link rel="canonical" href="https://www.logique.co.id/en/services/mobile-app-dev.php">
      <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="../../css/style.css" rel="stylesheet">
-     <!-- <link href="../../css/style-revamp.css" rel="stylesheet"> -->
-     <!-- <link href="../../css/sidebar-update.css" rel="stylesheet"> -->
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">
+     <link href="../../css/sidebar-update.css" rel="stylesheet">
      <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
      <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;600;700&display=swap" rel="stylesheet">
-     <!-- <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> -->
+     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
      <style>
-     h1{font-family:Rokkitt,serif}.container__{padding-top:0;padding-bottom:0}.logique-nav{left:0}.title{background-color:transparent;padding:0}.copyright{background-color:transparent;text-align:left;border:none;color:inherit}footer{padding:30px 0 10px}
+     h1{font-family:Rokkitt,serif}.container__{padding-top:0;padding-bottom:0}.logique-nav{left:0}.title{background-color:transparent;padding:0}.copyright{background-color:transparent;text-align:left;border:none;color:inherit}footer{padding:30px 0 10px}.container__footer{padding-right: 15px;padding-left: 15px;margin-right: auto;margin-left: auto;}
+     .yellow {
+        color: #ffca13
+    }
+    /* remove unused css for this page (retrieved from style.css)  */
+    body {
+        font-family: Raleway, sans-serif;
+    }
+    html {
+        scroll-behavior: smooth;
+    }
+    .breadcrumb>li+li:before {
+        padding: 0 5px;
+        color: #ccc;
+        content: ">"!important
+    }
+    .breadcrumb--update-design {
+        font-size: 16px;
+        padding: 1.5em 15px;
+        background-color: transparent;
+        font-weight: 700;
+        margin-bottom: 0
+    }
+
+    .breadcrumb--update-design>li {
+        word-break: keep-all
+    }
+
+    .breadcrumb--update-design a {
+        color: #ffca13
+    }
+
+    .breadcrumb--update-design li.active a {
+        color: #000
+    }
+    .wrapper {
+        position: relative;
+        max-width: 1600px;
+        margin: 0 auto;
+        overflow: hidden
+    }
+
+    .contain-video.wrapper--update-design,.wrapper.wrapper--update-design {
+        max-width: unset!important
+    }
+
+    .logique-nav {
+        width: 95px;
+        background: #ffca13;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        z-index: 1000;
+        perspective: 1000px;
+        padding: 0;
+        font-weight: 300;
+        transition: all .25s;
+        overflow: auto
+    }
+
+    .wrapper .navbar-toggle {
+        background-color: #ffca13!important;
+        z-index: 9999;
+        transition: all 1s;
+        position: fixed;
+        right: 80px;
+        border-radius: 0;
+        height: 34px;
+        margin-top: 0
+    }
+
+    .wrapper .navbar-toggle.collapsed {
+        background-color: #ffca13!important;
+        position: relative;
+        right: 0!important;
+        margin-top: 0
+    }
+
+    .navbar-toggle--update-design {
+        position: fixed!important
+    }
+
+    #bgImg,#job-opening,footer,section.maintop {
+        overflow: hidden
+    }
+
+
+    .logo--update-design {
+        max-width: 150px;
+        margin-top: 10px;
+        width: 100%
+    }
+
+    .lang-logo--update-design {
+        padding: 10px 0 15px;
+        background-color: #fff;
+        position: fixed;
+        width: 100%;
+        z-index: 10;
+        box-shadow: 2px 4px 9px 0 #ccc;
+    }
+    .lang-logo--update-design .list-inline {
+        position: absolute;
+        top: 10px;
+        right: 0;
+    }
+    .lang-logo--update-design .list-inline a{
+        font-family: "Montserrat";
+    }
+    .lang-logo--update-design .list-inline li.active a{
+        color: black;
+
+    }
+
+
+    @media (max-width: 991.98px) {
+        .logo--update-design {
+            margin-left:1em
+        }
+    }
+
+    @media (max-width: 767.98px) {
+        .lang-logo--update-design {
+            padding-bottom:0
+        }
+
+        .lang-logo--update-design .container {
+            padding-left: 0;
+            padding-right: 0
+        }
+
+        .logo--update-design {
+            margin: 7px auto 0
+        }
+
+        .lang-logo--update-design .list-inline {
+            position: relative!important;
+            top: 0;
+            margin-top: 12px;
+            padding-top: 7px;
+            text-align: center;
+            background-color: #2c3641;
+        }
+
+        .lang-logo--update-design .list-inline>li:last-child {
+            margin-right: 0
+        }
+    }
+    .content-wrapper__ {
+        margin-left: 90px
+    }
+
+    .content-wrapper__ .--top {
+        margin-top: 4.3em
+    }
+    @media (max-width: 767px) {
+        .content-wrapper__,.content-wrapper__black,.content-wrapper__gray {
+            margin-left:0
+        }
+    }
+    
+    .container__ {
+        margin: 0 auto
+    }
+    @media (max-width: 500px) {
+        .container__ {
+            padding:1em;
+        }
+    }
+    @media (min-width: 769px) and (max-width:1299px) {
+        .container__ {
+            padding: 0 2.5em;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        .container__ {
+            width:1075px
+        }
+    }
+
+    @media (min-width: 992px) and (max-width:1119px) {
+        .container__ {
+            width:900px
+        }
+    }
+
+    @media (min-width: 768px) and (max-width:850px) {
+        .container__ {
+            width:610px
+        }
+    }
+
+    .container__footer {
+        max-width: 1375px;
+        margin: 0 auto
+    }
+
      </style>
-     <script type="text/javascript" defer>
-     (function(i, s, o, g, r, a, m) {
-         i['GoogleAnalyticsObject'] = r;
-         i[r] = i[r] || function() {
-             (i[r].q = i[r].q || []).push(arguments)
-         }, i[r].l = 1 * new Date();
-         a = s.createElement(o),
-             m = s.getElementsByTagName(o)[0];
-         a.async = 1;
-         a.src = g;
-         m.parentNode.insertBefore(a, m)
-     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-     ga('create', 'UA-105878648-1', 'auto');
-     ga('send', 'pageview');
-     </script>
-
+   
  </head>
 
  <body class="wrapper wrapper--update-design mobileapp-page"  style="overflow-y:auto">
@@ -178,7 +357,7 @@ if(isset($_POST['submitted']))
      <div class="content-wrapper__">
          <header>
              <section class="--top">
-                 <div class="container__" style="padding:0">
+                 <div class="container-fluid container__" style="">
                      <div class="row">
                          <div class="col-sm-12">
                              <ol class="breadcrumb breadcrumb--update-design" itemscope
@@ -200,10 +379,10 @@ if(isset($_POST['submitted']))
                      </div>
                  </div>
              </section>
-             <div class="container__">
+             <div class="container-fluid container__">
                  <div class="row">
                      <div class="col-md-7">
-                         <br /><br /><br />
+                         <br />
                          <h1 style="font-size: 30px">TRUST THE DEVELOPMENT OF YOUR <span class="yellow">MOBILE APPLICATION
                                  (ANDROID |
                                  iOS | HYBRID)</span> WITH <span class="yellow">LOGIQUE</span></h1>
@@ -227,7 +406,7 @@ if(isset($_POST['submitted']))
          </header>
 
          <section class="hubungi-kami-top">
-             <div class="container__">
+             <div class="container-fluid container__">
                  <div class="row">
                      <div class="col-lg-12">
                          <a href="/en/contact.php" target="_blank"><span class="purple">Contact us</span></a> for further
@@ -238,7 +417,7 @@ if(isset($_POST['submitted']))
          </section>
 
          <section>
-             <div class="container__">
+             <div class="container-fluid container__">
                  <br /><br />
                  <div class="row">
                      <div class="col-md-5">
@@ -271,7 +450,7 @@ if(isset($_POST['submitted']))
          </section>
 
          <section class="solusi">
-             <div class="container__">
+             <div class="container-fluid container__">
                  <br /><br />
                  <div class="row">
                      <div class="col-md-4">
@@ -300,7 +479,7 @@ if(isset($_POST['submitted']))
              </div>
          </section>
 
-         <section class="container__ logique-help">
+         <section class="container-fluid container__ logique-help">
              <br /><br /><br>
              <div class="row">
                  <div class="col-md-12">
@@ -351,7 +530,7 @@ if(isset($_POST['submitted']))
          </section>
 
          <section class="solusi revision" id="solusi-section">
-             <div class="container__">
+             <div class="container-fluid container__">
                  <br /><br />
                  <div class="row row-center-md">
                      <div class="col-md-offset-1 col-md-4">
@@ -446,7 +625,7 @@ if(isset($_POST['submitted']))
          </section>
 
          <section class="portofolio" id="portfolio-section">
-             <div class="container__">
+             <div class="container-fluid container__">
                  <div class="row">
                      <div class="col-md-5">
                          <h2 class="font-28">Client Portfolio</h2>
@@ -619,7 +798,7 @@ if(isset($_POST['submitted']))
          </section>
 
          <section class="bg-grey">
-             <div class="container__">
+             <div class="container-fluid container__">
                  <div class="row">
                      <div class="col-lg-12">
                          <h2 class="font-28 text-center">How LOGIQUE Works</h2>
@@ -713,7 +892,7 @@ if(isset($_POST['submitted']))
 				   </div>
 			   </div>-->
          <section class="div-form">
-             <div class="container__">
+             <div class="container-fluid container__">
                  <div class="row">
                      <div class="col-md-offset-2 col-md-8">
                          Contact us to get the best <b>offer</b>
@@ -779,7 +958,7 @@ if(isset($_POST['submitted']))
          </section>
 
          <section class="buat-sekarang">
-             <div class="container__">
+             <div class="container-fluid container__">
                  <div class="row row-center-md">
                      <div class="col-md-6 font20">
                          Have questions and need more information?
@@ -792,12 +971,27 @@ if(isset($_POST['submitted']))
              </div>
          </section>
      </div>
+     <script type="text/javascript">
+     (function(i, s, o, g, r, a, m) {
+         i['GoogleAnalyticsObject'] = r;
+         i[r] = i[r] || function() {
+             (i[r].q = i[r].q || []).push(arguments)
+         }, i[r].l = 1 * new Date();
+         a = s.createElement(o),
+             m = s.getElementsByTagName(o)[0];
+         a.async = 1;
+         a.src = g;
+         m.parentNode.insertBefore(a, m)
+     })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
+     ga('create', 'UA-105878648-1', 'auto');
+     ga('send', 'pageview');
+     </script>
      <?php include '../footer.php' ?>
 
      <script src="/js/jquery.matchHeight.js"></script>
      <script src="/js/modernizr-custom.js"></script>
-     <script type="text/javascript">
+     <script type="text/javascript" defer>
      $(function() {
          $('.div-help').matchHeight();
          $('.layanan-kami').matchHeight();
@@ -812,7 +1006,7 @@ if(isset($_POST['submitted']))
             cssEase: 'linear'
         });
 
-        Modernizr.on('webp', function(){
+        Modernizr.on('webp', function(result){
             if(result){
                 $("body").addClass('webp');
             } else {
