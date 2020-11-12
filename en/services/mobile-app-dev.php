@@ -263,7 +263,7 @@ if(isset($_POST['submitted']))
     }
 
      </style>
-   <script type="text/javascript">
+   <script type="text/javascript" defer>
      (function(i, s, o, g, r, a, m) {
          i['GoogleAnalyticsObject'] = r;
          i[r] = i[r] || function() {
