@@ -1,6 +1,75 @@
 html {
     scroll-behavior: smooth;
 } 
+.mb-20px{
+    margin-bottom: 20px;
+}
+.card-container{
+    justify-content: space-between;
+}
+.card{
+    flex: 1 30%;
+    background: #f8f8f8;
+    padding: 15px;
+    height: 100%;
+    width: 100%;
+}
+.card h3{
+    font-size: 22px;
+    font-weight: bold !important;
+    padding-bottom: 20px;
+}
+.card .img-card{
+    margin: 0 auto 10px;
+}
+.card .img-arrow-icon{
+    padding: 2px;
+}
+.card .card-category-text{
+    font-size: 12px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.card .card-content-text{
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.card .content-list-item{
+    padding-bottom: 10px;
+}
+.card .btn-see-more{
+    display: block;
+    background: #fbc935;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+.study-case-banner{
+    background-image: url(../img/portfolio/study-case-banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 10px;
+}
+.study-case-banner .banner-content{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+}
+.study-case-banner h3{
+    font-size: 30px;
+}
+.study-case-banner .btn{
+    color: #000;
+    font-size: 16px;
+    background-color: #fbc935;
+    padding: 13px;
+    font-weight: bold !important;
+    border-radius: 5px;
+    border: solid 2px #fbc935;
+    margin-top: 20px;
+}
 .addition-desc {
     font-size: 12px
 } 
@@ -37,6 +106,15 @@ html {
 .portfolio__modal  .modal-body .close span{
     line-height: 0;
 }
+@media (max-width: 1119px){
+    .study-case-banner{
+        background-position: 20%;
+    }
+    .study-case-banner .banner-content{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
 @media (max-width: 1023px) {
  
 }
@@ -44,6 +122,24 @@ html {
  
 } 
 @media (max-width: 767.98px) {
+    .study-case-banner{
+        max-width: 400px;
+        background: url(../img/portfolio/study-case-banner-mobile.jpg);
+        background-position: center;
+        min-height: 500px;
+        background-size: cover;
+        margin: 0 auto;
+        padding: 20px;
+        display: flex;
+        align-items: flex-end;
+    }
+    .study-case-banner .banner-btn-wrapper{
+        display: block;
+        margin: 0 auto;
+    }
+}
+@media (max-width: 576px){
+
 }
 @media (max-width: 468px) {
     .portfolio-update .portfolio__banner {
