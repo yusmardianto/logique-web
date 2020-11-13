@@ -285,7 +285,7 @@
                 </div>
             </section>
 
-            <section class="portfolio-update__cards">
+            <!-- <section class="portfolio-update__cards">
                 <div class="container__">
                     <div class="flex__row">
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
@@ -332,7 +332,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
             <section class="portfolio-update__nav">
                 <div class="container__">
@@ -553,7 +553,7 @@
                 </div>
             </section>
 
-            <div class="container__">
+            <!-- <div class="container__">
                 <div class="study-case-banner">
                     <div class="row">
                         <div class="col-sm-offset-3 col-sm-8 col-md-9 banner-content">
@@ -576,7 +576,7 @@
                         Hubungi LOGIQUE Sekarang
                     </a>
                 </div>
-            </div>
+            </div> -->
 
             <section class="portfolio__modal">
                 <div class="modal fade modal-section" id="modal_aia" tabindex="-1" role="dialog" aria-labelledby="modal_aia" aria-hidden="true">
