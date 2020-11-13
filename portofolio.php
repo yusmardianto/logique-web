@@ -296,35 +296,35 @@
                                     <img src="/img/portfolio/portfolio-interview.jpg" class="img-responsive img-card"/>
                                 </picture>
                                 <p class="card-category-text">INTERVIEW</p>
-                                <p class="card-content-text">PT JBA Indonesia : Standardization and DX in the automobile auction industry…</p>
-                                <a href="#"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                                <p class="card-content-text">Interview (JBA): Standardisasi dan DX dalam industri lelang mobil.</p>
+                                <a href="https://www.logique.co.id/blog/2020/11/13/interview-jba-standardisasi-dan-dx-dalam-industri-lelang-mobil/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
                             <div class="card card-case-study">
-                                <h3>Case Study</h3>
+                                <h3>Studi Kasus</h3>
                                 <picture>
-                                    <source srcset="/img/portfolio/portfolio-case-study.webp">
-                                    <img src="/img/portfolio/portfolio-case-study.jpg" class="img-responsive img-card"/>
+                                    <source srcset="/img/portfolio/zuttoride.webp">
+                                    <img src="/img/portfolio/zuttoride.jpg" class="img-responsive img-card"/>
                                 </picture>
-                                <p class="card-category-text">CASE STUDY</p>
-                                <p class="card-content-text">BASTK App : It makes BASTK process to possible to visualize and trace the vehicle…</p>
-                                <a href="/case-study"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                                <p class="card-category-text">STUDI KASUS</p>
+                                <p class="card-content-text">ZuttoRide - Sistem Manajemen Pelanggan</p>
+                                <a href="/case-study/zuttoride-customer-management-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
                             <div class="card card-others">
-                                <h3>Others</h3>
+                                <h3>Lainnya</h3>
                                 <div class="content-list">
                                     <div class="content-list-item">
                                         <p class="card-category-text">INTERVIEW</p>
-                                        <p class="card-content-text">Selama lebih dari 7 tahun, Logique telah membantu berbagai klien ternama, dari</p>
-                                        <a href="#" class="btn-see-more">See More</a>
+                                        <p class="card-content-text">Pesan dari Yoshi, Presiden Direktur LOGIQUE</p>
+                                        <a href="https://www.logique.co.id/blog/2020/04/17/message-yoshi-president-director-logique-2/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
                                     </div>
                                     <div class="content-list-item">
-                                        <p class="card-category-text">CASE STUDY</p>
-                                        <p class="card-content-text">Selama lebih dari 7 tahun, Logique telah membantu berbagai klien ternama, dari</p>
-                                        <a href="#" class="btn-see-more">See More</a>
+                                        <p class="card-category-text">STUDI KASUS</p>
+                                        <p class="card-content-text">LOGIQUE Kelola Internet Marketing dan SEO Website Opus Park</p>
+                                        <a href="https://www.logique.co.id/blog/2018/10/24/internet-marketing-seo-website-opus-park/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
                                     </div>
                                 </div>
 
@@ -554,7 +554,7 @@
             </section>
 
             <div class="container__">
-                <div class="study-case-banner">
+                <div class="study-case-banner" style="cursor: pointer;" onclick="window.location='/case-study'">
                     <div class="row">
                         <div class="col-sm-offset-3 col-sm-8 col-md-9 banner-content">
                             <div class="banner-text-wrapper">
