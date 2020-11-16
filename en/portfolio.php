@@ -25,6 +25,7 @@
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
     <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/portfolio.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">    
 </head>
 
@@ -282,6 +283,55 @@
                 </div>
             </section>
 
+            <section class="portfolio-update__cards">
+                <div class="container__">
+                    <div class="flex__row">
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-interview">
+                                <h3>Interview</h3>
+                                <picture>
+                                    <source srcset="/img/portfolio/portfolio-interview.webp">
+                                    <img src="/img/portfolio/portfolio-interview.jpg" class="img-responsive img-card"/>
+                                </picture>
+                                <p class="card-category-text">INTERVIEW</p>
+                                <p class="card-content-text">PT JBA Indonesia : Standardization and DX in the automobile auction industry</p>
+                                <a href="https://www.logique.co.id/blog/en/2020/10/30/interview-jba-standardization-dx-automobile-auction-industry/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-case-study">
+                                <h3>Case Study</h3>
+                                <picture>
+                                    <source srcset="/img/portfolio/zuttoride.webp">
+                                    <img src="/img/portfolio/zuttoride.jpg" class="img-responsive img-card"/>
+                                </picture>
+                                <p class="card-category-text">CASE STUDY</p>
+                                <p class="card-content-text">ZuttoRide - Customer Relationship Management</p>
+                                <a href="/case-study/zuttoride-customer-management-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-others">
+                                <h3>Others</h3>
+                                <div class="content-list">
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">INTERVIEW</p>
+                                        <p class="card-content-text">Message from Yoshi, President Director of LOGIQUE</p>
+                                        <a href="https://www.logique.co.id/blog/en/2020/04/17/message-yoshi-president-director-logique/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                    </div>
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">CASE STUDY</p>
+                                        <p class="card-content-text">LOGIQUE Manages Opus Park’s Online Advertising and Website SEO</p>
+                                        <a href="https://www.logique.co.id/blog/en/2018/10/24/opus-park-online-advertising-website-seo/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="portfolio-update__nav">
                 <div class="container__">
                     <div class="page-nav">
@@ -503,6 +553,19 @@
             </section>
 
             <div class="container__">
+                <div class="study-case-banner" style="cursor: pointer;" onclick="window.location='/case-study'">
+                    <div class="row">
+                        <div class="col-sm-offset-3 col-sm-8 col-md-9 banner-content">
+                            <div class="banner-text-wrapper">
+                                <h3 class="">We help you go further</h3>
+                                <div class="banner-text" style="padding-right: 20px;">Assisting companies necessity and making your business more advanced is our job. Let’s forge ahead with LOGIQUE.</div>
+                            </div>
+                            <div class="banner-btn-wrapper">
+                                <a href="/case-study" class="btn">See Case Study</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
                         present to
