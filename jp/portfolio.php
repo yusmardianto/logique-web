@@ -320,7 +320,7 @@
                                     <div class="content-list-item">
                                         <p class="card-category-text">INTERVIEW</p>
                                         <p class="card-content-text">お客様にインタビューした記事を掲載しています。</p>
-                                        <a href="#" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                        <a href="https://www.logique.co.id/blog/ja/2020/10/26/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc-%e8%87%aa%e5%8b%95%e8%bb%8a%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e6%a5%ad%e7%95%8c%e6%a8%99%e6%ba%96%e5%8c%96%e3%81%a8it/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
                                     </div>
                                     <div class="content-list-item">
                                         <p class="card-category-text">CASE STUDY</p>
