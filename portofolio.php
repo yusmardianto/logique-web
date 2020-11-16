@@ -285,6 +285,55 @@
                 </div>
             </section>
 
+            <!-- <section class="portfolio-update__cards">
+                <div class="container__">
+                    <div class="flex__row">
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-interview">
+                                <h3>Interview</h3>
+                                <picture>
+                                    <source srcset="/img/portfolio/portfolio-interview.webp">
+                                    <img src="/img/portfolio/portfolio-interview.jpg" class="img-responsive img-card"/>
+                                </picture>
+                                <p class="card-category-text">INTERVIEW</p>
+                                <p class="card-content-text">PT JBA Indonesia : Standardization and DX in the automobile auction industry…</p>
+                                <a href="#"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-case-study">
+                                <h3>Case Study</h3>
+                                <picture>
+                                    <source srcset="/img/portfolio/portfolio-case-study.webp">
+                                    <img src="/img/portfolio/portfolio-case-study.jpg" class="img-responsive img-card"/>
+                                </picture>
+                                <p class="card-category-text">CASE STUDY</p>
+                                <p class="card-content-text">BASTK App : It makes BASTK process to possible to visualize and trace the vehicle…</p>
+                                <a href="/case-study"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-others">
+                                <h3>Others</h3>
+                                <div class="content-list">
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">INTERVIEW</p>
+                                        <p class="card-content-text">Selama lebih dari 7 tahun, Logique telah membantu berbagai klien ternama, dari</p>
+                                        <a href="#" class="btn-see-more">See More</a>
+                                    </div>
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">CASE STUDY</p>
+                                        <p class="card-content-text">Selama lebih dari 7 tahun, Logique telah membantu berbagai klien ternama, dari</p>
+                                        <a href="#" class="btn-see-more">See More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section> -->
+
             <section class="portfolio-update__nav">
                 <div class="container__">
                     <div class="page-nav text-center">
@@ -504,7 +553,22 @@
                 </div>
             </section>
 
-            <div class="container__">
+            <!-- <div class="container__">
+                <div class="study-case-banner">
+                    <div class="row">
+                        <div class="col-sm-offset-3 col-sm-8 col-md-9 banner-content">
+                            <div class="banner-text-wrapper">
+                                <h3 class="">We help you go further</h3>
+                                <div class="banner-text">Membantu kebutuhan perusahaan dan menjadikan bisnis</div>
+                                <div class="banner-text">Anda semakin terdepan adalah tugas kami</div>
+                                <div class="banner-text">Mari maju bersama LOGIQUE</div>
+                            </div>
+                            <div class="banner-btn-wrapper">
+                                <a href="/case-study" class="btn">Lihat Case Study</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Anda tertarik terhadap layanan kami dan memiliki kebutuhan pembuatan website, aplikasi berbasis web, mobile app, penetration test, atau digital marketing?</p>
                     <a href="hubungi-kami.php" class="btn btn-contact-us-black"
@@ -512,7 +576,7 @@
                         Hubungi LOGIQUE Sekarang
                     </a>
                 </div>
-            </div>
+            </div> -->
 
             <section class="portfolio__modal">
                 <div class="modal fade modal-section" id="modal_aia" tabindex="-1" role="dialog" aria-labelledby="modal_aia" aria-hidden="true">
@@ -832,54 +896,6 @@
         $('.same-height').matchHeight();
         $('.col-md-4.col-xs-6').matchHeight();
 
-        // $('.slider-other-client-container').slick({
-        //     dots: false,
-        //     infinite: true,
-        //     speed: 300,
-
-        //     slidesToShow: 4,
-        //     slidesToScroll: 1,
-        //     responsive: [{
-        //             breakpoint: 1024,
-        //             settings: {
-        //                 slidesToShow: 3,
-        //                 slidesToScroll: 1,
-        //                 infinite: true,
-        //                 // dots: true
-        //             }
-        //         },
-        //         {
-        //             breakpoint: 600,
-        //             settings: {
-        //                 slidesToShow: 2,
-        //                 slidesToScroll: 1,
-        //                 adaptiveHeight: true
-        //             }
-        //         },
-        //         {
-        //             breakpoint: 480,
-        //             settings: {
-        //                 slidesToShow: 1,
-        //                 slidesToScroll: 1,
-        //                 adaptiveHeight: true
-        //             }
-        //         }
-        //     ]
-        // });
-        // $('.mobile-app-container').slick({
-        //     dots: true,
-        //     infinite: false,
-        //     speed: 300,
-        //     arrows: false,
-        //     arrows: false,
-        //     arrows: false,
-        //     slidesToShow: 1,
-        //     slidesToScroll: 1,
-        //     speed: 300,
-        //     slidesToShow: 1,
-        //     slidesToScroll: 1,
-
-        // });
         $('#PWA .btn-more-portfolio').on('click', function() {
             $('.mobile-app-container').resize();
         });
