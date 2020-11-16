@@ -301,13 +301,11 @@
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
                             <div class="card card-case-study">
                                 <h3>Case Study</h3>
-                                <picture>
-                                    <source srcset="/img/portfolio/zuttoride.webp">
-                                    <img src="/img/portfolio/zuttoride.jpg" class="img-responsive img-card"/>
-                                </picture>
+                                <!-- Webp files is larger than png in this condition -->
+                                <img src="/img/portfolio/update/sys-jba.png" class="img-responsive img-card" style="object-fit:contain; width: auto;"/>
                                 <p class="card-category-text">CASE STUDY</p>
-                                <p class="card-content-text">ZuttoRide - Customer Relationship Management</p>
-                                <a href="/case-study/zuttoride-customer-management-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                                <p class="card-content-text">JBA Indonesia - Online Auction System</p>
+                                <a href="/case-study/jba-auction-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
@@ -322,7 +320,7 @@
                                     <div class="content-list-item">
                                         <p class="card-category-text">CASE STUDY</p>
                                         <p class="card-content-text">LOGIQUE Manages Opus Park’s Online Advertising and Website SEO</p>
-                                        <a href="https://www.logique.co.id/blog/en/2018/10/24/opus-park-online-advertising-website-seo/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                        <a href="/case-study" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
                                     </div>
                                 </div>
 
