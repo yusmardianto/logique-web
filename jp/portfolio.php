@@ -307,7 +307,7 @@
                                 <img src="/img/portfolio/update/sys-jba.png" class="img-responsive img-card" style="object-fit:contain; width: auto;"/>
                                 <p class="card-category-text">CASE STUDY</p>
                                 <p class="card-content-text">JBA Indonesia - Online Auction System</p>
-                                <a href="/case-study/zuttoride-customer-management-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                                <a href="/case-study/jba-auction-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
