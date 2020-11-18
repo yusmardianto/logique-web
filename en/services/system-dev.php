@@ -53,12 +53,14 @@
      <meta property="og:description"
          content="LOGIQUE: web based system development & website management services. Through agile development methods, we develop & design your web based system.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <link rel="canonical" href="https://www.logique.co.id/en/services/system-dev.php">
      <title>Web System Development Service | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
+     <link href="/css/style.css" rel="preload" as="style">
      <link href="/css/style.css" rel="stylesheet">
+     <link href="assets/css/style-systemdev.css" rel="preload" as="style">
      <link href="assets/css/style-systemdev.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
      <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
      <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -146,8 +148,8 @@
          <!-- NAVIGATION -->
 
          <!-- HEADER -->
-                 <div class="container-fluid">
-             <div class="row lang-logo--update-design">
+            <div class="container-fluid">
+             <div class="lang-logo--update-design">
                  <div class="container">
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
@@ -240,7 +242,10 @@
                                 <p>In the process of developing a web-based system, we use flexible and fast agile development methods. Our development team can adapt to changes so that the system being developed remains high quality and in accordance with dynamic needs.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -251,7 +256,10 @@
                                 <a href="/en/services/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services</a>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-secure.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -261,7 +269,10 @@
                                 <p>We are experienced in providing web-based system development services for many large-scale international and local clients especially in the automotive, auction, and e-commerce industries. But overall we have also helped various other industries such as insurance, finance, tourism, manufacturing, and digital startups both in making web-based systems or other services such as mobile application development or digital marketing. With this experience, we quickly understand the client's business needs and provide the best solution for you.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-experienced.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -272,7 +283,10 @@
                                  <a href="/en/services/devops.php" class="btn-yellow text-center">Cloud Sever DevOps</a>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-infra.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -291,7 +305,10 @@
                         </div> 
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaproyek.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
+                                </picture>
                             </div>
                         </div>
                     </div>
@@ -428,7 +445,7 @@
                         <div class="col-sm-6 ">
                             <div class="img-slide-content">
                             <div class="sliderimg-studycase">
-                                <div class="slider-item" style="background-image: url(assets/img/img-systemdev/newlayout/jba-img.jpg);">
+                                <div class="slider-item bg-jba">
                                     <div class="company-studycase">
                                         <h3>JBA Indonesia <br>Auction Management System</h3>
                                      JBA is the largest car and motorcycle auction company in Indonesia.
@@ -442,7 +459,7 @@
                                         Learn more
                                     </a>
                                 </div>
-                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/sinarmas-img.jpg);">
+                                <div class="slider-item bg-sinarmas">
                                     <div class="company-studycase">
                                         <h3>Sinarmas Land</h3>
                                         <div>Online Recruitment system</div>
@@ -452,7 +469,7 @@
                                      HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP
                                     </div>                                    
                                 </div>
-                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/weeo-img.jpg);">
+                                <div class="slider-item bg-weeo">
                                     <div class="company-studycase">
                                         <h3>Weeo</h3>
                                         <div>Real time vehicle monitoring mobile apps</div>
@@ -1338,9 +1355,18 @@
      <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
      <script src="/js/bootstrap.min.js"></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+     <script src="/js/modernizr-custom.js"></script>
      <script src='https://www.google.com/recaptcha/api.js'></script>
      <script type="text/javascript">
      $(function() {
+        Modernizr.on('webp', function(result){
+            if(result){
+                $("body").addClass('webp');
+            } else {
+                $("body").addClass('no-webp');
+            }
+        })
+
          $('.smooth').click(function() {
              if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
                  this.hostname) {
