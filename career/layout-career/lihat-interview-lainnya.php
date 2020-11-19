@@ -38,7 +38,7 @@
             <a href="/career/interview/taufik.php" class="interview-link">
               <div class="panel panel-default">
                 <div class="panel-body" style="background: url(/img/career/taufik.jpg)no-repeat; background-position: 10% 16%;">
-                  <h3>Taufik, Senior Front End Developer</h3>
+                  <h3>Taufik, Leader Front End Developer</h3>
                 </div>
               </div>
             </a>
@@ -49,7 +49,7 @@
             <a href="/career/interview/muklis.php" class="interview-link">
               <div class="panel panel-default">
                 <div class="panel-body" style="background: url(/img/career/muklis.jpg)no-repeat; background-position: 10% 16%;">
-                  <h3>Muklis, Senior Back End Developer</h3>
+                  <h3>Muklis, Leader Back End Developer</h3>
                 </div>
               </div>
             </a>
