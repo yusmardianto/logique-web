@@ -53,13 +53,233 @@
      <meta property="og:description"
          content="LOGIQUE: web based system development & website management services. Through agile development methods, we develop & design your web based system.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <link rel="canonical" href="https://www.logique.co.id/en/services/system-dev.php">
      <title>Web System Development Service | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
-     <link href="/css/style.css" rel="stylesheet">
-     <link href="assets/css/style-systemdev.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
-     <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
+     <link href="../../css/sidebar-update.css" rel="stylesheet">
+     
+    <style>
+        /* remove unused css for this page (moved style.css used style to this inline style below)  */
+
+        @font-face {
+            font-family: "Novocento Sans Wide";
+            src: url("/fonts/Novecentosanswide-Normal.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: "Novocento Sans Wide Medium";
+            src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+            font-weight: bold;
+            font-style: normal;
+            font-display: swap;
+        }
+        body {
+            font-family: Raleway, sans-serif;
+        }
+        html {
+            scroll-behavior: smooth;
+        }
+        a,b,body,caption,center,dd,div,em,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            line-height: 1.7;
+        } 
+        a:focus, a:hover {
+            text-decoration: none;
+        }
+        .breadcrumb>li+li:before {
+            padding: 0 5px;
+            color: #ccc;
+            content: ">"!important
+        }
+        .breadcrumb--update-design {
+            font-size: 16px;
+            padding: 0;
+            background-color: transparent;
+            font-weight: bold;
+            margin-bottom: 0
+        }
+
+        .breadcrumb--update-design>li {
+            word-break: keep-all
+        }
+
+        .breadcrumb--update-design a {
+            color: #fff;
+        }
+        .wrapper {
+            position: relative;
+            max-width: 1600px;
+            margin: 0 auto;
+            overflow: hidden
+        }
+
+        .contain-video.wrapper--update-design,.wrapper.wrapper--update-design {
+            max-width: unset!important
+        }
+
+        .logique-nav {
+            width: 95px;
+            background: #ffca13;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+            perspective: 1000px;
+            padding: 0;
+            font-weight: 300;
+            transition: all .25s;
+            overflow: auto
+        }
+
+        .wrapper .navbar-toggle {
+            background-color: #ffca13!important;
+            z-index: 9999;
+            transition: all 1s;
+            position: fixed;
+            right: 80px;
+            border-radius: 0;
+            height: 34px;
+            margin-top: 0
+        }
+
+        .wrapper .navbar-toggle.collapsed {
+            background-color: #ffca13!important;
+            position: relative;
+            right: 0!important;
+            margin-top: 0
+        }
+
+        .navbar-toggle--update-design {
+            position: fixed!important
+        }
+
+        #bgImg,#job-opening,footer,section.maintop {
+            overflow: hidden
+        }
+
+
+        .logo--update-design {
+            max-width: 150px;
+            margin-top: 10px;
+            width: 100%
+        }
+
+        .lang-logo--update-design {
+            padding: 10px 0 15px;
+            background-color: #fff;
+            position: fixed;
+            width: 100%;
+            z-index: 10;
+            box-shadow: 2px 4px 9px 0 #ccc;
+        }
+        .lang-logo--update-design .list-inline {
+            position: absolute;
+            top: 10px;
+            right: 0;
+        }
+        .lang-logo--update-design .list-inline a{
+            font-family: "Montserrat";
+        }
+        .lang-logo--update-design .list-inline li.active a{
+            color: black;
+
+        }
+
+
+        @media (max-width: 991.98px) {
+            .logo--update-design {
+                margin-left:1em
+            }
+        }
+
+        @media (max-width: 767.98px) {
+            .lang-logo--update-design {
+                padding-bottom:0
+            }
+
+            .lang-logo--update-design .container {
+                padding-left: 0;
+                padding-right: 0
+            }
+
+            .logo--update-design {
+                margin: 7px auto 0
+            }
+
+            .lang-logo--update-design .list-inline {
+                position: relative!important;
+                top: 0;
+                margin-top: 12px;
+                padding-top: 7px;
+                text-align: center;
+                background-color: #2c3641;
+            }
+
+            .lang-logo--update-design .list-inline>li:last-child {
+                margin-right: 0
+            }
+        }
+        .content-wrapper__ {
+            margin-left: 90px
+        }
+
+        .content-wrapper__ .--top {
+            margin-top: 4.3em
+        }
+        @media (max-width: 767px) {
+            .content-wrapper__,.content-wrapper__black,.content-wrapper__gray {
+                margin-left:0
+            }
+        }
+        
+        .container__ {
+            padding-top: 2.5em;
+            padding-bottom: 2.5em;
+            margin: 0 auto
+        }
+        @media (max-width: 500px) {
+            .container__ {
+                padding:1em;
+            }
+        }
+        @media (min-width: 769px) and (max-width:1299px) {
+            .container__ {
+                padding: 2.5em;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            .container__ {
+                width:1075px
+            }
+        }
+
+        @media (min-width: 992px) and (max-width:1119px) {
+            .container__ {
+                width:900px
+            }
+        }
+
+        @media (min-width: 768px) and (max-width:850px) {
+            .container__ {
+                width:610px
+            }
+        }
+
+        .container__footer {
+            max-width: 1375px;
+            margin: 0 auto
+        }
+
+    </style>    
+    <!-- <link href="/css/style.css" rel="stylesheet preload" as="style" type="text/css" > -->
+    <link href="assets/css/style-systemdev.css" rel="stylesheet preload" as="style" type="text/css" >
+     <link rel="stylesheet preload prefetch" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&amp;display=swap" type="text/css" crossorigin="anonymous">
      <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -69,7 +289,7 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 		
-	</script>
+    </script>
  </head>
 
  <body class="systedev-page">
@@ -146,8 +366,8 @@
          <!-- NAVIGATION -->
 
          <!-- HEADER -->
-                 <div class="container-fluid">
-             <div class="row lang-logo--update-design">
+            <div class="container-fluid">
+             <div class="lang-logo--update-design">
                  <div class="container">
                      <div class="row">
                          <div class="col-sm-offset-1 col-sm-11">
@@ -240,7 +460,10 @@
                                 <p>In the process of developing a web-based system, we use flexible and fast agile development methods. Our development team can adapt to changes so that the system being developed remains high quality and in accordance with dynamic needs.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -251,7 +474,10 @@
                                 <a href="/en/services/penetration-test.php" class="btn-yellow">Learn Penetration Testing Services</a>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-secure.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-secure.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -261,7 +487,10 @@
                                 <p>We are experienced in providing web-based system development services for many large-scale international and local clients especially in the automotive, auction, and e-commerce industries. But overall we have also helped various other industries such as insurance, finance, tourism, manufacturing, and digital startups both in making web-based systems or other services such as mobile application development or digital marketing. With this experience, we quickly understand the client's business needs and provide the best solution for you.</p>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-experienced.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-experienced.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -272,7 +501,10 @@
                                  <a href="/en/services/devops.php" class="btn-yellow text-center">Cloud Sever DevOps</a>
                             </div>
                             <div class="col-sm-6 text-center">
-                                <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/laptop-infra.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/laptop-infra.jpg">
+                                </picture>
                             </div>
                          </div>
                       </div>
@@ -291,14 +523,20 @@
                         </div> 
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaproyek.webp" type="image/webp" />
+                                    <img src="assets/img/img-systemdev/newlayout/skemaproyek.png">
+                                </picture>
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaresources.webp" type="image/webp"/>
+                                    <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
+                                </picture>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -318,14 +556,20 @@
                         </div> 
                         <div class="col-sm-6">
                              <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemapengembangan.webp" type="image/webp"/>
+                                    <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
+                                </picture>                            
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaoutsource.webp" type="image/webp"/>
+                                    <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
+                                </picture>
                             </div>
                         </div> 
                         <div class="col-sm-6">
@@ -428,7 +672,7 @@
                         <div class="col-sm-6 ">
                             <div class="img-slide-content">
                             <div class="sliderimg-studycase">
-                                <div class="slider-item" style="background-image: url(assets/img/img-systemdev/newlayout/jba-img.jpg);">
+                                <div class="slider-item bg-jba">
                                     <div class="company-studycase">
                                         <h3>JBA Indonesia <br>Auction Management System</h3>
                                      JBA is the largest car and motorcycle auction company in Indonesia.
@@ -442,7 +686,7 @@
                                         Learn more
                                     </a>
                                 </div>
-                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/sinarmas-img.jpg);">
+                                <div class="slider-item bg-sinarmas">
                                     <div class="company-studycase">
                                         <h3>Sinarmas Land</h3>
                                         <div>Online Recruitment system</div>
@@ -452,7 +696,7 @@
                                      HTML5/CSS3, .Net Framework, SQL Server, Integrasi LDAP dan SAP
                                     </div>                                    
                                 </div>
-                                <div class="slider-item" style="background: url(assets/img/img-systemdev/newlayout/weeo-img.jpg);">
+                                <div class="slider-item bg-weeo">
                                     <div class="company-studycase">
                                         <h3>Weeo</h3>
                                         <div>Real time vehicle monitoring mobile apps</div>

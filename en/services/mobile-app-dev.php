@@ -68,7 +68,7 @@ if(isset($_POST['submitted']))
      .yellow {
         color: #ffca13
     }
-    /* remove unused css for this page (retrieved from style.css)  */
+    /* remove unused css for this page (moved style.css used style to this inline style below)  */
     body {
         font-family: Raleway, sans-serif;
     }
