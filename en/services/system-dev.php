@@ -57,10 +57,221 @@
      <title>Web System Development Service | LOGIQUE Digital Indonesia</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
-     <link href="/css/style.css" rel="preload" as="style">
-     <link href="/css/style.css" rel="stylesheet">
-     <link href="assets/css/style-systemdev.css" rel="preload" as="style">
-     <link href="assets/css/style-systemdev.css" rel="stylesheet">
+     <link href="../../css/sidebar-update.css" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: "Novocento Sans Wide";
+            src: url("/fonts/Novecentosanswide-Normal.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: "Novocento Sans Wide Medium";
+            src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+            font-weight: bold;
+            font-style: normal;
+        }
+        body {
+            font-family: Raleway, sans-serif;
+        }
+        html {
+            scroll-behavior: smooth;
+        }
+        a,b,body,caption,center,dd,div,em,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            line-height: 1.7;
+        } 
+        a:focus, a:hover {
+            text-decoration: none;
+        }
+        .breadcrumb>li+li:before {
+            padding: 0 5px;
+            color: #ccc;
+            content: ">"!important
+        }
+        .breadcrumb--update-design {
+            font-size: 16px;
+            padding: 0;
+            background-color: transparent;
+            font-weight: bold;
+            margin-bottom: 0
+        }
+
+        .breadcrumb--update-design>li {
+            word-break: keep-all
+        }
+
+        .breadcrumb--update-design a {
+            color: #fff;
+        }
+        .wrapper {
+            position: relative;
+            max-width: 1600px;
+            margin: 0 auto;
+            overflow: hidden
+        }
+
+        .contain-video.wrapper--update-design,.wrapper.wrapper--update-design {
+            max-width: unset!important
+        }
+
+        .logique-nav {
+            width: 95px;
+            background: #ffca13;
+            height: 100%;
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+            perspective: 1000px;
+            padding: 0;
+            font-weight: 300;
+            transition: all .25s;
+            overflow: auto
+        }
+
+        .wrapper .navbar-toggle {
+            background-color: #ffca13!important;
+            z-index: 9999;
+            transition: all 1s;
+            position: fixed;
+            right: 80px;
+            border-radius: 0;
+            height: 34px;
+            margin-top: 0
+        }
+
+        .wrapper .navbar-toggle.collapsed {
+            background-color: #ffca13!important;
+            position: relative;
+            right: 0!important;
+            margin-top: 0
+        }
+
+        .navbar-toggle--update-design {
+            position: fixed!important
+        }
+
+        #bgImg,#job-opening,footer,section.maintop {
+            overflow: hidden
+        }
+
+
+        .logo--update-design {
+            max-width: 150px;
+            margin-top: 10px;
+            width: 100%
+        }
+
+        .lang-logo--update-design {
+            padding: 10px 0 15px;
+            background-color: #fff;
+            position: fixed;
+            width: 100%;
+            z-index: 10;
+            box-shadow: 2px 4px 9px 0 #ccc;
+        }
+        .lang-logo--update-design .list-inline {
+            position: absolute;
+            top: 10px;
+            right: 0;
+        }
+        .lang-logo--update-design .list-inline a{
+            font-family: "Montserrat";
+        }
+        .lang-logo--update-design .list-inline li.active a{
+            color: black;
+
+        }
+
+
+        @media (max-width: 991.98px) {
+            .logo--update-design {
+                margin-left:1em
+            }
+        }
+
+        @media (max-width: 767.98px) {
+            .lang-logo--update-design {
+                padding-bottom:0
+            }
+
+            .lang-logo--update-design .container {
+                padding-left: 0;
+                padding-right: 0
+            }
+
+            .logo--update-design {
+                margin: 7px auto 0
+            }
+
+            .lang-logo--update-design .list-inline {
+                position: relative!important;
+                top: 0;
+                margin-top: 12px;
+                padding-top: 7px;
+                text-align: center;
+                background-color: #2c3641;
+            }
+
+            .lang-logo--update-design .list-inline>li:last-child {
+                margin-right: 0
+            }
+        }
+        .content-wrapper__ {
+            margin-left: 90px
+        }
+
+        .content-wrapper__ .--top {
+            margin-top: 4.3em
+        }
+        @media (max-width: 767px) {
+            .content-wrapper__,.content-wrapper__black,.content-wrapper__gray {
+                margin-left:0
+            }
+        }
+        
+        .container__ {
+            margin: 0 auto
+        }
+        @media (max-width: 500px) {
+            .container__ {
+                padding:1em;
+            }
+        }
+        @media (min-width: 769px) and (max-width:1299px) {
+            .container__ {
+                padding: 0 2.5em;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            .container__ {
+                width:1075px
+            }
+        }
+
+        @media (min-width: 992px) and (max-width:1119px) {
+            .container__ {
+                width:900px
+            }
+        }
+
+        @media (min-width: 768px) and (max-width:850px) {
+            .container__ {
+                width:610px
+            }
+        }
+
+        .container__footer {
+            max-width: 1375px;
+            margin: 0 auto
+        }
+
+    </style>    
+    <!-- <link href="/css/style.css" rel="stylesheet preload" as="style" type="text/css" > -->
+    <link href="assets/css/style-systemdev.css" rel="stylesheet preload" as="style" type="text/css" >
      <link rel="stylesheet preload prefetch" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&amp;display=swap" type="text/css" crossorigin="anonymous">
      <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
      <script>
@@ -72,7 +283,7 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 		
-	</script>
+    </script>
  </head>
 
  <body class="systedev-page">

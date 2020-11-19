@@ -107,7 +107,7 @@
             </div>
             <div class="col-xs-12 col-sm-offset-1 col-md-offset-0 col-md-7">
               <div class="interview__role-title --white">
-                <h1>-- Muklis, Senior Back End Developer</h1>
+                <h1>-- Muklis, Leader Back End Developer</h1>
               </div>
             </div>
           </div>
