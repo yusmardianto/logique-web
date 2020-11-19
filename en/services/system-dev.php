@@ -58,18 +58,23 @@
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet">
      <link href="../../css/sidebar-update.css" rel="stylesheet">
+     
     <style>
+        /* remove unused css for this page (moved style.css used style to this inline style below)  */
+
         @font-face {
             font-family: "Novocento Sans Wide";
             src: url("/fonts/Novecentosanswide-Normal.otf") format("opentype");
             font-weight: normal;
             font-style: normal;
+            font-display: swap;
         }
         @font-face {
             font-family: "Novocento Sans Wide Medium";
             src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
             font-weight: bold;
             font-style: normal;
+            font-display: swap;
         }
         body {
             font-family: Raleway, sans-serif;
@@ -233,6 +238,8 @@
         }
         
         .container__ {
+            padding-top: 2.5em;
+            padding-bottom: 2.5em;
             margin: 0 auto
         }
         @media (max-width: 500px) {
@@ -242,7 +249,7 @@
         }
         @media (min-width: 769px) and (max-width:1299px) {
             .container__ {
-                padding: 0 2.5em;
+                padding: 2.5em;
             }
         }
 
@@ -273,7 +280,6 @@
     <!-- <link href="/css/style.css" rel="stylesheet preload" as="style" type="text/css" > -->
     <link href="assets/css/style-systemdev.css" rel="stylesheet preload" as="style" type="text/css" >
      <link rel="stylesheet preload prefetch" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&amp;display=swap" type="text/css" crossorigin="anonymous">
-     <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
      <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
