@@ -12,7 +12,7 @@
             <h3 class="section-title --black" style="font-size: 26px;">Lihat lainnya</h3>
           </div>
           <?php if ($name !== 'yoshi'): ?>
-          <div class="col-md-4">
+          <div class="col-sm-6 col-md-4">
             <a href="/career/interview/yoshi.php" class="interview-link">
               <div class="panel panel-default">
                 <div class="panel-body" style="background: url(/img/career/yoshi.jpg)no-repeat;">
@@ -23,10 +23,10 @@
           </div>
           <?php endif; ?>
           <?php if ($name !== 'ghitta'): ?>
-          <div class="col-md-4">
+          <div class="col-sm-6 col-md-4">
             <a href="/career/interview/ghitta.php" class="interview-link">
               <div class="panel panel-default">
-                <div class="panel-body" style="background: url(/img/career/ghitta.jpg)no-repeat;">
+                <div class="panel-body" style="background: url(/img/career/ghitta.jpg)no-repeat; background-position: 10% 16%;">
                   <h3>Ghitta, HRD</h3>
                 </div>
               </div>
@@ -34,10 +34,10 @@
           </div>
           <?php endif; ?>
           <?php if ($name !== 'taufik'): ?>
-          <div class="col-md-4">
+          <div class="col-sm-6 col-md-4">
             <a href="/career/interview/taufik.php" class="interview-link">
               <div class="panel panel-default">
-                <div class="panel-body" style="background: url(/img/career/taufik.jpg)no-repeat;">
+                <div class="panel-body" style="background: url(/img/career/taufik.jpg)no-repeat; background-position: 10% 16%;">
                   <h3>Taufik, Senior Front End Developer</h3>
                 </div>
               </div>
@@ -45,10 +45,10 @@
           </div>
           <?php endif; ?>
           <?php if ($name !== 'muklis'): ?>
-          <div class="col-md-4">
+          <div class="col-sm-6 col-md-4">
             <a href="/career/interview/muklis.php" class="interview-link">
               <div class="panel panel-default">
-                <div class="panel-body" style="background: url(/img/career/muklis.jpg)no-repeat;">
+                <div class="panel-body" style="background: url(/img/career/muklis.jpg)no-repeat; background-position: 10% 16%;">
                   <h3>Muklis, Senior Back End Developer</h3>
                 </div>
               </div>
@@ -56,11 +56,22 @@
           </div>
           <?php endif; ?>
           <?php if ($name !== 'aprillian'): ?>
-          <div class="col-md-4">
+          <div class="col-sm-6 col-md-4">
             <a href="/career/interview/aprillian.php" class="interview-link">
               <div class="panel panel-default">
-                <div class="panel-body" style="background: url(/img/career/aprillian.jpg)no-repeat;">
+                <div class="panel-body" style="background: url(/img/career/aprillian.jpg)no-repeat;     background-position: 10% 25%;">
                   <h3>Aprillian, Leader Digital Marketing Team</h3>
+                </div>
+              </div>
+            </a>
+          </div>
+          <?php endif; ?>
+          <?php if ($name !== 'anton'):?>
+          <div class="col-sm-6 col-md-4">
+            <a href="/career/interview/anton.php" class="interview-link">
+              <div class="panel panel-default">
+                <div class="panel-body" style="background: url(/img/career/anton.jpg)no-repeat;     background-position: 10% 46%;">
+                  <h3>Anton, CTO</h3>
                 </div>
               </div>
             </a>
