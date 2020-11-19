@@ -102,10 +102,10 @@
         </div>
         <div class="container--max-width header-banner" style="padding-bottom: 1.5em;">
           <div class="row row__same-height">
-            <div class="col-md-offset-1 col-md-4">
+            <div class="col-xs-10 col-sm-offset-1 col-md-offset-1 col-md-4">
               <img src="/img/career/muklis.jpg" class="img-responsive">
             </div>
-            <div class="col-md-7">
+            <div class="col-xs-12 col-sm-offset-1 col-md-offset-0 col-md-7">
               <div class="interview__role-title --white">
                 <h1>-- Muklis, Senior Back End Developer</h1>
               </div>

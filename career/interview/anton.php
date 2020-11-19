@@ -14,7 +14,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Staff terbaik kami di divisi Frontend Developer memberikan pesan untuk para kandidat yang ingin melamar sebagai Frontend Developer di LOGIQUE terkait kemampuan apa saja yang dicari oleh kami sehingga dapat terus berkembang bersama kami. Segera kunjungi website karir LOGIQUE sekarang juga!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -94,7 +94,7 @@
                   <meta itemprop="position" content="3" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Aprillian</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Anton</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
               </ol>
@@ -104,11 +104,11 @@
         <div class="container--max-width header-banner" style="padding-bottom: 1.5em;">
           <div class="row row__same-height">
             <div class="col-xs-10 col-sm-offset-1 col-md-offset-1 col-md-4">
-              <img src="/img/career/aprillian.jpg" class="img-responsive">
+              <img src="/img/career/anton.jpg" class="img-responsive">
             </div>
             <div class="col-xs-12 col-sm-offset-1 col-md-offset-0 col-md-7">
               <div class="interview__role-title --white">
-                <h1>-- Aprilian, Leader Digital Marketing Team</h1>
+                <h1>-- Anton, CTO</h1>
               </div>
             </div>
           </div>
@@ -124,8 +124,8 @@
                   <img src="/img/career/qa_.png">
                 </div>
                 <div class="col-md-10 interview__qa">
-                  <h3>Sebagai leader digital marketing tim, Apa yang anda lakukan untuk perusahaan agar dapat terus bersaing melalui Digital Marketing?</h3>
-                  <p>Membangun pondasi team yang kuat dengan meningkatkan kualitas pengetahuan dan skill dari masing-masing kehalian yang dibutuhkan, agar kemudian mampu memberikan positive value berdasarkan performance kerja yang nyata kepada klien setia Logqiue.</p>
+                  <h3>Boleh di ceritakan sedikit, bagaimana peran Anda sebagai CTO di Logique?</h3>
+                  <p>Sebagian besar ada di sector strategi dan manajemen, khususnya aspek technical. Dalam konteks proyek pengembangan sistem informasi berbasis web dan mobile, saya banyak terlibat dalam strategi R&D yang berkelanjutan untuk mendorong innovasi, guna meningkatkan daya saing. Kemudian aspek-aspek lainnya seperti budgeting, project advisory, dan hiring strategy.</p>
                 </div>
               </div>
               <div class="row">
@@ -133,8 +133,8 @@
                   <img src="/img/career/qa_.png">
                 </div>
                 <div class="col-md-10 interview__qa">
-                  <h3>Apakah menurut anda bekerja secara remote dapat meningkatkan produktivitas?</h3>
-                  <p>Akan dikembalikan kepada setiap individu yang menjalaninya, tapi menurut saya pribadi saya merasa lebih produktif bekerja secara on site dan dipadukan dengan kerja secara remote. Sesuai dengan metode yang sudah di jalankan Logique saat ini. </p>
+                  <h3>Apa saja tantangan yang sering Anda hadapi selama menjadi CTO di Logique?</h3>
+                  <p>Tentu saja banyak tantangan menarik di sini. Misalnya pergerakan kemajuan teknologi yang sangat dinamis, serta tantangan dalam mengimplementasikannya ke dalam bisnis proses klien-klien kami.</p>
                 </div>
               </div>
               <div class="row">
@@ -142,8 +142,8 @@
                   <img src="/img/career/qa_.png">
                 </div>
                 <div class="col-md-10 interview__qa">
-                  <h3>Bagaimana pendapat anda mengenai jam kerja fleksibel bagi tim anda?</h3>
-                  <p>Saat dibutuhkan koordinasi team dalam waktu yang bersamaan, saya hanya berharap setiap tim mampu menyikapinya dengan professional karena ini merupakan suatu benefit yang menguntungkan bagi kita semua. Kita di harapkan mampu dan mempunyai pola kerja yang baik dari jam kerja yang flexible ini.</p>
+                  <h3>Bagaimana Anda menghadapi tantangan tersebut?</h3>
+                  <p>Bersama segenap komponen stakeholder di logique, kami tumbuh dengan orientasi kerjasama tim yang baik. Di logique kami memiliki banyak professional muda berbakat, dengan semangat dan komitmen tinggi. Maka tidak begitu sulit bagi saya menghadapi tantangan tersebut.</p>
                 </div>
               </div>
               <div class="row">
@@ -151,8 +151,8 @@
                   <img src="/img/career/qa_.png">
                 </div>
                 <div class="col-md-10 interview__qa">
-                  <h3>Apakah anda siap jika LOGIQUE memberi anda kesempatan promosi jabatan lebih cepat dari perusahaan lain?</h3>
-                  <p>Sangat siap, karena ini adalah kesempatan bagi saya untuk meningkatkan value atas keahlian yang saya miliki.Logique juga sangat terbuka jika kita ingin mencoba untuk berada di posisi yang lain ketika ada di nilai mempunyai kemampuan dan juga keinginan yang kuat. </p>
+                  <h3>Bagaimana cara anda untuk memanage tim member anda di Logique dengan jumlah tim member yang anda miliki saat ini?</h3>
+                  <p>Team members bekerja sehari-hari dengan target di dalam koridor SOP yang jelas. Dalam hal briefing, monitoring,  dan evaluasi, saya didukung oleh rekan-rekan department head serta project manager. Di sini evaluasi dilakukan secara daily basis, monthly basis, dan yearly basis. Sehingga issue yang terjadi pada team members dapat teridentifikasi lebih awal, dan diresponse dengan cepat . Namun tetap kami memberikan ruang kreatifitas yang cukup luas.</p>
                 </div>
               </div>
               <div class="row">
@@ -160,8 +160,8 @@
                   <img src="/img/career/qa_.png">
                 </div>
                 <div class="col-md-10 interview__qa">
-                  <h3>Dari semua lingkup pekerjaan yang anda lakukan sebagai Digital Marketing Lead, pekerjaan apa yang paling anda sukai, dan kenapa?</h3>
-                  <p>Menjadi seorang mentor, senang rasanya bisa membagikan pengalaman dan pengetahuan yang saya miliki kepada orang lain, Saya merasa itu adalah saat dimana Saya mampu menjadi individu yang mampu memberikan manfaat bagi individu lainnya.</p>
+                  <h3>Apa sajakah kiat kiat Anda sebagai seorang CTO untuk membimbing tim member anda menjadi seorang programmer yang selalu update dengan teknologi terbaru?</h3>
+                  <p>Tentu kesabaran merupakan salah satu faktor penting . Selain itu saya juga membangun kedekatan secara professional dengan team member, agar di dalam proses people development berjalan dalam spektrum yang lebih relax dan tidak ada keterpaksaan. Pada akhirnya nanti akan terbentuk kesadaran akan betapa pentingnya berinvestasi waktu semasa muda (untuk proses belajar). Berawal dari kesadaran dan passion yang kuat tadi, maka tidak begitu sulit untuk mengarahkan dan mendorong team members untuk selalu up to date dengan dinamika teknologi, khususnya platform yang dikembangkan di logique. </p>
                 </div>
               </div>
               <div class="row">
@@ -169,8 +169,17 @@
                   <img src="/img/career/qa_.png">
                 </div>
                 <div class="col-md-10 interview__qa">
-                  <h3>Apa yang kira2 ingin anda sampaikan kepada candidate?</h3>
-                  <p>Hi Kandidat, Saya percaya kalian adalah pribadi-pribadi yang hebat, Logique akan menjadi tempat yang tepat buat Anda, karena di Logique, Anda bukan cuma dapat kesempatan untuk berkarir, tapi Anda akan mendapatkan kesempatan untuk belajar banyak hal yang dampaknya jenjang karir Anda akan terbuka lebih luas.</p>
+                  <h3>Apakah ada kriteria khusus yang harus dimiliki jika ingin bergabung di Logique untuk menjadi seorang programmer yang handal?  </h3>
+                  <p>Komitmen dan kompetensi individu sama-sama penting. Tentu secara komitmen harus kuat. Dalam hal kompetensi kami tentu sudah ada klasifikasi level, mulai dari junior, middle, dan senior.Dengan motivasi dan komitmen yang kuat, kita dapat membangun kompetensi dengan proses yang menyenangkan. </p>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-1">
+                  <img src="/img/career/qa_.png">
+                </div>
+                <div class="col-md-10 interview__qa">
+                  <h3>Apa yang kira kira ingin anda sampaikan kepada candidate?</h3>
+                  <p>Nilai dan semangat dalam proses bekerja, perlu dibangun di atas komitmen serta landasan integritas tinggi. Di logique, kita Bersama-sama membangun dan terus memperbaiki kualiatas baik secara individu maupun kolektif. Kita mengedepankan proses kerja yang efektif dan efisien dengan hasil yang optimal.</p>
                 </div>
               </div>
             </div>

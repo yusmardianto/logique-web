@@ -61,6 +61,7 @@
      <link href="/css/style.css" rel="stylesheet">
      <link href="assets/css/style-systemdev.css" rel="preload" as="style">
      <link href="assets/css/style-systemdev.css" rel="stylesheet">
+     <link rel="stylesheet preload prefetch" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&amp;display=swap" type="text/css" crossorigin="anonymous">
      <script src="https://use.fontawesome.com/df558bb4a1.js"></script>
      <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -315,7 +316,10 @@
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaresources.webp" type="image/webp"/>
+                                    <img src="assets/img/img-systemdev/newlayout/skemaresources.png">
+                                </picture>
                             </div>
                         </div>
                         <div class="col-sm-6">
@@ -335,14 +339,20 @@
                         </div> 
                         <div class="col-sm-6">
                              <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemapengembangan.webp" type="image/webp"/>
+                                    <img src="assets/img/img-systemdev/newlayout/skemapengembangan.png">
+                                </picture>                            
                             </div>
                         </div>
                     </div>
                     <div class="row rowflex">
                         <div class="col-sm-6">
                             <div class="skema-img">
-                                <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
+                                <picture>
+                                    <source srcset="assets/img/img-systemdev/newlayout/skemaoutsource.webp" type="image/webp"/>
+                                    <img src="assets/img/img-systemdev/newlayout/skemaoutsource.png">
+                                </picture>
                             </div>
                         </div> 
                         <div class="col-sm-6">
@@ -1355,18 +1365,9 @@
      <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
      <script src="/js/bootstrap.min.js"></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-     <script src="/js/modernizr-custom.js"></script>
      <script src='https://www.google.com/recaptcha/api.js'></script>
      <script type="text/javascript">
      $(function() {
-        Modernizr.on('webp', function(result){
-            if(result){
-                $("body").addClass('webp');
-            } else {
-                $("body").addClass('no-webp');
-            }
-        })
-
          $('.smooth').click(function() {
              if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
                  this.hostname) {
