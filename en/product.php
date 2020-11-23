@@ -184,7 +184,7 @@
                         keeping track of how they spend their working hours in real-time through an auto screen capturing
                         feature. </p>
 
-                    <div class="product-snap-shot">
+                    <div class="product-snap-shot  dokodemo-ss">
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.png"
                                 alt="dokodemo_1">
@@ -201,6 +201,15 @@
                             <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.png"
                                 alt="dokodemo_3">
                             <p class="product-snap-shot__text">Track work hour and break time</p>
+                        </div>
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
+                            <p class="product-snap-shot__text">Count and employee leave proposal</p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
+                            <p class="product-snap-shot__text">Employee location tracker in office hour</p>
                         </div>
                     </div>
 
@@ -258,7 +267,7 @@
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_2.png" alt="nippo 2">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
                             <p class="product-snap-shot__text">Statistic for each projects</p>
                         </div>
                     </div>

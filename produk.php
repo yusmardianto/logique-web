@@ -205,8 +205,8 @@
                         produktivitas karyawan dengan melihat bagaimana karyawan menghabiskan jam kerja mereka melalui fitur
                         auto-screencapture yang tersedia.</p>
 
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
+                    <div class="product-snap-shot dokodemo-ss">
+                        <div class="product-snap-shot__item mb10">
                             <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_1.png" alt="dokodemo_1">
                             <p class="product-snap-shot__text">Analisa waktu kerja berdasarkan project </p>
                         </div>
@@ -219,6 +219,16 @@
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_3.png" alt="dokodemo_3">
                             <p class="product-snap-shot__text">Melacak jam kerja dan jam istirahat</p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
+                            <p class="product-snap-shot__text">Perhitungsan dan pengajuan cuti karyawan</p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
+                            <p class="product-snap-shot__text">Melacak lokasi karyawanan pada jam kerja</p>
                         </div>
                     </div>
 
@@ -255,7 +265,9 @@
                                 alt="sugoi saiyo 3">
                             <p class="product-snap-shot__text">Upload CV, sertifikat, dan dokumen-dokumen penting</p>
                         </div>
+                        
                     </div>
+                    
 
                     <p class="title__description--full">Sistem ini mencakup semua proses perekrutan dasar. Dari resepsi CV, penyaringan, pengujian dan penjadwalan wawancara, hingga mengirim surat penawaran; semua kegiatan ini bisa dilakukan melalui Sugoi Saiyo.
                     </p><br>
@@ -280,7 +292,7 @@
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_2.png" alt="nippo 2">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
                             <p class="product-snap-shot__text">Statistik kerja per proyek</p>
                         </div>
                     </div>
