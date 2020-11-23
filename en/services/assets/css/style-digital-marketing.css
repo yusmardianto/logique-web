@@ -1,5 +1,5 @@
 /* @import url(https://fonts.googleapis.com/css?family=Raleway); */
-@import url('/css/sidebar-update.css');
+/* @import url('/css/sidebar-update.css'); */
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
 @font-face {
     font-family: "Novocento Sans Wide";
@@ -249,7 +249,8 @@ strong {
  
 /* banner */
 .dm .dm__banner {
-    background: url('../img/img-digital-marketing/dm-bg.png') center/cover no-repeat;
+    background: url('../img/img-digital-marketing/dm-bg.jpg') center/cover no-repeat;
+    background: url('../img/img-digital-marketing/dm-bg.webp') center/cover no-repeat;
     height: 565px;
     display: flex;
     align-items: center;
@@ -325,7 +326,7 @@ strong {
 
 /* dm trend */
 .dm .dm__trend {    
-    background: url('../img/img-digital-marketing/trend-bg.png') center/cover no-repeat;
+    background: url('../img/img-digital-marketing/trend-bg.jpg') center/cover no-repeat;
 }
 
 .dm .dm__trend img {
@@ -486,7 +487,8 @@ strong {
 /* end dm strong */
 
 .dm .dm__material {
-    background: url('../img/img-digital-marketing/material-bg.png') center/cover no-repeat;
+    background: url('../img/img-digital-marketing/material-bg.jpg') center/cover no-repeat;
+    background: url('../img/img-digital-marketing/material-bg.webp') center/cover no-repeat;
 }
 
 .dm .dm__material .dm__list-circle {
@@ -499,7 +501,8 @@ strong {
 
 /* dm teamwork */
 .dm .dm__teamwork {
-    background: url('../img/img-digital-marketing/lgq-teamwork-bg.png') center/cover no-repeat;
+    background: url('../img/img-digital-marketing/lgq-teamwork-bg.jpg') center/cover no-repeat;
+    background: url('../img/img-digital-marketing/lgq-teamwork-bg.webp') center/cover no-repeat;
 }
 
 .dm .dm__teamwork img {
