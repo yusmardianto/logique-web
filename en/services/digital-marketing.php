@@ -21,13 +21,13 @@
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description" content="LOGIQUE, a digital marketing agency in Jakarta, offering professional Digital Marketing services in indonesia.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/en/services/digital-marketing.php">
     <title>LOGIQUE | Jakarta Based Digital Marketing Agency</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
-    <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
+    <link href="/css/style.css" rel="preload stylesheet" as="style">
+    <link href="assets/css/style-digital-marketing.css" rel="preload stylesheet" as="style">
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet"> -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <!-- <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -48,33 +48,21 @@
 	twq('track','PageView');
 	</script> -->
     <!-- End Twitter universal website tag code -->
+    <style>
+    .--top{background-color:#000;margin-bottom:-1px}
+    .breadcrumb--update-design li.active a{color:#fff}
+    @media only screen and (max-width: 1024px) {
+    .div-top .text-center{text-align:right}
+    }
+    @media only screen and (max-width: 767px) {
+    .div-top .title .text-center{display:flex;align-items:center;justify-content:space-between}
+    }
+    
+    </style>
 </head>
 
 <body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-y: auto;">
-    <style>
-    .--top {
-        background-color: black;
-        margin-bottom: -1px;
-    }
-
-    .breadcrumb--update-design li.active a {
-        color: #fff;
-    }
-
-    @media only screen and (max-width: 1024px) {
-        .div-top .text-center {
-            text-align: right;
-        }
-    }
-
-    @media only screen and (max-width: 767px) {
-        .div-top .title .text-center {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-    }
-    </style>
+    
     <!-- NAVIGATION -->
     <div class="nav-lp">
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
@@ -241,7 +229,10 @@
             <div class="container__ text-center">
                 <h2>Marketing Trends</h2>
                 <p>Marketing trends have changed dramatically, Digital Marketing has become an important standard for business activities in almost every type of industry.</p>
-                <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                <picture>
+                    <source srcset="/en/services/assets/img/img-digital-marketing/trend-image.webp" type="image/webp"/>
+                    <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                </picture>
                 <p>By utilizing our years of successful experience in the development of many businesses local and globally, and supported by a team of professionals who have technical skills in developing the latest web systems and creative teams with content design and writing skills, we believe, we are able to provide real success for your business.</p>
             </div>
         </section>
@@ -252,25 +243,37 @@
                 <div class="row get__list">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="">
+                            <picture>
+                                <source srcset="/en/services/assets/img/img-digital-marketing/get-awareness.webp" type="image/webp"/>
+                                <img src="/en/services/assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="">
+                            </picture>
                             <p>Increase brand <br>awareness</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="">
+                            <picture>
+                                <source srcset="/en/services/assets/img/img-digital-marketing/get-sales.webp" type="image/webp"/>
+                                <img src="/en/services/assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="">
+                            </picture>
                             <p>Increase Sales / <br>Transaction Numbers</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="">
+                            <picture>
+                                <source srcset="/en/services/assets/img/img-digital-marketing/get-user.webp" type="image/webp"/>
+                                <img src="/en/services/assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="">
+                            </picture>
                             <p> Increase user / <br>customer database</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="/en/services/assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="">
+                        <picture>
+                                <source srcset="/en/services/assets/img/img-digital-marketing/get-interaction.webp" type="image/webp"/>
+                                <img src="/en/services/assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="">
+                            </picture>
                             <p>Increase user <br>interaction</p>
                         </div>
                     </div>
@@ -400,7 +403,10 @@
             <div class="container__ text-center">
                 <h2>How <strong>LOGIQUE</strong>'s Team Work</h2><br>
                 <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
-                    <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
+                    <picture>
+                        <source srcset="/en/services/assets/img/img-digital-marketing/lgq-teamwork.webp" type="image/webp"/>
+                        <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
+                    </picture>
                 </a>
             </div>
         </section>
@@ -414,10 +420,7 @@
     <script  src='assets/js/modernizr-custom.js'></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
     <script>
-        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
-            event.preventDefault();
-            $(this).ekkoLightbox();
-        });
+        $(document).on('click','[data-toggle="lightbox"]',function(event){event.preventDefault();$(this).ekkoLightbox();});
     </script>
 </body>
 
