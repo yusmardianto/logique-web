@@ -223,7 +223,7 @@
 
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
-                            <p class="product-snap-shot__text">Perhitungsan dan pengajuan cuti karyawan</p>
+                            <p class="product-snap-shot__text">Perhitungan dan pengajuan cuti karyawan</p>
                         </div>
 
                         <div class="product-snap-shot__item">
