@@ -204,12 +204,12 @@
                         </div>
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
-                            <p class="product-snap-shot__text">Count and employee leave proposal</p>
+                            <p class="product-snap-shot__text">各ユーザーの出席と休日のリクエストを管理</p>
                         </div>
 
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
-                            <p class="product-snap-shot__text">Employee location tracker in office hour</p>
+                            <p class="product-snap-shot__text">モバイルアプリではGPSで位置情報を取り管理サーバーに送信します</p>
                         </div>
                     </div>
 
