@@ -1411,7 +1411,13 @@ left: -70px;
     margin: 0 auto;
     padding-bottom: 15px;
 }
-
+.product-snap-shot.dokodemo-ss {
+    justify-content: center;
+}
+.product-snap-shot.dokodemo-ss  .product-snap-shot__item {
+    margin-bottom:30px;
+    flex-grow: 0;
+}
 @media (max-width: 1024px) {
     .product-snap-shot {
         padding: 0 20px;
@@ -4611,6 +4617,7 @@ video.vd-log{
     .carousel-home-new .carousel-inner>.item {height: 945px;}
     .div-explanation{font-size: 13px;height: 100px;}
     .onhover:hover {height: auto;}
+    .dokodemo-ss  .product-snap-shot__item { width: 50%}
 }
 @media (max-width:767px) {
     .floating-banner {top: auto;bottom: 140px;}
