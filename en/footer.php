@@ -121,7 +121,7 @@ $('.map-container').click(function(){$(this).find('iframe').addClass('clicked')}
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
     "name": "Logique Digital Indonesia",
-    "url:"https://www.logique.co.id",
+    "url":"https://www.logique.co.id",
     "priceRange": "$",
     "image": "https://www.logique.co.id/img/slider1.jpg",
     "description": "Logique adalah perusahan jasa digital agency asal Jepang yang berkantor di Jakarta dan membantu Anda dalam pembuatan dan pengembangan website, digital marketing, dan desain.",
