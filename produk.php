@@ -223,12 +223,12 @@
 
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
-                            <p class="product-snap-shot__text">Perhitungan dan pengajuan cuti karyawan</p>
+                            <p class="product-snap-shot__text">Lihat Riwayat Absensi, Cuti, dan Liburan</p>
                         </div>
 
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
-                            <p class="product-snap-shot__text">Melacak lokasi karyawanan pada jam kerja</p>
+                            <p class="product-snap-shot__text">Lacak Lokasi Karyawan dengan GPS</p>
                         </div>
                     </div>
 
