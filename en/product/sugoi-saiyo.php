@@ -723,7 +723,7 @@ staffing solutions, recruitment tools, sugoi saiyo, logique digital Indonesia">
 
 
      <?php include '../footer.php'; ?>
-
+     <script async defer src='https://www.google.com/recaptcha/api.js'></script>
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
      <script type="text/javascript">
      $(function() {
