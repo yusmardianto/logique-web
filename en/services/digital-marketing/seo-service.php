@@ -18,12 +18,10 @@
 	<meta property="og:description" content="Logique is a professional SEO service agency in Jakarta, optimizing your website, Increasing your organic traffic & gaining more conversions.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<title>LOGIQUE | A Professional SEO Service Agency In Jakarta</title>
+	<link rel="canonical" href="https://www.logique.co.id/en/services/digital-marketing/seo-service.php"/>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>
 		(function(i, s, o, g, r, a, m) {
 			i['GoogleAnalyticsObject'] = r;
@@ -123,7 +121,7 @@
 
 		<!-- HEADER -->
 		<div class="container-fluid">
-			<div class="row lang-logo--update-design">
+			<div class="lang-logo--update-design">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-offset-1 col-sm-11">
@@ -193,7 +191,10 @@
 							<br class="visible-lg">
 							<div class="row">
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-1.jpg" alt="team effort" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-1.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-1.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 								<div class="col-md-6 col-xs-12">
 									<p>Our team will always be ready to dedicate its efforts in improving the performance of your website that is supported by the experience of experts who have been experts in their respective fields for years.</p>
@@ -204,12 +205,18 @@
 									<p>Many website development companies are able to create and design websites that look very professional and modern, but unfortunately, most of these companies fail to optimize website functions to make them more friendly with the Search Engine Robot.</p>
 								</div>
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-2.jpg" alt="optimize website function" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-2.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-2.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-3.jpg" alt="web development understanding" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-3.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-3.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 								<div class="col-md-6 col-xs-12">
 									<p>And many SEO service providers know and understand how to optimize a website, however, it is often constrained because of the limitations of experts who understand website development.</p>
@@ -220,7 +227,10 @@
 									<p>In the end, making the process of optimizing the performance of a website takes a long time, whereas you want the company's growth to continue to increase over time.</p>
 								</div>
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-4.jpg" alt="teamwork" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-4.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-4.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 							</div>
 							<p class="text-center">This is what <strong>LOGIQUE</strong> is trying to avoid. Every division involved in optimizing a website will work based on corridors and SEO methods while still paying attention to the aesthetics and functions of a website.</p>
@@ -436,7 +446,7 @@
 								<div class="col-md-6 col-xs-12">
 									<picture>
 										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.webp" type="image/webp">
-										<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="Our Contribution" class=" contribution__img img-responsive">
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="Our Contribution" class=" contribution__img img-responsive" loading="lazy">
 									</picture>
 								</div>
 								<div class="tab-content tab-content__text col-md-6 col-xs-12">
