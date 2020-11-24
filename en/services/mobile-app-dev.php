@@ -989,7 +989,7 @@ if(isset($_POST['submitted']))
      </div>
      
      <?php include '../footer.php' ?>
-
+    <script async defer src='https://www.google.com/recaptcha/api.js'></script>
      <script src="/js/jquery.matchHeight.js"></script>
      <script src="/js/modernizr-custom.js"></script>
      <script type="text/javascript" defer>
