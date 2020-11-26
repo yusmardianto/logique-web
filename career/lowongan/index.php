@@ -122,7 +122,7 @@
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
+                        <h3 class="heading-black">PHP Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -229,7 +229,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
+                        <h3 class="heading-black">PHP Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
