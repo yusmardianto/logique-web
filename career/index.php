@@ -139,7 +139,7 @@
                     <div class="urgent-need">
                       <a href="/career/lowongan/programmer/web-developer.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <div class="urgent-need__text">Web Developer</div>
+                        <div class="urgent-need__text">PHP Developer</div>
                       </a>
                       <a href="/career/lowongan/it-generalist/business-analyst.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/analysis.png" alt="Front End Developer">
