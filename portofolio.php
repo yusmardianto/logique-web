@@ -303,13 +303,10 @@
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
                             <div class="card card-case-study">
                                 <h3>Studi Kasus</h3>
-                                <picture>
-                                    <source srcset="/img/portfolio/zuttoride.webp">
-                                    <img src="/img/portfolio/zuttoride.jpg" class="img-responsive img-card"/>
-                                </picture>
+                                <img src="/img/portfolio/update/sys-jba.png" class="img-responsive img-card" style="object-fit:contain; width: auto;"/>
                                 <p class="card-category-text">STUDI KASUS</p>
-                                <p class="card-content-text">ZuttoRide - Sistem Manajemen Pelanggan</p>
-                                <a href="/case-study/zuttoride-customer-management-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                                <p class="card-content-text">JBA Indonesia - Online Auction System</p>
+                                <a href="/case-study/jba-auction-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
@@ -324,7 +321,7 @@
                                     <div class="content-list-item">
                                         <p class="card-category-text">STUDI KASUS</p>
                                         <p class="card-content-text">LOGIQUE Kelola Internet Marketing dan SEO Website Opus Park</p>
-                                        <a href="https://www.logique.co.id/blog/2018/10/24/internet-marketing-seo-website-opus-park/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                        <a href="/case-study" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
                                     </div>
                                 </div>
 

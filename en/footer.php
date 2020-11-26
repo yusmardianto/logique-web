@@ -107,34 +107,36 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
         </div>
     </div>
 </footer>
- 
+
 <script src="/js/jquery-3.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
+<script defer src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
-<script src='https://www.google.com/recaptcha/api.js'></script>
+<!-- <script async defer src='https://www.google.com/recaptcha/api.js'></script> separated to each required page only -->
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
-$('.map-container')
-    .click(function() {
-        $(this).find('iframe').addClass('clicked')
-    })
-    .mouseleave(function() {
-        $(this).find('iframe').removeClass('clicked')
-    });
+$('.map-container').click(function(){$(this).find('iframe').addClass('clicked')}).mouseleave(function(){$(this).find('iframe').removeClass('clicked')});
 </script>
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "ProfessionalService",
+    "name": "Logique Digital Indonesia",
+    "url:"https://www.logique.co.id",
+    "priceRange": "$",
+    "image": "https://www.logique.co.id/img/slider1.jpg",
+    "description": "Logique adalah perusahan jasa digital agency asal Jepang yang berkantor di Jakarta dan membantu Anda dalam pembuatan dan pengembangan website, digital marketing, dan desain.",
     "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Jakarta, Indonesia",
+        "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5",
+        "addressLocality": "Jakarta Selatan",
+        "addressRegion": "DKI Jakarta",
         "postalCode": "12550",
-        "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+        "addressCountry": "Indonesia"
     },
     "logo": "https://www.logique.co.id/img/logo.png",
     "email": "info(at)logique.co.id",
-    "telephone": "+62 (21) 2270 8935/36"
+    "openingHours": "Mo 08:00-17:30 Tu 08:00-17:30 We 08:00-17:30 Th 08:00-17:30 Fr 08:00-17:30",
+    "telephone": "(021) 22708935 / 36"
 }
 </script>
 <script type="text/JavaScript">

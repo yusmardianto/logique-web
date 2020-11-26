@@ -304,13 +304,10 @@
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
                             <div class="card card-case-study">
                                 <h3>Case Study</h3>
-                                <picture>
-                                    <source srcset="/img/portfolio/zuttoride.webp">
-                                    <img src="/img/portfolio/zuttoride.jpg" class="img-responsive img-card"/>
-                                </picture>
+                                <img src="/img/portfolio/update/sys-jba.png" class="img-responsive img-card" style="object-fit:contain; width: auto;"/>
                                 <p class="card-category-text">CASE STUDY</p>
-                                <p class="card-content-text">ZuttoRide - Customer Relationship Management</p>
-                                <a href="/case-study/zuttoride-customer-management-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                                <p class="card-content-text">JBA Indonesia - Online Auction System</p>
+                                <a href="/case-study/jba-auction-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
                             </div>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
@@ -320,7 +317,7 @@
                                     <div class="content-list-item">
                                         <p class="card-category-text">INTERVIEW</p>
                                         <p class="card-content-text">お客様にインタビューした記事を掲載しています。</p>
-                                        <a href="#" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                        <a href="https://www.logique.co.id/blog/ja/2020/10/26/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc-%e8%87%aa%e5%8b%95%e8%bb%8a%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e6%a5%ad%e7%95%8c%e6%a8%99%e6%ba%96%e5%8c%96%e3%81%a8it/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
                                     </div>
                                     <div class="content-list-item">
                                         <p class="card-category-text">CASE STUDY</p>

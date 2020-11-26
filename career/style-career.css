@@ -830,6 +830,13 @@ ul.medsos-new li a {
   background-size: cover;
   background-repeat: no-repeat;
 }
+.bg--management{
+  background-image: url("../img/career/bg-img/bg-yellow-management.jpg");
+  background-image: url("../img/career/bg-img/bg-yellow-management.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .bg--salary {
   background: url("../img/career/bg-img/bg-salary.jpg") center/cover no-repeat;
   background: url("../img/career/bg-img/bg-salary.webp");
@@ -2134,6 +2141,9 @@ ul.candiate-criteria__reject li::before {
   z-index: 5;
   line-height: 33px;
 }
+.message__text-title.first-row{
+  margin: 15px auto 15px 0;
+}
 
 .message__text-title[data-emergence="visible"]::before {
   width: -webkit-calc(100% + 20px);
@@ -2166,15 +2176,32 @@ ul.candiate-criteria__reject li::before {
 }
 .message__text-content {
   color: #000;
-  text-align: center;
+  text-align: start;
   font-size: 16px;
+}
+.img-person{
+  max-width: 230px;
+  max-height: 230px;
 }
 .message-img .col-md-4 {
   padding: 15px;
 }
 
 .message__footer {
-  text-align: center;
+  display: flex;
+  align-items: start;
+}
+.message__footer .btn-interview{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 18px;
+  padding: 10px;
+  width: auto;
+}
+.message__footer span{
+  text-align: start;
+  padding-right: 30px;
 }
 .message__img-wrapper {
   max-width: 340px;
@@ -2952,6 +2979,7 @@ ul.candiate-criteria__reject li::before {
     max-width: 200px;
   }
 }
+
 @media only screen and (max-width: 425px) {
   .message-from__content > .message-from__img > img,
   .case-study__img > img {
@@ -2971,6 +2999,7 @@ ul.candiate-criteria__reject li::before {
   .case-study__carousel .carousel-control.left {
     left: 75%;
   }
+
   .lgq-products {
     flex-wrap: wrap;
   }
