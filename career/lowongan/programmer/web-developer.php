@@ -256,7 +256,7 @@
                   <li>Berpeluang mendapatkan bonus overtime.</li>
                   <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
                   <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
-                  <li>Health Insurance untuk pegawai dan angota keluarga.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
                
