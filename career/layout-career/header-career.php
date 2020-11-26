@@ -190,7 +190,7 @@
       <a href="/career/lowongan/programmer/product-developer.php"><li>Product Developer</li></a>
       <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a>
       <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS Developer</li></a>
-      <a href="/career/lowongan/programmer/web-developer.php"><li>Web Developer</li></a>
+      <a href="/career/lowongan/programmer/web-developer.php"><li>PHP Developer</li></a>
     </ul>
   </div>
   <div class="mega-menu__item">
