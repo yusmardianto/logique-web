@@ -186,10 +186,10 @@
     </a>
     <ul class="mega-menu__list">
       <a href="/career/lowongan/programmer/frontend-developer.php"><li>Frontend Developer</li></a>
-      <a href="/career/lowongan/programmer/mobile-app-developer.php"><li>Mobile App Developer</li></a>
+      <a href="/career/lowongan/programmer/mobile-app-developer.php"><li>Mobile Application Developer (Android)</li></a>
       <a href="/career/lowongan/programmer/product-developer.php"><li>Product Developer</li></a>
-      <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a>
-      <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS Developer</li></a>
+      <!-- <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a> -->
+      <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS / Vue JS Developer</li></a>
       <a href="/career/lowongan/programmer/web-developer.php"><li>Web Developer</li></a>
     </ul>
   </div>

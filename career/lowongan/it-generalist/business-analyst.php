@@ -137,39 +137,39 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>Business Analyst berperan untuk memastikan semua kebutuhan klien secara bisnis maupun teknis dapat terkonversi dengan baik ke dalam sistem. Seorang Business Analyst memiliki kemampuan analisa yang sangat kuat dan mampu menuangkan semua hasil analisa dan rancangan yang telah dibuat ke dalam dokumen terstruktur untuk selanjutnya dapat dijadikan acuan (Blueprint) dalam pengembangan sistem.</p>
+                <p>Business Analyst berperan dalam proses analisa dan merumuskan kebutuhan bisnis klien. Dengan kemampuan analisa yang baik, seorang bisnis analyst mampu membuat rumusan dan pemodelan bisnis yang akurat serta mendokumentasikannya ke dalam dokumen yang terstruktur dan komprehensif.</p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
-                  <li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-                  <li>Melakukan analisa dan membuat rancangan sistem berdasarkan proses bisnis.</li>
-                  <li>Mendokumentasikan business requirements dalam bentuk SDD/BRD/FSD, ERD, dan API spec.</li>
-                  <li>Berkolaborasi dengan Project Manager dan Tim Developer untuk memastikan pengembangan sistem sesuai dengan rancangan.</li>
+                  <li>Menggali dan melakukan analisa kebutuhan bisnis klien</li>
+                  <li>Membuat pemodelan (menggunakan BPMN, DFD, UML, ERD, dan screen modelling/wireframe), untuk memudahkan <i>stakeholder</i> dalam memahami rumusan kebutuhan bisnis.</li>
+                  <li>Mendokumentasikan <i>business requirements</i> dalam bentuk dokumen SDD/BRD/FSD.</li>
+                  <li>Berkolaborasi dengan Project Manager dan tim development dan tester untuk memastikan aplikasi yang dikembangkan sesuai dengan <i>business requirements</i>.</li>
                   <li>Menyajikan laporan yang tepat dan terstruktur.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Have Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>Memiliki kemampuan yang sangat baik dalam menganalisa kebutuhan sistem/aplikasi, memecahkan masalah secara sistematis, dan memberikan solusi yang relevan terkait kebutuhan sistem/aplikasi.</li>
-                  <li>Memiliki kemampuan mendokumentasikan business requirements, system requirement, dan technical documentation.</li>
-                  <li>Memiliki keahian berkomunikasi verbal dan nonverbal yang baik.</li>
-                  <li>Berorientasi pada pelayanan terhadap client/customer.</li>
-                  <li>Memiliki kemampuan interpesonal yang baik.</li>
-                  <li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
                   <li>Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.</li>
                   <li>Memiliki pengalaman sebagai Business Analyst / System Analyst minimal 2 tahun.</li>
                   <li>Dapat bekerja dalam tim.</li>
+                  <li>Memiliki pengetahuan yang luas dalam dunia IT</li>
+                  <li>Berorientasi pada pelayanan terhadap client/customer </li>
+                  <li>Memiliki kemampuan interpesonal yang baik.</li>
+                  <li>Memiliki kemampuan yang sangat baik dalam menganalisa kebutuhan sistem/aplikasi, memecahkan masalah secara sistematis, dan memberikan solusi yang relevan terkait kebutuhan sistem/aplikasi.</li>
+                  <li>Memiliki kemampuan pemodelan dan mendokumentasikan business requirements</li>
+                  <li>Memiliki keahlian berkomunikasi verbal dan nonverbal dengan baik.</li>
+                  <li>Memiliki kemampuan Bahasa Inggris yang baik.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                <li>Berpengalaman sebagai Business Analyst atau System Analyst dalam proyek Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, khususnya dalam industri otomotif.</li>
-                <li>Memiliki kemampuan atau pengalaman sebagai pemimpin tim BA / SA.</li>
-                <li>Memiliki kemampuan Bahasa Inggris yang baik.</li>
+                  <li>Berpengalaman sebagai Business Analyst atau System Analyst dalam proyek pengembangan website, pengembangan aplikasi berbasis web dan aplikasi mobile, khususnya dalam industry otomotif.</li>
+                  <li>Memiliki kemampuan atau pengalaman sebagai pemimpin tim BA / SA.</li>
+                  <li>Menguasai dasar-dasar algoritma pemrograman.</li>
                 </ul>
               </div>
             </div>
@@ -179,7 +179,14 @@
                 <ul class="career-list">
                   <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
                   <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
-                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
+                  <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
               <div class="career-requirement">
