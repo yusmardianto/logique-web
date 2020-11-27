@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Ingin meningkatkan kemampuan Anda sebagai programmer? LOGIQUE memberikan kesempatan kepada Anda yang ingin mengembangkan kemampuannya sebagai seorang programmer untuk bergabung dan berkarir di LOGIQUE. Segera kunjungi halaman karir LOGIQUE sekarang juga.">
+    content="Lowongan Kerja Programmer terbaru di Jakarta & Jogja untuk pembuatan website dan aplikasi. Diutamakan berpengalaman di dunia IT. Lamar sekarang juga!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
@@ -16,17 +16,18 @@
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Ingin meningkatkan kemampuan Anda sebagai programmer? LOGIQUE memberikan kesempatan kepada Anda yang ingin mengembangkan kemampuannya sebagai seorang programmer untuk bergabung dan berkarir di LOGIQUE. Segera kunjungi halaman karir LOGIQUE sekarang juga.">
+    content="Lowongan Kerja Programmer terbaru di Jakarta & Jogja untuk pembuatan website dan aplikasi. Diutamakan berpengalaman di dunia IT. Lamar sekarang juga!">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/programmer/"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Lowongan Kerja Programmer | IT Specialist | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-
+  
   <!-- Facebook Pixel Code -->
   <script>
   ! function(f, b, e, v, n, t, s) {
