@@ -181,7 +181,7 @@
 <div class="mega-menu">
   <div class="mega-menu__item">
     <a href="/career/lowongan/programmer/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
+      <img class="mega-menu__img" src="/img/career/icon/web-dev.png" loading="lazy" alt="Web Developer">
       <h4>Programmer</h4>
     </a>
     <ul class="mega-menu__list">
