@@ -6,26 +6,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Product Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja product developer terbaru di Jakarta. Gaji negosiable, dapat bekerja secara remote. Ayo bergabung bersama team programmer LOGIQUE.">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Product Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja Product Developer Terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Product Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja product developer terbaru di Jakarta. Gaji negosiable, dapat bekerja secara remote. Ayo bergabung bersama team programmer LOGIQUE.">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/programmer/product-developer.php"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Product Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan Kerja Product Developer Terbaru Jakarta | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
 
   <!-- Facebook Pixel Code -->
   <script>
