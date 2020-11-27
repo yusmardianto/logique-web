@@ -1,7 +1,7 @@
 /* @import url('/css/sidebar-update.css');
 @import url('/css/style-revamp.css'); */
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,800,900&display=swap'");
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap');
+/* @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,700,800,900&display=swap'");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap'); */
 @font-face {
   font-family: "Novocento Sans Wide";
   src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
@@ -1598,8 +1598,8 @@ ul.medsos-new li a {
 }
 
 .bg--lowongan-intern {
-  background: url("/img/career/bg-img/bg-banner-intern.png") center/cover
-    no-repeat;
+  background: url("/img/career/bg-img/bg-banner-intern.jpg") center/cover no-repeat;
+  background: url("/img/career/bg-img/bg-banner-intern.webp") center/cover no-repeat;
   padding: 2rem 5%;
   border-radius: 20px;
 }

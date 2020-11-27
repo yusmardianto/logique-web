@@ -378,7 +378,7 @@
                   <a href="/career/lowongan/it-generalist/project-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
+                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager" loading="lazy">
                         <h3 class="heading-black">Consultant / Project Manager</h3>
                         <p></p>
                       </div>
@@ -421,7 +421,7 @@
                   <a href="/career/lowongan/it-generalist/product-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager">
+                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager" loading="lazy">
                         <h3 class="heading-black">Product Manager</h3>
                         <p></p>
                       </div>
@@ -522,7 +522,7 @@
                   <a href="/career/lowongan/specialist/quality-assurance.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
+                        <img class="img-responsive card-icon" loading="lazy" src="/img/career/icon/quality.png"
                           alt="Quality Assurance">
                         <h3 class="heading-black">Quality Assurance Engineer (Software)</h3>
                         <p></p>
@@ -558,7 +558,7 @@
                   <a href="/career/lowongan/digitalmarketing/ui-ux-designer.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
+                        <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer" loading="lazy">
                         <h3 class="heading-black">UI/UX Designer</h3>
                         <p></p>
                       </div>
@@ -580,7 +580,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/digital-ads.png"
-                          alt="Digital Marketing Specialist">
+                          alt="Digital Marketing Specialist" loading="lazy">
                         <h3 class="heading-black">Digital Marketing Specialist</h3>
                         <p></p>
                       </div>
@@ -741,7 +741,7 @@
                   <a href="/career/lowongan/backoffice/hr-recruitment.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR Recruitment">
+                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" loading="lazy" alt="HR Recruitment">
                         <h3 class="heading-black">HR Recruitment</h3>
                         <p></p>
                       </div>
@@ -763,7 +763,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/budget.png"
-                          alt="Akunting & Finance">
+                          alt="Akunting & Finance" loading="lazy">
                         <h3 class="heading-black">Akunting & Finance</h3>
                         <p></p>
                       </div>
@@ -804,7 +804,7 @@
                       <div class="col-md-6 col-xl-5" style="padding-top: 8px; padding-bottom: 8px;">
                         <a href="/career/magang/">
                           <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png"
-                            alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
+                            alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE" loading="lazy">
                         </a>
                       </div>
                     </div>
@@ -830,8 +830,7 @@
                       </strong>
                     </p>
                     <a class="btn-banner-pattern" style="margin-top: 37.5px;" href="/hubungi-kami.php">
-                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png"
-                        alt="Kontak Kami">
+                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png" loading="lazy" alt="Kontak Kami">
                       <span>Kontak Kami</span>
                     </a>
                   </div>
