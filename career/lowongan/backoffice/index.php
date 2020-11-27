@@ -25,7 +25,7 @@
   <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
   <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
-  <link href="/career/style-career.css" rel="stylesheet">
+  <link href="/career/style-career.css" rel="preload stylesheet" as="style">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
   
   <!-- Facebook Pixel Code -->
@@ -68,6 +68,7 @@
 </head>
 
 <body>
+  <div class="wrapper">
     <!-- Header -->
     <?php include '../../layout-career/header-career.php'; ?>
 
