@@ -11,7 +11,7 @@
                 <h3 class="section-title">Programmer</h3>
               </div>
               <p>
-                PHP Programmer, Front-End Programmer, Mobile App Developer, JavaScript Developer, etc.,
+                PHP Programmer, Front-End Programmer, Mobile Application Developer (Android), JavaScript Developer, etc.,
               </p>
             </a>
           </div>

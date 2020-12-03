@@ -274,8 +274,8 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="React JS Developer">
-                        <h3 class="heading-black">React JS Developer</h3>
+                          alt="React JS / Vue JS Developer">
+                        <h3 class="heading-black">React JS / Vue JS Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -294,7 +294,7 @@
               </div>
 
               <div class="row row__same-height">
-                <div class="col-md-4 card--layout">
+                <!-- <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/programmer/react-native-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
@@ -308,21 +308,21 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <!-- <div>
+                        <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div> -->
+                        </div>
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> -->
                 <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/programmer/mobile-app-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="Mobile App Developer">
-                        <h3 class="heading-black">Mobile App Developer</h3>
+                          alt="Mobile Application Developer (Android)">
+                        <h3 class="heading-black">Mobile Application Developer (Android)</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
