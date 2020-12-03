@@ -10,15 +10,15 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, Mobile App Developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Mobile App Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Mobile Application Developer (Android) | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Mobile App Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Mobile Application Developer (Android). Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Mobile App Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
+  <title>Mobile Application Developer (Android) | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -98,7 +98,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Mobile App Developer</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Mobile Application Developer (Android)</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -108,7 +108,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-8 col-md-9 col-sm-10">
-              <h1 class="header__title">Mobile App Developer</h1>
+              <h1 class="header__title">Mobile Application Developer (Android)</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -139,54 +139,69 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
+                <p>Mobile Developer berperan dalam menghasilkan aplikasi mobile yang berkualitas dan memenuhi kebutuhan klien. Secara umum akan intensif berkolaborasi dengan tim Backend Developer untuk menemukan solusi teknis dan tim Design untuk menciptakan UI/UX yang baik.</p>
+              </div>
+              <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>Menghasilkan aplikasi mobile yang berfungsi secara penuh (iOS dan Android).</li>
-                  <li>Mendukung seluruh aspek dalam pembuatan aplikasi (konsep, desain, pengujian, deployment).</li>
-                  <li>Menganalisis dan Mengumpulkan kebutuhan dari client serta memberikan saran dan solusi dalam hal
-                    aplikasi mobile.</li>
-                  <li>Melakukan pengecekan dan mengidentifikasi malfungsi dalam aplikasi mobile.</li>
-                  <li>Memecahkan masalah dan melakukan debug untuk mengoptimalkan kinerja aplikasi mobile.</li>
-                  <li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik.</li>
-                  <li>Berhubungan dengan tim proyek untuk merencanakan fitur baru.</li>
-                  <li>Memastikan aplikasi untuk terus update dan memenuhi standar kualitas.</li>
-                  <li>Meneliti dan menyarankan produk, aplikasi, dan protokol seluler baru.</li>
+                  <li>Mengembangkan dan menghasilkan aplikasi mobile untuk platform Android maupun iOS</li>
+                  <li>Mendukung seluruh aspek dalam pembuatan aplikasi mobile (konsep, desain, pengujian, deployment)</li>
+                  <li>Menganalisis dan mengumpulkan kebutuhan dari klien serta memberikan saran dan solusi dalam mengembangkan aplikasi mobile</li>
+                  <li>Melakukan identifikasi malfungsi/debugging dan bug fixing untuk mengoptimalkan kinerja aplikasi mobile</li>
+                  <li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik</li>
+                  <li>Tetap up to date dengan teknologi terbaru dan mampu memberikan solusi terhadap kebutuhan projek </li>
+                  <li>Mampu bekerja dalam tim dan mempunyai Analisa yang baik</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Requirement</h3>
                 <ul class="career-list">
-                  <li>Berpendidikan minimal S1 di bidang Ilmu Komputer/Teknologi Informasi atau yang setara.</li>
-                  <li>Mempunyai pengalaman kerja sebagai pengembang aplikasi Mobile (iOS & Android).</li>
-                  <li>Mempunyai pengetahuan mendalam tentang setidaknya satu bahasa pemrograman seperti Swift dan Java.
-                  </li>
-                  <li>Berpengalaman dalam mengelola library dan API pihak ketiga.</li>
-                  <li>Tetap up-to-date dengan tren teknologi baru, terutama untuk pengembangan aplikasi mobile.</li>
-                  <li>Memiliki pengalaman dengan Native Android dan iOS SDKs</li>
-                  <li>Familiar dengan prinsip desain OOP.</li>
-                  <li>Memiliki kemampuan analisis yang bagus dengan sikap pemecahan masalah yang baik.</li>
-                  <li>Mampu bekerja dalam tim.</li>
-                  <li>Pernah menerbitkan 1 atau lebih aplikasi Android/iOS.</li>
-                  <li>Dapat mendemonstrasikan kelebihan dalam bidang React Native.</li>
-                  <li>Tetap up-to-date dengan tren teknologi baru, terutama untuk pengembangan aplikasi mobile.</li>
+                  <li>Berpengalaman min. 2 tahun sebagai pengembang Mobile Application (iOS atau Android)</li>
+                  <li>Menguasai bahasa pemrograman Java/Kotlin untuk mengembangkan aplikasi Android dan swift untuk mengembangkan aplikasi iOS</li>
+                  <li>Menguasai konsep OOP (Object Oriented Programming) </li>
+                  <li>Berpengalaman dalam memakai Library dan API pihak ketiga</li>
+                  <li>Berpengalaman dalam Mobile Programming Hybrid seperti React Native atau Flutter</li>
+                  <li>Untuk Android berpengalaman dengan Jet Pack & Design Pattern MVVM (Model View View Model)</li>
+                  <li>Untuk Framework Flutter berpengalaman dengan (salah satu) Provider, Getx atau Bloc</li>
+                  <li>Untuk React Native berpengalaman dengan (salah satu) Hooks, Redux, Mobx</li>
+                  <li>Familiar dengan GIT</li>
                 </ul>
               </div>
 
-              <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>Memiliki pengalaman dan pengetahuan yang cukup dengan ReactJS.</li>
-                </ul>
-              </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
+                <h3 class="section-title">Preferable</h3>
+                <ul class="career-list">
+                  <li>Berpengalaman dalam teknologi:</li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                        <li>Realtime Socket </li>
+                        <li>Firebase</li>
+                        <li>Web socket</li>
+                        <li>IOS Development</li>
+                        <li>Push Notification</li>
+                        <li>Work Manager</li>
+                        <li>Espresso UI testing</li>
+                      </ul>                  
+                  </li>
+                  <li>Pernah menerbitkan min. 1 atau lebih Mobile Application di Playstore / Appstore</li>
+                </ul>
+              </div>
+              
+              <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Menangani masalah sesuai dengan gaya pribadi selama project dapat berjalan sebagaimana mestinya.
-                  </li>
-                  <li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat.</li>
-                  <li>Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).</li>
+                  <li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat. <br>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
+                  <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
+                  <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">
