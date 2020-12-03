@@ -17,16 +17,17 @@
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="LOGIQUE membuka lowongan kerja sebagai HR / GA untuk membantu mengembangkan perusahaan menjadi lebih baik lagi. Jika Anda tertarik untuk bekerja sebagai HR / GA, silakan kunjungi halaman karir LOGIQUE dan daftarkan diri Anda sekarang juga!">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/backoffice/">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Lowongan Kerja Back Office staff | Accounting | HR | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/career/style-career.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
+  <link href="/career/style-career.css" rel="preload stylesheet" as="style">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-
+  
   <!-- Facebook Pixel Code -->
   <script>
   ! function(f, b, e, v, n, t, s) {
@@ -67,6 +68,7 @@
 </head>
 
 <body>
+  <div class="wrapper">
     <!-- Header -->
     <?php include '../../layout-career/header-career.php'; ?>
 

@@ -44,7 +44,7 @@
           <div class="col-md-6">
             <div class="text-center">
               <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/hubungi-kami.php">
-                <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Kontak Kami">
+                <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Kontak Kami" loading="lazy">
                 <span>Kontak Kami</span>
               </a>
             </div>
@@ -53,7 +53,7 @@
             <div class="text-center">
               <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="https://logique.sugoisaiyo.com/"
                 target="_blank" rel="noreferrer">
-                <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png" alt="Lamar Pekerjaan Sekarang">
+                <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png" alt="Lamar Pekerjaan Sekarang" loading="lazy">
                 <span>Lamar Pekerjaan Sekarang</span>
               </a>
             </div>
@@ -68,7 +68,7 @@
                   <img class="contact__img" src="/img/career/bg-img/fb.jpg" alt="Facebook Page Logique" loading="lazy" />
                 </picture>
                 <div class="contact__text-wrapper">
-                  <img class="contact__icn" src="/img/career/icon/fb-logo.png" alt="Facebook Logo">
+                  <img class="contact__icn" src="/img/career/icon/fb-logo.png" alt="Facebook Logo" loading="lazy">
                   <span class="contact__text">Logique Digital Indonesia</span>
                 </div>
               </a>
@@ -83,7 +83,7 @@
                   <img class="contact__img" src="/img/career/bg-img/ig.jpg" alt="Instagram Page Logique" loading="lazy" />
                 </picture>
                 <div class="contact__text-wrapper">
-                  <img class="contact__icn" src="/img/career/icon/ig-logo.png" alt="Instagram Logo">
+                  <img class="contact__icn" src="/img/career/icon/ig-logo.png" alt="Instagram Logo" loading="lazy">
                   <span class="contact__text">Logique Digital Indonesia</span>
                 </div>
               </a>

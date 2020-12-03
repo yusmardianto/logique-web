@@ -181,7 +181,7 @@
 <div class="mega-menu">
   <div class="mega-menu__item">
     <a href="/career/lowongan/programmer/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
+      <img class="mega-menu__img" src="/img/career/icon/web-dev.png" loading="lazy" alt="Web Developer">
       <h4>Programmer</h4>
     </a>
     <ul class="mega-menu__list">
@@ -190,7 +190,7 @@
       <a href="/career/lowongan/programmer/product-developer.php"><li>Product Developer</li></a>
       <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a>
       <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS Developer</li></a>
-      <a href="/career/lowongan/programmer/web-developer.php"><li>Web Developer</li></a>
+      <a href="/career/lowongan/programmer/web-developer.php"><li>PHP Developer</li></a>
     </ul>
   </div>
   <div class="mega-menu__item">
@@ -206,7 +206,7 @@
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/specialist/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/webmaster.png" alt="Web Master">
+      <img class="mega-menu__img" src="/img/career/icon/webmaster.png" loading="lazy" alt="Web Master">
       <h4>Others IT Specialist</h4>
     </a>
     <ul class="mega-menu__list">
@@ -216,7 +216,7 @@
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/digitalmarketing/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/ux.png" alt="Designer">
+      <img class="mega-menu__img" src="/img/career/icon/ux.png" loading="lazy" alt="Designer">
       <h4>Designer / Digital Marketing</h4>
     </a>
     <ul class="mega-menu__list">
@@ -225,7 +225,7 @@
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/backoffice/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/content.png" alt="Back Office">
+      <img class="mega-menu__img" src="/img/career/icon/content.png" loading="lazy" alt="Back Office">
       <h4>Back Office</h4>
     </a>
     <ul class="mega-menu__list">

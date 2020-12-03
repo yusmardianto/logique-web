@@ -184,7 +184,7 @@
                         スタッフがいつ、どんな作業をしているのか確認することができます。作業タイプ（タスク種、プロジェクト名）を入力させることで作業時間を集計し管理会計に利用することも可能です。勤務開始時間、休憩時間、終了時間が記録に残りますので、勤務時間不足や逆に働きすぎのコントロールもできます。
                     </p>
 
-                    <div class="product-snap-shot">
+                    <div class="product-snap-shot dokodemo-ss">
                         <div class="product-snap-shot__item">
                             <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.png"
                                 alt="dokodemo_1">
@@ -201,6 +201,15 @@
                             <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.png"
                                 alt="dokodemo_3">
                             <p class="product-snap-shot__text">タスク別・プロジェクト別の勤務状況を管理可能です</p>
+                        </div>
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
+                            <p class="product-snap-shot__text">各ユーザーの出席と休日のリクエストを管理</p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
+                            <p class="product-snap-shot__text">モバイルアプリではGPSで位置情報を取り管理サーバーに送信します</p>
                         </div>
                     </div>
 
@@ -241,6 +250,7 @@
                                 alt="sugoi saiyo 3">
                             <p class="product-snap-shot__text">レジュメや他のドキュメントをアップロード可能です</p>
                         </div>
+                      
                     </div>
 
                     <p class="title__description--full">
@@ -269,7 +279,7 @@
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_2.png" alt="nippo 2">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
                             <p class="product-snap-shot__text">プロジェクト別、タスク別に作業状況を分析可能</p>
                         </div>
                     </div>

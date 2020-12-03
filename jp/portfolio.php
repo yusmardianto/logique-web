@@ -25,6 +25,7 @@
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <link href="/css/portfolio.css" rel="stylesheet">
     <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -285,6 +286,52 @@
                 </div>
             </section>
 
+            <section class="portfolio-update__cards">
+                <div class="container__">
+                    <div class="flex__row">
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-interview">
+                                <h3>Interview</h3>
+                                <picture>
+                                    <source srcset="/img/portfolio/portfolio-interview.webp">
+                                    <img src="/img/portfolio/portfolio-interview.jpg" class="img-responsive img-card"/>
+                                </picture>
+                                <p class="card-category-text">INTERVIEW</p>
+                                <p class="card-content-text">インタビュー: 自動車オークション業界標準化とIT化についてお話いただきました</p>
+                                <a href="https://www.logique.co.id/blog/ja/2020/10/26/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc-%e8%87%aa%e5%8b%95%e8%bb%8a%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e6%a5%ad%e7%95%8c%e6%a8%99%e6%ba%96%e5%8c%96%e3%81%a8it/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-case-study">
+                                <h3>Case Study</h3>
+                                <img src="/img/portfolio/update/sys-jba.png" class="img-responsive img-card" style="object-fit:contain; width: auto;"/>
+                                <p class="card-category-text">CASE STUDY</p>
+                                <p class="card-content-text">JBA Indonesia - Online Auction System</p>
+                                <a href="/case-study/jba-auction-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-others">
+                                <h3>Others</h3>
+                                <div class="content-list">
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">INTERVIEW</p>
+                                        <p class="card-content-text">お客様にインタビューした記事を掲載しています。</p>
+                                        <a href="https://www.logique.co.id/blog/ja/2020/10/26/%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%93%e3%83%a5%e3%83%bc-%e8%87%aa%e5%8b%95%e8%bb%8a%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e6%a5%ad%e7%95%8c%e6%a8%99%e6%ba%96%e5%8c%96%e3%81%a8it/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                    </div>
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">CASE STUDY</p>
+                                        <p class="card-content-text">過去の事例（ケーススタディ）をご紹介しています。こちらからご覧ください。</p>
+                                        <a href="/case-study" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="portfolio-update__nav">
                 <div class="container__">
                     <div class="page-nav text-center">
@@ -514,6 +561,19 @@
             </section>
 
             <div class="container__">
+                <div class="study-case-banner" style="cursor: pointer;" onclick="window.location='/case-study'">
+                    <div class="row">
+                        <div class="col-sm-offset-3 col-sm-8 col-md-9 banner-content">
+                            <div class="banner-text-wrapper">
+                                <h3 class="">We help you go further</h3>
+                                <div class="banner-text" style="padding-right: 20px;">Assisting companies necessity and making your business more advanced is our job. Let’s forge ahead with LOGIQUE.</div>
+                            </div>
+                            <div class="banner-btn-wrapper">
+                                <a href="/case-study" class="btn">See Case Study</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">
                         政府系団体や大手金融機関と多く長い期間に渡りお仕事させていただいていることが当社の仕事のクオリティを裏付けるものと考えています。</p>

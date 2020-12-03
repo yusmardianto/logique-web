@@ -22,10 +22,10 @@
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -74,7 +74,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--yoshi" style="margin-bottom: 2.5em">
+      <section class="container-fluid --top bg--yoshi">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -117,13 +117,77 @@
           </div>
         </div>
       </section>
-
+      <section class="container-fluid bg--management">
+        <div class="container--max-width" style="padding: bottom: 0;">
+        <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-md-6 pb--2-5em">
+                  <picture>
+                    <source srcset="/img/career/anton-message.webp" type="image/webp"/>
+                    <img class="img-responsive img-person center-block" src="/img/career/ghitta-message.png" alt="CTO Anton">
+                  </picture>
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title first-row" data-emergence="hidden">
+                      Anton
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - CTO
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “Berkarir pada bidang yang sesuai dengan passion dan berada pada perusahaan yang tepat tentu saja menjadi impian bagi setiap profesional muda di bidang Teknologi Informasi. Potensi SDM yang baik tentu saja harus didukung dengan tata kelola organisasi yang baik dan terstruktur yang telah kami design untuk memastikan roda bisnis perusahaan berjalan dengan baik. Kami juga memberi dukungan penuh kepada setiap tim kami, untuk perkembangan karir, professionnalisme, maupun kemampuan secara teknikal. Kami menyukai kandidat yang memiliki energi dinamis, cerdas, berkarakter kuat, serta berkepribadian baik. Mari bergabung dengan kami untuk masa depan yang lebih baik.”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/anton.php">
+                        <span>Interview with CTO</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 pb--2-5em">
+                  <picture>
+                    <source srcset="/img/career/ghitta-message.webp" type="image/webp"/>
+                    <img class="img-responsive img-person center-block" src="/img/career/ghitta-message.png" alt="HR Ghitta">
+                  </picture>
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title first-row" data-emergence="hidden">
+                      Ghitta
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - Senior HR & GA
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “Sangat penting untuk memahami di mana dan bagaimana Anda bekerja. Jika Anda Kreatif, Dinamis,
+                      Pekerja Keras, Profesional, memiliki rasa bertanggung jawab dan ingin berkontribusi penuh pada
+                      perusahaan, LOGIQUE akan menyambut Anda! dengan komitment yang Anda berikan dan juga hasil kerja
+                      terbaik Anda maka perusahaan akan membuka kesempatan pertumbuhan karir dengan lingkungan kerja
+                      yang baik untuk Anda Mari berkembang bersama LOGIQUE!”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/ghitta.php">
+                        <span>Interview with HRD</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       <section class="container-fluid">
         <div class="container--max-width" style="padding-bottom: 0;">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
-                <div class="col-md-4 pb--2-5em">
+                <!-- <div class="col-md-4 pb--2-5em">
                   <img class="img-responsive center-block" src="/img/career/ghitta-message.png" alt="HR Ghitta">
                   <div class="message__text-wrapper">
                     <h4 class="message__text-title" data-emergence="hidden">
@@ -145,58 +209,8 @@
                         href="/career/interview/ghitta.php">Interview with HRD</a>
                     </div>
                   </div>
-                </div>
-                <div class="col-md-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/taufik-message.png" alt="FE Taufik">
-                  <div class="message__text-wrapper">
-                    <h4 class="message__text-title" data-emergence="hidden">
-                      Taufik
-                      <br class="visible-md hidden-lg">
-                      <span class="role--title">
-                        - Senior Frontend Dev
-                      </span>
-                    </h4>
-                    <p class="message__text-content">
-                      “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
-                      Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan
-                      juga
-                      kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja
-                      cepat,
-                      kamu bakal suka bekerja di LOGIQUE.”
-                    </p>
-                    <div class="message__footer">
-                      <a class="form-control main-btn --small-btn-bold --yellow"
-                        href="/career/interview/taufik.php">Interview with <br> Senior Frontend Dev</a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/muklis-message.png" alt="BE Muklis">
-                  <div class="message__text-wrapper">
-                    <h4 class="message__text-title" data-emergence="hidden">
-                      Muklis
-                      <br class="visible-md hidden-lg">
-                      <span class="role--title">
-                        - Senior Backend Dev
-                      </span>
-                    </h4>
-                    <p class="message__text-content">
-                      “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude.
-                      Selain
-                      itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan
-                      mempertimbangkan
-                      hal itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer
-                      terbaik, saya menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman,
-                      framework, cloud server topology AWS, dan semacamnya.”
-                    </p>
-                    <div class="message__footer">
-                      <a class="form-control main-btn --small-btn-bold --yellow"
-                        href="/career/interview/muklis.php">Interview with <br> Senior Backend Dev
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 pb--2-5em">
+                </div> -->
+                <div class="col-md-6 col-lg-4 pb--2-5em">
                   <img class="img-responsive center-block" src="/img/career/aprillian-message.png" alt="DM Aprillian">
                   <div class="message__text-wrapper">
                     <h4 class="message__text-title" data-emergence="hidden">
@@ -210,8 +224,65 @@
                       “Logique perusahaan yang sangat mengerti arti sebuah apresiasi, setiap hasil diukur secara transparan dengan tolak ukur yang jelas. Logique telah menyiapkan beragam "Reward" bagi setiap individu yang mampu menjadi bagian dari team Logique yang hebat. Melalui keahlian Anda di bidang Digital Marketing dan ditunjang dengan kemampuan dalam Analysis, Planning, & Reporting yang baik, Kami percaya Anda adalah kandidat yang Kami butuhkan.”
                     </p>
                     <div class="message__footer">
-                      <a class="form-control main-btn --small-btn-bold --yellow"
-                        href="/career/interview/aprillian.php">Interview with <br/>Leader Digital Marketing
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/aprillian.php">
+                        <span>Interview with <br/>Leader Digital Marketing</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 pb--2-5em">
+                  <img class="img-responsive center-block" src="/img/career/taufik-message.png" alt="FE Taufik">
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title" data-emergence="hidden">
+                      Taufik
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - Leader Front End Developer
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
+                      Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan
+                      juga
+                      kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja
+                      cepat,
+                      kamu bakal suka bekerja di LOGIQUE.”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/taufik.php">
+                        <span>Interview with <br/>Leader Front End Developer</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 pb--2-5em">
+                  <img class="img-responsive center-block" src="/img/career/muklis-message.png" alt="BE Muklis">
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title" data-emergence="hidden">
+                      Muklis
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - Leader Back End Developer
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude.
+                      Selain
+                      itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan
+                      mempertimbangkan
+                      hal itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer
+                      terbaik, saya menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman,
+                      framework, cloud server topology AWS, dan semacamnya.”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/muklis.php">                        
+                        <span>Interview with <br/>Leader Back End Developer</span>
+                        <img src="/img/career/icon/caret-black.png"/>
                       </a>
                     </div>
                   </div>

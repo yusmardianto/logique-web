@@ -68,7 +68,7 @@ if(isset($_POST['submitted']))
      .yellow {
         color: #ffca13
     }
-    /* remove unused css for this page (retrieved from style.css)  */
+    /* remove unused css for this page (moved style.css used style to this inline style below)  */
     body {
         font-family: Raleway, sans-serif;
     }
@@ -989,7 +989,7 @@ if(isset($_POST['submitted']))
      </div>
      
      <?php include '../footer.php' ?>
-
+    <script async defer src='https://www.google.com/recaptcha/api.js'></script>
      <script src="/js/jquery.matchHeight.js"></script>
      <script src="/js/modernizr-custom.js"></script>
      <script type="text/javascript" defer>

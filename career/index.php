@@ -5,27 +5,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Info lowongan kerja Web Developer, Web Designer, Programmer, Digital Marketing & lowongan kerja remote di bidang IT. Bersama LOGIQUE untuk karir lebih baik.">
+    content="Lowongan kerja web Developer & web Programmer terbaru di Jakarta. Bisa kerja remote, Pendidikan min.D3, Ayo Bergabung bersama LOGIQUE.">
   <meta name="keywords"
     content="lowongan web developer, lowongan kerja programmer, lowongan kerja remote programmer">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja Web Developer,  Programmer & Lainnya | LOGIQUE ">
+  <meta property="og:title" content="Lowongan Kerja Web Developer & Web Programmer Terbaru Jakarta">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Info lowongan kerja Web Developer, Web Designer, Programmer, Digital Marketing & lowongan kerja remote di bidang IT. Bersama LOGIQUE untuk karir lebih baik.">
+    content="Lowongan kerja web Developer & web Programmer terbaru di Jakarta. Bisa kerja remote, Pendidikan min.D3, Ayo Bergabung bersama LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/career/" /> 
-  <title>Lowongan Kerja Web Developer,  Programmer & Lainnya | LOGIQUE </title>
+  <title>Lowongan Kerja Web Developer & Web Programmer Terbaru Jakarta</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -139,7 +139,7 @@
                     <div class="urgent-need">
                       <a href="/career/lowongan/programmer/web-developer.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <div class="urgent-need__text">Web Developer</div>
+                        <div class="urgent-need__text">PHP Developer</div>
                       </a>
                       <a href="/career/lowongan/it-generalist/business-analyst.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/analysis.png" alt="Front End Developer">

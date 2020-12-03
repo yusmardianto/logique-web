@@ -10,21 +10,23 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja IT Consultant | Web Developer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Info Lowongan Kerja IT Terbaru | Logique Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
     content="Sedang mencari lowongan kerja IT consultant dengan lingkungan kerja fleksibel dan nyaman di Indonesia? LOGIQUE bisa menjadi pilihan Anda. Kami mencari staff yang mempunyai keinginan untuk berkembang. Segera daftarkan diri Anda sekarang di halaman karir LOGIQUE sekarang juga!">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja IT Consultant | Web Developer | LOGIQUE Digital Indonesia</title>
+  <title>Info Lowongan Kerja IT Terbaru | Logique Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
+
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -122,7 +124,7 @@
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
+                        <h3 class="heading-black">PHP Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -229,7 +231,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
+                        <h3 class="heading-black">PHP Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -376,7 +378,7 @@
                   <a href="/career/lowongan/it-generalist/project-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
+                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager" loading="lazy">
                         <h3 class="heading-black">Consultant / Project Manager</h3>
                         <p></p>
                       </div>
@@ -419,7 +421,7 @@
                   <a href="/career/lowongan/it-generalist/product-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager">
+                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager" loading="lazy">
                         <h3 class="heading-black">Product Manager</h3>
                         <p></p>
                       </div>
@@ -520,7 +522,7 @@
                   <a href="/career/lowongan/specialist/quality-assurance.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
+                        <img class="img-responsive card-icon" loading="lazy" src="/img/career/icon/quality.png"
                           alt="Quality Assurance">
                         <h3 class="heading-black">Quality Assurance Engineer (Software)</h3>
                         <p></p>
@@ -556,7 +558,7 @@
                   <a href="/career/lowongan/digitalmarketing/ui-ux-designer.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
+                        <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer" loading="lazy">
                         <h3 class="heading-black">UI/UX Designer</h3>
                         <p></p>
                       </div>
@@ -578,7 +580,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/digital-ads.png"
-                          alt="Digital Marketing Specialist">
+                          alt="Digital Marketing Specialist" loading="lazy">
                         <h3 class="heading-black">Digital Marketing Specialist</h3>
                         <p></p>
                       </div>
@@ -739,7 +741,7 @@
                   <a href="/career/lowongan/backoffice/hr-recruitment.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR Recruitment">
+                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" loading="lazy" alt="HR Recruitment">
                         <h3 class="heading-black">HR Recruitment</h3>
                         <p></p>
                       </div>
@@ -761,7 +763,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/budget.png"
-                          alt="Akunting & Finance">
+                          alt="Akunting & Finance" loading="lazy">
                         <h3 class="heading-black">Akunting & Finance</h3>
                         <p></p>
                       </div>
@@ -802,7 +804,7 @@
                       <div class="col-md-6 col-xl-5" style="padding-top: 8px; padding-bottom: 8px;">
                         <a href="/career/magang/">
                           <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png"
-                            alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
+                            alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE" loading="lazy">
                         </a>
                       </div>
                     </div>
@@ -828,8 +830,7 @@
                       </strong>
                     </p>
                     <a class="btn-banner-pattern" style="margin-top: 37.5px;" href="/hubungi-kami.php">
-                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png"
-                        alt="Kontak Kami">
+                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png" loading="lazy" alt="Kontak Kami">
                       <span>Kontak Kami</span>
                     </a>
                   </div>
