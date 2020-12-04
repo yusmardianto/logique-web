@@ -162,7 +162,13 @@
       <section class="cs-section">
         <div class="row">
           <div class="col-md-offset-1 col-md-10">
-            <p>Logique Digital Indonesia has succeeded in developing an efficient Auction Vehicle Handover application for JBA Bidwin Auction. The eBASTK application comes with a range of useful features, such as effectively handling and recording data during the handover process between sellers, brokers and dealers. In this regard, its functionality is highly useful, as important data which is sent to the JBA auctioning site will be highly accurate.</p>
+            <div class="mt-sm-30px cs-section__quote">
+              <picture>
+                <source srcset="new-img/icon-quote.webp" type="image/webp">
+                <img src="new-img/icon-quote.png" alt="" class="img-responsive quote__img">
+              </picture>
+              <p>Logique Digital Indonesia has succeeded in developing an efficient Auction Vehicle Handover application for JBA Bidwin Auction. The eBASTK application comes with a range of useful features, such as effectively handling and recording data during the handover process between sellers, brokers and dealers. In this regard, its functionality is highly useful, as important data which is sent to the JBA auctioning site will be highly accurate.</p>
+            </div>
           </div>
         </div>
       </section>
