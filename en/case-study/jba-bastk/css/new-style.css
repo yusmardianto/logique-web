@@ -464,6 +464,16 @@ a.showcase:hover {
   margin: auto;
   width: 230px;
 }
+/* quote */
+.cs-section .cs-section__quote {
+    position: relative;
+}
+.cs-section .cs-section__quote .quote__img {
+    position: absolute;
+    top: -20px;
+    left: -60px;
+}
+
 @media (min-width: 992px) {
   .cs-others > div:before {
     top: 20%;
@@ -489,6 +499,11 @@ a.showcase:hover {
   /* size */
   .max-width-md--50 {
       max-width: 50% !important;
+  }
+  /* quote */
+  .cs-section .cs-section__quote .quote__img {
+      top: -20px;
+      left: -20px;
   }
 }
 
@@ -614,6 +629,9 @@ a.showcase:hover {
     padding-top: 30px;
   }
   /* spacing */
+  .mt-sm-30px {
+      margin-top: 30px;
+  }
   .mb-sm-30px {
       margin-bottom: 30px;
   }
@@ -626,6 +644,11 @@ a.showcase:hover {
   }
   .bastk__slide .slick-prev {
       left: 15px;
+  }
+  /* quote */
+  .cs-section .cs-section__quote .quote__img {
+      top: -20px;
+      left: -10px;
   }
 }
 
