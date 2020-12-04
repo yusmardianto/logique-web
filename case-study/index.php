@@ -790,19 +790,19 @@ $(document).ready(function() {
   slick_on_mobile( $slick_slider, settings_slider);
 
 // slick on mobile
-  function slick_on_mobile(slider, settings){
-    $(window).on('load resize', function() {
-      if ($(window).width() > 1100) {
-        if (slider.hasClass('slick-initialized')) {
-          slider.slick('unslick');
-        }
-        return
-      }
-      if (!slider.hasClass('slick-initialized')) {
-        return slider.slick(settings);
-      }
-    });
-  };
+  // function slick_on_mobile(slider, settings){
+  //   $(window).on('load resize', function() {
+  //     if ($(window).width() > 1100) {
+  //       if (slider.hasClass('slick-initialized')) {
+  //         slider.slick('unslick');
+  //       }
+  //       return
+  //     }
+  //     if (!slider.hasClass('slick-initialized')) {
+  //       return slider.slick(settings);
+  //     }
+  //   });
+  // };
 
     $('.showmore').click(function(){
          $('.morecs').css('display','inline-block');
