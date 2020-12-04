@@ -247,13 +247,13 @@
 
       <section class="cs-section cs-section--slick mb-50px">
         <div class="row">
-          <div class="col-xs-12">
+          <div class="col-xs-12 mb-30px">
             <h2 class="section-title text-center">The eBASTK JBA Application's Various Displays</h2>
           </div>
         </div>
         <div class="row">
             <div class="col-md-offset-1 col-xs-offset-0 col-md-10 col-xs-12">
-              <div class="bastk__slide">
+              <div class="bastk__slide mb-50px">
                 <div class="slide__item">
                   <picture>
                     <source srcset="new-img/img-slide-1.webp" type="image/webp">
