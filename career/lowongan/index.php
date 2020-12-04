@@ -16,7 +16,7 @@
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Sedang mencari lowongan kerja IT consultant dengan lingkungan kerja fleksibel dan nyaman di Indonesia? LOGIQUE bisa menjadi pilihan Anda. Kami mencari staff yang mempunyai keinginan untuk berkembang. Segera daftarkan diri Anda sekarang di halaman karir LOGIQUE sekarang juga!">
+    content="Info lowongan kerja IT terbaru sebagai programmer, it generalist, web designer, & digital marketing di Jakarta dan Jogja. Terbuka untuk internship / magang.">
   <link rel="canonical" href="https://www.logique.co.id/career/lowongan/"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Info Lowongan Kerja IT Terbaru | Logique Digital Indonesia</title>
