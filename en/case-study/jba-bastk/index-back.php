@@ -4,16 +4,17 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="Working with Caroline, LOGIQUE has assisted in developing a car trading system with an online bidding system, creating a quality car selling site center.">
-	<meta name="keywords" content="Caroline Car Online Bidding System, Car Online Bidding System Jakarta, Car Online Bidding System company, Car Online Bidding System service, Bidding System for Car Website, Logique Bidding System, Caroline Case Study, Logique Case Study">
+  <meta name="description" itemprop="description" content="LOGIQUE DIGITAL INDONESIA has developed PWA (Progressive Web App) systems for Klikhoreca using the latest React.JS-based Framework technology.">
+	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Caroline Car Bidding System | Case Study | LOGIQUE">
+	<meta property="og:title" content="Klikhoreca PWA (Progressive Web App) System Development | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
+	<meta property="og:url" content="https://www.logique.co.id/en/case-study/opuspark/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE developed a quality car trading system & online bidding system for Caroline. Create a System for Your Business with LOGIQUE.">
+	<meta property="og:description" content="LOGIQUE DIGITAL INDONESIA has developed PWA (Progressive Web App) systems for Klikhoreca using the latest React.JS-based Framework technology.">
+	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
 	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -25,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Caroline Car Bidding System | Case Study | LOGIQUE</title>
+  <title>Klikhoreca PWA (Progressive Web App) System Development | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -40,7 +41,7 @@
 		<div class="wrapper o-wrapper top-only">
 
       <header>
-        <div class="container">
+        <div class="container-fluid">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -48,7 +49,7 @@
             <div class="col-xs-6 text-right">
               <ul>
                 <li class="active"><a href="#">EN</a></li>
-                <li><a href="/case-study/caroline-bidding-system/">ID</a></li>
+                <li><a href="/case-study/klikhoreca/">ID</a></li>
                 <li><a href="#">JP</a></li>
               </ul>
             </div>
@@ -121,9 +122,9 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">Caroline  </h1>
-          <h2 class="cs-title-2 ">Cars Selling Site with<br>Online Bidding System</h2>
+          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
+          <h1 class="cs-title">Klikhoreca <p class="hidden-sm hidden-md hidden-lg"><small>(Progressive Web App)</small></p></h1>
+          <h2 class="cs-title-2 hidden-xs">(Progressive Web App)</h2>
         </section>
         <section class="breadcrumb-container">
           <div class="row">
@@ -131,16 +132,12 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/en"><span itemprop="name">Home</span></a>
+                        <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
-                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
-                          <meta itemprop="position" content="2" />
-                      </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                          <a itemprop="item"><span itemprop="name">&nbsp; Caroline</span></a>
-                          <meta itemprop="position" content="3" />
+                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Klikhoreca</span></a>
+                        <meta itemprop="position" content="2" />
                       </li>
                   </ol>
               </div>
@@ -153,10 +150,10 @@
               <img src="img/img-1.png" alt="case study logique" class="cs-img cs-img-1">
             </div>
             <div class="col-sm-6 col-md-pull-6">
-              <h2 class="cs-subtitle">Background</h2>
+              <p class="cs-subtitle-top">Opus Park</p>
+              <h2 class="cs-subtitle">World Class Property in Sentul City</h2>
               <p class="cs-desc">
-                Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining. Caroline wants to create a car e-commerce site with a different bidding system compared to other car e-commerce platforms that have existed in the development period of three months. Because Caroline doesn’t have a web developer, they need help from another web developer company to help them develop the Caroline site. So, they chose us as the best option because they saw the experiences LOGIQUE had.
-              </p>
+                Opus Park is an iconic suburban residential property developed by PT Izumi Sentul Realty, a Joint Venture (JV) company that consists of a leading property developer in Indonesia, Sentul City, and two well-known Japanese infrastructure companies, namely Sumitomo Corporation and Hankyu Hanshin Properties Corp. Opus Park consists of three premium quality apartment towers with 1,095 units in total. Located in Central Business District (CBD) area of ​​Sentul City, Bogor, Opus Park offers strategic housings in the form of luxury apartments and penthouses with world-class facilities. In the area, also built a shopping center from Japan, AEON Mall, offices, and five-star hotels with a total building area of ​​500 thousand square meters.
             </div>
           </div>
         </section>
@@ -164,34 +161,109 @@
           <img src="img/line-2.png" alt="case study logique" class="cs-line cs-line-2">
           <div class="row">
             <div class="col-sm-6 relative">
-              <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2">
+              <img src="img/img-2.png" alt="case study logique" class="cs-img cs-img-2 custom1">
             </div>
             <div class="col-sm-6">
-              <h2 class="cs-subtitle">Development Stage</h2>
+              <p class="cs-subtitle-top">Targets Opus Park Wants to Achieve</p>
+              <h2 class="cs-subtitle">Find the right people</h2>
               <p class="cs-desc">
-              LOGIQUE started developing the Caroline site in June 2018. A fairly short time is a big challenge for the team. To deal with such a short time, a certain strategy is needed so that the project can be completed on time. We use the &quot;agile&quot; development method to develop Caroline&#39;s website. The agile development method that we implement is to quickly adapt and respond to changes, create small teams, and invite clients to collaborate in the web development. Due to good team coordination and work management, Caroline site is finally finished on time. The Caroline site can be used by all users in Indonesia within three months of development.
-              <br><br>
+              Opus Park sees the online digital world as the largest potential source of sales of their units. They want targeted marketing through digital marketing to find potential buyers. By using the operation of online advertising and the application of SEO on the website, they have at least two goals. First, they want the right people to contact them—either by telephone, WhatsApp, or email—to ask related questions, and register a schedule to visit the Show Unit with the sales team of Opus Park. Second, so that the number of callers/users increases and they actually meet the schedule to visit the Show Unit.
+              <br>
               </p>
             </div>
           </div>
           <img src="img/orm-1.png" alt="case study logique" class="cs-orm cs-orm-1">
         </section>
-        <section class="cs-section" style=" padding-top: 0; padding-bottom: 0; margin-bottom: 0; ">
+        <section class="cs-section">
+          <img src="img/line-3.png" alt="case study logique" class="cs-line cs-line-3">
           <div class="row">
-            <div class="col-md-12">
-              <img src="img/img-3.png" alt="case study logique" class="img-responsive center-block custom-1">
+            <div class="col-sm-6 col-md-push-6 relative">
+              <img src="img/img-3.png" alt="case study logique" class="cs-img cs-img-3 custom2">
+            </div>
+            <div class="col-sm-6 col-md-pull-6">
+              <p class="cs-subtitle-top">The Strategy Applied by LOGIQUE</p>
+              <h2 class="cs-subtitle">Maximizing Digital Marketing</h2>
+              <p class="cs-desc custom4">
+              Opus Park wants the operation of ads and social media to get paid traffic, and the implementation of SEO on the website for organic traffic from search engines. Both types of traffic play a major role in achieving the desired goals.
+              <br><br>
+              <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
+              <div class="modal fade" id="modal-id">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Maximizing Digital Marketing</h4>
+                    </div>
+                    <div class="modal-body">
+                    Opus Park wants the operation of ads and social media to get paid traffic, and the
+                    implementation of SEO on the website for organic traffic from search engines. Both types of
+                    traffic play a major role in achieving the desired goals. <br>
+                    For this reason, LOGIQUE applies a phased digital marketing strategy. First, increasing brand
+                    awareness among residential enthusiasts in the form of apartments and penthouses. Second,
+                    make the audience eager to find out more about Opus Park units by visiting the website.<br><br>
+                    Finally, make those who have the potential to consider and be interested in buying the unit to
+                    fill out the schedule form for the Show Unit private visit available on the website.
+                    The strategy consists of operating social media and advertising campaigns with a variety of
+                    objectives for targeted audiences through Facebook Ads that includes Facebook and Instagram,
+                    as well as Google Ads which includes Search Ads, Display Ads, and Youtube Ads.
+                    After the campaigns launch, LOGIQUE continues to perform a variety of structured approaches
+                    and optimizations to increase traffic every month. It starts from the production and design of
+                    banners in various sizes, making ad copies regularly, evaluating the targetings, A/B testing,
+                    adding keywords, and all efforts to increase the Quality Score so the costs remain low and
+                    effective.<br><br>
+                    Meanwhile, the implementation of SEO on Opus Park website is also conducted gradually. It
+                    starts with adding related keywords, meta tags, setting navigation and elements on the
+                    website, reworking on the contents provided to be SEO friendly, creating Indonesian-language
+                    pages, and many more, including to implement accelerated mobile pages (AMP) on the
+                    website.<br><br>
+                    Here are the Key Performance Indicators (KPI) applied:<br>
+                    1. Reach as many targeted audiences as possible<br>
+                    2. Leading users to the Opus Park website<br>
+                    3. Increasing engagements with users<br>
+                    4. Navigate website visits in conversions<br>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              </p>
             </div>
           </div>
-          <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
         </section>
-        <section class="cs-section result-section">
+        <section class="cs-section">
+          <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
-              <h2 class="cs-subtitle text-center">Results and Impact</h2>
+              <p class="text-center cs-subtitle-top">Results</p>
+              <h2 class="cs-subtitle text-center">Reached Conversions</h2>
               <p class="cs-desc text-center">
-              After the site has been successfully developed, users can make car transactions with the highest bidding system. Because Caroline collaborates with ACC (Astra Credit Company) that has been registered with OJK, car transactions can be made in cash or credit. The quality of the cars on Caroline is no doubt. Because, the Caroline commissioned a reliable inspector to check the cars sold on the site. Caroline can help users in making car purchase transactions with the highest bidding system easily.
+              Implementing a digital marketing strategy has helped Opus Park increase awareness among a targeted audience. Not only that, the Opus Park website has a significant increase in traffic. The engagement that was obtained was fairly satisfying. This good result has even been seen in 1-2 months since the digital marketing operations were executed in a cost-efficient manner.
+              <br><br>
+              <a class="btn btn-cs" data-toggle="modal" href='#modal-id-2'>Detail</a>
+              <div class="modal fade" id="modal-id-2">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title">Reached Conversions</h4>
+                    </div>
+                    <div class="modal-body">
+                    Implementing a digital marketing strategy has helped Opus Park increase awareness among a targeted audience. Not only that, the Opus Park website has a significant increase in traffic. The engagement that was obtained was fairly satisfying. This good result has even been seen in 1-2 months since the digital marketing operations were executed in a cost-efficient manner. Here are the results achieved from August to November 2018: <br><br>
+                    - Engagements increased by +500,000 in total on Opus Park social media <br>
+                    - +600,000 sessions generated by users on Opus Park website <br>
+                    - The number of bounce rate drops to -9.12%<br>
+                    - +2,000 conversions have been made by users on the website<br>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
               </p>
-              <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block custom-2">
+              <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block custom3">
             </div>
           </div>
           <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
@@ -211,6 +283,11 @@
                 </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/en/case-study/caroline-bidding-system/">
+                  <img class="img-responsive center-block" src="img/caroline-bidding-system.png" alt="Other Case Studies">
+                </a>
+              </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
                 <a href="/en/case-study/vip-plaza-progressive-web-app/">
                   <img class="img-responsive center-block" src="img/vip-plaza.png" alt="Other Case Studies">
                 </a>
@@ -219,14 +296,6 @@
                 <a href="/en/case-study/zuttoride-customer-management-system/">
                   <img class="img-responsive center-block" src="img/zuttoride.png" alt="Other Case Studies">
                 </a>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-3">
-                  <a href="/en/case-study/klikhoreca/">
-                    <picture>
-                        <source srcset="img/btn-klikhoreca.webp" type="image/webp">
-                        <img class="img-responsive center-block" src="img/btn-klikhoreca.png" alt="Studi Kasus Lainnya">
-                    </picture>
-                  </a>
               </div>
               <div class="col-xs-12 col-sm-6 col-md-3">
                   <a href="/en/case-study/indonesea/">
@@ -241,14 +310,6 @@
                     <picture>
                         <source srcset="img/btn-pan-pacific.webp" type="image/webp">
                         <img class="img-responsive center-block" src="img/btn-pan-pacific.png" alt="Studi Kasus Lainnya">
-                    </picture>
-                  </a>
-              </div>
-              <div class="col-xs-12 col-sm-6 col-md-3">
-                  <a href="/en/case-study/jba-bastk/">
-                    <picture>
-                        <source srcset="img/btn-jba-bastk.webp" type="image/webp">
-                        <img class="img-responsive center-block" src="img/btn-jba-bastk.png" alt="Studi Kasus Lainnya">
                     </picture>
                   </a>
               </div>
@@ -283,7 +344,7 @@
                   </picture>
                   <h5>OUR SERVICE</h5>
                   <p class="hidden-xs">A comprehensive list of our services can be found here.</p> 
-                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">             
                 </a>
               </div>
               <div>
@@ -294,7 +355,7 @@
                   </picture>
                   <h5>PORTFOLIO</h5>
                   <p class="hidden-xs">For more information about the companies that make up our clientele, click here.</p> 
-                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">          
                 </a>
               </div>
               <div>
@@ -305,7 +366,7 @@
                   </picture>
                   <h5>WEB DEVELOPMENT</h5>
                   <p class="hidden-xs">Get information about creating high quality websites here.</p> 
-                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">              
                 </a>
               </div>
               <div>
@@ -316,7 +377,7 @@
                   </picture>
                   <h5>WEB SYSTEM DEVELOPMENT</h5>
                   <p class="hidden-xs">For details regarding our web-based system building services, click here.</p> 
-                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">           
+                  <img src="/case-study/img/icon/arrow-right.png" alt="" class="arrow--cs-bottom">       
                 </a>
               </div>
             </div>
