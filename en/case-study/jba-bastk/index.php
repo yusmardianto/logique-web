@@ -52,7 +52,7 @@
           <div class="col-xs-6 text-right">
             <ul>
               <li class="active"><a href="#">EN</a></li>
-              <li><a href="/case-study/klikhoreca/">ID</a></li>
+              <li><a href="/case-study/jba-bastk/">ID</a></li>
               <li><a href="#">JP</a></li>
             </ul>
           </div>

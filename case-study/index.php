@@ -400,6 +400,22 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
+            <div class="col-sm-4 col-xs-12 filter websystem mobileapp">
+              <a href="/case-study/jba-bastk" class="links__item">
+                    <div class="img-container">
+                      <picture>
+                        <source srcset="./assets/img/card/9.webp" type="image/webp">
+                        <img src="./assets/img/card/9.png" class="img-responsive" alt="">
+                      </picture>
+                    </div>
+                    <div class="text-container">
+                      <p>Web System & Aplikasi Mobile</p>
+                    </div>
+                    <p class="card-title">JBA eBASTK</p>
+                    <p class="card-content">Proses Pengembangan Aplikasi</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                </a>
+            </div>
         </div>
         <div class="row contact-container">
           <div class="col-md-12">
