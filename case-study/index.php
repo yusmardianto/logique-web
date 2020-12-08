@@ -400,6 +400,22 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
+            <div class="col-sm-4 col-xs-12 filter website websystem mobileapp">
+              <a href="/case-study/jba-bastk" class="links__item">
+                    <div class="img-container">
+                      <picture>
+                        <source srcset="./assets/img/card/9.webp" type="image/webp">
+                        <img src="./assets/img/card/9.png" class="img-responsive" alt="">
+                      </picture>
+                    </div>
+                    <div class="text-container">
+                      <p>Website & Web System & Aplikasi Mobile</p>
+                    </div>
+                    <p class="card-title">JBA eBASTK</p>
+                    <p class="card-content">Proses Pengembangan Aplikasi</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                </a>
+            </div>
         </div>
         <div class="row contact-container">
           <div class="col-md-12">
@@ -790,19 +806,19 @@ $(document).ready(function() {
   slick_on_mobile( $slick_slider, settings_slider);
 
 // slick on mobile
-  function slick_on_mobile(slider, settings){
-    $(window).on('load resize', function() {
-      if ($(window).width() > 1100) {
-        if (slider.hasClass('slick-initialized')) {
-          slider.slick('unslick');
-        }
-        return
-      }
-      if (!slider.hasClass('slick-initialized')) {
-        return slider.slick(settings);
-      }
-    });
-  };
+  // function slick_on_mobile(slider, settings){
+  //   $(window).on('load resize', function() {
+  //     if ($(window).width() > 1100) {
+  //       if (slider.hasClass('slick-initialized')) {
+  //         slider.slick('unslick');
+  //       }
+  //       return
+  //     }
+  //     if (!slider.hasClass('slick-initialized')) {
+  //       return slider.slick(settings);
+  //     }
+  //   });
+  // };
 
     $('.showmore').click(function(){
          $('.morecs').css('display','inline-block');
