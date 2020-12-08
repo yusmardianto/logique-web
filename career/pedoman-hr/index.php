@@ -11,7 +11,7 @@
     content="Lingkungan kerja Logique, pedoman HR, peraturan HR, kerja fleksibel, sistem kerja remote, remote working, peraturan kerja Logique, reward kerja, bonus kerja.
 ">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Pedoman HR | Lingkungan Kerja | Karir| LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Pedoman HR & Lingkungan Kerja PT LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
@@ -19,7 +19,8 @@
   <meta property="og:description"
     content="Pedoman HR yang fleksibel membuat lingkungan kerja Logique menjadi nyaman bagi para staff. Jam kerja fleksibel, kerja remote, bonus, dll. Ayo gabung sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Pedoman HR | Lingkungan Kerja | Karir| LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/pedoman-hr/"/>
+  <title>Pedoman HR & Lingkungan Kerja PT LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

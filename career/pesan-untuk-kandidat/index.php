@@ -6,24 +6,37 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
+    content="Kenali lebih dekat para staff profesional LOGIQUE yang dapat membantu mengembangkan kemampuan yang Anda miliki. Daftarkan diri Anda & gabung bersama kami sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Pesan Untuk Kandidat dari Staff Profesional PT LOGIQUE ">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
+    content="Kenali lebih dekat para staff profesional LOGIQUE yang dapat membantu mengembangkan kemampuan yang Anda miliki. Daftarkan diri Anda & gabung bersama kami sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/pesan-untuk-kandidat/"/>
+  <title>Pesan Untuk Kandidat dari Staff Profesional PT LOGIQUE </title>
 
+  <link rel="preconnect" href="https://connect.facebook.net"/>
+  <link rel="preconnect" href="https://app.purechat.com"/>
+  <link rel="preconnect" href="https://analytics.twitter.com"/>
+  <link rel="preconnect" href="https://t.co"/>
+  <link rel="preconnect" href="https://api-cdn.purechat.com"/>
+  
   <!-- Bootstrap -->
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/career/style-career.css" rel="preload" as="style">
+
   <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
-  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
 
@@ -211,7 +224,10 @@
                   </div>
                 </div> -->
                 <div class="col-md-6 col-lg-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/aprillian-message.png" alt="DM Aprillian">
+                  <picture>
+                    <source srcset="/img/career/aprillian-message.webp" type="image/webp"/>
+                    <img class="img-responsive center-block" src="/img/career/aprillian-message.png" alt="DM Aprillian">
+                  </picture>
                   <div class="message__text-wrapper">
                     <h4 class="message__text-title" data-emergence="hidden">
                       Aprilian
@@ -233,7 +249,11 @@
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/taufik-message.png" alt="FE Taufik">
+                  <picture>
+                    <source srcset="/img/career/taufik-message.webp" type="image/webp"/>
+                    <img class="img-responsive center-block" src="/img/career/taufik-message.png" alt="FE Taufik">
+                  </picture>
+                  
                   <div class="message__text-wrapper">
                     <h4 class="message__text-title" data-emergence="hidden">
                       Taufik
@@ -260,7 +280,10 @@
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/muklis-message.png" alt="BE Muklis">
+                  <picture>
+                    <source srcset="/img/career/muklis-message.webp" type="image/webp"/>
+                    <img class="img-responsive center-block" src="/img/career/muklis-message.png" alt="BE Muklis">
+                  </picture>
                   <div class="message__text-wrapper">
                     <h4 class="message__text-title" data-emergence="hidden">
                       Muklis
@@ -301,32 +324,50 @@
               <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-1.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-1.webp" type="image/webp"/>
+                      <img src="/img/career/activity-img-1.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-2.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-2.webp" type="image/webp">
+                      <img src="/img/career/activity-img-2.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-3.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-3.webp" type="image/webp">
+                      <img src="/img/career/activity-img-3.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-4.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-4.webp" type="image/webp">
+                      <img src="/img/career/activity-img-4.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-5.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-5.webp" type="image/webp">
+                      <img src="/img/career/activity-img-5.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-6.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-6.webp" type="image/webp">
+                      <img src="/img/career/activity-img-6.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-sm-12">
@@ -334,62 +375,98 @@
                     <div class="row">
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-7.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-7.webp" type="image/webp">
+                            <img src="/img/career/activity-img-7.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-8.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-8.webp">
+                            <img src="/img/career/activity-img-8.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-9.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-9.webp">
+                            <img src="/img/career/activity-img-9.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-10.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-10.webp">
+                            <img src="/img/career/activity-img-10.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-11.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-11.webp">
+                            <img src="/img/career/activity-img-11.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-12.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-12.webp">
+                            <img src="/img/career/activity-img-12.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-13.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-13.webp">
+                            <img src="/img/career/activity-img-13.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-14.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-14.webp">
+                            <img src="/img/career/activity-img-14.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-15.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-15.webp">
+                            <img src="/img/career/activity-img-15.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-16.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-16.webp">
+                            <img src="/img/career/activity-img-16.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-17.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-17.webp">
+                            <img src="/img/career/activity-img-17.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-18.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-18.webp">
+                            <img src="/img/career/activity-img-18.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                     </div>
