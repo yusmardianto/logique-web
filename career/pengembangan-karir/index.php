@@ -21,10 +21,26 @@
   <link rel="canonical" href="https://www.logique.co.id/career/pengembangan-karir/"/>
   <title>Pengembangan Jenjang Karir di PT LOGIQUE Digital Indonesia</title>
 
+  <link rel="preconnect" href="https://connect.facebook.net"/>
+  <link rel="preconnect" href="https://www.facebook.com"/>
+  <link rel="preconnect" href="https://app.purechat.com"/>
+  <link rel="preconnect" href="https://analytics.twitter.com"/>
+  <link rel="preconnect" href="https://t.co"/>
+  <link rel="preconnect" href="https://api-cdn.purechat.com"/>
+  <link rel="preconnect" href="https://widgetapi.purechat.com"/>
+  <link rel="preconnect" href="https://prod.purechatcdn.com"/>
+  <link rel="preconnect" href="http://ajax.googleapis.com"/>
+
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/career/style-career.css" rel="preload" as="style">
+
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
-  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
 
@@ -126,8 +142,11 @@
                 <div class="col-md-4 junior-fe-dev">
                   <div class="role text-center">
                     <div class="role__illust">
-                      <img class="center-block img-responsive my-20" src="/img/career/junior-fe-dev.png"
+                      <picture>
+                        <source srcset="/img/career/junior-fe-dev.webp" type="image/webp"/>
+                        <img class="center-block img-responsive my-20" src="/img/career/junior-fe-dev.png"
                         alt="Junior FE Developer">
+                      </picture>
                       <img class="img-responsive path-img hidden-xs visible-md visible-lg"
                         src="/img/career/path-to-middle.png" alt="Path to Middle">
                     </div>
@@ -145,8 +164,11 @@
                 <div class="col-md-4 middle-fe-dev">
                   <div class="role text-center">
                     <div class="role__illust">
-                      <img class="center-block img-responsive my-20" src="/img/career/middle-fe-dev.png"
+                      <picture>
+                        <source srcset="/img/career/middle-fe-dev.webp" type="image/webp"/>
+                        <img class="center-block img-responsive my-20" src="/img/career/middle-fe-dev.png"
                         alt="Middle FE Developer">
+                      </picture>
                       <img class="img-responsive path-img hidden-xs visible-md visible-lg"
                         src="/img/career/path-to-manager.png" alt="Path to Manager">
                     </div>
@@ -165,8 +187,12 @@
                 <div class="col-md-4">
                   <div class="role text-center">
                     <div class="role__illust">
-                      <img class="center-block img-responsive my-20" src="/img/career/junior-project-manager.png"
+                    <picture>
+                        <source srcset="/img/career/junior-project-manager.webp" type="image/webp"/>
+                        <img class="center-block img-responsive my-20" src="/img/career/junior-project-manager.png"
                         alt="Junior Project Manager">
+                      </picture>
+                      
                     </div>
                     <span class="role__title">
                       <strong>Junior Project Manager</strong>
@@ -297,7 +323,11 @@
                             </p>
                           </div>
                           <div class="case-study__img">
-                            <img src="/img/career/bg-img/case-study-nico.jpg" alt="Nico - Project Manager">
+                            <picture>
+                              <source srcset="/img/career/bg-img/case-study-nico.webp" type="image/webp">
+                              <img src="/img/career/bg-img/case-study-nico.jpg" alt="Nico - Project Manager">
+                            </picture>
+                            
                           </div>
                         </div>
                       </div>
@@ -316,7 +346,10 @@
                             </p>
                           </div>
                           <div class="case-study__img">
-                            <img src="/img/career/bg-img/case-study-faishal.jpg" alt="Faishal - Tim Lead Mobile Developer">
+                            <picture>
+                              <source srcset="/img/career/bg-img/case-study-faishal.webp" type="image/webp">
+                              <img src="/img/career/bg-img/case-study-faishal.jpg" alt="Faishal - Tim Lead Mobile Developer">
+                            </picture>
                           </div>
                         </div>
                       </div>
