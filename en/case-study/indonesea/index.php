@@ -270,6 +270,14 @@ Through Targeted Conversions</i></h1>
                     </picture>
                   </a>
               </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                  <a href="/en/case-study/jba-bastk/">
+                    <picture>
+                        <source srcset="new-img/btn-jba-bastk.webp" type="image/webp">
+                        <img class="img-responsive center-block" src="new-img/btn-jba-bastk.png" alt="Studi Kasus Lainnya">
+                    </picture>
+                  </a>
+              </div>
             </div>
           </div>
         </section>
