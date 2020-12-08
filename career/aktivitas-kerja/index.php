@@ -6,19 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Sebagai perusahaan yang bergerak di bidang pembuatan dan pengembangan website, digital marketing, dan proyek digital lainnya. Kami membutuhkan orang-orang yang mau bekerja keras dan ingin terus mengembangkan kemampuannya. Daftarkan diri Anda dan lihat sendiri aktivitas kerja kami di LOGIQUE.">
+    content="Sebagai perusahaan pengembang dan pembuatan website, serta proyek digital lainnya, LOGIQUE menyediakan suasana kerja yang santai, nyaman dan bersahabat. Ayo gabung bersama kami!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Aktivitas Kerja | karir developer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Suasana dan Aktivitas Kerja PT LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Sebagai perusahaan yang bergerak di bidang pembuatan dan pengembangan website, digital marketing, dan proyek digital lainnya. Kami membutuhkan orang-orang yang mau bekerja keras dan ingin terus mengembangkan kemampuannya. Daftarkan diri Anda dan lihat sendiri aktivitas kerja kami di LOGIQUE.">
+    content="Sebagai perusahaan pengembang dan pembuatan website, serta proyek digital lainnya, LOGIQUE menyediakan suasana kerja yang santai, nyaman dan bersahabat. Ayo gabung bersama kami!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Aktivitas Kerja | karir developer | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/aktivitas-kerja/"/>
+  <title>Suasana dan Aktivitas Kerja PT LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

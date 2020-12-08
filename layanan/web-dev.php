@@ -43,7 +43,7 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE melayani jasa pembuatan website individu & perusahaan; otomotif, asuransi, ecommerce, toko online & lainnya. Profesional & yang terbaik di Jakarta.">
+         content="Jasa pembuatan website profesional dan terbaik di Jakarta. Untuk pembuatan website perusahaan di bidang otomotif, e-commerce, asuransi & lainnya | LOGIQUE">
      <meta name="keywords"
          content="jasa pembuatan website, jasa pembuatan website profesional, jasa pembuatan website jakarta">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -51,13 +51,13 @@ if(isset($_POST['submitted']))
     <link rel="canonical" href="https://www.logique.co.id/layanan/web-dev.php" />  
 
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Perusahaan Jasa Pembuatan Website di Jakarta | LOGIQUE">
+    <meta property="og:title" content="Jasa Pembuatan Website Profesional di Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/web-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="LOGIQUE melayani jasa pembuatan website individu & perusahaan; otomotif, asuransi, ecommerce, toko online & lainnya. Profesional & yang terbaik di Jakarta.">
-     <title>Perusahaan Jasa Pembuatan Website di Jakarta | LOGIQUE</title>
+    <meta property="og:description" content="Jasa pembuatan website profesional dan terbaik di Jakarta. Untuk pembuatan website perusahaan di bidang otomotif, e-commerce, asuransi & lainnya | LOGIQUE">
+    <title>Jasa Pembuatan Website Profesional di Jakarta | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="../css/sidebar-update.css" >
     <!-- <link href="/css/style.css" rel="stylesheet"> -->
