@@ -12,7 +12,7 @@
   <meta property="og:title" content="Proses Pengembangan Aplikasi eBASTK JBA | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
-  <meta property="og:url" content="https://www.logique.co.id/en/case-study/klikhoreca/">
+  <meta property="og:url" content="https://www.logique.co.id/en/case-study/jba-bastk/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
   <meta property="og:description" content="Proses Pembuatan dan Pengembangan Aplikasi eBASTK JBA oleh LOGIQUE. Hubungi Kami untuk pengembangan Aplikasi terbaik untuk bisnis Anda.">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
@@ -27,6 +27,8 @@
     ga('send', 'pageview');
   </script>
   <title>Proses Pengembangan Aplikasi eBASTK JBA | LOGIQUE</title>
+
+  <link rel="canonical" href="https://www.logique.co.id/case-study/jba-bastk/" />  
 
   <link href="../../../css/bootstrap.min.css" rel="stylesheet">
 
