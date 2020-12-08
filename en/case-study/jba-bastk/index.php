@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
@@ -12,7 +12,7 @@
   <meta property="og:title" content="EBASTK JBA Application Development Process | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
-  <meta property="og:url" content="https://www.logique.co.id/en/case-study/klikhoreca/">
+  <meta property="og:url" content="https://www.logique.co.id/en/case-study/jba-bastk/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
   <meta property="og:description" content="LOGIQUE has developed a vehicle auction system for JBA Indonesia titled the eBASTK JBA application. Contact us to see our app development services.">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
@@ -27,6 +27,8 @@
 	ga('send', 'pageview');
   </script>
   <title>EBASTK JBA Application Development Process | LOGIQUE</title>
+
+  <link rel="canonical" href="https://www.logique.co.id/en/case-study/jba-bastk/" />
 
   <link href="../../../css/bootstrap.min.css" rel="stylesheet">
 

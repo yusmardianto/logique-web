@@ -400,7 +400,7 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter websystem mobileapp">
+            <div class="col-sm-4 col-xs-12 filter website websystem mobileapp">
               <a href="/case-study/jba-bastk" class="links__item">
                     <div class="img-container">
                       <picture>
@@ -409,7 +409,7 @@
                       </picture>
                     </div>
                     <div class="text-container">
-                      <p>Web System & Aplikasi Mobile</p>
+                      <p>Website & Web System & Aplikasi Mobile</p>
                     </div>
                     <p class="card-title">JBA eBASTK</p>
                     <p class="card-content">Proses Pengembangan Aplikasi</p>
