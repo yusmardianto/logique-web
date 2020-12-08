@@ -187,17 +187,24 @@ $('.map-container')
 </script>
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Jakarta, Indonesia",
-        "postalCode": "12550",
-        "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-    },
-    "logo": "https://www.logique.co.id/img/logo.png",
-    "email": "info(at)logique.co.id",
-    "telephone": "+62 (21) 2270 8935/36"
+  "@context": "http://www.schema.org",
+  "@type": "ProfessionalService",
+  "name": "Logique Digital Indonesia",
+  "url": "https://www.logique.co.id/",
+  "logo": "https://www.logique.co.id/img/logo.png",
+  "priceRange": "$",
+  "image": "https://www.logique.co.id/img/slider1.jpg",
+  "description": "Logique adalah perusahan jasa digital agency asal Jepang yang berkantor di Jakarta dan membantu Anda dalam pembuatan dan pengembangan website, digital marketing, dan desain.",
+  "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5",
+     "addressLocality": "Jakarta Selatan",
+     "addressRegion": "DKI Jakarta",
+     "postalCode": "12550",
+     "addressCountry": "Indonesia"
+  },
+   "openingHours": "Mo 08:00-17:30 Tu 08:00-17:30 We 08:00-17:30 Th 08:00-17:30 Fr 08:00-17:30",
+  "telephone": "(021) 22708935 / 36"
 }
 </script>
 <script type="text/JavaScript">
