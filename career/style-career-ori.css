@@ -2587,7 +2587,8 @@ ul.candiate-criteria__reject li::before {
 }
 
 .check-portfolio {
-  background: url("/img/career/bg-img/bg-check.png") center/cover no-repeat;
+  background: url("../img/career/bg-img/bg-check.png") center/cover no-repeat;
+  background-image: url("../img/career/bg-img/bg-check.webp");
   width: 100%;
   height: 130px;
   position: relative;
