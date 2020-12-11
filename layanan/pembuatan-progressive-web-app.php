@@ -252,7 +252,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#character_re_engageable" data-toggle="tab" data-illustration="linkable">
+                                        <a href="#character_re_engageable" data-toggle="tab" data-illustration="re-engageable">
                                             <h4 class="fs--16px fw--900">Re-engageable</h4>
                                             <p class="fs--14px">Meningkatkan keterlibatan dengan pengguna karena memiliki kemampuan untuk mengirim notifikasi pemberitahuan ketika ada informasi atau konten baru.</p>
                                         </a>
@@ -291,8 +291,8 @@
                                         <div class="mx--auto loader"></div>
                                     </div>
                                     <div class="tab-pane fade" id="character_re_engageable" role="tabpanel">
-                                        <div class="image__illustration mx--auto" id="lottie_"></div>
-                                        <!-- <div class="mx--auto loader"></div> -->
+                                        <div class="image__illustration mx--auto" id="lottie5"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
                                     <div class="tab-pane fade" id="character_responsive" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie_"></div>
