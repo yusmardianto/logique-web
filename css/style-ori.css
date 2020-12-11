@@ -1530,6 +1530,7 @@ left: -70px;
         left: 10px !important;
     }
     .wrapper .navbar-toggle {
+        max-width: 44px;
         left: 110px;
         top: 10px;
     }

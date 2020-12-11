@@ -687,13 +687,13 @@ if(isset($_POST['submitted']))
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-offset-1 col-sm-11">
+                            <a href="index.php"><img src="/img/logo.png" alt="Logo"
+                            class="img-responsive logo--update-design" /></a>   
                             <ul class="list-inline">
                                 <li class="active"><a href="#">EN</a></li>
                                 <li><a href="../hubungi-kami.php">ID</a></li>
                                 <li><a href="../jp/contact.php">JP</a></li>
                             </ul>
-                            <a href="index.php"><img src="/img/logo.png" alt="Logo"
-                            class="img-responsive logo--update-design" /></a>   
                         </div>
                     </div>
                 </div>

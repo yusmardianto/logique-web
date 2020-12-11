@@ -462,6 +462,7 @@ background-size: contain;
         float: none;
     }
     .wrapper .navbar-toggle {
+        max-width: 44px;
         left: 110px;
         top: 10px;
     }
