@@ -16,6 +16,7 @@
     <meta property="og:description" content="LOGIQUE dapat membantu meningkatkan sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Jasa Pembuatan Progressive Web App (PWA) | LOGIQUE Digital Indonesia</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <!-- <link rel="stylesheet" href="/css/sidebar-update.css" >  -->
     <link href="/../css/style.css" rel="stylesheet">
@@ -155,9 +156,15 @@
                 </div>
                 <div class="container__">
                     <div class="row">
-                        <div class="col-md-8 header__title">
+                        <div class="col-md-7 header__title">
                             <h1 class="fs--32px">Jasa Pembuatan Progressive Web App (PWA) Terbaik</h1>
                             <p>LOGIQUE Digital Indonesia adalah salah satu pengembang Progressive Web App / PWA terbaik di Jakarta. Kami memiliki team yang profesional, berpengalaman dan memiliki kemampuan terbaik pada bidangnya masing-masing. Seluruh proyek yang kami kerjakan dapat selesai sesuai target dan waktu yang telah ditentukan.</p>
+                        </div>
+                        <div class="col-md-5 header__img">
+                            <picture>
+                                <source srcset="/layanan/assets/img/img-pwa/img-banner-header.webp" type="image/webp">
+                                <img src="/layanan/assets/img/img-pwa/img-banner-header.png" alt="" class="img-responsive">
+                            </picture>
                         </div>
                     </div>
                 </div>
@@ -216,56 +223,56 @@
                 <div class="container__">
                     <div class="">
                         <h3 class="mb--40px main-title main-title--with-square-point">Karakteristik PWA</h3>
-                        <div class="mb--60px row row--flex character__character-list">
-                            <div class="col-xs-12 col-md-5">
+                        <div class="mb--60px row row--flex align-items-center character__character-list">
+                            <div class="col-xs-12 col-md-8">
 
                                 <ul class="nav list-unstyled character-list__list" role="tablist">
                                     <li class="active">
                                         <a href="#character_discoverable" data-toggle="tab" data-illustration="discoverable" aria-selected="true">
-                                            <h4>Discoverable</h4>
-                                            <p>Konten di dalam PWA dapat ditemukan di halaman search engine</p>
+                                            <h4 class="fs--16px fw--900">Discoverable</h4>
+                                            <p class="fs--14px">Konten di dalam PWA dapat ditemukan di halaman search engine</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_linkable" data-toggle="tab" data-illustration="linkable">
-                                            <h4>Linkable</h4>
-                                            <p>Mudah dibagikan melalui link URL</p>
+                                            <h4 class="fs--16px fw--900">Linkable</h4>
+                                            <p class="fs--14px">Mudah dibagikan melalui link URL</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_independent" data-toggle="tab" data-illustration="independent">
-                                            <h4>Network independent</h4>
-                                            <p>Tetap dapat diakses secara offline atau dengan koneksi internet yang buruk</p>
+                                            <h4 class="fs--16px fw--900">Network independent</h4>
+                                            <p class="fs--14px">Tetap dapat diakses secara offline atau dengan koneksi internet yang buruk</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_installable" data-toggle="tab" data-illustration="installable">
-                                            <h4>Installable</h4>
-                                            <p>PWA dapat ditampilkan pada home screen perangkat Anda.</p>
+                                            <h4 class="fs--16px fw--900">Installable</h4>
+                                            <p class="fs--14px">PWA dapat ditampilkan pada home screen perangkat Anda.</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_re_engageable" data-toggle="tab" data-illustration="linkable">
-                                            <h4>Re-engageable</h4>
-                                            <p>Meningkatkan keterlibatan dengan pengguna karena memiliki kemampuan untuk mengirim notifikasi pemberitahuan ketika ada informasi atau konten baru.</p>
+                                            <h4 class="fs--16px fw--900">Re-engageable</h4>
+                                            <p class="fs--14px">Meningkatkan keterlibatan dengan pengguna karena memiliki kemampuan untuk mengirim notifikasi pemberitahuan ketika ada informasi atau konten baru.</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_responsive" data-toggle="tab" data-illustration="linkable">
-                                            <h4>Responsive </h4>
-                                            <p>Dapat berfungsi dengan baik di perangkat apapun dengan berbagai ukuran layar.</p>
+                                            <h4 class="fs--16px fw--900">Responsive </h4>
+                                            <p class="fs--14px">Dapat berfungsi dengan baik di perangkat apapun dengan berbagai ukuran layar.</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_safe" data-toggle="tab" data-illustration="linkable">
-                                            <h4>Safe</h4>
-                                            <p>Menggunakan protokol HTTPS sehingga dapat menghindari akses dari pihak yang tidak sah.</p>
+                                            <h4 class="fs--16px fw--900">Safe</h4>
+                                            <p class="fs--14px">Menggunakan protokol HTTPS sehingga dapat menghindari akses dari pihak yang tidak sah.</p>
                                         </a>
                                     </li>
                                 </ul>
     
                             </div>
-                            <div class="col-xs-12 col-md-7 character-list__image">
+                            <div class="col-xs-12 col-md-4 character-list__image">
                                 <div class="tab-content">
                                     <div class="tab-pane fade in active" id="character_discoverable" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie"></div>
