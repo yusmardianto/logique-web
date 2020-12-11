@@ -67,11 +67,19 @@
     font-family: 'Novocento Sans Wide Medium';
     font-weight: bold;
 }
+
 .fs--16px {
     font-size: 16px;
 }
 .fs--32px {
     font-size: 32px;
+}
+.fs--30px {
+    font-size: 30px;
+}
+
+.fw--900 {
+    font-weight: 900;
 }
 
 /* spacing */
@@ -207,10 +215,10 @@ input.form-control.h--50px {
 /* end input */
 
 /* header */
-.service .service__header {
-    /* background: url("../img/img-pwa/bg-banner.jpg") cover/center no-repeat;
-    background-image: url("../img/img-pwa/bg-banner.webp"); */
-}
+/* .service .service-pwa__header {
+    background: url("../img/img-pwa/bg-banner.jpg") center/contain no-repeat;
+    background-image: url("../img/img-pwa/bg-banner.webp");
+} */
 
 /* contact */
 .service .service-pwa__contact {
