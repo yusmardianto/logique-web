@@ -6,20 +6,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE membuka kesempatan bagi Anda yang ingin bergabung bersama kami sebagai specialis di bidang IT. Jika Anda tertarik dan ingin bergabung serta berkembang bersama kami, segera daftarkan diri Anda dan kunjungi halaman karir LOGIQUE">
+    content="Lowongan IT Specialist terbaru di Jakarta. Loker untuk posisi Security Specialist, QA Specialist & DevOps Engineer. Gaji, Bonus + Kerja Remote. Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
-    content="Lowongan Kerja Security Specialist | QA Specialist | DevOps Engineer | LOGIQUE Digital Indonesia">
+    content="Lowongan IT Specialist terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE membuka kesempatan bagi Anda yang ingin bergabung bersama kami sebagai specialis di bidang IT. Jika Anda tertarik dan ingin bergabung serta berkembang bersama kami, segera daftarkan diri Anda dan kunjungi halaman karir LOGIQUE">
+    content="Lowongan IT Specialist terbaru di Jakarta. Loker untuk posisi Security Specialist, QA Specialist & DevOps Engineer. Gaji, Bonus + Kerja Remote. Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja Security Specialist | QA Specialist | DevOps Engineer | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/specialist/" />
+  <title>Lowongan IT Specialist terbaru Jakarta | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

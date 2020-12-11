@@ -14,6 +14,9 @@
     font-display: swap;
 }
 /* common */
+body {
+    font-family: Montserrat, sans-serif;
+}
 .wrapper {
     overflow-y: auto;
 }
@@ -68,6 +71,9 @@
     font-weight: bold;
 }
 
+.fs--14px {
+    font-size: 14px;
+}
 .fs--16px {
     font-size: 16px;
 }
@@ -215,10 +221,20 @@ input.form-control.h--50px {
 /* end input */
 
 /* header */
-/* .service .service-pwa__header {
-    background: url("../img/img-pwa/bg-banner.jpg") center/contain no-repeat;
-    background-image: url("../img/img-pwa/bg-banner.webp");
-} */
+.service .service-pwa__header {
+    background: url("../img/img-pwa/bg-banner.jpg") center/cover no-repeat;
+}
+
+.service .service-pwa__header .header__img {
+    position: relative;
+}
+
+.service .service-pwa__header .header__img img {
+    position: absolute;
+    top: -90px;
+    min-width: 525px;
+    left: -100px;
+}
 
 /* contact */
 .service .service-pwa__contact {
@@ -252,7 +268,7 @@ input.form-control.h--50px {
 }
 
 .service .service-pwa__character .character-list__image .image__illustration {
-    max-width: 400px;
+    max-width: 260px;
 }
 
 .service .service-pwa__character .character-list__image .image__illustration:not(:empty) ~ .loader {
@@ -365,6 +381,11 @@ input.form-control.h--50px {
 }
 
 @media (max-width: 992.98px) {
+    /* heder */
+    .service .service-pwa__header .header__img img {
+        display: none;
+    }
+
     /* contact */    
     .service .service-pwa__contact .contact__content .content__image {
         margin-bottom: 20px;
@@ -378,7 +399,8 @@ input.form-control.h--50px {
         top: 0;
     }
     .service .service-pwa__character .character-list__image .image__illustration {
-        max-width: 300px;
+        margin-top: 30px;
+        max-width: 200px;
     }
 
     /* project */
@@ -390,7 +412,7 @@ input.form-control.h--50px {
     }
     .service .service-pwa__project .project__item .item__image {
         width: 100%;
-        max-width: 300px;
+        max-width: 200px;
     }
 
     /* other service */
@@ -403,7 +425,7 @@ input.form-control.h--50px {
 @media (max-width:767.98px) {
     /* character */
     .service .service-pwa__character .character-list__image .image__illustration {
-        max-width: 250px;
+        max-width: 180px;
     }
     .service .service-pwa__character .character__list-benefit {
         columns: 1;
@@ -413,7 +435,7 @@ input.form-control.h--50px {
 
     /* project */
     .service .service-pwa__project .project__item .item__image {
-        max-width: 200px;
+        max-width: 160px;
     }
     .service .service-pwa__project .project__item:last-child > [class*='col-']:first-child {
         order: 1;
