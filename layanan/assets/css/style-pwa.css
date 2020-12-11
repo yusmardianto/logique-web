@@ -196,6 +196,7 @@
     height: auto;
     box-shadow: none;
     white-space: normal;
+    padding: 10px;
 }
 /* end btn */
 
@@ -288,11 +289,6 @@ input.form-control.h--50px {
 .service .service-pwa__contact-form .contact-form__form {
     padding:30px;
 }
-/* @media (min-width: 1200px) {
-    .content-wrapper__ .--top {
-        margin-bottom: 2.5em
-    }
-} */
 
 @media (max-width: 992.98px) {
     /* contact */    
@@ -352,4 +348,18 @@ input.form-control.h--50px {
         order: 0;
     }
 
+    /* form */
+    .service .service-pwa__contact-form .contact-form__form .form__btn .btn {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 320px) {
+    /* form */
+    .service .service-pwa__contact-form .contact-form__form .form__btn .g-recaptcha {
+        transform: scale(0.75);
+    }
+    .service .service-pwa__contact-form .contact-form__form .form__btn .btn {
+        margin-top: 15px;
+    }
 }

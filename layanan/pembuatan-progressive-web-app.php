@@ -144,7 +144,7 @@
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item"><span itemprop="name">&nbsp;pembuatan-progressive-web-app</span></a>
+                                            <a itemprop="item"><span itemprop="name">&nbsp;Pembuatan Progressive Web App (PWA)</span></a>
                                             <meta itemprop="position" content="3" />
                                         </li>
                                     </ol>
@@ -180,7 +180,7 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="row row--flex justify-content-center">
                                 <div class="col-sm-4 col-md-6">
-                                    <button class="form-control btn btn--yellow">KONTAK KAMI</button>
+                                    <a href="/hubungi-kami.php" class="form-control btn btn--yellow">KONTAK KAMI</a>
                                 </div>
                             </div>
                         </div>
@@ -401,7 +401,9 @@
             <div class="content-wrapper__">
                 <div class="container__">
                     <div class="row row--flex justify-content-center">
-                        <div class="col-md-3"><button class="form-control btn btn--yellow">LIHAT POTFOLIO KAMI</button></div>
+                        <div class="col-md-3">
+                            <a href="/portofolio.php" class="form-control btn btn--yellow">LIHAT POTFOLIO KAMI</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -418,21 +420,21 @@
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-web.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-others-web.png" alt="pembuatan website" class="img-responsive mb--25px">
                             </picture>
-                            <a href="#" class="form-control btn btn--yellow">PEMBUATAN WEBSITE</a>
+                            <a href="/layanan/web-dev.php" class="form-control btn btn--yellow">PEMBUATAN WEBSITE</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-system.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-others-system.png" alt="pembuatan sistem website" class="img-responsive mb--25px">
                             </picture>
-                            <a href="#" class="form-control btn btn--yellow">PENGEMBANGAN SISTEM WEB</a>
+                            <a href="/layanan/pembuatan-sistem-web.php" class="form-control btn btn--yellow">PENGEMBANGAN SISTEM WEB</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-mobile.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-others-mobile.png" alt="pembuatan aplikasi mobile" class="img-responsive mb--25px">
                             </picture>
-                            <a href="#" class="form-control btn btn--yellow">PENGEMBANGAN SISTEM APLIKASI MOBILE</a>
+                            <a href="/layanan/pembuatan-aplikasi-mobile.php" class="form-control btn btn--yellow">PENGEMBANGAN SISTEM APLIKASI MOBILE</a>
                         </div>
                     </div>
                 </div>
@@ -461,9 +463,11 @@
 
                             <textarea name="" id="" rows="5" class="form-control fs--16px mb--30px" placeholder="Pertanyaan"></textarea>
 
-                            <div class="row row--flex justify-content-between">
-                                <div class="flex-grow-1"></div>
-                                <div class="col-md-3">
+                            <div class="row row--flex justify-content-center form__btn">
+                                <div class="col-sm-9">
+                                    <div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp">                                            </div>
+                                </div>
+                                <div class="col-xs-10 col-sm-3">
                                     <button type="submit" class="form-control btn btn--yellow">Kirim</button>
                                 </div>
                             </div>
@@ -478,6 +482,7 @@
     </div>
 
     <?php include '../footer.php'; ?>
+    <script async defer src='https://www.google.com/recaptcha/api.js'></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.matchHeight.js"></script>
     <script>
