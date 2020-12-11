@@ -137,32 +137,22 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
-                <ul class="career-list">
-                  <li>
-                    Merencanakan dan mengeksekusi VATest / Pentest terhadap jaringan, server, web aplikasi / API, dan
-                    mobile apps.
-                  </li>
-                  <li>
-                    Mengevaluasi hasil VATest / Pentest, memberikan rekomendasi sesuai best practice, serta membuat
-                    laporan resmi kepada management.
-                  </li>
-                  <li>
-                    Memberikan layanan konsultasi dalam analisis dan implementasi keamanan cyber untuk klien.
-                  </li>
-                  <li>
-                    Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta meremomendasikan
-                    tindakan preventif.
-                  </li>
-                  <li>
-                    Melakuan analisis resiko keamanan dalam cakupan system secara menyeluruh.
-                  </li>
-                  <li>
-                    Membuat dokumentasi security yang akurat.
-                  </li>
-                </ul>
+                <h3 class="section-title">Talenta yang Kami Cari</h3>
+                <p>Logique mencari talenta berpengalaman dan potensial di bidang IT Security yang selalu mengikuti trend terbaru dalam segala aspek yang berkaitan dengan technology, serta memiliki pola pikir yang logis dalam bertindak.</p>
               </div>
               <div class="career-requirement">
+                <h3 class="section-title">Jika Anda memiliki karakteristik:</h3>
+                <ul class="career-list">
+                  <li>Profesional</li>
+                  <li>Mandiri</li>
+                  <li>Self-Driven</li>
+                  <li>Perfeksionis</li>
+                  <li>Logis dalam berpikir</li>
+                </ul>
+                <p>Maka, Andalah talenta yang cocok untuk bergabung bersama kami.</p><br>
+                <p>Selain melakukan pekerjaan secara profesional dalam proses penilaian, pengujian dan konsultasi terkait IT Security, Anda juga akan turut berpartisipasi dalam aktivitas pra-penjualan dan berkolaborasi dengan tim marketing kami. Oleh karena itu, kemampuan yang baik dalam berkomunikasi juga sangat kami butuhkan untuk posisi ini.</p>
+              </div>
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
@@ -222,19 +212,16 @@
                     membangun hubungan dengan klien.
                   </li>
                 </ul>
-              </div>
+              </div> -->
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Rewards dan Worthwhile</h3>
+                <h3 class="section-title">Apa yang bisa Anda dapatkan</h3>
                 <ul class="career-list">
-                  <li>
-                    Anda akan merasa tertantang untuk mengetahui seberapa aman kah web atau aplikasi.
-                  </li>
-                  <li>
-                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
-                    dihadapi.
-                  </li>
+                  <li>Anda memiliki kesempatan untuk dapat terus mengembangkan kemampuan sebagai seorang IT Security Specialist. Logique memiliki beragam proyek yang berkaitan dengan Security Test, dimana Anda dapat terlibat langsung didalamnya dan menjadi sarana untuk meningkatkan kemampuan diri.</li>
+                  <li>Logique memiliki banyak proposal dan permintaan terkait proyek IT Security. Dengan demikian, Anda pun memiliki kesempatan untuk dapat menambah pengalaman dalam menangani setiap aktivitas pra-penjualan yang terkait dengan proyek-proyek tersebut. </li>
+                  <li>Anda juga bisa memperoleh kesempatan untuk menjadi key person dalam setiap proyek kami. Anda dapat bekerja secara mandiri dan dapat melakukan pekerjaan dengan metode kerja Anda sendiri, selama hasil pekerjaan Anda efektif.</li>
+                  <li>Kami memiliki banyak proyek pengembangan Web/Aplikasi/Sistem. Dengan bergabung bersama kami, Anda akan memiliki banyak kesempatan untuk mengasah keterampilan di bidang IT Security melalui proyek-proyek yang kami miliki.</li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">
