@@ -334,10 +334,14 @@
 
                     <div class="mb--60px">
                         <div class="row row--flex">
-                            <div class="col-md-6">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut iure, voluptatibus magnam iusto delectus blanditiis at possimus eos mollitia repudiandae doloribus cumque, beatae doloremque laboriosam velit dolorum facere suscipit molestiae!
+                            <div class="col-xs-12 col-md-6">
+                                <h3 class="my--20px fs--30px fw--900 text-center">AGILE METHOD</h3>
+                                <picture>
+                                    <!-- <source srcset="/layanan/assets/img/img-pwa/img-agile.svg"> -->
+                                    <img src="/layanan/assets/img/img-pwa/img-agile.png" alt="" class="img-responsive mx--auto mb--30px">
+                                </picture>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-xs-12 col-md-6">
                                 <h3 class="mb--20px main-title main-title--with-square-point">Alasan kami menggunakan metode ini:</h3>
                                 
                                 <ul class="pl--20px">
