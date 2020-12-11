@@ -269,24 +269,31 @@
                                 <div class="tab-content">
                                     <div class="tab-pane fade in active" id="character_discoverable" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
                                     <div class="tab-pane fade" id="character_linkable" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie2"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
                                     <div class="tab-pane fade" id="character_independent" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie3"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
                                     <div class="tab-pane fade" id="character_installable" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie4"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
                                     <div class="tab-pane fade" id="character_re_engageable" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie_"></div>
+                                        <!-- <div class="mx--auto loader"></div> -->
                                     </div>
                                     <div class="tab-pane fade" id="character_responsive" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie_"></div>
+                                        <!-- <div class="mx--auto loader"></div> -->
                                     </div>
                                     <div class="tab-pane fade" id="character_safe" role="tabpanel">
                                         <div class="image__illustration mx--auto" id="lottie_"></div>
+                                        <!-- <div class="mx--auto loader"></div> -->
                                     </div>
                                 </div>
                             </div>
