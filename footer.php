@@ -74,6 +74,7 @@
                                         </ul>
                                     </li> 
                                     <li><a href="/portofolio.php">Portofolio</a></li> 
+                                    <li><a href="/case-study/">Studi Kasus</a></li> 
                                 </ul>
                             </div> 
                             <div class="col-sm-6 link-footer-nav">
@@ -92,7 +93,7 @@
                                             </ul>
                                         </li>
                                     <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
-                                    <li><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                    <li class="m-t-30px"><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
                             </div>
                         </div> 
                     </div> 
