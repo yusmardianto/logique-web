@@ -160,6 +160,8 @@
                 <p class="mb--15">Anda juga bisa mendapatkan kesempatan menjadi pihak utama dalam proyek kami. Anda dapat bekerja secara mandiri, dan Anda dapat melakukan pekerjaan Anda dengan gaya kerja Anda sendiri selama hasil pekerjaan Anda efektif.</p>
                 <p class="mb--15">Kami memiliki banyak proyek pengembangan Web/Aplikasi/Sistem. Dengan bergabung dengan kami. Anda akan memiliki banyak kesempatan untuk mengasah keterampilan Anda di bidang IT Quality Assurance dan juga mengejar karir Anda ke level selanjutnya.</p>
               </div>
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
@@ -202,8 +204,6 @@
                   </li>
                 </ul>
               </div>
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Rewards dan Worthwhile</h3>
                 <ul class="career-list">
