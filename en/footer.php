@@ -76,7 +76,7 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                                         </ul>
                                     </li>
                                     <li><a href="/en/contact.php">Contact Us</a></li>
-                                    <li><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                    <li class="m-t-30px"><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
                                 </ul>
                             </div>
                         </div> 

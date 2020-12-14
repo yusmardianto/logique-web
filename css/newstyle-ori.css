@@ -57,6 +57,11 @@ span {
 .content-wrapper__ {
     margin-left: 90px;
 }
+/* spacing */
+.m-t-30px {
+  margin-top: 30px;
+}
+/* end spacing */
 .lang-logo--update-design {
     padding: 10px 0 15px;
     background-color: #fff;
@@ -472,13 +477,13 @@ section.maintop video, video {
   }
 
   .case-study__case-item .case-item h6 {
-    font-size: 13px;
-    margin-bottom: -5px;
+    font-size: 18px;
+    margin-bottom: 5px;
     text-transform: uppercase;
   }
 
   .case-study__case-item .case-item h4 {
-    font-size: 18px;
+    font-size: 14px;
   }
  
 /* see-list */
