@@ -162,17 +162,6 @@
                   <li>Kami memiliki banyak proyek pengembangan Web/Aplikasi/Sistem. Dengan bergabung bersama kami, Anda akan memiliki banyak kesempatan untuk mengasah keterampilan di bidang IT Security melalui proyek-proyek yang kami miliki.</li>
                 </ul>
               </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
-                <ul class="career-list">
-                  <li>Merencanakan dan mengeksekusi VATest / Pentest terhadap jaringan, server, web aplikasi / API, dan mobile apps.</li>
-                  <li>Mengevaluasi hasil VATest / Pentest, memberikan rekomendasi sesuai best practice, serta membuat laporan resmi kepada management.</li>
-                  <li>Memberikan layanan konsultasi dalam analisis dan implementasi keamanan cyber untuk klien.</li>
-                  <li>Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta meremomendasikan tindakan preventif.</li>
-                  <li>Melakuan analisis resiko keamanan dalam cakupan system secara menyeluruh.</li>
-                  <li>Membuat dokumentasi security yang akurat.</li>
-                </ul>
-              </div>
               <!-- <div class="career-requirement">
                 <h3 class="section-title">Required Skill</h3>
                 <ul class="career-list">
@@ -204,6 +193,17 @@
               </div> -->
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+              <div class="career-requirement">
+                <h3 class="section-title">Job Description</h3>
+                <ul class="career-list">
+                  <li>Merencanakan dan mengeksekusi VATest / Pentest terhadap jaringan, server, web aplikasi / API, dan mobile apps.</li>
+                  <li>Mengevaluasi hasil VATest / Pentest, memberikan rekomendasi sesuai best practice, serta membuat laporan resmi kepada management.</li>
+                  <li>Memberikan layanan konsultasi dalam analisis dan implementasi keamanan cyber untuk klien.</li>
+                  <li>Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta meremomendasikan tindakan preventif.</li>
+                  <li>Melakuan analisis resiko keamanan dalam cakupan system secara menyeluruh.</li>
+                  <li>Membuat dokumentasi security yang akurat.</li>
+                </ul>
+              </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
