@@ -297,7 +297,7 @@
                       <p>Website & Web System & Aplikasi Mobile</p>
                     </div>
                     <p class="card-title">JBA Indonesia</p>
-                    <p class="card-content">Online Auction System</p>
+                    <p class="card-content"><strong>LOGIQUE</strong> mendukung penuh digitalisasi perusahaan lelang otomotif no.1 di Indonesia</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
@@ -364,7 +364,7 @@
                         <p>Web App</p>
                       </div>
                       <p class="card-title">Klikhoreca</p>
-                      <p class="card-content">Progressive Web App</p>
+                      <p class="card-content">Pengembangan teknologi PWA pada Online Shop memberi pengalaman baru dalam berbelanja</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>

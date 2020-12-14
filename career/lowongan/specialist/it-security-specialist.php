@@ -153,39 +153,16 @@
                 <p>Maka, Andalah talenta yang cocok untuk bergabung bersama kami.</p><br>
                 <p>Selain melakukan pekerjaan secara profesional dalam proses penilaian, pengujian dan konsultasi terkait IT Security, Anda juga akan turut berpartisipasi dalam aktivitas pra-penjualan dan berkolaborasi dengan tim marketing kami. Oleh karena itu, kemampuan yang baik dalam berkomunikasi juga sangat kami butuhkan untuk posisi ini.</p>
               </div>
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience</h3>
+              <div class="career-requirement">
+                <h3 class="section-title">Apa yang bisa Anda dapatkan</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki gelar minimal S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.
-                  </li>
-                  <li>
-                    Tersertifikasi sebagai CEH (Certified Ethical Hacker) dan CSCU (Certified Secure Computer User) dari
-                    EC-Coucil.
-                  </li>
-                  <li>
-                    Memiliki kemampuan teknikal yang mendalam dibidang information security architecture dan penetration
-                    testing.
-                  </li>
-                  <li>
-                    Dapat melakukan dokumentasi dan presentasi laporan dengan baik.
-                  </li>
-                  <li>
-                    Terbiasa melakukan pengujian.
-                  </li>
-                  <li>
-                    Memiliki pemahaman dan pengalaman yang mendalam tentang penggunaan berbagai jenis pengujian
-                    penetrasi atau threat modelling tools termasuk open source dan commercial mapping.
-                  </li>
-                  <li>
-                    Berpengalaman dalam bidang pengujian penetrasi sistem, aplikasi web-based, dan jaringan.
-                  </li>
-                  <li>
-                    Dapat bekerja secara independen dalam sebuah tim.
-                  </li>
+                  <li>Anda memiliki kesempatan untuk dapat terus mengembangkan kemampuan sebagai seorang IT Security Specialist. Logique memiliki beragam proyek yang berkaitan dengan Security Test, dimana Anda dapat terlibat langsung didalamnya dan menjadi sarana untuk meningkatkan kemampuan diri.</li>
+                  <li>Logique memiliki banyak proposal dan permintaan terkait proyek IT Security. Dengan demikian, Anda pun memiliki kesempatan untuk dapat menambah pengalaman dalam menangani setiap aktivitas pra-penjualan yang terkait dengan proyek-proyek tersebut. </li>
+                  <li>Anda juga bisa memperoleh kesempatan untuk menjadi key person dalam setiap proyek kami. Anda dapat bekerja secara mandiri dan dapat melakukan pekerjaan dengan metode kerja Anda sendiri, selama hasil pekerjaan Anda efektif.</li>
+                  <li>Kami memiliki banyak proyek pengembangan Web/Aplikasi/Sistem. Dengan bergabung bersama kami, Anda akan memiliki banyak kesempatan untuk mengasah keterampilan di bidang IT Security melalui proyek-proyek yang kami miliki.</li>
                 </ul>
               </div>
-              <div class="career-requirement">
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">Required Skill</h3>
                 <ul class="career-list">
                   <li>
@@ -217,12 +194,40 @@
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Apa yang bisa Anda dapatkan</h3>
+                <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>Anda memiliki kesempatan untuk dapat terus mengembangkan kemampuan sebagai seorang IT Security Specialist. Logique memiliki beragam proyek yang berkaitan dengan Security Test, dimana Anda dapat terlibat langsung didalamnya dan menjadi sarana untuk meningkatkan kemampuan diri.</li>
-                  <li>Logique memiliki banyak proposal dan permintaan terkait proyek IT Security. Dengan demikian, Anda pun memiliki kesempatan untuk dapat menambah pengalaman dalam menangani setiap aktivitas pra-penjualan yang terkait dengan proyek-proyek tersebut. </li>
-                  <li>Anda juga bisa memperoleh kesempatan untuk menjadi key person dalam setiap proyek kami. Anda dapat bekerja secara mandiri dan dapat melakukan pekerjaan dengan metode kerja Anda sendiri, selama hasil pekerjaan Anda efektif.</li>
-                  <li>Kami memiliki banyak proyek pengembangan Web/Aplikasi/Sistem. Dengan bergabung bersama kami, Anda akan memiliki banyak kesempatan untuk mengasah keterampilan di bidang IT Security melalui proyek-proyek yang kami miliki.</li>
+                  <li>Merencanakan dan mengeksekusi VATest / Pentest terhadap jaringan, server, web aplikasi / API, dan mobile apps.</li>
+                  <li>Mengevaluasi hasil VATest / Pentest, memberikan rekomendasi sesuai best practice, serta membuat laporan resmi kepada management.</li>
+                  <li>Memberikan layanan konsultasi dalam analisis dan implementasi keamanan cyber untuk klien.</li>
+                  <li>Melakukan riset serta studi dari berbagai sumber secara berkelanjutan serta meremomendasikan tindakan preventif.</li>
+                  <li>Melakuan analisis resiko keamanan dalam cakupan system secara menyeluruh.</li>
+                  <li>Membuat dokumentasi security yang akurat.</li>
+                </ul>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Must Skill/Experience</h3>
+                <ul class="career-list">
+                  <li>Memiliki gelar minimal S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.</li>
+                  <li>Tersertifikasi sebagai CEH (Certified Ethical Hacker) dan CSCU (Certified Secure Computer User) dari EC-Coucil.</li>
+                  <li>Memiliki kemampuan teknikal yang mendalam dibidang information security architecture dan penetration testing.</li>
+                  <li>Dapat melakukan dokumentasi dan presentasi laporan dengan baik.</li>
+                  <li>Terbiasa melakukan pengujian.</li>
+                  <li>Memiliki pemahaman dan pengalaman yang mendalam tentang penggunaan berbagai jenis pengujian penetrasi atau threat modelling tools termasuk open source dan commercial mapping.</li>
+                  <li>Berpengalaman dalam bidang pengujian penetrasi sistem, aplikasi web-based, dan jaringan.</li>
+                  <li>Dapat bekerja secara independen dalam sebuah tim.</li>
+                </ul>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Must Skill/Experience</h3>
+                <ul class="career-list">
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
+                  <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">
