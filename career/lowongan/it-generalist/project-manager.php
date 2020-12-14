@@ -6,20 +6,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Lowongan kerja Consultant / Project Manager terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
+    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Project Manager. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, project manager, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja Consultant / Project Manager Terbaru Jakarta | LOGIQUE">
+  <meta property="og:title" content="Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Lowongan kerja Consultant / Project Manager terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
+    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Project Manager. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/it-generalist/project-manager.php" />
-  <title>Lowongan Kerja Consultant / Project Manager Terbaru Jakarta | LOGIQUE</title>
+  <title>Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

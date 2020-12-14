@@ -190,7 +190,7 @@
       <a href="/career/lowongan/programmer/product-developer.php"><li>Product Developer</li></a>
       <!-- <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a> -->
       <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS / Vue JS Developer</li></a>
-      <a href="/career/lowongan/programmer/web-developer.php"><li>PHP Developer</li></a>
+      <a href="/career/lowongan/programmer/web-developer.php"><li>Web Developer</li></a>
     </ul>
   </div>
   <div class="mega-menu__item">
@@ -212,7 +212,7 @@
     <ul class="mega-menu__list">
       <a href="/career/lowongan/specialist/devops.php"><li>Devops Engineer</li></a>
       <a href="/career/lowongan/specialist/it-security-specialist.php"><li>IT Security Specialist</li></a>
-      <a href="/career/lowongan/specialist/quality-assurance.php"><li>QA Engineer (Software)</li></a>
+      <a href="/career/lowongan/specialist/quality-assurance.php"><li>Quality Assurance Engineer (Software)</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/digitalmarketing/" class="mega-menu__title">
