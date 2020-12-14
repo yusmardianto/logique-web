@@ -386,7 +386,10 @@ input.form-control.h--50px {
 }
 
 @media (max-width: 992.98px) {
-    /* heder */
+    /* header */
+    .service .service-pwa__header {
+        min-height: unset;
+    }
     .service .service-pwa__header .header__img img {
         display: none;
     }
