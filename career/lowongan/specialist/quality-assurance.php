@@ -138,7 +138,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>QA Engineer memiliki peranan penting dalam pembuatan sebuah sistem aplikasi untuk melakukan testing mulai dari alur sistem, desain, sampai hasil akhir aplikasi sehingga aplikasi yang di hasilkan bisa berjalan dengan maksimal. QA Engineer juga akan berkolaborasi dengan departemen lain seperti UI/UX designer, PHP Developer, serta Project Manager. </p>
+                <p><span class="fs-24 line-height-1">QA Engineer</span> memiliki peranan penting dalam pembuatan sebuah sistem aplikasi untuk melakukan testing mulai dari alur sistem, desain, sampai hasil akhir aplikasi sehingga aplikasi yang di hasilkan bisa berjalan dengan maksimal. QA Engineer juga akan berkolaborasi dengan departemen lain seperti UI/UX designer, PHP Developer, serta Project Manager. </p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Talenta Yang Kami Cari </h3>
