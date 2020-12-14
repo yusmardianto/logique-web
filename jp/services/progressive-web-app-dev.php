@@ -1,102 +1,104 @@
 ﻿<!DOCTYPE html>
-<html lang="id">
+<html lang="ja">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUE dapat membantu mengevaluasi sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
-    <meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
+    <meta name="description"
+        content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
+    <meta name="keywords" content="">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Penetration Test | Keamanan website | LOGIQUE Digital Indonesia">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <meta itemprop="name" content="PT. Logique Digital Indonesia">
+      <meta property="og:title" content="インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php">
+    <meta property="og:url" content="https://www.logique.co.id/jp/services/progressive-web-app-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="LOGIQUE dapat membantu meningkatkan sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Jasa Pembuatan Progressive Web App (PWA) | LOGIQUE Digital Indonesia</title>
+    <meta property="og:description"
+        content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
+    <title>インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/../css/style.css" rel="stylesheet">
-    <link href="assets/css/style-pwa.css" rel="stylesheet">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php" />
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
-    <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
-        <!-- Google Tag Manager -->
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
-        <!-- End Google Tag Manager -->
-    <?php } ?>
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/layanan/assets/css/style-pwa.css" rel="stylesheet">
+    <link href="./assets/css/style-pwa-jp.css" rel="stylesheet">
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/progressive-web-app-dev.php" />
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet"> -->
+    <!-- <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-105878648-1', 'auto');
+	ga('send', 'pageview');
+
+	</script> -->
 </head>
 
-<body class="wrapper wrapper--update-design">
-    <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?> 
-        <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <!-- End Google Tag Manager (noscript) -->
-    <?php } ?>
+<body class="wrapper wrapper--update-design jp-page">
 
     <!-- NAVIGATION -->
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar first"></span>
-        <span class="icon-bar second"></span>
-        <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-        <div class="backdrop-test"></div>
-        <div class="logique-nav logique-nav--update">
-            <div class="margin-for-nav">
-                <div class="text-center">
-                    <a href="/index.php">
-                        <div class="img-home"></div>
-                        Beranda
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/logique.php">
-                        <div class="img-about"></div>
-                        Tentang Kami
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/portofolio.php">
-                        <div class="img-portfolio"></div>
-                        Portfolio
-                    </a>
-                </div>
-                <div class="text-center active">
-                    <a href="/layanan.php">
-                        <div class="img-services"></div>
-                        Layanan
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/produk.php">
-                        <div class="img-product"></div>
-                        Produk
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/career/">
-                        <div class="img-career"></div>
-                        Karir
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/hubungi-kami.php">
-                        <div class="img-contact"></div>
-                        Hubungi Kami
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                        <div class="img-blog"></div>
-                        Blog
-                    </a>
+    <div>
+        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
+            data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar first"></span>
+            <span class="icon-bar second"></span>
+            <span class="icon-bar third"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <div class="backdrop-test"></div>
+            <div class="logique-nav logique-nav--update in-jp">
+                <div class="margin-for-nav">
+                    <div class="text-center">
+                        <a href="/jp/index.php">
+                            <div class="img-home"></div>
+                            Home
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/logique.php">
+                            <div class="img-about"></div>
+                            会社概要
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/portfolio.php">
+                            <div class="img-portfolio"></div>
+                            制作実績
+                        </a>
+                    </div>
+                    <div class="text-center active">
+                        <a href="/jp/services.php">
+                            <div class="img-services"></div>
+                            サービス
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/product.php">
+                            <div class="img-product"></div>
+                            プロダクト
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/career/">
+                            <div class="img-career"></div>
+                            採用/<br>パートナー
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="/jp/contact.php">
+                            <div class="img-contact"></div>
+                            お問い合わせ
+                        </a>
+                    </div>
+                    <div class="text-center">
+                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
+                            <div class="img-blog"></div>
+                            Blog
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -109,11 +111,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9">
-                        <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" loading="lazy" /></a>
+                        <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" loading="lazy" /></a>
                         <ul class="list-inline">
                             <li><a href="#">EN</a></li>
-                            <li class="active"><a href="#">ID</a></li>
-                            <li><a href="/jp/services/progressive-web-app-dev.php">JP</a></li>
+                            <li><a href="/layanan/pembuatan-progressive-web-app.php">ID</a></li>
+                            <li class="active"><a href="#">JP</a></li>
                         </ul>
                     </div>
                 </div>
@@ -133,15 +135,15 @@
                                 <div class="col-sm-12">
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/index.php"><span itemprop="name">Beranda</span></a>
+                                            <a itemprop="item" href="/index.php"><span itemprop="name">ホーム</span></a>
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
+                                            <a itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item"><span itemprop="name">&nbsp;Pembuatan Progressive Web App (PWA)</span></a>
+                                            <a itemprop="item"><span itemprop="name">&nbsp;PWA開発</span></a>
                                             <meta itemprop="position" content="3" />
                                         </li>
                                     </ol>
@@ -153,8 +155,8 @@
                 <div class="container__">
                     <div class="row">
                         <div class="col-md-7 header__title">
-                            <h1 class="fs--32px">Jasa Pembuatan Progressive Web App (PWA) Terbaik</h1>
-                            <p>LOGIQUE Digital Indonesia adalah salah satu pengembang Progressive Web App / PWA terbaik di Jakarta. Kami memiliki team yang profesional, berpengalaman dan memiliki kemampuan terbaik pada bidangnya masing-masing. Seluruh proyek yang kami kerjakan dapat selesai sesuai target dan waktu yang telah ditentukan.</p>
+                            <h1 class="fs--32px">PWA (Progressive Web Application) 開発サービス</h1>
+                            <p>LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。</p>
                         </div>
                         <div class="col-md-5 header__img">
                             <picture>
@@ -166,7 +168,7 @@
                 </div>
             </div>
         </section>
-    
+
         <section class="mb--60px service-pwa__contact">
             <div class="py--20px content-wrapper__">
                 <div class="container__">
@@ -175,15 +177,15 @@
                             <div class="d-flex align-items-center">
                                 <picture>
                                     <source srcset="/layanan/assets/img/img-pwa/icon/icon-contact.svg">
-                                    <img src="/layanan/assets/img/img-pwa/icon/icon-contact.png" alt="hubungi kami" class="img-responsive pr--10px ml--30px">
+                                    <img src="/layanan/assets/img/img-pwa/icon/icon-contact.png" alt="hubungi kami" class="img-responsive ml--30px">
                                 </picture>
-                                <p class="">Konsultasikan kebutuhan Anda <br>dan dapatkan solusi terbaik bersama <span class="ff--novocento-bold">LOGIQUE</span></p>        
+                                <p class="pl--10px">PWA（Progressive Web App）開発に関する無料コンサルテーションはこちらからリクエストください</p>        
                             </div>
                         </div>
                         <div class="col-xs-12 col-md-6">
                             <div class="row row--flex justify-content-center">
                                 <div class="col-sm-4 col-md-6">
-                                    <a href="/hubungi-kami.php" class="form-control btn btn--yellow">KONTAK KAMI</a>
+                                    <a href="/hubungi-kami.php" class="form-control btn btn--yellow">お問い合わせ</a>
                                 </div>
                             </div>
                         </div>
@@ -196,12 +198,13 @@
         <section class="mb--60px">
             <div class="content-wrapper__">
                 <div class="container__">
-                    <p class="mb--60px">Melalui pengalaman dan jam terbang yang tinggi dalam pembuatan dan pengembangan website dan aplikasi, serta senantiasa mengusung teknologi terkini dalam setiap pengembangan proyek yang dilakukan, bukanlah suatu hal yang mustahil bagi LOGIQUE untuk mengembangkan Progressive Web App (PWA) terbaik untuk Bisnis Anda.</p>
+                    <p class="mb--60px">長年、インドネシアでお客様のWebサイト、Webシステム、モバイルアプリケーションを制作＆運用して参りました。近年特に力をいれているのがPWA開発サービスです。モバイルアプリの欠点を新しいWebテクノロジーで補うユーザーにも運用事業者にもメリットの大きいテクノロジーです。プッシュ通知もスマホへのホームボタンの設置も可能なWebアプリケーションです。</p>
 
                     <div class="row row--flex">
                         <div class="col-xs-12 col-md-6">
-                            <h3 class="main-title main-title--with-border-line">Apa itu Progressive Web App ?</h3>
-                            <p class="mb--20px">Progressive Web App adalah sebuah teknologi yang akan membuat situs website perusahaan Anda bekerja seperti aplikasi native pada umumnya. Pelanggan dapat mengoperasikan website ini seperti ketika mereka menggunakan aplikasi seluler, sehingga akan memberikan user experience yang lebih baik. Pelanggan juga dapat menginstal situs web perusahaan Anda ke halaman home screen perangkat mobile mereka tanpa harus khawatir dengan data storage yang besar karena PWA hanya membutuhkan kapasitas yang kecil. </p>
+                            <h3 class="main-title main-title--with-border-line">PWA（Progressive Web App）とは？</h3>
+                            <p class="mb--10px">PWA（プログレッシブ・ウェブ・アプリケーション）とは、Mobile（スマホ）ネイティブアプリかのように動作するけれどWebブラウザから利用することができるWebアプリ。マルチOSプラットフォームで動作可能で、同一コードでデスクトップでもスマホでもタブレットでも動作するアプリとできる。Webブラウザの機能拡張により端末のカメラやGPSなどにアクセスするAPIが利用可能となった。アプリストアの審査承認に悩まされることなく、プッシュ通知も行え、オフラインでも利用可能な高速パフォーマンスのアプリとなる。</p>
+                            <p class="mb--20px">GoogleがWebアプリ内のコンテンツをクロール可能なのでGoogle検索からの新規流入、ユーザー獲得の観点でもメリットがある。</p>
                         </div>
                         <div class="col-xs-12 col-md-6 align-self-end">
                             <picture>
@@ -218,7 +221,7 @@
             <div class="content-wrapper__">
                 <div class="container__">
                     <div class="">
-                        <h3 class="mb--40px main-title main-title--with-square-point">Karakteristik PWA</h3>
+                        <h3 class="mb--40px main-title main-title--with-square-point">PWAの特徴</h3>
                         <div class="mb--60px row row--flex align-items-center character__character-list">
                             <div class="col-xs-12 col-md-8">
 
@@ -226,47 +229,47 @@
                                     <li class="active">
                                         <a href="#character_discoverable" data-toggle="tab" data-illustration="discoverable" aria-selected="true">
                                             <h4 class="fs--16px fw--900">Discoverable</h4>
-                                            <p class="fs--14px">Konten di dalam PWA dapat ditemukan di halaman search engine</p>
+                                            <p class="fs--14px">アプリ内コンテンツが検索エンジンの対象結果となるので新規ビジターの流入を期待できる</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_linkable" data-toggle="tab" data-illustration="linkable">
                                             <h4 class="fs--16px fw--900">Linkable</h4>
-                                            <p class="fs--14px">Mudah dibagikan melalui link URL</p>
+                                            <p class="fs--14px">アプリ内コンテンツに直接外部からリンク可能</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_independent" data-toggle="tab" data-illustration="independent">
                                             <h4 class="fs--16px fw--900">Network independent</h4>
-                                            <p class="fs--14px">Tetap dapat diakses secara offline atau dengan koneksi internet yang buruk</p>
+                                            <p class="fs--14px">キャッシュの管理機能が豊富でオフラインでも動作可能とすることができる</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_installable" data-toggle="tab" data-illustration="installable">
                                             <h4 class="fs--16px fw--900">Installable</h4>
-                                            <p class="fs--14px">PWA dapat ditampilkan pada home screen perangkat Anda.</p>
+                                            <p class="fs--14px">アプリストアを介さずWebサイトから直接のインストールが可能</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_re_engageable" data-toggle="tab" data-illustration="re-engageable">
                                             <h4 class="fs--16px fw--900">Re-engageable</h4>
-                                            <p class="fs--14px">Meningkatkan keterlibatan dengan pengguna karena memiliki kemampuan untuk mengirim notifikasi pemberitahuan ketika ada informasi atau konten baru.</p>
+                                            <p class="fs--14px">ホーム画面にアイコン置け、新着情報をプッシュ通知することでユーザーの再訪を促せる</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_responsive" data-toggle="tab" data-illustration="linkable">
                                             <h4 class="fs--16px fw--900">Responsive </h4>
-                                            <p class="fs--14px">Dapat berfungsi dengan baik di perangkat apapun dengan berbagai ukuran layar.</p>
+                                            <p class="fs--14px">PWAにCompatibleなブラウザが動作しさえすれば利用対象デバイス（サイズ）を制限しない</p>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#character_safe" data-toggle="tab" data-illustration="linkable">
                                             <h4 class="fs--16px fw--900">Safe</h4>
-                                            <p class="fs--14px">Menggunakan protokol HTTPS sehingga dapat menghindari akses dari pihak yang tidak sah.</p>
+                                            <p class="fs--14px">https化された暗号通信を行うため通信の盗聴を防ぐことが可能</p>
                                         </a>
                                     </li>
                                 </ul>
-    
+
                             </div>
                             <div class="col-xs-12 col-md-4 character-list__image">
                                 <div class="tab-content">
@@ -304,16 +307,16 @@
                     </div>
 
                     <div class="">
-                        <h3 class="mb--40px main-title main-title--with-square-point">Keuntungan yang diperoleh dari pengembangan Progressive Web App</h3>
+                        <h3 class="mb--40px main-title main-title--with-square-point">アプリをPWAとして実装することで得られるメリット</h3>
 
                         <ul class="list-unstyled character__list-benefit">
-                            <li>Meningkatkan jumlah web visitor</li>
-                            <li>Meningkatkan user experience</li>
-                            <li>Meningkatkan engagement dengan pelanggan</li>
-                            <li>Membuat akses menuju website Anda lebih cepat</li>
-                            <li>Meningkatkan konversi yang lebih tinggi</li>
-                            <li>Dapat bekerja dengan baik sebagai alat pemasaran produk dan jasa Anda</li>
-                            <li>Ramah terhadap penyimpanan dan bandwidth</li>
+                            <li>訪問者数/ユーザー数を増やせる</li>
+                            <li>UXを適切に設計可能</li>
+                            <li>ユーザーとのエンゲージメントを高められる</li>
+                            <li>マルチプラットフォーム</li>
+                            <li>インストール障壁を下げられる</li>
+                            <li>アプリのメンテナンスコストを削減可能</li>
+                            <li>ユーザーや対象デバイスを選ばない</li>
                         </ul>
                     </div>
                 </div>
@@ -324,47 +327,44 @@
             <div class="content-wrapper__">
                 <div class="container__">
                     <div class="mb--60px">
-                        <h3 class="main-title main-title--with-border-line">Mengapa Memilih <span class="ff--novocento-bold">LOGIQUE</span> Untuk Pengembangan PWA Anda?</h3>
-                        <p class="pb--20px"><span class="ff--novocento-bold">LOGIQUE</span> memiliki tim Profesional yang terdiri dari IT specialist dengan kemampuan terbaik pada bidangnya masing-masing. Setiap anggota tim mampu bekerja dan berkoordinasi secara baik dalam menangani setiap proyek yang telah kami kerjakan selama ini.</p>
-                        <p class="pb--20px">Selain memiliki kemampuan terbaik, tim kami juga memiliki motivasi kerja yang sangat tinggi untuk dapat menyelesaikan setiap proyek dalam jangka waktu yang telah ditentukan.</p>
-                        <p class="pb--20px">Melalui Pengalaman yang kami miliki dalam pengembagan sebuah PWA, kami sangat yakin untuk dapat memenuhi setiap detail kebutuhan bisnis Anda.</p>
+                        <h3 class="main-title main-title--with-border-line">PWA開発は<span class="ff--novocento-bold">LOGIQUE</span>にお任せください</h3>
+                        <p class="pb--20px">LOGIQUEは早くからPWA開発に力を入れてきました。2019年にはインドネシアで2社しかいないGoogleに認定されたPWAデベロッパーのうちの1社となりました。E-CommerceやE-Learning開発プロジェクトでPWA開発を経験してきました。ネイティブアプリやWebシステムからPWAへの作り替えも多く経験しています。</p>
+                        <p class="pb--20px">社内にPWA開発の経験が豊富なエンジニアを多く保有していますのでPWAの企画から運用まで安心してお任せいただけます。通常アジャイルでMVPをリーンに作り上げていくスタイルで開発します。</p>
                     </div>
 
                     <div class="mb--40px">
-                        <h3 class="main-title main-title--with-border-line">Bagaimana <span class="ff--novocento-bold">LOGIQUE</span> Mengerjakan Proyek Anda</h3>
-                        <p class=""><span class="ff--novocento-bold">LOGIQUE</span> memilih metode Agile Development dalam setiap proyek yang dilakukan. Metodologi ini akan mengacu pada gagasan pengembangan berulang atau dikenal dengan istilah sprint. Dengan metode ini, tim kami akan senantiasa berkolaborasi dengan tim Anda agar output yang dihasilkan sesuai harapan.</p>
+                        <h3 class="main-title main-title--with-border-line"><span class="ff--novocento-bold">LOGIQUE</span>のPWA開発</h3>
+                        <p class="">スピーディーでリーンな開発をし、ユーザーの声を早く聞き、製品を適切に素早くアップデートしていくために、アジャイル開発します。要件定義だけで数ヶ月もかかってしまうようなことは避けたいです。開発スコープを最初に決めず投入した人月リソースに応じたご請求をする開発契約も経験あります。</p>
                     </div>
 
                     <div class="mb--60px">
                         <div class="row row--flex">
                             <div class="col-xs-12 col-md-6">
-                                <h3 class="my--20px fs--30px fw--900 text-center">AGILE METHOD</h3>
+                                <h3 class="my--20px fs--30px fw--900 text-center">アジャイル開発プロセス</h3>
                                 <picture>
                                     <!-- <source srcset="/layanan/assets/img/img-pwa/img-agile.svg"> -->
                                     <img src="/layanan/assets/img/img-pwa/img-agile.png" alt="" class="img-responsive mx--auto mb--30px">
                                 </picture>
                             </div>
                             <div class="col-xs-12 col-md-6">
-                                <h3 class="mb--20px main-title main-title--with-square-point">Alasan kami menggunakan metode ini:</h3>
+                                <h3 class="mb--20px main-title main-title--with-square-point"><span class="ff--novocento-bold">LOGIQUE</span>のPWA開発メソッド</h3>
                                 
                                 <ul class="pl--20px">
-                                    <li class="mb--10px">Kami memprioritaskan kepuasan klien</li>
-                                    <li class="mb--10px">Tim dapat beradaptasi dengan cepat terhadap setiap perubahan</li>
-                                    <li class="mb--10px">Tim developer kami selalu berkoordinasi dengan klien dalam pengerjaan proyek</li>
-                                    <li class="mb--10px">Memberikan perhatian pada keunggulan teknis dan desain</li>
-                                    <li class="mb--10px">Kecepatan pengembangan yang konstan</li>
-                                    <li class="mb--10px">Sederhana</li>
-                                    <li class="mb--10px">Tim harus mampu mengorganisir diri sendiri</li>
-                                    <li class="mb--10px">Secara berkala, tim akan melakukan evaluasi mengenai cara bekerja yang lebih efektif</li>
+                                    <li class="mb--10px">設計から開発までアジャイル型でプロジェクトを進めます</li>
+                                    <li class="mb--10px">スピードを最重要視</li>
+                                    <li class="mb--10px">スプリントを適切に回すことで遅れやスコープを管理</li>
+                                    <li class="mb--10px">アイデアからUIプロトタイプを作成し、PoCを行う</li>
+                                    <li class="mb--10px">MVPを作ってレビューを繰り返す</li>
+                                    <li class="mb--10px">改善・グロースハックもリーンに繰り返す</li>
+                                    <li class="mb--10px">評価、効果測定を正しく行い、方向転換も適切に</li>
                                 </ul>
                             </div>
                         </div>
                     </div>
 
                     <div class="mb--60px">
-                        <h3 class="main-title main-title--with-border-line">Teknologi yang Kami Gunakan</h3>
-                        <p><span class="ff--novocento-bold">LOGIQUE</span> sangat menguasai proses pengembangan PWA menggunakan framework <b></b> seperti: <b>React</b>, <b>Angular</b>, <b>Vue.js.</b></p>
-                        <p><span class="ff--novocento-bold">LOGIQUE</span> juga memiliki kemampuan untuk membangun sistem berskala besar dengan menggabungkan <b>Node.js</b> dan <b>Express.js</b>.</p>
+                        <h3 class="main-title main-title--with-border-line">技術的なアプローチ</h3>
+                        <p>ReactJSやAngular、Vue.jsなどJavaScriptフレームワークを使ってPWAのフロントエンド開発をします。Vue.jsを採用するプロジェクトが増えてきました。Node.jsやExpress.jsでサーバーサイド開発を行います。</p>
                     </div>
                 </div>
             </div>
@@ -374,7 +374,7 @@
             <div class="content-wrapper__">
                 <div class="container__">
                     <div class="pb--60px">
-                        <h3 class="main-title main-title--with-border-line">Proyek Pengembangan PWA Yang Telah Kami Kerjakan</h3>
+                        <h3 class="main-title main-title--with-border-line">PWAプロジェクト事例</h3>
                     </div>
 
                     <div class="mb--80px row row--flex project__item">
@@ -386,9 +386,8 @@
                         </div>
                         <div class="col-xs-12 col-sm-7 col-md-6">
                             <h3 class="my--20px main-title main-title--with-square-point">VIP PLAZA</h3>
-                            <p class="mb--20px">VIP Plaza merupakan salah satu perusahaan besar yang bergerak pada bidang fashion. Perusahaan ini mengembangkan teknologi PWA untuk memberikan kemudahan pada pelanggannya ketika mencari kebutuhan yang mereka cari seperti pakaian, sepatu, jam tangan, aksesori, dan lain-lain.</p>
-                            <p class="mb--20px">Dengan Progressive Web App, pelanggan VIP Plaza dapat berbelanja dengan mudah langsung dari perangkat selulernya. Pelanggan juga tidak perlu khawatir jika performa smartphone mereka menurun karena PWA yang terinstal di perangkat tidak akan menghabiskan data storage yang besar.</p>
-                            <p class="mb--20px">Setelah sistem PWA ini dikembangkan, VIP Plaza memperoleh peningkatan jumlah visitor. Selain itu, keuntungan bisnis juga mengalami peningkatan karena pengaplikasian teknologi ini.</p>
+                            <p class="mb--20px">VIPプラザはインドネシアのファッションE-Commerceの主要プレイヤーの1つです。 同社は、衣服、靴、時計、アクセサリーなどの製品を検索して購入際の顧客の利便性を向上するために、PWAテクノロジーの導入を模索し、LOGIQUEとともにそれを実現しました。</p>
+                            <p class="mb--20px">プログレッシブWebアプリを導入したことで、VIPプラザのお客様はデスクトップからでもモバイルデバイスからでも、タブレットでも、また、アンドロイドであってもiOSであっても簡単に買い物をすることができるようになりました。 新たなPWAは旧E-Commerceシステムと比べ、高速化を実現し、お客様は快適なショッピングを楽しむことができるようになりました。 PWAシステムの実装により、訪問者数と全体的な利益の増加に関して顕著な改善が見られました。</p>
                         </div>
                     </div>
 
@@ -396,9 +395,8 @@
                         <div class="col-xs-12 col-sm-7 col-md-6">
                             <h3 class="my--20px main-title main-title--with-square-point">Klikhoreca</h3>
 
-                            <p class="mb--20px">Klikhoreca adalah PWA yang dimiliki oleh PT. Sinar Horeca Sukses. </p>
-                            <p class="mb--20px">Klikhoreca merupakan PWA yang menyediakan beragam kebutuhan untuk memasak, mulai dari seafood mentah, sayur, buah, bumbu dapur, koe, roti, daging, dan lain-lain. Sebelumnya, perusahaan ini beroperasi secara offline, namun melihat perkembangan teknologi maka akhirnya perusahaan mengikuti tren pasar yang sedang berkembag dengan menyediakan PWA untuk berbelanja online.</p>
-                            <p class="mb--20px">Selain dapat memudahkan pelanggan untuk mencari kebutuhan dapur, sistem PWA Klikhoreca juga dipergunakan untuk menjangkau target pasar yang lebih luas. Karena dapat diakses dengan mudah baik melalui perangkat seluler atau pun desktop, siapa saja dapat mengakses dan mempergunakannya untuk membeli beragam kebutuhan memasak. Dari pengembangan PWA, Klikhoreca memperoleh lebih banyak kunjungan pada websitenya serta conversi yang lebih tinggi daripada sebelumnya.</p>
+                            <p class="mb--20px">Klikhorecaは、日用品（特にシーフード、野菜、果物、ハーブ、パン、肉などの生鮮食品）を扱うE-Commerceです。以前はオフラインで運営されていましたが、デジタル資産を開発する可能性と必要性​​を認識し、オンラインショッピングサービスにPWAを利用することで市場のトレンドに適応しました。</p>
+                            <p class="mb--20px">Klikhoreca PWAシステムは、顧客の買い物を容易にするだけでなく、より広いターゲット市場に到達するためにも使用されます。 モバイルデバイスまたはデスクトップから簡単にアクセスできるため、誰でもいつでもKlikhorecaが取り扱う生鮮食品を購入できます。 PWAの開発により、Klikhorecaは、PWAとともに十分なアクセスと高いコンバージョンとともに新規事業（オンライン販売）をスタートしました。</p>
                         </div>
                         <div class="col-xs-12 col-sm-5 col-md-6">
                             <picture>
@@ -416,7 +414,7 @@
                 <div class="container__">
                     <div class="row row--flex justify-content-center">
                         <div class="col-md-3">
-                            <a href="/portofolio.php" class="form-control btn btn--yellow">LIHAT POTFOLIO KAMI</a>
+                            <a href="/portofolio.php" class="form-control btn btn--yellow">ポートフォリオをみる</a>
                         </div>
                     </div>
                 </div>
@@ -496,9 +494,10 @@
     </div>
 
     <?php include '../footer.php'; ?>
-    <script async defer src='https://www.google.com/recaptcha/api.js'></script>
+
+    <!-- <script async defer src='https://www.google.com/recaptcha/api.js'></script> -->
     <!-- <script src="/js/bootstrap.min.js"></script> -->
-    <script src="assets/js/jquery.matchHeight.js"></script>
+    <!-- <script src="assets/js/jquery.matchHeight.js"></script> -->
     <script>
         // load js only when needed
         function lazyLoadJs(src) {
@@ -514,7 +513,7 @@
         // trigger scrip lazyload
         $(".character-list__list a[data-toggle='tab']").on("show.bs.tab", function() {
             const animation_name = $(this).data("illustration");
-            const animation_src = `assets/js/js-pwa-${animation_name}.js`;
+            const animation_src = `/layanan/assets/js/js-pwa-${animation_name}.js`;
 
             const check_script = $('script').filter(function () {
                 return ($(this).attr('src') == animation_src);
@@ -526,7 +525,8 @@
             }
         })
     </script>
-    <script src="assets/js/js-pwa-discoverable.js"></script>
+    <script src="/layanan/assets/js/js-pwa-discoverable.js"></script>
+
 </body>
 
 </html>

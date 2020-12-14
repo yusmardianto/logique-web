@@ -195,7 +195,7 @@ footer {
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/slick.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
+<!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 $('.map-container')
     .click(function() {

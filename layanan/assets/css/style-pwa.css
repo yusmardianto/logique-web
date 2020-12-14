@@ -14,6 +14,7 @@
     font-display: swap;
 }
 /* common */
+*,
 body {
     font-family: Montserrat, sans-serif;
 }
@@ -171,6 +172,9 @@ body {
     padding-right: 10px;
 }
 
+.pl--10px {
+    padding-left: 10px;
+}
 .pl--20px {
     padding-left: 20px;
 }
@@ -223,6 +227,7 @@ input.form-control.h--50px {
 /* header */
 .service .service-pwa__header {
     background: url("../img/img-pwa/bg-banner.jpg") center/cover no-repeat;
+    min-height: 410px;
 }
 
 .service .service-pwa__header .header__img {
