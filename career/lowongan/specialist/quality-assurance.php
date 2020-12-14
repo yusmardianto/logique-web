@@ -23,10 +23,10 @@
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -97,7 +97,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Quality Assurance Engineer (Software)</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; QA Engineer (Software)</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -107,7 +107,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Quality Assurance Engineer (Software)</h1>
+              <h1 class="header__title">QA Engineer (Software)</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -138,39 +138,36 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
+                <p>QA Engineer memiliki peranan penting dalam pembuatan sebuah sistem aplikasi untuk melakukan testing mulai dari alur sistem, desain, sampai hasil akhir aplikasi sehingga aplikasi yang di hasilkan bisa berjalan dengan maksimal. QA Engineer juga akan berkolaborasi dengan departemen lain seperti UI/UX designer, PHP Developer, serta Project Manager. </p>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Talenta Yang Kami Cari </h3>
+                <p class="mb--15">Logique mencari seorang yang memiliki pengalaman dan juga open minded di bidang Software Quality Assurance. Karena seorang yang open minded akan terbuka untuk mempelajari hal-hal yang baru dan diharapkan dapat memberikan kontribusi positif untuk menghasilkan produk software yang baik.</p>
+                <p>Jika Anda memiliki karakteristik:</p>
+                <ul class="career-list">
+                  <li>Professional</li>
+                  <li>Mandiri</li>
+                  <li>Self-Driven</li>
+                  <li>Perfeksionis</li>
+                  <li>Logis dalam berpikir</li>
+                </ul>
+                <p class="mb--15">Maka, Andalah talenta yang cocok untuk bergabung dengan kami. </p>
+                <p>Pekerjaan Anda meliputi pengujian system aplikasi yang akan berkaitan erat juga dengan pengujian system keamanan sehingga bisa menghasilkan aplikasi dengan kualitas yang baik dan juga terpercaya. Anda juga diharapkan mempunyai mindset pengujian, analisa yang baik, serta kemampuan komunikasi yang baik.</p>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Apa yang bisa Anda dapatkan</h3>
+                <p class="mb--15">Di Logique Anda dapat mengembangkan karir dan kemampuan yang Anda miliki dengan fasilitas yang dapat Kami berikan terkait dengan project yang kami lakukan. Anda akan terlibat secara langsung dalam proyek-proyek untuk client kami yang berada di Indonesia tetapi juga client internasional yang kami miliki.</p>
+                <p class="mb--15">Anda juga bisa mendapatkan kesempatan menjadi pihak utama dalam proyek kami. Anda dapat bekerja secara mandiri, dan Anda dapat melakukan pekerjaan Anda dengan gaya kerja Anda sendiri selama hasil pekerjaan Anda efektif.</p>
+                <p class="mb--15">Kami memiliki banyak proyek pengembangan Web/Aplikasi/Sistem. Dengan bergabung dengan kami. Anda akan memiliki banyak kesempatan untuk mengasah keterampilan Anda di bidang IT Quality Assurance dan juga mengejar karir Anda ke level selanjutnya.</p>
+              </div>
+              <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Mengembangkan dan memelihara pengujian skenario dan end user script untuk verifikasi fungsi yang
-                    diinginkan klien.
-                  </li>
-                  <li>
-                    Memastikan pengujian software atau aplikasi berbasis web agar berjalan dengan semestinya, dan
-                    mendokumentasikan bug serta mencari solusinya.
-                  </li>
-                  <li>
-                    Bertanggung jawab dalam perilisan software dan mendokumentasikan kebutuhan klien sehingga dapat
-                    terpenuhi dengan kualitas yang baik.
-                  </li>
-                  <li>
-                    Bertanggung jawab dalam pembentukan dan eksekusi sebuah pengujian, rencana pengujian, dan performa
-                    sebuah aplikasi.
-                  </li>
-                  <li>
-                    Bekerja sama dengan tim pengembangan untuk memahami hasil yang diharapkan dari proyek yang
-                    dikembangkan maupun yang sudah ada.
-                  </li>
-                  <li>
-                    Dapat memprioritaskan dan menjadwalkan pekerjaan, serta mengungkapkan masalah (bila diperlukan) ke
-                    tim pengembangan masing-masing.
-                  </li>
-                  <li>
-                    Mampu mempertahankan dan Meningkatkan SOP dalam - Manajemen Kepuasan Pelanggan.
-                  </li>
-                  <li>
-                    Mampu mengelola Pusat Bantuan, FAQ, dan Quality knowledge based untuk meningkatkan kualitas layanan
-                    bagi klien.
-                  </li>
+                  <li>Membantu <em>key PIC</em> dalam membuat <em>test plan</em>.</li>
+                  <li>Mengembangkan <em>test case</em> dan <em>test scenario</em> berdasarkan dokumen <em>business requirements</em> (BRD, SRS, dan FSD) dan <em>test plan</em>.</li>
+                  <li>Melakukan rangkaian proses testing (<em>functionaity test, integration test, smoke test, regression test</em>) pada aplikasi yang dikembangkan serta mendukung proses UAT di sisi <em>business users</em> (berdasarkan <em>test case</em> dan <em>test scenario</em> yang ada)</li>
+                  <li>Melakukan <em>performance test</em> sesuai dengan kebutuhan / <em>requirements</em>.</li>
+                  <li>Mendokumentasikan hasil test dan mampu mempresentasikan ke <em>department</em> terkait</li>
                 </ul>
               </div>
               <div class="career-requirement">
@@ -180,23 +177,22 @@
                     Min S1 dalam bidang Software Design, Engineering Computer Science atau setingkat.
                   </li>
                   <li>
-                    Memiliki pengetahuan tinggi mengenai metodologi software QA dan siklus QA (rencana/desain pengujian,
-                    pelacakan dan pelaporan bug).
+                    Memiliki pengalaman lebih dari 2 tahun di bidang yang sama
                   </li>
                   <li>
-                    Terbiasa menggunakan SQL Script seperti MySQL, Postgres, Linux, Windows.
+                    Memiliki pengetahuan yang mendalam mengenai metodologi software Quality Assurance dan siklus / rangkaian proses testing sebuah aplikasi.                  
                   </li>
                   <li>
-                    Terbiasa melakukan pengujian pada web dan mobile (iOS dan Android).
+                  	Terbiasa menggunakan SQL Script seperti MySQL, Postgres, Linux, Windows.                  
                   </li>
                   <li>
-                    Terbiasa menggunakan Git, JIRA, Mantis,TestRail, dan beberapa tools lain.
+                    Memiliki kemampuan dalam menganalisa hasil pemodelan di dalam dokumentasi <em>business requirements</em>.                   
                   </li>
                   <li>
-                    Memiliki pengalaman dalam bidang UI dan API Test.
+                  	Berpengalaman dalam melakukan testing pada aplikasi web, API dan mobile (iOS dan Android).                  
                   </li>
                   <li>
-                    Kemampuan analisis dan kuantitatif objektivitas kuat terhadap data dalam pengambilan keputusan.
+                  	Terbiasa menggunakan Git, JIRA, Mantis dan TestRail.
                   </li>
                   <li>
                     Pemahaman yang baik mengenai konsep software engineering.
@@ -212,14 +208,29 @@
                 <h3 class="section-title">Rewards dan Worthwhile</h3>
                 <ul class="career-list">
                   <li>
-                    Dengan jumlah project yang banyak, anda akan menemukan berbagai macam jenis masalah dalam konteks
-                    pengujian QA.
+                  	Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).
                   </li>
                   <li>
-                    Terlatih melakukan pemecahan masalah dengan efektif sesuai dengan kebutuhan dan masalah yang
-                    dihadapi.
+                  	Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.
                   </li>
-                  <li>Health Insurance.</li>
+                  <li>	
+                    Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.
+                  </li>
+                  <li>
+                  	Bonus kinerja bulanan (performance based).
+                  </li>
+                  <li>
+                    Berpeluang mendapatkan bonus overtime.                  
+                  </li>
+                  <li>
+                    Berpeluang mendapatkan insentif tambahan dari project yang tersedia 
+                  </li>
+                  <li>
+                  	Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.
+                  </li>
+                  <li>
+                  	Health Insurance untuk pegawai dan anggota keluarga.
+                  </li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">

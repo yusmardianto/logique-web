@@ -88,7 +88,7 @@
         <?php endif; ?>
 
         <?php if ($cat_vacancy === 'programmer'): ?>
-        <h2 class="section-title">Lowongan Programmer</h2>
+        <h2 class="section-title">Lowongan Kerja Programmer</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/product-developer.php"
