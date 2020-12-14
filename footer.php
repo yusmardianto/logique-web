@@ -74,6 +74,7 @@
                                         </ul>
                                     </li> 
                                     <li><a href="/portofolio.php">Portofolio</a></li> 
+                                    <li><a href="/case-study/">Studi Kasus</a></li> 
                                 </ul>
                             </div> 
                             <div class="col-sm-6 link-footer-nav">

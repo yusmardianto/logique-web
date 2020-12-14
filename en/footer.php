@@ -55,7 +55,8 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a href="/en/portfolio.php">Portfolio</a></li>                                    
+                                    <li><a href="/en/portfolio.php">Portfolio</a></li>      
+                                    <li><a href="/case-study/">Case Study</a></li>                               
                                    
                                 </ul>
                             </div> 

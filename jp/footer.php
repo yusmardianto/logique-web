@@ -147,6 +147,7 @@ footer {
                                         </ul> 
                                     </li>
                                     <li><a href="/jp/portfolio.php">制作開発実績</a></li>
+                                    <li><a href="/case-study/">事例紹介</a></li> 
                                     
                                 </ul>
                             </div> 
