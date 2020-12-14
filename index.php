@@ -361,7 +361,7 @@
                   <img src="/img/case-study-2.jpg" class="img-responsive case-item__img" alt="JBA Indonesia" loading="lazy">
                 </picture>
                 <h6>JBA Indonesia</h6>
-                <h4><strong>LOGIQUE</strong> mendukung penuh digitalisasi perusahaan lelang otomotif no.1 di Indonesia</h4>                
+                <h4>Online Auction System</h4>                
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
@@ -372,7 +372,7 @@
                   <img src="/img/case-study-klikhoreca.jpg" class="img-responsive case-item__img" alt="Klikhoreca"  loading="lazy">
                 </picture>
                 <h6>Klikhoreca</h6>
-                <h4>Pengembangan teknologi PWA pada Online Shop memberi pengalaman baru dalam berbelanja</h4>                
+                <h4>Progressive Web App</h4>                
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>

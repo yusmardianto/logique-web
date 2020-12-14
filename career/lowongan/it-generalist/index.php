@@ -6,21 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Lowongan kerja IT Generalist terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung bersama LOGIQUE. Apply Sekarang!">
+    content="LOGIQUE memberikan kesempatan kepada Anda untuk berkarir sebagai IT Generalis, seperti Project Manager, Product Manager, dan Business Analyst. Jika Anda tertarik untuk berkarir atau mengembangkan karir Anda sebagai IT Generalist, segera kunjungi halaman karir LOGIQUE.">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
-    content="Lowongan Kerja IT Generalist Terbaru Jakarta | LOGIQUE">
+    content="Lowongan Project Manager | Product Manager |  Business Analyst | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Lowongan kerja IT Generalist terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung bersama LOGIQUE. Apply Sekarang!">
+    content="LOGIQUE memberikan kesempatan kepada Anda untuk berkarir sebagai IT Generalis, seperti Project Manager, Product Manager, dan Business Analyst. Jika Anda tertarik untuk berkarir atau mengembangkan karir Anda sebagai IT Generalist, segera kunjungi halaman karir LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/it-generalist/" />  
-  <title>Lowongan Kerja IT Generalist Terbaru Jakarta | LOGIQUE</title>
+  <title>Lowongan Project Manager | Product Manager | Business Analyst | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
