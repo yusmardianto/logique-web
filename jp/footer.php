@@ -162,7 +162,7 @@ footer {
                                     </li>
                                     <li><a href="/career/">採用/パートナー (求人/インターン)</a></li>
                                     <li><a href="/jp/contact.php">お問い合わせ</a></li>  
-                                    <li><a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></li>
+                                    <li class="m-t-30px"><a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></li>
                                 </ul>
                             </div>
                         </div> 
