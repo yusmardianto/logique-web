@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: Novocento-Wide-Regular;
     src: url("../fonts/NovecentoWideBook.otf");
   }
@@ -21,9 +21,28 @@
 .novocentoMedium {
     font-family: Novocento-Wide-Medium, sans-serif !important;
     text-transform: uppercase;
+} */
+a, b, body, center, dd, div, em, h1, h2, h3, h4, h5, h6, html, i, iframe, img, label, li, menu, nav, ol, p, section, span, strong, th, tr, u, ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1.7;
+    font-size: inherit;
+}
+.container__ {
+    width: unset;
+}
+@media (min-width: 1200px) {
+    .container__ {
+        width: 1075px;
+    }
+}
+footer * {
+    font-size: 14px;
 }
 #bgImg .img {
-    background-image: url('../img/bg.png');
+    background: url('../img/bg.jpg') center/cover no-repeat;
+    background-image: url('../img/bg.webp');
 }
 [class*='update-design'].wrapper--update-design-font .content-wrapper__ {
     margin-left: 0;
@@ -196,9 +215,9 @@
     .case-study .pill-container .filter-button {
         width: 156px;
     }
-    .top-only #bgImg {
+    /* .top-only #bgImg {
         width: 106%;
-    }
+    } */
     .case-study .card-container .img-container img {
        width: 100%;
     } 
@@ -222,7 +241,8 @@
         height: 45px;
     }
     .content-wrapper__.bg--footer.footer-section {
-        width: 106%;
+        /* width: 106%; */
+        padding-left: 15px;
     }
     .dm__links .links__item > div {
         padding-top: 80% !important;
@@ -234,7 +254,7 @@
         font-size: 14px !important;
     }
 }
-@media (max-width: 768px) {
+@media (max-width: 767.98px) {
     .top-only #bgImg {
         height: auto;
         margin-top: 10rem;
@@ -261,7 +281,8 @@
     }
     .case-study .card-container .col-xs-12 {
         height: auto;
-        flex: 1 50%;
+        flex: 1 100%;
+        max-width: 100%;
     }
     .case-study .contact-container p.contact-title {
         font-size: 18px;
@@ -330,6 +351,7 @@
     .case-study .card-container .col-xs-12 {
         height: auto;
         flex: 1 100%;
+        max-width: 100%;
     }
     .case-study .contact-container p.contact-title {
         /* font-size: 13px; */

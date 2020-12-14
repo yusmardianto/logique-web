@@ -3,7 +3,7 @@
 	ini_set('display_error', 0);
 ?>
 <!DOCTYPE html>
-<html lang="id" style="overflow-x: hidden;">
+<html lang="id">
 
 <head>
   <meta charset="utf-8">
@@ -78,11 +78,14 @@
   </noscript>
 
   <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
   <link  rel="stylesheet preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="assets/css/bootstrap.min.css"></noscript>
 
-  <link href="assets/css/style.css" rel="stylesheet">
+  <!-- <link href="assets/css/style.css" rel="stylesheet"> -->
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/newstyle.css" rel="stylesheet">
   <link href="assets/css/style-custom.css" rel="stylesheet">
   <!-- <link href="css/slick.css" rel="stylesheet">
   <link href="css/slick-theme.css" rel="stylesheet">  
@@ -142,7 +145,7 @@
     }
   </style>
   <?//php include './popup.php'; ?>
-  <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
+  <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only">
     <!-- NAVIGATION -->
     <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
       data-toggle="collapse" data-target="#myNavbar">
@@ -208,19 +211,16 @@
     <!-- END NAVIGATION -->
 
     <div class="container-fluid">
-
-      <div class="row lang-logo--update-design">
+      <div class="lang-logo--update-design">
         <div class="container">
           <div class="row">
-            <div class="col-sm-12">
-              <div class="container">
-                <a href="/"><img src="assets/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                <ul class="list-inline">
-                  <!-- <li><a href="en/index.php">EN</a></li> -->
-                  <li class="active"><a href="#">ID</a></li>
-                  <!-- <li><a href="jp/index.php">JP</a></li> -->
-                </ul>
-              </div>
+            <div class="col-sm-offset-1 col-sm-11">
+              <a href="/"><img src="assets/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
+              <ul class="list-inline">
+                <!-- <li><a href="en/index.php">EN</a></li> -->
+                <li class="active"><a href="#">ID</a></li>
+                <!-- <li><a href="jp/index.php">JP</a></li> -->
+              </ul>
             </div>
           </div>
         </div>
@@ -267,12 +267,12 @@
           </div>
 
           <div class="row card-container">
-            <div class="col-sm-4 col-xs-12 filter website websystem">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem">
                 <a href="/case-study/caroline-bidding-system" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/1.webp" type="image/webp">
-                        <img src="./assets/img/card/1.png" class="img-responsive" alt="">
+                        <img src="./assets/img/card/1.jpg" class="img-responsive" alt="">
                       </picture>
                     </div>
                     <div class="text-container">
@@ -284,12 +284,12 @@
                 
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter website mobileapp websystem">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website mobileapp websystem">
               <a href="/case-study/jba-auction-system" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/2.webp" type="image/webp">
-                        <img src="./assets/img/card/2.png" class="img-responsive"  alt="">
+                        <img src="./assets/img/card/2.jpg" class="img-responsive"  alt="">
                       </picture>
                     </div>
 
@@ -297,16 +297,16 @@
                       <p>Website & Web System & Aplikasi Mobile</p>
                     </div>
                     <p class="card-title">JBA Indonesia</p>
-                    <p class="card-content">Online Auction System</p>
+                    <p class="card-content"><strong>LOGIQUE</strong> mendukung penuh digitalisasi perusahaan lelang otomotif no.1 di Indonesia</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter website">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website">
               <a href="/case-study/opuspark" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/3.webp" type="image/webp">
-                        <img src="./assets/img/card/3.png" class="img-responsive" alt="">
+                        <img src="./assets/img/card/3.jpg" class="img-responsive" alt="">
                       </picture>
                     </div>
                     <div class="text-container">
@@ -317,12 +317,12 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter websystem">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter websystem">
                 <a href="/case-study/zuttoride-customer-management-system" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/4.webp" type="image/webp">
-                        <img src="./assets/img/card/4.png" class="img-responsive"  alt="">
+                        <img src="./assets/img/card/4.jpg" class="img-responsive"  alt="">
                       </picture>
                     </div>
 
@@ -334,12 +334,12 @@
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter webapp">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter webapp">
               <a href="/case-study/vip-plaza-progressive-web-app" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/5.webp" type="image/webp">
-                        <img src="./assets/img/card/5.png" class="img-responsive"  alt="">
+                        <img src="./assets/img/card/5.jpg" class="img-responsive"  alt="">
                       </picture>
                       </div>
 
@@ -351,12 +351,12 @@
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter webapp">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter webapp">
               <a href="/case-study/klikhoreca" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/6.webp" type="image/webp">
-                        <img src="./assets/img/card/6.png" class="img-responsive" alt="">
+                        <img src="./assets/img/card/6.jpg" class="img-responsive" alt="">
                       </picture>
                       </div>
 
@@ -364,16 +364,16 @@
                         <p>Web App</p>
                       </div>
                       <p class="card-title">Klikhoreca</p>
-                      <p class="card-content">Progressive Web App</p>
+                      <p class="card-content">Pengembangan teknologi PWA pada Online Shop memberi pengalaman baru dalam berbelanja</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter website">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website">
               <a href="/case-study/indonesea" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/7.webp" type="image/webp">
-                        <img src="./assets/img/card/7.png" class="img-responsive" alt="">
+                        <img src="./assets/img/card/7.jpg" class="img-responsive" alt="">
                       </picture>
                     </div>
                     <div class="text-container">
@@ -384,12 +384,12 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter websystem">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter websystem">
               <a href="/case-study/pan-pacific" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/8.webp" type="image/webp">
-                        <img src="./assets/img/card/8.png" class="img-responsive" alt="">
+                        <img src="./assets/img/card/8.jpg" class="img-responsive" alt="">
                       </picture>
                     </div>
                     <div class="text-container">
@@ -400,7 +400,7 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-            <div class="col-sm-4 col-xs-12 filter website websystem mobileapp">
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
               <a href="/case-study/jba-bastk" class="links__item">
                     <div class="img-container">
                       <picture>
@@ -442,12 +442,12 @@
         </div>
       </section>
 
-      <?php include '../layanan/assets/components/dm-links.php' ?>
     </div>
+    <?php include '../layanan/assets/components/dm-links.php' ?>
 
   </div>
 
-  <footer class="content-wrapper__ bg--footer footer-section">
+  <footer class="content-wrapper__ bg--footer footer-section hidden">
     <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
 
     <script type='text/javascript' data-cfasync='false'>
@@ -667,7 +667,9 @@
         </div>
     </div>
 </footer>
-<section class="tahap-pemesanan-2 text-center hidden-sm hidden-md hidden-lg" style="padding: 2em">&copy; <span
+
+<?php include '../footer.php'; ?>
+<section class="tahap-pemesanan-2 text-center hidden" style="padding: 2em">&copy; <span
         class="copyrightYear"></span> <span class="novocentoMedium">Logique</span> Digital Indonesia. All Rights Reserved.</section>
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
