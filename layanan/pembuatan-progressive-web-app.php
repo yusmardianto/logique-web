@@ -5,17 +5,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUE dapat membantu mengevaluasi sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
+    <meta name="description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Penetration Test | Keamanan website | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="LOGIQUE dapat membantu meningkatkan sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
+    <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Jasa Pembuatan Progressive Web App (PWA) | LOGIQUE Digital Indonesia</title>
+    <title>Jasa Pembuatan Progressive Web App (PWA) Terbaik | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/../css/style.css" rel="stylesheet">
     <link href="assets/css/style-pwa.css" rel="stylesheet">
@@ -141,7 +141,7 @@
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item"><span itemprop="name">&nbsp;Pembuatan Progressive Web App (PWA)</span></a>
+                                            <a itemprop="item"><span itemprop="name">&nbsp;Pembuatan Progressive Web App</span></a>
                                             <meta itemprop="position" content="3" />
                                         </li>
                                     </ol>
@@ -154,7 +154,7 @@
                     <div class="row">
                         <div class="col-md-7 header__title">
                             <h1 class="fs--32px">Jasa Pembuatan Progressive Web App (PWA) Terbaik</h1>
-                            <p>LOGIQUE Digital Indonesia adalah salah satu pengembang Progressive Web App / PWA terbaik di Jakarta. Kami memiliki team yang profesional, berpengalaman dan memiliki kemampuan terbaik pada bidangnya masing-masing. Seluruh proyek yang kami kerjakan dapat selesai sesuai target dan waktu yang telah ditentukan.</p>
+                            <p><span class="ff--novocento-bold">LOGIQUE</span> merupakan pionir dalam pengembangan PWA di Indonesia dan menjadi perusahaan yang paling berpengalaman dalam pengembangan PWA. Kami telah mengembangkan PWA untuk E-Commerce, E-Learning dan lainnya. Jangan ragu untuk menghubungi kami jika Anda ingin beralih dari native apps.</p>
                         </div>
                         <div class="col-md-5 header__img">
                             <picture>
@@ -196,14 +196,15 @@
         <section class="mb--60px">
             <div class="content-wrapper__">
                 <div class="container__">
-                    <p class="mb--60px">Melalui pengalaman dan jam terbang yang tinggi dalam pembuatan dan pengembangan website dan aplikasi, serta senantiasa mengusung teknologi terkini dalam setiap pengembangan proyek yang dilakukan, bukanlah suatu hal yang mustahil bagi LOGIQUE untuk mengembangkan Progressive Web App (PWA) terbaik untuk Bisnis Anda.</p>
+                    <p class="mb--60px">Kami memiliki pengalaman yang cukup panjang dalam membuat dan mengembangkan website, web system dan aplikasi mobile untuk para klien di Indonesia. Saat ini, kami juga secara khusus berfokus pada layanan pengembangan PWA. Teknologi ini memiliki banyak keuntungan bagi pengguna maupun operator karena mampu menutupi kekurangan pada aplikasi mobile melalui teknologi web terbaru. PWA adalah aplikasi web yang dapat memungkinkan penggunaan push notifcation dan dengan mudah diinstall pada smartphone Anda.</p>
 
                     <div class="row row--flex">
                         <div class="col-xs-12 col-md-6">
                             <h3 class="main-title main-title--with-border-line">Apa itu Progressive Web App ?</h3>
-                            <p class="mb--20px">Progressive Web App adalah sebuah teknologi yang akan membuat situs website perusahaan Anda bekerja seperti aplikasi native pada umumnya. Pelanggan dapat mengoperasikan website ini seperti ketika mereka menggunakan aplikasi seluler, sehingga akan memberikan user experience yang lebih baik. Pelanggan juga dapat menginstal situs web perusahaan Anda ke halaman home screen perangkat mobile mereka tanpa harus khawatir dengan data storage yang besar karena PWA hanya membutuhkan kapasitas yang kecil. </p>
+                            <p class="mb--20px">Progressive Web App (PWA) adalah aplikasi web yang bekerja sebagaimana aplikasi mobile (native apps), namun dapat diakses melalui web browser. PWA dapat digunakan melalui berbagai platform OS dan dengan kode yang sama dapat digunakan sebagai aplikasi yang bisa dijalankan di desktop, smartphone, dan tablet. Melalui perkembangan fungsi dari web browser, fungsi API untuk mengakses terminal kamera dan GPS pun memunginkan untuk digunakan. PWA menjadi aplikasi dengan performa tinggi yang dapat digunakan secara offline dengan push notification tanpa harus khawatir terhadap tinjauan persetujuan dari app store.</p>
+                            <p class="mb--20px">Konten PWA yang dapat di crawl oleh Google juga memberi keuntungan lain dalam hal optimasi mesin pencari dan akuisisi pengguna.</p>
                         </div>
-                        <div class="col-xs-12 col-md-6 align-self-end">
+                        <div class="col-xs-12 col-md-6 align-self-center">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-what-is-pwa.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-what-is-pwa.jpg" alt="what is pwa" class="img-responsive mx--auto">
@@ -254,13 +255,13 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#character_responsive" data-toggle="tab" data-illustration="linkable">
+                                        <a href="#character_responsive" data-toggle="tab" data-illustration="responsive">
                                             <h4 class="fs--16px fw--900">Responsive </h4>
                                             <p class="fs--14px">Dapat berfungsi dengan baik di perangkat apapun dengan berbagai ukuran layar.</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#character_safe" data-toggle="tab" data-illustration="linkable">
+                                        <a href="#character_safe" data-toggle="tab" data-illustration="safe">
                                             <h4 class="fs--16px fw--900">Safe</h4>
                                             <p class="fs--14px">Menggunakan protokol HTTPS sehingga dapat menghindari akses dari pihak yang tidak sah.</p>
                                         </a>
@@ -290,13 +291,13 @@
                                         <div class="image__illustration mx--auto" id="lottie5"></div>
                                         <div class="mx--auto loader"></div>
                                     </div>
-                                    <div class="tab-pane fade" id="character_responsive" role="tabpanel">
-                                        <div class="image__illustration mx--auto" id="lottie_"></div>
-                                        <!-- <div class="mx--auto loader"></div> -->
+                                    <div class="overflow-hidden tab-pane fade" id="character_responsive" role="tabpanel">
+                                        <div class="image__illustration mx--auto" id="lottie6"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
-                                    <div class="tab-pane fade" id="character_safe" role="tabpanel">
-                                        <div class="image__illustration mx--auto" id="lottie_"></div>
-                                        <!-- <div class="mx--auto loader"></div> -->
+                                    <div class="overflow-hidden tab-pane fade" id="character_safe" role="tabpanel">
+                                        <div class="image__illustration mx--auto" id="lottie7"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
                                 </div>
                             </div>
@@ -325,9 +326,8 @@
                 <div class="container__">
                     <div class="mb--60px">
                         <h3 class="main-title main-title--with-border-line">Mengapa Memilih <span class="ff--novocento-bold">LOGIQUE</span> Untuk Pengembangan PWA Anda?</h3>
-                        <p class="pb--20px"><span class="ff--novocento-bold">LOGIQUE</span> memiliki tim Profesional yang terdiri dari IT specialist dengan kemampuan terbaik pada bidangnya masing-masing. Setiap anggota tim mampu bekerja dan berkoordinasi secara baik dalam menangani setiap proyek yang telah kami kerjakan selama ini.</p>
-                        <p class="pb--20px">Selain memiliki kemampuan terbaik, tim kami juga memiliki motivasi kerja yang sangat tinggi untuk dapat menyelesaikan setiap proyek dalam jangka waktu yang telah ditentukan.</p>
-                        <p class="pb--20px">Melalui Pengalaman yang kami miliki dalam pengembagan sebuah PWA, kami sangat yakin untuk dapat memenuhi setiap detail kebutuhan bisnis Anda.</p>
+                        <p class="pb--20px"><span class="ff--novocento-bold">LOGIQUE</span> sangat fokus dalam pengembangan PWA sejak awal. Bahkan, pada tahun 2019 menjadi satu dari dua pengembang PWA di Indonesia yang memperoleh sertifikasi Google. Kami memiliki pengalaman dalam pengembangan PWA untuk proyek E-Commerce dan E-Learning. Kami juga mendapatkan peningkatan konversi dari pengembangan native apps dan web system kepada PWA.</p>
+                        <p class="pb--20px">Kami memiliki banyak IT specialist internal yang kaya pengalaman dalam pengembangan PWA, sehingga Anda dapat dengan yakin menyerahkan kepada kami mulai dari perencanaan hingga pengoperasian PWA yang Anda iginkan. Kami melakukan proses pengembangan dengan konsep minimum viable product (MVP) serta metode Lean dan Agile development.</p>
                     </div>
 
                     <div class="mb--40px">
@@ -458,37 +458,13 @@
         <section class="mb--60px service-pwa__contact-form">
             <div class="content-wrapper__">
                 <div class="container__">
-                    <h3 class="main-title main-title--with-border-line">Hubungi Kami</h3>
-
-                    <div class="bg--l-gray contact-form__form">
-                        <form>
-                            <h3 class="mb--40px text-center">Hubungi Kami untuk mendapatkan penawaran terbaik</h3>
-                            
-                            <input type="text" class="form-control fs--16px h--50px mb--30px" placeholder="Nama Anda">
-                            
-                            <div class="row row--flex">
-                                <div class="col-xs-12 col-md-6">
-                                    <input type="text" class="form-control fs--16px h--50px mb--30px" placeholder="Nama Anda">                                    
-                                </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <input type="text" class="form-control fs--16px h--50px mb--30px" placeholder="Nama Anda">                                    
-                                </div>
-                            </div>
-
-                            <textarea name="" id="" rows="5" class="form-control fs--16px mb--30px" placeholder="Pertanyaan"></textarea>
-
-                            <div class="row row--flex justify-content-center form__btn">
-                                <div class="col-sm-9">
-                                    <div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp">                                            </div>
-                                </div>
-                                <div class="col-xs-10 col-sm-3">
-                                    <button type="submit" class="form-control btn btn--yellow">Kirim</button>
-                                </div>
-                            </div>
-                            
-                        </form>
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <a href="/hubungi-kami.php" class="form-control btn btn-contact-us-black">
+                            Silahkan hubungi LOGIQUE Tentang Pembuatan Progressive Web App
+                            </a>
+                        </div>
                     </div>
-
                 </div>
             </div>
         </section>

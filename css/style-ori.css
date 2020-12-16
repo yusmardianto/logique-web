@@ -1905,7 +1905,7 @@ left: -70px;
 }
 
 .breadcrumb--update-design {
-    font-size: 16px;
+    font-size: 13px;
     padding: 1.5em 15px;
     background-color: transparent;
     font-weight: bold;
@@ -1935,6 +1935,11 @@ left: -70px;
 .lang-logo--update-design .breadcrumb a,
 .lang-logo .breadcrumb a {
     color: #666
+}
+
+.lang-logo--update-design .breadcrumb a span,
+.lang-logo .breadcrumb a span {
+    font-family: Montserrat, sans-serif;
 }
 
 .lang-logo--update-design .breadcrumb li.active a,
