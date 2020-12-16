@@ -293,6 +293,12 @@ input.form-control.h--50px {
     height: 560px;
 }
 
+.service .service-pwa__character .character-list__image .image__illustration#lottie6:empty,
+.service .service-pwa__character .character-list__image .image__illustration#lottie7:empty,
+.service .service-pwa__character .character-list__image .image__illustration:empty {
+    height: 0;
+}
+
 .service .service-pwa__character .character-list__image .image__illustration:not(:empty) ~ .loader {
     /* width: 100%; */
     display: none;
