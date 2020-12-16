@@ -432,21 +432,21 @@
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-web.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-others-web.png" alt="Webサイト制作" class="img-responsive mb--25px">
                             </picture>
-                            <a href="/layanan/web-dev.php" class="form-control btn btn--yellow">Webサイト制作</a>
+                            <a href="/jp/services/web-dev.php" class="form-control btn btn--yellow">Webサイト制作</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-system.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-others-system.png" alt="Webシステム開発" class="img-responsive mb--25px">
                             </picture>
-                            <a href="/layanan/pembuatan-sistem-web.php" class="form-control btn btn--yellow">Webシステム開発</a>
+                            <a href="/jp/services/system-dev.php" class="form-control btn btn--yellow">Webシステム開発</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-mobile.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-others-mobile.png" alt="モバイルApp開発" class="img-responsive mb--25px">
                             </picture>
-                            <a href="/layanan/pembuatan-aplikasi-mobile.php" class="form-control btn btn--yellow">モバイルApp開発</a>
+                            <a href="/jp/services/mobile-app-dev.php" class="form-control btn btn--yellow">モバイルApp開発</a>
                         </div>
                     </div>
                 </div>
