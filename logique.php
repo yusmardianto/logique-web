@@ -329,7 +329,7 @@
                                 <hr class="company__divider">
 
                                 <li>Jumlah Karyawan</li>
-                                <li class="company__bold">58 (hingga Nov 2019)</li>
+                                <li class="company__bold">80 (hingga Nov 2020)</li>
                                 <hr class="company__divider">
 
                                 <li>Alamat Kantor Pusat</li>
