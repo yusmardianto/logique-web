@@ -305,7 +305,7 @@
                                 <hr class="company__divider">
 
                                 <li>Number of employees</li>
-                                <li class="company__bold">58 (as of Nov 2019)</li>
+                                <li class="company__bold">80 (as of Nov 2020)</li>
                                 <hr class="company__divider">
 
                                 <li>Head Office Address</li>
