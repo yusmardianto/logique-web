@@ -297,7 +297,7 @@
                                 <hr class="company__divider">
 
                                 <li>従業員数</li>
-                                <li class="company__bold">58名 (2019年11月現在）</li>
+                                <li class="company__bold">80名（2020年11月現在）</li>
                                 <hr class="company__divider">
 
                                 <li>本社住所</li>
