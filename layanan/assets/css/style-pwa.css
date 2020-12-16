@@ -52,13 +52,17 @@ body {
 .main-title.main-title--with-square-point::after {
     content: "";
     position: absolute;
-    top: 50%;
+    /* top: 50%; */
+    top: 12px;
     left: 0;
-    transform: translateY(-50%);
+    /* transform: translateY(-50%); */
     width: 16px;
     height: 16px;
     border-radius: 4px;
     background-color: #ffca00;
+}
+.overflow-hidden {
+    overflow: hidden;
 }
 
 /* color */
@@ -204,6 +208,9 @@ body {
 .align-self-end {
     align-self: flex-end;
 }
+.align-self-center {
+    align-self: center;
+}
 .flex-grow-1 {
     flex-grow: 1;
 }
@@ -274,6 +281,16 @@ input.form-control.h--50px {
 
 .service .service-pwa__character .character-list__image .image__illustration {
     max-width: 260px;
+}
+
+.service .service-pwa__character .character-list__image .image__illustration#lottie6 {
+    transform: scale(2.5);
+    height: 560px;
+}
+
+.service .service-pwa__character .character-list__image .image__illustration#lottie7 {
+    transform: scale(1.5);
+    height: 560px;
 }
 
 .service .service-pwa__character .character-list__image .image__illustration:not(:empty) ~ .loader {
@@ -385,7 +402,7 @@ input.form-control.h--50px {
   }
 }
 
-@media (max-width: 992.98px) {
+@media (max-width: 991.98px) {
     /* header */
     .service .service-pwa__header {
         min-height: unset;
@@ -409,6 +426,16 @@ input.form-control.h--50px {
     .service .service-pwa__character .character-list__image .image__illustration {
         margin-top: 30px;
         max-width: 200px;
+    }
+    .service .service-pwa__character .character-list__image .image__illustration#lottie6 {
+        transform: scale(3);
+        height: 410px;
+    }    
+    .service .service-pwa__character .character-list__image .image__illustration#lottie7 {
+        transform: scale(2.1);
+        height: 410px;
+        position: relative;
+        bottom: 10px;
     }
 
     /* project */
@@ -439,6 +466,12 @@ input.form-control.h--50px {
         columns: 1;
         -webkit-columns: 1;
         -moz-columns: 1;
+    }
+    .service .service-pwa__character .character-list__image .image__illustration#lottie6 {
+        height: 325px;
+    }    
+    .service .service-pwa__character .character-list__image .image__illustration#lottie7 {
+        height: 375px;
     }
 
     /* project */

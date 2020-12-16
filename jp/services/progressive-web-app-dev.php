@@ -139,7 +139,7 @@
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
+                                            <a itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -185,7 +185,7 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="row row--flex justify-content-center">
                                 <div class="col-sm-4 col-md-6">
-                                    <a href="/hubungi-kami.php" class="form-control btn btn--yellow">お問い合わせ</a>
+                                    <a href="/jp/contact.php" class="form-control btn btn--yellow">お問い合わせ</a>
                                 </div>
                             </div>
                         </div>
@@ -257,13 +257,13 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#character_responsive" data-toggle="tab" data-illustration="linkable">
+                                        <a href="#character_responsive" data-toggle="tab" data-illustration="responsive">
                                             <h4 class="fs--16px fw--900">Responsive </h4>
                                             <p class="fs--14px">PWAにCompatibleなブラウザが動作しさえすれば利用対象デバイス（サイズ）を制限しない</p>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#character_safe" data-toggle="tab" data-illustration="linkable">
+                                        <a href="#character_safe" data-toggle="tab" data-illustration="safe">
                                             <h4 class="fs--16px fw--900">Safe</h4>
                                             <p class="fs--14px">https化された暗号通信を行うため通信の盗聴を防ぐことが可能</p>
                                         </a>
@@ -293,13 +293,13 @@
                                         <div class="image__illustration mx--auto" id="lottie5"></div>
                                         <div class="mx--auto loader"></div>
                                     </div>
-                                    <div class="tab-pane fade" id="character_responsive" role="tabpanel">
-                                        <div class="image__illustration mx--auto" id="lottie_"></div>
-                                        <!-- <div class="mx--auto loader"></div> -->
+                                    <div class="overflow-hidden tab-pane fade" id="character_responsive" role="tabpanel">
+                                        <div class="image__illustration mx--auto" id="lottie6"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
-                                    <div class="tab-pane fade" id="character_safe" role="tabpanel">
-                                        <div class="image__illustration mx--auto" id="lottie_"></div>
-                                        <!-- <div class="mx--auto loader"></div> -->
+                                    <div class="overflow-hidden tab-pane fade" id="character_safe" role="tabpanel">
+                                        <div class="image__illustration mx--auto" id="lottie7"></div>
+                                        <div class="mx--auto loader"></div>
                                     </div>
                                 </div>
                             </div>
@@ -414,7 +414,7 @@
                 <div class="container__">
                     <div class="row row--flex justify-content-center">
                         <div class="col-md-3">
-                            <a href="/portofolio.php" class="form-control btn btn--yellow">ポートフォリオをみる</a>
+                            <a href="/jp/portfolio.php" class="form-control btn btn--yellow">ポートフォリオをみる</a>
                         </div>
                     </div>
                 </div>
@@ -424,29 +424,29 @@
         <section class="mb--60px service-pwa__other">
             <div class="content-wrapper__">
                 <div class="container__">
-                    <h3 class="main-title main-title--with-border-line">Layanan Lain</h3>
+                    <h3 class="main-title main-title--with-border-line"><strong class="">LOGIQUE</strong>の他のサービス</h3>
 
                     <div class="row row--flex justify-content-center other__service">
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-web.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-others-web.png" alt="pembuatan website" class="img-responsive mb--25px">
+                                <img src="/layanan/assets/img/img-pwa/img-others-web.png" alt="Webサイト制作" class="img-responsive mb--25px">
                             </picture>
-                            <a href="/layanan/web-dev.php" class="form-control btn btn--yellow">PEMBUATAN WEBSITE</a>
+                            <a href="/layanan/web-dev.php" class="form-control btn btn--yellow">Webサイト制作</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-system.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-others-system.png" alt="pembuatan sistem website" class="img-responsive mb--25px">
+                                <img src="/layanan/assets/img/img-pwa/img-others-system.png" alt="Webシステム開発" class="img-responsive mb--25px">
                             </picture>
-                            <a href="/layanan/pembuatan-sistem-web.php" class="form-control btn btn--yellow">PENGEMBANGAN SISTEM WEB</a>
+                            <a href="/layanan/pembuatan-sistem-web.php" class="form-control btn btn--yellow">Webシステム開発</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-mobile.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-others-mobile.png" alt="pembuatan aplikasi mobile" class="img-responsive mb--25px">
+                                <img src="/layanan/assets/img/img-pwa/img-others-mobile.png" alt="モバイルApp開発" class="img-responsive mb--25px">
                             </picture>
-                            <a href="/layanan/pembuatan-aplikasi-mobile.php" class="form-control btn btn--yellow">PENGEMBANGAN SISTEM APLIKASI MOBILE</a>
+                            <a href="/layanan/pembuatan-aplikasi-mobile.php" class="form-control btn btn--yellow">モバイルApp開発</a>
                         </div>
                     </div>
                 </div>
@@ -456,37 +456,13 @@
         <section class="mb--60px service-pwa__contact-form">
             <div class="content-wrapper__">
                 <div class="container__">
-                    <h3 class="main-title main-title--with-border-line">Hubungi Kami</h3>
-
-                    <div class="bg--l-gray contact-form__form">
-                        <form>
-                            <h3 class="mb--40px text-center">Hubungi Kami untuk mendapatkan penawaran terbaik</h3>
-                            
-                            <input type="text" class="form-control fs--16px h--50px mb--30px" placeholder="Nama Anda">
-                            
-                            <div class="row row--flex">
-                                <div class="col-xs-12 col-md-6">
-                                    <input type="text" class="form-control fs--16px h--50px mb--30px" placeholder="Nama Anda">                                    
-                                </div>
-                                <div class="col-xs-12 col-md-6">
-                                    <input type="text" class="form-control fs--16px h--50px mb--30px" placeholder="Nama Anda">                                    
-                                </div>
-                            </div>
-
-                            <textarea name="" id="" rows="5" class="form-control fs--16px mb--30px" placeholder="Pertanyaan"></textarea>
-
-                            <div class="row row--flex justify-content-center form__btn">
-                                <div class="col-sm-9">
-                                    <div class="g-recaptcha" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp">                                            </div>
-                                </div>
-                                <div class="col-xs-10 col-sm-3">
-                                    <button type="submit" class="form-control btn btn--yellow">Kirim</button>
-                                </div>
-                            </div>
-                            
-                        </form>
+                    <div class="row">
+                        <div class="col-xs-12 text-center">
+                            <a href="/jp/contact.php" class="form-control btn btn-contact-us-black">                            
+                            PWA開発についてお問い合わせ                            
+                            </a>
+                        </div>
                     </div>
-
                 </div>
             </div>
         </section>
