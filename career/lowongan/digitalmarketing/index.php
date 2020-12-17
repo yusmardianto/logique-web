@@ -6,19 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Lagi cari lowongan kerja sebagai desainer atau digital marketing spesialist? LOGIQUE sedang membuka lowongan untuk dua posisi tersebut. Jika Anda ingin mengembangkan diri Anda dan tertarik untuk bekerja bersama kami, segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga!">
+    content="Lowongan Kerja Web Designer & Digital Marketing Terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negotiable, Bonus + Asuransi, dll | Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Designer & Digital Marketing Specialist | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja Designer & Digital Marketing Terbaru Jakarta">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Lagi cari lowongan kerja sebagai desainer atau digital marketing spesialist? LOGIQUE sedang membuka lowongan untuk dua posisi tersebut. Jika Anda ingin mengembangkan diri Anda dan tertarik untuk bekerja bersama kami, segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga!">
+    content="Lowongan Kerja Web Designer & Digital Marketing Terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negotiable, Bonus + Asuransi, dll | Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Designer & Digital Marketing Specialist | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/digitalmarketing/"/>
+  <title>Lowongan Kerja Designer & Digital Marketing Terbaru Jakarta</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

@@ -6,19 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari DevOps. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan Kerja DevOps Engineer Terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negotiable, Bonus + Asuransi, dll | Ayo gabung LOGIQUE. Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="DevOps | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja DevOps Engineer Terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari DevOps. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan Kerja DevOps Engineer Terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negotiable, Bonus + Asuransi, dll | Ayo gabung LOGIQUE. Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>DevOps Engineer | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/specialist/devops.php"/>
+  <title>Lowongan Kerja DevOps Engineer Terbaru Jakarta | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
