@@ -22,9 +22,15 @@
   <title>Lowongan UI/UX Designer Terbaru di Jakarta | LOGIQUE </title>
 
   <!-- Bootstrap -->
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/career/style-career.css" rel="preload" as="style">
+  
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
   <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
-  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
   

@@ -82,8 +82,10 @@
           <div class="row">
             <div class="col-sm-8 col-md-3">
               <a href="/career/">
-                <img src="/img/career/logo-karir.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                  class="img-responsive logo--update-design" />
+                <picture>
+                  <source srcset="/img/career/logo-karir.webp" type="image/webp"/>
+                  <img src="/img/career/logo-karir.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" />
+                </picture>
               </a>
             </div>
             <div class="col-md-5 col-lg-6 hidden-xs hidden-sm">

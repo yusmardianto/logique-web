@@ -21,10 +21,23 @@
   <link rel="canonical" href="https://www.logique.co.id/career/lowongan/digitalmarketing/"/>
   <title>Lowongan Kerja Designer & Digital Marketing Terbaru Jakarta</title>
 
+  <link rel="preconnect" href="https://ajax.googleapis.com"/>
+  <link rel="preconnect" href="https://analytics.twitter.com"/>
+  <link rel="preconnect" href="https://app.purechat.com"/>
+  <link rel="preconnect" href="https://api-cdn.purechat.com"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://widgetapi.purechat.com"/>
+
   <!-- Bootstrap -->
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/career/style-career.css" rel="preload" as="style">
+  
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
   <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
-  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
 
