@@ -6,24 +6,31 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari UI/UX Designer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan UI/UX Designer terbaru di Jakarta. Lingkungan kerja nyaman, bisa kerja Full Remote, gaji Negotiable, Bonus + Asuransi, dll | Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, ui/ux designer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="UI/UX Designer | Lowongan Kerja | Designer/Digital Marketing | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan UI/UX Designer Terbaru di Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari UI/UX Designer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan UI/UX Designer terbaru di Jakarta. Lingkungan kerja nyaman, bisa kerja Full Remote, gaji Negotiable, Bonus + Asuransi, dll | Apply Sekarang!">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/digitalmarketing/ui-ux-designer.php"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>UI/UX Designer | Lowongan Kerja | Designer/Digital Marketing | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan UI/UX Designer Terbaru di Jakarta | LOGIQUE </title>
 
   <!-- Bootstrap -->
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/career/style-career.css" rel="preload" as="style">
+  
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
   <link href="/css/bootstrap.min.css" rel="stylesheet">
-  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
-  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
   
