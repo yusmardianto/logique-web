@@ -135,6 +135,7 @@
       <?php include '../../layout-career/contact-lgq.php'; ?>
     </div>
 
+    <?php $slick_disabled = true; ?>
     <?php include '../../../footer.php'; ?>
   </div>
   <script type="text/JavaScript">

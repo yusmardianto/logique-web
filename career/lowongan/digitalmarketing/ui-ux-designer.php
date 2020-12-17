@@ -21,12 +21,16 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Lowongan UI/UX Designer Terbaru di Jakarta | LOGIQUE </title>
 
+  <link rel="preconnect" href="https://prod.purechatcdn.com"/>
+  <link rel="preconnect" href="https://connect.facebook.net"/>
+  <link rel="preconnect" href="https://ajax.googleapis.com"/>
+
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="preload" as="style">
   <link href="/css/sidebar-update.css" rel="preload" as="style">
   <link href="/css/style-revamp.css" rel="preload" as="style">
   <link href="/career/style-career.css" rel="preload" as="style">
-  
+
   <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
   <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/sidebar-update.css" rel="stylesheet">
@@ -323,6 +327,7 @@
 
     </div>
 
+    <?php $slick_disabled = true; ?>
     <?php include '../../../footer.php'; ?>
   </div>
   <script type="text/JavaScript">
