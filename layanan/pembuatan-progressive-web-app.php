@@ -111,7 +111,7 @@
                     <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9">
                         <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" loading="lazy" /></a>
                         <ul class="list-inline">
-                            <li><a href="#">EN</a></li>
+                            <li><a href="/en/services/progressive-web-app-dev.php">EN</a></li>
                             <li class="active"><a href="#">ID</a></li>
                             <li><a href="/jp/services/progressive-web-app-dev.php">JP</a></li>
                         </ul>
