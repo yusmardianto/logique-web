@@ -848,7 +848,7 @@ if(isset($_POST['submitted']))
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
-                                        <label for="email" class="c-label">Email</label>
+                                        <label for="email" class="c-label">Email</label> <small class="text-danger">*Please input your company email address</small>
                                         <div class="form-group">
                                             <input type="email" class="form-control" id="email" name="email" aria-label="Email"
                                                 value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
