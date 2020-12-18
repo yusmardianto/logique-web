@@ -36,21 +36,21 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE | Jasa pembuatan aplikasi mobile berbasis hybrid untuk android & iOS. Aplikasi inspeksi otomotif, ecommerce & lainnya dengan teknologi flutter.">
+         content="Jasa pembuatan aplikasi Android & iOS terbaik di Jakarta. Aplikasi Mobile berbasis hybrid dengan teknologi flutter | Aplikasi inspeksi Otomotif, E-commerce, dll.">
      <meta name="keywords"
          content="jasa pembuatan aplikasi mobile, jasa pembuatan aplikasi ios, jasa pembuatan aplikasi android">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Jasa Pembuatan Aplikasi Mobile Untuk Android & iOS | LOGIQUE">
+     <meta property="og:title" content="Jasa Pembuatan Aplikasi Android & iOS (Mobile Apps) Jakarta">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php">
      <meta property="og:image" content="https://www.logique.co.id/assets/img/img-mobileapps/og-image.png">
      <meta property="og:description"
-         content="LOGIQUE | Jasa pembuatan aplikasi mobile berbasis hybrid untuk android & iOS. Aplikasi inspeksi otomotif, ecommerce & lainnya dengan teknologi flutter.">
+         content="Jasa pembuatan aplikasi Android & iOS terbaik di Jakarta. Aplikasi Mobile berbasis hybrid dengan teknologi flutter | Aplikasi inspeksi Otomotif, E-commerce, dll.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php" />  
-     <title>Jasa Pembuatan Aplikasi Mobile Untuk Android & iOS | LOGIQUE</title>
+     <title>Jasa Pembuatan Aplikasi Android & iOS (Mobile Apps) Jakarta</title>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link rel="stylesheet" href="/css/sidebar-update.css" >
      <link href="assets/css/style-mobileapps.css" rel="stylesheet">

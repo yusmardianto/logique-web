@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Designer, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
+        content="Perusahaan Web Developer, Designer & Konsultan IT terbaik di Jakarta. LOGIQUE Digital Indonesia, Solusi untuk pengembangan Website, Web Sistem & Mobile App">
     <meta name="keywords"
         content="jasa pembuatan website, digital marketing, web developer, pengembangan aplikasi mobile, sistem aplikasi">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web / Mobile App Developer, Konsultan IT, Digital Marketing Jakarta | LOGIQUE">
+    <meta property="og:title" content="Web / Mobile App Developer & Konsultan IT Terbaik di Jakarta">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/logique.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Konsultan IT, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
+        content="Perusahaan Web Developer, Designer & Konsultan IT terbaik di Jakarta. LOGIQUE Digital Indonesia, Solusi untuk pengembangan Website, Web Sistem & Mobile App">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Web / Mobile App Developer, Konsultan IT, Digital Marketing Jakarta | LOGIQUE</title>
+    <title>Web / Mobile App Developer & Konsultan IT Terbaik di Jakarta</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
