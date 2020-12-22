@@ -135,10 +135,11 @@ footer {
                                     <li><a href="/jp/logique.php">会社概要</a></li>
                                     <li class="have-submenu"><a href="/jp/services.php">サービス</a>
                                         <ul>
-                                            <li class="have-submenu">  <a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a> </li>
+                                            <li class="have-submenu"><a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a> </li>
+                                            <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
+                                            <li><a href="/jp/services/progressive-web-app-dev.php" target="_blank">Webアプリ(PWA)開発</a></li>
                                             <li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
                                             <li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
-                                            <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
                                             <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a>
                                                 <ul>
                                                 <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>

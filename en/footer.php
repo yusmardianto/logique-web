@@ -43,6 +43,7 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                                         <ul>
                                             <li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a> </li>
                                             <li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
+                                            <li><a href="/en/services/progressive-web-app-dev.php" target="_blank">Web App (PWA) Development</a></li>
                                             <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a></li>
                                             <li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
                                             <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital  Marketing </a>
