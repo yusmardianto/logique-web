@@ -118,24 +118,13 @@
         </div>
         <!-- END NAVIGATION -->
 
-        <div class="container-fluid">
-            <div class=" lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li class="active"><a href="#">EN</a></li>
-                                    <li><a href="../index.php">ID</a></li>
-                                    <li><a href="../jp/index.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/';
+            $jp_link = '/jp/';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <div class="content-wrapper__"> 
             <div class="contain-video wrapper--update-design">
@@ -160,10 +149,10 @@
                             </div>
                             <div class="row  homepage-hero__card flex__row ">
                                 <div class="col-md-3 col-xs-6">
-                                    <a href="/en/services/web-dev.php" class="div-service-cat">
+                                    <a href="/en/services/progressive-web-app-dev.php" class="div-service-cat">
                                         <img src="/img/top/i-top1.svg" alt="Website Production Service"
                                             class="img-responsive" />
-                                        <h2>Website Production Service</h2>
+                                        <h2>Web App (PWA) Development</h2>
                                         <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                     </a>
                                 </div>
