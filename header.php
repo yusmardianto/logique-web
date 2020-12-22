@@ -7,14 +7,22 @@
                     <div class="lang-logo__contact">
                         <a href="https://wa.me/62811870321" target="_blank" class="contact__banner">
                             <picture>
+                                <source media="(min-width: 992px)" srcset="/img/contact-header-whatsapp.webp" type="image/webp">
+                                <source media="(min-width: 992px)" srcset="/img/contact-header-whatsapp.png">
+                                <source media="(min-width: 768px)" srcset="/img/contact-header-whatsapp-icon.webp" type="image/webp">
+                                <source media="(min-width: 768px)" srcset="/img/contact-header-whatsapp-icon.png">
                                 <source srcset="/img/contact-header-whatsapp.webp" type="image/webp">
-                                <img src="/img/contact-header-whatsapp.png" alt="" class="img-responsive">
+                                <img src="/img/contact-header-whatsapp.png" alt="whatsapp" class="img-responsive">
                             </picture>
                         </a>
                         <a href="https://dokodemo-kerja.com/" target="_blank" class="contact__banner">
                             <picture>
+                                <source media="(min-width: 992px)" srcset="/img/contact-header-dokodemo.webp" type="image/webp">
+                                <source media="(min-width: 992px)" srcset="/img/contact-header-dokodemo.png">
+                                <source media="(min-width: 768px)" srcset="/img/contact-header-dokodemo-icon.webp" type="image/webp">
+                                <source media="(min-width: 768px)" srcset="/img/contact-header-dokodemo-icon.png">
                                 <source srcset="/img/contact-header-dokodemo.webp" type="image/webp">
-                                <img src="/img/contact-header-dokodemo.png" alt="" class="img-responsive">
+                                <img src="/img/contact-header-dokodemo.png" alt="dokodmeo" class="img-responsive">
                             </picture>
                         </a>
                     </div>
