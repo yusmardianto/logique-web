@@ -200,23 +200,13 @@
     </div>
     <!-- END NAVIGATION -->
  
-    <div class="container-fluid">
-
-      <div class="lang-logo--update-design">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
-                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                <ul class="list-inline">
-                  <li><a href="en/index.php">EN</a></li>
-                  <li class="active"><a href="#">ID</a></li>
-                  <li><a href="jp/index.php">JP</a></li>
-                </ul> 
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <?php 
+      $lang = 'id';
+      $en_link = '/en/';
+      $id_link = '#';
+      $jp_link = '/jp/';
+      include($_SERVER['DOCUMENT_ROOT'].'header.php'); 
+    ?>
 
     <div class="content-wrapper__">
   
@@ -246,9 +236,9 @@
               </div>
               <div class="row flex__row homepage-hero__card">
                 <div class="col-md-3 col-xs-6">
-                  <a href="/layanan/web-dev.php" class="div-service-cat">
+                  <a href="/layanan/pembuatan-progressive-web-app.php" class="div-service-cat">
                     <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"  class="img-responsive" />
-                    <h2>Jasa Pembuatan <br />Website</h2>
+                    <h2>Jasa Pembuatan <br />Aplikasi Web</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
