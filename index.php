@@ -205,7 +205,7 @@
       $en_link = '/en/';
       $id_link = '#';
       $jp_link = '/jp/';
-      include($_SERVER['DOCUMENT_ROOT'].'header.php'); 
+      include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
     ?>
 
     <div class="content-wrapper__">
