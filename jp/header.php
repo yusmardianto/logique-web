@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9">
-                    <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
+                    <a href="/jp/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
                     <div class="lang-logo__contact">
                         <a href="https://wa.me/62811870321" target="_blank" class="contact__banner">
                             <picture>
