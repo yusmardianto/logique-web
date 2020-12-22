@@ -136,9 +136,11 @@
     </div>
 
     <?php $slick_disabled = true; ?>
+
     <?php include '../../../footer.php'; ?>
   </div>
   <script type="text/JavaScript">
+    loadRecruitment();
     $('.waNumber').html('0822-60-5678-56');
     </script>
 </body>

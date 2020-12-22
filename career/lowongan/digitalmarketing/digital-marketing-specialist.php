@@ -24,12 +24,12 @@
   <link rel="preconnect" href="https://ajax.googleapis.com"/>
 
   <!-- Bootstrap -->
-  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
   <link href="/css/bootstrap.min.css" rel="preload" as="style">
   <link href="/css/sidebar-update.css" rel="preload" as="style">
   <link href="/css/style-revamp.css" rel="preload" as="style">
   <link href="/career/style-career.css" rel="preload" as="style">
-
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+  
   <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/sidebar-update.css" rel="stylesheet">
   <link href="/css/style-revamp.css" rel="stylesheet">
@@ -348,6 +348,7 @@
     <?php include '../../../footer.php'; ?>
   </div>
   <script type="text/JavaScript">
+    loadRecruitment();
     $('.waNumber').html('0822-60-5678-56');
     </script>
 </body>
