@@ -157,7 +157,7 @@ button:focus {
 .lang-logo--update-design .list-inline {
     position: relative;
     top: 0;
-    right: 0;
+    right: -15px;
     margin-bottom: 0;
 }
 /* .lang-logo--update-design .list-inline {
@@ -172,6 +172,9 @@ button:focus {
     border: none;
     background-color: #eee;
     margin-right: 10px;
+}
+.lang-logo--update-design .list-inline li:last-child {
+    margin-right: 0;
 }
 .lang-logo .list-inline li.active a,
 .lang-logo .list-inline li:focus a,
@@ -912,8 +915,13 @@ footer .medsos-new .facebook-icon:hover {
 }
 @media (min-width: 768px) and (max-width: 991.98px) {
     .lang-logo--update-design .lang-logo__contact {
-        flex-direction: column;
-        width: 145px;
+        width: 125px;
+    }
+    .lang-logo--update-design .lang-logo__contact .contact__banner {
+        margin-right: 10px;
+    }
+    .lang-logo--update-design .list-inline {
+        right: -25px;
     }
 }
 @media (max-width: 767.98px) {
@@ -974,6 +982,7 @@ footer .medsos-new .facebook-icon:hover {
     .lang-logo--update-design .list-inline {
         position: relative !important;
         width: 100%;
+        right: 0;
         top: 0;
         margin-top: 5px;
         padding: 7px 0;
