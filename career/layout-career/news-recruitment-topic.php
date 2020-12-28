@@ -16,62 +16,6 @@ ul.news-list li {
 ul.news-list li:not(:last-child) {
   margin-bottom: 30px;
 }
-.lds-ellipsis {
-  margin: 0 auto;
-  display: block;
-  position: relative;
-  width: 80px;
-  height: 80px;
-}
-.lds-ellipsis div {
-  position: absolute;
-  top: 33px;
-  width: 13px;
-  height: 13px;
-  border-radius: 50%;
-  background: #ffca13;
-  animation-timing-function: cubic-bezier(0, 1, 1, 0);
-}
-.lds-ellipsis div:nth-child(1) {
-  left: 8px;
-  animation: lds-ellipsis1 0.6s infinite;
-}
-.lds-ellipsis div:nth-child(2) {
-  left: 8px;
-  animation: lds-ellipsis2 0.6s infinite;
-}
-.lds-ellipsis div:nth-child(3) {
-  left: 32px;
-  animation: lds-ellipsis2 0.6s infinite;
-}
-.lds-ellipsis div:nth-child(4) {
-  left: 56px;
-  animation: lds-ellipsis3 0.6s infinite;
-}
-@keyframes lds-ellipsis1 {
-  0% {
-    transform: scale(0);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-@keyframes lds-ellipsis3 {
-  0% {
-    transform: scale(1);
-  }
-  100% {
-    transform: scale(0);
-  }
-}
-@keyframes lds-ellipsis2 {
-  0% {
-    transform: translate(0, 0);
-  }
-  100% {
-    transform: translate(24px, 0);
-  }
-}
 
 .news-list__body .news-list__news-date {
   display: inline-block;
@@ -141,44 +85,49 @@ ul.news-list li a:hover {
   }
 }
 </style>
-<li id="news-item-base" class="row" style="display: none;">
-  <div class="col-sm-offset-1 col-sm-10">
-    <div class="news-list__body">
-      <div class="news-list__content">
-        <span class="news-list__news-date">
-        </span>
-        <p class="news-list__news-title"></p>
-      </div>
-      <a class="news-list__news-link" href="#" target="_blank" rel="noreferrer">Masuk ke detail ></a>
-    </div>
-  </div>
-</li>
-<script>
-  function loadRecruitment(){
-    if(window.jQuery){
-      var newsItemBase = $("#news-item-base");
-      $.ajax({
-        url: "https://www.logique.co.id/blog/wp-json/wp/v2/posts?categories=1832&per_page=5",
-        beforeSend: function(){
-          $("#loading-news").show();
-        },
-        complete: function(){
-          $("#loading-news").hide();
-        },
-        success: function(lowongan){
-          lowongan.map(function(list){
-            var newsItemClone = newsItemBase.clone();
-            newsItemClone.css('display', '');
-            newsItemClone.find(".news-list__news-title").text(list.title.rendered);
-            newsItemClone.find(".news-list__news-date").text(new Date(list.date).toLocaleString('id-ID', {dateStyle: 'long'}));
-            newsItemClone.find(".news-list__news-link").prop('href', list.link);
-            $(".news-list").append(newsItemClone);
-          })
-        }
-      })
-    }
-  }
-</script>
+<?php
+$rss = new DOMDocument();
+ 
+$rss->load('http://www.logique.co.id/blog/category/recruitment/feed/');
+$feed = array();
+
+foreach ($rss->getElementsByTagName('item') as $node) {
+$item = array ( 
+'title' => $node->getElementsByTagName('title')->item(0)->nodeValue,
+'desc' => $node->getElementsByTagName('description')->item(0)->nodeValue,
+'link' => $node->getElementsByTagName('link')->item(0)->nodeValue,
+'date' => $node->getElementsByTagName('pubDate')->item(0)->nodeValue,
+);
+array_push($feed, $item);
+}
+$limit = 5; 
+function tgl_indo($tanggal){
+  $bulan = array (
+    1 =>   'Januari',
+		'Februari',
+		'Maret',
+		'April',
+		'Mei',
+		'Juni',
+		'Juli',
+		'Agustus',
+		'September',
+		'Oktober',
+		'November',
+		'Desember'
+  );
+  $pecahkan = explode('-', $tanggal);
+   
+
+  return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+}
+ 
+if (!empty($feed)){
+  $count =  count($feed);
+  if ($limit >= $count ) {
+     $limit = $count;
+  }  
+?>
 
 <section class="container-fluid">
   <div class="container--max-width --no-padding">
@@ -192,15 +141,32 @@ ul.news-list li a:hover {
           </div>
         </div>
         <ul class="news-list">
-          <div id="loading-news" class="lds-ellipsis">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>        
+          <?php
+            //Tidak langsung integrasi dengan blog
+            
+            for($x=0;$x<$limit;$x++) {
+            $title = str_replace(' & ', ' &amp; ', $feed[$x]['title']);
+            $link = $feed[$x]['link'];
+            $description = $feed[$x]['desc'];
+            $date = date('F d, Y', strtotime($feed[$x]['date']));
+          ?>
+          <li class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="news-list__body">
+                <div class="news-list__content">
+                  <span class="news-list__news-date">
+                    <?php echo tgl_indo(date('Y-m-d', strtotime($feed[$x]['date']))) ;?>
+                  </span>
+                  <p><?php echo $title ?></p>
+                </div>
+                <a href="<?php echo $link ?>" target="_blank" rel="noreferrer">Masuk ke detail ></a>
+              </div>
+            </div>
+          </li>
+          <?php }   ?>
         </ul>
       </div>
     </div>
   </div>
 </section>
-
+<?php } ?>
