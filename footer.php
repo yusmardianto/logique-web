@@ -63,6 +63,7 @@
                                         <ul>
                                         <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan  Website</a> </li>
                                         <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
+                                        <li><a href="/layanan/pembuatan-progressive-web-app.php" target="_blank">Jasa Pembuatan Aplikasi Web</a> </li>
                                         <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>
                                         <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan  Keamanan  Website (Pentest) </a></li>
                                         <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
