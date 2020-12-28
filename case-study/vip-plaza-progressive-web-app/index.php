@@ -4,16 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="LOGIQUE menawarkan layanan untuk perkembangan bisnis Anda dengan sebuah teknologi baru, yaitu jasa pembuatan progressive web apps, seperti yang dilakukan pada VIP Plaza. Ingin mendapatkan layanan ini, silahkan kunjungi website kami!">
+    <meta name="description" itemprop="description" content="LOGIQUE merupakan salah satu pengembang Progressive Web App (PWA) terbaik di Indonesia. Salah satu contoh PWA yang berhasil dikembangkan adalah VIP Plaza. ">
     <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Jasa Pembuatan Progressive Web Apps (PWA) | VIP Plaza | LOGIQUE">
+    <meta property="og:title" content="Contoh Pengembangan Progressive Web Apps (PWA) | VIP Plaza">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/case-study/vip-plaza-progressive-web-app/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-    <meta property="og:description" content="LOGIQUE menawarkan layanan untuk perkembangan bisnis Anda dengan sebuah teknologi baru, yaitu jasa pembuatan progressive web apps, seperti yang dilakukan pada VIP Plaza. Ingin mendapatkan layanan ini, silahkan kunjungi website kami!">
+    <meta property="og:description" content="LOGIQUE merupakan salah satu pengembang Progressive Web App (PWA) terbaik di Indonesia. Salah satu contoh PWA yang berhasil dikembangkan adalah VIP Plaza. ">
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
     <script>
@@ -26,7 +26,7 @@
     ga('send', 'pageview');
 
     </script>
-    <title>Jasa Pembuatan Progressive Web Apps (PWA) | VIP Plaza | LOGIQUE</title>
+    <title>Contoh Pengembangan Progressive Web Apps (PWA) | VIP Plaza</title>
 
     <link href="../../../css/bootstrap.min.css" rel="stylesheet">
     </noscript>
