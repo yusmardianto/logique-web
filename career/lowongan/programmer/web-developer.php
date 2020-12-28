@@ -205,8 +205,6 @@
                   <li>Terbiasa dan mempunyai minat untuk berkolaborasi dan berkomunikasi dengan pihak ketiga </li>
                 </ul>
               </div>
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
@@ -220,8 +218,8 @@
                   <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
-               
             </div>
+              
           </div>
         </div>
       </section>
