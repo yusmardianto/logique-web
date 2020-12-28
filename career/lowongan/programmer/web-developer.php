@@ -147,7 +147,7 @@
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Talenta Yang Kami Cari </h3>
-                <p class="mb--15">Logique mencari seorang yang memiliki pengalaman bekerja dalam sebuah tim pengembang aplikasi berbasis web. Baik saat melakukan perancangan website atau saat melakukan debugging maupun mengatasi error yang pada aplikasi. Untuk melakukan hal tersebut di butuhkan strategi dan juga logika yang tepat agak menghasilkan aplikasi yang baik. </p>
+                <p class="mb--15">Logique mencari seorang yang memiliki pengalaman bekerja dalam sebuah tim pengembang aplikasi berbasis web. Baik saat melakukan perancangan website atau saat melakukan debugging maupun mengatasi error yang pada aplikasi. Untuk melakukan hal tersebut di butuhkan strategi dan juga logika yang tepat agar menghasilkan aplikasi yang baik. </p>
                 <p>Jika Anda memiliki karakteristik:</p>
                 <ul class="career-list">
                   <li>Professional</li>
@@ -165,17 +165,9 @@
               <div class="career-requirement">
                 <h3 class="section-title">Apa yang bisa Anda dapatkan </h3>
                 <p class="mb--15">Kami mencari PHP Developer yang bisa segera bergabung bersama team Logique. Sudah menjadi bagian dari filosofi Kami untuk terus menghargai dan memberikan apresiasi terbaik terhadap setiap profesional kami, memberikan manfaat yang komprehensif, tantangan yang menarik, dan peluang untuk berkembang dalam hal pekerjaan maupun keahlian.</p>
-                <p>Jika Anda memiliki karakteristik:</p>
-                <ul class="career-list">
-                  <li>Professional</li>
-                  <li>Memiliki inisiatif tinggi </li>
-                  <li>Berkomitmen tinggi </li>
-                  <li>Mandiri </li>
-                  <li>Self-Driven </li>
-                  <li>Logis dalam berpikir</li>
-                </ul>
               </div>
-             
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <p></p>
@@ -198,8 +190,6 @@
                   <li>Melakukan pengujian terhadap hasil yang dikerjakan termasuk system pengujian terintegrasi</li>
                 </ul> 
               </div>
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Required Skill</h3>
                 <ul class="career-list">
