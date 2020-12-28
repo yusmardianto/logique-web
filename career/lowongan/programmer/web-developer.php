@@ -138,7 +138,7 @@
           <div class="career-requirement">
             <div class="row">
               <div class="col-sm-offset-1 col-md-10 col-sm-10">
-                PHP Developer bertugas untuk mengembangkan aplikasi berbasis web, termasuk merancang Database agar aplikasi berjalan sesuai dengan fungsinya, dan berkolaborasi dengan Front-end Developer dengan mengintegrasikan elemen yang di buat oleh front-end developer agar bisa di gunakan dengan baik oleh user.
+                <p><span class="fs-24 line-height-1">PHP Developer</span> bertugas untuk mengembangkan aplikasi berbasis web, termasuk merancang Database agar aplikasi berjalan sesuai dengan fungsinya, dan berkolaborasi dengan Front-end Developer dengan mengintegrasikan elemen yang di buat oleh front-end developer agar bisa di gunakan dengan baik oleh user.</p>
               </div>
             </div>
           </div>
