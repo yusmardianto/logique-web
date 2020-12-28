@@ -7,22 +7,22 @@
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE menyediakan jasa pembuatan sistem & aplikasi website serta progressive web app (PWA) di Jakarta. Dikerjakan secara profesional dengan teknologi terkini.">
+         content="Jasa pembuatan aplikasi web / sistem web di Jakarta dengan harga terbaik. Dikerjakan secara profesional menggunakan teknologi terkini | LOGIQUE">
      <meta name="keywords"
          content="jasa pembuatan aplikasi web, jasa pembuatan web app, jasa pembuatan PWA">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta">
+     <meta property="og:title" content="Jasa Pembuatan Aplikasi Web / Sistem Web Terbaik di Jakarta">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="LOGIQUE menyediakan jasa pembuatan sistem & aplikasi website serta progressive web app (PWA) di Jakarta. Dikerjakan secara profesional dengan teknologi terkini.">
+         content="Jasa pembuatan aplikasi web / sistem web di Jakarta dengan harga terbaik. Dikerjakan secara profesional menggunakan teknologi terkini | LOGIQUE">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php" />  
 
-    <title>Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta</title> 
+    <title>Jasa Pembuatan Aplikasi Web / Sistem Web Terbaik di Jakarta</title> 
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/slick.css" rel="stylesheet"> 
      <link rel="stylesheet" href="/css/sidebar-update.css" >
