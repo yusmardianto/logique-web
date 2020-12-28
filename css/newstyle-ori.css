@@ -68,7 +68,11 @@ button:focus {
 }
 /* spacing */
 .m-t-30px {
+<<<<<<< HEAD
+  margin-top: 30px;
+=======
     margin-top: 30px;
+>>>>>>> 53f5565803aa70d87b371a63a6450fa5442c51ee
 }
 /* end spacing */
 .lang-logo--update-design {
