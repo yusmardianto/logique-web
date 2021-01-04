@@ -16,6 +16,7 @@
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="LOGIQUEはインドネシアのDigitalマーケティングを支援するITコンサル会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/digital-marketing.php">
     <title>デジタルマーケティングサービス | LOGIQUEデジタル インドネシア</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">

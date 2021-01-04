@@ -54,6 +54,7 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <title>求人ページ制作｜採用サイト｜インドネシアのWEB制作・システム開発会社LOGIQUE</title>
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/recruitment-web-dev.php"/>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">

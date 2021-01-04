@@ -43,10 +43,11 @@ if(isset($_POST['submitted']))
 	<meta name="keywords" content="">
 	<meta name="author" content="Logique Digital Indonesia">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="canonical" href="https://www.logique.co.id/jp/services/pembuatan-website-karir-perusahaan/"/>
     <title>求人ページ制作｜採用サイト｜インドネシアのWEB制作・システム開発会社LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">	 
-    <link href="css/style.css" rel="stylesheet">
-    <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
+	<link href="css/style.css" rel="stylesheet">
+	<link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
