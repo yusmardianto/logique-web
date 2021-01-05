@@ -47,6 +47,7 @@
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <title>インドネシアでの採用を効率的に｜SugoiSaiyo｜LOGIQUE DIGITAL INDONESIA</title>
+     <link rel="canonical" href="https://www.logique.co.id/jp/product/sugoi-saiyo.php"/>
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
      <link href="css/style_sugoisaiyo.css" rel="stylesheet">

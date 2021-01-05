@@ -50,6 +50,10 @@ button:focus {
 .wrapper {
     overflow: hidden;
 }
+.contain-video.wrapper--update-design,
+.wrapper.wrapper--update-design {
+    max-width: unset !important;
+}
 .flex__row {
     display: flex;
     flex-wrap: wrap;
@@ -66,13 +70,12 @@ button:focus {
 .content-wrapper__ {
     margin-left: 90px;
 }
+.content-wrapper__ .--top{
+    margin-top: 5em;
+}
 /* spacing */
 .m-t-30px {
-<<<<<<< HEAD
-  margin-top: 30px;
-=======
     margin-top: 30px;
->>>>>>> 53f5565803aa70d87b371a63a6450fa5442c51ee
 }
 /* end spacing */
 .lang-logo--update-design {
@@ -209,6 +212,29 @@ button:focus {
     border: 2px solid #ffca13;
     background: #ffca13;
 }
+/* breadcrumb */
+.breadcrumb--update-design {
+    font-size: 13px;
+    padding: 1.5em 15px;
+    background-color: transparent;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.breadcrumb--update-design>li {
+    word-break: keep-all;
+}
+.breadcrumb--update-design li.active a {
+    color: #000;
+}
+.breadcrumb>li+li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: ">"!important;
+}
+.breadcrumb--update-design a {
+    color: #ffca13;
+}
+
 /*content home*/
 .content-article .title {
     color: #000;
@@ -243,9 +269,7 @@ button:focus {
     margin-bottom: 15px;
     line-height: 34px;
 }
-.container__ {
-    width: 1075px;
-}
+
 .container__ {
     padding-top: 2.5em;
     padding-bottom: 2.5em;
@@ -668,6 +692,7 @@ video {
 .bg--footer {
     background-color: #212425;
 }
+
 footer {
     z-index: 5;
     margin-left: 95px;
@@ -687,7 +712,10 @@ footer ol {
     margin: 0;
     padding: 0;
 }
-
+.content-wrapper__.bg--footer.footer-section {
+    padding-left: 90px;
+    margin-left: 0;
+}
 .footer-update a {
     color: #fff;
 }
@@ -797,6 +825,18 @@ footer .medsos-new .facebook-icon:hover {
 }
 /* -------------- responsive harus di bawah ini ---------------*/
 
+@media (min-width: 769px) and (max-width:1299px) {
+    .container__ {
+        padding: 2.5em;
+    }
+}
+@media (min-width: 1200px) {
+    .container__ {
+        width: 1075px;
+    }
+}
+
+
 @media only screen and (max-width: 1024px) {
     .container__ {
         width: auto;
@@ -887,6 +927,11 @@ footer .medsos-new .facebook-icon:hover {
         display: none;
     }
 }
+@media (min-width: 992px) and (max-width: 1119px) {
+    .container__ {
+        width: 900px;
+    }
+}
 @media (max-width: 991px) {
     .container__footer {
         padding-left: 2px;
@@ -930,10 +975,8 @@ footer .medsos-new .facebook-icon:hover {
 }
 @media (max-width: 767.98px) {
     .container__ {
-        width: 900px;
-        padding: 2.5em;
+        width: auto;
     }
-
     footer {
         margin-left: 0;
         padding: 30px 10px 10px;
@@ -941,7 +984,7 @@ footer .medsos-new .facebook-icon:hover {
     }
     .content-wrapper__ .--top,
     .top--.content-wrapper__ {
-        margin-top: 6.5em !important;
+        margin-top: 9.5em !important;
     }
     .content-wrapper__,
     .content-wrapper__black,

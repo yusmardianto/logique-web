@@ -17,9 +17,10 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="LOGIQUEのSEO対策サービス。ジャカルタからインドネシア語、英語、日本語でのSEO対策サービスを提供しています。">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="canonical" href="https://www.logique.co.id/jp/services/digital-marketing/seo-service.php"/>
 	<title>インドネシア語SEO対策サービス | LOGIQUE Digitalインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">

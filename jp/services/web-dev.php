@@ -56,6 +56,7 @@ if(isset($_POST['submitted']))
      <meta property="og:description"
          content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
     <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/web-dev.php"/>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style_webdev_new.css" rel="stylesheet">
