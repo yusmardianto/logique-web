@@ -20,10 +20,17 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio.php">
     <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet"> 
-    <link href="css/style.css" rel="stylesheet">
+    
+    <!-- <link href="css/style.css" rel="stylesheet"> -->       
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
     <link href="css/portfolio.css" rel="stylesheet">
 
     <?php 
@@ -127,24 +134,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="en/portfolio.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="jp/portfolio.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-            </div> 
-        </div>  
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/portfolio.php';
+            $id_link = '#';
+            $jp_link = '/jp/portfolio.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
  
 
         <div class="portfolio-update content-wrapper__">

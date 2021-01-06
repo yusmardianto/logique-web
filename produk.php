@@ -19,8 +19,17 @@
         content="LOGIQUE menawarkan berbagai produk digital untuk meningkatkan profit bisnis Anda, mulai dari software kerja remote, sistem laporan kerja karyawan, hingga sistem rekrutmen karyawan untuk HR. Hubungi sekarang juga jika Anda tertarik untuk mendapatkan layanan kami.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Produk Digital | Sistem Rekrutmen, Kerja Remote, Laporan Kerja | LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+
+    <!-- <link href="css/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css">
+    <link rel="stylesheet" href="/css/style-product.css">
+
     <link rel="canonical" href="https://www.logique.co.id/produk.php"/>
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -51,7 +60,7 @@
     ?>
 
     <?//php include './popup.php'; ?>
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
             data-toggle="collapse" data-target="#myNavbar">
@@ -124,7 +133,7 @@
         <div class="bg-white-opacity"></div> -->
 
         <!-- HEADER -->
-        <div class="container-fluid">
+        <!-- <div class="container-fluid">
             <div class="lang-logo--update-design">
                 <div class="container">
                     <div class="row">
@@ -142,7 +151,16 @@
                     </div>
                 </div>
             </div>
-        </div> <!-- END HEADER -->
+        </div>  -->
+        <!-- END HEADER -->
+
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/product.php';
+            $id_link = '#';
+            $jp_link = '/jp/product.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <!-- CONTENT -->
         <div class="content-wrapper__">

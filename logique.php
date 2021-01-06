@@ -19,9 +19,18 @@
         content="Perusahaan Web Developer, Designer & Konsultan IT terbaik di Jakarta. LOGIQUE Digital Indonesia, Solusi untuk pengembangan Website, Web Sistem & Mobile App">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Web / Mobile App Developer & Konsultan IT Terbaik di Jakarta</title>
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
+    <link rel="stylesheet" href="/css/style-logique.css">
+    
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/logique.php"/>  
@@ -51,7 +60,7 @@
         }
     ?>
     
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -124,27 +133,14 @@
             </video>
         </div>
         <div class="bg-white-opacity"></div> -->
-
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/logique.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/logique.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
+        
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/logique.php';
+            $id_link = '#';
+            $jp_link = '/jp/logique.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 

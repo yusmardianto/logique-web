@@ -19,17 +19,21 @@
         content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>Jakarta Based Web Creation & IT Services | LOGIQUE </title>
-
+    
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../css/style.css" rel="stylesheet">
+    <!-- <link href="../css/style.css" rel="stylesheet">   -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-services.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 </head>
 
 <body>
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -123,6 +127,14 @@
             </div>
         </div>
         <!-- END HEADER -->
+
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan.php';
+            $jp_link = '/jp/services.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 

@@ -1,0 +1,111 @@
+/* slogan */
+.product-slogan {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-slogan__img {
+    position: absolute;
+    width: 18%;
+    max-width: 230px;
+}
+
+.product-slogan__text {
+    width: 75%;
+    margin-left: auto;
+    font-size: 22px;
+}
+
+/* product image */
+.product-list__img {
+    max-height: 120px;
+    max-width: 250px;
+    padding: 10px 20px;
+}
+
+/* product snapshot */
+
+.product-snap-shot {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0 20px 30px;
+    margin-top: 20px;
+}
+
+.product-snap-shot__item {
+    padding: 0 20px;
+    background: linear-gradient(#000, #000) bottom/100% 40% no-repeat;
+    flex-grow: 1;
+    color: #fff;
+}
+
+.product-snap-shot__img--3-col {
+    width: 100%;
+    max-width: 305px;
+    border: solid 1px #000;
+    margin-bottom: 15px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.product-snap-shot__img--2-col {
+    width: 100%;
+    max-width: 450px;
+    border: solid 1px #000;
+    margin-bottom: 15px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.product-snap-shot__text {
+    width: 80%;
+    max-width: 220px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 15px;
+}
+.product-snap-shot.dokodemo-ss {
+    justify-content: center;
+}
+.product-snap-shot.dokodemo-ss .product-snap-shot__item {
+    margin-bottom:30px;
+    flex-grow: 0;
+}
+
+@media (max-width: 1199.98px) {
+    .product-snap-shot {
+        padding: 0 20px;
+    }
+    .product-snap-shot__item {
+        margin-bottom: 30px;
+    }
+}
+
+/* @media (max-width: 991.98px) {    
+    .dokodemo-ss .product-snap-shot__item { 
+        width: 50%
+    }
+} */
+
+@media (max-width: 767.98px) {
+    /* slogan */
+    .product-slogan {
+        text-align: center;
+    }
+    .product-slogan__img {
+        position: relative;
+        width: 50%;
+        margin: 0 auto 10px;
+    }
+    .product-slogan__text {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .product-list__img {
+        max-height: 100px;
+        max-width: 200px;
+    }
+}
