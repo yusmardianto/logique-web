@@ -19,11 +19,19 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
     <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
     <!-- Bootstrap -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet"> 
+    
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-portfolio.css" rel="stylesheet">
 
-    <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 </head>
@@ -104,24 +112,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li class="active"><a href="#">EN</a></li>
-                                    <li><a href="/portofolio/system-development.php">ID</a></li>
-                                    <li><a href="/jp/portfolio/system-development.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/portofolio/system-development.php';
+            $jp_link = '/jp/portfolio/system-development.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <style>
         html {

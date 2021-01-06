@@ -60,6 +60,7 @@ if(isset($_POST['submitted']))
     <title>Jasa Pembuatan Website Profesional di Jakarta | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="../css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
     <!-- <link href="/css/style.css" rel="stylesheet"> -->
     <link href="assets/css/style-webdev-new.css" rel="stylesheet"> 
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -173,68 +174,57 @@ if(isset($_POST['submitted']))
         </div>
         <!-- NAVIGATION -->
 
-        <!-- HEADER -->
-        <div class="container-fluid"> 
-            <div class=" lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                    <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
-                        <a href="/index.php" class='logo-container'><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                        <ul class="list-inline">
-                            <li><a href="/en/services/web-dev.php">EN</a></li>
-                            <li class="active"><a href="#">ID</a></li>
-                            <li><a href="/jp/services/web-dev.php">JP</a></li>
-                        </ul> 
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/services/web-dev.php';
+            $id_link = '#';
+            $jp_link = '/jp/services/web-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
+
+        <header class="content-wrapper__ header">
+            <div class="bg-header">
+                <div class="container__">
+                    <div class=" breadcrumb-section container">
+                        <ol class="breadcrumb breadcrumb--update-design" itemscope
+                            itemtype="http://schema.org/BreadcrumbList">
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                    href="/index.php"><span itemprop="name">Beranda</span></a>
+                                <meta itemprop="position" content="1" />
+                            </li>
+                            <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                    itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
+                                <meta itemprop="position" content="2" />
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                    itemprop="item"><span itemprop="name">Web Development</span></a>
+                                <meta itemprop="position" content="3" />
+                            </li>
+                        </ol>
                     </div>
+                    <div class="main-section  "> 
+                        <div class="row">
+                            <div class="col-md-6 "></div>
+                            <div class="col-md-6 col-sm-12">
+                                <h1 class="title">
+                                    <span>Jasa Pembuatan Website LOGIQUE</span>
+                                </h1>
+                                <div class="content">
+                                    <p>
+                                    LOGIQUE memiliki layanan pembuatan website berstandar tinggi yang dapat membantu Anda menarik banyak pengunjung, menambah kontak bisnis, dan meningkatkan jumlah pelamar bagi perusahaan Anda. 
+                                    </p>
+
+                                    <p>
+                                        Bila Anda ingin menggunakan Website sebagai kanal utama dalam pemasaran produk atau layanan yang dimiliki, membuat perbedaan dengan kompetitor, atau memperkuat sisi rekrutmen silakan menghubungi LOGIQUE.<br>
+                                    </p>
+                                    <p>
+                                        Dengan pengalaman dan hasil yang telah teruji, LOGIQUE siap membantu Anda.
+                                    </p>
+                                </div>
+                            </div>
+                        </div> 
                     </div>
                 </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
-
-        <header class="content-wrapper__ header" style="">
-            <div class="container__">
-                <div class="bg-header">
-                <div class=" breadcrumb-section container">
-                    <ol class="breadcrumb breadcrumb--update-design" itemscope
-                        itemtype="http://schema.org/BreadcrumbList">
-                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                href="/index.php"><span itemprop="name">Beranda</span></a>
-                            <meta itemprop="position" content="1" />
-                        </li>
-                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
-                            <meta itemprop="position" content="2" />
-                        </li>
-                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                itemprop="item"><span itemprop="name">Web Development</span></a>
-                            <meta itemprop="position" content="3" />
-                        </li>
-                    </ol>
-                </div>
-                <div class="main-section  "> 
-                                <div class="row">
-                                    <div class="col-md-6 "></div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <h1 class="title">
-                                            <span>Jasa Pembuatan Website LOGIQUE</span>
-                                        </h1>
-                                        <div class="content">
-                                            <p>
-                                            LOGIQUE memiliki layanan pembuatan website berstandar tinggi yang dapat membantu Anda menarik banyak pengunjung, menambah kontak bisnis, dan meningkatkan jumlah pelamar bagi perusahaan Anda. 
-                                            </p>
-
-                                            <p>
-                                                Bila Anda ingin menggunakan Website sebagai kanal utama dalam pemasaran produk atau layanan yang dimiliki, membuat perbedaan dengan kompetitor, atau memperkuat sisi rekrutmen silakan menghubungi LOGIQUE.<br>
-                                            </p>
-                                            <p>
-                                                Dengan pengalaman dan hasil yang telah teruji, LOGIQUE siap membantu Anda.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div> 
-                        </div>
-                    </div>
             </div>      
         </header>
     

@@ -19,9 +19,14 @@
     <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet"> 
+    
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-portfolio.css" rel="stylesheet">
 
-    <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
@@ -103,24 +108,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="/jp/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/portfolio/digital-marketing.php">EN</a></li>
-                                    <li><a href="/portofolio/digital-marketing.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing.php';
+            $id_link = '/portofolio/digital-marketing.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <style>
         html {

@@ -18,9 +18,15 @@
         content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。Penetrationテストを行い、Webサイトへの攻撃、乗っ取り、改ざんなどから守ります。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Webサイト脆弱性セキュリティテスト｜LOGIQUEデジタルインドネシア</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../css/style.css?v=1.1" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">  
+
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
+    <link rel="stylesheet" href="/css/style-revamp.css" >
+    <!-- <link rel="stylesheet" href="../css/style.css" > -->
     <link href="assets/css/style-pentest.css" rel="stylesheet">
+    <link href="/css/animate.min.css" rel="stylesheet">
+
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
@@ -43,7 +49,7 @@
     </script>
 </head>
 
-<body class="wrapper wrapper--update-design" style="overflow-y: auto;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font --jp" style="overflow-y: auto;">
     <style>
     .container__ {
         padding-top: 0;
@@ -145,26 +151,13 @@
     </div>
     <!-- NAVIGATION -->
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
-                        <div class="container">
-                            <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li><a href="/en/services/penetration-test.php">EN</a></li>
-                                <li><a href="/layanan/penetration-test.php">ID</a></li>
-                                <li class="active"><a href="#">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'jp';
+        $en_link = '/en/services/penetration-test.php';
+        $id_link = '/layanan/penetration-test.php';
+        $jp_link = '#';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+    ?>
 
     <div class="content-wrapper__">
         <div class="header-top">

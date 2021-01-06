@@ -17,11 +17,19 @@
         content="LOGIQUEのWebサイト制作実績を紹介。ホームページ制作、Webデザイン、Webシステム開発で豊富な実績があります。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Web・ホームページ制作実績 | LOGIQUEデジタルインドネシア</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
     <!-- Bootstrap -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet"> 
+    
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-portfolio.css" rel="stylesheet">
 
-    <link href="/css/style.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
@@ -103,22 +111,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <a href="/jp/index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li><a href="/en/portfolio/website.php">EN</a></li>
-                                <li><a href="/portofolio/website.php">ID</a></li>
-                                <li class="active"><a href="#">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/website.php';
+            $id_link = '/portofolio/website.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <style>
         html {

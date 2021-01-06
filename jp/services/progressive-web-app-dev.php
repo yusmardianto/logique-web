@@ -19,10 +19,16 @@
     <meta property="og:description"
         content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
     <title>インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA</title>
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/style-pwa.css" rel="stylesheet">
     <link href="./assets/css/style-pwa-jp.css" rel="stylesheet">
+
     <link rel="canonical" href="https://www.logique.co.id/jp/services/progressive-web-app-dev.php" />
     <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet"> -->
     <!-- <script>
@@ -37,7 +43,7 @@
 	</script> -->
 </head>
 
-<body class="wrapper wrapper--update-design jp-page">
+<body class="wrapper wrapper--update-design wrapper--update-design-font --jp jp-page">
 
     <!-- NAVIGATION -->
     <div>
@@ -105,24 +111,13 @@
     </div>
     <!-- NAVIGATION -->
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9">
-                        <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" loading="lazy" /></a>
-                        <ul class="list-inline">
-                            <li><a href="/en/services/progressive-web-app-dev.php">EN</a></li>
-                            <li><a href="/layanan/pembuatan-progressive-web-app.php">ID</a></li>
-                            <li class="active"><a href="#">JP</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'jp';
+        $en_link = '/en/services/progressive-web-app-dev.php';
+        $id_link = '/layanan/pembuatan-progressive-web-app.php';
+        $jp_link = '#';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+    ?>
 
     <div class="service service-pwa">
 

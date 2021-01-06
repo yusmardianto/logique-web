@@ -16,9 +16,18 @@
     <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Jasa Pembuatan Progressive Web App (PWA) Terbaik | LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/../css/style.css" rel="stylesheet">
+
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-pwa.css" rel="stylesheet">
+
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
@@ -32,7 +41,7 @@
     <?php } ?>
 </head>
 
-<body class="wrapper wrapper--update-design">
+<body class="wrapper wrapper--update-design wrapper--update-design-font">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?> 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
@@ -104,7 +113,7 @@
     <!-- NAVIGATION -->
 
     <!-- HEADER -->
-    <div class="container-fluid">
+    <!-- <div class="container-fluid">
         <div class="lang-logo--update-design">
             <div class="container">
                 <div class="row">
@@ -119,8 +128,16 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- END HEADER -->
+
+    <?php 
+      $lang = 'id';
+      $en_link = '/en/services/progressive-web-app-dev.php';
+      $id_link = '#';
+      $jp_link = '/jp/services/progressive-web-app-dev.php';
+      include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+    ?>
 
     <div class="service service-pwa">
 

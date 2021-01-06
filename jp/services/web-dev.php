@@ -57,10 +57,12 @@ if(isset($_POST['submitted']))
          content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
     <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->    
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style_webdev_new.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -82,7 +84,7 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div class="side-container"></div>
+    <!-- <div class="side-container"></div> -->
     <div>
 
         <!-- NAVIGATION -->
@@ -151,27 +153,13 @@ if(isset($_POST['submitted']))
         </div>
         <!-- NAVIGATION -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="  lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li><a href="/layanan/web-dev.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                                <a href="/jp/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/services/web-dev.php';
+            $id_link = '/layanan/web-dev.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <header class="content-wrapper__">
             <div class="text-left --top">

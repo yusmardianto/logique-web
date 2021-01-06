@@ -23,10 +23,18 @@
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php" />  
 
     <title>Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta</title> 
-     <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="/css/slick.css" rel="stylesheet"> 
-     <link rel="stylesheet" href="/css/sidebar-update.css" >
-     <link href="assets/css/style-systemdev.css" rel="stylesheet">  
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/slick.css" rel="stylesheet"> 
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="assets/css/style-systemdev.css" rel="stylesheet">  
+
+    <style>
+        .breadcrumb-container .container__ {
+            padding: 0;
+        }
+    </style>
  </head> 
  <?php /*
       <link href="/css/style.css" rel="stylesheet">
@@ -88,7 +96,7 @@
 		}
 	?>
  
-     <div class="wrapper">
+     <div class="wrapper wrapper--update-design wrapper--update-design-font">
          <!-- NAVIGATION -->
          <div class="nav-lp">
              <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -154,29 +162,13 @@
              </div>
          </div>
          <!-- NAVIGATION --> 
-         <!-- HEADER -->
-         <div class="container-fluid"> 
-             <div class="  lang-logo--update-design">
-                 <div class="container__">
- 
-                     <div class="row">
-                         <div class="col-sm-offset-1 col-sm-11">
-                              
-                                 <a href="/index.php"><img loading="lazy" src="/img/logo.png"
-                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                         class="img-responsive logo--update-design" /></a>
-                                 <ul class="list-inline">
-                                     <li><a href="/en/services/system-dev.php">EN</a></li>
-                                     <li class="active"><a href="#">ID</a></li>
-                                     <li><a href="/jp/services/system-dev.php">JP</a></li>
-                                 </ul>
-                            
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- END HEADER -->
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/services/system-dev.php';
+            $id_link = '#';
+            $jp_link = '/jp/services/system-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
      </div>
      <header class="content-wrapper__ header"> 
          <div class="container__" style="position:relative">

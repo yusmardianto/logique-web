@@ -20,9 +20,18 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/services/web-dev.php" />  
     <title>Indonesia's Best Progressive Web App (PWA) Development Service｜LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/style-pwa.css" rel="stylesheet">
+
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,7 +44,7 @@
 	</script>
 </head>
 
-<body class="wrapper wrapper--update-design">
+<body class="wrapper wrapper--update-design wrapper--update-design-font">
     <!-- NAVIGATION -->
     <div>
         <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
@@ -120,6 +129,14 @@
         </div>
     </div>
     <!-- END HEADER -->
+
+    <?php 
+        $lang = 'en';
+        $en_link = '#';
+        $id_link = '/layanan/pembuatan-progressive-web-app.php';
+        $jp_link = '/jp/services/progressive-web-app-dev.php';
+        include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+    ?>
 
     <div class="service service-pwa">
 

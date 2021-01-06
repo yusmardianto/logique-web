@@ -59,7 +59,9 @@ if(isset($_POST['submitted']))
     <link rel="canonical" href="https://www.logique.co.id/en/services/web-dev.php" />  
     <title>A Jakarta Based Web Developer Service Company | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
     <link href="assets/css/style-webdev-new.css" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -84,7 +86,7 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div class="side-container"></div>
+    <!-- <div class="side-container"></div> -->
     <div>
 
         <!-- NAVIGATION -->
@@ -153,29 +155,59 @@ if(isset($_POST['submitted']))
         </div>
         <!-- NAVIGATION -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li class="active"><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li><a href="/layanan/web-dev.php">ID</a></li>
-                                    <li><a href="/jp/services/web-dev.php">JP</a></li>
-                                </ul>
-                                <a href="/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>disini
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan/web-dev.php';
+            $jp_link = '/jp/services/web-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <header class="content-wrapper__">
+            <!-- <div class="bg-header">
+                <div class="container__">
+                    <div class="breadcrumb-section container">
+                        <ol class="breadcrumb breadcrumb--update-design" itemscope
+                            itemtype="http://schema.org/BreadcrumbList">
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                    href="/index.php"><span itemprop="name">Home</span></a>
+                                <meta itemprop="position" content="1" />
+                            </li>
+                            <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                    itemprop="item" href="/services.php"><span itemprop="name">Services</span></a>
+                                <meta itemprop="position" content="2" />
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                    itemprop="item"><span itemprop="name">Web Development</span></a>
+                                <meta itemprop="position" content="3" />
+                            </li>
+                        </ol>
+                    </div>
+                    <div class="main-section  "> 
+                        <div class="row">
+                            <div class="col-md-6 "></div>
+                            <div class="col-md-6 col-sm-12">
+                                <h1 class="title">
+                                    <span>Jasa Pembuatan Website LOGIQUE</span>
+                                </h1>
+                                <div class="content">
+                                    <p>
+                                    LOGIQUE memiliki layanan pembuatan website berstandar tinggi yang dapat membantu Anda menarik banyak pengunjung, menambah kontak bisnis, dan meningkatkan jumlah pelamar bagi perusahaan Anda. 
+                                    </p>
+
+                                    <p>
+                                        Bila Anda ingin menggunakan Website sebagai kanal utama dalam pemasaran produk atau layanan yang dimiliki, membuat perbedaan dengan kompetitor, atau memperkuat sisi rekrutmen silakan menghubungi LOGIQUE.<br>
+                                    </p>
+                                    <p>
+                                        Dengan pengalaman dan hasil yang telah teruji, LOGIQUE siap membantu Anda.
+                                    </p>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>
+
+                </div>
+            </div> -->
             
             <div class="text-left --top">
                 <div class="container-fluid">
