@@ -26,6 +26,29 @@ body {
 .overflow-hidden {
   overflow: hidden;
 }
+.main-title.main-title--white{
+  color: white;
+  font-weight: bold;
+}
+.main-title.main-title--with-square-point {
+  padding-left: 30px;
+  position: relative;
+}
+.main-title.main-title--with-square-point::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 16px;
+  height: 16px;
+  border-radius: 4px;
+  background-color: #ffca00;
+}
+.main-subtitle{
+  color: #fcca00;
+  text-transform: uppercase;
+}
 
 /* color */
 .bg--l-gray{
@@ -64,6 +87,9 @@ body {
 }
 
 /* spacing */
+.mb--0px{
+  margin-bottom: 0px;
+}
 .mt--20px,
 .my--20px {
   margin-top: 20px;
@@ -230,5 +256,99 @@ input.form-control.h--50px {
   bottom: 0;
 }
 
-
 /* end header */
+
+/* banner */
+
+.banner-contact{
+  background: url(../img/pm/bg-contact-banner.png) center/cover no-repeat;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* end banner */
+
+/* expert team */
+.pm-expert-team{
+  background: url(../img/pm/bg-tim-ahli.jpg) center/cover no-repeat;
+  padding: 2em 0;
+}
+
+.expert-team-box{
+  background: rgba(0,0,0,0.8);
+  position: relative;
+  padding: 5px 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+.expert-team-box .expert-team-second-paragraph{
+  text-indent: 60px;
+  position: relative;
+  margin-top: 40px;
+}
+.expert-team-box .img-expert-team-quote{
+  position: absolute;
+  left: 0;
+  top: -25px;
+}
+/* end expert team */
+
+/* ceremonies */
+
+.img-ceremonies-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img-ceremonies-wrapper img{
+  padding: 40px;
+  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.1);
+
+}
+
+.ceremonies-box-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+}
+.ceremonies-box{
+  background: black;
+  color: white;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 2px 5px;
+}
+/* end ceremonies */
+
+/* contact form */
+.contact-form-wrapper{
+  background: #f6f6f6;
+  padding: 30px;
+}
+.contact-form-wrapper input.form-control{
+  padding: 10px 25px;
+  height: 50px;
+}
+
+.contact-form-wrapper textarea.form-control{
+  padding: 10px 25px;
+}
+
+.contact-form-wrapper .btn--yellow{
+  min-width: 145px;
+}
+/* end contact form */
+
+/* responsive */
+
+@media screen and (max-width: 991px){
+  .banner-contact .banner-contact-text{
+    margin-bottom: 20px;
+  }
+
+  .expert-team-wrapper [class*='col-']:first-child{
+    order: 1;
+  }
+}
+
+/* end responsive */
