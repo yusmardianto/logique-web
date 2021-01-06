@@ -193,6 +193,12 @@ body {
 }
 /* end common */
 
+/* position */
+.position--relative{
+  position: relative;
+}
+/* end position */
+
 /* row */
 .row.row--flex {
   display: flex;
@@ -283,7 +289,8 @@ input.form-control.h--50px {
 /* expert team */
 .pm-expert-team{
   background: url(../img/pm/bg-tim-ahli.jpg) center/cover no-repeat;
-  padding: 2em 0;
+  position: relative;
+  overflow: hidden;
 }
 
 .expert-team-box{
@@ -303,6 +310,12 @@ input.form-control.h--50px {
   position: absolute;
   left: 0;
   top: -25px;
+}
+
+.consultant-lead-wrapper{
+  position: absolute;
+  bottom: 0;
+  right: -30px;
 }
 /* end expert team */
 
@@ -375,9 +388,24 @@ input.form-control.h--50px {
     margin-bottom: 20px;
   }
 
+  .consultant-lead-wrapper{
+    display: none;
+  }
   .expert-team-wrapper [class*='col-']:first-child{
     order: 1;
   }
 }
 
+@media screen and (max-width: 768px){
+  .pm-header .header-top{
+    height: 145px;
+  }
+  .pm-wrapper .pm-header {
+    background-position: -175px 0px;
+    background-size: auto 100%;
+  }
+  .pm-wrapper .pm-header .header__title {
+    margin-top: 150px;
+  }
+}
 /* end responsive */
