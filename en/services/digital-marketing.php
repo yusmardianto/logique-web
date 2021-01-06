@@ -6,23 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="LOGIQUE, a digital marketing agency in Jakarta, offering professional Digital Marketing services in indonesia.">
+        content="The best digital marketing agency & consultant in Jakarta, offering professional digital marketing services to increase your conversions | Call Us Now!">
     <meta name="keywords"
         content="Digital Marketing Services indonesia, Digital Marketing Agency indonesia, Digital Marketing Agency Jakarta">
     <meta name="title"
-        content="Logique provides Jakarta based Digital Marketing services">
+        content="Digital Marketing Agency Jakarta, Indonesia | LOGIQUE">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta property="og:title"
-         content="LOGIQUE | Jakarta Based Digital Marketing Agency">
+         content="Digital Marketing Agency Jakarta, Indonesia | LOGIQUE">
      <meta property="og:type" content="website">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/services/digital-marketing.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-     <meta property="og:description" content="LOGIQUE, a digital marketing agency in Jakarta, offering professional Digital Marketing services in indonesia.">
+     <meta property="og:description" content="The best digital marketing agency & consultant in Jakarta, offering professional digital marketing services to increase your conversions | Call Us Now!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/services/digital-marketing.php">
-    <title>LOGIQUE | Jakarta Based Digital Marketing Agency</title>
+    <title>Digital Marketing Agency Jakarta, Indonesia | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="preload stylesheet" as="style">
     <link href="assets/css/style-digital-marketing.css" rel="preload stylesheet" as="style">

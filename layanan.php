@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
+        content="Jasa pembuatan web Otomotif, Asuransi, Lelang Online, E-commerce, web design, digital marketing, aplikasi web, aplikasi android & ios di Jakarta | LOGIQUE">
     <meta name="keywords"
         content="jasa pembuatan website, jasa pengembangan sistem website, digital marketing, toko online, pemasaran digital, web server, sistem website, pengetesan keamanan website, pengembangan aplikasi mobile, klinik gigi, pembuatan konten website, aplikasi android ios">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Pembuatan Website, Design, Mobile App, Digital Marketing | Layanan LOGIQUE">
+    <meta property="og:title" content="Jasa Pembuatan Web, Design, Mobile App, Digital Marketing">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/services.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="LOGIQUE memberikan layanan jasa pembuatan website, web design, digital marketing, dan pembuatan serta pengembangan aplikasi untuk berbagai kebutuhan bisnis Anda. Kami siap membantu mengoptimalkan bisnis Anda!">
+        content="Jasa pembuatan web Otomotif, Asuransi, Lelang Online, E-commerce, web design, digital marketing, aplikasi web, aplikasi android & ios di Jakarta | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Pembuatan Website, Design, Mobile App, Digital Marketing | Layanan LOGIQUE</title>
+    <title>Jasa Pembuatan Web, Design, Mobile App, Digital Marketing</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
