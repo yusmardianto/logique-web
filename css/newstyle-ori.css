@@ -99,6 +99,10 @@ button:focus {
     height: 44px;
     width: 44px;
 }
+.logique-text{
+    font-family: "Novocento Sans Wide Medium", sans-serif;
+    text-transform: capitalize;
+}
 .logique-nav {
     width: 95px;
     background: rgb(255, 202, 19);
