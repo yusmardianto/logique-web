@@ -56,7 +56,7 @@ if(isset($_POST['submitted']))
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
-    <link href="/css/style-pm.css?v=1.0.2" rel="stylesheet">
+    <link href="/css/style-pm.css?v=1.0.3" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
@@ -235,7 +235,7 @@ if(isset($_POST['submitted']))
     </section>
 
     <section class="mb--60px pm-expert-team">
-        <div class="content-wrapper__">
+        <div class="content-wrapper__ py--60px">
             <div class="container__">
                 <div class="row row--flex expert-team-wrapper">
                     <div class="col-xs-12 col-md-6">
@@ -250,13 +250,13 @@ if(isset($_POST['submitted']))
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-md-6 d-flex align-items-end justify-content-center">
-                        <div class="consultant-lead-wrapper">
-                            <img src="/img/pm/consultant-lead-meiriando.png" class="img-responsive mx--auto" alt="Meiriando Teja">
-                        </div>
-                    </div>
+                    <div class="col-xs-12 col-md-6 d-flex align-items-end justify-content-center"></div>
                 </div>
             </div>
+            
+        </div>
+        <div class="consultant-lead-wrapper">
+            <img src="/img/pm/consultant-lead-meiriando.png" class="img-responsive mx--auto" alt="Meiriando Teja">
         </div>
     </section>
 
@@ -325,9 +325,9 @@ if(isset($_POST['submitted']))
                         <p>3. Daily Scrum</p>
                         <p>Daily scrum merupakan event harian yang dilakukan oleh Tim dan scrum master untuk update pekerjaan dari Tim masing-masing. Untuk menjaga ke efektifan dalam proses daily scrum, event ini di timeboxing dalam 15 - 30 menit tergantung dengan kebutuhan di dalam tim sendiri. Setiap member yang ikut dalam daily scrum akan memiliki giliran untuk menjelaskan 3 hal utama dalam daily scrum seperti berikut : </p>
                         <div class="ceremonies-box-wrapper">
-                            <span class="ceremonies-box">Pekerjaan yang dilakukan kemarin</span>
-                            <span class="ceremonies-box">Pekerjaan yang akan dilakukan hari ini</span>
-                            <span class="ceremonies-box">Blocker atau hambatan yang mempengaruhi pekerjaan Tim hari itu</span>
+                            <span class="ceremonies-box">Pekerjaan yang dilakukan kemarin.</span>
+                            <span class="ceremonies-box">Pekerjaan yang akan dilakukan hari ini.</span>
+                            <span class="ceremonies-box">Blocker atau hambatan yang mempengaruhi pekerjaan Tim hari itu.</span>
                         </div>
                     </div>
                 </div>
@@ -358,9 +358,9 @@ if(isset($_POST['submitted']))
                         <p>5. Sprint Retrospective</p>
                         <p>Sprint retrospective merupakan event yg dilakukan di akhir sprint untuk me review kembali proses selama 1 sprint dan memutuskan action item yg akan dilakukan di sprint depan untuk proses sprint yang lebih baik. Sprint retrospective sendiri akan mendiskusikan 3 hal yaitu: </p>
                         <div class="ceremonies-box-wrapper">
-                            <span class="ceremonies-box">Apa yang kurang berjalan baik selama sprint</span>
-                            <span class="ceremonies-box">Apa yang sudah berjalan baik selama sprint</span>
-                            <span class="ceremonies-box">Apa yang masih membingungkan didalam sprint</span>
+                            <span class="ceremonies-box">Apa yang kurang berjalan baik selama sprint.</span>
+                            <span class="ceremonies-box">Apa yang sudah berjalan baik selama sprint.</span>
+                            <span class="ceremonies-box">Apa yang masih membingungkan didalam sprint.</span>
                         </div>
                         <p>Dari 3 hal diskusi tersebut akan di lanjutkan action item yang perlu dilakukan di sprint depan mengcover 3 hal tersebut.</p>
                     </div>
