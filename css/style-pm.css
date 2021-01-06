@@ -291,6 +291,8 @@ input.form-control.h--50px {
   background: url(../img/pm/bg-tim-ahli.jpg) center/cover no-repeat;
   position: relative;
   overflow: hidden;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .expert-team-box{
@@ -316,6 +318,9 @@ input.form-control.h--50px {
   position: absolute;
   bottom: 0;
   right: -30px;
+}
+.consultant-lead-wrapper img{
+  max-height: 750px;
 }
 /* end expert team */
 

@@ -238,7 +238,7 @@ if(isset($_POST['submitted']))
         <div class="content-wrapper__ py--60px">
             <div class="container__">
                 <div class="row row--flex expert-team-wrapper">
-                    <div class="col-xs-12 col-md-6">
+                    <div class="col-xs-12 col-md-7 col-lg-8">
                         <div class="expert-team-box">
                             <h3 class="mb--25px main-title main-title--white main-title--with-square-point">Tim Ahli Kami</h3>
                             <h5 class="main-subtitle">Profile</h5>
@@ -250,7 +250,7 @@ if(isset($_POST['submitted']))
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-md-6 d-flex align-items-end justify-content-center"></div>
+                    <div class="col-xs-12 col-md-5 col-lg-4 d-flex align-items-end justify-content-center"></div>
                 </div>
             </div>
             
