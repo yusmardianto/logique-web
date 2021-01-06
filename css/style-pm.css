@@ -42,8 +42,9 @@ body {
 .main-title.main-title--with-square-point::after {
   content: "";
   position: absolute;
-  top: 5px;
+  top: 50%;
   left: 0;
+  transform: translateY(-50%);
   width: 16px;
   height: 16px;
   border-radius: 4px;
