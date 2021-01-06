@@ -218,12 +218,12 @@ if(isset($_POST['submitted']))
                     </picture>
                     <div class="banner-contact-text">
                       <p class="mb--0px">Kami siap membantu Anda untuk mengelola</p>
-                      <p class="mb--0px"><strong>Project secara profesional</strong></p>
+                      <p class="mb--0px fw--800">PROJECT SECARA PROFESIONAL</p>
                     </div>
                   </div>
                   <div class="col-xs-offset-3 col-xs-6 col-md-offset-0 col-md-3 d-flex align-items-center">
                         <a href="/hubungi-kami.php" class="form-control btn btn--yellow">
-                          Kontak Kami
+                          KONTAK KAMI
                         </a>
                   </div>
                 </div>
@@ -246,11 +246,11 @@ if(isset($_POST['submitted']))
 
                             <p class="expert-team-second-paragraph">
                             <img src="/img/pm/quote-yellow.png" class="img-expert-team-quote" width="50" height="50" alt="quote">
-                            Didalam mengimplementasikan manajemen proyek yang ideal di LOGIQUE, ada beberapa hal yg perlu di perhatikan, diantaranya terdapat 2 hal yang menjadi prioritas. Yang pertama adalah transparansi, transaparansi berbicara mengenai proses kerja diantara stakeholder dalam proyek. Transparansi didalam proyek terhadap semua stakeholder diperlukan untuk memberikan awareness mengenai status proyek dan mampu meningkatkan ownership setiap stakeholder atas keberhasilan proyek. Transparansi juga meningkatkan kepercayaan satu sama lain dalam bekerja. Yang kedua adalah komitmen. Komitmen setiap stakeholder terhadap perannya di dalam proyek akan menghindari blocker atau obstacle dari kepada stakeholder lainnya sehingga mempermulus proses proyek dari Hulu hingga hilir.
+                            Didalam mengimplementasikan manajemen proyek yang ideal di <span class="logique-text">LOGIQUE</span>, ada beberapa hal yg perlu di perhatikan, diantaranya terdapat 2 hal yang menjadi prioritas. Yang pertama adalah transparansi, transaparansi berbicara mengenai proses kerja diantara stakeholder dalam proyek. Transparansi didalam proyek terhadap semua stakeholder diperlukan untuk memberikan awareness mengenai status proyek dan mampu meningkatkan ownership setiap stakeholder atas keberhasilan proyek. Transparansi juga meningkatkan kepercayaan satu sama lain dalam bekerja. Yang kedua adalah komitmen. Komitmen setiap stakeholder terhadap perannya di dalam proyek akan menghindari blocker atau obstacle dari kepada stakeholder lainnya sehingga mempermulus proses proyek dari Hulu hingga hilir.
                             </p>
                         </div>
                     </div>
-                    <div class="col-xs-12 col-md-6">
+                    <div class="col-xs-12 col-md-6 d-flex align-items-end justify-content-center">
                         <div class="consultant-lead-wrapper">
                             <img src="/img/pm/consultant-lead-meiriando.png" class="img-responsive mx--auto" alt="Meiriando Teja">
                         </div>
@@ -264,7 +264,7 @@ if(isset($_POST['submitted']))
         <div class="content-wrapper__">
             <div class="container__">
                 <h3 class="main-title main-title--with-square-point mb--30px">
-                    Manajemen Proyek di LOGIQUE
+                    Manajemen Proyek di <span class="logique-text fs--24px">LOGIQUE</span>
                 </h3>
                 <div class="row">
                     <div class="col-md-5">
@@ -325,9 +325,9 @@ if(isset($_POST['submitted']))
                         <p>3. Daily Scrum</p>
                         <p>Daily scrum merupakan event harian yang dilakukan oleh Tim dan scrum master untuk update pekerjaan dari Tim masing-masing. Untuk menjaga ke efektifan dalam proses daily scrum, event ini di timeboxing dalam 15 - 30 menit tergantung dengan kebutuhan di dalam tim sendiri. Setiap member yang ikut dalam daily scrum akan memiliki giliran untuk menjelaskan 3 hal utama dalam daily scrum seperti berikut : </p>
                         <div class="ceremonies-box-wrapper">
-                            <div class="ceremonies-box">Pekerjaan yang dilakukan kemarin</div>
-                            <div class="ceremonies-box">Pekerjaan yang akan dilakukan hari ini</div>
-                            <div class="ceremonies-box">Blocker atau hambatan yang mempengaruhi pekerjaan Tim hari itu</div>
+                            <span class="ceremonies-box">Pekerjaan yang dilakukan kemarin</span>
+                            <span class="ceremonies-box">Pekerjaan yang akan dilakukan hari ini</span>
+                            <span class="ceremonies-box">Blocker atau hambatan yang mempengaruhi pekerjaan Tim hari itu</span>
                         </div>
                     </div>
                 </div>
@@ -358,9 +358,9 @@ if(isset($_POST['submitted']))
                         <p>5. Sprint Retrospective</p>
                         <p>Sprint retrospective merupakan event yg dilakukan di akhir sprint untuk me review kembali proses selama 1 sprint dan memutuskan action item yg akan dilakukan di sprint depan untuk proses sprint yang lebih baik. Sprint retrospective sendiri akan mendiskusikan 3 hal yaitu: </p>
                         <div class="ceremonies-box-wrapper">
-                            <div class="ceremonies-box">Apa yang kurang berjalan baik selama sprint</div>
-                            <div class="ceremonies-box">Apa yang sudah berjalan baik selama sprint</div>
-                            <div class="ceremonies-box">Apa yang masih membingungkan didalam sprint</div>
+                            <span class="ceremonies-box">Apa yang kurang berjalan baik selama sprint</span>
+                            <span class="ceremonies-box">Apa yang sudah berjalan baik selama sprint</span>
+                            <span class="ceremonies-box">Apa yang masih membingungkan didalam sprint</span>
                         </div>
                         <p>Dari 3 hal diskusi tersebut akan di lanjutkan action item yang perlu dilakukan di sprint depan mengcover 3 hal tersebut.</p>
                     </div>
@@ -417,8 +417,8 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <h3 class="main-title main-title--with-square-point">Pengembangan Sistem Secara Dinamis di LOGIQUE</h3>
-                <p class="mb--20px">Sejalan dengan manajemen proyek yang lebih dinamis dan cepat menggunakan metodologi Agile, LOGIQUE melakukan pendekatan yang lebih fleksibel terhadap cara pengembangan sistem dan kontrak kerja. Sehingga, berbeda dengan beberapa tahun sebelumnya saat pengerjaan sebuah proyek perlu dilakukan pendefinisian ruang lingkup secara menyeluruh terlebih dahulu dan tidak dapat dibagi-bagi, LOGIQUE dapat membantu Anda melakukan pengembangan per bagian dengan sistem kerja yang dinamis untuk penyelesaian proyek sesuai kebutuhan. Pada sistem kerja ini, Anda dapat bersama-sama menentukan komposisi tim yang perlu diturunkan dan menggantinya sesuai dengan kebutuhan selama jalannya proyek. Hal ini memungkinkan Anda untuk mendapatkan hasil yang optimal dan cepat dengan komposisi tim yang tepat dengan fleksibilitas kebutuhan bisnis yang cepat didalam perusahaan.</p>
+                <h3 class="main-title main-title--with-square-point">Pengembangan Sistem Secara Dinamis di <span class="logique-text fs--30px">LOGIQUE</span></h3>
+                <p class="mb--20px">Sejalan dengan manajemen proyek yang lebih dinamis dan cepat menggunakan metodologi Agile, <span class="logique-text">LOGIQUE</span> melakukan pendekatan yang lebih fleksibel terhadap cara pengembangan sistem dan kontrak kerja. Sehingga, berbeda dengan beberapa tahun sebelumnya saat pengerjaan sebuah proyek perlu dilakukan pendefinisian ruang lingkup secara menyeluruh terlebih dahulu dan tidak dapat dibagi-bagi, <span class="logique-text">LOGIQUE</span> dapat membantu Anda melakukan pengembangan per bagian dengan sistem kerja yang dinamis untuk penyelesaian proyek sesuai kebutuhan. Pada sistem kerja ini, Anda dapat bersama-sama menentukan komposisi tim yang perlu diturunkan dan menggantinya sesuai dengan kebutuhan selama jalannya proyek. Hal ini memungkinkan Anda untuk mendapatkan hasil yang optimal dan cepat dengan komposisi tim yang tepat dengan fleksibilitas kebutuhan bisnis yang cepat didalam perusahaan.</p>
                 <p>Untuk mempermudah proses kolaborasi antara kedua belah pihak dan mempercepat delivery dokumentasi didalam proyek, kami menggunakan tools cloud yang bisa di akses oleh kedua belah pihak.</p>
             </div>
         </div>
@@ -428,7 +428,7 @@ if(isset($_POST['submitted']))
         <div class="content-wrapper__">
             <div class="container__">
                 <h3 class="main-title main-title--with-square-point">Hubungi Kami</h3>
-                <p>Sukseskan proyek digital Anda bersama LOGIQUE sekarang! Silakan isi form dibawah ini. Kami siap membantu Anda!</p>
+                <p>Sukseskan proyek digital Anda bersama <span class="logique-text">LOGIQUE</span> sekarang! Silakan isi form dibawah ini. Kami siap membantu Anda!</p>
                 <div class="contact-form-wrapper">
                     <h3 class="text-center mb--40px">Hubungi Kami untuk mendapatkan penawaran terbaik</h3>
                     <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
