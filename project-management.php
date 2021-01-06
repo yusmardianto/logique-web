@@ -1,3 +1,40 @@
+<?php
+require_once("./form/fgcontactform.php");
+
+$formproc = new FGContactForm();
+
+//1. Add your email address here.
+//You can add more than one receipients.
+$formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address here
+
+//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
+// and put it here
+$formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
+
+//$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
+
+if(isset($_POST['submitted']))
+{
+	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+		// print_r($verifyResponse); exit;
+		$responseData = json_decode($verifyResponse);
+		if ($responseData->success) {
+			if ($formproc->ProcessForm()) {
+				$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+			}
+		} else {
+			$msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+		}
+	} else {
+		$msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+	}
+}
+
+?>
+
 <!DOCTYPE html>
 <html lang="id">
 
@@ -21,7 +58,7 @@
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-pm.css" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php" />
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
         <!-- Google Tag Manager -->
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -381,7 +418,7 @@
         <div class="content-wrapper__">
             <div class="container__">
                 <h3 class="main-title main-title--with-square-point">Pengembangan Sistem Secara Dinamis di LOGIQUE</h3>
-                <p class="mb--20px">Berbeda dengan beberapa tahun sebelumnya saat pengerjaan sebuah proyek perlu dilakukan pendefinisian ruang lingkup secara menyeluruh terlebih dahulu dan tidak dapat dibagi-bagi, LOGIQUE dapat membantu Anda melakukan pengembangan per bagian dengan sistem kerja yang dinamis untuk penyelesaian proyek sesuai kebutuhan. Pada sistem kerja ini, Anda dapat bersama-sama menentukan komposisi tim yang perlu diturunkan dan menggantinya sesuai dengan kebutuhan selama jalannya proyek. Hal ini memungkinkan Anda untuk mendapatkan hasil yang optimal dan cepat dengan komposisi tim yang tepat dengan fleksibilitas kebutuhan bisnis yang cepat didalam perusahaan.</p>
+                <p class="mb--20px">Sejalan dengan manajemen proyek yang lebih dinamis dan cepat menggunakan metodologi Agile, LOGIQUE melakukan pendekatan yang lebih fleksibel terhadap cara pengembangan sistem dan kontrak kerja. Sehingga, berbeda dengan beberapa tahun sebelumnya saat pengerjaan sebuah proyek perlu dilakukan pendefinisian ruang lingkup secara menyeluruh terlebih dahulu dan tidak dapat dibagi-bagi, LOGIQUE dapat membantu Anda melakukan pengembangan per bagian dengan sistem kerja yang dinamis untuk penyelesaian proyek sesuai kebutuhan. Pada sistem kerja ini, Anda dapat bersama-sama menentukan komposisi tim yang perlu diturunkan dan menggantinya sesuai dengan kebutuhan selama jalannya proyek. Hal ini memungkinkan Anda untuk mendapatkan hasil yang optimal dan cepat dengan komposisi tim yang tepat dengan fleksibilitas kebutuhan bisnis yang cepat didalam perusahaan.</p>
                 <p>Untuk mempermudah proses kolaborasi antara kedua belah pihak dan mempercepat delivery dokumentasi didalam proyek, kami menggunakan tools cloud yang bisa di akses oleh kedua belah pihak.</p>
             </div>
         </div>
@@ -394,36 +431,44 @@
                 <p>Sukseskan proyek digital Anda bersama LOGIQUE sekarang! Silakan isi form dibawah ini. Kami siap membantu Anda!</p>
                 <div class="contact-form-wrapper">
                     <h3 class="text-center mb--40px">Hubungi Kami untuk mendapatkan penawaran terbaik</h3>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Nama Anda">
+                    <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
+                        <input type='hidden' name='submitted' id='submitted' value='1' />
+                        <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
+                            value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
+                        <fieldset>
+                            <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
+                        </fieldset>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <input type="text"  name="name" aria-label="Name"  class="form-control" placeholder="Nama Anda" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="email" name="email" aria-label="Email"  class="form-control" placeholder="Alamat E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input type="number" name="phone" aria-label="Phone"  class="form-control" placeholder="Nomor Telepon" value='<?php echo $formproc->SafeDisplay('phone') ?>' >
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <textarea name="message" aria-label="Message" class="form-control" rows="10" placeholder="Pertanyaan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+                                </div>
+                            </div>
+                            <div class="col-md-6" style="display:flex; margin-bottom:1em">
+                                <div class="g-recaptcha pull-right"
+                                    data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+                                <div class="clearfix"></div><br>
+                            </div>
+                            <div class="col-md-6 text-right">
+                                <button class="btn btn--yellow">Kirim</button>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <input type="email" class="form-control" placeholder="Alamat E-mail">
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <input type="tel" class="form-control" placeholder="Nomor Telepon">
-                            </div>
-                        </div>
-                        <div class="col-md-12">
-                            <div class="form-group">
-                                <textarea name="question" class="form-control" rows="10" placeholder="Pertanyaan"></textarea>
-                            </div>
-                        </div>
-                        <div class="col-md-6" style="display:flex; margin-bottom:1em">
-                            <div class="g-recaptcha pull-right"
-                                data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
-                            <div class="clearfix"></div><br>
-                        </div>
-                        <div class="col-md-6 text-right">
-                            <button class="btn btn--yellow">Kirim</button>
-                        </div>
-                    </div>
+                    </form>
                 </div>
             </div>
         </div>
@@ -431,8 +476,7 @@
 
     <?php include 'footer.php'; ?>
     <script async defer src='https://www.google.com/recaptcha/api.js'></script>
-    <!-- <script src="/js/bootstrap.min.js"></script> -->
-    <script src="assets/js/jquery.matchHeight.js"></script>
+
 </body>
 
 </html>
