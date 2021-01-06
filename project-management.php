@@ -56,7 +56,7 @@ if(isset($_POST['submitted']))
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
-    <link href="/css/style-pm.css" rel="stylesheet">
+    <link href="/css/style-pm.css?v=1.0" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
