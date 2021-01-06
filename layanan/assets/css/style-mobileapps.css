@@ -126,6 +126,12 @@ footer{
 	padding-bottom: 2.5em;
 	margin: 0 auto;
 }
+.link-white,
+.link-white:hover{
+	color: white;
+	text-decoration: underline;
+}
+
 footer div{font-family: 'Lato', sans-serif;}
 footer .title{font-size:24px;}
 .copyright{border-top:1px solid #fff;padding:20px 0;color:#ffc914;text-align:center;background:#000;font-family: 'Lato', sans-serif;}

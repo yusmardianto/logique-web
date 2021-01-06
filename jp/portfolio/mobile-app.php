@@ -16,6 +16,7 @@
     <meta property="og:description"
         content="LOGIQUEのモバイルアプリ開発実績を紹介。ホームページ制作、Webシステム構築、モバイルアプリ開発、Digitalマーケティングで豊富な実績があります。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/mobile-app.php"/>
     <title>モバイルアプリ開発実績 | LOGIQUEデジタルインドネシア</title>
 
     <!-- Bootstrap -->
