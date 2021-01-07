@@ -172,47 +172,6 @@
                             </div>
                             <div class="service-list__item">
                                 <div>
-                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#dm_">
-                                        <p class="service-list__title">Digital Marketing</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#dm_seo">
-                                            <li>SEO / SEM</li>
-                                        </a>
-                                        <a href="#dm_itConsult">
-                                            <li>Pengoperasian Iklan Digital</li>
-                                        </a>
-                                        <a href="#dm_contentCreate">
-                                            <li>Pembuatan Konten Website</li>
-                                        </a>
-                                        <a href="#dm_digiMarket">
-                                            <li>Optimasi Landing Page</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#webSecurity_">
-                                        <p class="service-list__title">IT Security Service</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#webSecurity_va">
-                                            <li>Tes Keamanan Website / Mobile App (VA / Penetration Test)</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
                                     <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
@@ -252,6 +211,47 @@
                                         </a>
                                         <a href="#mobile_appCreate">
                                             <li>Pembuatan Website Responsif / Mobile First</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#dm_">
+                                        <p class="service-list__title">Digital Marketing</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#dm_seo">
+                                            <li>SEO / SEM</li>
+                                        </a>
+                                        <a href="#dm_itConsult">
+                                            <li>Pengoperasian Iklan Digital</li>
+                                        </a>
+                                        <a href="#dm_contentCreate">
+                                            <li>Pembuatan Konten Website</li>
+                                        </a>
+                                        <a href="#dm_digiMarket">
+                                            <li>Optimasi Landing Page</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#webSecurity_">
+                                        <p class="service-list__title">IT Security Service</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#webSecurity_va">
+                                            <li>Tes Keamanan Website / Mobile App (VA / Penetration Test)</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -535,81 +535,6 @@
                 </div>
             </section>
 
-            <section class="section-divider" id="dm_">
-                <div class="bg--black">
-                    <div class="container__">
-                        <div class="text-center" style="position: relative;">
-                            <h1 class="title-index --yellow">Digital Marketing</h1>
-                            <hr class="title__yellow-line--center">
-                            <img class="google-badge" src="/img/google-badge.png" alt="Google Badge">
-                        </div>
-                    </div>
-                </div>
-                <div class="container__">
-                    <section id="dm_seo">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO / SEM</h4>
-                                <p>Kami akan melakukan analisis secara mendalam terhadap optimasi halaman web Anda. Layanan kami mencakup metode pemantauan data dan analisis kebiasaan pengguna. Taraf ukur keberhasilan kami tidak hanya terbatas pada implementasi SEO, namun juga melalui perbaikan website secara umum. <br><br>
-                                Hal ini dapat dibuktikan dari pengalaman-pengalaman SEO kami dalam bahasa Jepang, Inggris, dan Indonesia. Salah satunya, kami telah berhasil menjaga pelanggan kami (sebuah perusahaan finansial) untuk tetap terdaftar di peringkat 1 di Google dalam kata-kata kunci tertentu menggunakan strategi SEO yang kokoh dengan menggabungkan optimasi konten dan teknis. Selain dari itu, kami juga berpengalaman di bidang SEM.</p>
-                                <div class="service-detail__btn-wrapper">
-                                    <a target="_blank" class="main-btn --yellow"
-                                        href="layanan/digital-marketing/jasa-seo.php">Pelajari Lebih <span
-                                            class="hidden-xs">Lanjut Tentang SEO/SEM</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_itConsult">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pengoperasian Iklan Digital</h4>
-                                <p>Kami menawarkan pendekatan berorientasi hasil yang terhubung dengan manajemen biaya pay-per-click, menyediakan kampanye  yang transparan dan terukur, yang memungkinkan Anda untuk mengevaluasi keberhasilan iklan dibandingkan dengan target. Kami berpengalaman di berbagai industri vertikal dan menawarkan layanan proaktif, strategis dan sangat komunikatif. Kami tahu bahwa kampanye yang berhasil mengarah pada pengoptimalan dan penyempurnaan berkelanjutan. Hanya melalui struktur yang tertata dan terkelola dengan ketat, Anda dapat meningkatkan konversi dengan harga yang efektif. Jangan ragu untuk menghubungi kami untuk meningkatkan prospek dan konversi Anda melalui iklan online, strategi PR internet, atau pemasaran SNS.</p>
-                                <div class="service-detail__btn-wrapper">
-                                    <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Pengoperasian Iklan Digital</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_contentCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pembuatan Konten Website</h4>
-                                <p>Kami berupaya untuk memberikan layanan pembuatan konten berkualitas tinggi kepada Anda. Dengan membuat konten sesuai dengan tujuan bisnis Anda, Anda dapat mendapatkan hasil yang terbaik dan menjangkau lebih banyak pelanggan. Kami juga dapat membantu Anda menerjemahkan konten ke dalam bahasa Indonesia, Jepang, atau Inggris, ataupun membuat konten untuk meningkatkan kinerja web Anda dengan menerapkan SEO.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_digiMarket">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Optimasi Landing Page</h4>
-                                <p>LOGIQUE dapat melakukan pengoptimasian SEO terbaik untuk halaman website Anda untuk meningkatkan pengunjung dan konversi. Kami dapat bekerja secara fleksibel untuk memenuhi kebutuhan Anda termasuk pemasangan AMP, pelaksanaan A/B test, ataupun pembuatan banner HTML5. Kami akan selalu siap untuk membantu jika Anda memiliki masalah apapun.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <div class="text-center --back-top">
-                        <a href="portofolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
-                        </a>
-                        <a href="#serviceNavigation">
-                            <div class="main-btn">Back to Top</div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-
             <section class="section-divider" id="sysDev_">
                 <div class="bg--black">
                     <div class="container__">
@@ -728,6 +653,81 @@
                     </section>
                     <div class="text-center --back-top">
                         <a href="portofolio.php#PWA">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#serviceNavigation">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-divider" id="dm_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center" style="position: relative;">
+                            <h1 class="title-index --yellow">Digital Marketing</h1>
+                            <hr class="title__yellow-line--center">
+                            <img class="google-badge" src="/img/google-badge.png" alt="Google Badge">
+                        </div>
+                    </div>
+                </div>
+                <div class="container__">
+                    <section id="dm_seo">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">SEO / SEM</h4>
+                                <p>Kami akan melakukan analisis secara mendalam terhadap optimasi halaman web Anda. Layanan kami mencakup metode pemantauan data dan analisis kebiasaan pengguna. Taraf ukur keberhasilan kami tidak hanya terbatas pada implementasi SEO, namun juga melalui perbaikan website secara umum. <br><br>
+                                Hal ini dapat dibuktikan dari pengalaman-pengalaman SEO kami dalam bahasa Jepang, Inggris, dan Indonesia. Salah satunya, kami telah berhasil menjaga pelanggan kami (sebuah perusahaan finansial) untuk tetap terdaftar di peringkat 1 di Google dalam kata-kata kunci tertentu menggunakan strategi SEO yang kokoh dengan menggabungkan optimasi konten dan teknis. Selain dari itu, kami juga berpengalaman di bidang SEM.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow"
+                                        href="layanan/digital-marketing/jasa-seo.php">Pelajari Lebih <span
+                                            class="hidden-xs">Lanjut Tentang SEO/SEM</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_itConsult">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Pengoperasian Iklan Digital</h4>
+                                <p>Kami menawarkan pendekatan berorientasi hasil yang terhubung dengan manajemen biaya pay-per-click, menyediakan kampanye  yang transparan dan terukur, yang memungkinkan Anda untuk mengevaluasi keberhasilan iklan dibandingkan dengan target. Kami berpengalaman di berbagai industri vertikal dan menawarkan layanan proaktif, strategis dan sangat komunikatif. Kami tahu bahwa kampanye yang berhasil mengarah pada pengoptimalan dan penyempurnaan berkelanjutan. Hanya melalui struktur yang tertata dan terkelola dengan ketat, Anda dapat meningkatkan konversi dengan harga yang efektif. Jangan ragu untuk menghubungi kami untuk meningkatkan prospek dan konversi Anda melalui iklan online, strategi PR internet, atau pemasaran SNS.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Pengoperasian Iklan Digital</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_contentCreate">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Pembuatan Konten Website</h4>
+                                <p>Kami berupaya untuk memberikan layanan pembuatan konten berkualitas tinggi kepada Anda. Dengan membuat konten sesuai dengan tujuan bisnis Anda, Anda dapat mendapatkan hasil yang terbaik dan menjangkau lebih banyak pelanggan. Kami juga dapat membantu Anda menerjemahkan konten ke dalam bahasa Indonesia, Jepang, atau Inggris, ataupun membuat konten untuk meningkatkan kinerja web Anda dengan menerapkan SEO.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_digiMarket">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Optimasi Landing Page</h4>
+                                <p>LOGIQUE dapat melakukan pengoptimasian SEO terbaik untuk halaman website Anda untuk meningkatkan pengunjung dan konversi. Kami dapat bekerja secara fleksibel untuk memenuhi kebutuhan Anda termasuk pemasangan AMP, pelaksanaan A/B test, ataupun pembuatan banner HTML5. Kami akan selalu siap untuk membantu jika Anda memiliki masalah apapun.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <div class="text-center --back-top">
+                        <a href="portofolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
                         </a>
                         <a href="#serviceNavigation">

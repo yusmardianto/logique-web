@@ -142,47 +142,6 @@
                             </div>
                             <div class="service-list__item">
                                 <div>
-                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#dm_">
-                                        <p class="service-list__title">Digital Marketing</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#dm_seo">
-                                            <li>SEO / SEM</li>
-                                        </a>
-                                        <a href="#dm_digiMarket">
-                                            <li>Digital Ad Operation</li>
-                                        </a>
-                                        <a href="#dm_contentCreate">
-                                            <li>Web Content Creation/Operation</li>
-                                        </a>
-                                        <a href="#dm_lpOptimize">
-                                            <li>Landing Page Optimization</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#webSecurity_">
-                                        <p class="service-list__title">IT Security Service</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#webSecurity_va">
-                                            <li>Security Assesment (Vulnerability Scanning / Pen-Test)</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
                                     <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
@@ -222,6 +181,47 @@
                                         </a>
                                         <a href="#mobile_appCreate">
                                             <li>Mobile / Responsive Web Creation</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#dm_">
+                                        <p class="service-list__title">Digital Marketing</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#dm_seo">
+                                            <li>SEO / SEM</li>
+                                        </a>
+                                        <a href="#dm_digiMarket">
+                                            <li>Digital Ad Operation</li>
+                                        </a>
+                                        <a href="#dm_contentCreate">
+                                            <li>Web Content Creation/Operation</li>
+                                        </a>
+                                        <a href="#dm_lpOptimize">
+                                            <li>Landing Page Optimization</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#webSecurity_">
+                                        <p class="service-list__title">IT Security Service</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#webSecurity_va">
+                                            <li>Security Assesment (Vulnerability Scanning / Pen-Test)</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -486,136 +486,6 @@
                 </div>
             </section>
 
-            <section class="section-divider" id="dm_">
-                <div class="bg--black">
-                    <div class="container__">
-                        <div class="text-center" style="position: relative">
-                            <h1 class="title-index --yellow">Digital Marketing</h1>
-                            <hr class="title__yellow-line--center">
-                            <img class="google-badge" src="/img/google-badge.png" alt="Google Badge">
-                        </div>
-                    </div>
-                </div>
-                <div class="container__">
-                    <section id="dm_seo">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO / SEM</h4>
-                                    <p>
-                                        We can carry out an in-depth analysis of your website’s on-page optimization. Through our
-                                        services, we go beyond the basic methods of data tracking and user behavior analysis;
-                                        attesting to these results through the overall improvement of our client’s websites.
-                                        We have extensive SEO experience in the Japanese, Indonesian and English languages, and
-                                        have succeeded in keeping one of our clients (An Indonesian finance company) on 1st place
-                                        within Google’s search results.
-                                        Further, a solid SEO strategy combines technical and content optimization.
-                                        Additionally, we possess expertise in SEM as well.
-                                    </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/en/services/digital-marketing/seo-service.php">Learn more <span
-                                                class="hidden-xs">about our SEO / SEM services</span>
-                                        </a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_digiMarket">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Digital Ad Operation</h4>
-                                    <p>
-                                        We offer a results driven approach to pay-per-click management, providing transparent and
-                                        measurable campaigns,
-                                        allowing you to evaluate your success against your own targets. We are thoroughly
-                                        experienced across a wide range
-                                        of vertical markets and offer highly strategic and communicative services. We know that a
-                                        successful campaign comes
-                                        down to continual optimization and refinement. Only through a highly targeted and tightly
-                                        managed structure can you
-                                        achieve a higher conversion rate for a better price. Feel free to contact us to increase
-                                        your prospects and conversions
-                                        through online advertisements, an internet PR strategy, or SNS marketing.
-                                    </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/en/services/digital-marketing.php">Learn more <span class="hidden-xs">about our
-                                                Digital Marketing services</span></a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_lpOptimize">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Internet Business Consulting</h4>
-                                    <p>As expert internet advisors, we can assist you in launching a wholly new enterprise,
-                                        or to expand your
-                                        existing business through harnessing the power of the internet. Our technical experts
-                                        can perform a thorough
-                                        evaluation of your project’s needs and available technology stacks to help you pick
-                                        the most appropriate
-                                        option.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_contentCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Web Content Creation</h4>
-                                    <p>
-                                        We aim to provide you with content creation services of the highest quality,
-                                        producing content according to your business goals, and allowing you to secure
-                                        a larger audience in the process. We can further help you translate your content into
-                                        Indonesian,
-                                        Japanese or English, whilst implementing SEO in order to improve your website’s overall
-                                        performance.
-                                    </p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_lpOptimize">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Landing Page Optimization</h4>
-                                    <p>
-                                        LOGIQUE seeks to create & optimize your Landing Page for SEO,
-                                        with the end goal of getting your business as many visitors and conversions as possible.
-                                        We can work flexibly according to your specific requirements and needs, which may include
-                                        installing AMP,
-                                        conducting A/B testing, or creating HTML5 banners. We are always ready to help, should you
-                                        have any other concerns.
-                                    </p>
-                            </div>
-                        </div>
-                    </section>
-
-                    <div class="text-center --back-top">
-                        <a href="portfolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
-                        </a>
-                        <a href="#serviceNavigation">
-                            <div class="main-btn">Back to Top</div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-
             <section class="section-divider" id="sysDev_">
                 <div class="bg--black">
                     <div class="container__">
@@ -785,6 +655,136 @@
                     </section>
                     <div class="text-center --back-top">
                         <a href="portfolio.php#PWA">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#serviceNavigation">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-divider" id="dm_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center" style="position: relative">
+                            <h1 class="title-index --yellow">Digital Marketing</h1>
+                            <hr class="title__yellow-line--center">
+                            <img class="google-badge" src="/img/google-badge.png" alt="Google Badge">
+                        </div>
+                    </div>
+                </div>
+                <div class="container__">
+                    <section id="dm_seo">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">SEO / SEM</h4>
+                                    <p>
+                                        We can carry out an in-depth analysis of your website’s on-page optimization. Through our
+                                        services, we go beyond the basic methods of data tracking and user behavior analysis;
+                                        attesting to these results through the overall improvement of our client’s websites.
+                                        We have extensive SEO experience in the Japanese, Indonesian and English languages, and
+                                        have succeeded in keeping one of our clients (An Indonesian finance company) on 1st place
+                                        within Google’s search results.
+                                        Further, a solid SEO strategy combines technical and content optimization.
+                                        Additionally, we possess expertise in SEM as well.
+                                    </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/en/services/digital-marketing/seo-service.php">Learn more <span
+                                                class="hidden-xs">about our SEO / SEM services</span>
+                                        </a>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_digiMarket">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Digital Ad Operation</h4>
+                                    <p>
+                                        We offer a results driven approach to pay-per-click management, providing transparent and
+                                        measurable campaigns,
+                                        allowing you to evaluate your success against your own targets. We are thoroughly
+                                        experienced across a wide range
+                                        of vertical markets and offer highly strategic and communicative services. We know that a
+                                        successful campaign comes
+                                        down to continual optimization and refinement. Only through a highly targeted and tightly
+                                        managed structure can you
+                                        achieve a higher conversion rate for a better price. Feel free to contact us to increase
+                                        your prospects and conversions
+                                        through online advertisements, an internet PR strategy, or SNS marketing.
+                                    </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/en/services/digital-marketing.php">Learn more <span class="hidden-xs">about our
+                                                Digital Marketing services</span></a>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_lpOptimize">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Internet Business Consulting</h4>
+                                    <p>As expert internet advisors, we can assist you in launching a wholly new enterprise,
+                                        or to expand your
+                                        existing business through harnessing the power of the internet. Our technical experts
+                                        can perform a thorough
+                                        evaluation of your project’s needs and available technology stacks to help you pick
+                                        the most appropriate
+                                        option.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_contentCreate">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Web Content Creation</h4>
+                                    <p>
+                                        We aim to provide you with content creation services of the highest quality,
+                                        producing content according to your business goals, and allowing you to secure
+                                        a larger audience in the process. We can further help you translate your content into
+                                        Indonesian,
+                                        Japanese or English, whilst implementing SEO in order to improve your website’s overall
+                                        performance.
+                                    </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_lpOptimize">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Landing Page Optimization</h4>
+                                    <p>
+                                        LOGIQUE seeks to create & optimize your Landing Page for SEO,
+                                        with the end goal of getting your business as many visitors and conversions as possible.
+                                        We can work flexibly according to your specific requirements and needs, which may include
+                                        installing AMP,
+                                        conducting A/B testing, or creating HTML5 banners. We are always ready to help, should you
+                                        have any other concerns.
+                                    </p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <div class="text-center --back-top">
+                        <a href="portfolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
                         </a>
                         <a href="#serviceNavigation">
