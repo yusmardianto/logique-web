@@ -16,6 +16,7 @@
     <meta property="og:description"
         content="LOGIQUEのWebサイト制作実績を紹介。ホームページ制作、Webデザイン、Webシステム開発で豊富な実績があります。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/website.php"/>
     <title>Web・ホームページ制作実績 | LOGIQUEデジタルインドネシア</title>
     
     <!-- font -->

@@ -140,15 +140,15 @@ if(isset($_POST['submitted']))
              <div class="container__">
                  <div class="row">
                      <div class="col-md-7"> 
-                         <h1 style="font-size: 30px">Ingin Mengembangkan <span class="yellow">Aplikasi Mobile (Android | iOS |
-                                 Hybrid)</span> dengan kualitas tinggi dan biaya terjangkau? Silahkan Hubungi <span
-                                 class="yellow logo-font">LOGIQUE</span></h1>
+                         <h1 style="font-size: 30px">INGIN MENGEMBANGKAN <span class="yellow">APLIKASI MOBILE</span>? HUBUNGI <span class="yellow logo-font">LOGIQUE</span>
+                         <br>
+                         Jasa Pembuatan Aplikasi Mobile (Android | iOS | Hybrid) dengan kualitas dan harga terbaik di Jakarta. 
+                        </h1>
                          <p>
-                             LOGIQUE siap membantu Anda yang ingin berkonsultasi mengenai pengembangan, pengelolaan, dan
-                             peningkatan aplikasi mobile (Android | iOS | Hybrid). Kami menawarkan jasa pengembangan aplikasi
-                             mobile dengan teknologi terkini dan biaya yang terjangkau. Selain pengembangan aplikasi mobile, kami
-                             juga memiliki sejumlah pengalaman dalam solusi pemanfaatan ponsel seperti tampilan responsif, PWA
-                             (teknologi web progresif) dan lain sebagainya. Kami menunggu kabar Anda.
+                         LOGIQUE siap membantu Anda yang ingin berkonsultasi mengenai pengembangan, pengelolaan, dan pembuatan aplikasi mobile (Android | iOS | Hybrid). Kami menawarkan jasa pengembangan aplikasi mobile dengan teknologi terkini dan biaya yang terjangkau. Selain pembuatan dan pengembangan aplikasi mobile, kami juga memiliki sejumlah pengalaman dalam solusi pemanfaatan ponsel seperti tampilan responsif, PWA (teknologi web progresif) dan lain sebagainya. 
+                         </p>
+                         <p>
+                         Selain pengembangan aplikasi mobile berbasis Android, iOS dan Hybrid, kami juga berpengalaman dan memiliki kemampuan terbaik dalam proses <a href="/layanan/pembuatan-sistem-web.php" class="link-white">Pembuatan Aplikasi Berbasis Web</a> dan <a href="/layanan/pembuatan-progressive-web-app.php" class="link-white"> Pembuatan Progressive Web App (PWA)</a>. Jangan ragu untuk menghubungi kami dan konsultasikan kebutuhan Anda sekarang.
                          </p>
                          <div class="visible-md visible-lg"><br /><br /><br /><br /><br /><br /><br /><br /><br /></div>
                      </div>

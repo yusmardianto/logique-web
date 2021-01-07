@@ -53,6 +53,7 @@ if(isset($_POST['submitted']))
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description" content="インドネシアのお客様にAWS、GCP、Alibabaクラウド環境を構築運用サービスを提供しています。クラウドサーバーへの移行、新規システムの開発、運用代行、請求代行などお気軽にご相談ください。LOGIQUE Digital Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/devops.php"/>
     <title>クラウドサーバー構築運用 | DevOps | ジャカルタのシステム開発会社LOGIQUEデジタルインドネシア</title>
 
     <!-- bootstrap -->

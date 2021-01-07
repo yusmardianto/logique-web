@@ -16,6 +16,7 @@
     <meta property="og:description"
         content="インドネシアの人事管理事情に沿ったクラウドプロダクトの提供をしています。リモートワークを許容しながら生産性を向上することが可能なテレワークマネジメントツール、日報を通じて人事評価を行うことが可能なツール、オフラインのインタビューをできる限り少なくしてプロセスをスピードアップすることが可能な採用管理ツールの展開を行っています。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/jp/product.php"/>
     <title>人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA</title>
 
     <!-- Bootstrap -->

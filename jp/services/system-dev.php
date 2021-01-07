@@ -56,12 +56,13 @@
      <meta property="og:description"
          content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
      <title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
-
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/slick.css" rel="stylesheet"> 
-    <link href="/css/sidebar-update.css" rel="stylesheet">
-    <link href="/css/newstyle.css" rel="stylesheet">
-    <link href="assets/css/style-systemdev.css" rel="stylesheet">  
+     <link rel="canonical" href="https://www.logique.co.id/jp/services/system-dev.php"/>
+     
+     <link href="/css/bootstrap.min.css" rel="stylesheet">
+     <link href="/css/slick.css" rel="stylesheet"> 
+     <link href="/css/sidebar-update.css" rel="stylesheet">
+     <link href="/css/newstyle.css" rel="stylesheet">
+     <link href="assets/css/style-systemdev.css" rel="stylesheet">  
 
      <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">

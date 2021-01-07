@@ -53,6 +53,7 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="NIPPOは日報管理ツールです。日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。月額1ジュタからのクラウドツールですがカスタマイズ導入も可能です。デモ環境の試用も可能ですのでお問い合わせください。">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <link rel="canonical" href="https://www.logique.co.id/jp/product/nippo.php"/>
      <title>日報を通じて人事評価＆原価工数管理を行うール | NIPPO | LOGIQUEデジタルインドネシア</title>
      <link rel="stylesheet" href="/css/bootstrap.min.css">
      <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

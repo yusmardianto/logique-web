@@ -16,6 +16,7 @@
     <meta property="og:description"
         content="LOGIQUEは、WEBサイト・ホームページ制作、CMSやEC、会員管理システムなどの開発運用、Digitalマーケティング、アプリ開発、SNS運用、インターネットビジネスコンサルティングなどをインドネシアで提供しています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/jp/services.php"/>
     <title>Webサイト/ホームページ制作、SEO対策、モバイルアプリ開発、システム開発、IT・デジタルマーケティング関連コンサルティング。</title>
 
     <!-- Bootstrap -->
