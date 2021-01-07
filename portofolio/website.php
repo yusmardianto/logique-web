@@ -1109,6 +1109,19 @@
                                     </ul>
                                 </a>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-panin.webp" type="image/webp">
+                                        <img src="/img/portfolio/update/web-panin.jpg" class="img-responsive" alt="Panin Dai-ichi">
+                                    </picture>
+                                    <h3>Panin Dai-ichi</h3>
+                                    <ul class="list-unstyled">
+                                        <li>E-Commerce System Extension (CMS Development | Dynamic Insurance Products)</li>
+                                        <li>Laravel, Insurance </li>
+                                    </ul>
+                                </div>
+                            </div>
 
                         </div>
                     </div>

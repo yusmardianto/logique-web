@@ -218,6 +218,17 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
+                                    <div>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
+                                        </picture>
+                                        <h3>Marubeni</h3>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
