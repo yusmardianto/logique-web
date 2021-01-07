@@ -263,7 +263,7 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <h3 class="main-title main-title--with-square-point mb--30px">
+                <h3 class="main-title main-title--with-square-point mb--30px mt--40px">
                     Manajemen Proyek di <span class="logique-text fs--24px">LOGIQUE</span>
                 </h3>
                 <div class="row">
