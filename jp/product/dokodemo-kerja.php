@@ -51,7 +51,8 @@ if(isset($_POST['submitted']))
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
         content="Dokodemo-Kerjaは、LOGIQUEが提供しているリモートワーク管理ツールです。リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。トライアル利用可能ですのでお問い合わせください。">
-    <title>リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア</title>
+		<title>リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア</title>
+		<link rel="canonical" href="https://www.logique.co.id/jp/product/dokodemo-kerja.php"/>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_dokodemo.css" rel="stylesheet">
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">

@@ -138,14 +138,36 @@
           <div class="career-requirement">
             <div class="row">
               <div class="col-sm-offset-1 col-md-10 col-sm-10">
-                Kami mencari PHP Developer yang bisa segera bergabung bersama team Logique. Sudah menjadi bagian dari filosofi Kami untuk terus mampu menghargai dan memberikan apresiasi terbaik terhadap setiap profesional kami, memberikan manfaat yang komprehensif, tantangan yang menarik, dan peluang untuk berkembang dalam hal pekerjaan maupun keahlian.
+                <p><span class="fs-24 line-height-1">PHP Developer</span> bertugas untuk mengembangkan aplikasi berbasis web, termasuk merancang Database agar aplikasi berjalan sesuai dengan fungsinya, dan berkolaborasi dengan Front-end Developer dengan mengintegrasikan elemen yang di buat oleh front-end developer agar bisa di gunakan dengan baik oleh user.</p>
               </div>
             </div>
           </div>
 
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
-             
+              <div class="career-requirement">
+                <h3 class="section-title">Talenta Yang Kami Cari </h3>
+                <p class="mb--15">Logique mencari seorang yang memiliki pengalaman bekerja dalam sebuah tim pengembang aplikasi berbasis web. Baik saat melakukan perancangan website atau saat melakukan debugging maupun mengatasi error yang pada aplikasi. Untuk melakukan hal tersebut di butuhkan strategi dan juga logika yang tepat agar menghasilkan aplikasi yang baik. </p>
+                <p>Jika Anda memiliki karakteristik:</p>
+                <ul class="career-list">
+                  <li>Professional</li>
+                  <li>Memiliki inisiatif tinggi </li>
+                  <li>Berkomitmen tinggi </li>
+                  <li>Mandiri </li>
+                  <li>Self-Driven </li>
+                  <li>Logis dalam berpikir</li>
+                </ul>
+                <p>
+                  <strong>Maka, Andalah talenta yang cocok untuk bergabung dan berkembang bersama kami. </strong>
+                </p>
+              </div>
+
+              <div class="career-requirement">
+                <h3 class="section-title">Apa yang bisa Anda dapatkan </h3>
+                <p class="mb--15">Kami mencari PHP Developer yang bisa segera bergabung bersama team Logique. Sudah menjadi bagian dari filosofi Kami untuk terus menghargai dan memberikan apresiasi terbaik terhadap setiap profesional kami, memberikan manfaat yang komprehensif, tantangan yang menarik, dan peluang untuk berkembang dalam hal pekerjaan maupun keahlian.</p>
+              </div>
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <p></p>
@@ -168,52 +190,8 @@
                   <li>Melakukan pengujian terhadap hasil yang dikerjakan termasuk system pengujian terintegrasi</li>
                 </ul> 
               </div>
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience</h3>
-                <ul class="career-list">
-                  <li>
-                    Berpendidikan minimal D3 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.
-                  </li>
-                  <li>
-                    Berpengalaman minimal 2 tahun di bidang IT atau programming.
-                  </li>
-                  <li>
-                    Berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML, dll).
-                  </li>
-                  <li>
-                    Berpengalaman dalam menggunakan Framework PHP seperti Laravel, atau sejenisnya.
-                  </li>
-                  <li>
-                    Memahami prinsip yang mendasari Database pemrograman.
-                  </li>
-                  <li>
-                    Memahami dasar-dasar dari logika pemrograman.
-                  </li>
-                  <li>
-                    Mampu menggunakan atau membuat RESTful API
-                  </li>
-                  <li>
-                    Familiar dengan version control system (VCS) seperti Git
-                  </li>
-                </ul>
-              </div> -->
-
               <div class="career-requirement">
                 <h3 class="section-title">Required Skill</h3>
-                <ul class="career-list">
-                  <!-- <li>
-                    Memiliki kemampuan analisa dan pemecahan masalah yang baik.
-                  </li>
-                  <li>
-                    Mampu bekerja sebagai tim antar divisi.
-                  </li>
-                  <li>
-                    Dapat belajar secara cepat dan mandiri.
-                  </li>
-                  <li>
-                    Mempunyai rasa tanggung jawab yang tinggi.
-                  </li>
-                </ul> -->
                 <ul class="career-list">
                   <li>Berpendidikan minimal S1 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.  </li>
                   <li>Berpengalaman min. 3 tahun di bidang PHP framework/programming (Laravel atau Zend) </li>
@@ -227,28 +205,8 @@
                   <li>Terbiasa dan mempunyai minat untuk berkolaborasi dan berkomunikasi dengan pihak ketiga </li>
                 </ul>
               </div>
-<!-- 
-              <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>  Mempunyai minat yang besar terhadap bisnis Internet dan Web. </li>
-                  <li> Terbiasa menggunakan magento. </li> 
-                  <li> Memiliki pengetahuan tentang Project Management. </li>
-                  <li>  Memiliki pengetahuan tentang server. </li>
-                  <li> Memiliki pengetahuan dan pernah menggunakan framework JS. </li>
-                  <li> Memiliki pengetahuan tentang Golang. s</li>
-                </ul>
-              </div> -->
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
-                <!-- <ul class="career-list">
-                  <li>Anda akan terlibat dalam projek besar dengan client perusahaan yang sudah berjaya di industri otomotif </li>
-                  <li>Jam kerja yang flexible (40 jam /minggu) dan bebas memilih start time kerja (8.00 am – 10.00 am)</li>
-                  <li>Anda juga akan mendapatkan fasilitas remote working 1 – 3 hari setiap minggunya</li>
-                  <li>Bonus kinerja bulanan (performance based)</li>
-                </ul> -->
                 <ul class="career-list">
                   <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
                   <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
@@ -260,8 +218,8 @@
                   <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
-               
             </div>
+              
           </div>
         </div>
       </section>
