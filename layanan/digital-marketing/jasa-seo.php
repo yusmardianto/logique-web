@@ -20,10 +20,12 @@
     <link rel="canonical" href="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php" />  
 	<title>Jasa SEO Profesional Jakarta: Audit & Analisis | LOGIQUE </title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+	<!-- <link href="/css/style.css" rel="stylesheet"> -->	
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+	<!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview");</script>
 	<!-- Twitter universal website tag code -->
@@ -115,26 +117,13 @@
 			</div>
 		</div>
 
-		<!-- HEADER -->
-		<div class="container-fluid">
-			<div class="lang-logo--update-design">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-offset-1 col-sm-11">
-							<div class="container">
-								<a href="/en/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-								<ul class="list-inline">
-									<li><a href="/en/services/digital-marketing/seo-service.php">EN</a></li>
-									<li class="active"><a href="/layanan/digital-marketing/jasa-seo.php">ID</a></li>
-									<li><a href="/jp/services/digital-marketing/seo-service.php">JP</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- END HEADER -->
+		<?php 
+			$lang = 'id';
+			$en_link = '/en/services/digital-marketing/seo-service.php';
+			$id_link = '#';
+			$jp_link = '/jp/services/digital-marketing/seo-service.php';
+			include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+		?>
 
 		<div class="content-area content-area__seo">
 

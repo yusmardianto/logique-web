@@ -23,8 +23,15 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/layanan/digital-marketing.php" />  
     <title>Jasa Digital Marketing Jakarta Terbaik | LOGIQUE</title>
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-digital-marketing.css" rel="stylesheet">  
     <!-- <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -155,27 +162,14 @@
             </div>
         </div>
     </div>
-    
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
-                        <div class="container">
-                            <a href="/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li><a href="/en/services/digital-marketing.php">EN</a></li>
-                                <li class="active"><a href="#">ID</a></li>
-                                <li><a href="/jp/services/digital-marketing.php">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+
+    <?php 
+        $lang = 'id';
+        $en_link = '/en/services/digital-marketing.php';
+        $id_link = '#';
+        $jp_link = '/jp/services/digital-marketing.php';
+        include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+    ?>
 
     <div class="dm content-wrapper__">
 

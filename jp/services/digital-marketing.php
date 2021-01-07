@@ -17,8 +17,12 @@
     <meta property="og:description" content="LOGIQUEはインドネシアのDigitalマーケティングを支援するITコンサル会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>デジタルマーケティングサービス | LOGIQUEデジタル インドネシア</title>
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-digital-marketing.css" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet"> -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
@@ -158,26 +162,13 @@
         </div>
     </div>
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="  lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
-                        <div class="container">
-                            <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li><a href="/en/services/digital-marketing.php">EN</a></li>
-                                <li><a href="/layanan/digital-marketing.php">ID</a></li>
-                                <li class="active"><a href="#">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'jp';
+        $en_link = '/en/services/digital-marketing.php';
+        $id_link = '/layanan/digital-marketing.php';
+        $jp_link = '#';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+    ?>
 
     <div class="dm content-wrapper__">
 

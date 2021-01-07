@@ -56,7 +56,9 @@ if(isset($_POST['submitted']))
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Develop Your Recruitment Website | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -105,7 +107,7 @@ footer {
 </style>
 
 <body class="careerpage">
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
         <div>
@@ -174,26 +176,13 @@ footer {
         </div>
         <!-- NAVIGATION -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li class="active"><a href="">EN</a></li>
-                                    <li><a href="/layanan/pembuatan-web-karir.php">ID</a></li>
-                                    <li><a href="/jp/services/recruitment-web-dev.php">JP</a></li>
-                                </ul>
-                                <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan/pembuatan-web-karir.php';
+            $jp_link = '/jp/services/recruitment-web-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 

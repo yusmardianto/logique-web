@@ -20,7 +20,9 @@
 	<title>LOGIQUE | A Professional SEO Service Agency In Jakarta</title>
 	<link rel="canonical" href="https://www.logique.co.id/en/services/digital-marketing/seo-service.php"/>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-	<link href="/css/style.css" rel="stylesheet">
+	<!-- <link href="/css/style.css" rel="stylesheet"> -->	
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<script>
 		(function(i, s, o, g, r, a, m) {
@@ -119,26 +121,13 @@
 			</div>
 		</div>
 
-		<!-- HEADER -->
-		<div class="container-fluid">
-			<div class="lang-logo--update-design">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-offset-1 col-sm-11">
-							<div class="container">
-								<a href="/en/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-								<ul class="list-inline">
-									<li class="active"><a href="#">EN</a></li>
-									<li><a href="/../layanan/digital-marketing/jasa-seo.php">ID</a></li>
-									<li><a href="/jp/services/digital-marketing/seo-service.php">JP</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- END HEADER -->
+		<?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan/digital-marketing/jasa-seo.php';
+            $jp_link = '/jp/services/digital-marketing/seo-service.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
 		<div class="content-area content-area__seo">
 
