@@ -19,82 +19,28 @@
         content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <title>Jakarta Based Web Creation & IT Services | LOGIQUE </title>
-
+    
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../css/style.css" rel="stylesheet">
+    <!-- <link href="../css/style.css" rel="stylesheet">   -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-services.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 </head>
 
 <body>
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            About Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portfolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="services.php">
-                            <div class="img-services"></div>
-                            Services
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="product.php">
-                            <div class="img-product"></div>
-                            Product
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Career
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="contact.php">
-                            <div class="img-contact"></div>
-                            Contact Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -104,25 +50,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <a href="/en/index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li class="active"><a href="">EN</a></li>
-                                <li><a href="../layanan.php">ID</a></li>
-                                <li><a href="../jp/services.php">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan.php';
+            $jp_link = '/jp/services.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 
@@ -280,14 +214,14 @@
                                         <p class="service-list__title">Mobile Solution</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>Mobile / Responsive Web Creation</li>
+                                        <a href="#mobile_pwa">
+                                            <li>PWA (Progressive Web App) Development</li>
                                         </a>
                                         <a href="#mobile_appDev">
                                             <li>Mobile Application Development</li>
                                         </a>
-                                        <a href="#mobile_pwa">
-                                            <li>PWA (Progressive Web App) Development</li>
+                                        <a href="#mobile_appCreate">
+                                            <li>Mobile / Responsive Web Creation</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -339,7 +273,7 @@
                                         Develop Mobile App
                                     </div>
                                 </a>
-                                <a href="services/mobile-app-dev.php#solusi-section">
+                                <a href="/en/services/progressive-web-app-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
@@ -785,21 +719,24 @@
                     </div>
                 </div>
                 <div class="container__">
-                    <section id="mobile_appCreate">
+                    <section id="mobile_pwa">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Mobile Website Creation</h4>
-                                    <p>Responsive coding nowadays is trending, and is an important approach to navigating
-                                        online traffic, since
-                                        most of it stems from Mobile phones. Designed to fit your website directly into the
-                                        format of a smartphone
-                                        or tablet screen, we can develop a responsive website and optimize its UI depending on
-                                        the required device
-                                        screen size. We can also flexibly help you in implementing the use of new
-                                        technologies, such as PWA or AMP.</p>
+                                <h3 class="service-detail__title">PWA (Progressive Web App) Development</h3>
+                                <p>
+                                    LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
+                                    so
+                                    that it can be accessed just like a mobile application. PWA gives numerous benefits which can
+                                    be
+                                    utilized to filfill customer's expectation, increase interaction and conversion.
+                                </p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="/en/services/progressive-web-app-dev.php">Learn
+                                        more <span class="hidden-xs">about our PWA (Progressive Web App) Development</span></a>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -828,20 +765,21 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_pwa">
+                    <section id="mobile_appCreate">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">PWA (Progressive Web App) Development</h3>
-                                <p>
-                                    LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
-                                    so
-                                    that it can be accessed just like a mobile application. PWA gives numerous benefits which can
-                                    be
-                                    utilized to filfill customer's expectation, increase interaction and conversion.
-                                </p>
+                                <h3 class="service-detail__title">Mobile Website Creation</h4>
+                                    <p>Responsive coding nowadays is trending, and is an important approach to navigating
+                                        online traffic, since
+                                        most of it stems from Mobile phones. Designed to fit your website directly into the
+                                        format of a smartphone
+                                        or tablet screen, we can develop a responsive website and optimize its UI depending on
+                                        the required device
+                                        screen size. We can also flexibly help you in implementing the use of new
+                                        technologies, such as PWA or AMP.</p>
                             </div>
                         </div>
                     </section>

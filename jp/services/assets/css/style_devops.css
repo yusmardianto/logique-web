@@ -462,7 +462,7 @@ footer {
   }
   header h1 span{
     color: #ffca00;
-    font-family: Raleway-Bold;
+    /* font-family: Raleway-Bold; */
     font-size: 18px;
     font-weight: bold;
   }

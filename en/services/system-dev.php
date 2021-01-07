@@ -55,230 +55,13 @@
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <link rel="canonical" href="https://www.logique.co.id/en/services/system-dev.php">
      <title>Web System Development Service | LOGIQUE Digital Indonesia</title>
-     <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="/css/slick.css" rel="stylesheet">
-     <link href="../../css/sidebar-update.css" rel="stylesheet">
-     
-    <style>
-        /* remove unused css for this page (moved style.css used style to this inline style below)  */
 
-        @font-face {
-            font-family: "Novocento Sans Wide";
-            src: url("/fonts/Novecentosanswide-Normal.otf") format("opentype");
-            font-weight: normal;
-            font-style: normal;
-            font-display: swap;
-        }
-        @font-face {
-            font-family: "Novocento Sans Wide Medium";
-            src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
-            font-weight: bold;
-            font-style: normal;
-            font-display: swap;
-        }
-        body {
-            font-family: Raleway, sans-serif;
-        }
-        html {
-            scroll-behavior: smooth;
-        }
-        a,b,body,caption,center,dd,div,em,form,h1,h2,h3,h4,h5,h6,header,html,i,iframe,img,label,li,menu,nav,ol,p,section,small,span,strong,sub,sup,table,tbody,td,tfoot,th,thead,tr,u,ul,video {
-            margin: 0;
-            padding: 0;
-            border: 0;
-            line-height: 1.7;
-        } 
-        a:focus, a:hover {
-            text-decoration: none;
-        }
-        .breadcrumb>li+li:before {
-            padding: 0 5px;
-            color: #ccc;
-            content: ">"!important
-        }
-        .breadcrumb--update-design {
-            font-size: 16px;
-            padding: 0;
-            background-color: transparent;
-            font-weight: bold;
-            margin-bottom: 0
-        }
-
-        .breadcrumb--update-design>li {
-            word-break: keep-all
-        }
-
-        .breadcrumb--update-design a {
-            color: #fff;
-        }
-        .wrapper {
-            position: relative;
-            max-width: 1600px;
-            margin: 0 auto;
-            overflow: hidden
-        }
-
-        .contain-video.wrapper--update-design,.wrapper.wrapper--update-design {
-            max-width: unset!important
-        }
-
-        .logique-nav {
-            width: 95px;
-            background: #ffca13;
-            height: 100%;
-            position: fixed;
-            top: 0;
-            z-index: 1000;
-            perspective: 1000px;
-            padding: 0;
-            font-weight: 300;
-            transition: all .25s;
-            overflow: auto
-        }
-
-        .wrapper .navbar-toggle {
-            background-color: #ffca13!important;
-            z-index: 9999;
-            transition: all 1s;
-            position: fixed;
-            right: 80px;
-            border-radius: 0;
-            height: 34px;
-            margin-top: 0
-        }
-
-        .wrapper .navbar-toggle.collapsed {
-            background-color: #ffca13!important;
-            position: relative;
-            right: 0!important;
-            margin-top: 0
-        }
-
-        .navbar-toggle--update-design {
-            position: fixed!important
-        }
-
-        #bgImg,#job-opening,footer,section.maintop {
-            overflow: hidden
-        }
-
-
-        .logo--update-design {
-            max-width: 150px;
-            margin-top: 10px;
-            width: 100%
-        }
-
-        .lang-logo--update-design {
-            padding: 10px 0 15px;
-            background-color: #fff;
-            position: fixed;
-            width: 100%;
-            z-index: 10;
-            box-shadow: 2px 4px 9px 0 #ccc;
-        }
-        .lang-logo--update-design .list-inline {
-            position: absolute;
-            top: 10px;
-            right: 0;
-        }
-        .lang-logo--update-design .list-inline a{
-            font-family: "Montserrat";
-        }
-        .lang-logo--update-design .list-inline li.active a{
-            color: black;
-
-        }
-
-
-        @media (max-width: 991.98px) {
-            .logo--update-design {
-                margin-left:1em
-            }
-        }
-
-        @media (max-width: 767.98px) {
-            .lang-logo--update-design {
-                padding-bottom:0
-            }
-
-            .lang-logo--update-design .container {
-                padding-left: 0;
-                padding-right: 0
-            }
-
-            .logo--update-design {
-                margin: 7px auto 0
-            }
-
-            .lang-logo--update-design .list-inline {
-                position: relative!important;
-                top: 0;
-                margin-top: 12px;
-                padding-top: 7px;
-                text-align: center;
-                background-color: #2c3641;
-            }
-
-            .lang-logo--update-design .list-inline>li:last-child {
-                margin-right: 0
-            }
-        }
-        .content-wrapper__ {
-            margin-left: 90px
-        }
-
-        .content-wrapper__ .--top {
-            margin-top: 4.3em
-        }
-        @media (max-width: 767px) {
-            .content-wrapper__,.content-wrapper__black,.content-wrapper__gray {
-                margin-left:0
-            }
-        }
-        
-        .container__ {
-            padding-top: 2.5em;
-            padding-bottom: 2.5em;
-            margin: 0 auto
-        }
-        @media (max-width: 500px) {
-            .container__ {
-                padding:1em;
-            }
-        }
-        @media (min-width: 769px) and (max-width:1299px) {
-            .container__ {
-                padding: 2.5em;
-            }
-        }
-
-        @media (min-width: 1200px) {
-            .container__ {
-                width:1075px
-            }
-        }
-
-        @media (min-width: 992px) and (max-width:1119px) {
-            .container__ {
-                width:900px
-            }
-        }
-
-        @media (min-width: 768px) and (max-width:850px) {
-            .container__ {
-                width:610px
-            }
-        }
-
-        .container__footer {
-            max-width: 1375px;
-            margin: 0 auto
-        }
-
-    </style>    
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/slick.css" rel="stylesheet"> 
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="assets/css/style-systemdev.css" rel="stylesheet">    
     <!-- <link href="/css/style.css" rel="stylesheet preload" as="style" type="text/css" > -->
-    <link href="assets/css/style-systemdev.css" rel="stylesheet preload" as="style" type="text/css" >
      <link rel="stylesheet preload prefetch" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&amp;display=swap" type="text/css" crossorigin="anonymous">
      <script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -289,105 +72,33 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 		
-    </script>
+    </script>    
+
+     <style>
+        .breadcrumb-container .container__ {
+            padding: 0;
+        }
+    </style>
  </head>
 
  <body class="systedev-page">
  
-     <div class="wrapper">
-         <!-- NAVIGATION -->
-          <div class="nav-lp">
-             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                 data-toggle="collapse" data-target="#myNavbar">
-                 <span class="icon-bar first"></span>
-                 <span class="icon-bar second"></span>
-                 <span class="icon-bar third"></span>
-             </button>
-             <div class="collapse navbar-collapse" id="myNavbar">
-                 <div class="backdrop-test"></div>
-                 <div class="logique-nav logique-nav--update">
-                     <div class="margin-for-nav">
-                         <div class="text-center ">
-                             <a href="/en/">
-                                 <div class="img-home"></div>
-                                 Home
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/en/logique.php">
-                                 <div class="img-about"></div>
-                                 About Us
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/en/portfolio.php">
-                                 <div class="img-portfolio"></div>
-                                 Portfolio
-                             </a>
-                         </div>
-                         <div class="text-center active">
-                             <a href="/en/services.php">
-                                 <div class="img-services"></div>
-                                 Services
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/en/product.php">
-                                 <div class="img-product"></div>
-                                 Product
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/career/">
-                                 <div class="img-career"></div>
-                                 Career
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/en/contact.php">
-                                 <div class="img-contact"></div>
-                                 Contact us
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                                 <div class="img-blog"></div>
-                                 Blog
-                             </a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- END NAVIGATION -->
-         <!-- HEADER -->
+     <div class="wrapper wrapper--update-design wrapper--update-design-font">
+        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
+         
+         <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan/pembuatan-sistem-web.php';
+            $jp_link = '/jp/services/system-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
-     
-         <!-- NAVIGATION -->
-
-         <!-- HEADER -->
-            <div class="container-fluid">
-             <div class="lang-logo--update-design">
-                 <div class="container">
-                     <div class="row">
-                         <div class="col-sm-offset-1 col-sm-11">
-                             
-                                 <a href="/en/"><img src="/../img/logo.png" alt="Logo"
-                                         class="img-responsive logo--update-design" /></a>
-                                 <ul class="list-inline">
-                                     <li class="active"><a href="">EN</a></li>
-                                     <li><a href="/layanan/pembuatan-sistem-web.php">ID</a></li>
-                                     <li><a href="/jp/services/system-dev.php">JP</a></li>
-                                 </ul>
-                                
-                            
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- END HEADER -->
-         <!-- END HEADER -->
      </div>
      <header class="content-wrapper__ header"> 
          <div class="container__" style="position:relative">

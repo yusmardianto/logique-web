@@ -22,7 +22,13 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <!-- <link href="css/style.css" rel="stylesheet"> -->
+
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-services.css" rel="stylesheet">
+
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan.php"/>  
@@ -52,71 +58,7 @@
         }
     ?>
 
-    <div class="wrapper wrapper--update-design">
-
-        <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Beranda
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            Tentang Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portofolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="#">
-                            <div class="img-services"></div>
-                            Layanan
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="produk.php">
-                            <div class="img-product"></div>
-                            Produk
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Karir
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="hubungi-kami.php">
-                            <div class="img-contact"></div>
-                            Hubungi Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -125,28 +67,21 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div> -->
+        
+        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="en/services.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="jp/services.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/services.php';
+            $id_link = '#';
+            $jp_link = '/jp/services.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 
@@ -309,14 +244,14 @@
                                         <p class="service-list__title">Solusi Mobile</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>Pembuatan Website Responsif / Mobile First</li>
+                                        <a href="#mobile_pwa">
+                                            <li>Pengembangan PWA (Progressive Web App)</li>
                                         </a>
                                         <a href="#mobile_appDev">
                                             <li>Pengembangan Mobile App</li>
                                         </a>
-                                        <a href="#mobile_pwa">
-                                            <li>Pengembangan PWA (Progressive Web App)</li>
+                                        <a href="#mobile_appCreate">
+                                            <li>Pembuatan Website Responsif / Mobile First</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -368,7 +303,7 @@
                                         Buat Mobile App
                                     </div>
                                 </a>
-                                <a href="layanan/pembuatan-aplikasi-mobile.php#solusi-section">
+                                <a href="/layanan/pembuatan-progressive-web-app.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
@@ -750,14 +685,17 @@
                     </div>
                 </div>
                 <div class="container__">
-                    <section id="mobile_appCreate">
+                    <section id="mobile_pwa">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pembuatan Website Responsif / Mobile First</h4>
-                                <p>Membuat website versi mobile sekarang menjadi hal yang sangat penting untuk Anda lakukan karena rata-rata pengunjung lebih banyak mengakses website dari Smartphone mereka. LOGIQUE dapat membantu mengembangkan website responsif yang mengoptimasi tampilan website sesuai dengan ukuran layar yang berbeda-beda. Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.</p>
+                                <h3 class="service-detail__title">Pengembangan PWA (Progressive Web App)</h3>
+                                <p>LOGIQUE menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah pada website Anda. Teknologi ini membuat website Anda dapat diakses seperti aplikasi mobile yang memiliki beragam keunggulan dan dapat mempermudah Anda dalam memuaskan pengguna, meningkatkan interaksi, dan menambah jumlah konversi.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="/layanan/pembuatan-progressive-web-app.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang PWA (Progressive Web App)</span></a>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -777,14 +715,14 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_pwa">
+                    <section id="mobile_appCreate">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pengembangan PWA (Progressive Web App)</h3>
-                                <p>LOGIQUE menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah pada website Anda. Teknologi ini membuat website Anda dapat diakses seperti aplikasi mobile yang memiliki beragam keunggulan dan dapat mempermudah Anda dalam memuaskan pengguna, meningkatkan interaksi, dan menambah jumlah konversi.</p>
+                                <h3 class="service-detail__title">Pembuatan Website Responsif / Mobile First</h4>
+                                <p>Membuat website versi mobile sekarang menjadi hal yang sangat penting untuk Anda lakukan karena rata-rata pengunjung lebih banyak mengakses website dari Smartphone mereka. LOGIQUE dapat membantu mengembangkan website responsif yang mengoptimasi tampilan website sesuai dengan ukuran layar yang berbeda-beda. Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.</p>
                             </div>
                         </div>
                     </section>

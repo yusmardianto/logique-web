@@ -20,9 +20,18 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/services/web-dev.php" />  
     <title>Indonesia's Best Progressive Web App (PWA) Development Service｜LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/style-pwa.css" rel="stylesheet">
+
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,91 +44,21 @@
 	</script>
 </head>
 
-<body class="wrapper wrapper--update-design">
+<body class="wrapper wrapper--update-design wrapper--update-design-font">
     <!-- NAVIGATION -->
-    <div>
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="/en/">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/en/logique.php">
-                            <div class="img-about"></div>
-                            About Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/en/portfolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="/en/services.php">
-                            <div class="img-services"></div>
-                            Services
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/en/product.php">
-                            <div class="img-product"></div>
-                            Product
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Career
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/en/contact.php">
-                            <div class="img-contact"></div>
-                            Contact us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- NAVIGATION -->
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+    ?>
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9">
-                        <a href="/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                        <ul class="list-inline">
-                            <li class="active"><a href="#">EN</a></li>
-                            <li><a href="/layanan/pembuatan-progressive-web-app.php">ID</a></li>
-                            <li><a href="/jp/services/progressive-web-app-dev.php">JP</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'en';
+        $en_link = '#';
+        $id_link = '/layanan/pembuatan-progressive-web-app.php';
+        $jp_link = '/jp/services/progressive-web-app-dev.php';
+        include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+    ?>
 
     <div class="service service-pwa">
 
