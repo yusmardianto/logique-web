@@ -56,7 +56,9 @@ if(isset($_POST['submitted']))
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Jasa Pembuatan Website Info Lowongan Kerja | LOGIQUE Digital Indonesia</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -143,92 +145,20 @@ if(isset($_POST['submitted']))
     </style>
     <div class="wrapper wrapper--update-design">
         <!-- NAVIGATION -->
-        <div>
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-                data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/index.php">
-                                <div class="img-home"></div>
-                                Beranda
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/logique.php">
-                                <div class="img-about"></div>
-                                Tentang Kami
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/portofolio.php">
-                                <div class="img-portfolio"></div>
-                                Portfolio
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/layanan.php">
-                                <div class="img-services"></div>
-                                Layanan
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/produk.php">
-                                <div class="img-product"></div>
-                                Produk
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                Karir
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/hubungi-kami.php">
-                                <div class="img-contact"></div>
-                                Hubungi Kami
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/recruitment-web-dev.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/services/recruitment-web-dev.php">JP</a></li>
-                                </ul>
-                                <a href="/index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/services/recruitment-web-dev.php';
+            $id_link = '#';
+            $jp_link = '/jp/services/recruitment-web-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
+
         <div class="content-wrapper__">
 
             <header class="head-banner">

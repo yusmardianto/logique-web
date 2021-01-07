@@ -58,10 +58,12 @@ if(isset($_POST['submitted']))
     <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
     <link rel="canonical" href="https://www.logique.co.id/jp/services/web-dev.php"/>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->    
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style_webdev_new.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -83,96 +85,23 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div class="side-container"></div>
+    <!-- <div class="side-container"></div> -->
     <div>
 
         <!-- NAVIGATION -->
-        <div class="nav-lp">
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update in-jp">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/jp/">
-                                <div class="img-home"></div>
-                                Home
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/logique.php">
-                                <div class="img-about"></div>
-                                会社概要
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/portfolio.php">
-                                <div class="img-portfolio"></div>
-                                制作実績
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/jp/services.php">
-                                <div class="img-services"></div>
-                                サービス
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="product.php">
-                                <div class="img-product"></div>
-                                プロダクト
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                採用/<br>パートナー
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/contact.php">
-                                <div class="img-contact"></div>
-                                お問い合わせ
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="  lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li><a href="/layanan/web-dev.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                                <a href="/jp/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/services/web-dev.php';
+            $id_link = '/layanan/web-dev.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <header class="content-wrapper__">
             <div class="text-left --top">

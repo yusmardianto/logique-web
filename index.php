@@ -83,7 +83,7 @@
   <link rel="stylesheet  " href="css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <!-- <link rel="stylesheet" href="css/style.css" > -->
   <link rel="stylesheet" href="css/sidebar-update.css" >
-  <link rel="stylesheet" href="css/newstyle.css" >
+  <link rel="stylesheet" href="css/newstyle-ori.css" >
   <link rel="stylesheet " href="css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> 
   
     <!-- <noscript> 
@@ -136,87 +136,22 @@
   </style>
   <?//php include './popup.php'; ?>
   <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
-    <!-- NAVIGATION -->
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-      data-toggle="collapse" data-target="#myNavbar">
-      <span class="icon-bar first"></span>
-      <span class="icon-bar second"></span>
-      <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <div class="backdrop-test"></div>
-      <div class="logique-nav logique-nav--update logique-nav--update">
-        <div class="margin-for-nav">
-          <div class="text-center active">
-            <a href="#">
-              <div class="img-home"></div>
-              Beranda
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="logique.php">
-              <div class="img-about"></div>
-              Tentang Kami
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="portofolio.php">
-              <div class="img-portfolio"></div>
-              Portfolio
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="layanan.php">
-              <div class="img-services"></div>
-              Layanan
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="produk.php">
-              <div class="img-product"></div>
-              Produk
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/career/">
-              <div class="img-career"></div>
-              Karir
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="hubungi-kami.php">
-              <div class="img-contact"></div>
-              Hubungi Kami
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-              <div class="img-blog"></div>
-              Blog
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- END NAVIGATION -->
  
-    <div class="container-fluid">
+    <!-- NAVIGATION -->
+    <?php 
+      // $active option are home, about, portfolio, services, product, career, contact
+      $active = 'home';
+      include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+    ?>
 
-      <div class="lang-logo--update-design">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
-                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                <ul class="list-inline">
-                  <li><a href="en/index.php">EN</a></li>
-                  <li class="active"><a href="#">ID</a></li>
-                  <li><a href="jp/index.php">JP</a></li>
-                </ul> 
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <!-- HEADER -->
+    <?php 
+      $lang = 'id';
+      $en_link = '/en/';
+      $id_link = '#';
+      $jp_link = '/jp/';
+      include($_SERVER['DOCUMENT_ROOT'].'header.php'); 
+    ?>
 
     <div class="content-wrapper__">
   
@@ -246,9 +181,9 @@
               </div>
               <div class="row flex__row homepage-hero__card">
                 <div class="col-md-3 col-xs-6">
-                  <a href="/layanan/web-dev.php" class="div-service-cat">
+                  <a href="/layanan/pembuatan-progressive-web-app.php" class="div-service-cat">
                     <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website"  class="img-responsive" />
-                    <h2>Jasa Pembuatan <br />Website</h2>
+                    <h2>Jasa Pembuatan <br />Aplikasi Web</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>

@@ -88,89 +88,19 @@
   <?//php include '../popup.php'; ?>
   <div class="wrapper wrapper--update-design wrapper--update-design-font --jp o-wrapper top-only">
     <!-- NAVIGATION -->
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-      data-toggle="collapse" data-target="#myNavbar">
-      <span class="icon-bar first"></span>
-      <span class="icon-bar second"></span>
-      <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <div class="backdrop-test"></div>
-      <div class="logique-nav logique-nav--update in-jp">
-        <div class="margin-for-nav">
-          <div class="text-center active">
-            <a href="index.php">
-              <div class="img-home"></div>
-              Home
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="logique.php">
-              <div class="img-about"></div>
-              会社概要
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="portfolio.php">
-              <div class="img-portfolio"></div>
-              制作実績
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="services.php">
-              <div class="img-services"></div>
-              サービス
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="product.php">
-              <div class="img-product"></div>
-              プロダクト
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/career/">
-              <div class="img-career"></div>
-              採用/<br>パートナー
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="contact.php">
-              <div class="img-contact"></div>
-              お問い合わせ
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-              <div class="img-blog"></div>
-              Blog
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- NAVIGATION -->
+    <?php 
+      // $active option are home, about, portfolio, services, product, career, contact
+      $active = 'home';
+      include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+    ?>
 
-    <div class="container-fluid">
-      <div class="lang-logo--update-design">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-offset-1 col-sm-11">
-              <div class="container">
-                <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                    class="img-responsive logo--update-design" /></a>
-                <ul class="list-inline">
-                  <li><a href="../en/index.php">EN</a></li>
-                  <li><a href="../index.php">ID</a></li>
-                  <li class="active"><a href="#">JP</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
+    <?php 
+        $lang = 'jp';
+        $en_link = '/en/';
+        $id_link = '/';
+        $jp_link = '#';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+    ?>
 
     <div class="content-wrapper__"> 
       <div class="contain-video wrapper--update-design">
@@ -194,10 +124,10 @@
               </div>
               <div class="row homepage-hero__card flex__row ">
                 <div class="col-md-3 col-xs-6">
-                  <a href="/jp/services/web-dev.php" class="div-service-cat">
+                  <a href="/jp/services/progressive-web-app-dev.php" class="div-service-cat">
                     <img src="/img/top/i-top1.svg" alt="Website Creation Service"
                       class="center-block img-responsive" />
-                    <h2>Webサイト / ホームページ制作</h2>
+                    <h2>Webアプリ(PWA)開発</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
