@@ -624,70 +624,11 @@ if(isset($_POST['submitted']))
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <div>
-            <button type="button" class="navbar-toggle navbar-toggle--update-design collapsed" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="index.php">
-                                <div class="img-home"></div>
-                                Home
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="logique.php">
-                                <div class="img-about"></div>
-                                About Us
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="portfolio.php">
-                                <div class="img-portfolio"></div>
-                                Portfolio
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="services.php">
-                                <div class="img-services"></div>
-                                Services
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="product.php">
-                                <div class="img-product"></div>
-                                Product
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                Career
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="contact.php">
-                                <div class="img-contact"></div>
-                                Contact Us
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'contact';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
 
         <?php 
             $lang = 'en';

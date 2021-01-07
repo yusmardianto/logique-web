@@ -87,68 +87,11 @@
   <?//php include '../popup.php'; ?>
   <div class="wrapper wrapper--update-design wrapper--update-design-font --jp o-wrapper top-only">
     <!-- NAVIGATION -->
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-      data-toggle="collapse" data-target="#myNavbar">
-      <span class="icon-bar first"></span>
-      <span class="icon-bar second"></span>
-      <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <div class="backdrop-test"></div>
-      <div class="logique-nav logique-nav--update in-jp">
-        <div class="margin-for-nav">
-          <div class="text-center active">
-            <a href="index.php">
-              <div class="img-home"></div>
-              Home
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="logique.php">
-              <div class="img-about"></div>
-              会社概要
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="portfolio.php">
-              <div class="img-portfolio"></div>
-              制作実績
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="services.php">
-              <div class="img-services"></div>
-              サービス
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="product.php">
-              <div class="img-product"></div>
-              プロダクト
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/career/">
-              <div class="img-career"></div>
-              採用/<br>パートナー
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="contact.php">
-              <div class="img-contact"></div>
-              お問い合わせ
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-              <div class="img-blog"></div>
-              Blog
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- NAVIGATION -->
+    <?php 
+      // $active option are home, about, portfolio, services, product, career, contact
+      $active = 'home';
+      include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+    ?>
 
     <?php 
         $lang = 'jp';
