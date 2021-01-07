@@ -140,47 +140,6 @@
                             </div>
                             <div class="service-list__item">
                                 <div>
-                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#dm_">
-                                        <p class="service-list__title">デジタルマーケティング | ITコンサルティング</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#dm_seo">
-                                            <li>SEO対策 / SEM</li>
-                                        </a>
-                                        <a href="#dm_digiMarket">
-                                            <li>インターネット広告 / デジタルマーケティング支援</li>
-                                        </a>
-                                        <a href="#dm_contentCreate">
-                                            <li>コンテンツ制作</li>
-                                        </a>
-                                        <a href="#dm_itConsult">
-                                            <li>ランディングページ最適化</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#webSecurity_">
-                                        <p class="service-list__title">セキュリティー・サービス</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#webSecurity_va">
-                                            <li>Webセキュリティ診断（脆弱性診断・検査）</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
                                     <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
@@ -220,6 +179,47 @@
                                         </a>
                                         <a href="#mobile_appCreate">
                                             <li>モバイル（レスポンシブ）WEB制作</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/digital.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#dm_">
+                                        <p class="service-list__title">デジタルマーケティング | ITコンサルティング</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#dm_seo">
+                                            <li>SEO対策 / SEM</li>
+                                        </a>
+                                        <a href="#dm_digiMarket">
+                                            <li>インターネット広告 / デジタルマーケティング支援</li>
+                                        </a>
+                                        <a href="#dm_contentCreate">
+                                            <li>コンテンツ制作</li>
+                                        </a>
+                                        <a href="#dm_itConsult">
+                                            <li>ランディングページ最適化</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/security.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#webSecurity_">
+                                        <p class="service-list__title">セキュリティー・サービス</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#webSecurity_va">
+                                            <li>Webセキュリティ診断（脆弱性診断・検査）</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -459,93 +459,6 @@
                 </div>
             </section>
 
-            <section class="section-divider" id="dm_">
-                <div class="bg--black">
-                    <div class="container__">
-                        <div class="text-center" style="position: relative">
-                            <h1 class="title-index --yellow">デジタルマーケティング | ITコンサルティング</h1>
-                            <hr class="title__yellow-line--center">
-                            <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
-                        </div>
-                    </div>
-                </div>
-                <div class="container__">
-                    <section id="dm_seo">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO対策 / SEM</h4>
-                                    <p>
-                                        SEOコンサルティングだけで終わらずWebページへの施策の実装まで責任をもって行うことで、結果にコミットします。
-                                        日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
-                                        インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
-                                    </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_digiMarket">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">インターネット広告 / デジタルマーケティング支援</h4>
-                                    <p>インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。
-                                        パートナーと協業して効果の高いソリューションをご提供します。</p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/jp/services/digital-marketing.php">もっと見る</a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_contentCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">コンテンツ制作</h4>
-                                    <p>WEBに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。
-                                        コンテンツ制作は企画からSEOを考慮したライティングまで日本人、インドネシア人の制作チームが行います。</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_itConsult">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">ランディングページ最適化</h4>
-                                    <p>
-                                        プロモーションのランディングページやキャンペーンページの制作もお気軽にご相談ください。
-                                        1ページの制作でもお請けしております。広告バナーの制作なども可能です。
-                                        複数制作してA/Bテストするなどコンバージョンに繋がるページの制作をいたします。
-                                        AMPの実装、HTML5バナーの制作などもお気軽にご相談ください。問い合わせ数が増えるように、
-                                        問い合わせページだけをリニューアルしたい、というご要望にもお応えしています。
-                                    </p>
-                            </div>
-                        </div>
-                    </section>
-
-                    <div class="text-center --back-top">
-                        <a href="portfolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
-                        </a>
-                        <a href="#serviceNavigation">
-                            <div class="main-btn">Back to Top</div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-
             <section class="section-divider" id="sysDev_">
                 <div class="bg--black">
                     <div class="container__">
@@ -683,6 +596,93 @@
                     </section>
                     <div class="text-center --back-top">
                         <a href="portfolio.php#PWA">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#serviceNavigation">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-divider" id="dm_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center" style="position: relative">
+                            <h1 class="title-index --yellow">デジタルマーケティング | ITコンサルティング</h1>
+                            <hr class="title__yellow-line--center">
+                            <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
+                        </div>
+                    </div>
+                </div>
+                <div class="container__">
+                    <section id="dm_seo">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">SEO対策 / SEM</h4>
+                                    <p>
+                                        SEOコンサルティングだけで終わらずWebページへの施策の実装まで責任をもって行うことで、結果にコミットします。
+                                        日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
+                                        インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
+                                    </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_digiMarket">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">インターネット広告 / デジタルマーケティング支援</h4>
+                                    <p>インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。
+                                        パートナーと協業して効果の高いソリューションをご提供します。</p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/jp/services/digital-marketing.php">もっと見る</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_contentCreate">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">コンテンツ制作</h4>
+                                    <p>WEBに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。
+                                        コンテンツ制作は企画からSEOを考慮したライティングまで日本人、インドネシア人の制作チームが行います。</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_itConsult">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">ランディングページ最適化</h4>
+                                    <p>
+                                        プロモーションのランディングページやキャンペーンページの制作もお気軽にご相談ください。
+                                        1ページの制作でもお請けしております。広告バナーの制作なども可能です。
+                                        複数制作してA/Bテストするなどコンバージョンに繋がるページの制作をいたします。
+                                        AMPの実装、HTML5バナーの制作などもお気軽にご相談ください。問い合わせ数が増えるように、
+                                        問い合わせページだけをリニューアルしたい、というご要望にもお応えしています。
+                                    </p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <div class="text-center --back-top">
+                        <a href="portfolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
                         </a>
                         <a href="#serviceNavigation">
