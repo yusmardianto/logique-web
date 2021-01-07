@@ -55,11 +55,15 @@ if(isset($_POST['submitted']))
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/services/devops.php"/>
     <title>クラウドサーバー構築運用 | DevOps | ジャカルタのシステム開発会社LOGIQUEデジタルインドネシア</title>
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style_devops.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
     <script>
@@ -72,7 +76,6 @@ if(isset($_POST['submitted']))
 	ga('send', 'pageview');
 
 	</script>
-    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
 </head>
 
 <body>
@@ -83,94 +86,21 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div class="wrapper"> 
+    <div class="wrapper wrapper--update-design wrapper--update-design-font --jp"> 
         <!-- NAVIGATION -->
-        <div class="nav-lp">
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update in-jp">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/jp/">
-                                <div class="img-home"></div>
-                                Home
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/logique.php">
-                                <div class="img-about"></div>
-                                会社概要
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/portfolio.php">
-                                <div class="img-portfolio"></div>
-                                制作実績
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/jp/services.php">
-                                <div class="img-services"></div>
-                                サービス
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="product.php">
-                                <div class="img-product"></div>
-                                プロダクト
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                採用/<br>パートナー
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/contact.php">
-                                <div class="img-contact"></div>
-                                お問い合わせ
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/devops.php">EN</a></li>
-                                    <li><a href="/layanan/devops.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/services/devops.php';
+            $id_link = '/layanan/devops.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <header class="content-wrapper__">
             <div class="text-left --top">

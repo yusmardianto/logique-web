@@ -19,8 +19,17 @@
         content="LOGIQUE menawarkan berbagai produk digital untuk meningkatkan profit bisnis Anda, mulai dari software kerja remote, sistem laporan kerja karyawan, hingga sistem rekrutmen karyawan untuk HR. Hubungi sekarang juga jika Anda tertarik untuk mendapatkan layanan kami.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Produk Digital | Sistem Rekrutmen, Kerja Remote, Laporan Kerja | LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+
+    <!-- <link href="css/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css">
+    <link rel="stylesheet" href="/css/style-product.css">
+
     <link rel="canonical" href="https://www.logique.co.id/produk.php"/>
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -51,70 +60,13 @@
     ?>
 
     <?//php include './popup.php'; ?>
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Beranda
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            Tentang Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portofolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="layanan.php">
-                            <div class="img-services"></div>
-                            Layanan
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="#">
-                            <div class="img-product"></div>
-                            Produk
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Karir
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="hubungi-kami.php">
-                            <div class="img-contact"></div>
-                            Hubungi Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'product';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
         <!-- <div class="contain-video">
             <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -123,26 +75,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/product.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/product.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- END HEADER -->
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/product.php';
+            $id_link = '#';
+            $jp_link = '/jp/product.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <!-- CONTENT -->
         <div class="content-wrapper__">

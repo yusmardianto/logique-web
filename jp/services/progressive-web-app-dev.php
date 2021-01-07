@@ -19,10 +19,16 @@
     <meta property="og:description"
         content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
     <title>インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA</title>
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/style-pwa.css" rel="stylesheet">
     <link href="./assets/css/style-pwa-jp.css" rel="stylesheet">
+
     <link rel="canonical" href="https://www.logique.co.id/jp/services/progressive-web-app-dev.php" />
     <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet"> -->
     <!-- <script>
@@ -37,92 +43,22 @@
 	</script> -->
 </head>
 
-<body class="wrapper wrapper--update-design jp-page">
+<body class="wrapper wrapper--update-design wrapper--update-design-font --jp jp-page">
 
     <!-- NAVIGATION -->
-    <div>
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="/jp/index.php">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/logique.php">
-                            <div class="img-about"></div>
-                            会社概要
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/portfolio.php">
-                            <div class="img-portfolio"></div>
-                            制作実績
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="/jp/services.php">
-                            <div class="img-services"></div>
-                            サービス
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/product.php">
-                            <div class="img-product"></div>
-                            プロダクト
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            採用/<br>パートナー
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/contact.php">
-                            <div class="img-contact"></div>
-                            お問い合わせ
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- NAVIGATION -->
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+    ?>
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9">
-                        <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" loading="lazy" /></a>
-                        <ul class="list-inline">
-                            <li><a href="/en/services/progressive-web-app-dev.php">EN</a></li>
-                            <li><a href="/layanan/pembuatan-progressive-web-app.php">ID</a></li>
-                            <li class="active"><a href="#">JP</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'jp';
+        $en_link = '/en/services/progressive-web-app-dev.php';
+        $id_link = '/layanan/pembuatan-progressive-web-app.php';
+        $jp_link = '#';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+    ?>
 
     <div class="service service-pwa">
 

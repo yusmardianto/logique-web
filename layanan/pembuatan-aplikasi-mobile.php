@@ -51,10 +51,21 @@ if(isset($_POST['submitted']))
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php" />  
      <title>Jasa Pembuatan Aplikasi Android & iOS (Mobile Apps) Jakarta</title>
-     <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link rel="stylesheet" href="/css/sidebar-update.css" >
-     <link href="assets/css/style-mobileapps.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Rokkitt:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+    <!-- font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- <link rel="stylesheet" href="/css/sidebar-update.css" > -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="assets/css/style-mobileapps.css" rel="stylesheet">
+
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Raleway&family=Rokkitt:wght@300;400;600;700&display=swap" rel="stylesheet"> -->
      
     <?php 
         if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
@@ -69,7 +80,7 @@ if(isset($_POST['submitted']))
     ?>
  </head>
 
- <body class="wrapper wrapper--update-design mobileapp-page ">
+ <body class="mobileapp-page">
 	<?php 
 		if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
 			echo '<!-- Google Tag Manager (noscript) -->
@@ -85,58 +96,22 @@ if(isset($_POST['submitted']))
         .copyright { background-color: transparent; text-align: left; border: none; color: inherit;              }
         footer { padding: 30px 0 10px; }
      </style>
-     <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper   ">
+     <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper">
      <!-- NAVIGATION -->
-     <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-         data-toggle="collapse" data-target="#myNavbar">
-         <span class="icon-bar first"></span>
-         <span class="icon-bar second"></span>
-         <span class="icon-bar third"></span>
-     </button>
-     <div class="collapse navbar-collapse" id="myNavbar">
-         <div class="backdrop-test"></div>
-         <div class="logique-nav logique-nav--update">
-             <div class="margin-for-nav">
-                 <div class="text-center">
-                     <a href="/index.php">  <div class="img-home"></div>  Beranda </a>
-                 </div>
-                 <div class="text-center">
-                     <a href="/logique.php"> <div class="img-about"></div> Tentang Kami </a>
-                 </div>
-                 <div class="text-center">  <a href="/portofolio.php"> <div class="img-portfolio"></div> Portfolio </a>  </div>
-                 <div class="text-center active"> <a href="/layanan.php"> <div class="img-services"></div> Layanan </a>  </div>
-                 <div class="text-center"> <a href="/produk.php"> <div class="img-product"></div>  Produk  </a>  </div>
-                 <div class="text-center"> <a href="/career/"> <div class="img-career"></div>  Karir  </a> </div>
-                 <div class="text-center">  <a href="/hubungi-kami.php"> <div class="img-contact"></div> Hubungi Kami </a> </div>
-                 <div class="text-center">
-                     <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                         <div class="img-blog"></div>
-                         Blog
-                     </a>
-                 </div>
-             </div>
-         </div>
-     </div>
-     <!-- NAVIGATION --> 
-     <!-- HEADER --> 
-     <div class="container-fluid">
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+    ?>
 
-      <div class="lang-logo--update-design">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-offset-1 col-md-11 col-sm-offset-2 col-sm-9"> 
-                <a href="/index.php"><img src="assets/img/logo.svg" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                <ul class="list-inline">
-                <li><a href="/en/services/mobile-app-dev.php">EN</a></li>
-                <li class="active"><a href="#">ID</a></li>
-                <li><a href="/jp/services/mobile-app-dev.php">JP</a></li>
-            </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> 
-     <!-- END HEADER --> 
+    <?php 
+        $lang = 'id';
+        $en_link = '/en/services/mobile-app-dev.php';
+        $id_link = '#';
+        $jp_link = '/jp/services/mobile-app-dev.php';
+        include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+    ?>
+     
      <div class="content-wrapper__">
          <header class=" ">
              <section class="--top">

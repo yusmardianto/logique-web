@@ -22,7 +22,13 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <!-- <link href="css/style.css" rel="stylesheet"> -->
+
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-services.css" rel="stylesheet">
+
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan.php"/>  
@@ -52,71 +58,7 @@
         }
     ?>
 
-    <div class="wrapper wrapper--update-design">
-
-        <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Beranda
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            Tentang Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portofolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="#">
-                            <div class="img-services"></div>
-                            Layanan
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="produk.php">
-                            <div class="img-product"></div>
-                            Produk
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Karir
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="hubungi-kami.php">
-                            <div class="img-contact"></div>
-                            Hubungi Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -125,28 +67,21 @@
 				</video>
 			</div>
 			<div class="bg-white-opacity"></div> -->
+        
+        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="en/services.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="jp/services.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/services.php';
+            $id_link = '#';
+            $jp_link = '/jp/services.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 
@@ -237,6 +172,53 @@
                             </div>
                             <div class="service-list__item">
                                 <div>
+                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#sysDev_">
+                                        <p class="service-list__title">Aplikasi Berbasis Web / Pengelolaan Website</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#sysDev_ecommerce">
+                                            <li>Pengembangan E-Commerce</li>
+                                        </a>
+                                        <a href="#sysDev_automotive">
+                                            <li>Pengembangan Sistem untuk Industri Otomotif</li>
+                                        </a>
+                                        <a href="#sysDev_cms">
+                                            <li>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</li>
+                                        </a>
+                                        <a href="#sysDev_member">
+                                            <li>Sistem Manajemen Pelanggan / Pengembangan Sistem Akunting</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#mobile_">
+                                        <p class="service-list__title">Solusi Mobile</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#mobile_pwa">
+                                            <li>Pengembangan PWA (Progressive Web App)</li>
+                                        </a>
+                                        <a href="#mobile_appDev">
+                                            <li>Pengembangan Mobile App</li>
+                                        </a>
+                                        <a href="#mobile_appCreate">
+                                            <li>Pembuatan Website Responsif / Mobile First</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
                                     <img src="../img/service/list/digital.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
@@ -270,53 +252,6 @@
                                     <ul class="service-list__list">
                                         <a href="#webSecurity_va">
                                             <li>Tes Keamanan Website / Mobile App (VA / Penetration Test)</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#sysDev_">
-                                        <p class="service-list__title">Aplikasi Berbasis Web / Pengelolaan Website</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#sysDev_ecommerce">
-                                            <li>Pengembangan E-Commerce</li>
-                                        </a>
-                                        <a href="#sysDev_automotive">
-                                            <li>Pengembangan Sistem untuk Industri Otomotif</li>
-                                        </a>
-                                        <a href="#sysDev_cms">
-                                            <li>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</li>
-                                        </a>
-                                        <a href="#sysDev_member">
-                                            <li>Sistem Manajemen Pelanggan / Pengembangan Sistem Akunting</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#mobile_">
-                                        <p class="service-list__title">Solusi Mobile</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>Pembuatan Website Responsif / Mobile First</li>
-                                        </a>
-                                        <a href="#mobile_appDev">
-                                            <li>Pengembangan Mobile App</li>
-                                        </a>
-                                        <a href="#mobile_pwa">
-                                            <li>Pengembangan PWA (Progressive Web App)</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -368,7 +303,7 @@
                                         Buat Mobile App
                                     </div>
                                 </a>
-                                <a href="layanan/pembuatan-aplikasi-mobile.php#solusi-section">
+                                <a href="/layanan/pembuatan-progressive-web-app.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
@@ -600,81 +535,6 @@
                 </div>
             </section>
 
-            <section class="section-divider" id="dm_">
-                <div class="bg--black">
-                    <div class="container__">
-                        <div class="text-center" style="position: relative;">
-                            <h1 class="title-index --yellow">Digital Marketing</h1>
-                            <hr class="title__yellow-line--center">
-                            <img class="google-badge" src="/img/google-badge.png" alt="Google Badge">
-                        </div>
-                    </div>
-                </div>
-                <div class="container__">
-                    <section id="dm_seo">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO / SEM</h4>
-                                <p>Kami akan melakukan analisis secara mendalam terhadap optimasi halaman web Anda. Layanan kami mencakup metode pemantauan data dan analisis kebiasaan pengguna. Taraf ukur keberhasilan kami tidak hanya terbatas pada implementasi SEO, namun juga melalui perbaikan website secara umum. <br><br>
-                                Hal ini dapat dibuktikan dari pengalaman-pengalaman SEO kami dalam bahasa Jepang, Inggris, dan Indonesia. Salah satunya, kami telah berhasil menjaga pelanggan kami (sebuah perusahaan finansial) untuk tetap terdaftar di peringkat 1 di Google dalam kata-kata kunci tertentu menggunakan strategi SEO yang kokoh dengan menggabungkan optimasi konten dan teknis. Selain dari itu, kami juga berpengalaman di bidang SEM.</p>
-                                <div class="service-detail__btn-wrapper">
-                                    <a target="_blank" class="main-btn --yellow"
-                                        href="layanan/digital-marketing/jasa-seo.php">Pelajari Lebih <span
-                                            class="hidden-xs">Lanjut Tentang SEO/SEM</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_itConsult">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pengoperasian Iklan Digital</h4>
-                                <p>Kami menawarkan pendekatan berorientasi hasil yang terhubung dengan manajemen biaya pay-per-click, menyediakan kampanye  yang transparan dan terukur, yang memungkinkan Anda untuk mengevaluasi keberhasilan iklan dibandingkan dengan target. Kami berpengalaman di berbagai industri vertikal dan menawarkan layanan proaktif, strategis dan sangat komunikatif. Kami tahu bahwa kampanye yang berhasil mengarah pada pengoptimalan dan penyempurnaan berkelanjutan. Hanya melalui struktur yang tertata dan terkelola dengan ketat, Anda dapat meningkatkan konversi dengan harga yang efektif. Jangan ragu untuk menghubungi kami untuk meningkatkan prospek dan konversi Anda melalui iklan online, strategi PR internet, atau pemasaran SNS.</p>
-                                <div class="service-detail__btn-wrapper">
-                                    <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Pengoperasian Iklan Digital</span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_contentCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pembuatan Konten Website</h4>
-                                <p>Kami berupaya untuk memberikan layanan pembuatan konten berkualitas tinggi kepada Anda. Dengan membuat konten sesuai dengan tujuan bisnis Anda, Anda dapat mendapatkan hasil yang terbaik dan menjangkau lebih banyak pelanggan. Kami juga dapat membantu Anda menerjemahkan konten ke dalam bahasa Indonesia, Jepang, atau Inggris, ataupun membuat konten untuk meningkatkan kinerja web Anda dengan menerapkan SEO.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_digiMarket">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Optimasi Landing Page</h4>
-                                <p>LOGIQUE dapat melakukan pengoptimasian SEO terbaik untuk halaman website Anda untuk meningkatkan pengunjung dan konversi. Kami dapat bekerja secara fleksibel untuk memenuhi kebutuhan Anda termasuk pemasangan AMP, pelaksanaan A/B test, ataupun pembuatan banner HTML5. Kami akan selalu siap untuk membantu jika Anda memiliki masalah apapun.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <div class="text-center --back-top">
-                        <a href="portofolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
-                        </a>
-                        <a href="#serviceNavigation">
-                            <div class="main-btn">Back to Top</div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-
             <section class="section-divider" id="sysDev_">
                 <div class="bg--black">
                     <div class="container__">
@@ -750,14 +610,17 @@
                     </div>
                 </div>
                 <div class="container__">
-                    <section id="mobile_appCreate">
+                    <section id="mobile_pwa">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pembuatan Website Responsif / Mobile First</h4>
-                                <p>Membuat website versi mobile sekarang menjadi hal yang sangat penting untuk Anda lakukan karena rata-rata pengunjung lebih banyak mengakses website dari Smartphone mereka. LOGIQUE dapat membantu mengembangkan website responsif yang mengoptimasi tampilan website sesuai dengan ukuran layar yang berbeda-beda. Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.</p>
+                                <h3 class="service-detail__title">Pengembangan PWA (Progressive Web App)</h3>
+                                <p>LOGIQUE menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah pada website Anda. Teknologi ini membuat website Anda dapat diakses seperti aplikasi mobile yang memiliki beragam keunggulan dan dapat mempermudah Anda dalam memuaskan pengguna, meningkatkan interaksi, dan menambah jumlah konversi.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="/layanan/pembuatan-progressive-web-app.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang PWA (Progressive Web App)</span></a>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -777,19 +640,94 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_pwa">
+                    <section id="mobile_appCreate">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pengembangan PWA (Progressive Web App)</h3>
-                                <p>LOGIQUE menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah pada website Anda. Teknologi ini membuat website Anda dapat diakses seperti aplikasi mobile yang memiliki beragam keunggulan dan dapat mempermudah Anda dalam memuaskan pengguna, meningkatkan interaksi, dan menambah jumlah konversi.</p>
+                                <h3 class="service-detail__title">Pembuatan Website Responsif / Mobile First</h4>
+                                <p>Membuat website versi mobile sekarang menjadi hal yang sangat penting untuk Anda lakukan karena rata-rata pengunjung lebih banyak mengakses website dari Smartphone mereka. LOGIQUE dapat membantu mengembangkan website responsif yang mengoptimasi tampilan website sesuai dengan ukuran layar yang berbeda-beda. Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.</p>
                             </div>
                         </div>
                     </section>
                     <div class="text-center --back-top">
                         <a href="portofolio.php#PWA">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#serviceNavigation">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-divider" id="dm_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center" style="position: relative;">
+                            <h1 class="title-index --yellow">Digital Marketing</h1>
+                            <hr class="title__yellow-line--center">
+                            <img class="google-badge" src="/img/google-badge.png" alt="Google Badge">
+                        </div>
+                    </div>
+                </div>
+                <div class="container__">
+                    <section id="dm_seo">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">SEO / SEM</h4>
+                                <p>Kami akan melakukan analisis secara mendalam terhadap optimasi halaman web Anda. Layanan kami mencakup metode pemantauan data dan analisis kebiasaan pengguna. Taraf ukur keberhasilan kami tidak hanya terbatas pada implementasi SEO, namun juga melalui perbaikan website secara umum. <br><br>
+                                Hal ini dapat dibuktikan dari pengalaman-pengalaman SEO kami dalam bahasa Jepang, Inggris, dan Indonesia. Salah satunya, kami telah berhasil menjaga pelanggan kami (sebuah perusahaan finansial) untuk tetap terdaftar di peringkat 1 di Google dalam kata-kata kunci tertentu menggunakan strategi SEO yang kokoh dengan menggabungkan optimasi konten dan teknis. Selain dari itu, kami juga berpengalaman di bidang SEM.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow"
+                                        href="layanan/digital-marketing/jasa-seo.php">Pelajari Lebih <span
+                                            class="hidden-xs">Lanjut Tentang SEO/SEM</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_itConsult">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Pengoperasian Iklan Digital</h4>
+                                <p>Kami menawarkan pendekatan berorientasi hasil yang terhubung dengan manajemen biaya pay-per-click, menyediakan kampanye  yang transparan dan terukur, yang memungkinkan Anda untuk mengevaluasi keberhasilan iklan dibandingkan dengan target. Kami berpengalaman di berbagai industri vertikal dan menawarkan layanan proaktif, strategis dan sangat komunikatif. Kami tahu bahwa kampanye yang berhasil mengarah pada pengoptimalan dan penyempurnaan berkelanjutan. Hanya melalui struktur yang tertata dan terkelola dengan ketat, Anda dapat meningkatkan konversi dengan harga yang efektif. Jangan ragu untuk menghubungi kami untuk meningkatkan prospek dan konversi Anda melalui iklan online, strategi PR internet, atau pemasaran SNS.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Pengoperasian Iklan Digital</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_contentCreate">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Pembuatan Konten Website</h4>
+                                <p>Kami berupaya untuk memberikan layanan pembuatan konten berkualitas tinggi kepada Anda. Dengan membuat konten sesuai dengan tujuan bisnis Anda, Anda dapat mendapatkan hasil yang terbaik dan menjangkau lebih banyak pelanggan. Kami juga dapat membantu Anda menerjemahkan konten ke dalam bahasa Indonesia, Jepang, atau Inggris, ataupun membuat konten untuk meningkatkan kinerja web Anda dengan menerapkan SEO.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_digiMarket">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Optimasi Landing Page</h4>
+                                <p>LOGIQUE dapat melakukan pengoptimasian SEO terbaik untuk halaman website Anda untuk meningkatkan pengunjung dan konversi. Kami dapat bekerja secara fleksibel untuk memenuhi kebutuhan Anda termasuk pemasangan AMP, pelaksanaan A/B test, ataupun pembuatan banner HTML5. Kami akan selalu siap untuk membantu jika Anda memiliki masalah apapun.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <div class="text-center --back-top">
+                        <a href="portofolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
                         </a>
                         <a href="#serviceNavigation">

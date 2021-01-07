@@ -1,0 +1,34 @@
+.title-bg-grey {
+    font-size: 24px;
+    text-align: center
+}
+
+.bar-yellow {
+    background: #f4ce58
+}
+
+/* btn */
+.btn-hubungi {
+    padding: 10px 25px;
+    background: #ffca13;
+    color: #000;
+    margin-top: 20px;
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 385px;
+    display: block;
+    pointer-events: none;
+    position: relative;
+}
+
+.map-container iframe.clicked {
+    pointer-events: auto;
+}
+
+@media (max-width: 767.98px) {
+    .map-container iframe {
+        height: 250px;
+    }
+}
