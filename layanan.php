@@ -244,14 +244,14 @@
                                         <p class="service-list__title">Solusi Mobile</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>Pembuatan Website Responsif / Mobile First</li>
+                                        <a href="#mobile_pwa">
+                                            <li>Pengembangan PWA (Progressive Web App)</li>
                                         </a>
                                         <a href="#mobile_appDev">
                                             <li>Pengembangan Mobile App</li>
                                         </a>
-                                        <a href="#mobile_pwa">
-                                            <li>Pengembangan PWA (Progressive Web App)</li>
+                                        <a href="#mobile_appCreate">
+                                            <li>Pembuatan Website Responsif / Mobile First</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -303,7 +303,7 @@
                                         Buat Mobile App
                                     </div>
                                 </a>
-                                <a href="layanan/pembuatan-aplikasi-mobile.php#solusi-section">
+                                <a href="/layanan/pembuatan-progressive-web-app.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
@@ -685,14 +685,17 @@
                     </div>
                 </div>
                 <div class="container__">
-                    <section id="mobile_appCreate">
+                    <section id="mobile_pwa">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pembuatan Website Responsif / Mobile First</h4>
-                                <p>Membuat website versi mobile sekarang menjadi hal yang sangat penting untuk Anda lakukan karena rata-rata pengunjung lebih banyak mengakses website dari Smartphone mereka. LOGIQUE dapat membantu mengembangkan website responsif yang mengoptimasi tampilan website sesuai dengan ukuran layar yang berbeda-beda. Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.</p>
+                                <h3 class="service-detail__title">Pengembangan PWA (Progressive Web App)</h3>
+                                <p>LOGIQUE menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah pada website Anda. Teknologi ini membuat website Anda dapat diakses seperti aplikasi mobile yang memiliki beragam keunggulan dan dapat mempermudah Anda dalam memuaskan pengguna, meningkatkan interaksi, dan menambah jumlah konversi.</p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="/layanan/pembuatan-progressive-web-app.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang PWA (Progressive Web App)</span></a>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -712,14 +715,14 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_pwa">
+                    <section id="mobile_appCreate">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pengembangan PWA (Progressive Web App)</h3>
-                                <p>LOGIQUE menyediakan layanan pengembangan Progressive Web App (PWA) untuk memberikan nilai tambah pada website Anda. Teknologi ini membuat website Anda dapat diakses seperti aplikasi mobile yang memiliki beragam keunggulan dan dapat mempermudah Anda dalam memuaskan pengguna, meningkatkan interaksi, dan menambah jumlah konversi.</p>
+                                <h3 class="service-detail__title">Pembuatan Website Responsif / Mobile First</h4>
+                                <p>Membuat website versi mobile sekarang menjadi hal yang sangat penting untuk Anda lakukan karena rata-rata pengunjung lebih banyak mengakses website dari Smartphone mereka. LOGIQUE dapat membantu mengembangkan website responsif yang mengoptimasi tampilan website sesuai dengan ukuran layar yang berbeda-beda. Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.</p>
                             </div>
                         </div>
                     </section>

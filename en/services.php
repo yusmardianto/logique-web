@@ -214,14 +214,14 @@
                                         <p class="service-list__title">Mobile Solution</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>Mobile / Responsive Web Creation</li>
+                                        <a href="#mobile_pwa">
+                                            <li>PWA (Progressive Web App) Development</li>
                                         </a>
                                         <a href="#mobile_appDev">
                                             <li>Mobile Application Development</li>
                                         </a>
-                                        <a href="#mobile_pwa">
-                                            <li>PWA (Progressive Web App) Development</li>
+                                        <a href="#mobile_appCreate">
+                                            <li>Mobile / Responsive Web Creation</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -273,7 +273,7 @@
                                         Develop Mobile App
                                     </div>
                                 </a>
-                                <a href="services/mobile-app-dev.php#solusi-section">
+                                <a href="/en/services/progressive-web-app-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
@@ -719,21 +719,24 @@
                     </div>
                 </div>
                 <div class="container__">
-                    <section id="mobile_appCreate">
+                    <section id="mobile_pwa">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Mobile Website Creation</h4>
-                                    <p>Responsive coding nowadays is trending, and is an important approach to navigating
-                                        online traffic, since
-                                        most of it stems from Mobile phones. Designed to fit your website directly into the
-                                        format of a smartphone
-                                        or tablet screen, we can develop a responsive website and optimize its UI depending on
-                                        the required device
-                                        screen size. We can also flexibly help you in implementing the use of new
-                                        technologies, such as PWA or AMP.</p>
+                                <h3 class="service-detail__title">PWA (Progressive Web App) Development</h3>
+                                <p>
+                                    LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
+                                    so
+                                    that it can be accessed just like a mobile application. PWA gives numerous benefits which can
+                                    be
+                                    utilized to filfill customer's expectation, increase interaction and conversion.
+                                </p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="/en/services/progressive-web-app-dev.php">Learn
+                                        more <span class="hidden-xs">about our PWA (Progressive Web App) Development</span></a>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -762,20 +765,21 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_pwa">
+                    <section id="mobile_appCreate">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">PWA (Progressive Web App) Development</h3>
-                                <p>
-                                    LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
-                                    so
-                                    that it can be accessed just like a mobile application. PWA gives numerous benefits which can
-                                    be
-                                    utilized to filfill customer's expectation, increase interaction and conversion.
-                                </p>
+                                <h3 class="service-detail__title">Mobile Website Creation</h4>
+                                    <p>Responsive coding nowadays is trending, and is an important approach to navigating
+                                        online traffic, since
+                                        most of it stems from Mobile phones. Designed to fit your website directly into the
+                                        format of a smartphone
+                                        or tablet screen, we can develop a responsive website and optimize its UI depending on
+                                        the required device
+                                        screen size. We can also flexibly help you in implementing the use of new
+                                        technologies, such as PWA or AMP.</p>
                             </div>
                         </div>
                     </section>

@@ -212,14 +212,14 @@
                                         <p class="service-list__title">モバイルソリューション | アプリ開発</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>モバイル（レスポンシブ）WEB制作</li>
+                                        <a href="#mobile_pwa">
+                                            <li>PWA（ウェブアプリ）開発</li>
                                         </a>
                                         <a href="#mobile_appDev">
                                             <li>モバイル（スマホ）アプリ開発</li>
                                         </a>
-                                        <a href="#mobile_pwa">
-                                            <li>PWA（ウェブアプリ）開発</li>
+                                        <a href="#mobile_appCreate">
+                                            <li>モバイル（レスポンシブ）WEB制作</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -277,7 +277,7 @@
                                         モバイルアプリ開発
                                     </div>
                                 </a>
-                                <a href="services/mobile-app-dev.php#solusi-section">
+                                <a href="/jp/services/progressive-web-app-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div>
                                             <div class="web-solution__half-bg--round"></div>
@@ -634,17 +634,19 @@
                     </div>
                 </div>
                 <div class="container__">
-                    <section id="mobile_appCreate">
+                    <section id="mobile_pwa">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">モバイルWEB制作</h4>
-                                    <p>
-                                        インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。
-                                        スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。
-                                    </p>
+                                <h3 class="service-detail__title">PWAの開発</h3>
+                                <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。
+                                </p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow"
+                                        href="/jp/services/progressive-web-app-dev.php">もっと見る</a>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -665,15 +667,17 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_pwa">
+                    <section id="mobile_appCreate">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">PWAの開発</h3>
-                                <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。
-                                </p>
+                                <h3 class="service-detail__title">モバイルWEB制作</h4>
+                                    <p>
+                                        インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。
+                                        スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。
+                                    </p>
                             </div>
                         </div>
                     </section>
