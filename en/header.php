@@ -1,4 +1,4 @@
-<div class="container-fluid">
+<div class="container-fluid p-b-10px">
     <div class="lang-logo--update-design">
         <div class="container">
             <div class="row">
