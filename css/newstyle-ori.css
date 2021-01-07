@@ -90,6 +90,10 @@ button:focus {
 .m-t-30px {
     margin-top: 30px;
 }
+
+.p-b-10px {
+    padding-bottom: 10px;
+}
 /* end spacing */
 .lang-logo--update-design {
     padding: 10px 0 15px;

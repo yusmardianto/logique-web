@@ -1425,7 +1425,8 @@ footer .medsos-new .facebook-icon:hover{
   max-width: 50%;
 }
 
-.content__item.content__item--mobile > div > img {
+.content__item.content__item--mobile > div > img,
+.content__item.content__item--mobile > div > picture > img {
   margin-bottom: 0;
   height: 100%;
   width: 100%;
