@@ -228,7 +228,7 @@
                                             <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
                                             <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
                                         </picture>
-                                        <h3>Marubeni</h3>
+                                        <h3>Marubeni - UCO Collection Mobile App</h3>
                                     </div>
                                 </div>
                             </div>
