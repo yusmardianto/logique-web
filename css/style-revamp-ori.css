@@ -1401,6 +1401,7 @@ footer .medsos-new .facebook-icon:hover{
   border: solid 2px #000;
   padding-top: 20px;
   padding-bottom: 20px;
+  white-space: normal;
 }
 
 /* mobile */
