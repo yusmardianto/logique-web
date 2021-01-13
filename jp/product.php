@@ -84,7 +84,7 @@
 
             <section class="bg--gray">
                 <div class="container__">
-                    <div>
+                    <div class="text-center">
                         <h1 class="title-index text-center">Our Products</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description">LOGIQUEが提供する製品を紹介します。 <br>
