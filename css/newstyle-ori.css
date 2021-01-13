@@ -310,9 +310,7 @@ button:focus {
     margin-bottom: 15px;
     line-height: 34px;
 }
-.container__ {
-    width: 1075px;
-}
+
 .container__ {
     padding-top: 2.5em;
     padding-bottom: 2.5em;
@@ -465,6 +463,24 @@ video {
     -ms-flex-align: center !important;
     align-items: center !important;
 }
+/* btn */
+
+.btn--yellow {
+    background-color: #ffca13;
+    border: solid 2px #ffca13;
+    border-radius: 8px;
+    padding: 10px 35px;
+    color: #000;
+    transition: all .3s;
+}
+
+.btn--yellow:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+/* end btn */
+
 /* case study */
 .casestudy-text {
     padding-top: 30px;
@@ -792,6 +808,7 @@ video {
 .bg--footer {
     background-color: #212425;
 }
+
 footer {
     z-index: 5;
     margin-left: 95px;
@@ -811,7 +828,6 @@ footer ol {
     margin: 0;
     padding: 0;
 }
-
 .footer-update a {
     color: #fff;
 }
@@ -1063,10 +1079,8 @@ footer .medsos-new .facebook-icon:hover {
 }
 @media (max-width: 767.98px) {
     .container__ {
-        width: 900px;
-        padding: 2.5em;
+        width: auto;
     }
-
     footer {
         margin-left: 0;
         padding: 30px 10px 10px;
