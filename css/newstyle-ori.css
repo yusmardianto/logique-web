@@ -57,10 +57,6 @@ button:focus {
 .wrapper {
     overflow: hidden;
 }
-.contain-video.wrapper--update-design,
-.wrapper.wrapper--update-design {
-    max-width: unset !important;
-}
 .flex__row {
     display: flex;
     flex-wrap: wrap;
@@ -119,10 +115,6 @@ button:focus {
 .img-services {
     height: 44px;
     width: 44px;
-}
-.logique-text{
-    font-family: "Novocento Sans Wide Medium", sans-serif;
-    text-transform: capitalize;
 }
 .logique-nav {
     width: 95px;
@@ -271,22 +263,17 @@ button:focus {
     font-size: 13px;
     padding: 1.5em 15px;
     background-color: transparent;
-    font-weight: 700;
+    font-weight: bold;
     margin-bottom: 0;
 }
-.breadcrumb--update-design>li {
+.breadcrumb--update-design > li {
     word-break: keep-all;
-}
-.breadcrumb--update-design li.active a {
-    color: #000;
-}
-.breadcrumb>li+li:before {
-    padding: 0 5px;
-    color: #ccc;
-    content: ">"!important;
 }
 .breadcrumb--update-design a {
     color: #ffca13;
+}
+.breadcrumb--update-design li.active a {
+    color: #000;
 }
 
 /*content home*/
@@ -323,7 +310,6 @@ button:focus {
     margin-bottom: 15px;
     line-height: 34px;
 }
-
 .container__ {
     padding-top: 2.5em;
     padding-bottom: 2.5em;
@@ -364,6 +350,10 @@ video {
 }
 video {
     background: url(../img/video-img-min.jpg) no-repeat;
+    background-size: cover;
+}
+.webp video{
+    background: url(../img/video-img-min.webp) no-repeat;
     background-size: cover;
 }
 #bgvid2,
@@ -676,6 +666,9 @@ video {
 .see-list .row__item > .item.item--contact {
     background: url("/img/bg-contact.png") right no-repeat;
 }
+.webp .see-list .row__item > .item.item--contact {
+    background: url("/img/bg-contact.png") right no-repeat;
+}
 .see-list .row__item > .item.item--career {
     background: url("/img/bg-career.png") right no-repeat;
 }
@@ -841,10 +834,6 @@ footer ol {
     margin: 0;
     padding: 0;
 }
-.content-wrapper__.bg--footer.footer-section {
-    padding-left: 90px;
-    margin-left: 0;
-}
 .footer-update a {
     color: #fff;
 }
@@ -958,46 +947,12 @@ footer .medsos-new .facebook-icon:hover {
         padding: 2.5em;
     }
 }
-
-@media (min-width: 769px) and (max-width:1299px) {
-    .container__ {
-        padding: 2.5em;
-    }
-}
 @media (min-width: 1200px) {
     .container__ {
         width: 1075px;
     }
 }
-
-
-@media only screen and (max-width: 1024px) {
-    .container__ {
-        width: auto;
-        padding: 2.5em;
-    }
-    .solution .flex__row > .row__item {
-        display: flex;
-        align-items: baseline;
-        margin-bottom: 40px;
-        flex-direction: column;
-    }
-    .case-study .row__item.morecs {
-        display: inline-block;
-    }
-    .case-study-btn-container {
-        display: none;
-    }
-    .case-study .row__item {
-        margin-bottom: 0;
-    }
-    .case-study .hidden-sm {
-        display: none !important;
-    }
-    .case-study .row__item > a {
-        opacity: 1;
-        background-color: rgba(247, 250, 253, 0.5);
-    }
+@media only screen and (max-width: 1100px) {
     .case-study .slick-prev,
     .case-study .slick-next {
         z-index: 999;
@@ -1040,6 +995,34 @@ footer .medsos-new .facebook-icon:hover {
     .case-study .slick-next:hover,
     .case-study .slick-next:focus {
         background: #ccc;
+    }
+}
+@media only screen and (max-width: 1024px) {
+    .container__ {
+        width: auto;
+        padding: 2.5em;
+    }
+    .solution .flex__row > .row__item {
+        display: flex;
+        align-items: baseline;
+        margin-bottom: 40px;
+        flex-direction: column;
+    }
+    .case-study .row__item.morecs {
+        display: inline-block;
+    }
+    .case-study-btn-container {
+        display: none;
+    }
+    .case-study .row__item {
+        margin-bottom: 0;
+    }
+    .case-study .hidden-sm {
+        display: none !important;
+    }
+    .case-study .row__item > a {
+        opacity: 1;
+        background-color: rgba(247, 250, 253, 0.5);
     }
     .case-study .flex__row:last-of-type {
         margin-bottom: 10px;
@@ -1137,6 +1120,10 @@ footer .medsos-new .facebook-icon:hover {
     }
     .top-only {
         background-image: url(../img/video-img-min.jpg);
+        background-size: cover;
+    }
+    .webp .top-only {
+        background-image: url(../img/video-img-min.webp);
         background-size: cover;
     }
     .top-only #bgImg {

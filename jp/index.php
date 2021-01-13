@@ -25,11 +25,18 @@
   <title>ジャカルタのWebサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
   <!-- Bootstrap -->  
-  <link rel="stylesheet  " href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
-  <link rel="stylesheet  " href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet" href="../css/sidebar-update.css" >
-  <link href="../css/newstyle.css" rel="stylesheet">
+  <link rel="preconnect" href="https://prod.purechatcdn.com">
+  <link rel="preconnect" href="https://app.purechat.com">
+  <link rel="preconnect" href="http://ajax.googleapis.com">
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+  <link rel="stylesheet  " href="/css/bootstrap.min.css" as="style">
+  <link rel="stylesheet  " href="/css/slick.css" as="style">
+  <link rel="stylesheet" href="../css/sidebar-update.css">
+  <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin/>
+  <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Medium.ttf" as="font" crossorigin/>
+  <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf" as="font" crossorigin/>
+  <link rel="preload" href="../css/newstyle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="../css/newstyle.css"></noscript>
   <link href="../css/jpstyle.css" rel="stylesheet"> 
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
@@ -103,7 +110,7 @@
     ?>
 
     <div class="content-wrapper__"> 
-      <div class="contain-video wrapper--update-design">
+      <div class="wrapper--update-design">
         <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
           <source src="../img/12377093.mp4" type="video/mp4">
         </video>
@@ -168,7 +175,10 @@
               <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
             </div>
             <div class="col-md-6">
-              <img class="portfolio__img img-responsive" src="/img/our-portfolio.png" alt="portfolio">
+              <picture>
+                <source srcset="/img/our-portfolio-min.webp">
+                <img class="portfolio__img img-responsive" src="/img/our-portfolio-min.jpg" alt="portfolio">
+              </picture>
             </div>
           </div>
         </div>
@@ -275,14 +285,20 @@
           <div class="flex__row">
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="services.php" class="item item--service">
-                <img src="/img/service.png" alt="">
+                <picture>
+                  <source srcset="/img/service.webp">
+                  <img src="/img/service.png" alt="" loading="lazy">
+                </picture>
                 <h3>サービスを詳しくみる</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="product.php" class="item item--product">
-                <img src="/img/product.png" alt="">
+                <picture>
+                  <source srcset="/img/product.webp">
+                  <img src="/img/product.png" alt="" loading="lazy">
+                </picture>
                 <h3>製品について確認する</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
@@ -374,7 +390,7 @@
 
                                             if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
                                                 $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
-                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->thumbnail->source_url;
                                             }
                                             //echo  $thumb_url ;
                                             if($x==0) { 
@@ -434,8 +450,13 @@
     </div> -->
   </div>
     <?php include 'footer.php';?>
-
+    <script src="/js/modernizr-custom.js"></script>                                
     <script>
+      Modernizr.on('webp', function(result) {
+        if (result) {
+          $("body").addClass('webp');
+        }
+      });
     $('.product__slide').slick({
       infinite: true,
       slidesToShow: 3,

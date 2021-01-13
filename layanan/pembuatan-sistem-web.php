@@ -22,7 +22,7 @@
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php" />  
 
-    <title>Jasa Pembuatan Aplikasi web / Progressive Web App (PWA) Jakarta</title> 
+    <title>Jasa Pembuatan Aplikasi Web / Sistem Web Terbaik di Jakarta</title> 
 
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/slick.css" rel="stylesheet"> 
