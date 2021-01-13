@@ -47,14 +47,21 @@ if(isset($_POST['submitted']))
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Operasi Struktur Server Cloud | DevOps | Perusahaan Pengembangan Sistem di Jakarta, LOGIQUE Digital Indonesia</title>
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style_devops.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan/devops.php"/>  
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -65,7 +72,6 @@ if(isset($_POST['submitted']))
 	ga('send', 'pageview');
 
 	</script>
-    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
     <?php 
         if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
             echo "<!-- Google Tag Manager -->
@@ -95,94 +101,21 @@ if(isset($_POST['submitted']))
             }
         }
     </style>
-    <div class="wrapper"> 
+    <div class="wrapper wrapper--update-design wrapper--update-design-font"> 
         <!-- NAVIGATION -->
-        <div class="nav-lp">
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                 <div class="logique-nav logique-nav--update">
-                     <div class="margin-for-nav">
-                         <div class="text-center">
-                             <a href="/">
-                                 <div class="img-home"></div>
-                                 Beranda
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/logique.php">
-                                 <div class="img-about"></div>
-                                 Tentang Kami
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/portofolio.php">
-                                 <div class="img-portfolio"></div>
-                                 Portfolio
-                             </a>
-                         </div>
-                         <div class="text-center active">
-                             <a href="/layanan.php">
-                                 <div class="img-services"></div>
-                                 Layanan
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/produk.php">
-                                 <div class="img-product"></div>
-                                 Produk
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/career/">
-                                 <div class="img-career"></div>
-                                 Karir
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/hubungi-kami.php">
-                                 <div class="img-contact"></div>
-                                 Hubungi Kami
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                                 <div class="img-blog"></div>
-                                 Blog
-                             </a>
-                         </div>
-                     </div>
-                 </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/devops.php">EN</a></li>
-                                    <li class="active"><a href="/layanan/devops.php">ID</a></li>
-                                    <li><a href="/jp/services/devops.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/services/devops.php';
+            $id_link = '#';
+            $jp_link = '/jp/services/devops.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <header class="content-wrapper__">
             <div class="text-left --top">

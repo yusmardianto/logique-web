@@ -44,7 +44,7 @@ header .bg-header {
   background:url(../img/img-webdev/webdev-bg.png) no-repeat left #F4F4F4; 
   background-size:cover;
   background-position: top left;
-  padding: 0px 0px 80px 0px;
+  /* padding: 0px 0px 80px 0px; */
 }
 .subtitle-header {
   color: #fff;
@@ -1551,7 +1551,7 @@ display: none;
     background: #F4F4F4;
     width: 90%;
     margin: 0 auto;
-    padding-bottom: 40px;
+    /* padding-bottom: 40px; */
     
   }
   .content-wrapper__  .main-section {

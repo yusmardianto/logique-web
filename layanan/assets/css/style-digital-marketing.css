@@ -1,6 +1,6 @@
 /* @import url(https://fonts.googleapis.com/css?family=Raleway); */
-@import url('/css/sidebar-update.css');
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
+/* @import url('/css/sidebar-update.css'); */
+/* @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap'); */
 @font-face {
     font-family: "Novocento Sans Wide";
     src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
@@ -215,7 +215,7 @@ ul.medsos-new li a{
 
 .language-btn {position: absolute;right: 30px;top: 66px;z-index: 9;}
 .list-inline>li a {color:#fff;}
-.list-inline>li.active {border: solid 2px #fff;border-radius: 1em;padding: 2px 5px;}
+.list-inline>li.active {border: solid 2px #fff;border-radius: 1em;}
 .list-inline>li.active a {color:#fff;}
 
 

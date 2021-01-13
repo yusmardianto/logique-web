@@ -134,7 +134,7 @@
   overflow: hidden;
   color: #000;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .web-solution__half-bg--round {
@@ -1401,6 +1401,7 @@ footer .medsos-new .facebook-icon:hover{
   border: solid 2px #000;
   padding-top: 20px;
   padding-bottom: 20px;
+  white-space: normal;
 }
 
 /* mobile */
@@ -1425,7 +1426,8 @@ footer .medsos-new .facebook-icon:hover{
   max-width: 50%;
 }
 
-.content__item.content__item--mobile > div > img {
+.content__item.content__item--mobile > div > img,
+.content__item.content__item--mobile > div > picture > img {
   margin-bottom: 0;
   height: 100%;
   width: 100%;

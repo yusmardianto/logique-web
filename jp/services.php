@@ -22,7 +22,13 @@
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../css/style.css" rel="stylesheet">
+    <!-- <link href="../css/style.css" rel="stylesheet"> -->
+    
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-services.css" rel="stylesheet">
+
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
@@ -30,71 +36,14 @@
 </head>
 
 <body class="jp-page">
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font --jp">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            会社概要
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portfolio.php">
-                            <div class="img-portfolio"></div>
-                            制作実績
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="services.php">
-                            <div class="img-services"></div>
-                            サービス
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="product.php">
-                            <div class="img-product"></div>
-                            プロダクト
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            採用/<br>パートナー
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="contact.php">
-                            <div class="img-contact"></div>
-                            お問い合わせ
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -104,25 +53,13 @@
 			</div>
 			<div class="bg-white-opacity"></div> -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <a href="/jp/index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li><a href="../en/services.php">EN</a></li>
-                                <li><a href="../layanan.php">ID</a></li>
-                                <li class="active"><a href="#">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/services.php';
+            $id_link = '/layanan.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 
@@ -154,7 +91,7 @@
                         <p class="title__description" style="">
                             世の中の変化のスピードは非常に速く、そのスピードは益々上がってきているように思います。スピードは現代においてはビジネスの成否を分ける最も重要なキーポイントと言っても良いと考えています。
                         </p>
-                        <p style="margin-bottom:20px">
+                        <p class="title__description" style="margin-bottom:20px">
                             お客様のビジネスを成功に導くため、制作開発もスピーディーにまた柔軟に対応できる体制でありたいと考えていることから、当社ではアジャイル型の開発体制を敷いています。変化を受け入れ、目に見えるものを早く作ります。クライアントと当社プロジェクトメンバーは１つのTeamです。細かくリリースし改善していくことが肝要だと考えます。
                         </p>
                         <div class="our-service__btn-wrapper">
@@ -203,6 +140,53 @@
                             </div>
                             <div class="service-list__item">
                                 <div>
+                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#sysDev_">
+                                        <p class="service-list__title">IT・Webシステム開発・運用</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#sysDev_ecommerce">
+                                            <li>E-Commerce（ECサイト)構築運用</li>
+                                        </a>
+                                        <a href="#sysDev_automotive">
+                                            <li>Automotive業界向けシステム開発</li>
+                                        </a>
+                                        <a href="#sysDev_cms">
+                                            <li>CMS構築・運用</li>
+                                        </a>
+                                        <a href="#sysDev_member">
+                                            <li>会員管理・契約管理システム</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#mobile_">
+                                        <p class="service-list__title">モバイルソリューション | アプリ開発</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#mobile_pwa">
+                                            <li>PWA（ウェブアプリ）開発</li>
+                                        </a>
+                                        <a href="#mobile_appDev">
+                                            <li>モバイル（スマホ）アプリ開発</li>
+                                        </a>
+                                        <a href="#mobile_appCreate">
+                                            <li>モバイル（レスポンシブ）WEB制作</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
                                     <img src="../img/service/list/digital.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
@@ -236,53 +220,6 @@
                                     <ul class="service-list__list">
                                         <a href="#webSecurity_va">
                                             <li>Webセキュリティ診断（脆弱性診断・検査）</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#sysDev_">
-                                        <p class="service-list__title">IT・Webシステム開発・運用</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#sysDev_ecommerce">
-                                            <li>E-Commerce（ECサイト)構築運用</li>
-                                        </a>
-                                        <a href="#sysDev_automotive">
-                                            <li>Automotive業界向けシステム開発</li>
-                                        </a>
-                                        <a href="#sysDev_cms">
-                                            <li>CMS構築・運用</li>
-                                        </a>
-                                        <a href="#sysDev_member">
-                                            <li>会員管理・契約管理システム</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#mobile_">
-                                        <p class="service-list__title">モバイルソリューション | アプリ開発</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>モバイル（レスポンシブ）WEB制作</li>
-                                        </a>
-                                        <a href="#mobile_appDev">
-                                            <li>モバイル（スマホ）アプリ開発</li>
-                                        </a>
-                                        <a href="#mobile_pwa">
-                                            <li>PWA（ウェブアプリ）開発</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -340,7 +277,7 @@
                                         モバイルアプリ開発
                                     </div>
                                 </a>
-                                <a href="services/mobile-app-dev.php#solusi-section">
+                                <a href="/jp/services/progressive-web-app-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div>
                                             <div class="web-solution__half-bg--round"></div>
@@ -522,93 +459,6 @@
                 </div>
             </section>
 
-            <section class="section-divider" id="dm_">
-                <div class="bg--black">
-                    <div class="container__">
-                        <div class="text-center" style="position: relative">
-                            <h1 class="title-index --yellow">デジタルマーケティング | ITコンサルティング</h1>
-                            <hr class="title__yellow-line--center">
-                            <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
-                        </div>
-                    </div>
-                </div>
-                <div class="container__">
-                    <section id="dm_seo">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">SEO対策 / SEM</h4>
-                                    <p>
-                                        SEOコンサルティングだけで終わらずWebページへの施策の実装まで責任をもって行うことで、結果にコミットします。
-                                        日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
-                                        インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
-                                    </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_digiMarket">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">インターネット広告 / デジタルマーケティング支援</h4>
-                                    <p>インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。
-                                        パートナーと協業して効果の高いソリューションをご提供します。</p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/jp/services/digital-marketing.php">もっと見る</a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_contentCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">コンテンツ制作</h4>
-                                    <p>WEBに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。
-                                        コンテンツ制作は企画からSEOを考慮したライティングまで日本人、インドネシア人の制作チームが行います。</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_itConsult">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">ランディングページ最適化</h4>
-                                    <p>
-                                        プロモーションのランディングページやキャンペーンページの制作もお気軽にご相談ください。
-                                        1ページの制作でもお請けしております。広告バナーの制作なども可能です。
-                                        複数制作してA/Bテストするなどコンバージョンに繋がるページの制作をいたします。
-                                        AMPの実装、HTML5バナーの制作などもお気軽にご相談ください。問い合わせ数が増えるように、
-                                        問い合わせページだけをリニューアルしたい、というご要望にもお応えしています。
-                                    </p>
-                            </div>
-                        </div>
-                    </section>
-
-                    <div class="text-center --back-top">
-                        <a href="portfolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
-                        </a>
-                        <a href="#serviceNavigation">
-                            <div class="main-btn">Back to Top</div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-
             <section class="section-divider" id="sysDev_">
                 <div class="bg--black">
                     <div class="container__">
@@ -697,17 +547,19 @@
                     </div>
                 </div>
                 <div class="container__">
-                    <section id="mobile_appCreate">
+                    <section id="mobile_pwa">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">モバイルWEB制作</h4>
-                                    <p>
-                                        インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。
-                                        スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。
-                                    </p>
+                                <h3 class="service-detail__title">PWAの開発</h3>
+                                <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。
+                                </p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow"
+                                        href="/jp/services/progressive-web-app-dev.php">もっと見る</a>
+                                </div>
                             </div>
                         </div>
                     </section>
@@ -728,20 +580,109 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_pwa">
+                    <section id="mobile_appCreate">
                         <div class="service-detail">
                             <div class="service-detail__line-wrapper">
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">PWAの開発</h3>
-                                <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。
-                                </p>
+                                <h3 class="service-detail__title">モバイルWEB制作</h4>
+                                    <p>
+                                        インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。
+                                        スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。
+                                    </p>
                             </div>
                         </div>
                     </section>
                     <div class="text-center --back-top">
                         <a href="portfolio.php#PWA">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#serviceNavigation">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-divider" id="dm_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center" style="position: relative">
+                            <h1 class="title-index --yellow">デジタルマーケティング | ITコンサルティング</h1>
+                            <hr class="title__yellow-line--center">
+                            <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
+                        </div>
+                    </div>
+                </div>
+                <div class="container__">
+                    <section id="dm_seo">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">SEO対策 / SEM</h4>
+                                    <p>
+                                        SEOコンサルティングだけで終わらずWebページへの施策の実装まで責任をもって行うことで、結果にコミットします。
+                                        日本語、インドネシア語、英語でのSEO対策実績豊富にあります。
+                                        インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
+                                    </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_digiMarket">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">インターネット広告 / デジタルマーケティング支援</h4>
+                                    <p>インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。
+                                        パートナーと協業して効果の高いソリューションをご提供します。</p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow"
+                                            href="/jp/services/digital-marketing.php">もっと見る</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_contentCreate">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">コンテンツ制作</h4>
+                                    <p>WEBに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。
+                                        コンテンツ制作は企画からSEOを考慮したライティングまで日本人、インドネシア人の制作チームが行います。</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="dm_itConsult">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">ランディングページ最適化</h4>
+                                    <p>
+                                        プロモーションのランディングページやキャンペーンページの制作もお気軽にご相談ください。
+                                        1ページの制作でもお請けしております。広告バナーの制作なども可能です。
+                                        複数制作してA/Bテストするなどコンバージョンに繋がるページの制作をいたします。
+                                        AMPの実装、HTML5バナーの制作などもお気軽にご相談ください。問い合わせ数が増えるように、
+                                        問い合わせページだけをリニューアルしたい、というご要望にもお応えしています。
+                                    </p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <div class="text-center --back-top">
+                        <a href="portfolio.php#others">
                             <div class="main-btn --black">Portfolio</div>
                         </a>
                         <a href="#serviceNavigation">

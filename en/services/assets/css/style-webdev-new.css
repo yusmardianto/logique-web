@@ -80,9 +80,9 @@ body {
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
-* {
+/* * {
   font-family: 'Raleway', 'sans-serif';
-}
+} */
 
 header {
   /* background-image: url(../img/img-webdev/webDev-bg.png);
@@ -1277,11 +1277,11 @@ footer {
 .lang-logo--update-design {
   padding: 24px 0 24px !important; 
 }
-.lang-logo--update-design .list-inline li {
+/* .lang-logo--update-design .list-inline li {
   width: 45px;
   height: 45px;
   border-radius: 50%;
-}
+} */
 .lang-logo--update-design .list-inline {
   top: 0;
 }
@@ -1289,7 +1289,7 @@ footer {
   margin-left: 0;
 }
 .content-wrapper__ .--top {
-  margin-top: 3.8em;
+  margin-top: 7em;
 }
 .content-wrapper__ .bg-section {
   position: relative;
@@ -1302,6 +1302,7 @@ footer {
 .content-wrapper__ .bg-section .breadcrumb-section {
   position: absolute;
   left: 135px;
+  z-index: 2;
 }
 .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
   padding: 10px 15px;
@@ -1882,7 +1883,7 @@ section {
       margin-left: 0;
   }
   .content-wrapper__ .--top {
-      margin-top: 2.7em;
+      margin-top: 4em;
   }
   .content-wrapper__ .--top .container-fluid{
       padding: 0;
@@ -1897,7 +1898,7 @@ section {
       padding: 0 !important;
   }
   .lang-logo--update-design .list-inline {
-      top: 10px;
+      /* top: 10px; */
       margin-top: 0;
   }
   .nav-lp .navbar-toggle.collapsed {
@@ -2222,7 +2223,7 @@ section {
 }
 @media (min-width: 851px) and (max-width: 991px) {
 .content-wrapper__ .--top {
-  margin-top: 2.7em;
+  margin-top: 4em;
 }
 
 section, header {
@@ -2235,7 +2236,7 @@ header {
     padding: 0 !important;
 }
 .lang-logo--update-design .list-inline {
-    top: 10px;
+    /* top: 10px; */
     margin-top: 0;
     right: 25px;
 }
@@ -2684,7 +2685,7 @@ header {
 }
 @media (min-width: 769px) and (max-width: 850px) {
 .content-wrapper__ .--top {
-  margin-top: 2.7em;
+  margin-top: 4em;
 }
 .lang-logo--update-design .list-inline {
   right: 80px;
@@ -2699,7 +2700,7 @@ header {
     padding: 0 !important;
 }
 .lang-logo--update-design .list-inline {
-    top: 10px;
+    /* top: 10px; */
     margin-top: 0;
 }
 .nav-lp .navbar-toggle.collapsed {
@@ -3146,7 +3147,7 @@ header {
 }
 @media (min-width: 415px) and (max-width: 768px) {
 .content-wrapper__ .--top {
-  margin-top: 2.7em;
+  margin-top: 4em;
 }
   section, header {
       padding-left: 100px;
@@ -3158,7 +3159,7 @@ header {
       padding: 0 !important;
   }
   .lang-logo--update-design .list-inline {
-      top: 10px;
+      /* top: 10px; */
       margin-top: 0;
   }
   .nav-lp .navbar-toggle.collapsed {

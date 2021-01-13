@@ -19,9 +19,15 @@
         content="Protect your website, web app, & e-commerce from any cyber attack. Logique Digital Indonesia provides penetration test, security assessment, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/../css/style.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">  
+
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
+    <link rel="stylesheet" href="/css/style-revamp.css" >
+    <!-- <link rel="stylesheet" href="../css/style.css" > -->
     <link href="assets/css/style-pentest.css" rel="stylesheet">
+    <link href="/css/animate.min.css" rel="stylesheet">
+
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
@@ -44,7 +50,7 @@
     </script>
 </head>
 
-<body class="wrapper wrapper--update-design" style="overflow-y: auto;">
+<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-y: auto;">
     <style>
     .container__ {
         padding-top: 0;
@@ -74,91 +80,21 @@
         }
     }
     </style>
-
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-        data-target="#myNavbar">
-        <span class="icon-bar first"></span>
-        <span class="icon-bar second"></span>
-        <span class="icon-bar third"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="myNavbar">
-        <div class="backdrop-test"></div>
-        <div class="logique-nav logique-nav--update">
-            <div class="margin-for-nav">
-                <div class="text-center">
-                    <a href="/en/index.php">
-                        <div class="img-home"></div>
-                        Home
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/logique.php">
-                        <div class="img-about"></div>
-                        About Us
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/portfolio.php">
-                        <div class="img-portfolio"></div>
-                        Portfolio
-                    </a>
-                </div>
-                <div class="text-center active">
-                    <a href="/en/services.php">
-                        <div class="img-services"></div>
-                        Services
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/product.php">
-                        <div class="img-product"></div>
-                        Product
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/career/">
-                        <div class="img-career"></div>
-                        Career
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/contact.php">
-                        <div class="img-contact"></div>
-                        Contact Us
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                        <div class="img-blog"></div>
-                        Blog
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
+    
     <!-- NAVIGATION -->
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+    ?>
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
-                        <div class="container">
-                            <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li class="active"><a href="">EN</a></li>
-                                <li><a href="/layanan/penetration-test.php">ID</a></li>
-                                <li><a href="/jp/services/penetration-test.php">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'en';
+        $en_link = '#';
+        $id_link = '/layanan/penetration-test.php';
+        $jp_link = '/jp/services/penetration-test.php';
+        include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+    ?>
 
     <div class="content-wrapper__">
         <div class="header-top">

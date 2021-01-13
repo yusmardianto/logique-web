@@ -23,10 +23,18 @@
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-sistem-web.php" />  
 
     <title>Jasa Pembuatan Aplikasi Web / Sistem Web Terbaik di Jakarta</title> 
-     <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="/css/slick.css" rel="stylesheet"> 
-     <link rel="stylesheet" href="/css/sidebar-update.css" >
-     <link href="assets/css/style-systemdev.css" rel="stylesheet">  
+
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/slick.css" rel="stylesheet"> 
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="assets/css/style-systemdev.css" rel="stylesheet">  
+
+    <style>
+        .breadcrumb-container .container__ {
+            padding: 0;
+        }
+    </style>
  </head> 
  <?php /*
       <link href="/css/style.css" rel="stylesheet">
@@ -88,95 +96,21 @@
 		}
 	?>
  
-     <div class="wrapper">
+     <div class="wrapper wrapper--update-design wrapper--update-design-font">
          <!-- NAVIGATION -->
-         <div class="nav-lp">
-             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                 data-toggle="collapse" data-target="#myNavbar">
-                 <span class="icon-bar first"></span>
-                 <span class="icon-bar second"></span>
-                 <span class="icon-bar third"></span>
-             </button>
-             <div class="collapse navbar-collapse" id="myNavbar">
-                 <div class="backdrop-test"></div>
-                 <div class="logique-nav logique-nav--update">
-                     <div class="margin-for-nav">
-                         <div class="text-center ">
-                             <a href="/">
-                                 <div class="img-home"></div>
-                                 Beranda
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/logique.php">
-                                 <div class="img-about"></div>
-                                 Tentang Kami
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/portofolio.php">
-                                 <div class="img-portfolio"></div>
-                                 Portfolio
-                             </a>
-                         </div>
-                         <div class="text-center active">
-                             <a href="/layanan.php">
-                                 <div class="img-services"></div>
-                                 Layanan
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/produk.php">
-                                 <div class="img-product"></div>
-                                 Produk
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/career/">
-                                 <div class="img-career"></div>
-                                 Karir
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/hubungi-kami.php">
-                                 <div class="img-contact"></div>
-                                 Hubungi Kami
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                                 <div class="img-blog"></div>
-                                 Blog
-                             </a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- NAVIGATION --> 
-         <!-- HEADER -->
-         <div class="container-fluid"> 
-             <div class="  lang-logo--update-design">
-                 <div class="container__">
- 
-                     <div class="row">
-                         <div class="col-sm-offset-1 col-sm-11">
-                              
-                                 <a href="/index.php"><img loading="lazy" src="/img/logo.png"
-                                         alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                         class="img-responsive logo--update-design" /></a>
-                                 <ul class="list-inline">
-                                     <li><a href="/en/services/system-dev.php">EN</a></li>
-                                     <li class="active"><a href="#">ID</a></li>
-                                     <li><a href="/jp/services/system-dev.php">JP</a></li>
-                                 </ul>
-                            
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- END HEADER -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
+        
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/services/system-dev.php';
+            $id_link = '#';
+            $jp_link = '/jp/services/system-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
      </div>
      <header class="content-wrapper__ header"> 
          <div class="container__" style="position:relative">
