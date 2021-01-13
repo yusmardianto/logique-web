@@ -93,8 +93,8 @@
                         </p>
                         <div class="product-list">
                             <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
-                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
+                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                         </div>
                         <p class="title__description">
                             インドネシアで人事業務を効果的に運営するために作成されたHRクラウドサービスを提供しています。生産性向上ツール、採用管理ツール、日報ツールを展開しています。全てのツールは元々、当社向けに開発して運用していたものです。インドネシア事情に沿っているツールとなっております。<br>
