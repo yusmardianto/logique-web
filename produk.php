@@ -114,8 +114,8 @@
                         <p class="title__description">Untuk membantu perusahaan tumbuh dan beradaptasi dalam era digital, LOGIQUE mengembangkan dan menyediakan produk digital, seperti sistem manajemen SDM, untuk meningkatkan operasi SDM, produktivitas, dan potensi keuntungan dalam organisasi.</p>
                         <div class="product-list">
                             <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
-                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
+                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                         </div>
                         <p class="title__description">Kami menyediakan solusi yang bertujuan untuk meningkatkan kinerja melalui jam kerja yang fleksibel dan peningkatan manajemen biaya melalui laporan harian, hingga sistem rekrutmen yang sangat membantu dalam menemukan karyawan yang paling berkualitas dengan cara yang seefisien mungkin.</p>
                     </div>
@@ -146,17 +146,17 @@
 
                     <div class="product-snap-shot dokodemo-ss">
                         <div class="product-snap-shot__item mb10">
-                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_1.png" alt="dokodemo_1">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_1.jpg" alt="dokodemo_1">
                             <p class="product-snap-shot__text">Analisa waktu kerja berdasarkan project </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_2.png" alt="dokodemo_2">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_2.jpg" alt="dokodemo_2">
                             <p class="product-snap-shot__text">Melacak kegiatan dengan screenshot</p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_3.png" alt="dokodemo_3">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_3.jpg" alt="dokodemo_3">
                             <p class="product-snap-shot__text">Melacak jam kerja dan jam istirahat</p>
                         </div>
 
@@ -179,7 +179,46 @@
                 </div>
             </section>
 
-            <section class="bg--gray">
+            <section  class="bg--gray">
+                <div class="container__">
+                    <h1 class="title-index">NIPPO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">Sistem laporan kerja karyawan dan Sistem Manajemen Jam Kerja</h4>
+                    <p class="title__description--full">Nippo adalah alat manajemen cloud laporan harian. Melalui Nippo, manajer SDM dan supervisor di setiap departemen dapat memeriksa bagaimana karyawan menghabiskan jam kerjanya. Mengizinkan rekan kerja untuk saling menandai dan mengevaluasi pekerjaan satu sama lain, sehingga membuat komunikasi internal menjadi lebih aktif.</p>
+
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_1.jpg" alt="nippo 1">
+                            <p class="product-snap-shot__text">Daily reporting semua karyawan </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
+                            <p class="product-snap-shot__text">Statistik kerja per proyek</p>
+                        </div>
+                    </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_3.jpg" alt="nippo 3">
+                            <p class="product-snap-shot__text">Statistik kerja secara keseluruhan </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_4.jpg" alt="nippo 4">
+                            <p class="product-snap-shot__text">Laporan individual </p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">
+                    Alat ini berguna untuk SDM untuk menghitung biaya jam kerja dari setiap tugas yang dilakukan oleh setiap karyawan. Melalui Nippo, evaluasi dan penilaian mandiri dapat dilakukan secara metodis setiap hari.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="produk/nippo.php"  target="_blank">Learn More</a>
+                    </div>
+                </div>
+            </section>
+
+            <section>
                 <div class="container__">
                     <h1 class="title-index">SUGOI SAIYO</h1>
                     <hr class="title__yellow-line">
@@ -213,45 +252,6 @@
 
                     <div class="text-center">
                         <a class="btn--yellow" href="produk/sugoi-saiyo.php">Learn More</a>
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container__">
-                    <h1 class="title-index">NIPPO</h1>
-                    <hr class="title__yellow-line">
-                    <h4 class="title-index__sub">Sistem laporan kerja karyawan dan Sistem Manajemen Jam Kerja</h4>
-                    <p class="title__description--full">Nippo adalah alat manajemen cloud laporan harian. Melalui Nippo, manajer SDM dan supervisor di setiap departemen dapat memeriksa bagaimana karyawan menghabiskan jam kerjanya. Mengizinkan rekan kerja untuk saling menandai dan mengevaluasi pekerjaan satu sama lain, sehingga membuat komunikasi internal menjadi lebih aktif.</p>
-
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_1.png" alt="nippo 1">
-                            <p class="product-snap-shot__text">Daily reporting semua karyawan </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
-                            <p class="product-snap-shot__text">Statistik kerja per proyek</p>
-                        </div>
-                    </div>
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_3.png" alt="nippo 3">
-                            <p class="product-snap-shot__text">Statistik kerja secara keseluruhan </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_4.png" alt="nippo 4">
-                            <p class="product-snap-shot__text">Laporan individual </p>
-                        </div>
-                    </div>
-
-                    <p class="title__description--full">
-                    Alat ini berguna untuk SDM untuk menghitung biaya jam kerja dari setiap tugas yang dilakukan oleh setiap karyawan. Melalui Nippo, evaluasi dan penilaian mandiri dapat dilakukan secara metodis setiap hari.</p><br>
-
-                    <div class="text-center">
-                        <a class="btn--yellow" href="produk/nippo.php"  target="_blank">Learn More</a>
                     </div>
                 </div>
             </section>

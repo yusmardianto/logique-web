@@ -43,6 +43,8 @@
 .product-snap-shot__img--3-col {
     width: 100%;
     max-width: 305px;
+    max-height: 150px;
+    object-fit: cover;
     border: solid 1px #000;
     margin-bottom: 15px;
     position: relative;
