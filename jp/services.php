@@ -30,7 +30,7 @@
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="../css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -423,11 +423,26 @@
                         </div>
                         <div class="col-md-4 hidden-sm hidden-xs">
                             <div class="service-detail__side-img">
-                                <img class="service-detail__side-img--left" src="../img/service/service-detail-1.png" alt="">
-                                <img class="service-detail__side-img--right" src="../img/service/service-detail-2.png" alt="">
-                                <img class="service-detail__side-img--center" src="../img/service/service-detail-3.png" alt="">
-                                <img class="service-detail__side-img--left" src="../img/service/service-detail-4.png" alt="">
-                                <img class="service-detail__side-img--right" src="../img/service/service-detail-2.png" alt="">
+                                <picture class="service-detail__side-img--left">
+                                    <source srcset="../img/service/service-detail-1.webp">
+                                    <img src="../img/service/service-detail-1.png" alt="">
+                                </picture>
+                                <picture class="service-detail__side-img--right">
+                                    <source srcset="../img/service/service-detail-2.webp">
+                                    <img src="../img/service/service-detail-2.png" alt="">
+                                </picture>
+                                <picture class="service-detail__side-img--center">
+                                    <source srcset="../img/service/service-detail-3.webp">
+                                    <img class="" src="../img/service/service-detail-3.png" alt="">
+                                </picture>
+                                <picture class="service-detail__side-img--left">
+                                    <source srcset="../img/service/service-detail-4.webp">
+                                    <img src="../img/service/service-detail-4.png" alt="">
+                                </picture>
+                                <picture class="service-detail__side-img--right">
+                                    <source srcset="../img/service/service-detail-2.webp">
+                                    <img src="../img/service/service-detail-4.png" alt="">
+                                </picture>
                             </div>
                         </div>
                     </div>
@@ -610,7 +625,11 @@
                         <div class="text-center" style="position: relative">
                             <h1 class="title-index --yellow">デジタルマーケティング | ITコンサルティング</h1>
                             <hr class="title__yellow-line--center">
-                            <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
+                            <picture>
+                                <source srcset="/img/google-badge.webp">
+                                <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
+                            </picture>
+                            
                         </div>
                     </div>
                 </div>
@@ -949,7 +968,10 @@
                             <p>LOGIQUEのサービスについて、製品について、またインドネシアでの協業についてなど、お気軽にご連絡ください。</p>
                             <br>
                             <hr class="title__yellow-line">
-                            <img src="../img/contact.png" style="width:100%" alt="contact">
+                            <picture>
+                                <source srcset="../img/contact.webp">
+                                <img src="../img/contact.png" style="width:100%" alt="contact">
+                            </picture>
                         </div>
 
                         <div class="col-sm-7">

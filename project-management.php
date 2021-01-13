@@ -42,17 +42,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
+    <meta name="description" content="Manajemen Proyek">
     <meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik | LOGIQUE">
+    <meta property="og:title" content="Manajemen Proyek | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
+    <meta property="og:description" content="Manajemen Proyek">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Jasa Pembuatan Progressive Web App (PWA) Terbaik | LOGIQUE</title>
+    <title>Manajemen Proyek | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
