@@ -19,6 +19,10 @@
     <link rel="canonical" href="https://www.logique.co.id/jp/services/digital-marketing.php">
     <title>デジタルマーケティングサービス | LOGIQUEデジタル インドネシア</title>
 
+    <link rel="preconnect" href="https://www.google-analytics.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+
     <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
@@ -195,7 +199,10 @@
             <div class="container__ text-center">
                 <h2>Marketing Trends</h2>
                 <p>デジタルマーケティングの技術は日進月歩です。全てのビジネスでデジタルマーケティングを行うことは成功への不可欠な要素となっています。トレンドを把握しインドネシアの特殊性を理解した上で適切に活用していくご支援をします。</p>
-                <img src="assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                <picture>
+                    <source srcset="assets/img/img-digital-marketing/trend-image.webp">
+                    <img src="assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                </picture>
                 <p>インターナショナルにまたインドネシア国内で、テクニカルチームとクリエイティブチームを持つ<strong>LOGIQUE</strong>はお客様のデジタルマーケティングを正しい方向に導く成功経験を作ってきました。常に最新動向をキャッチアップしお客様にベストな提案をすることを心掛けています。</p>
             </div>
         </section>
@@ -355,7 +362,10 @@
             <div class="container__ text-center">
                 <h2>How <strong>LOGIQUE</strong>'s Team Work</h2><br>
                 <a href="assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
-                    <img src="assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
+                    <picture>
+                        <source srcset="assets/img/img-digital-marketing/lgq-teamwork.webp">
+                        <img src="assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
+                    </picture>
                 </a>
             </div>
         </section>
@@ -365,9 +375,16 @@
 
     </div>
 
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php'; ?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
+    <script src="/js/modernizr-custom.js"></script>                                
     <script>
+        Modernizr.on('webp', function(result) {
+            if (result) {
+                $("body").addClass('webp');
+            }
+        });
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();
             $(this).ekkoLightbox();

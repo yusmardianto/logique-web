@@ -56,10 +56,11 @@ if(isset($_POST['submitted']))
      <link rel="canonical" href="https://www.logique.co.id/jp/services/mobile-app-dev.php"/>
      <title>スマホアプリ | モバイルApp開発 | LOGIQUEインドネシア</title>
 
-    <!-- font -->
+    <link rel="preconnect" href="https://prod.purechatcdn.com/" crossorigin>
+    <link rel="preconnect" href="http://ajax.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://app.purechat.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
 
     <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -68,6 +69,10 @@ if(isset($_POST['submitted']))
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-mobileapps.css" rel="stylesheet">
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
      <script>
