@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+        content="LOGIQUEはインドネシアでのデジタルマーケティングやDXをワンストップでご支援するコンサルティング会社です。ウェブサイトやITシステム、スマホアプリの制作開発、セキュリティ脆弱性検査、デジタルマーケティング運用のご支援をしています。インドネシアで10年近い経験を持ち多くのナショナルクライアントをもつ実績のある会社です。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="WEBデザイン制作 | システム開発会社 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="ITコンサルティング | DX | LOGIQUEデジタルINDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/logique.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
     <meta property="og:description"
-        content="LOGIQUEデジタルインドネシアのの会社概要。インドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム/モバイルアプリ開発会社です。コーポレートWEBサイト制作から大規模なシステム構築、システムの運用保守、SNS運用、Google広告運用まで、Digital Marketingコンサルティングを実施してクライアントのインドネシアでの成功を支援します。">
+        content="LOGIQUEはインドネシアでのデジタルマーケティングやDXをワンストップでご支援するコンサルティング会社です。ウェブサイトやITシステム、スマホアプリの制作開発、セキュリティ脆弱性検査、デジタルマーケティング運用のご支援をしています。インドネシアで10年近い経験を持ち多くのナショナルクライアントをもつ実績のある会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/logique.php"/>
-    <title>WEBデザイン制作 | システム開発会社 | LOGIQUE デジタルインドネシア</title>
+    <title>ITコンサルティング | DX | LOGIQUEデジタルINDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

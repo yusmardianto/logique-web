@@ -5,19 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+        content="LOGIQUEデジタルINDONESIAは、HRテック領域のクラウドプロダクトをインドネシアで展開しています。リモートワーク｜テレワークがインドネシアでより普及するのに貢献したく、リモートワーカーを管理しながら生産性向上にも寄与するDokodemo-Kerjaを販売しています。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="インドネシアHRクラウドツール | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/product.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
-        content="インドネシアの人事管理事情に沿ったクラウドプロダクトの提供をしています。リモートワークを許容しながら生産性を向上することが可能なテレワークマネジメントツール、日報を通じて人事評価を行うことが可能なツール、オフラインのインタビューをできる限り少なくしてプロセスをスピードアップすることが可能な採用管理ツールの展開を行っています。">
+        content="LOGIQUEデジタルINDONESIAは、HRテック領域のクラウドプロダクトをインドネシアで展開しています。リモートワーク｜テレワークがインドネシアでより普及するのに貢献したく、リモートワーカーを管理しながら生産性向上にも寄与するDokodemo-Kerjaを販売しています。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/product.php"/>
-    <title>人事ITソリューション | テレワーク管理ツール | 採用管理クラウド | LOGIQUE DIGITAL INDONESIA</title>
+    <title>インドネシアHRクラウドツール | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
