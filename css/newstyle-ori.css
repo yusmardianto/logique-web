@@ -309,13 +309,17 @@ button:focus {
     font-size: 32px;
 }
 [class*="update-design"].wrapper--update-design-font:not(.--jp),
-[class*="update-design"].wrapper--update-design-font:not(.--jp) * {
+[class*="update-design"].wrapper--update-design-font:not(.--jp) *:not(b) {
     font-weight: 400;
 }
 [class*="update-design"].wrapper--update-design-font .section-title {
     background: linear-gradient(#fbb03b, #fbb03b) bottom left/100px 5px
         no-repeat;
     padding-bottom: 25px;
+}
+[class*="update-design"].wrapper--update-design-font .section-title b,
+[class*="update-design"].wrapper--update-design-font .section-title strong {
+    font-size: inherit;
 }
 [class*="update-design"].wrapper--update-design-font .portfolio p,
 [class*="update-design"].wrapper--update-design-font .section-title + p {
@@ -406,7 +410,7 @@ video {
     color: #000;
     margin-bottom: 10px;
     line-height: 38px;
-    text-shadow: 1px 1px 1px #fff;
+    /* text-shadow: 1px 1px 1px #fff; */
 }
 .title-index.--yellow {    
     color: #ffca13;
@@ -477,6 +481,10 @@ video {
     align-items: center !important;
 }
 /* btn */
+
+a.form-control.btn {
+    height: auto;
+}
 
 .btn--yellow {
     background-color: #ffca13;
