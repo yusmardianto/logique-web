@@ -115,12 +115,18 @@
                     </div>
 
                     <div class="py--40px container__">
-                        <div class="row">
+                        <div class="row flex__row">
                             <div class="col-xs-12 col-md-8">
                                 <h1 class="title-index fs--28px">White Paper Pengembangan Website & Sistem Keamanan Website</h1>
 
                                 <p class="my--20px"><strong>LOGIQUE</strong> Digital Indonesia sebagai salah satu perusahaan konsultan IT yang menyediakan layanan pembuatan website, aplikasi web, sistem keamanan web (Web Security Service), dan layanan digital lain, senantiasa memberikan yang terbaik bagi seluruh klien dan user. </p> 
                                 <p>Kami memberikan informasi dan panduan lengkap mengenai cara pembuatan dan pengembangan website dan aplikasi yang efektif untuk sebuah perusahaan, e-commerce dan lainnya. Kami juga menyediakan panduan mengenai proteksi terhadap potensi serangan keamanan, dampak yang dapat ditimbulkan dan cara pencegahannya. Dokumen lain yang sangat penting terkait Teknologi Informasi secara umum pun kami sediakan dalam format dokumen White Paper (Buku Putih) yang dapat Anda download secara gratis.</p>
+                            </div>
+                            <div class="col-md-4 hidden-xs hidden-sm banner__illustration">
+                                <picture>
+                                    <source srcset="/img/white-paper/whitepaper-banner-illustration.webp" type="image/webp">
+                                    <img src="/img/white-paper/whitepaper-banner-illustration.png" alt="" class="illustration__img img-responsive">
+                                </picture>
                             </div>
                         </div>
                     </div>
@@ -143,7 +149,7 @@
                                     </div>
                                 </div>
                                 <div class="col-xs-12 col-md-3">
-                                    <a href="#" class="form-control btn btn--yellow contact__btn"><b>Hubungi Kami</b></a>
+                                    <a href="/hubungi-kami.php" class="form-control btn btn--yellow contact__btn"><b>Hubungi Kami</b></a>
                                 </div>
                             </div>
                         </div>
@@ -162,10 +168,14 @@
                                 <div class="row flex__row">
                                     <div class="col-xs-12 col-sm-8 col-md-3 item__img">
                                         <picture>
-                                            <source srcset="/img/white-paper/whitepaper-contact.webp" type="image/webp">
-                                            <img src="/img/white-paper/whitepaper-contact.jpg" alt="" class="img-responsive">
+                                            <source srcset="/img/white-paper/whitepaper-article-1.webp" type="image/webp">
+                                            <img src="/img/white-paper/whitepaper-article-1.jpg" alt="" class="img__image img-responsive">
                                         </picture>
-                                        <a href="#" class="form-control btn item__btn">
+                                        <a href="/white-paper-web-dev-1.php" target="_blank" class="form-control btn item__btn">
+                                            <picture>
+                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
+                                            </picture>
                                             Download whitepaper
                                         </a>
                                     </div>
@@ -182,10 +192,14 @@
                                 <div class="row flex__row">
                                     <div class="col-xs-12 col-sm-8 col-md-3 item__img">
                                         <picture>
-                                            <source srcset="/img/white-paper/whitepaper-contact.webp" type="image/webp">
-                                            <img src="/img/white-paper/whitepaper-contact.jpg" alt="" class="img-responsive">
+                                            <source srcset="/img/white-paper/whitepaper-article-2.webp" type="image/webp">
+                                            <img src="/img/white-paper/whitepaper-article-2.jpg" alt="" class="img__image img-responsive">
                                         </picture>
-                                        <a href="#" class="form-control btn item__btn">
+                                        <a href="/white-paper-web-dev-2.php" target="_blank" class="form-control btn item__btn">
+                                            <picture>
+                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
+                                            </picture>
                                             Download whitepaper
                                         </a>
                                     </div>
@@ -203,10 +217,14 @@
                                 <div class="row flex__row">
                                     <div class="col-xs-12 col-sm-8 col-md-3 item__img">
                                         <picture>
-                                            <source srcset="/img/white-paper/whitepaper-contact.webp" type="image/webp">
-                                            <img src="/img/white-paper/whitepaper-contact.jpg" alt="" class="img-responsive">
+                                            <source srcset="/img/white-paper/whitepaper-article-3.webp" type="image/webp">
+                                            <img src="/img/white-paper/whitepaper-article-3.jpg" alt="" class="img__image img-responsive">
                                         </picture>
-                                        <a href="#" class="form-control btn item__btn">
+                                        <a href="/white-paper-web-dev-3.php" target="_blank" class="form-control btn item__btn">
+                                            <picture>
+                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
+                                            </picture>
                                             Download whitepaper
                                         </a>
                                     </div>
@@ -223,10 +241,14 @@
                                 <div class="row flex__row">
                                     <div class="col-xs-12 col-sm-8 col-md-3 item__img">
                                         <picture>
-                                            <source srcset="/img/white-paper/whitepaper-contact.webp" type="image/webp">
-                                            <img src="/img/white-paper/whitepaper-contact.jpg" alt="" class="img-responsive">
+                                            <source srcset="/img/white-paper/whitepaper-article-4.webp" type="image/webp">
+                                            <img src="/img/white-paper/whitepaper-article-4.jpg" alt="" class="img__image img-responsive">
                                         </picture>
-                                        <a href="#" class="form-control btn item__btn">
+                                        <a href="/white-paper-ancaman-serangan-web-application.php" target="_blank" class="form-control btn item__btn">
+                                            <picture>
+                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
+                                            </picture>
                                             Download whitepaper
                                         </a>
                                     </div>
