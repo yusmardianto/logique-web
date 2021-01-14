@@ -242,16 +242,16 @@
 
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>Developing a website </li>
-                                <li>Updating your website’s system</li>
-                                <li>Developing a web system</li>
-                                <li>Creating and designing a campaign or website landing page</li>
-                                <li>Outsourcing website operations.</li>
-                                <li>Increasing access to your website with SEO.</li>
-                                <li>Organizing and running an online promotion strategy.</li>
-                                <li>Searching for leasing web servers and companies to manage them.</li>
-                                <li>Searching for a printing service catering to company profiles and brochures.</li>
-                                <li>etc.</li>
+                                <li>I want to introduce a remote work system to Indonesian corporations</li>
+                                <li>I want to increase the transparency of employee attendance</li>
+                                <li>I want to improve the productivity of employees (office workers)</li>
+                                <li>I want to track / understand the behavior of employees outside of the office</li>
+                                <li>I want to manage the daily work contents of employees in detail</li>
+                                <li>I want to analyze how much time each employees spend on each tasks</li>
+                                <li>I want to simplify the calculation of overtime hours and the number of paid holidays.</li>
+                                <li>I want to perform an objective and fair personnel evaluation</li>
+                                <li>I want an HR system that improves internal communication</li>
+                                <li>I want to streamline recruiting activities and eliminate paper resumes by using IT</li>
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
                         </div>
