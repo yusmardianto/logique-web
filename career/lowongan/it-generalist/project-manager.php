@@ -147,7 +147,6 @@
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
-                <h4 class="section-subtitle">PreSales</h4>
                 <ul class="career-list">
                   <li>
                     Memahami kebutuhan pelanggan dan tujuan bisnis.
@@ -157,31 +156,27 @@
                   <li>
                     Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
                   <li>
-                    Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk
-                    pembuatan proposal.
-                  </li>
-                </ul>
-                <h4 class="section-subtitle">Development:</h4>
-                <ul class="career-list">
-                  <li>
-                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing.
+                    Melakukan analisa terhadap kebutuhan bisnis dan memberikan estimasi pengerjaan yang diperlukan termasuk pembuatan proposal.
                   </li>
                   <li>
-                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.
+                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project budget.
                   </li>
                   <li>
-                    Melakukan monitoring terhadap penggunaan resource proyek.
+                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas secara tepat waktu dan sesuai dengan budget.
                   </li>
                   <li>
-                    Berkomunikasi dengan klien selama jalannya proyek.
+                    Melakukan monitoring terhadap penggunaan resource proyek, cepat menanggapi risiko dalam proyek dan aktif serta inisiatif dalam menyelesaikan masalah di dalam proyek.
                   </li>
                   <li>
-                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.
+                    Berkomunikasi secara profesional baik dengan klien maupun dengan tim proyek dan managemen selama jalannya proyek
                   </li>
-                </ul>
-                <h4 class="section-subtitle">Post Development:</h4>
-                <ul class="career-list">
+                  <li>
+                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.                  
+                  </li>
+                  <li>Mengikuti semua standar perusahaan dalam pelaksanaan proyek.</li>
+                  <li>Mencerminkan perwakilan nama perusahaan secara baik kepada semua pemangku kepentingan selama bekerja.</li>
                   <li>Menyajikan laporan yang tepat dan terstruktur.</li>
+                  <li>Membantu perkembangan aplikasi sesuai kebutuhan bisnis klien.</li>
                 </ul>
               </div>
               <div class="career-requirement">
