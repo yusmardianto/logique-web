@@ -84,7 +84,7 @@
 
             <section class="bg--gray">
                 <div class="container__">
-                    <div>
+                    <div class="text-center">
                         <h1 class="title-index text-center">Our Products</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description">LOGIQUEが提供する製品を紹介します。 <br>
@@ -93,8 +93,8 @@
                         </p>
                         <div class="product-list">
                             <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
-                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
+                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                         </div>
                         <p class="title__description">
                             インドネシアで人事業務を効果的に運営するために作成されたHRクラウドサービスを提供しています。生産性向上ツール、採用管理ツール、日報ツールを展開しています。全てのツールは元々、当社向けに開発して運用していたものです。インドネシア事情に沿っているツールとなっております。<br>
@@ -123,19 +123,18 @@
 
                     <div class="product-snap-shot dokodemo-ss">
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.png"
-                                alt="dokodemo_1">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.jpg" alt="dokodemo_1">
                             <p class="product-snap-shot__text">日次・週次・月次での勤務時間管理が可能 </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.png"
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.jpg"
                                 alt="dokodemo_2">
                             <p class="product-snap-shot__text">10分に1回ランダムにスクリーンキャプチャを取り管理サーバーに送信します</p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.png"
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.jpg"
                                 alt="dokodemo_3">
                             <p class="product-snap-shot__text">タスク別・プロジェクト別の勤務状況を管理可能です</p>
                         </div>
@@ -161,6 +160,48 @@
             </section>
 
             <section class="bg--gray">
+                <div class="container__">
+                    <h1 class="title-index">NIPPO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">従業員の日々の勤務状況を可視化し管理会計も可能にする日報ツール</h4>
+                    <p class="title__description--full">
+                        Nippoは従業員の日報を通して現状を把握し改善していくためのツールです。日報管理＆人事評価クラウドツールです。誰がなにをどれくらいの時間かけて作業しているか把握します。またその作業に対して自己評価とスーパーバイザーからの評価を行い管理することが可能となります。
+                    </p>
+
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.jpg" alt="nippo 1">
+                            <p class="product-snap-shot__text">日報一覧で従業員の作業状況を把握 </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
+                            <p class="product-snap-shot__text">プロジェクト別、タスク別に作業状況を分析可能</p>
+                        </div>
+                    </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.jpg" alt="nippo 3">
+                            <p class="product-snap-shot__text">自己評価・Supervisorからの評価を管理可能です </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.jpg" alt="nippo 4">
+                            <p class="product-snap-shot__text">日報詳細画面。タスク別の時間入力とコメント、自己評価を入力します </p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">
+                        日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。</p>
+                    <br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="product/nippo.php">日報について詳しくみる</a>
+                    </div>
+                </div>
+            </section>
+
+            <section>
                 <div class="container__">
                     <h1 class="title-index">SUGOI SAIYO</h1>
                     <hr class="title__yellow-line">
@@ -200,48 +241,6 @@
                 </div>
             </section>
 
-            <section>
-                <div class="container__">
-                    <h1 class="title-index">NIPPO</h1>
-                    <hr class="title__yellow-line">
-                    <h4 class="title-index__sub">従業員の日々の勤務状況を可視化し管理会計も可能にする日報ツール</h4>
-                    <p class="title__description--full">
-                        Nippoは従業員の日報を通して現状を把握し改善していくためのツールです。日報管理＆人事評価クラウドツールです。誰がなにをどれくらいの時間かけて作業しているか把握します。またその作業に対して自己評価とスーパーバイザーからの評価を行い管理することが可能となります。
-                    </p>
-
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.png" alt="nippo 1">
-                            <p class="product-snap-shot__text">日報一覧で従業員の作業状況を把握 </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
-                            <p class="product-snap-shot__text">プロジェクト別、タスク別に作業状況を分析可能</p>
-                        </div>
-                    </div>
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.png" alt="nippo 3">
-                            <p class="product-snap-shot__text">自己評価・Supervisorからの評価を管理可能です </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.png" alt="nippo 4">
-                            <p class="product-snap-shot__text">日報詳細画面。タスク別の時間入力とコメント、自己評価を入力します </p>
-                        </div>
-                    </div>
-
-                    <p class="title__description--full">
-                        日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。</p>
-                    <br>
-
-                    <div class="text-center">
-                        <a class="btn--yellow" href="product/nippo.php">日報について詳しくみる</a>
-                    </div>
-                </div>
-            </section>
-
             <section id="contact">
                 <div class="container__">
                     <div class="row">
@@ -255,19 +254,16 @@
 
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>会社ホームページ/コーポレートWEBがまだ無い。 </li>
-                                <li>運用会社を変えたい。元の制作開発会社と連絡がとれず更新できない。</li>
-                                <li>いまのウェブはスマフォに対応してなくて改良が必要。</li>
-                                <li>インドネシア語、英語、日本語でWEBを作りたい。</li>
-                                <li>社内にIT担当者、WEB担当者がいない。</li>
-                                <li>エクセルでは管理が限界。簡易なシステムが必要。</li>
-                                <li>インターネット、WEBを活用してブランディングしたい、集客したい、競合と差別化したい。</li>
-                                <li>インドネシア語でコンテンツを作る必要があるが翻訳会社に委託するしかないのか？</li>
-                                <li>インドネシア内でサーバーをレンタルしたい。運用保守会社も探している。</li>
-                                <li>メールサーバー、eメールサーバーが必要。</li>
-                                <li>FacebookやInstagramを活用して集客したい</li>
-                                <li>インターネット広告を出稿したい</li>
-                                <li>いまのWebにセキュリティ脆弱性がないのか診断してもら</li>
+                                <li>インドネシア法人にリモートワーク制度を導入したい</li>
+                                <li>社員の勤怠をより可視化したい</li>
+                                <li>従業員（オフィスワーカー）の生産性を向上したい</li>
+                                <li>外回り社員の行動を追跡/把握したい</li>
+                                <li>従業員の日々の作業内容を詳細に管理したい</li>
+                                <li>誰がどの作業にどれだけの時間費やしているのか分析したい</li>
+                                <li>残業時間計算や有休消化数の計算を簡易化したい</li>
+                                <li>客観的で公平な人事評価を行いたい</li>
+                                <li>社内コミュニケーションを活性化するHRシステムを探している</li>
+                                <li>ITを活用して採用活動を効率化したい、紙のレジュメを無くしたい</li>
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">お問い合わせ</a>
                         </div>
