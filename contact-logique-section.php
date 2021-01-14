@@ -10,14 +10,16 @@
             </div>
             <div class="col-sm-7">
                 <ul class="lgq-does__list">
-                    <li>Mengembangkan situs web / sistem web / aplikasi mobile</li>
-                    <li>Mengganti agen outsourcing / vendor IT / Pemasaran Digital</li>
-                    <li>Mengelola pengoperasian situs web / sistem.</li>
-                    <li>Meningkatkan akses ke situs web Anda dengan SEO.</li>
-                    <li>Mengorganisir dan menjalankan strategi promosi online.</li>
-                    <li>Mencari penyewaan server web dan perusahaan untuk mengelolanya.</li>
-                    <li>Menerapkan sistem manajemen SDM/HR berbasis cloud</li>
-                    <li>Merencanakan strategi digital untuk bisnis Anda</li>
+                    <li>Saya ingin memperkenalkan sistem kerja jarak jauh untuk perusahaan Indonesia</li>
+                    <li>Saya ingin meningkatkan transparansi sistem absensi karyawan</li>
+                    <li>Saya ingin meningkatkan produktivitas karyawan (pekerja kantoran)</li>
+                    <li>Saya ingin melacak / memahami perilaku karyawan di luar kantor</li>
+                    <li>Saya ingin melihat pekerjaan sehari-hari karyawan secara detail</li>
+                    <li>Saya ingin menganalisis berapa banyak waktu yang dihabiskan setiap karyawan untuk setiap tugas.</li>
+                    <li>Saya ingin menyederhanakan perhitungan jam lembur dan jumlah hari cuti</li>
+                    <li>Saya ingin melakukan evaluasi karyawan yang objektif dan adil</li>
+                    <li>Saya ingin sistem SDM yang meningkatkan komunikasi internal</li>
+                    <li>Saya ingin menyederhanakan aktivitas perekrutan dan menghilangkan resume kertas dengan menggunakan TI</li>
                 </ul>
                 <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
                     LOGIQUE</a>
