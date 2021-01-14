@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
+        content="インドネシアでPWA開発の豊富な経験をもつLOGIQUEデジタルIndonesiaにPWA開発に関することはお任せください。Webアプリの開発、既存のアプリの改修、メンテナンスなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューションについても豊富な経験あります。">
     <meta name="keywords" content="">
     <meta name="author" content="Logique Digital Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-      <meta property="og:title" content="インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA">
+      <meta property="og:title" content="PWA開発 | LOGIQUE Digital インドネシア">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services/progressive-web-app-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
-    <title>インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA</title>
+        content="インドネシアでPWA開発の豊富な経験をもつLOGIQUEデジタルIndonesiaにPWA開発に関することはお任せください。Webアプリの開発、既存のアプリの改修、メンテナンスなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューションについても豊富な経験あります。">
+    <title>PWA開発 | LOGIQUE Digital インドネシア</title>
 
     <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">

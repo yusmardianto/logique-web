@@ -40,19 +40,19 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEはインドネシア、他の東南アジアの国でクライアントのWEBマーケティングをWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などで成功に導いてきました。インドネシアでWEBを成功のキーとお考えであれば、LOGIQUEにご相談ください。">
+        content="LOGIQUEデジタルインドネシアはジャカルタに本社をもつIT/DXコンサルティング会社です。Web制作、Webシステム開発、アプリ開発サービス、デジタルマーケティング運用をインドネシアで行っています。">
     <meta name="keywords" content="お問い合わせ, WEBサイト制作, ホームページ制作,ウェブシステム構築, WEBマーケティング, パンフレット, モバイルアプリ構築">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web / ホームページの制作運用 デジタルマーケティングに関するお問い合わせ | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="インドネシアのWeb制作・ITコンサルティング会社LOGIQUEデジタルINDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/contact.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
     <meta property="og:description"
-        content="LOGIQUEはインドネシアや他の東南アジアの国で、クライアントにWEBサイト制作、WEBシステム開発、モバイルアプリ開発、SEO対策、アクセス解析などデジタルマーケティングサービスを提供してきました。7年間の大企業向けの豊富な実績があります。デジタル領域のベンダー選定がインドネシアでの成功のキーとお考えであれば、LOGIQUEにご相談ください。">
+        content="LOGIQUEデジタルインドネシアはジャカルタに本社をもつIT/DXコンサルティング会社です。Web制作、Webシステム開発、アプリ開発サービス、デジタルマーケティング運用をインドネシアで行っています。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/contact.php"/>
-    <title>Web / ホームページの制作運用 デジタルマーケティングに関するお問い合わせ | LOGIQUE デジタルインドネシア</title>
+    <title>インドネシアのWeb制作・ITコンサルティング会社LOGIQUEデジタルINDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
