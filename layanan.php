@@ -118,6 +118,9 @@
                             <a href="portofolio.php">
                                 <div class="main-btn --black">Lihat Portofolio</div>
                             </a>
+                            <a href="/project-management.php">
+                                <div class="main-btn --yellow">Manajemen Proyek Kami</div>
+                            </a>
                             <a href="hubungi-kami.php"
                                 onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">
                                 <div class="main-btn --yellow">Hubungi Kami</div>

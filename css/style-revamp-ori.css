@@ -20,6 +20,7 @@
 }
 .our-service__btn-wrapper {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
