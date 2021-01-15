@@ -19,6 +19,10 @@
     <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/system-development.php"/>
     <title>ITシステム開発実績 | LOGIQUEデジタルインドネシア</title>
 
+    <link rel="preconnect" href="https://widgetapi.purechat.com">
+    <link rel="preconnect" href="https://app.purechat.com">
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet"> 
     
@@ -30,7 +34,7 @@
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 

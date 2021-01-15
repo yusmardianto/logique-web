@@ -1,5 +1,5 @@
 <?php
-require_once("./form/fgcontactform.php");
+require_once("../form/fgcontactform.php");
 
 $formproc = new FGContactForm();
 
@@ -56,7 +56,7 @@ if(isset($_POST['submitted']))
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
-    <link href="/css/style-pm.css?v=1.0.3" rel="stylesheet">
+    <link href="/css/style-pm.css?v=1.0.4" rel="stylesheet">
     <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
@@ -163,6 +163,10 @@ if(isset($_POST['submitted']))
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                             <a itemprop="item" href="/index.php"><span itemprop="name">Beranda</span></a>
+                                            <meta itemprop="position" content="1" />
+                                        </li>
+                                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                            <a itemprop="item" href="/layanan.php"><span itemprop="name">Layanan</span></a>
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
@@ -474,7 +478,7 @@ if(isset($_POST['submitted']))
         </div>
     </section>
 
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
     <script async defer src='https://www.google.com/recaptcha/api.js'></script>
 
 </body>

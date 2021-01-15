@@ -19,8 +19,19 @@
     <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/website.php"/>
     <title>Web・ホームページ制作実績 | LOGIQUEデジタルインドネシア</title>
     
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://prod.purechatcdn.com">
+    <link rel="preconnect" href="https://app.purechat.com">
+    
+
+    <link rel="preload" href="/fonts/Novecentosanswide-Medium.otf" as="font" crossorigin>
+    <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf" as="font" crossorigin>
+    <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin>
+
+
     <!-- font -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet"> -->
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet"> 
@@ -33,7 +44,7 @@
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 
