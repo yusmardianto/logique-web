@@ -6,20 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia | Agensi Jasa Pengembangan Sistem Web (Web System Development) untuk e-commerce & lainnya | Lokasi: Jl.Simatupang Jakarta Selatan">
+        content="Download dokumen white paper terkait pengembangan website & aplikasi web yang efektif untuk e-commerce, sistem keamanan web, penetration testing dan dokumen lainnya.">
     <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE">
+    <meta property="og:title" content="White Paper Pengembangan & Sistem Keamanan Web | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia | Agensi Jasa Pengembangan Sistem Web (Web System Development) untuk e-commerce & lainnya | Lokasi: Jl.Simatupang Jakarta Selatan">
-    <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/" />
+        content="Download dokumen white paper terkait pengembangan website & aplikasi web yang efektif untuk e-commerce, sistem keamanan web, penetration testing dan dokumen lainnya.">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">    
+    <link rel="canonical" href="https://www.logique.co.id/white-paper.php" />  
     <!-- Facebook Pixel Code -->
     <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
     <script>! function(f, b, e, v, n, t, s){ if (f.fbq) return; n=f.fbq=function(){ n.callMethod ? n.callMethod.apply(n, arguments) :n.queue.push(arguments)}; if (!f._fbq) f._fbq=n; n.push=n; n.loaded=!0; n.version='2.0'; n.queue=[]; t=b.createElement(e); t.async=!0; t.src=v; s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)}(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView'); </script>
@@ -43,10 +42,10 @@
   ga('send', 'pageview');
   </script> -->
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-    <title>Web System Development Jakarta | Solusi Digital Bisnis Anda | LOGIQUE</title>
+    <title>White Paper Pengembangan & Sistem Keamanan Web | LOGIQUE</title>
 
     <!-- fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&display=swap" rel="stylesheet">
 
     <!-- bootstrap -->
     <link rel="stylesheet" href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -85,12 +84,12 @@
 
         <!-- HEADER -->
         <?php 
-      $lang = 'id';
-      $en_link = '/en/';
-      $id_link = '#';
-      $jp_link = '/jp/';
-      include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
-    ?>
+            $lang = 'id';
+            $en_link = '/en/';
+            $id_link = '#';
+            $jp_link = '/jp/';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <div class="whitepaper">
 
@@ -103,13 +102,9 @@
                                     href="/"><span itemprop="name">Beranda</span></a>
                                 <meta itemprop="position" content="1" />
                             </li>
-                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                    itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp; Layanan</span></a>
-                                <meta itemprop="position" content="2" />
-                            </li>
                             <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
                                     itemprop="item"><span itemprop="name">&nbsp; White Paper</span></a>
-                                <meta itemprop="position" content="3" />
+                                <meta itemprop="position" content="2" />
                             </li>
                         </ol>
                     </div>
@@ -142,7 +137,7 @@
                                 <div class="col-xs-12 col-md-8">
                                     <div class="contact__content">
                                         <picture>
-                                            <source srcset="/img/white-paper/whitepaper-contact-icon.svg" type="image/svg">
+                                            <source srcset="/img/white-paper/whitepaper-contact-icon.svg">
                                             <img src="/img/white-paper/whitepaper-contact-icon.png" alt="" class="content__img mr--10px img-responsive">
                                         </picture>
                                         <p>Konsultasikan kebutuhan Anda dan <br class="hidden-xs"><b class="text-uppercase">dapatkan solusi terbaik bersama</b> LOGIQUE</p>
@@ -173,7 +168,7 @@
                                         </picture>
                                         <a href="/white-paper-web-dev-1.php" target="_blank" class="form-control btn item__btn">
                                             <picture>
-                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <source srcset="/img/white-paper/icon-download.svg">
                                                 <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
                                             </picture>
                                             Download whitepaper
@@ -181,7 +176,7 @@
                                     </div>
                                     <div class="col-xs-12 col-md-9 item__explain">
                                         <small class="fs--14px">7 Januari 2021 | Website</small>
-                                        <h4 class="fw--600 fs--16px">Pembuatan Website Yang Efektif </h4>
+                                        <h4 class="fw--800 fs--18px">Pembuatan Website Yang Efektif </h4>
                                         <p class="fw--600">Teknologi terkait Website mengalami perkembangan yang sangat pesat akhir-akhir ini. Website bahkan telah menjadi salah satu media yang wajib dimiliki oleh siapapun yang ingin bersaing di era digital saat ini. Diperlukan sebuah perencanaan dan pertimbangan yang matang dalam proses pembuatan dan pengembangannya agar menghasilkan website yang efektif dan sesuai harapan. Faktor-faktor apa saja yang perlu Anda perhatikan dan bagaimana teknis implementasinya? <br>
                                         Dapatkan lengkap mengenai proses pengembangan website yang efektif melalui dokumen white paper yang kami sediakan. </p>
                                     </div>
@@ -197,7 +192,7 @@
                                         </picture>
                                         <a href="/white-paper-web-dev-2.php" target="_blank" class="form-control btn item__btn">
                                             <picture>
-                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <source srcset="/img/white-paper/icon-download.svg">
                                                 <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
                                             </picture>
                                             Download whitepaper
@@ -205,7 +200,7 @@
                                     </div>
                                     <div class="col-xs-12 col-md-9 item__explain">
                                         <small class="fs--14px">7 Januari 2021 | Website</small>
-                                        <h4 class="fw--600 fs--16px">Pengembangan Website E-Commerce </h4>
+                                        <h4 class="fw--800 fs--18px">Pengembangan Website E-Commerce </h4>
                                         <p class="fw--600">Situs Anda dapat dikatakan sukses masuk ke dunia online jika situs Anda didatangi pengunjung. Namun bagaimanakah cara mempertahankan pengunjung tersebut sampai terjadinya transaksi? Dan bagaimana caranya agar mereka kembali lagi ke situs Anda setelah pembelian pertama tersebut? Tidaklah cukup hanya dengan alur pembayaran yang cepat dan navigasi yang mudah, karena semua situs ecommerce diharapkan memiliki standar dasar seperti ini, terutama situs situs ecommerce raksasa yang memiliki standar sangat tinggi.
                                         <br>
                                         Setidaknya terdapat 5 Poin utama yang perlu Anda perhatikan sebelum mengembangkan sebuah website E-Commerce yang efektif. Apa saja poin-poin tersebut dan bagaimana teknis penerapannya? Silahkan download panduan selengkapnya melalui dokumen white paper yang kami sediakan.</p>
@@ -222,7 +217,7 @@
                                         </picture>
                                         <a href="/white-paper-web-dev-3.php" target="_blank" class="form-control btn item__btn">
                                             <picture>
-                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <source srcset="/img/white-paper/icon-download.svg">
                                                 <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
                                             </picture>
                                             Download whitepaper
@@ -230,7 +225,7 @@
                                     </div>
                                     <div class="col-xs-12 col-md-9 item__explain">
                                         <small class="fs--14px">7 Januari 2021 | Website</small>
-                                        <h4 class="fw--600 fs--16px">Pentingnya Penetration Testing dalam Sebuah Bisnis Perusahaan </h4>
+                                        <h4 class="fw--800 fs--18px">Pentingnya Penetration Testing dalam Sebuah Bisnis Perusahaan </h4>
                                         <p class="fw--600">Teknologi Informasi dan Internet telah banyak mengubah cara hidup bagi sebagian orang di Indonesia, bagaimana tidak banyak aktivitas sehari-hari dapat dimudahkan dengan teknologi informasi dan internet, hal ini tentu dapat meningkatkan terhadap kerentanan keamanan informasi terhadap sebuah organisasi dari risiko serangan cyber.
                                         <br>Banyaknya serangan siber yang terjadi tentunya akan meningkatkan ancaman siber pada suatu organisasi perusahaan, yang pada akhirnya dapat mengganggu proses bisnis bahkan juga dapat mempengaruhi reputasi dari perusahaan tersebut. Untuk itu Penetration testing perlu dilakukan. Mengapa? Silahkan download white paper yang kami sediakan untuk mendapatkan informasi lebih dalam mengenai pentingnya Penetration Testing dalam bisnis perusahaan Anda. </p>
                                     </div>
@@ -246,7 +241,7 @@
                                         </picture>
                                         <a href="/white-paper-ancaman-serangan-web-application.php" target="_blank" class="form-control btn item__btn">
                                             <picture>
-                                                <source srcset="/img/white-paper/icon-download.webp" type="image/webp">
+                                                <source srcset="/img/white-paper/icon-download.svg">
                                                 <img src="/img/white-paper/icon-download.png" alt="" class="btn__img img-responsive">
                                             </picture>
                                             Download whitepaper
@@ -254,7 +249,7 @@
                                     </div>
                                     <div class="col-xs-12 col-md-9 item__explain">
                                         <small class="fs--14px">7 Januari 2021 | Website</small>
-                                        <h4 class="fw--600 fs--16px">Ancaman Serangan Aplikasi Web & Cara Pencegahannya </h4>
+                                        <h4 class="fw--800 fs--18px">Ancaman Serangan Aplikasi Web & Cara Pencegahannya </h4>
                                         <p class="fw--600">Aplikasi web merupakan teknologi yang mampu menjadikan sebuah pekerjaan dapat terselesaikan dengan lebih mudah, efektif dan efisien. Melalui beragam keunggulan yang dimilikinya tersebut, aplikasi web menjadi semakin populer dan sangat banyak digunakan oleh berbagai pihak, baik perorangan, organisasi maupun institusi. Disisi lain, bersamaan dengan pesatnya perkembangan teknologi tersebut, semakin besar pula potensi ancaman serangan keamanan yang mungkin terjadi. 
                                         <br>
                                         Guna mencegah dan melakukan proteksi dari potensi serangan-serangan tersebut, maka diperlukan sebuah tindakan yang harus dilakukan dengan metode yang sistematis dan terukur. Dapatkan panduan lengkap mengenai cara pencegahan dan penanganan ancaman serangan Aplikasi Web melalui white paper yang kami sediakan secara gratis untuk Anda.</p>

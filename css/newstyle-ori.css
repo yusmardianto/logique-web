@@ -490,8 +490,8 @@ a.form-control.btn {
 }
 
 .btn--yellow:hover {
-    background-color: #fff;
-    color: #000;
+    background-color: #FFB300;
+    border-color: #FFB300;
 }
 
 /* end btn */
