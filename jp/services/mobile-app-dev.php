@@ -42,24 +42,25 @@ if(isset($_POST['submitted']))
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="インドネシアのWebシステム開発会社LOGIQUEのモバイルアプリ開発サービスのご紹介。ネイティブアプリ開発、ハイブリッドアプリ、PWAの開発の豊富な実績があります。E-ラーニング、会員管理アプリ、e-コマースなどのモバイルアプリを開発してきました。インドネシアでお客様のニーズに沿ったモバイル・ソリューションの提供を行っていますのでお気軽に問い合わせください。">
+         content="インドネシアのモバイルApp開発会社LOGIQUEデジタルIndonesia。モバイル・スマホアプリの開発、既存のアプリの改修、バージョンアップ対応、メンテナンス契約についてなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューション、PWA等についても豊富な経験あります。">
      <meta name="keywords" content="">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
-     <meta property="og:title" content="Mobile App Developer | Android, Hybrid App, PWA Builder Jakarta | LOGIQUE DIGITAL INDONESIA">
+     <meta property="og:title" content="スマホアプリ | モバイルApp開発 | LOGIQUEインドネシア">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/jp/services/mobile-app-dev.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="LOGIQUE is the top mobile app developer in Jakarta, has been trusted to develop the highly responsive mobile app, Android and iOS, with native / hybrid app and PWA builder for enterprise clients. We develop apps, strategic plan, design, QA, user testing, etc. Contact us to create yours now">
+         content="インドネシアのモバイルApp開発会社LOGIQUEデジタルIndonesia。モバイル・スマホアプリの開発、既存のアプリの改修、バージョンアップ対応、メンテナンス契約についてなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューション、PWA等についても豊富な経験あります。">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <link rel="canonical" href="https://www.logique.co.id/jp/services/mobile-app-dev.php"/>
-     <title>スマホアプリ開発｜モバイルアプリ開発・WebシステムのLOGIQUEデジタルインドネシア</title>
+     <title>スマホアプリ | モバイルApp開発 | LOGIQUEインドネシア</title>
 
-    <!-- font -->
+    <link rel="preconnect" href="https://prod.purechatcdn.com/" crossorigin>
+    <link rel="preconnect" href="http://ajax.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://app.purechat.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;500;600&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
 
     <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -68,6 +69,10 @@ if(isset($_POST['submitted']))
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-mobileapps.css" rel="stylesheet">
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
      <script>

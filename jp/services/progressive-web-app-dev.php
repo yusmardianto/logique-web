@@ -6,19 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
+        content="インドネシアでPWA開発の豊富な経験をもつLOGIQUEデジタルIndonesiaにPWA開発に関することはお任せください。Webアプリの開発、既存のアプリの改修、メンテナンスなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューションについても豊富な経験あります。">
     <meta name="keywords" content="">
     <meta name="author" content="Logique Digital Indonesia">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-      <meta property="og:title" content="インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA">
+      <meta property="og:title" content="PWA開発 | LOGIQUE Digital インドネシア">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services/progressive-web-app-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="LOGIQUEはインドネシアのPWA開発のパイオニアで、最もPWA開発の経験をもつ会社のうちの１つです。E-CommerceやE-LearningなどのPWAを開発してきました。ネイティブアプリからの作り替えなどもお気軽にご相談ください。">
-    <title>インドネシアのベストPWA開発会社｜Webアプリ開発｜LOIGQUEデジタルINDONESIA</title>
+        content="インドネシアでPWA開発の豊富な経験をもつLOGIQUEデジタルIndonesiaにPWA開発に関することはお任せください。Webアプリの開発、既存のアプリの改修、メンテナンスなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューションについても豊富な経験あります。">
+    <title>PWA開発 | LOGIQUE Digital インドネシア</title>
+
+
+    <link rel="preconnect" href="https://app.purechat.com" crossorigin>
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
 
     <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -97,7 +101,7 @@
                         <div class="col-md-5 header__img">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-banner-header.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-banner-header.png" alt="" class="img-responsive">
+                                <img src="/layanan/assets/img/img-pwa/img-banner-header.png" alt="" class="img-responsive" loading="lazy">
                             </picture>
                         </div>
                     </div>
@@ -145,7 +149,7 @@
                         <div class="col-xs-12 col-md-6 align-self-center">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-what-is-pwa.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-what-is-pwa.jpg" alt="what is pwa" class="img-responsive mx--auto">
+                                <img src="/layanan/assets/img/img-pwa/img-what-is-pwa.jpg" alt="what is pwa" class="img-responsive mx--auto" loading="lazy">
                             </picture>
                         </div>
                     </div>
@@ -317,7 +321,7 @@
                         <div class="col-xs-12 col-sm-5 col-md-6">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-project-vip-plaza.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-project-vip-plaza.png" alt="vip plaza" class="img-responsive mx--auto item__image">
+                                <img src="/layanan/assets/img/img-pwa/img-project-vip-plaza.png" alt="vip plaza" class="img-responsive mx--auto item__image" loading="lazy">
                             </picture>
                         </div>
                         <div class="col-xs-12 col-sm-7 col-md-6">
@@ -337,7 +341,7 @@
                         <div class="col-xs-12 col-sm-5 col-md-6">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-project-klikhoreca.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-project-klikhoreca.png" alt="klikhoreca" class="img-responsive mx--auto item__image">
+                                <img src="/layanan/assets/img/img-pwa/img-project-klikhoreca.png" alt="klikhoreca" class="img-responsive mx--auto item__image" loading="lazy">
                             </picture>
                         </div>
                     </div>
@@ -366,21 +370,21 @@
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-web.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-others-web.png" alt="Webサイト制作" class="img-responsive mb--25px">
+                                <img src="/layanan/assets/img/img-pwa/img-others-web.png" alt="Webサイト制作" class="img-responsive mb--25px" loading="lazy">
                             </picture>
                             <a href="/jp/services/web-dev.php" class="form-control btn btn--yellow">Webサイト制作</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-system.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-others-system.png" alt="Webシステム開発" class="img-responsive mb--25px">
+                                <img src="/layanan/assets/img/img-pwa/img-others-system.png" alt="Webシステム開発" class="img-responsive mb--25px" loading="lazy">
                             </picture>
                             <a href="/jp/services/system-dev.php" class="form-control btn btn--yellow">Webシステム開発</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-mobile.webp" type="image/webp">
-                                <img src="/layanan/assets/img/img-pwa/img-others-mobile.png" alt="モバイルApp開発" class="img-responsive mb--25px">
+                                <img src="/layanan/assets/img/img-pwa/img-others-mobile.png" alt="モバイルApp開発" class="img-responsive mb--25px" loading="lazy">
                             </picture>
                             <a href="/jp/services/mobile-app-dev.php" class="form-control btn btn--yellow">モバイルApp開発</a>
                         </div>
@@ -405,6 +409,7 @@
 
     </div>
 
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php'; ?>
 
     <!-- <script async defer src='https://www.google.com/recaptcha/api.js'></script> -->
@@ -437,7 +442,7 @@
             }
         })
     </script>
-    <script src="/layanan/assets/js/js-pwa-discoverable.js"></script>
+    <script defer src="/layanan/assets/js/js-pwa-discoverable.js"></script>
 
 </body>
 

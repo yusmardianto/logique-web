@@ -306,6 +306,12 @@ strong {
     display: flex;
     align-items: center;
 }
+.webp .dm .dm__banner {
+    background: url('../img/img-digital-marketing/webp/dm-bg.webp') center/cover no-repeat;
+    height: 565px;
+    display: flex;
+    align-items: center;
+}
 
 .dm .dm__banner h1 {
     font-size: 38px;
@@ -368,6 +374,9 @@ strong {
 /* dm trend */
 .dm .dm__trend {    
     background: url('../img/img-digital-marketing/trend-bg.png') center/cover no-repeat;
+}
+.webp .dm .dm__trend {    
+    background: url('../img/img-digital-marketing/webp/trend-bg.webp') center/cover no-repeat;
 }
 
 .dm .dm__trend img {
@@ -533,6 +542,9 @@ strong {
 .dm .dm__material {
     background: url('../img/img-digital-marketing/material-bg.png') center/cover no-repeat;
 }
+.webp .dm .dm__material {
+    background: url('../img/img-digital-marketing/webp/material-bg.webp') center/cover no-repeat;
+}
 
 .dm .dm__material .dm__list-circle {
     margin-bottom: 20px;
@@ -545,6 +557,9 @@ strong {
 /* dm teamwork */
 .dm .dm__teamwork {
     background: url('../img/img-digital-marketing/lgq-teamwork-bg.png') center/cover no-repeat;
+}
+.webp .dm .dm__teamwork {
+    background: url('../img/img-digital-marketing/webp/lgq-teamwork-bg.webp') center/cover no-repeat;
 }
 
 .dm .dm__teamwork img {
