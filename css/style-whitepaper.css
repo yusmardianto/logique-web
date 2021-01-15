@@ -13,6 +13,9 @@
 .fs--28px {
     font-size: 28px !important;
 }
+.fs--18px {
+    font-size: 18px;
+}
 .fs--16px {
     font-size: 16px;
 }
@@ -20,6 +23,9 @@
     font-size: 14px;
 }
 
+.fw--800 {
+    font-weight: 800 !important;
+}
 .fw--600 {
     font-weight: 600 !important;
 }
@@ -155,8 +161,7 @@
 }
 
 .whitepaper .whitepaper__article .article__item .item__btn:hover {
-    background-color: #eee;
-    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.1);
+    background-color: #FFB300;
 }
 
 .whitepaper .whitepaper__article .article__item .item__explain small {
