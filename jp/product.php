@@ -29,7 +29,7 @@
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="../css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -106,7 +106,10 @@
             <section class="bg--black" style="margin-bottom:4%">
                 <div class="container__">
                     <div class="product-slogan">
-                        <img class="product-slogan__img" src="../img/product/product.png" alt="product">
+                        <picture>
+                            <source srcset="../img/product/product.webp">
+                            <img class="product-slogan__img" src="../img/product/product.png" alt="product">
+                        </picture>
                         <p class="product-slogan__text">インドネシアでの課題を解決する人事クラウドツールを提供しています。勤怠＆リモート管理ツール、採用管理ツール、日報管理ツールを提供しています。</p>
                     </div>
                 </div>
@@ -123,28 +126,41 @@
 
                     <div class="product-snap-shot dokodemo-ss">
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.jpg" alt="dokodemo_1">
+                            <picture>
+                                <source srcset="../img/product/dokodemo/dokodemo_1.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.jpg" alt="dokodemo_1">
+                            </picture>
                             <p class="product-snap-shot__text">日次・週次・月次での勤務時間管理が可能 </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.jpg"
-                                alt="dokodemo_2">
+                            <picture>
+                                <source srcset="../img/product/dokodemo/dokodemo_2.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.jpg" alt="dokodemo_2">
+                            </picture>
                             <p class="product-snap-shot__text">10分に1回ランダムにスクリーンキャプチャを取り管理サーバーに送信します</p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.jpg"
-                                alt="dokodemo_3">
+                            <picture>
+                                <source srcset="../img/product/dokodemo/dokodemo_3.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.jpg" alt="dokodemo_3">
+                            </picture>
                             <p class="product-snap-shot__text">タスク別・プロジェクト別の勤務状況を管理可能です</p>
                         </div>
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
+                            <picture>
+                                <source srcset="../img/product/dokodemo/cuti-karyawan.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/cuti-karyawan.jpg" alt="cuti_karyawan">
+                            </picture>
                             <p class="product-snap-shot__text">各ユーザーの出席と休日のリクエストを管理</p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
+                            <picture>
+                                <source srcset="../img/product/dokodemo/employee-gps-tracker.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/employee-gps-tracker.jpg" alt="gps_tracker">
+                            </picture>
                             <p class="product-snap-shot__text">モバイルアプリではGPSで位置情報を取り管理サーバーに送信します</p>
                         </div>
                     </div>
@@ -170,23 +186,35 @@
 
                     <div class="product-snap-shot">
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.jpg" alt="nippo 1">
+                            <picture>
+                                <source srcset="../img/product/nippo/nippo_1.webp">
+                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.jpg" alt="nippo 1">
+                            </picture>
                             <p class="product-snap-shot__text">日報一覧で従業員の作業状況を把握 </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
+                            <picture>
+                                <source srcset="../img/product/nippo/man-hour-analyze.webp">
+                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/man-hour-analyze.jpg" alt="man hour analyze">
+                            </picture>
                             <p class="product-snap-shot__text">プロジェクト別、タスク別に作業状況を分析可能</p>
                         </div>
                     </div>
                     <div class="product-snap-shot">
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.jpg" alt="nippo 3">
+                            <picture>
+                                <source srcset="../img/product/nippo/nippo_3.webp">
+                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.jpg" alt="nippo 3">
+                            </picture>
                             <p class="product-snap-shot__text">自己評価・Supervisorからの評価を管理可能です </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.jpg" alt="nippo 4">
+                            <picture>
+                                <source srcset="../img/product/nippo/nippo_4.webp">
+                                <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.jpg" alt="nippo 4">
+                            </picture>
                             <p class="product-snap-shot__text">日報詳細画面。タスク別の時間入力とコメント、自己評価を入力します </p>
                         </div>
                     </div>
@@ -212,20 +240,26 @@
 
                     <div class="product-snap-shot">
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_1.png"
-                                alt="sugoi saiyo 1">
+                            <picture>
+                                <source srcset="../img/product/sugoi_saiyo/sugoi_saiyo_1.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_1.png" alt="sugoi saiyo 1">
+                            </picture>
                             <p class="product-snap-shot__text">候補者向けにマイページを管理できます </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_2.png"
-                                alt="sugoi saiyo 2">
+                            <picture>
+                                <source srcset="../img/product/sugoi_saiyo/sugoi_saiyo_2.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_2.png" alt="sugoi saiyo 2">
+                            </picture>
                             <p class="product-snap-shot__text">募集職種数に宣言なく、いつでも簡単に編集管理できます </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_3.png"
-                                alt="sugoi saiyo 3">
+                            <picture>
+                                <source srcset="../img/product/sugoi_saiyo/sugoi_saiyo_3.webp">
+                                <img class="product-snap-shot__img--3-col" src="../img/product/sugoi_saiyo/sugoi_saiyo_3.png" alt="sugoi saiyo 3">
+                            </picture>
                             <p class="product-snap-shot__text">レジュメや他のドキュメントをアップロード可能です</p>
                         </div>
                       
