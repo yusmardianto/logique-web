@@ -97,6 +97,9 @@
                             <a href="portfolio.php">
                                 <div class="main-btn --black">See Portfolio</div>
                             </a>
+                            <a href="/project-management.php">
+                                <div class="main-btn --yellow">Our Project Management</div>
+                            </a>
                             <a href="contact.php"
                                 onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">
                                 <div class="main-btn --yellow">Contact Us</div>
@@ -239,7 +242,7 @@
                                             <li>クラウドサーバー運用（AWS / Alibaba Cloud）</li>
                                         </a>
                                         <a href="#otherService_itConsultant">
-                                            <li>ITビジネスコンサルティング</li>
+                                            <li>IT/DXコンサルティング</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -799,14 +802,13 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">ITビジネスコンサルティング</h4>
+                                <h3 class="service-detail__title">IT/DXコンサルティング</h4>
                                     <p>
-                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT”
-                                        領域で様々なコンサルティングやアドバイザリーサービスを行っています。
+                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、DX推進支援、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT” 領域で様々なコンサルティングやアドバイザリーサービスを行っています。
                                     </p>
                                     <br>
                                     <p>
-                                        インターネットを活用した新規事業の立ち上げ支援、ビジネス企画、既存ビジネスをネットの力を使って拡大するための戦略策定など、お客様のアドバイザーとなり一緒にビジネスを作っていきます。
+                                        インターネットを活用した新規事業の立ち上げ支援、既存ビジネスをDXにより強化するための戦略策定など、お客様のアドバイザーとなり一緒にビジネスを作っていきます。
                                     </p>
                             </div>
                         </div>
@@ -976,19 +978,18 @@
 
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>会社ホームページ/コーポレートWEBがまだ無い。</li>
-                                <li>運用会社を変えたい。元の制作開発会社と連絡がとれず更新できない。</li>
-                                <li>いまのウェブはスマホに対応してなくて改良が必要。</li>
-                                <li>アプリを作りたい、PWAを開発できる会社を探している。</li>
-                                <li>インドネシア語、英語、日本語でWEBを作りたい。</li>
-                                <li>社内にIT担当者、WEB担当者がいない。</li>
-                                <li>簡易なシステムが必要。CRM、販売管理システム、会計システムなど。</li>
-                                <li>インターネット、WEBを活用してブランディングしたい、集客したい、競合と差別化したい。</li>
-                                <li>インドネシア語でコンテンツを作る必要があるが翻訳会社に委託するしかないのか？</li>
-                                <li>インドネシア内でサーバーをレンタルしたい。運用保守会社も探している。</li>
+                                <li>社内システムをスクラッチ開発したい</li>
+                                <li>新規事業に必要なシステム、Webなど全て整備したい</li>
+                                <li>既存システムの運用をアウトソースして改善していきたい</li>
+                                <li>既存システムが古くて使いづらい。改修すべきか作り直すべきか分からない。</li>
+                                <li>AndroidアプリをPWAとして作り直したい</li>
+                                <li>オンプレサーバーをクラウドサーバーに移行したい</li>
+                                <li>インドネシア法人にリモートワーク制度を導入したい</li>
+                                <li>社員の勤怠をより可視化したい</li>
+                                <li>従業員（オフィスワーカー）の生産性を向上したい</li>
+                                <li>インドネシア語でSEO対策したい</li>
                                 <li>FacebookやInstagramを活用して集客したい</li>
-                                <li>インターネット広告を出稿したい</li>
-                                <li>いまのWebにセキュリティ脆弱性がないのか診断してもらいたい。</li>
+                                <li>Webサイトやアプリにセキュリティ脆弱性がないか検査したい。</li>                                
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">お問い合わせ</a>
                         </div>

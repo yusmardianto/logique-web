@@ -434,6 +434,7 @@
                                     <img src="/img/portfolio/update/sys-assa.png" alt="">
                                 </div>
                                 <h3>Assa <br>System Development</h3>
+                                <p>フリート管理システム</p>
                             </div>
                             <div class="clearfix visible-sm"></div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
