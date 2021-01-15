@@ -118,7 +118,7 @@
                             <a href="portofolio.php">
                                 <div class="main-btn --black">Lihat Portofolio</div>
                             </a>
-                            <a href="/project-management.php">
+                            <a href="/layanan/project-management.php">
                                 <div class="main-btn --yellow">Manajemen Proyek Kami</div>
                             </a>
                             <a href="hubungi-kami.php"

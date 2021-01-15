@@ -1,5 +1,5 @@
 <?php
-require_once("./form/fgcontactform.php");
+require_once("../form/fgcontactform.php");
 
 $formproc = new FGContactForm();
 
@@ -48,7 +48,7 @@ if(isset($_POST['submitted']))
     <meta property="og:title" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php">
+    <meta property="og:url" content="https://www.logique.co.id/layanan/project-management.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -57,7 +57,7 @@ if(isset($_POST['submitted']))
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-pm.css?v=1.0.3" rel="stylesheet">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php" />
+    <link rel="canonical" href="https://www.logique.co.id/layanan/project-management.php" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
         <!-- Google Tag Manager -->
@@ -79,67 +79,11 @@ if(isset($_POST['submitted']))
     <?php } ?>
 
     <!-- NAVIGATION -->
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar first"></span>
-        <span class="icon-bar second"></span>
-        <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-        <div class="backdrop-test"></div>
-        <div class="logique-nav logique-nav--update">
-            <div class="margin-for-nav">
-                <div class="text-center">
-                    <a href="/index.php">
-                        <div class="img-home"></div>
-                        Beranda
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/logique.php">
-                        <div class="img-about"></div>
-                        Tentang Kami
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/portofolio.php">
-                        <div class="img-portfolio"></div>
-                        Portfolio
-                    </a>
-                </div>
-                <div class="text-center active">
-                    <a href="/layanan.php">
-                        <div class="img-services"></div>
-                        Layanan
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/produk.php">
-                        <div class="img-product"></div>
-                        Produk
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/career/">
-                        <div class="img-career"></div>
-                        Karir
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/hubungi-kami.php">
-                        <div class="img-contact"></div>
-                        Hubungi Kami
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                        <div class="img-blog"></div>
-                        Blog
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- NAVIGATION -->
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+    ?>
 
     <!-- HEADER -->
 
@@ -162,8 +106,12 @@ if(isset($_POST['submitted']))
                                 <div class="col-sm-12">
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/index.php"><span itemprop="name">Beranda</span></a>
+                                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
                                             <meta itemprop="position" content="1" />
+                                        </li>
+                                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                                itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp; Layanan</span></a>
+                                            <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                             <a itemprop="item"><span itemprop="name">Manajemen Proyek</span></a>
@@ -474,7 +422,7 @@ if(isset($_POST['submitted']))
         </div>
     </section>
 
-    <?php include 'footer.php'; ?>
+    <?php include '../footer.php'; ?>
     <script async defer src='https://www.google.com/recaptcha/api.js'></script>
 
 </body>
