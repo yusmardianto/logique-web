@@ -407,7 +407,7 @@ video {
     color: #000;
     margin-bottom: 10px;
     line-height: 38px;
-    text-shadow: 1px 1px 1px #fff;
+    /* text-shadow: 1px 1px 1px #fff; */
 }
 .title-index.--yellow {    
     color: #ffca13;
@@ -479,6 +479,10 @@ video {
 }
 /* btn */
 
+a.form-control.btn {
+    height: auto;
+}
+
 .btn--yellow {
     background-color: #ffca13;
     border: solid 2px #ffca13;
@@ -489,8 +493,8 @@ video {
 }
 
 .btn--yellow:hover {
-    background-color: #fff;
-    color: #000;
+    background-color: #FFB300;
+    border-color: #FFB300;
 }
 
 /* end btn */
