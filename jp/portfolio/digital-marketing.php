@@ -28,9 +28,9 @@
     <link href="/css/style-revamp.css" rel="stylesheet">
     <link href="/css/style-portfolio.css" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -328,65 +328,13 @@
         </div>
 
     </div>   
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
     </script>
     <script>
     $('.same-height').matchHeight();
     $('.col-md-4.col-xs-6').matchHeight();
-
-
-    $('.slider-other-client-container').slick({
-        dots: false,
-        infinite: true,
-        speed: 300,
-
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        responsive: [{
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            }
-        ]
-    });
-    $('.mobile-app-container').slick({
-        dots: true,
-        infinite: false,
-        speed: 300,
-        arrows: false,
-        arrows: false,
-        arrows: false,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        speed: 300,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        slickSetOption: true,
-    });
-    $('#PWA .btn-more-portfolio').on('click', function() {
-        $('.mobile-app-container').resize();
-    });
     </script>
 </body>
 
