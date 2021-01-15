@@ -299,7 +299,7 @@ button:focus {
     font-size: 32px;
 }
 [class*="update-design"].wrapper--update-design-font:not(.--jp),
-[class*="update-design"].wrapper--update-design-font:not(.--jp) * {
+[class*="update-design"].wrapper--update-design-font:not(.--jp) *:not(b) {
     font-weight: 400;
 }
 [class*="update-design"].wrapper--update-design-font .section-title {
@@ -307,11 +307,19 @@ button:focus {
         no-repeat;
     padding-bottom: 25px;
 }
+[class*="update-design"].wrapper--update-design-font .section-title b,
+[class*="update-design"].wrapper--update-design-font .section-title strong,
+[class*="update-design"].wrapper--update-design-font .section-title .title-index--bold {
+    font-size: inherit;
+}
 [class*="update-design"].wrapper--update-design-font .portfolio p,
 [class*="update-design"].wrapper--update-design-font .section-title + p {
     margin-top: 25px;
     margin-bottom: 15px;
     line-height: 34px;
+}
+.title-index--bold {
+    font-weight: 800;
 }
 .container__ {
     padding-top: 2.5em;
