@@ -21,7 +21,6 @@
 
     <link rel="preconnect" href="https://widgetapi.purechat.com">
     <link rel="preconnect" href="https://app.purechat.com">
-    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet"> 
