@@ -56,13 +56,19 @@ if(isset($_POST['submitted']))
      <link rel="canonical" href="https://www.logique.co.id/jp/product/nippo.php"/>
      <title>日報を通じて人事評価＆原価工数管理を行うール | NIPPO | LOGIQUEデジタルインドネシア</title>
 
+     <link rel="preload" href="/fonts/Novecentosanswide-Medium.otf" as="font" crossorigin/>
+
      <link rel="preload" href="/css/sidebar-update.css" as="style"/>
      <link rel="preload" href="/css/style-revamp.css" as="style"/>
-     <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf" as="font" crossorigin/>
-     <!-- <link rel="preconnect" href="https://fonts.gstatic.com"> -->
+     <link rel="preload" href="/css/bootstrap.min.css" as="style">
+     <link rel="preload" href="/css/style.css" as="style">
+     <link rel="preload" href="css/style_nippo.css" as="style">
+
+     <link rel="preconnect" href="https://www.google-analytics.com">
+     <link rel="preconnect" href="https://app.purechatcdn.com">
 
      <link rel="stylesheet" href="/css/bootstrap.min.css">
-     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+     <!-- <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
      <!-- <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;500;800&display=swap" rel="stylesheet"> -->
      <link rel="stylesheet" href="/css/style.css">
      <link rel="stylesheet" href="css/style_nippo.css">
@@ -682,7 +688,6 @@ if(isset($_POST['submitted']))
      <?php $slick_disabled = true; ?>
      <?php include '../footer.php'; ?>
 
-     <script src="/js/bootstrap.min.js"></script>
      <script src='https://www.google.com/recaptcha/api.js'></script>
 
  </body>

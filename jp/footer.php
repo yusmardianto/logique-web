@@ -200,7 +200,7 @@ footer {
 <?php if(!isset($slick_disabled)){ ?>
 <script id="slick-script" src="/js/slick.min.js"></script>
 <?php }?>
-<script src='https://www.google.com/recaptcha/api.js'></script>
+<script defer src='https://www.google.com/recaptcha/api.js'></script>
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 $('.map-container')

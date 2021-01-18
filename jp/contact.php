@@ -54,8 +54,6 @@ if(isset($_POST['submitted']))
     <link rel="canonical" href="https://www.logique.co.id/jp/contact.php"/>
     <title>インドネシアのWeb制作・ITコンサルティング会社LOGIQUEデジタルINDONESIA</title>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
-
     <link rel="preload" href="/fonts/Novecentosanswide-Medium.otf" as="font" crossorigin/>
     <link rel="preload" href="/fonts/glyphicons-halflings-regular.woff" as="font" crossorigin>
     <link rel="preload" href="/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3" as="font" crossorigin>
