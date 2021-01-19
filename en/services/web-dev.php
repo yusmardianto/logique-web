@@ -43,7 +43,7 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
+        content="Logique is a professional web development company in Jakarta - Indonesia. Our professional web developers & designers aim to assist you in your web development goals.">
     <meta name="keywords"
         content="web developer jakarta, web development service, web developer company">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
@@ -53,7 +53,7 @@ if(isset($_POST['submitted']))
     <meta property="og:site_name" content="Logique">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="Logique is a professional web developer company in Indonesia, providing clients with great website development services.">
+        content="Logique is a professional web development company in Jakarta - Indonesia. Our professional web developers & designers aim to assist you in your web development goals.">
 
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/services/web-dev.php" />  
@@ -66,16 +66,7 @@ if(isset($_POST['submitted']))
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <!-- <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
-    <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
-
-	</script>
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-105878648-1', 'auto');ga('send', 'pageview'); </script>
 </head>
 
 <body>
