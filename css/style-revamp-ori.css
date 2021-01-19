@@ -611,6 +611,7 @@
 
 b {
   font-weight: 700 !important;
+  font-size: inherit;
 }
 
 @media (max-width: 991.98px) {

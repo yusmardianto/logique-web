@@ -43,6 +43,7 @@ a:hover * {
 [class*="update-design"].wrapper--update-design-font strong,
 .logo-font {
     font-family: "Novocento Sans Wide Medium" !important;
+    font-size: inherit;
 }
 span {
     margin: 0;

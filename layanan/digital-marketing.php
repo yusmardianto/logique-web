@@ -131,7 +131,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
-                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/"><span
                                         itemprop="name">Home</span></a>
                                 <meta itemprop="position" content="1" />
                             </li>
@@ -157,29 +157,29 @@
                         <p>Dengan beragam objektif seperti,</p>
                         <div class="row text-left list__wrapper">
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-awareness.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-awareness.svg" alt="" loading="lazy">
                                 <p>Brand Awareness</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-sales.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-sales.svg" alt="" loading="lazy">
                                 <p>Sales</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-brand.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-brand.svg" alt="" loading="lazy">
                                 <p>Brand Consideration</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-purchase.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-purchase.svg" alt="" loading="lazy">
                                 <p>Purchase</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-engagement.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-engagement.svg" alt="" loading="lazy">
                                 <p>Brand Engagement</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-leads.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-leads.svg" alt="" loading="lazy">
                                 <p>Leads, & etc.</p>
                             </div>
                         </div>
@@ -195,7 +195,7 @@
                 <p>Trend pemasaran telah berubah sangat drastic, Digital Marketing menjadi standar penting untuk kegiatan usaha hampir di setiap jenis industry.</p>
                 <picture>
                     <source srcset="assets/img/img-digital-marketing/webp/trend-image.webp" type="image/webp"> 
-                    <img loading="lazy" alt="Marketing Trend" src="assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                    <img loading="lazy" alt="Marketing Trend" src="assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive" loading="lazy">
                 </picture> 
                 <p>Dengan memanfaatkan pengalaman kami selama bertahun-tahun yang sukses dalam pengembangan banyak bisnis dalam maupun luar negeri, dan didukung dengan team professional yang memiliki kemampuan teknis dalam pengembangan system web yang mutakhir dan team kreatif dengan skill desain dan penulisan konten, Kami percaya, kami mampu memberikan kesuksesan yang nyata untuk bisnis Anda.</p>
             </div>
@@ -207,25 +207,25 @@
                 <div class="row get__list">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="" loading="lazy">
                             <p>Meningkatkan <br> kesadaran merk</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="" loading="lazy">
                             <p>Meningkatkan Angka <br> Penjualan / Transaksi</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="" loading="lazy">
                             <p>Meningkatkan database <br> pengguna / pelanggan</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="" loading="lazy">
                             <p>Meningkatkan interaksi <br> pengguna </p>
                         </div>
                     </div>
@@ -277,25 +277,25 @@
                         <div class="row dm__list-circle">
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Pemograman</p>
                             </div>
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Desain</p>
                             </div>
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Penulisan</p>
                             </div>
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Digital Ads</p>
                             </div>
@@ -312,7 +312,7 @@
                 <div class="row dm__list-circle dm__list-circle--white">
                     <div class="col-md-offset-4 col-md-4">
                         <div class="list-circle__img">
-                            <img src="assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
+                            <img src="assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -329,19 +329,19 @@
                         <div class="row dm__list-circle">
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Long-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Medium-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Short-term <br>Plan</p>
                             </div>                            
@@ -358,7 +358,7 @@
                     
                     <picture>
                     <source srcset="assets/img/img-digital-marketing/webp/lgq-teamwork.webp" type="image/webp"> 
-                    <img loading="lazy" alt="Logique Team Work" src="assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive">
+                    <img loading="lazy" alt="Logique Team Work" src="assets/img/img-digital-marketing/lgq-teamwork.png" alt="" class="img-responsive" loading="lazy">
                 </picture> 
                 </a>
             </div>
