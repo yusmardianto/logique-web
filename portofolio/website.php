@@ -6,20 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+        content="Portofolio pembuatan & mengembangan website profesional BtoB (B2B) maupun BtoC (B2C) untuk perusahaan bidang E-Commerce, Otomotif, Asuransi, dll | LOGIQUE">
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE">
+    <meta property="og:title" content="Portofolio Jasa Pembuatan Website BtoB, E-Commerce, Otomotif, dll.">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+        content="Portofolio pembuatan & mengembangan website profesional BtoB (B2B) maupun BtoC (B2C) untuk perusahaan bidang E-Commerce, Otomotif, Asuransi, dll | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/website.php">
-    <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>    
+    <title>Portofolio Jasa Pembuatan Website BtoB, E-Commerce, Otomotif, dll.</title>    
     
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
@@ -136,7 +136,7 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>Website Creation Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil pengembangan Website kami.</p>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> berhasil membuat dan mengembangkan banyak website profesional BtoB (B2B) dan BtoC (B2C) untuk berbagai industri seperti E-Commerce, Otomotif, Asuransi, dan lainnya. Berikut beberapa portofolio kami dalam proses pembuatan dan pengembangan website, sebagai referensi bagi Anda yang ingin mengembangkan website serupa.</p>
                             <picture>
                                 <source srcset="/img/portfolio/bg-portfolio-detail-website.webp" type="image/webp">
                                 <img src="/img/portfolio/bg-portfolio-detail-website.png" alt="" class="img-responsive visible-md visible-lg">
