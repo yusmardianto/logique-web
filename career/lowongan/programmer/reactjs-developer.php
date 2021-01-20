@@ -203,7 +203,7 @@
                           <li>Data Structure Libraries seperti Imutable.JS</li>
                       </ul>
                   </li>
-                  <li>Familiar dengan Isomorphic React</li>
+                  <li>Familiar dengan JAMstack</li>
                   <li>Berpengalaman membuat custom tema Wordpress</li>
                   <li>Memahami penggunaan plugin Wordpress</li>
                 </ul>
