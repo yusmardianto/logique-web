@@ -1,4 +1,4 @@
-﻿ <!DOCTYPE html>
+﻿<!DOCTYPE html>
  <html lang="id">
 
  <head>
@@ -96,7 +96,7 @@
 		}
 	?>
  
-     <div class="wrapper wrapper--update-design wrapper--update-design-font">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
          <!-- NAVIGATION -->
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
@@ -111,50 +111,47 @@
             $jp_link = '/jp/services/system-dev.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
-     </div>
-     <header class="content-wrapper__ header"> 
-         <div class="container__" style="position:relative">
-             <div class="row">
-                 <div class="col-md-offset-1 col-md-10 text-center bg-header-txt text-center">
-                     <h1 class="m-new">
-                         Jasa Pengembangan Sistem Berbasis Web <br>Profesional
+    </div>
+    <header class="content-wrapper__ header"> 
+        <div class="container__" style="position:relative">
+            <div class="row">
+                <div class="col-md-offset-1 col-md-10 text-center bg-header-txt text-center">
+                    <h1 class="m-new">
+                        Jasa Pengembangan Sistem Berbasis Web <br>Profesional
 
-                     </h1>
-                     <h3 class="  m-new">  
-                        <span class="logofont">LOGIQUE</span> adalah partner yang tepat untuk Anda, yang menyediakan jasa pembuatan aplikasi berbasis web dan manajemen proyek terbaik dengan kualitas dan keamanan yang berstandar internasional. Kami dapat membantu Anda mengembangkan sistem berbasis web berkualitas dengan harga yang kompetitif.
-                        <p>
-Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga! </p>
-
-                     </h3>
-                     <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
-                 </div>
-             </div>
-         </div>
-     </header>
-     <div class="breadcrumb-container">
-            <div class="container__">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <ol class="breadcrumb breadcrumb--update-design" itemscope
-                            itemtype="http://schema.org/BreadcrumbList">
-                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                    href="/index.php"><span itemprop="name">Beranda</span></a>
-                                <meta itemprop="position" content="1" />
-                            </li>
-                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                    href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
-                                <meta itemprop="position" content="2" />
-                            </li>
-                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                    itemprop="item"><span itemprop="name">&nbsp;Web System</span></a>
-                                <meta itemprop="position" content="3" />
-                            </li>
-                        </ol>
-                    </div>
+                    </h1>
+                    <h3 class="  m-new">  
+                    <span class="logofont">LOGIQUE</span> adalah partner yang tepat untuk Anda, yang menyediakan jasa pembuatan aplikasi berbasis web dan manajemen proyek terbaik dengan kualitas dan keamanan yang berstandar internasional. Kami dapat membantu Anda mengembangkan sistem berbasis web berkualitas dengan harga yang kompetitif.
+                    <p>Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekarang juga! </p>
+                    </h3>
+                    <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
                 </div>
             </div>
         </div>
-     
+    </header>
+    <div class="breadcrumb-container">
+        <div class="container__">
+            <div class="row">
+                <div class="col-sm-12">
+                    <ol class="breadcrumb breadcrumb--update-design" itemscope
+                        itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                href="/index.php"><span itemprop="name">Beranda</span></a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                itemprop="item"><span itemprop="name">&nbsp;Web System</span></a>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div>
     <section class="content-section first-part">
         <div class="container__">
             <div class="section-desc">
@@ -1137,7 +1134,7 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             </div>
                         </div>
                         <p>
-                            Selain mahir dalam pengembangan web menggunakan PHP dan JavaScript, <br><span class="logofont">LOGIQUE</span> juga sangat baik dalam pengembangan PWA menggunakan framework JavaScript seperti 
+                            Selain mahir dalam pengembangan web menggunakan PHP dan JavaScript, <br><span class="logofont"><b>LOGIQUE</b></span> juga sangat baik dalam pengembangan PWA menggunakan framework JavaScript seperti 
                         </p>
                         <ul class="jsframework framework-list">
                             <li>
@@ -1165,13 +1162,123 @@ Konsultasikan kebutuhan Anda dengan <span class="logofont">LOGIQUE</span> sekara
                             </li>
                         </ul>
                         <p>
-                            <span class="logofont">LOGIQUE</span> juga memiliki kemampuan untuk membangun sistem berskala besar <br>dengan menggabungkan Node.js dan Express.js.
+                            <span class="logofont">LOGIQUE</span> juga memiliki kemampuan untuk membangun sistem berskala besar <br>dengan menggabungkan <b>Node.js</b> dan <b>Express.js</b>.
                         </p>
+
+                        <!-- New Section -->
+                        <p class="class-jamstack-1">LOGIQUE juga dapat mengembangkan web menggunakan arsitektur <b>JAMstack</b></p>
+                        <section class="class-jamstack-3">
+                            <div class="row">
+                                <div class="col-md-offset-2 col-md-2 col-sm-4 text-center">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/Jamstackicon.webp" type="image/webp">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/Jamstackicon.png">
+                                    </picture>
+                                </div>
+                                <div class="col-md-7  col-sm-8 text-left">
+                                    yang merupakan arsitektur pengembangan web modern sehingga membuat web menjadi lebih cepat, lebih aman, dan lebih mudah dikembangkan oleh para web developer.
+                                </div>
+                            </div>
+                        </section>
+                        <p class="class-jamstack-2">
+                            Kelebihan JAMstack 
+                        </p>
+                        <section class="class-jamstack-4">
+                            <div class="row">
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/stopwatch.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/stopwatch.png">
+                                    </picture>
+                                    <p>Performa Lebih Cepat</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/dollars-money.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/dollars-money.png">
+                                    </picture>
+                                    <p>Lebih Murah</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/folder.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/folder.png">
+                                    </picture>
+                                    <p>Lebih Aman</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/idea.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/idea.png">
+                                    </picture>
+                                    <p>Skalabilitas</p>
+                                </div>
+                            </div>
+                        </section>
+                        <p class="class-teknologi">
+                            Teknologi JAMstack
+                        </p>
+                        <div class="sec-content-part success-service class-jamstack-5">
+                            <div class="page-content">
+                                <div class="success-service-list">
+                                    <div class="row rowflex col10">
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>Static Site Generator</h3>
+                                                    <p>Gatsby.js</p>
+                                                    <p>Next.js</p>
+                                                    <p>Hugo</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1 center">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>Headless CMS</h3>
+                                                    <p>Ghost</p>
+                                                    <p>Strapi</p>
+                                                    <p>Netlify cms</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>Hosting</h3>
+                                                    <p>Netlify</p>
+                                                    <p>Vercel</p>
+                                                    <p>AWS Amplify</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- New Section -->
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <section class="content-section sixth-part class-jamstack-6">
+        <div class="sec-content-part contact-banner">
+            <div class="page-content">
+                <ul>
+                    <li class="text-left">Hubungi kami sekarang untuk <br>pengembangan sistem berbasis web yang optimal!<li>
+                    <li>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <div>  
         <div class="content-wrapper__">
             <?php include './assets/components/dm-links.php' ?>
             <?php include './assets/components/other-services.php' ?>
