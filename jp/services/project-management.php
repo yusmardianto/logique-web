@@ -108,11 +108,11 @@ if(isset($_POST['submitted']))
                                 <div class="col-sm-12">
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/en/"><span itemprop="name">ホーム</span></a>
+                                            <a itemprop="item" href="/jp/"><span itemprop="name">ホーム</span></a>
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                                itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp; サービス</span></a>
+                                                itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp; サービス</span></a>
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
