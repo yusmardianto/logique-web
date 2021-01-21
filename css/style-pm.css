@@ -326,6 +326,9 @@ input.form-control.h--50px {
 .consultant-lead-wrapper img{
   max-height: 750px;
 }
+.--jp .consultant-lead-wrapper img {
+  max-height: 600px;
+}
 /* end expert team */
 
 /* ceremonies */
