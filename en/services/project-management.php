@@ -1,5 +1,5 @@
 <?php
-require_once("../form/fgcontactform.php");
+require_once("../../form/fgcontactform.php");
 
 $formproc = new FGContactForm();
 
@@ -36,28 +36,28 @@ if(isset($_POST['submitted']))
 ?>
 
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="">
+    <meta name="description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Manajemen Proyek | LOGIQUE">
+    <meta property="og:title" content="Project Management | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/project-management.php">
+    <meta property="og:url" content="https://www.logique.co.id/en/services/project-management.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="">
+    <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Manajemen Proyek | LOGIQUE</title>
+    <title>Project Management | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-pm.css?v=1.0.4" rel="stylesheet">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/project-management.php" />
+    <link rel="canonical" href="https://www.logique.co.id/en/services/project-management.php" />
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
         <!-- Google Tag Manager -->
@@ -88,9 +88,9 @@ if(isset($_POST['submitted']))
     <!-- HEADER -->
 
     <?php 
-      $lang = 'id';
-      $en_link = '/en/services/project-management.php';
-      $id_link = '#';
+      $lang = 'en';
+      $en_link = '#';
+      $id_link = '/layanan/project-management.php';
       $jp_link = '/jp/services/project-management.php';
       include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
     ?>
@@ -106,15 +106,15 @@ if(isset($_POST['submitted']))
                                 <div class="col-sm-12">
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                                            <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                                itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp; Layanan</span></a>
+                                                itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp; Services</span></a>
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item"><span itemprop="name">Manajemen Proyek</span></a>
+                                            <a itemprop="item"><span itemprop="name">Project Management</span></a>
                                             <meta itemprop="position" content="3" />
                                         </li>
                                     </ol>
@@ -127,9 +127,9 @@ if(isset($_POST['submitted']))
                     <div class="row">
                         <div class="col-md-12 header__title">
                             <h1>
-                              <span class="fs--26px fw--800">Sukses dengan</span>
+                              <span class="fs--26px fw--800">Success through </span>
                               <br>
-                              <span class="fs--28px fw--800">PROJECT MANAGEMENT PROFESSIONAL</span>
+                              <span class="fs--28px fw--800">PROFESSIONAL PROJECT MANAGEMENT</span>
                             </h1>
                         </div>
                     </div>
@@ -143,9 +143,9 @@ if(isset($_POST['submitted']))
           <div class="container__">
             <div class="row">
               <div class="col-md-12">
-                <p>Terdapat faktor-faktor penting yang perlu diperhatikan oleh <em>stakeholder</em> / pemangku kepentingan untuk memastikan sebuah proyek dapat selesai dengan baik dan mampu memberikan hasil sesuai dengan tujuan proyek dari sisi bisnis, yaitu lingkup pekerjaan yang diimplementasikan, waktu target yang ditentukan serta budget yang telah diatur diawal proyek. Tiga hal ini sudah sering disebutkan sebagai triple constraint dan menjadi salah satu parameter ukuran keberhasilan sebuah proyek. Triple constraint saat ini sudah menjadi bagian yang diukur dan di manage dalam sebuah Manajemen Proyek. Sehingga pentingnya sebuah managemen proyek yang baik untuk  menghasilkan akhir sebuah proyek menjadi jauh lebih baik.</p>
-                <p>Dengan pentingnya sebuah managemen proyek dalam menentukan hasil akhir sebuah proyek, maka diperlukan standarisasi dari semua aspek yang bisa terjadi dalam proyek untuk mengecilkan risiko proyek itu gagal. Saat ini ada banyak sekali organisasi maupun institusi secara global maupun lokal yang melakukan research maupun diskusi untuk membuat standarisasi yang comprehensif untuk dapat dijadikan pondasi untuk berbagai project dalam berbagai industri. Dari standarisasi yang baik itu di implementasikan di dalam proyek, diharapkan dapat menambah kepercayaan sebuah proyek itu berhasil</p>
-                <p>Salah satu organisasi dalam proyek management yang saat ini menjadi organisasi terbesar secara global adalah PMI (Project Management Institute) yang bermarkas di Pennsylvania, U.S. dan sudah 51 tahun berdiri sejak 1969. PMI sendiri terkenal dengan PMBOK (Project Management Book of Knowledge) dimana menjadi Kitab Suci para Project manager di seluruh dunia. PMI sendiri menyediakan sertifikasi PMP bagi yang telah lulus dari Ujian pemahaman dari PMBOK tersebut. Saat ini PMP holder sudah lebih dari 1 juta orang di seluruh dunia. Di Indonesia saat ini pemilik aktif sertifikasi PMP dibandingkan posisi project lead sangat sedikit, saat ini hanya ~1000 orang pemegang PMP dibanding dengan negara tetangga seperti Singapura dan Malaysia yang sudah ~1500. Kebutuhan Indonesia untuk Project Manager dengan sertifikasi PMP masih sangat dibutuhkan.</p>   
+                <p>To ensure the success of a project in its ability to yield results in accordance with its business objectives, some important factors need to be considered, such as the implemented work scope, the targeted timeframe and the set budget during the beginning of the project. These three factors have often been mentioned as among the main parameters used for measuring the success of a project. Indeed, these “triple constraints” have now become part of what is commonly measured in Project Management, so much so that the goal of efficient project management is so that the project yields much better results.</p>
+                <p>The significance of efficient project management is its ability to determine the final outcome of a project; as such, it is necessary to standardize all aspects and possibilities that can occur within the target project so as to minimize the risk of failure. Currently, there are many organizations operating on both global and local levels that are coordinating with each other and conducting research so as to create a comprehensive standard model that can be used as a foundation for future projects throughout all industries. </p>
+                <p>One such organization deeply involved in project management which is currently the largest organization globally in this respect is PMI (the Project Management Institute), which is headquartered in Pennsylvania, U.S.A. and has been established within the industry for 51 years since 1969. PMI itself is also commonly known for the release of the PMBOK (Project Management Body of Knowledge), a set guideline compilation book acting as somewhat of a bible to project managers around the world. PMI itself provides PMP certifications for those who have passed the comprehension examination from the PMBOK. Currently, more than 1 million people worldwide are PMP holders. In Indonesia, there are currently very few active PMP certification holders compared to project lead positions, specifically only ~ 1000 PMP holders compared to neighboring countries such as Singapore and Malaysia, which have ~ 1500. Indeed, Project Managers with proper PMP certifications are a resource still very much in demand within Indonesia.</p>
               </div>
             </div>
           </div>
@@ -165,13 +165,13 @@ if(isset($_POST['submitted']))
                       <img src="/img/pm/icon-pm-contact.png" class="pr--10px" alt="contact">
                     </picture>
                     <div class="banner-contact-text">
-                      <p class="mb--0px">Kami siap membantu Anda untuk mengelola</p>
-                      <p class="mb--0px fw--800">PROJECT SECARA PROFESIONAL</p>
+                      <p class="mb--0px">We are ready to help you to manage</p>
+                      <p class="mb--0px fw--800">PROJECT PROFESSIONALLY</p>
                     </div>
                   </div>
                   <div class="col-xs-offset-3 col-xs-6 col-md-offset-0 col-md-3 d-flex align-items-center">
-                        <a href="/hubungi-kami.php" class="form-control btn btn--yellow">
-                          KONTAK KAMI
+                        <a href="/en/contact.php" class="form-control btn btn--yellow">
+                          CONTACT US
                         </a>
                   </div>
                 </div>
@@ -188,13 +188,13 @@ if(isset($_POST['submitted']))
                 <div class="row row--flex expert-team-wrapper">
                     <div class="col-xs-12 col-md-7 col-lg-8">
                         <div class="expert-team-box">
-                            <h3 class="mb--25px main-title main-title--white main-title--with-square-point">Tim Ahli Kami</h3>
+                            <h3 class="mb--25px main-title main-title--white main-title--with-square-point">Our Expert Team</h3>
                             <h5 class="main-subtitle">Profile</h5>
-                            <p>Kami memiliki beberapa manajer proyek yang tersertifikasi PMP, salah satunya Meiriando Teja yang berposisi sebagai Consultant Lead. Memiliki pengalaman terjun didalam dunia IT selama lebih dari 10 tahun di berbagai industri seperti Banking, Transportation, Telco dan memiliki pengalaman mengimplementasi product ERP, CRM, HCM hingga mobile dan web application. Saat ini memiliki sertifikasi Project Management  yang diakui secara global yaitu PMP, memperkuat pondasi dalam memanage proyek yang dijalankan.</p>
+                            <p>We have several project managers who are PMP certified. One of them is Mr. Meiriando Teja, who is the current consultant lead. Having experience within IT for more than 10 years in various industries such as banking, transportation, telco, Mr. Teja is well versed in the implementation of ERP products, CRM, HCM as well as mobile and web applications. Currently, he possesses a global Project Management certification, namely PMP, which provides a solid foundation in his ability to manage projects.</p>
 
                             <p class="expert-team-second-paragraph">
                             <img src="/img/pm/quote-yellow.png" class="img-expert-team-quote" width="50" height="50" alt="quote">
-                            Didalam mengimplementasikan manajemen proyek yang ideal di <span class="logo-font">LOGIQUE</span>, ada beberapa hal yg perlu di perhatikan, diantaranya terdapat 2 hal yang menjadi prioritas. Yang pertama adalah transparansi, transaparansi berbicara mengenai proses kerja diantara stakeholder dalam proyek. Transparansi didalam proyek terhadap semua stakeholder diperlukan untuk memberikan awareness mengenai status proyek dan mampu meningkatkan ownership setiap stakeholder atas keberhasilan proyek. Transparansi juga meningkatkan kepercayaan satu sama lain dalam bekerja. Yang kedua adalah komitmen. Komitmen setiap stakeholder terhadap perannya di dalam proyek akan menghindari blocker atau obstacle dari kepada stakeholder lainnya sehingga mempermulus proses proyek dari Hulu hingga hilir.
+                            Regarding the ideal implementation of successful project management within <span class="logo-font">LOGIQUE</span>, there are several factors that need to be considered, including 2 central priorities. The first is transparency, in regards to the work process and the stakeholders involved in any given project. The maximum level of transparency within a project should be presented to all stakeholders involved, as this is a requirement that provides awareness as to the status of the project, increasing the ownership of each stakeholder. Transparency also improves the level of mutual trust within the project. The second central priority is commitment. The commitment of each stakeholder to their given role within the project will help to curtail any obstacles from other stakeholders, thus smoothing the process from upstream to downstream.
                             </p>
                         </div>
                     </div>
@@ -212,7 +212,7 @@ if(isset($_POST['submitted']))
         <div class="content-wrapper__">
             <div class="container__">
                 <h3 class="main-title main-title--with-square-point mb--30px mt--40px">
-                    Manajemen Proyek di <span class="logo-font fs--24px">LOGIQUE</span>
+                Project Management at <span class="logo-font fs--24px">LOGIQUE</span>
                 </h3>
                 <div class="row">
                     <div class="col-md-5">
@@ -222,8 +222,8 @@ if(isset($_POST['submitted']))
                         </picture>
                     </div>
                     <div class="col-md-7">
-                        <p class="mb--20px">Tidak seperti perusahaan konvensional pada umumnya dimana menggunakan metodology Waterfall dimana semua lingkup pekerjaan akan di kunci sebelum implementasi,kami mengimplementasikan metode Agile – Scrum didalam setiap proyek kami. Dimana metode Agile - Scrum ini dapat membantu mengcover kebutuhan bisnis yang cepat berubah untuk menanggapi kebutuhan pasar yang juga cepat tanpa harus memberikan konsekuensi besar di dalam project yang telah berjalan.</p>
-                        <p>Secara umum metode scrum akan membagi fase pengembangan ke dalam beberapa Sprint yang dimana setiap sprint terdiri dari 5 ceremonies yaitu Backlog Grooming, Sprint Planning, Daily Scrum, Sprint Review dan Sprint Retrospective. Setiap ceremonies ini merupakan proses pekerjaan yang saling terkait untuk memastikan setiap sprint akan bisa memberikan delivery yang sesuai ekspektasi.</p>
+                        <p class="mb--20px">Unlike conventional companies which generally utilize the Waterfall methodology, in which the comprehensive scope of work is locked before implementation, we utilize the Agile - Scrum method. The Agile - Scrum method can help cover the rapidly changing business needs so as to respond to any rapidly changing market needs, without incurring major consequences throughout the ongoing project.</p>
+                        <p>In general, the scrum method divides the development phase into several so called “Sprints”, where each sprint consists of 5 ceremonies, namely Backlog Grooming, Sprint Planning, Daily Scrum, Sprint Review and Sprint Retrospective. Each of these ceremonies are comprised of interrelated work processes so as to ensure that each sprint will be able to meet expectations.</p>
                     </div>
                 </div>
             </div>
@@ -242,8 +242,8 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                     <div class="col-md-9">
-                        <p>1. Backlog Grooming</p>
-                        <p>Backlog Grooming merupakan proses mem-breakdown story yang ada di backlog untuk lebih detail dan lebih jelas sehingga mempermudah pekerjaan di dalam sprint. Dari setiap story yang telah di breakdown ini juga akan di berikan estimasi dari setiap developer kami effort pengerjaannya. Dari total estimasi tersebut akan didapatkan total waktu yang dibutuhkan untuk pengerjaan setiap featurenya.</p>
+                        <p>1. Backlog Grooming / Backlog Refinement</p>
+                        <p>Backlog Grooming is the process of breaking down the “stories” within the backlog so as to reveal more detail and clarity to make the work within the sprint easier. From each story that has been broken down, an estimation will also be given in regards to the work efforts of each of our developers involved. From the total estimate, the total time required to work on each feature will be thereby be obtained.</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -257,7 +257,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-9">
                         <p>2. Sprint planning</p>
-                        <p>Sprint Planning merupakan proses perencanaan untuk menyiapkan story-story mana saja yang akan di kerjakan dalam sprint di depan. Berdasarkan story-story dari hasil Backlog grooming tersebut dimana dibagi dengan velocity dari setiap developer, maka bisa didapat jumlah story yang bisa dikerjakan dalam setiap sprint tersebut. Setiap scrum team akan berkomitmen untuk menyelesaikan pekerjaan yang disepakati saat sprint planning tersebut.</p>
+                        <p>Sprint Planning is a process that prepares which stories are to be worked on during the next sprint. Based on the stories garnered from the Backlog grooming results, divided by the velocity of each developer, one can receive an accurate estimation of stories that can be focused on within the upcoming sprints. Each scrum team will be committed to completing the work agreed upon during the sprint planning phase.</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -271,11 +271,11 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-9">
                         <p>3. Daily Scrum</p>
-                        <p>Daily scrum merupakan event harian yang dilakukan oleh Tim dan scrum master untuk update pekerjaan dari Tim masing-masing. Untuk menjaga ke efektifan dalam proses daily scrum, event ini di timeboxing dalam 15 - 30 menit tergantung dengan kebutuhan di dalam tim sendiri. Setiap member yang ikut dalam daily scrum akan memiliki giliran untuk menjelaskan 3 hal utama dalam daily scrum seperti berikut : </p>
+                        <p>The daily scrum is a daily event conducted by the team and the scrum master so as to update the work routines of their respective teams. To maintain a level of effectiveness within the daily scrum process, this event is time boxed in accordance to a 15-30 minutes range depending on the needs of the team itself. Each member who participates in the daily scrum will have a turn to explain 3 main things within the daily scrum in regards to the following:</p>
                         <div class="ceremonies-box-wrapper">
-                            <span class="ceremonies-box">Pekerjaan yang dilakukan kemarin.</span>
-                            <span class="ceremonies-box">Pekerjaan yang akan dilakukan hari ini.</span>
-                            <span class="ceremonies-box">Blocker atau hambatan yang mempengaruhi pekerjaan Tim hari itu.</span>
+                            <span class="ceremonies-box">The work that was done yesterday</span>
+                            <span class="ceremonies-box">The work to be done today</span>
+                            <span class="ceremonies-box">Any obstacles affecting the team's work on any given day</span>
                         </div>
                     </div>
                 </div>
@@ -290,7 +290,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-9">
                         <p>4. Sprint Review</p>
-                        <p>Sprint review merupakan event yang dilakukan di akhir dari sprint untuk mereview kembali semua delivery yang telah dikerjakan didepan Product owner maupun project sponsor. Setiap feedback sprint review ini akan filter kembali untuk dapat menjadi improvement di sprint selanjutnya atau akan di hold.</p>
+                        <p>The Sprint review phase is held at the end of a sprint so as to review all the deliveries that have been conducted in front of the Product owner and project sponsors. Each sprint review will filter back feedback to be implemented as practical improvements during the next sprint. </p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -304,13 +304,13 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-9">
                         <p>5. Sprint Retrospective</p>
-                        <p>Sprint retrospective merupakan event yg dilakukan di akhir sprint untuk me review kembali proses selama 1 sprint dan memutuskan action item yg akan dilakukan di sprint depan untuk proses sprint yang lebih baik. Sprint retrospective sendiri akan mendiskusikan 3 hal yaitu: </p>
+                        <p>The sprint retrospective is an event that is held during the end of a sprint so as to review the process for 1 sprint and to decide on the necessary “action items” to be taken during the next sprint so as to make for a better sprint process. The Sprint Retrospective itself will discuss 3 things, namely:</p>
                         <div class="ceremonies-box-wrapper">
-                            <span class="ceremonies-box">Apa yang kurang berjalan baik selama sprint.</span>
-                            <span class="ceremonies-box">Apa yang sudah berjalan baik selama sprint.</span>
-                            <span class="ceremonies-box">Apa yang masih membingungkan didalam sprint.</span>
+                          <span class="ceremonies-box">What didn't go well during the sprint</span>
+                          <span class="ceremonies-box">What went well during the sprint</span>
+                          <span class="ceremonies-box">What's still unclear in regards to the sprint</span>
                         </div>
-                        <p>Dari 3 hal diskusi tersebut akan di lanjutkan action item yang perlu dilakukan di sprint depan mengcover 3 hal tersebut.</p>
+                        <p>Out of these 3 things, the discussion will continue in regards to the action items that need to be conducted during the next sprint. </p>
                     </div>
                 </div>
             </div>
@@ -319,7 +319,7 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <p class="mb--20px">Didalam implementasi metodi Agile - Scrum ini, kami juga menerapkan  implementasi standar dari PMP / PMI untuk meningkatkan fundamental dan landasan didalam setiap proses Agile - Scrum seperti contoh berikut: </p>
+                <p class="mb--20px">Through implementing the Agile - Scrum method, we also apply the standard implementation used in the PMP / PMI so as to improve the fundamentals of each Agile - Scrum process, such as in regards to the following examples:</p>
                 <div class="row mb--40px">
                     <div class="col-md-5">
                         <picture>
@@ -329,7 +329,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-7">
                         <p><strong>EVM (Earned Value Management)</strong></p>
-                        <p>Earned value management merupakan salah satu project management tools Dimana mengintegrasikan timeline, budget dan perfomance menjadi satu presentasi graphic yang sama. Dengan graphic yang di bentuk dari data yang ada, diharapkan PM  mampu memprediksikan kejadian didepan sehingga PM dapat mengambil keputusan lebih awal untuk membuat project kembali Berjalan sesuai tracknya. EVM ini kita lakukan setiap minggu di dalam weekly report yang kita gunakan untuk dapat melihat kondisi proyek secara transparan.</p>
+                        <p>Earned value management is a project management tool which integrates timeline, budget and performance into the same graphic presentation. Using a graphic that takes into account a comprehensive range of existing data, it is hoped that Project Managers will be able to predict future events so that they can make quick and effective decisions earlier on so as to make the project run according to its established timeframe. EVM is conducted every week in the weekly report which we use to be able to transparently view the conditions of a project. </p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -341,7 +341,7 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-7">
                         <p><strong>Risk Management</strong></p>
-                        <p>Dengan analisa yang komprehensif juga dari EVM kami dapat membuat risk register dan mengumpulkan semua risiko yang muncul dalam proyek untuk cepat merespon untuk meminimalisir impact risiko-risiko yang ada di proyek. </p>
+                        <p>Through a comprehensive analysis gained from the EVM process, we can create a risk register and collect data of all possible risks that could potentially arise within a given project, so as to quickly respond in order to minimize the impact of such risks.</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -353,11 +353,11 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-7">
                         <p><strong>WBS (Work Breakdown Structure)</strong></p>
-                        <p>Pendetailan ruang lingkup kami tuangkan kedalam WBS untuk dapat menjadikan panduan guideline deliver scope didalam project. Dan WBS ini akan di share ke client untuk dapat me-align pengetahuan dari semua stake holder terhadap spesifikasi produk yang diharapkan. Kami juga mengembangkan setiap WBS ini menjadi tempat pencatatan progress dari team untuk dapat melihat persentasi pertumbuhan progress project per minggu nya.</p>
+                        <p>We put details of the scope into the WBS so as to define the delivery scope guidelines of the project. This WBS will be shared with the client in order to align the knowledge held by all stakeholders with the expected product specifications. We also develop each WBS so as to record the progress of the team, revealing the project’s progress percentage growth per week.</p>
                     </div>
                 </div>
-                <p class="mb--20px">Dari sisi internal, kami melakukan manajemen ketat terhadap project cost dan efektivitas pengerjaan yang dilakukan oleh karyawan kami melalui aplikasi Nippo, yang dapat melihat laporan pekerjaan yang dilakukan harian secara mendetil.</p>
-                <p>Dengan mengkombinasikan semua itu, proses proyek semakin transparan dan semakin mempermudah proses monitoring dan controlling terutama dalam percepatan pengambilan keputusan yang diperlukan didalam proyek. karena itu proyek yang kami kelola dapat selesai dengan cepat dan sesuai dengan ekspektasi dari semua key stakeholder.</p>
+                <p class="mb--20px">From an internal perspective, we carry out a strict management process in regards to any project costs and also review the effectiveness of work carried out by our employees through the <strong>Nippo</strong> application, which allows for the viewing and review of detailed daily work reports from those in our employ.</p>
+                <p>Though all of the above mentioned factors, the completion of a project becomes much more transparent, making the monitoring and control process easier, especially in regards to accelerating the decision making process. Therefore, the projects we take on can be completed quickly and in accordance with the expectations of all key stakeholders.</p>
             </div>
         </div>
     </section>
@@ -365,9 +365,10 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <h3 class="main-title main-title--with-square-point">Pengembangan Sistem Secara Dinamis di <span class="logo-font">LOGIQUE</span></h3>
-                <p class="mb--20px">Sejalan dengan manajemen proyek yang lebih dinamis dan cepat menggunakan metodologi Agile, <span class="logo-font">LOGIQUE</span> melakukan pendekatan yang lebih fleksibel terhadap cara pengembangan sistem dan kontrak kerja. Sehingga, berbeda dengan beberapa tahun sebelumnya saat pengerjaan sebuah proyek perlu dilakukan pendefinisian ruang lingkup secara menyeluruh terlebih dahulu dan tidak dapat dibagi-bagi, <span class="logo-font">LOGIQUE</span> dapat membantu Anda melakukan pengembangan per bagian dengan sistem kerja yang dinamis untuk penyelesaian proyek sesuai kebutuhan. Pada sistem kerja ini, Anda dapat bersama-sama menentukan komposisi tim yang perlu diturunkan dan menggantinya sesuai dengan kebutuhan selama jalannya proyek. Hal ini memungkinkan Anda untuk mendapatkan hasil yang optimal dan cepat dengan komposisi tim yang tepat dengan fleksibilitas kebutuhan bisnis yang cepat didalam perusahaan.</p>
-                <p>Untuk mempermudah proses kolaborasi antara kedua belah pihak dan mempercepat delivery dokumentasi didalam proyek, kami menggunakan tools cloud yang bisa di akses oleh kedua belah pihak.</p>
+                <h3 class="main-title main-title--with-square-point">Dynamic System Development at <span class="logo-font">LOGIQUE</span></h3>
+                <p class="mb--20px">Unlike previous years, when working on a project it is currently necessary to define the overall scope first, which cannot be divided. </p>
+                <p class="mb--20px">Through the use of dynamic and efficient project management and the implementation of the agile methodology, Logique utilizes a more flexible approach in the development of its systems and work contracts. Therefore, in comparison to previous years, when conducting a project the landscape firstly needs to be defined and cannot be divided. Logique can help you develop in this regard through a dynamic work system so as to see to the completion of a project as defined by the client. In this system of work, you can jointly determine the composition of the team that can thusly be deployed and replaced as needed during the project. This allows you to receive optimally fast results through the right team composition. </p>
+                <p>To facilitate the collaboration process between the two parties and speed up the delivery of documentation with a given project, we utilize cloud tools that can be accessed by both parties.</p>
             </div>
         </div>
     </section>
@@ -375,10 +376,10 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <h3 class="main-title main-title--with-square-point">Hubungi Kami</h3>
-                <p>Sukseskan proyek digital Anda bersama <span class="logo-font">LOGIQUE</span> sekarang! Silakan isi form dibawah ini. Kami siap membantu Anda!</p>
+                <h3 class="main-title main-title--with-square-point">Contact us</h3>
+                <p>Gain success with your digital projects with <span class="logo-font">LOGIQUE</span> now! Please fill out the form below, we are ready to assist you.</p>
                 <div class="contact-form-wrapper">
-                    <h3 class="text-center mb--40px">Hubungi Kami untuk mendapatkan penawaran terbaik</h3>
+                    <h3 class="text-center mb--40px">Contact Us to get the best offer</h3>
                     <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
                         <input type='hidden' name='submitted' id='submitted' value='1' />
                         <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
@@ -389,22 +390,22 @@ if(isset($_POST['submitted']))
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    <input type="text"  name="name" aria-label="Name"  class="form-control" placeholder="Nama Anda" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+                                    <input type="text"  name="name" aria-label="Name"  class="form-control" placeholder="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <input type="email" name="email" aria-label="Email"  class="form-control" placeholder="Alamat E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+                                    <input type="email" name="email" aria-label="Email"  class="form-control" placeholder="E-mail Address" value='<?php echo $formproc->SafeDisplay('email') ?>'>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <input type="number" name="phone" aria-label="Phone"  class="form-control" placeholder="Nomor Telepon" value='<?php echo $formproc->SafeDisplay('phone') ?>' >
+                                    <input type="number" name="phone" aria-label="Phone"  class="form-control" placeholder="Contact Number" value='<?php echo $formproc->SafeDisplay('phone') ?>' >
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    <textarea name="message" aria-label="Message" class="form-control" rows="10" placeholder="Pertanyaan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+                                    <textarea name="message" aria-label="Message" class="form-control" rows="10" placeholder="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
                                 </div>
                             </div>
                             <div class="col-md-6" style="display:flex; margin-bottom:1em">
@@ -413,7 +414,7 @@ if(isset($_POST['submitted']))
                                 <div class="clearfix"></div><br>
                             </div>
                             <div class="col-md-6 text-right">
-                                <button class="btn btn--yellow">Kirim</button>
+                                <button class="btn btn--yellow">Send</button>
                             </div>
                         </div>
                     </form>
