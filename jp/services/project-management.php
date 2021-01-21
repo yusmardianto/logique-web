@@ -42,17 +42,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
+    <meta name="description" content="LOGIQUEインドネシアはPMP保有のプロジェクトマネージャがプロジェクト管理をしてIT/DXプロジェクトを成功に導きます。Webシステム開発、ITシステム導入による業務改善プロジェクト、デジタルマーケティング運用などで失敗のない、より成果のでるプロジェクトマネジメントを行います。">
     <meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Project Management | LOGIQUE">
+    <meta property="og:title" content="プロジェクトマネジメント | LOGIQUE DIGITAL INDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/project-management.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
+    <meta property="og:description" content="LOGIQUEインドネシアはPMP保有のプロジェクトマネージャがプロジェクト管理をしてIT/DXプロジェクトを成功に導きます。Webシステム開発、ITシステム導入による業務改善プロジェクト、デジタルマーケティング運用などで失敗のない、より成果のでるプロジェクトマネジメントを行います。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Project Management | LOGIQUE</title>
+    <title>プロジェクトマネジメント | LOGIQUE DIGITAL INDONESIA</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
@@ -108,15 +108,15 @@ if(isset($_POST['submitted']))
                                 <div class="col-sm-12">
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
+                                            <a itemprop="item" href="/en/"><span itemprop="name">ホーム</span></a>
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                                itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp; Services</span></a>
+                                                itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp; サービス</span></a>
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item"><span itemprop="name">Project Management</span></a>
+                                            <a itemprop="item"><span itemprop="name">プロジェクト管理</span></a>
                                             <meta itemprop="position" content="3" />
                                         </li>
                                     </ol>

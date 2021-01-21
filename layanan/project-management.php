@@ -106,15 +106,15 @@ if(isset($_POST['submitted']))
                                 <div class="col-sm-12">
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/jp/"><span itemprop="name">Beranda</span></a>
+                                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                                itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp; サービス </span></a>
+                                                itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp; Layanan</span></a>
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item"><span itemprop="name">なプロジェクト管理</span></a>
+                                            <a itemprop="item"><span itemprop="name">Manajemen Proyek</span></a>
                                             <meta itemprop="position" content="3" />
                                         </li>
                                     </ol>
