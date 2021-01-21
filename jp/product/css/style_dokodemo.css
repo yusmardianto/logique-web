@@ -4,8 +4,28 @@
 @-o-viewport { width: device-width; }
 @viewport { width: device-width; }
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Anton');
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@font-face {
+  font-family: "M PLUS 1p";
+  src: url('/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+} 
+@font-face {
+  font-family: "M PLUS 1p";
+  src: url('/fonts/M_PLUS_1p/MPLUS1p-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+} 
+@font-face {
+  font-family: "M PLUS 1p";
+  src: url('/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+} 
 /**
 CSS Reset
 */
@@ -74,7 +94,8 @@ header hr{border-top:5px solid #000;width:20%;margin: 30px auto;}
 .bg-yellow .fa-ul li{text-align:left;}
 .fa-ul .fa{font-size: 10px;color: #0072bc;}
 .title-masalah{padding:40px 15px;font-size:36px;color:#0072bc;text-align:center;}
-.bg-blue{background:url('../img/dokodemo-kerja/bg-blue.png') no-repeat;color:#fff;padding:50px 0;background-size:cover}
+.no-webp .bg-blue{background:url('../img/dokodemo-kerja/bg-blue.png') no-repeat;color:#fff;padding:50px 0;background-size:cover}
+.webp .bg-blue{background:url('../img/dokodemo-kerja/bg-blue.webp') no-repeat;color:#fff;padding:50px 0;background-size:cover}
 .bg-blue .title{font-size:36px}
 .bg-yellow{background:#edb61a;color:#000;position: relative;}
 .bg-yellow .container-fluid{padding:0}

@@ -6,20 +6,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+        content="Portofolio pembuatan & mengembangan aplikasi berbasis website & progressive web app (PWA) dengan kualitas Internasional untuk membawa bisnis Anda lebih baik | LOGIQUE">
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE">
+    <meta property="og:title" content="Portofolio Jasa Pembuatan Aplikasi Berbasis Web & PWA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+        content="Portofolio pembuatan & mengembangan aplikasi berbasis website & progressive web app (PWA) dengan kualitas Internasional untuk membawa bisnis Anda lebih baik | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/system-development.php">
-    <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
+    <title>Portofolio Jasa Pembuatan Aplikasi Berbasis Web & PWA</title>
     
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
@@ -136,7 +136,7 @@
                     <div class="row">
                         <div class="col-md-offset-1 col-md-7">
                             <div class="title"><h1>System Development Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> adalah pengembang Sistem Web terkemuka di Indonesia dengan kemampuan pengembangan dan  kualitas teknik dan keamanan yang berstandar internasional. <strong>LOGIQUE</strong> telah berhasil mengembangkan dan memelihara ratusan Sistem TI yang membawa bisnis klien ke level yang lebih tinggi.</p>
+                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> adalah pengembang Sistem Web / Aplikasi Bebasis Web terkemuka di Indonesia dengan kemampuan pengembangan, kualitas teknik, dan keamanan yang berstandar internasional. <strong>LOGIQUE</strong> telah berhasil mengembangkan dan memelihara ratusan Sistem TI yang mampu membawa bisnis klien ke level yang lebih tinggi.</p>
                             <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                         </div>
                     </div>
