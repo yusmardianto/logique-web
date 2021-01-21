@@ -813,6 +813,95 @@ section.dm__other-service  strong, section.dm__links   strong {
     font-weight: normal !important;
 }
  
+/* New CSS */
+.class-jamstack-1 {
+    padding-top: 20px;  
+}
+.class-jamstack-2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+}
+.class-jamstack-3 {
+    padding: 10px 0 40px 0;
+}
+.class-jamstack-4 {
+    padding: 20px 0 40px 0;
+}
+.class-jamstack-4 p {
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: -0.08px;
+    line-height: 20px;
+    text-align: center;
+}
+.class-jamstack-4 img {
+    height: 40px;
+    margin-bottom: 20px;
+}
+.class-jamstack-5 {
+    margin-bottom: 20px;
+}
+.class-teknologi {
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+}
+.class-jamstack-5 .success-item {
+    box-shadow: none;
+    border: 1px solid rgb(239, 239, 239);
+    background: none;
+    overflow: hidden;
+    position: relative;
+} 
+.class-jamstack-5 .success-item.center {
+    border: 1px solid rgb(239, 239, 239);
+    box-shadow: 0px 23px 21px -18px rgba(0, 0, 0, 0.1);
+}
+.class-jamstack-5 .circle-- {
+    position: absolute;
+    left: -17px;
+    background: rgb(255, 244, 207);
+    height: 48px;
+    width: 48px;
+    border-radius: 50%/50%;
+}
+.class-jamstack-5 h3 {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.18px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 19px;
+}
+.class-jamstack-5 p {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0.18px;
+    line-height: 33px;
+    text-align: center;
+    text-transform: uppercase;
+}
+section.content-section.seventh-part {
+    padding: 0 0 15px;
+}
+.class-jamstack-6 {
+    padding-bottom: 15px;
+}
+
 @media (max-width: 1024px) { 
     .container__ {
         width: 90%;
@@ -1035,6 +1124,24 @@ section.dm__other-service  strong, section.dm__links   strong {
       .dm__links, .dm__other-service{
          margin:0
      }
+     .class-jamstack-4 .col-xs-12  {
+        margin-bottom: 20px;
+    }
+    .class-jamstack-5 .success-item.center {
+        box-shadow: none;
+    }
+    .class-jamstack-3 img {
+        margin-bottom: 20px;
+    }
+    .class-jamstack-3 .text-left {
+        text-align: center;
+    }
+    .systedev-page h1 {
+        margin-top: 30px;
+    }
+    .footer-update.content-wrapper__ {
+        padding: 20px;
+    }
 }
 
 @media (max-width: 575px) {  
