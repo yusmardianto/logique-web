@@ -1,5 +1,5 @@
 <?php
-require_once("../form/fgcontactform.php");
+require_once("../../form/fgcontactform.php");
 
 $formproc = new FGContactForm();
 
@@ -36,7 +36,7 @@ if(isset($_POST['submitted']))
 ?>
 
 <!DOCTYPE html>
-<html lang="id">
+<html lang="ja">
 
 <head>
     <meta charset="utf-8">
@@ -45,20 +45,22 @@ if(isset($_POST['submitted']))
     <meta name="description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Manajemen Proyek | LOGIQUE">
+    <meta property="og:title" content="Project Management | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/project-management.php">
+    <meta property="og:url" content="https://www.logique.co.id/en/services/project-management.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Manajemen Proyek | LOGIQUE</title>
+    <title>Project Management | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-pm.css?v=1.0.4" rel="stylesheet">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/project-management.php" />
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="canonical" href="https://www.logique.co.id/en/services/project-management.php" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet"> -->    
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
         <!-- Google Tag Manager -->
         <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -70,7 +72,7 @@ if(isset($_POST['submitted']))
     <?php } ?>
 </head>
 
-<body class="wrapper wrapper--update-design">
+<body class="wrapper wrapper--update-design --jp">
     <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?> 
         <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
@@ -88,10 +90,10 @@ if(isset($_POST['submitted']))
     <!-- HEADER -->
 
     <?php 
-      $lang = 'id';
+      $lang = 'jp';
       $en_link = '/en/services/project-management.php';
-      $id_link = '#';
-      $jp_link = '/jp/services/project-management.php';
+      $id_link = '/layanan/project-management.php';
+      $jp_link = '#';
       include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
     ?>
 
@@ -106,15 +108,15 @@ if(isset($_POST['submitted']))
                                 <div class="col-sm-12">
                                     <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item" href="/jp/"><span itemprop="name">Beranda</span></a>
+                                            <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
                                             <meta itemprop="position" content="1" />
                                         </li>
                                         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                                itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp; サービス </span></a>
+                                                itemprop="item" href="/en/services.php"><span itemprop="name">&nbsp; Services</span></a>
                                             <meta itemprop="position" content="2" />
                                         </li>
                                         <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                            <a itemprop="item"><span itemprop="name">なプロジェクト管理</span></a>
+                                            <a itemprop="item"><span itemprop="name">Project Management</span></a>
                                             <meta itemprop="position" content="3" />
                                         </li>
                                     </ol>
@@ -127,9 +129,9 @@ if(isset($_POST['submitted']))
                     <div class="row">
                         <div class="col-md-12 header__title">
                             <h1>
-                              <span class="fs--26px fw--800">Sukses dengan</span>
+                              <!-- <span class="fs--26px fw--800">Success through </span> -->
                               <br>
-                              <span class="fs--28px fw--800">PROJECT MANAGEMENT PROFESSIONAL</span>
+                              <span class="fs--28px fw--800">プロフェッショナルなプロジェクト管理</span>
                             </h1>
                         </div>
                     </div>
@@ -143,9 +145,9 @@ if(isset($_POST['submitted']))
           <div class="container__">
             <div class="row">
               <div class="col-md-12">
-                <p>Terdapat faktor-faktor penting yang perlu diperhatikan oleh <em>stakeholder</em> / pemangku kepentingan untuk memastikan sebuah proyek dapat selesai dengan baik dan mampu memberikan hasil sesuai dengan tujuan proyek dari sisi bisnis, yaitu lingkup pekerjaan yang diimplementasikan, waktu target yang ditentukan serta budget yang telah diatur diawal proyek. Tiga hal ini sudah sering disebutkan sebagai triple constraint dan menjadi salah satu parameter ukuran keberhasilan sebuah proyek. Triple constraint saat ini sudah menjadi bagian yang diukur dan di manage dalam sebuah Manajemen Proyek. Sehingga pentingnya sebuah managemen proyek yang baik untuk  menghasilkan akhir sebuah proyek menjadi jauh lebih baik.</p>
-                <p>Dengan pentingnya sebuah managemen proyek dalam menentukan hasil akhir sebuah proyek, maka diperlukan standarisasi dari semua aspek yang bisa terjadi dalam proyek untuk mengecilkan risiko proyek itu gagal. Saat ini ada banyak sekali organisasi maupun institusi secara global maupun lokal yang melakukan research maupun diskusi untuk membuat standarisasi yang comprehensif untuk dapat dijadikan pondasi untuk berbagai project dalam berbagai industri. Dari standarisasi yang baik itu di implementasikan di dalam proyek, diharapkan dapat menambah kepercayaan sebuah proyek itu berhasil</p>
-                <p>Salah satu organisasi dalam proyek management yang saat ini menjadi organisasi terbesar secara global adalah PMI (Project Management Institute) yang bermarkas di Pennsylvania, U.S. dan sudah 51 tahun berdiri sejak 1969. PMI sendiri terkenal dengan PMBOK (Project Management Book of Knowledge) dimana menjadi Kitab Suci para Project manager di seluruh dunia. PMI sendiri menyediakan sertifikasi PMP bagi yang telah lulus dari Ujian pemahaman dari PMBOK tersebut. Saat ini PMP holder sudah lebih dari 1 juta orang di seluruh dunia. Di Indonesia saat ini pemilik aktif sertifikasi PMP dibandingkan posisi project lead sangat sedikit, saat ini hanya ~1000 orang pemegang PMP dibanding dengan negara tetangga seperti Singapura dan Malaysia yang sudah ~1500. Kebutuhan Indonesia untuk Project Manager dengan sertifikasi PMP masih sangat dibutuhkan.</p>   
+                <p>適切なプロジェクト管理はプロジェクト成功のために非常に重要です。スコープ、スケジュール、予算の管理をはじめとして、いくつかのプロジェクトの成功の鍵を握る重要な要素を切々にコントロールする必要があります。上記3つの要素は、「Triple Constraints」として、プロジェクトの成功を測定するために使用される主なパラメータの1つとしてよく知られています。どのような指標を用いるにしても、プロジェクト管理の目標は、プロジェクトを計画通りに進め、より良い結果をもって終われるようにすることです。</p>
+                <p>効率的なプロジェクト管理はプロジェクトの最終結果を決めます。プロジェクト管理の良し悪しが結果に大きな影響を与えます。そのため、失敗のリスクを最小限に抑えるために、プロジェクト中に起こるすべてのリスクに対する備えを標準化する必要があります。 現在、すべての業界で将来のプロジェクトの基盤として使用できる包括的な標準モデルを作成するために多くの研究がなされています。</p>
+                <p>現在世界最大のプロジェクト管理をリードしている組織は、米国ペンシルベニア州に本社を置き、1969年に設立されたPMI（プロジェクトマネジメント協会）です。PMBOK（Project Management Body of Knowledge）のリリースでも一般的に知られており、世界中のプロジェクトマネージャーにとってバイブルの役割を果たしています。 PMIは、PMBOKの試験に合格した人にPMP認定を提供します。現在、世界中で100万人以上のPMP保有者がいます。インドネシアでは、現在、プロジェクトリーダーのポジションと比較してアクティブなPMP認定保有者は非常に少なく、約1,000人のPMP保有者しかいません。PMP認定されているプロジェクトマネージャーはインドネシア国内で貴重だと言って良いと思います。LOGIQUEにはPMP保有プロジェクトマネージャがいます。</p>
               </div>
             </div>
           </div>
@@ -165,13 +167,13 @@ if(isset($_POST['submitted']))
                       <img src="/img/pm/icon-pm-contact.png" class="pr--10px" alt="contact">
                     </picture>
                     <div class="banner-contact-text">
-                      <p class="mb--0px">Kami siap membantu Anda untuk mengelola</p>
-                      <p class="mb--0px fw--800">PROJECT SECARA PROFESIONAL</p>
+                      <p class="mb--0px">We are ready to help you to manage</p>
+                      <p class="mb--0px fw--800">PROJECT PROFESSIONALLY</p>
                     </div>
                   </div>
                   <div class="col-xs-offset-3 col-xs-6 col-md-offset-0 col-md-3 d-flex align-items-center">
-                        <a href="/hubungi-kami.php" class="form-control btn btn--yellow">
-                          KONTAK KAMI
+                        <a href="/jp/contact.php" class="form-control btn btn--yellow">
+                          CONTACT US
                         </a>
                   </div>
                 </div>
@@ -188,13 +190,13 @@ if(isset($_POST['submitted']))
                 <div class="row row--flex expert-team-wrapper">
                     <div class="col-xs-12 col-md-7 col-lg-8">
                         <div class="expert-team-box">
-                            <h3 class="mb--25px main-title main-title--white main-title--with-square-point">Tim Ahli Kami</h3>
-                            <h5 class="main-subtitle">Profile</h5>
-                            <p>Kami memiliki beberapa manajer proyek yang tersertifikasi PMP, salah satunya Meiriando Teja yang berposisi sebagai Consultant Lead. Memiliki pengalaman terjun didalam dunia IT selama lebih dari 10 tahun di berbagai industri seperti Banking, Transportation, Telco dan memiliki pengalaman mengimplementasi product ERP, CRM, HCM hingga mobile dan web application. Saat ini memiliki sertifikasi Project Management  yang diakui secara global yaitu PMP, memperkuat pondasi dalam memanage proyek yang dijalankan.</p>
+                            <h3 class="mb--25px main-title main-title--white main-title--with-square-point"><span class="logo-font">LOGIQUE</span>のPMチーム</h3>
+                            <h5 class="main-subtitle">プロフィール</h5>
+                            <p><span class="logo-font">LOGIQUE</span>にはPMP認定を受けたプロジェクトマネージャーが在籍しています。 そのうちの一人は、現在のコンサルタンティングTeamリーダーであるMeiriandoTejaです。 PMP資格保持者です。銀行、運輸、電話会社などのさまざまな業界で10年以上ITプロジェクトを管理した経験があり、ERP製品、CRM、HCM、モバイルおよびWebアプリケーションの実装に精通しています。</p>
 
                             <p class="expert-team-second-paragraph">
                             <img src="/img/pm/quote-yellow.png" class="img-expert-team-quote" width="50" height="50" alt="quote">
-                            Didalam mengimplementasikan manajemen proyek yang ideal di <span class="logo-font">LOGIQUE</span>, ada beberapa hal yg perlu di perhatikan, diantaranya terdapat 2 hal yang menjadi prioritas. Yang pertama adalah transparansi, transaparansi berbicara mengenai proses kerja diantara stakeholder dalam proyek. Transparansi didalam proyek terhadap semua stakeholder diperlukan untuk memberikan awareness mengenai status proyek dan mampu meningkatkan ownership setiap stakeholder atas keberhasilan proyek. Transparansi juga meningkatkan kepercayaan satu sama lain dalam bekerja. Yang kedua adalah komitmen. Komitmen setiap stakeholder terhadap perannya di dalam proyek akan menghindari blocker atau obstacle dari kepada stakeholder lainnya sehingga mempermulus proses proyek dari Hulu hingga hilir.
+                            <span class="logo-font">LOGIQUE</span>では、プロジェクト管理をする上で2つの優先事項を定めています。1つ目は、プロジェクト状況の透明性です。作業プロセス、作業ステータス、作業内容、作業量をプロジェクト利害関係者に透明性をもって共有します。透明性はプロジェクト内の相互信頼レベルを向上させます。信頼し、相互にリスペクトしながらプロジェクト運用することが重要であると考えています。２つ目はプロジェクトメンバー、利害関係者のコミットメントです。 全員が高いコミットメント意識をもってプロジェクトに臨むことが重要だと考えています。プロジェクト利害関係者のコミットメントは、他の利害関係者にも影響し、プロジェクト内のコミュニケーションを活性化し各プロセスをスムーズにします。
                             </p>
                         </div>
                     </div>
@@ -212,7 +214,7 @@ if(isset($_POST['submitted']))
         <div class="content-wrapper__">
             <div class="container__">
                 <h3 class="main-title main-title--with-square-point mb--30px mt--40px">
-                    Manajemen Proyek di <span class="logo-font fs--24px">LOGIQUE</span>
+                <span class="logo-font fs--24px">LOGIQUE</span>のプロジェクト管理
                 </h3>
                 <div class="row">
                     <div class="col-md-5">
@@ -222,8 +224,8 @@ if(isset($_POST['submitted']))
                         </picture>
                     </div>
                     <div class="col-md-7">
-                        <p class="mb--20px">Tidak seperti perusahaan konvensional pada umumnya dimana menggunakan metodology Waterfall dimana semua lingkup pekerjaan akan di kunci sebelum implementasi,kami mengimplementasikan metode Agile – Scrum didalam setiap proyek kami. Dimana metode Agile - Scrum ini dapat membantu mengcover kebutuhan bisnis yang cepat berubah untuk menanggapi kebutuhan pasar yang juga cepat tanpa harus memberikan konsekuensi besar di dalam project yang telah berjalan.</p>
-                        <p>Secara umum metode scrum akan membagi fase pengembangan ke dalam beberapa Sprint yang dimana setiap sprint terdiri dari 5 ceremonies yaitu Backlog Grooming, Sprint Planning, Daily Scrum, Sprint Review dan Sprint Retrospective. Setiap ceremonies ini merupakan proses pekerjaan yang saling terkait untuk memastikan setiap sprint akan bisa memberikan delivery yang sesuai ekspektasi.</p>
+                        <p class="mb--20px">コンベンショナルな会社が通常採用するウォーターフォール手法を使用することは稀で、アジャイル-スクラム手法を利用します。 アジャイル-スクラム方式は、進行中のプロジェクト全体に大きな影響を与えることなく、急速に頻繁に変化するマーケットニーズやプロジェクトOwnerの状況変化にフレキシブルに対応することを可能にします。</p>
+                        <p>一般に、スクラム方式は、開発フェーズをいくつかの「スプリント」に分割します。各スプリントは、バックロググルーミング、スプリントプランニング、デイリースクラム、スプリントレビュー、スプリントレトロスペクティブの5つのセレモニーで構成されます。 </p>
                     </div>
                 </div>
             </div>
@@ -242,8 +244,8 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                     <div class="col-md-9">
-                        <p>1. Backlog Grooming</p>
-                        <p>Backlog Grooming merupakan proses mem-breakdown story yang ada di backlog untuk lebih detail dan lebih jelas sehingga mempermudah pekerjaan di dalam sprint. Dari setiap story yang telah di breakdown ini juga akan di berikan estimasi dari setiap developer kami effort pengerjaannya. Dari total estimasi tersebut akan didapatkan total waktu yang dibutuhkan untuk pengerjaan setiap featurenya.</p>
+                        <p>1. バックロググルーミング/バックログの詳細化</p>
+                        <p>バックロググルーミングは、バックログ内の「ストーリー」を分解して、スプリントでの作業を詳細に明確にするプロセスです。分解された各ストーリーから、関係する各作業者の作業量や難易度についても見積もりが行われます。作業に必要な合計時間が導きだされます。</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -256,8 +258,8 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                     <div class="col-md-9">
-                        <p>2. Sprint planning</p>
-                        <p>Sprint Planning merupakan proses perencanaan untuk menyiapkan story-story mana saja yang akan di kerjakan dalam sprint di depan. Berdasarkan story-story dari hasil Backlog grooming tersebut dimana dibagi dengan velocity dari setiap developer, maka bisa didapat jumlah story yang bisa dikerjakan dalam setiap sprint tersebut. Setiap scrum team akan berkomitmen untuk menyelesaikan pekerjaan yang disepakati saat sprint planning tersebut.</p>
+                        <p>2. スプリント計画</p>
+                        <p>スプリント計画は、次のスプリント中にどのストーリーに取り組むかを準備するプロセスです。 バックロググルーミングの結果から得られたストーリーを各メンバーの作業スピードなどに基づいて、スプリントに割り当てられる人員と時間を決めます。各スクラムチームは、スプリント計画フェーズで合意された作業を完了することを約束します。</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -270,12 +272,12 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                     <div class="col-md-9">
-                        <p>3. Daily Scrum</p>
-                        <p>Daily scrum merupakan event harian yang dilakukan oleh Tim dan scrum master untuk update pekerjaan dari Tim masing-masing. Untuk menjaga ke efektifan dalam proses daily scrum, event ini di timeboxing dalam 15 - 30 menit tergantung dengan kebutuhan di dalam tim sendiri. Setiap member yang ikut dalam daily scrum akan memiliki giliran untuk menjelaskan 3 hal utama dalam daily scrum seperti berikut : </p>
+                        <p>3. デイリースクラム</p>
+                        <p>デイリースクラムは、チームメンバーとスクラムマスターがそれぞれの作業状況をアップデートするために実施する毎日のイベントです。デイリースクラムを効果的なものにするために、このイベントは、15〜30分に限って行うことが推奨されています。デイリースクラムに参加する各メンバーは、以下に関して報告共有することが求められます。</p>
                         <div class="ceremonies-box-wrapper">
-                            <span class="ceremonies-box">Pekerjaan yang dilakukan kemarin.</span>
-                            <span class="ceremonies-box">Pekerjaan yang akan dilakukan hari ini.</span>
-                            <span class="ceremonies-box">Blocker atau hambatan yang mempengaruhi pekerjaan Tim hari itu.</span>
+                            <span class="ceremonies-box">a. 昨日行った作業</span>
+                            <span class="ceremonies-box">b. 今日行う仕事</span>
+                            <span class="ceremonies-box">c. チームの作業に影響を与える障害/問題</span>
                         </div>
                     </div>
                 </div>
@@ -289,8 +291,8 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                     <div class="col-md-9">
-                        <p>4. Sprint Review</p>
-                        <p>Sprint review merupakan event yang dilakukan di akhir dari sprint untuk mereview kembali semua delivery yang telah dikerjakan didepan Product owner maupun project sponsor. Setiap feedback sprint review ini akan filter kembali untuk dapat menjadi improvement di sprint selanjutnya atau akan di hold.</p>
+                        <p>4. スプリントレビュー</p>
+                        <p>スプリントレビューフェーズは、スプリントの最後に開催され、プロジェクトオーナーの前で、プロジェクトをレビューします。 各スプリントレビューは、次のスプリントでの改善として活かされるべきです。</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -303,14 +305,14 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                     <div class="col-md-9">
-                        <p>5. Sprint Retrospective</p>
-                        <p>Sprint retrospective merupakan event yg dilakukan di akhir sprint untuk me review kembali proses selama 1 sprint dan memutuskan action item yg akan dilakukan di sprint depan untuk proses sprint yang lebih baik. Sprint retrospective sendiri akan mendiskusikan 3 hal yaitu: </p>
+                        <p>5. スプリントレトロスペクティブ</p>
+                        <p>スプリントレトロスペクティブは、スプリントの終了時に開催されるイベントで、1つのスプリントのプロセスを確認し、次のスプリントで実行する必要のある「アクションアイテム」を決め、より良いスプリントプロセスを実現します。次の3つのことについて確認します。</p>
                         <div class="ceremonies-box-wrapper">
-                            <span class="ceremonies-box">Apa yang kurang berjalan baik selama sprint.</span>
-                            <span class="ceremonies-box">Apa yang sudah berjalan baik selama sprint.</span>
-                            <span class="ceremonies-box">Apa yang masih membingungkan didalam sprint.</span>
+                          <span class="ceremonies-box">スプリント中にうまくいかなかったこと</span>
+                          <span class="ceremonies-box">スプリント中にうまくいったこと</span>
+                          <span class="ceremonies-box">スプリントに関してまだ不明な点</span>
                         </div>
-                        <p>Dari 3 hal diskusi tersebut akan di lanjutkan action item yang perlu dilakukan di sprint depan mengcover 3 hal tersebut.</p>
+                        <p>これら3つのことのうち、次のスプリントで実行する必要のあるアクションアイテムについては引き続き議論します。</p>
                     </div>
                 </div>
             </div>
@@ -319,7 +321,7 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <p class="mb--20px">Didalam implementasi metodi Agile - Scrum ini, kami juga menerapkan  implementasi standar dari PMP / PMI untuk meningkatkan fundamental dan landasan didalam setiap proses Agile - Scrum seperti contoh berikut: </p>
+                <p class="mb--20px">これら3つのことのうち、次のスプリントで実行する必要のあるアクションアイテムについては引き続き議論します。</p>
                 <div class="row mb--40px">
                     <div class="col-md-5">
                         <picture>
@@ -328,8 +330,8 @@ if(isset($_POST['submitted']))
                         </picture>
                     </div>
                     <div class="col-md-7">
-                        <p><strong>EVM (Earned Value Management)</strong></p>
-                        <p>Earned value management merupakan salah satu project management tools Dimana mengintegrasikan timeline, budget dan perfomance menjadi satu presentasi graphic yang sama. Dengan graphic yang di bentuk dari data yang ada, diharapkan PM  mampu memprediksikan kejadian didepan sehingga PM dapat mengambil keputusan lebih awal untuk membuat project kembali Berjalan sesuai tracknya. EVM ini kita lakukan setiap minggu di dalam weekly report yang kita gunakan untuk dapat melihat kondisi proyek secara transparan.</p>
+                        <p><strong>EVM（アーンドバリューマネジメント）</strong></p>
+                        <p>アーンドバリューマネジメントは、タイムライン、予算、パフォーマンスを同じグラフィックプレゼンテーションに統合するプロジェクト管理ツールです。 プロジェクトマネージャーは、既存のデータの包括的な範囲を考慮したグラフィックを使用して、将来のイベントを予測し、確立された時間枠に従ってプロジェクトを実行するために、早期に迅速かつ効果的な意思決定を行えるようになることが期待されます。EVMは、プロジェクトの状況を網羅的に表示できるようにするために使用する週次レポートで毎週実行されます。</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -340,8 +342,8 @@ if(isset($_POST['submitted']))
                         </picture>
                     </div>
                     <div class="col-md-7">
-                        <p><strong>Risk Management</strong></p>
-                        <p>Dengan analisa yang komprehensif juga dari EVM kami dapat membuat risk register dan mengumpulkan semua risiko yang muncul dalam proyek untuk cepat merespon untuk meminimalisir impact risiko-risiko yang ada di proyek. </p>
+                        <p><strong>リスク管理</strong></p>
+                        <p>EVMプロセスから得られた包括的な分析を通じて、リスクレジスターを作成し、特定のプロジェクト内で発生する可能性のあるすべてのリスクのデータを収集して、そのような影響を最小限に抑えるために迅速に対応できます。</p>
                     </div>
                 </div>
                 <div class="row mb--40px">
@@ -353,11 +355,11 @@ if(isset($_POST['submitted']))
                     </div>
                     <div class="col-md-7">
                         <p><strong>WBS (Work Breakdown Structure)</strong></p>
-                        <p>Pendetailan ruang lingkup kami tuangkan kedalam WBS untuk dapat menjadikan panduan guideline deliver scope didalam project. Dan WBS ini akan di share ke client untuk dapat me-align pengetahuan dari semua stake holder terhadap spesifikasi produk yang diharapkan. Kami juga mengembangkan setiap WBS ini menjadi tempat pencatatan progress dari team untuk dapat melihat persentasi pertumbuhan progress project per minggu nya.</p>
+                        <p>プロジェクトスコープを詳細に管理するためWBSを利用します。 WBSは、すべての利害関係者が同じ認識をもつために常に進捗状況を更新して、共有されます。</p>
                     </div>
                 </div>
-                <p class="mb--20px">Dari sisi internal, kami melakukan manajemen ketat terhadap project cost dan efektivitas pengerjaan yang dilakukan oleh karyawan kami melalui aplikasi Nippo, yang dapat melihat laporan pekerjaan yang dilakukan harian secara mendetil.</p>
-                <p>Dengan mengkombinasikan semua itu, proses proyek semakin transparan dan semakin mempermudah proses monitoring dan controlling terutama dalam percepatan pengambilan keputusan yang diperlukan didalam proyek. karena itu proyek yang kami kelola dapat selesai dengan cepat dan sesuai dengan ekspektasi dari semua key stakeholder.</p>
+                <p class="mb--20px">LOGIQUEでは、プロジェクトの原価管理を厳密に行っています。当社独自開発のNippoアプリケーションを使用して、実際に従業員が作業した時間を正確に把握しています。これにより、誰がどの作業に何時間費やしたのかがクライアント別、プロジェクト別、タスク別に管理可能となっています。</p>
+                <p>このように詳細なプロジェクト原価管理を行っているので、私たちのプロジェクト管理はクライアントにとってもフェアで透明度の高いものとなっています。</p>
             </div>
         </div>
     </section>
@@ -365,9 +367,9 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <h3 class="main-title main-title--with-square-point">Pengembangan Sistem Secara Dinamis di <span class="logo-font">LOGIQUE</span></h3>
-                <p class="mb--20px">Sejalan dengan manajemen proyek yang lebih dinamis dan cepat menggunakan metodologi Agile, <span class="logo-font">LOGIQUE</span> melakukan pendekatan yang lebih fleksibel terhadap cara pengembangan sistem dan kontrak kerja. Sehingga, berbeda dengan beberapa tahun sebelumnya saat pengerjaan sebuah proyek perlu dilakukan pendefinisian ruang lingkup secara menyeluruh terlebih dahulu dan tidak dapat dibagi-bagi, <span class="logo-font">LOGIQUE</span> dapat membantu Anda melakukan pengembangan per bagian dengan sistem kerja yang dinamis untuk penyelesaian proyek sesuai kebutuhan. Pada sistem kerja ini, Anda dapat bersama-sama menentukan komposisi tim yang perlu diturunkan dan menggantinya sesuai dengan kebutuhan selama jalannya proyek. Hal ini memungkinkan Anda untuk mendapatkan hasil yang optimal dan cepat dengan komposisi tim yang tepat dengan fleksibilitas kebutuhan bisnis yang cepat didalam perusahaan.</p>
-                <p>Untuk mempermudah proses kolaborasi antara kedua belah pihak dan mempercepat delivery dokumentasi didalam proyek, kami menggunakan tools cloud yang bisa di akses oleh kedua belah pihak.</p>
+                <h3 class="main-title main-title--with-square-point"><span class="logo-font">LOGIQUE</span>のシステム開発</h3>
+                <p class="mb--20px">マーケットや技術の変化のスピードが速くなっているため、以前のように、要件を最初に詳細に定義してから開発をスタートするやり方ではマーケットやユーザーのニーズに沿うものを開発して提供することはできません。</p>
+                <p>より動的で効率的、柔軟なプロジェクト管理とシステム開発が求められています。アジャイル手法の実装に加えて、<span class="logo-font">LOGIQUE</span>ではシステム開発に関するお客様との契約にも柔軟なアプローチをとっています。契約締結時、またプロジェクトスタート時には、全てを詳細に定義することはできません。作業内容を決めてしまうのではなく、作業量を定義してそれに対する契約を合意することで早くスタートし、プロジェクト中に柔軟に作業内容を変えることができます。動的に適切なチーム編成をし続けてプロジェクトをスピーディーに成功に導きます。</p>
             </div>
         </div>
     </section>
@@ -375,10 +377,10 @@ if(isset($_POST['submitted']))
     <section class="mb--60px">
         <div class="content-wrapper__">
             <div class="container__">
-                <h3 class="main-title main-title--with-square-point">Hubungi Kami</h3>
-                <p>Sukseskan proyek digital Anda bersama <span class="logo-font">LOGIQUE</span> sekarang! Silakan isi form dibawah ini. Kami siap membantu Anda!</p>
+                <h3 class="main-title main-title--with-square-point">お問い合わせ</h3>
+                <p><span class="logo-font">LOGIQUE</span>が適切なプロジェクト管理で貴社のIT/DXプロジェクトを成功させます！ 以下のフォームにご記入のうえご連絡ください。お問い合わせお待ちしています。</p>
                 <div class="contact-form-wrapper">
-                    <h3 class="text-center mb--40px">Hubungi Kami untuk mendapatkan penawaran terbaik</h3>
+                    <h3 class="text-center mb--40px">Contact Us to get the best offer</h3>
                     <form role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
                         <input type='hidden' name='submitted' id='submitted' value='1' />
                         <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
@@ -389,22 +391,22 @@ if(isset($_POST['submitted']))
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    <input type="text"  name="name" aria-label="Name"  class="form-control" placeholder="Nama Anda" value='<?php echo $formproc->SafeDisplay('name') ?>'>
+                                    <input type="text"  name="name" aria-label="Name"  class="form-control" placeholder="Name" value='<?php echo $formproc->SafeDisplay('name') ?>'>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <input type="email" name="email" aria-label="Email"  class="form-control" placeholder="Alamat E-mail" value='<?php echo $formproc->SafeDisplay('email') ?>'>
+                                    <input type="email" name="email" aria-label="Email"  class="form-control" placeholder="E-mail Address" value='<?php echo $formproc->SafeDisplay('email') ?>'>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-group">
-                                    <input type="number" name="phone" aria-label="Phone"  class="form-control" placeholder="Nomor Telepon" value='<?php echo $formproc->SafeDisplay('phone') ?>' >
+                                    <input type="number" name="phone" aria-label="Phone"  class="form-control" placeholder="Contact Number" value='<?php echo $formproc->SafeDisplay('phone') ?>' >
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="form-group">
-                                    <textarea name="message" aria-label="Message" class="form-control" rows="10" placeholder="Pertanyaan"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+                                    <textarea name="message" aria-label="Message" class="form-control" rows="10" placeholder="Message"><?php echo $formproc->SafeDisplay('message') ?></textarea>
                                 </div>
                             </div>
                             <div class="col-md-6" style="display:flex; margin-bottom:1em">
@@ -413,7 +415,7 @@ if(isset($_POST['submitted']))
                                 <div class="clearfix"></div><br>
                             </div>
                             <div class="col-md-6 text-right">
-                                <button class="btn btn--yellow">Kirim</button>
+                                <button class="btn btn--yellow">Send</button>
                             </div>
                         </div>
                     </form>
