@@ -38,7 +38,7 @@ if(isset($_POST['submitted']))
 			}
 			else {
 			mysqli_select_db($mysqli,$customerDBName);
-			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
+            $input = mysqli_query($mysqli,"INSERT INTO al_white_papers (white_paper_id,white_paper_type,company_name,department_name,url_social_media,position,name,email,phone,verifikasi_code,verifikasi_type,whitepaper_regdate) VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$name','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
 			
 			}
 				if ($formproc->ProcessForm()) {
