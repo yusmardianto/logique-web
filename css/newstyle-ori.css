@@ -87,15 +87,6 @@ button:focus {
     background-color: #000;
     color: #fff;
 }
-/* spacing */
-.m-t-30px {
-    margin-top: 30px;
-}
-
-.p-b-10px {
-    padding-bottom: 10px;
-}
-/* end spacing */
 .lang-logo--update-design {
     padding: 10px 0 15px;
     background-color: #fff;
@@ -233,31 +224,6 @@ button:focus {
 .lang-logo--update-design .list-inline li.active, .lang-logo--update-design .list-inline li:focus, .lang-logo--update-design .list-inline li:hover {
     border: none;
 }
-
-/* btn */
-.btn--yellow {
-    background-color: #ffca13;
-    border: solid 2px #ffca13;
-    border-radius: 8px;
-    padding: 10px 35px;
-    color: #000;
-    transition: all .3s;
-}
-.btn--yellow:hover {
-    background-color: #fff;
-    color: #000;
-}
-.btn-contact-us-black {
-    background: #000;
-    border-radius: 5px;
-    color: #fff !important;
-    font-size: 24px;
-    padding: 10px 60px;
-    margin-top: 30px;
-    width: 90%;
-    white-space: normal;
-}
-/* end btn */
 
 /* breadcrumb */
 .breadcrumb--update-design {
@@ -475,17 +441,75 @@ video {
     -ms-flex-align: center !important;
     align-items: center !important;
 }
-/* btn */
 
+/* display */
+.d-flex {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.d-flex.flex-nowrap {
+    -ms-flex-wrap: nowrap!important;
+    flex-wrap: nowrap!important;
+}
+
+.align-items-center {
+    align-items: center;
+}
+/* end display */
+
+/* spacing */
+.m-t-30px {
+    margin-top: 30px;
+}
+
+.m-r-10px {
+    margin-right: 10px;
+}
+
+.p-0 {
+    padding: 0 !important;
+}
+
+.p-t-20px,
+.p-y-20px {
+    padding-top: 20px;
+}
+
+.p-b-10px {
+    padding-bottom: 10px;
+}
+.p-b-20px,
+.p-y-20px {
+    padding-bottom: 20px;
+}
+
+.p-l-30px,
+.p-x-30px {
+    padding-left: 30px;
+}
+
+.p-r-30px,
+.p-x-30px {
+    padding-right: 30px;
+}
+/* end spacing */
+
+/* btn */
 a.form-control.btn {
     height: auto;
+    white-space: normal;
+    -webkit-box-shadow: none;
+    box-shadow: none;
 }
 
 .btn--yellow {
     background-color: #ffca13;
     border: solid 2px #ffca13;
     border-radius: 8px;
-    padding: 10px 35px;
+    padding: 10px;
     color: #000;
     transition: all .3s;
 }
@@ -495,7 +519,26 @@ a.form-control.btn {
     border-color: #FFB300;
 }
 
+.btn-contact-us-black {
+    background: #000;
+    border-radius: 5px;
+    color: #fff !important;
+    font-size: 24px;
+    padding: 10px 60px;
+    margin-top: 30px;
+    width: 90%;
+    white-space: normal;
+}
 /* end btn */
+
+/* border */
+.rounded {
+    border-radius: .25rem;
+}
+.rounded-lg {
+    border-radius: .4rem;
+}
+/* end border */
 
 /* case study */
 .casestudy-text {

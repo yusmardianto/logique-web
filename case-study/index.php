@@ -146,86 +146,21 @@
   </style>
   <?//php include './popup.php'; ?>
   <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only">
-    <!-- NAVIGATION -->
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-      data-toggle="collapse" data-target="#myNavbar">
-      <span class="icon-bar first"></span>
-      <span class="icon-bar second"></span>
-      <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <div class="backdrop-test"></div>
-      <div class="logique-nav logique-nav--update logique-nav--update">
-        <div class="margin-for-nav">
-          <div class="text-center active">
-            <a href="/">
-              <div class="img-home"></div>
-              Beranda
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/logique.php">
-              <div class="img-about"></div>
-              Tentang Kami
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/portofolio.php">
-              <div class="img-portfolio"></div>
-              Portfolio
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/layanan.php">
-              <div class="img-services"></div>
-              Layanan
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/produk.php">
-              <div class="img-product"></div>
-              Produk
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/career/">
-              <div class="img-career"></div>
-              Karir
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/hubungi-kami.php">
-              <div class="img-contact"></div>
-              Hubungi Kami
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-              <div class="img-blog"></div>
-              Blog
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- END NAVIGATION -->
+    <!-- NAVIGATION -->    
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'home';
+        include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+    ?>  
 
-    <div class="container-fluid">
-      <div class="lang-logo--update-design">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-offset-1 col-sm-11">
-              <a href="/"><img src="assets/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-              <ul class="list-inline">
-                <!-- <li><a href="en/index.php">EN</a></li> -->
-                <li class="active"><a href="#">ID</a></li>
-                <!-- <li><a href="jp/index.php">JP</a></li> -->
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    <!-- header -->
+    <?php 
+      $lang = 'id';
+      $en_link = '#';
+      $id_link = '#';
+      $jp_link = '#';
+      include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+    ?>
 
     <div class="content-wrapper__">
 
@@ -256,17 +191,41 @@
         </div>
       </div>
 
+      <section class="m-t-30px case-study__banner-whitepaper">
+        <div class="p-0 rounded-lg container__">
+          <div class="p-y-20px p-x-30px">
+            <div class="row flex__row align-items-center banner-whitepaper">
+              <div class="col-xs-12 col-md-8">
+                <div class="d-flex align-items-center banner-whitepaper__content">
+                  <picture>
+                    <source srcset="/case-study/assets/img/icon-whitepaper.svg">
+                    <img src="/case-study/assets/img/icon-whitepaper.png" alt="download whitepaper" class="img-responsive m-r-10px">
+                  </picture>
+                  <div class="content__text">
+                    <b>Dapatkan white paper</b>
+                    <p>Pengembangan Website & Sistem Keamanan Website</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-8 col-sm-6 col-md-3">
+                <a href="/white-paper.php" class="form-control btn btn--yellow">Download White Paper</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section class="case-study bg--white">
         <div class="container__">
           <div class="pill-container">
-            <button class="btn btn-default filter-button activated" data-filter="all">Semua Studi Kasus</button>
-            <button class="btn btn-default filter-button" data-filter="website">Website</button>
-            <button class="btn btn-default filter-button" data-filter="websystem">Web System</button>
-            <button class="btn btn-default filter-button" data-filter="webapp">Web App</button>
-            <button class="btn btn-default filter-button" data-filter="mobileapp">Aplikasi Mobile</button>
+            <button class="btn btn--yellow filter-button activated" data-filter="all">Semua Studi Kasus</button>
+            <button class="btn btn--yellow filter-button" data-filter="website">Website</button>
+            <button class="btn btn--yellow filter-button" data-filter="websystem">Web System</button>
+            <button class="btn btn--yellow filter-button" data-filter="webapp">Web App</button>
+            <button class="btn btn--yellow filter-button" data-filter="mobileapp">Aplikasi Mobile</button>
           </div>
 
-          <div class="row card-container">
+          <div class="row flex__row card-container">
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem">
                 <a href="/case-study/caroline-bidding-system" class="links__item">
                     <div class="img-container">
@@ -416,29 +375,54 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
-        </div>
-        <div class="row contact-container">
-          <div class="col-md-12">
-            <!-- <picture>
-              <source srcset="./assets/img/bg-content.webp" type="image/webp">
-              <img src="./assets/img/bg-content.png" alt="">
-            </picture> -->
-            <div class="contact-us-section">
-              <p class="contact-title">Our experience is also applicable to you</p>
-              <div class="row">
-                <div class="col-md-9">
-                  <p class="contact-content">Anda tertarik bekerja sama dengan kami dalam mengembangkan produk dalam bentuk website, aplikasi berbasis web, mobile app dan aplikasi mobile ?</p>
-                </div>
-                <div class="col-md-3">
-                  <a class="btn btn-default contact-button" href="/hubungi-kami.php">
-                    Hubungi Kami            
-                  </a>
+          </div>
+
+          <!-- <div class="row contact-container">
+            <div class="col-md-12">
+              <picture>
+                <source srcset="./assets/img/bg-content.webp" type="image/webp">
+                <img src="./assets/img/bg-content.png" alt="">
+              </picture>
+              <div class="contact-us-section">
+                <p class="contact-title">Our experience is also applicable to you</p>
+                <div class="row">
+                  <div class="col-md-9">
+                    <p class="contact-content">Anda tertarik bekerja sama dengan kami dalam mengembangkan produk dalam bentuk website, aplikasi berbasis web, mobile app dan aplikasi mobile ?</p>
+                  </div>
+                  <div class="col-md-3">
+                    <a class="btn btn-default contact-button" href="/hubungi-kami.php">
+                      Hubungi Kami            
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        </div>
+          </div> -->
 
+        </div>
+      </section>
+
+      <section class="case-study__banner-management">
+        <div class="p-0 rounded-lg container__">
+          <div class="p-y-20px p-x-30px">
+            <div class="row flex__row align-items-center banner-management">
+              <div class="col-xs-12 col-md-8">
+                <div class="d-flex align-items-center banner-management__content">
+                  <picture>
+                    <source srcset="/case-study/assets/img/icon-management.svg">
+                    <img src="/case-study/assets/img/icon-management.png" alt="project management" class="img-responsive m-r-10px">
+                  </picture>
+                  <div class="content__text">
+                    <p>Kami siap membantu Anda untuk mengelola</p>
+                    <b>Manajemen Project secara profesional</b>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-8 col-sm-6 col-md-3">
+                <a href="/layanan/project-management.php" class="form-control btn btn--yellow">SELENGKAPNYA</a>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 
