@@ -11,7 +11,7 @@ $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 if(isset($_POST['submitted']))
 {
 	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+		$secret = '<?php echo $secret ?>';
 		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
 		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
 		// print_r($verifyResponse); exit;
@@ -25,12 +25,14 @@ if(isset($_POST['submitted']))
 			$company_name            = $_POST['typecompany'].".".$_POST['company_name'];
 			$department_name        = $_POST['department_name'];
 			$url_social_media            = $_POST['url_social_media'];
-			$position        = $_POST['position'];
+            $position        = $_POST['position'];
+            $name        = $_POST['name'];
 			$email        = $_POST['email'];
 			$phone        = $_POST['phone'];
 			$verifikasi_code =  $_POST['verifikasi_code'];
 			$type_dokumen =  $_POST['type_dokumen'];
-			$whitepaper_regdate = date('Y-m-d H:i:s');
+            $whitepaper_regdate = date('Y-m-d H:i:s');
+            $approvalsumbit =  $_POST['approvalsumbit'];
 			//validasi data data kosong
 			if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
 				if ($formproc->ProcessForm()) {
@@ -39,7 +41,8 @@ if(isset($_POST['submitted']))
 			}
 			else {
 			mysqli_select_db($mysqli,$customerDBName);
-			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
+            $input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$name','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
+            
 			}
 				if ($formproc->ProcessForm()) {
 						$msg = "<div class='alert alert-success' id='msg' role='alert'>Terima kasih telah melakukan pengisian formulir kami, silakan cek email Anda untuk mendapatkan link download Whitepaper. [<a href='".$base_url."layanan/web-dev.php'>Klik Disini</a>] untuk kembali ke halaman Layanan Pembuatan Website LOGIQUE.</div>";
@@ -773,7 +776,7 @@ $kodeBarang = $result;
 										</p>
                                     </div>
 									
-                                
+                                    <input type='hidden' name='approvalsumbit' id='approvalsumbit' value='1' />
                                     <input type='hidden' name='submitted' id='submitted' value='1' />
                                     <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
@@ -873,7 +876,7 @@ $kodeBarang = $result;
 								</table>
 									<div class="col-sm-12" style="display:flex;justify-content:center; margin-bottom:1em">
                                         <div class="g-recaptcha pull-right"
-                                            data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+                                            data-sitekey="<?php echo $sitekey ?>"></div>
                                         <div class="clearfix"></div><br>
                                     </div>
                                     <div class="col-sm-4 col-sm-offset-4 paddingleft">
@@ -893,6 +896,7 @@ $kodeBarang = $result;
         </div>
 
         <?php include 'footer.php';?>
+        <script async  src='https://www.google.com/recaptcha/api.js'></script>
         <script>
         $(function() {
 			<?php if($co=='1'){ ?>
