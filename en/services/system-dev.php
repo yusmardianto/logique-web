@@ -1174,13 +1174,123 @@
                         <p>
                              <span class="logofont">LOGIQUE</span> also has the ability to build large-scale systems by combining Node.js and Express.js.
                         </p>
+                        
+                        <!-- New Section -->
+                        <p class="class-jamstack-1">LOGIQUE can also conduct web development through the utilization of <b>JAMstack</b> architecture</p>
+                        <section class="class-jamstack-3">
+                            <div class="row">
+                                <div class="col-md-offset-2 col-md-2 col-sm-4 text-center">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/Jamstackicon.webp" type="image/webp">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/Jamstackicon.png">
+                                    </picture>
+                                </div>
+                                <div class="col-md-7  col-sm-8 text-left">
+                                Web apps and websites developed using JAMstack technology perform efficiently and are secure. Doing so also leads to a reduction of Web operation costs.
+                                </div>
+                            </div>
+                        </section>
+                        <p class="class-jamstack-2">
+                            Benefits of JAMstack
+                        </p>
+                        <section class="class-jamstack-4">
+                            <div class="row">
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/stopwatch.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/stopwatch.png">
+                                    </picture>
+                                    <p>High performance</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/dollars-money.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/dollars-money.png">
+                                    </picture>
+                                    <p>Low operating costs</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/folder.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/folder.png">
+                                    </picture>
+                                    <p>High level security</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/idea.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/idea.png">
+                                    </picture>
+                                    <p>High scalability</p>
+                                </div>
+                            </div>
+                        </section>
+                        <p class="class-teknologi">
+                            JAMstack technology
+                        </p>
+                        <div class="sec-content-part success-service class-jamstack-5">
+                            <div class="page-content">
+                                <div class="success-service-list">
+                                    <div class="row rowflex col10">
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>Static site generator</h3>
+                                                    <p>Gatsby.js</p>
+                                                    <p>Next.js</p>
+                                                    <p>Hugo</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1 center">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>Headless CMS</h3>
+                                                    <p>Ghost</p>
+                                                    <p>Strapi</p>
+                                                    <p>Netlify cms</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>Hosting</h3>
+                                                    <p>Netlify</p>
+                                                    <p>Vercel</p>
+                                                    <p>AWS Amplify</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- New Section -->
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    <br>
+    <section class="content-section sixth-part class-jamstack-6">
+        <div class="sec-content-part contact-banner">
+            <div class="page-content">
+                <ul>
+                    <li class="text-left">Contact us now for optimal web based system development!<li>
+                    <li>
+                        <a href="/hubungi-kami.php" class="btn-yellow">Contact Us <span class="icon"> <img loading="lazy" src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
     <div class="content-wrapper__">
-    <?php include './assets/components/dm-links.php' ?>
+        <?php include './assets/components/dm-links.php' ?>
         <?php include './assets/components/other-services.php' ?>
     </div>
 <!--         <section class="content-section sixth-part">
@@ -1278,9 +1388,9 @@
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div> 
         </div>
-    </section>
+    </section>-->
      <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
      <?php include '../footer.php'; ?>
 
