@@ -189,11 +189,15 @@ class Fgwhitepaperform
                 } else { // non array (only one email)
                     $this->mailer->addAddress($this->receipent);
                 }
-                $this->mailer->addReplyTo($this->email);
+                if($_POST['approvalsumbit'] == 1){
+                    $this->mailer->addReplyTo($this->email);
+                }
             } else {
                 // You can change below value as static if needed
                 $the_receipent = (is_array($this->receipent)) ? $this->receipent[0] : $this->receipent ;
-                $this->mailer->addAddress($this->email, $this->name);
+                if($_POST['approvalsumbit'] == 1){
+                    $this->mailer->addAddress($this->email, $this->name);
+                }
                 $this->mailer->addReplyTo($the_receipent);
                 
             }
