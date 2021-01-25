@@ -206,7 +206,22 @@ class Fgwhitepaperform
             $this->mailer->SetFrom($this->fromEmail, $this->mailer->FromName);
 
             $this->mailer->Subject = $data['subject'];
-            $message = $this->ComposeFormtoEmail();
+            if ($key == 'message') {
+                if($_POST['approvalsumbit'] == 1){
+                    $message = $this->ComposeFormtoEmailAdmin();
+                }else{
+                    $message = $this->ComposeFormtoEmailAdminApprove();
+                }
+                
+            }else{
+                if($_POST['approvalsumbit'] == 1){
+                    $message = $this->ComposeFormtoEmail();
+                }else{
+                    $message = $this->ComposeFormtoEmailApprove();
+                }
+                
+            }
+            
 
             $textMsg = trim(strip_tags(preg_replace('/<(head|title|style|script)[^>]*>.*?<\/\\1>/s','',$message)));
             $this->mailer->AltBody = @html_entity_decode($textMsg,ENT_QUOTES,"UTF-8");
@@ -299,6 +314,17 @@ class Fgwhitepaperform
         return $ret_str;
     }
 
+    function LinkInfoToMailAdmin()
+    {
+        $ret_str='';
+		$white_paper_type = $_POST['white_paper_type'];
+		$code = $_POST['verifikasi_code']; 
+		$base_url = $_POST['base_url'];
+        $ret_str = "<td>".$white_paper_type." <a href='".$base_url."approval.php?code=".$code."' target='_blank'><strong>Approve</strong></a></td>";
+
+        return $ret_str;
+    }
+
     function GetMailStyle()
     {
         $retstr = "\n<style>".
@@ -329,7 +355,81 @@ class Fgwhitepaperform
     {
         $header = $this->GetHTMLHeaderPart();
         $formsubmission = $this->FormSubmissionToMail();
-		$linkInfotomail = $this->LinkInfoToMail();
+        $linkInfotomail = $this->LinkInfoToMail();
+        $extra_info = $this->ExtraInfoToMail();
+        $footer = $this->GetHTMLFooterPart();
+		$name = $_POST['name'];
+		
+			$message = "
+			<!DOCTYPE HTML>
+				<html>
+				<head>
+				  <meta charset='UTF-8'>
+				  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+				  <title>Terima kasih telah mengunduh Profil Perusahaan PT. Logique Digital Indonesia, ".$_POST['name']."</title>
+				</head>
+				<body style='font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';'>
+				  <div style='background-color: black; padding: 20px;'>
+					<img src='https://www.logique.co.id/img/logo.png' alt='Logique' style='width: 150px;'>
+				  </div>
+				  <p style='font-size: 16px;padding:20px;'>
+					<strong>Yth ".$name."</strong>
+					<br><br>
+					Terima kasih telah mengajukan permintaan whitepaper dari LOGIQUE DIGITAL INDONESIA.
+					<br><br>
+					Kami berharap whitepaper dari kami bermanfaat untuk Anda maupun perusahaan Anda.
+					Silakan klik link di bawah ini untuk mengunduh whitepaper kami. Kami sangat menghargai masukan dari Anda untuk meningkatkan kualitas kami dalam menyediakan informasi terbaik.
+					Silakan hubungi kami jika Anda membutuhkan informasi maupun sumber bermanfaat lainnya
+					<br><br>
+					Untuk mempelajari Logique Digital Indonesia, silakan kunjungi website kami <a href='https://www.logique.co.id' target='_blank'>logique.co.id</a>
+				  </p>
+				  <table style='border: 1px dashed #eee;font-size: 16px; background-color: #f8f8f8;' cellpadding='10' cellspacing='3'>
+					<tr>
+					  <td width='35%'><strong>Nama Perusahaan</strong></td>
+					  <td width='5%'>:</td>
+					  <td>".$_POST['company_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Nama Departmen</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['department_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Url Social Media</strong></td>
+					  <td>:</td>
+					  <td><a href='".$_POST['url_social_media']."' target='_blank'>".$_POST['url_social_media']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Posisi</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['position']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Email</strong></td>
+					  <td>:</td>
+					  <td><a href='mailto:".$_POST['email']."' target='_blank'>".$_POST['email']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Telepon</strong></td>
+					  <td>:</td>
+					  <td><a href='tel:".$_POST['phone']."' target='_blank'>".$_POST['phone']."</a></td>
+					</tr>
+				  </table>
+				  <div style='padding: 20px; line-height: 140%; font-size: 14px; color: #666;'>
+					PT LOGIQUE DIGITAL INDONESIA<br/> Ad Premier Building 19th Floor.<br/>Jalan Tb. Simatupang No. 5<br/>Ragunan, Ps. Minggu, Jakarta Selatan,<br/>Indonesia<br/>12550<br/>info@logique.co.id<br/>Tell: 0811-870-321
+				  </div>
+				</body>
+				</html>
+			";
+
+        return $message;
+    }
+
+    function ComposeFormtoEmailApprove()
+    {
+        $header = $this->GetHTMLHeaderPart();
+        $formsubmission = $this->FormSubmissionToMail();
+        $linkInfotomail = $this->LinkInfoToMail();
         $extra_info = $this->ExtraInfoToMail();
         $footer = $this->GetHTMLFooterPart();
 		$name = $_POST['name'];
@@ -392,6 +492,159 @@ class Fgwhitepaperform
 					  <td><strong>Link Download White Paper</strong></td>
 					  <td>:</td>
 					  {$linkInfotomail}
+					</tr>
+				  </table>
+				  <div style='padding: 20px; line-height: 140%; font-size: 14px; color: #666;'>
+					PT LOGIQUE DIGITAL INDONESIA<br/> Ad Premier Building 19th Floor.<br/>Jalan Tb. Simatupang No. 5<br/>Ragunan, Ps. Minggu, Jakarta Selatan,<br/>Indonesia<br/>12550<br/>info@logique.co.id<br/>Tell: 0811-870-321
+				  </div>
+				</body>
+				</html>
+			";
+
+        return $message;
+    }
+
+    function ComposeFormtoEmailAdmin()
+    {
+        $header = $this->GetHTMLHeaderPart();
+        $formsubmission = $this->FormSubmissionToMail();
+        $linkInfoToMailAdmin = $this->LinkInfoToMailAdmin();
+        $extra_info = $this->ExtraInfoToMail();
+        $footer = $this->GetHTMLFooterPart();
+		$name = $_POST['name'];
+		
+			$message = "
+			<!DOCTYPE HTML>
+				<html>
+				<head>
+				  <meta charset='UTF-8'>
+				  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+				  <title>Terima kasih telah mengunduh Profil Perusahaan PT. Logique Digital Indonesia, ".$_POST['name']."</title>
+				</head>
+				<body style='font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';'>
+				  <div style='background-color: black; padding: 20px;'>
+					<img src='https://www.logique.co.id/img/logo.png' alt='Logique' style='width: 150px;'>
+				  </div>
+				  <p style='font-size: 16px;padding:20px;'>
+					<strong>Yth ".$name."</strong>
+					<br><br>
+					Terima kasih telah mengajukan permintaan whitepaper dari LOGIQUE DIGITAL INDONESIA.
+					<br><br>
+					Kami berharap whitepaper dari kami bermanfaat untuk Anda maupun perusahaan Anda.
+					Silakan klik link di bawah ini untuk mengunduh whitepaper kami. Kami sangat menghargai masukan dari Anda untuk meningkatkan kualitas kami dalam menyediakan informasi terbaik.
+					Silakan hubungi kami jika Anda membutuhkan informasi maupun sumber bermanfaat lainnya
+					<br><br>
+					Untuk mempelajari Logique Digital Indonesia, silakan kunjungi website kami <a href='https://www.logique.co.id' target='_blank'>logique.co.id</a>
+				  </p>
+				  <table style='border: 1px dashed #eee;font-size: 16px; background-color: #f8f8f8;' cellpadding='10' cellspacing='3'>
+					<tr>
+					  <td width='35%'><strong>Nama Perusahaan</strong></td>
+					  <td width='5%'>:</td>
+					  <td>".$_POST['company_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Nama Departmen</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['department_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Url Social Media</strong></td>
+					  <td>:</td>
+					  <td><a href='".$_POST['url_social_media']."' target='_blank'>".$_POST['url_social_media']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Posisi</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['position']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Email</strong></td>
+					  <td>:</td>
+					  <td><a href='mailto:".$_POST['email']."' target='_blank'>".$_POST['email']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Telepon</strong></td>
+					  <td>:</td>
+					  <td><a href='tel:".$_POST['phone']."' target='_blank'>".$_POST['phone']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Link Approval Admin</strong></td>
+					  <td>:</td>
+					  {$linkInfoToMailAdmin}
+					</tr>
+				  </table>
+				  <div style='padding: 20px; line-height: 140%; font-size: 14px; color: #666;'>
+					PT LOGIQUE DIGITAL INDONESIA<br/> Ad Premier Building 19th Floor.<br/>Jalan Tb. Simatupang No. 5<br/>Ragunan, Ps. Minggu, Jakarta Selatan,<br/>Indonesia<br/>12550<br/>info@logique.co.id<br/>Tell: 0811-870-321
+				  </div>
+				</body>
+				</html>
+			";
+
+        return $message;
+    }
+
+    function ComposeFormtoEmailAdminApprove()
+    {
+        $header = $this->GetHTMLHeaderPart();
+        $formsubmission = $this->FormSubmissionToMail();
+        $linkInfoToMailAdmin = $this->LinkInfoToMailAdmin();
+        $extra_info = $this->ExtraInfoToMail();
+        $footer = $this->GetHTMLFooterPart();
+		$name = $_POST['name'];
+		
+			$message = "
+			<!DOCTYPE HTML>
+				<html>
+				<head>
+				  <meta charset='UTF-8'>
+				  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+				  <title>Terima kasih telah mengunduh Profil Perusahaan PT. Logique Digital Indonesia, ".$_POST['name']."</title>
+				</head>
+				<body style='font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';'>
+				  <div style='background-color: black; padding: 20px;'>
+					<img src='https://www.logique.co.id/img/logo.png' alt='Logique' style='width: 150px;'>
+				  </div>
+				  <p style='font-size: 16px;padding:20px;'>
+					<strong>Yth ".$name."</strong>
+					<br><br>
+					Terima kasih telah mengajukan permintaan whitepaper dari LOGIQUE DIGITAL INDONESIA.
+					<br><br>
+					Kami berharap whitepaper dari kami bermanfaat untuk Anda maupun perusahaan Anda.
+					Silakan klik link di bawah ini untuk mengunduh whitepaper kami. Kami sangat menghargai masukan dari Anda untuk meningkatkan kualitas kami dalam menyediakan informasi terbaik.
+					Silakan hubungi kami jika Anda membutuhkan informasi maupun sumber bermanfaat lainnya
+					<br><br>
+					Untuk mempelajari Logique Digital Indonesia, silakan kunjungi website kami <a href='https://www.logique.co.id' target='_blank'>logique.co.id</a>
+				  </p>
+				  <table style='border: 1px dashed #eee;font-size: 16px; background-color: #f8f8f8;' cellpadding='10' cellspacing='3'>
+					<tr>
+					  <td width='35%'><strong>Nama Perusahaan</strong></td>
+					  <td width='5%'>:</td>
+					  <td>".$_POST['company_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Nama Departmen</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['department_name']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Url Social Media</strong></td>
+					  <td>:</td>
+					  <td><a href='".$_POST['url_social_media']."' target='_blank'>".$_POST['url_social_media']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Posisi</strong></td>
+					  <td>:</td>
+					  <td>".$_POST['position']."</td>
+					</tr>
+					<tr>
+					  <td><strong>Email</strong></td>
+					  <td>:</td>
+					  <td><a href='mailto:".$_POST['email']."' target='_blank'>".$_POST['email']."</a></td>
+					</tr>
+					<tr>
+					  <td><strong>Telepon</strong></td>
+					  <td>:</td>
+					  <td><a href='tel:".$_POST['phone']."' target='_blank'>".$_POST['phone']."</a></td>
 					</tr>
 				  </table>
 				  <div style='padding: 20px; line-height: 140%; font-size: 14px; color: #666;'>

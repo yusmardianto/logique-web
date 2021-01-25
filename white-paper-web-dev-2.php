@@ -30,7 +30,8 @@ if(isset($_POST['submitted']))
 			$phone        = $_POST['phone'];
 			$verifikasi_code =  $_POST['verifikasi_code'];
 			$type_dokumen =  $_POST['type_dokumen'];
-			$whitepaper_regdate = date('Y-m-d H:i:s');
+            $whitepaper_regdate = date('Y-m-d H:i:s');
+            $approvalsumbit =  $_POST['approvalsumbit'];
 			//validasi data data kosong
 			if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
 				$msg = "<div class='alert alert-success' id='msg' role='alert'>Data Harap Dilengkapi</div>";
@@ -772,7 +773,7 @@ $kodeBarang = $result;
 										</p>
                                     </div>
 									
-                                
+                                    <input type='hidden' name='approvalsumbit' id='approvalsumbit' value='1' />
                                     <input type='hidden' name='submitted' id='submitted' value='1' />
                                     <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
