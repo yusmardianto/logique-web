@@ -11,7 +11,7 @@ $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 if(isset($_POST['submitted']))
 {
 	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-		$secret = '<?php echo $secret ?>';
+		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
 		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
 		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
 		// print_r($verifyResponse); exit;
@@ -876,7 +876,7 @@ $kodeBarang = $result;
 								</table>
 									<div class="col-sm-12" style="display:flex;justify-content:center; margin-bottom:1em">
                                         <div class="g-recaptcha pull-right"
-                                            data-sitekey="<?php echo $sitekey ?>"></div>
+                                            data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
                                         <div class="clearfix"></div><br>
                                     </div>
                                     <div class="col-sm-4 col-sm-offset-4 paddingleft">
