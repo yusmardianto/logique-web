@@ -41,20 +41,20 @@
      <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
      <meta name="description"
-         content="LOGIQUE: web based system development & website management services. Through agile development methods, we develop & design your web based system.">
+         content="Using Agile Development, LOGIQUE provides web system development & maintenance services in Jakarta, Indonesia, so as to sustain your web based system.">
      <meta name="keywords"
          content="System development, Web based systems, Web system, System maintenance">
      <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Web System Development Service | LOGIQUE Digital Indonesia">
+     <meta property="og:title" content="Web system development and maintenance services | LOGIQUE">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="LOGIQUE: web based system development & website management services. Through agile development methods, we develop & design your web based system.">
+         content="Using Agile Development, LOGIQUE provides web system development & maintenance services in Jakarta, Indonesia, so as to sustain your web based system.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <link rel="canonical" href="https://www.logique.co.id/en/services/system-dev.php">
-     <title>Web System Development Service | LOGIQUE Digital Indonesia</title>
+     <title>Web system development and maintenance services | LOGIQUE</title>
 
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/slick.css" rel="stylesheet"> 
@@ -63,16 +63,7 @@
     <link href="assets/css/style-systemdev.css" rel="stylesheet">    
     <!-- <link href="/css/style.css" rel="stylesheet preload" as="style" type="text/css" > -->
      <link rel="stylesheet preload prefetch" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&amp;display=swap" type="text/css" crossorigin="anonymous">
-     <script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-		
-		ga('create', 'UA-105878648-1', 'auto');
-		ga('send', 'pageview');
-		
-    </script>    
+     <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-105878648-1', 'auto');ga('send', 'pageview'); </script>
 
      <style>
         .breadcrumb-container .container__ {

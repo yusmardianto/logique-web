@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Protect your website, web app, & e-commerce from any cyber attack. Logique Digital Indonesia provides penetration test, security assessment, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
+        content="Protect and improve your company’s cyber security through penetration testing and the latest pentest tools, with a vulnerability assessment to root out risks.">
     <meta name="keywords"
         content="penetration test, penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Cyber Security & Pentesting via Penetration testing services">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/penetration-test.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="Protect your website, web app, & e-commerce from any cyber attack. Logique Digital Indonesia provides penetration test, security assessment, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
+        content="Protect and improve your company’s cyber security through penetration testing and the latest pentest tools, with a vulnerability assessment to root out risks.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Cyber Security & Pentesting via Penetration testing services</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">  
 
     <link rel="stylesheet" href="/css/sidebar-update.css" >
@@ -32,22 +32,7 @@
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
-    <script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-105878648-1', 'auto');
-    ga('send', 'pageview');
-    </script>
+    <script> (function(i, s, o, g, r, a, m){ i['GoogleAnalyticsObject']=r; i[r]=i[r] || function(){ (i[r].q=i[r].q || []).push(arguments)}, i[r].l=1 * new Date(); a=s.createElement(o), m=s.getElementsByTagName(o)[0]; a.async=1; a.src=g; m.parentNode.insertBefore(a, m)})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-105878648-1', 'auto'); ga('send', 'pageview');</script>
 </head>
 
 <body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-y: auto;">
