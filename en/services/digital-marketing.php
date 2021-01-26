@@ -6,23 +6,23 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="The best digital marketing agency & consultant in Jakarta, offering professional digital marketing services to increase your conversions | Call Us Now!">
+        content="Logique is a Jakarta based digital marketing agency, with digital marketing agents to help you with content marketing, social network services, etc.">
     <meta name="keywords"
         content="Digital Marketing Services indonesia, Digital Marketing Agency indonesia, Digital Marketing Agency Jakarta">
     <meta name="title"
-        content="Digital Marketing Agency Jakarta, Indonesia | LOGIQUE">
+        content="Digital Marketing Agency in Jakarta, Indonesia | LOGIQUE">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
      <meta property="og:title"
-         content="Digital Marketing Agency Jakarta, Indonesia | LOGIQUE">
+         content="Digital Marketing Agency in Jakarta, Indonesia | LOGIQUE">
      <meta property="og:type" content="website">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/services/digital-marketing.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-     <meta property="og:description" content="The best digital marketing agency & consultant in Jakarta, offering professional digital marketing services to increase your conversions | Call Us Now!">
+     <meta property="og:description" content="Logique is a Jakarta based digital marketing agency, with digital marketing agents to help you with content marketing, social network services, etc.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/services/digital-marketing.php">
-    <title>Digital Marketing Agency Jakarta, Indonesia | LOGIQUE</title>
+    <title>Digital Marketing Agency in Jakarta, Indonesia | LOGIQUE</title>
 
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
@@ -129,29 +129,29 @@
                         <p>With a variety of objectives such as,</p>
                         <div class="row text-left list__wrapper">
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-awareness.svg" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-awareness.svg" alt="" loading="lazy">
                                 <p>Brand Awareness</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-sales.svg" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-sales.svg" alt="" loading="lazy">
                                 <p>Sales</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-brand.svg" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-brand.svg" alt="" loading="lazy">
                                 <p>Brand Consideration</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-purchase.svg" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-purchase.svg" alt="" loading="lazy">
                                 <p>Purchase</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-engagement.svg" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-engagement.svg" alt="" loading="lazy">
                                 <p>Brand Engagement</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="/en/services/assets/img/img-digital-marketing/services-leads.svg" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/services-leads.svg" alt="" loading="lazy">
                                 <p>Leads, & etc.</p>
                             </div>
                         </div>
@@ -167,7 +167,7 @@
                 <p>Marketing trends have changed dramatically, Digital Marketing has become an important standard for business activities in almost every type of industry.</p>
                 <picture>
                     <source srcset="/en/services/assets/img/img-digital-marketing/trend-image.webp" type="image/webp"/>
-                    <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
+                    <img src="/en/services/assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive" loading="lazy">
                 </picture>
                 <p>By utilizing our years of successful experience in the development of many businesses local and globally, and supported by a team of professionals who have technical skills in developing the latest web systems and creative teams with content design and writing skills, we believe, we are able to provide real success for your business.</p>
             </div>
@@ -181,7 +181,7 @@
                         <div class="list__item">
                             <picture>
                                 <source srcset="/en/services/assets/img/img-digital-marketing/get-awareness.webp" type="image/webp"/>
-                                <img src="/en/services/assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="" loading="lazy">
                             </picture>
                             <p>Increase brand <br>awareness</p>
                         </div>
@@ -190,7 +190,7 @@
                         <div class="list__item">
                             <picture>
                                 <source srcset="/en/services/assets/img/img-digital-marketing/get-sales.webp" type="image/webp"/>
-                                <img src="/en/services/assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="" loading="lazy">
                             </picture>
                             <p>Increase Sales / <br>Transaction Numbers</p>
                         </div>
@@ -199,7 +199,7 @@
                         <div class="list__item">
                             <picture>
                                 <source srcset="/en/services/assets/img/img-digital-marketing/get-user.webp" type="image/webp"/>
-                                <img src="/en/services/assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="" loading="lazy">
                             </picture>
                             <p> Increase user / <br>customer database</p>
                         </div>
@@ -208,7 +208,7 @@
                         <div class="list__item">
                         <picture>
                                 <source srcset="/en/services/assets/img/img-digital-marketing/get-interaction.webp" type="image/webp"/>
-                                <img src="/en/services/assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="">
+                                <img src="/en/services/assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="" loading="lazy">
                             </picture>
                             <p>Increase user <br>interaction</p>
                         </div>
@@ -261,25 +261,25 @@
                         <div class="row dm__list-circle">
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Programming</p>
                             </div>
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Design</p>
                             </div>
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Writing</p>
                             </div>
                             <div class="col-md-3 col-xs-6">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
+                                    <img src="/en/services/assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Digital Marketing</p>
                             </div>
@@ -296,7 +296,7 @@
                 <div class="row dm__list-circle dm__list-circle--white">
                     <div class="col-md-offset-4 col-md-4">
                         <div class="list-circle__img">
-                            <img src="/en/services/assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
+                            <img src="/en/services/assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -313,19 +313,19 @@
                         <div class="row dm__list-circle">
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Long-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Medium-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
+                                    <img src="/en/services/assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Short-term <br>Plan</p>
                             </div>                            
@@ -341,7 +341,7 @@
                 <a href="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
                     <picture>
                         <source srcset="/en/services/assets/img/img-digital-marketing/lgq-teamwork.webp" type="image/webp"/>
-                        <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
+                        <img src="/en/services/assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive" loading="lazy">
                     </picture>
                 </a>
             </div>
@@ -353,7 +353,7 @@
     </div>
 
     <?php include '../footer.php'; ?>
-    <script  src='assets/js/modernizr-custom.js'></script>
+    <script src='assets/js/modernizr-custom.js'></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
     <script>
         $(document).on('click','[data-toggle="lightbox"]',function(event){event.preventDefault();$(this).ekkoLightbox();});

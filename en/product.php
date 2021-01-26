@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
+        content="With HR management systems, report tools, & website creation & maintenance on offer, LOGIQUE can make your preferred website / application to grow your business.">
     <meta name="keywords"
         content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="HR Cloud Tool | Daily Report, Recruitment Management System | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Website Creation Services & HR Management Systems | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/product.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
-        content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
-    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>HR Cloud Tool | Daily Report, Recruitment Management System | LOGIQUE Digital Indonesia</title>
+        content="With HR management systems, report tools, & website creation & maintenance on offer, LOGIQUE can make your preferred website / application to grow your business.">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Website Creation Services & HR Management Systems | LOGIQUE</title>
     
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">

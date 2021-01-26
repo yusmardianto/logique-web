@@ -137,7 +137,7 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
-                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/jp/"><span
                                         itemprop="name">ホーム</span></a>
                                 <meta itemprop="position" content="1" />
                             </li>
@@ -163,29 +163,29 @@
                         <p>下記のようなゴールを追求します</p>
                         <div class="row text-left list__wrapper">
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-awareness.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-awareness.svg" alt="" loading="lazy">
                                 <p>Brand Awareness</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-sales.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-sales.svg" alt="" loading="lazy">
                                 <p>Sales</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-brand.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-brand.svg" alt="" loading="lazy">
                                 <p>Brand Consideration</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-purchase.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-purchase.svg" alt="" loading="lazy">
                                 <p>Purchase</p>
                             </div>
                             <div class="clearfix hidden-sm"></div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-engagement.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-engagement.svg" alt="" loading="lazy">
                                 <p>Brand Engagement</p>
                             </div>
                             <div class="col-md-6 col-xs-12">
-                                <img src="assets/img/img-digital-marketing/services-leads.svg" alt="">
+                                <img src="assets/img/img-digital-marketing/services-leads.svg" alt="" loading="lazy">
                                 <p>Leads, & etc.</p>
                             </div>
                         </div>
@@ -213,25 +213,25 @@
                 <div class="row get__list">
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-awareness.jpg" class="img-responsive" alt="" loading="lazy">
                             <p>Increase brand <br>awareness</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-sales.jpg" class="img-responsive" alt="" loading="lazy">
                             <p>Increase Sales / <br>Transaction Numbers</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-user.jpg" class="img-responsive" alt="" loading="lazy">
                             <p> Increase user / <br>customer database</p>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 col-xs-12">
                         <div class="list__item">
-                            <img src="assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="">
+                            <img src="assets/img/img-digital-marketing/get-interaction.jpg" class="img-responsive" alt="" loading="lazy">
                             <p>Increase user <br>interaction</p>
                         </div>
                     </div>
@@ -283,25 +283,25 @@
                         <div class="row dm__list-circle">
                             <div class="col-md-3 col-sm-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-coding.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Programming</p>
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-design.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Design</p>
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-writing.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Writing</p>
                             </div>
                             <div class="col-md-3 col-sm-6">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/strong-dm.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Digital Marketing</p>
                             </div>
@@ -319,7 +319,7 @@
                 <div class="row dm__list-circle dm__list-circle--white">
                     <div class="col-md-offset-4 col-md-4">
                         <div class="list-circle__img">
-                            <img src="assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive">
+                            <img src="assets/img/img-digital-marketing/material-chat.svg" alt="" class="img-responsive" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -336,19 +336,19 @@
                         <div class="row dm__list-circle">
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-long.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Long-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-medium.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Medium-term <br>Plan</p>
                             </div>                            
                             <div class="col-md-4">
                                 <div class="list-circle__img">
-                                    <img src="assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive">
+                                    <img src="assets/img/img-digital-marketing/analysis-short.svg" alt="" class="img-responsive" loading="lazy">
                                 </div>
                                 <p>Short-term <br>Plan</p>
                             </div>                            
