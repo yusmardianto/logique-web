@@ -42,17 +42,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
+    <meta name="description" content="We employ PMP certified project managers & Jakarta based project management professionals who lead IT / DX projects to success. Raise your business with LOGIQUE.">
     <meta name="keywords" content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Project Management | LOGIQUE">
+    <meta property="og:title" content="Project Management | LOGIQUE DIGITAL INDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/project-management.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
+    <meta property="og:description" content="We employ PMP certified project managers & Jakarta based project management professionals who lead IT / DX projects to success. Raise your business with LOGIQUE.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Project Management | LOGIQUE</title>
+    <title>Project Management | LOGIQUE DIGITAL INDONESIA</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
@@ -82,7 +82,7 @@ if(isset($_POST['submitted']))
     <?php 
         // $active option are home, about, portfolio, services, product, career, contact
         $active = 'services';
-        include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
     ?>
 
     <!-- HEADER -->
@@ -92,7 +92,7 @@ if(isset($_POST['submitted']))
       $en_link = '#';
       $id_link = '/layanan/project-management.php';
       $jp_link = '/jp/services/project-management.php';
-      include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+      include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
     ?>
 
     <!-- END HEADER -->
