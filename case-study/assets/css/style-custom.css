@@ -74,7 +74,32 @@ footer * {
 #bgImg .title-index {
     margin-top: 10px;
 }
-.case-study .pill-container .filter-button {
+
+/* banner */
+.case-study__banner-whitepaper .container__ {
+    background: url("/case-study/assets/img/bg-whitepaper.jpg") center/cover no-repeat;
+    background-image: url("/case-study/assets/img/bg-whitepaper.webp");
+}
+
+.case-study__banner-management .container__ {
+    background: url("/case-study/assets/img/bg-management.jpg") center/cover no-repeat;
+    background-image: url("/case-study/assets/img/bg-management.webp");
+}
+
+/* pilll container */
+.case-study .pill-container {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.case-study .pill-container .btn {
+    margin: 0 10px 10px; 
+    border-radius: 20px;
+    width: calc((100% / 5) - 24px);
+    opacity: .6;
+}
+
+/* .case-study .pill-container .filter-button {
     background: rgb(255, 202, 0);
     border: 1px solid rgb(236, 188, 1);
     border-radius: 20px;
@@ -87,7 +112,8 @@ footer * {
     margin-right: 13px;
     margin-bottom: 10px;
     opacity: .6;
-}
+} */
+
 .case-study .pill-container .filter-button:hover {
    transition: .5s ease;
    opacity: 1;
@@ -103,8 +129,9 @@ footer * {
 .case-study .card-container {
     margin-top: 80px;
 }
+
 .case-study .card-container .col-xs-12 {
-    height: 350px;
+    /* height: 350px; */
     margin-bottom: 30px;
 }
 .case-study .card-container .img-container {
@@ -198,26 +225,28 @@ footer * {
         padding: 1.5em;
         margin-left: 140px;
     }
-    .case-study .pill-container .filter-button {
-        width: 191px;
-    }
-    .case-study .pill-container .filter-button:last-child {
-        margin-right: 0;
-    }
-    .case-study .contact-container p.contact-content {
-        /* width: 550px; */
-    }
     .case-study .contact-container p.contact-title {
         font-size: 28px;
     }
 }
 @media (max-width: 1024px) {
-    .case-study .pill-container .filter-button {
-        width: 156px;
+    /* banner */
+    .case-study__banner-whitepaper .container__,
+    .case-study__banner-management .container__ {
+        border-radius: 0 !important;
     }
-    /* .top-only #bgImg {
-        width: 106%;
-    } */
+    [class*="case-study__banner-"] .container__ [class*="banner-"] {
+        justify-content: center;
+    }
+    [class*="case-study__banner-"] .container__ [class*="banner-"] .btn {
+        margin-top: 15px;
+    }
+
+    .case-study .pill-container .btn {
+        width: calc((100% / 3) - 24px);
+        margin-left: 5px;
+        margin-right: 5px;
+    }
     .case-study .card-container .img-container img {
        width: 100%;
     } 
@@ -255,6 +284,15 @@ footer * {
     }
 }
 @media (max-width: 767.98px) {
+    /* banner */
+    [class*="case-study__banner-"] .container__ [class*="banner-"] [class*="__content"] {
+        justify-content: center;
+    }
+    [class*="case-study__banner-"] .container__ [class*="banner-"] [class*="__content"] [class*="__text"] {
+        margin-top: 10px;
+        text-align: center;
+    }
+    
     .top-only #bgImg {
         height: auto;
         margin-top: 10rem;
@@ -312,8 +350,13 @@ footer * {
     .dm__links .links__item > div {
         padding-top: unset !important;
     } 
-    .case-study .pill-container .filter-button {
+    /* .case-study .pill-container .filter-button {
         width: 171px;
+    } */    
+    .case-study .pill-container .btn {
+        width: calc((100% / 2) - 13px);
+        margin-left: 5px;
+        margin-right: 5px;
     }
     .logo--update-design {
         margin-left: 90px;
@@ -344,10 +387,10 @@ footer * {
     #bgImg .title-index {
         margin-top: 0;
     }
-    .case-study .pill-container {
+    /* .case-study .pill-container {
         display: grid;
         grid-template-columns: auto auto;
-    }
+    } */
     .case-study .card-container .col-xs-12 {
         height: auto;
         flex: 1 100%;
@@ -386,7 +429,8 @@ footer * {
 
 @media (max-width: 360px) {
     .case-study .pill-container .filter-button {
-        width: 150px;
+        /* width: 150px; */
+        white-space: normal;
         font-size: 13px;
     }
     .case-study .contact-container p.contact-title {
