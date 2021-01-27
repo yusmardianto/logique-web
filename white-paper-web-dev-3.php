@@ -26,18 +26,20 @@ if(isset($_POST['submitted']))
 			$department_name        = $_POST['department_name'];
 			$url_social_media            = $_POST['url_social_media'];
 			$position        = $_POST['position'];
+			$name        = $_POST['name'];
 			$email        = $_POST['email'];
 			$phone        = $_POST['phone'];
 			$verifikasi_code =  $_POST['verifikasi_code'];
 			$type_dokumen =  $_POST['type_dokumen'];
-			$whitepaper_regdate = date('Y-m-d H:i:s');
+            $whitepaper_regdate = date('Y-m-d H:i:s');
+            $approvalsumbit =  $_POST['approvalsumbit'];
 			//validasi data data kosong
 			if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
 				$msg = "<div class='alert alert-success' id='msg' role='alert'>Data Harap Dilengkapi</div>";
 			}
 			else {
 			mysqli_select_db($mysqli,$customerDBName);
-			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
+            $input = mysqli_query($mysqli,"INSERT INTO al_white_papers (white_paper_id,white_paper_type,company_name,department_name,url_social_media,position,name,email,phone,verifikasi_code,verifikasi_type,whitepaper_regdate) VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$name','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");		
 			
 			}
 				if ($formproc->ProcessForm()) {
@@ -771,7 +773,8 @@ $kodeBarang = $result;
 											?>
 										</p>
                                     </div>
-									
+
+                                    <input type='hidden' name='approvalsumbit' id='approvalsumbit' value='1' />
                                     <input type='hidden' name='submitted' id='submitted' value='1' />
                                     <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
