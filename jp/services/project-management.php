@@ -84,7 +84,7 @@ if(isset($_POST['submitted']))
     <?php 
         // $active option are home, about, portfolio, services, product, career, contact
         $active = 'services';
-        include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
     ?>
 
     <!-- HEADER -->
@@ -94,7 +94,7 @@ if(isset($_POST['submitted']))
       $en_link = '/en/services/project-management.php';
       $id_link = '/layanan/project-management.php';
       $jp_link = '#';
-      include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+      include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
     ?>
 
     <!-- END HEADER -->
