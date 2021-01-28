@@ -57,7 +57,7 @@ if(isset($_POST['submitted']))
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-pm.css?v=1.0.4" rel="stylesheet">
-    <link rel="canonical" href="https://www.logique.co.id/en/services/project-management.php" />
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/project-management.php" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;500;700&display=swap" rel="stylesheet">
     <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet"> -->    
