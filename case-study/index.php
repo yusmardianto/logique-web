@@ -164,7 +164,7 @@
 
     <div class="content-wrapper__">
 
-      <div class="bg-white-opacity"></div>
+      <!-- <div class="bg-white-opacity"></div> -->
 
       <div id="bgImg">
         <div class="img homepage-hero">
@@ -202,7 +202,7 @@
                     <img src="/case-study/assets/img/icon-whitepaper.png" alt="download whitepaper" class="img-responsive m-r-10px">
                   </picture>
                   <div class="content__text">
-                    <b>Dapatkan white paper</b>
+                    <b class="text-uppercase">Dapatkan white paper</b>
                     <p>Pengembangan Website & Sistem Keamanan Website</p>
                   </div>
                 </div>
@@ -402,7 +402,7 @@
         </div>
       </section>
 
-      <section class="case-study__banner-management">
+      <section class="m-b-30px case-study__banner-management">
         <div class="p-0 rounded-lg container__">
           <div class="p-y-20px p-x-30px">
             <div class="row flex__row align-items-center banner-management">
@@ -414,7 +414,7 @@
                   </picture>
                   <div class="content__text">
                     <p>Kami siap membantu Anda untuk mengelola</p>
-                    <b>Manajemen Project secara profesional</b>
+                    <b class="text-uppercase">Manajemen Project secara profesional</b>
                   </div>
                 </div>
               </div>
@@ -424,10 +424,70 @@
             </div>
           </div>
         </div>
+      </section>      
+
+      <section class="bg--white case-study__interview">
+        <div class="container__">
+          <h2 class="section-title fs--24px">Interview</h2>
+ 
+          <div class="m-t-30px flex__row case-study__slide case-study__case-item">
+            <div class="col-md-4 col-sm-6 col-xs-12">
+              <a target="_blank" href="https://www.logique.co.id/blog/2020/11/13/interview-jba-standardisasi-dan-dx-dalam-industri-lelang-mobil/" class="case-item">
+                <picture>
+                  <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
+                  <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
+                </picture>
+                <h6>November 2020</h6>
+                <h4>PT JBA INDONESIA: Standardisasi dan DX dalam industri lelang mobil </h4>                
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+              <a target="_blank" href="https://www.logique.co.id/blog/2021/02/01/interview-panin-dai-ichi-life/" class="case-item">
+                <picture>
+                  <source srcset="/img/case-study-panin-interview.webp" type="image/webp">
+                  <img src="/img/case-study-panin-interview.jpg" class="img-responsive case-item__img" alt="Panin Interview" loading="lazy">
+                </picture>
+                <h6>Januari 2021</h6>
+                <h4>Panin Dai-ichi Life: Perkembangan Teknologi Asuransi di Indonesia</h4>                
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12">
+              <a href="#" class="case-item">
+                <picture>
+                  <source srcset="/img/case-study-dummy.webp" type="image/webp">
+                  <img src="/img/case-study-dummy.jpg" class="img-responsive case-item__img" alt="Klikhoreca"  loading="lazy">
+                </picture>
+                <h6>Januari 2021</h6>
+                <h4>Tokoparts:  Lorem Ipsum is simply dummy text of the printing</h4>                
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+              </a>
+            </div>
+          </div>
+
+        </div>
       </section>
 
+      <?php include '../layanan/assets/components/dm-links.php' ?>
+
+      <section class="m-t-30px m-b-30px case-study__banner-contact">
+        <div class="p-0 rounded-lg container__">
+          <div class="p-y-10px p-x-30px">
+            <div class="row flex__row align-items-center justify-content-end banner-case-contact">
+              <div class="col-xs-12 col-md-8">
+                <h3 class="fs--30px">Let’s Learn Together!</h3>
+                <p>Anda tertarik bekerja sama dengan kami dalam mengembangkan produk dalam bentuk website, aplikasi berbasis web, mobile app dan aplikasi mobile ?</p>
+              </div>
+              <div class="col-xs-8 col-sm-6 col-md-2">
+                <a href="/hubungi-kami.php" class="form-control btn btn--yellow">Hubungi Kami</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      
     </div>
-    <?php include '../layanan/assets/components/dm-links.php' ?>
 
   </div>
 
