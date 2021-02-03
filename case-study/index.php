@@ -453,7 +453,7 @@
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
-            <div class="col-md-4 col-sm-6 col-xs-12">
+            <!-- <div class="col-md-4 col-sm-6 col-xs-12">
               <a href="#" class="case-item">
                 <picture>
                   <source srcset="/img/case-study-dummy.webp" type="image/webp">
@@ -463,7 +463,7 @@
                 <h4>Tokoparts:  Lorem Ipsum is simply dummy text of the printing</h4>                
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
-            </div>
+            </div> -->
           </div>
 
         </div>

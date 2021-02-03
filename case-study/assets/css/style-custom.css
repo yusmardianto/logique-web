@@ -169,6 +169,18 @@ footer * {
     /* height: 350px; */
     margin-bottom: 30px;
 }
+.case-study .card-container .links__item {
+    display: block;
+    position: relative;
+    padding: 10px;
+    border: solid 1px #efefef;
+    transition: box-shadow .15s ease-in-out;
+    height: 100%;
+}
+
+.case-study .card-container .links__item:hover {
+    box-shadow: 0px 29px 19px -16px rgba(0, 0, 0, 0.25);
+}
 .case-study .card-container .img-container {
     position: relative;
 }
@@ -176,7 +188,7 @@ footer * {
     position: absolute;
     background-color:rgb(255, 202, 0);
     color: #000;
-    top: 0;
+    top: 10px;
     font-size: 10px;
     padding: 5px;
     text-transform: uppercase;
@@ -298,9 +310,9 @@ footer * {
         line-height: 27px;
         top: 55px;
     }
-    .case-study .card-container .col-xs-12 {
+    /* .case-study .card-container .col-xs-12 {
         height: 300px;
-    }
+    } */
     .case-study .contact-container p.contact-title {
         font-size: 26px;
         top: 10px;
@@ -332,6 +344,12 @@ footer * {
         margin-top: 10px;
         text-align: center;
     }
+
+    /* interview */
+    .case-study__interview .case-study__case-item > div:not(:last-child) {
+        margin-bottom: 30px;
+    }
+
     
     .top-only #bgImg {
         height: auto;
