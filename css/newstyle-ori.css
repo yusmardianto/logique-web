@@ -458,11 +458,19 @@ video {
 .align-items-center {
     align-items: center;
 }
+
+.justify-content-end {
+    justify-content: flex-end;
+}
 /* end display */
 
 /* spacing */
 .m-t-30px {
     margin-top: 30px;
+}
+
+.m-b-30px {
+    margin-bottom: 30px;
 }
 
 .m-r-10px {
@@ -473,12 +481,17 @@ video {
     padding: 0 !important;
 }
 
+.p-t-10px,
+.p-y-10px {
+    padding-top: 10px;
+}
 .p-t-20px,
 .p-y-20px {
     padding-top: 20px;
 }
 
-.p-b-10px {
+.p-b-10px,
+.p-y-10px {
     padding-bottom: 10px;
 }
 .p-b-20px,
