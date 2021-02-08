@@ -167,7 +167,7 @@
                 <ul class="career-list">
                   <li>Membantu <em>key PIC</em> dalam membuat <em>test plan</em>.</li>
                   <li>Mengembangkan <em>test case</em> dan <em>test scenario</em> berdasarkan dokumen <em>business requirements</em> (BRD, SRS, dan FSD) dan <em>test plan</em>.</li>
-                  <li>Melakukan rangkaian proses testing (<em>functionaity test, integration test, smoke test, regression test</em>) pada aplikasi yang dikembangkan serta mendukung proses UAT di sisi <em>business users</em> (berdasarkan <em>test case</em> dan <em>test scenario</em> yang ada)</li>
+                  <li>Melakukan rangkaian proses testing (<em>functionality test, integration test, smoke test, regression test</em>) pada aplikasi yang dikembangkan serta mendukung proses UAT di sisi <em>business users</em> (berdasarkan <em>test case</em> dan <em>test scenario</em> yang ada)</li>
                   <li>Melakukan <em>performance test</em> sesuai dengan kebutuhan / <em>requirements</em>.</li>
                   <li>Mendokumentasikan hasil test dan mampu mempresentasikan ke <em>department</em> terkait</li>
                 </ul>
