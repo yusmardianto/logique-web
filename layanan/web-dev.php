@@ -149,19 +149,12 @@ if(isset($_POST['submitted']))
                             <div class="col-md-6 "></div>
                             <div class="col-md-6 col-sm-12">
                                 <h1 class="title">
-                                    <span>Jasa Pembuatan Website LOGIQUE</span>
+                                    <span>Jasa Pembuatan Website <span class="logo-font">LOGIQUE</span></span>
                                 </h1>
                                 <div class="content">
-                                    <p>
-                                    LOGIQUE memiliki layanan pembuatan website berstandar tinggi yang dapat membantu Anda menarik banyak pengunjung, menambah kontak bisnis, dan meningkatkan jumlah pelamar bagi perusahaan Anda. 
-                                    </p>
-
-                                    <p>
-                                        Bila Anda ingin menggunakan Website sebagai kanal utama dalam pemasaran produk atau layanan yang dimiliki, membuat perbedaan dengan kompetitor, atau memperkuat sisi rekrutmen silakan menghubungi LOGIQUE.<br>
-                                    </p>
-                                    <p>
-                                        Dengan pengalaman dan hasil yang telah teruji, LOGIQUE siap membantu Anda.
-                                    </p>
+                                   <p><span class="logo-font">LOGIQUE</span> menyediakan Jasa Pembuatan Website Profesional dengan standar tinggi yang dapat membantu Anda untuk menarik lebih banyak pengunjung, menambah kontak bisnis, dan meningkatkan jumlah pelamar bagi perusahaan Anda.</p>
+                                    <p>Bila Anda ingin menggunakan Website sebagai kanal utama dalam pemasaran produk atau layanan yang dimiliki, membuat perbedaan dengan kompetitor, atau memperkuat sisi rekrutmen silahkan menghubungi <span class="logo-font">LOGIQUE</span>.</p>
+                                    <p>Dengan pengalaman dan hasil yang telah teruji, <span class="logo-font">LOGIQUE</span> siap membantu Anda.</p>
                                 </div>
                             </div>
                         </div> 
@@ -174,9 +167,9 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-7 col-sm-6">
-                    <p class="about-title">Anda Perlu Jasa Pembuatan Website Berstandar Internasional? Pilih LOGIQUE!</p>
+                    <p class="about-title">Anda Perlu Jasa Pembuatan Website Berstandar Internasional? Pilih <span class="logo-font">LOGIQUE</span>!</p>
                     <p class="about-content">
-                    LOGIQUE telah mengembangkan lebih dari 200 website untuk klien-klien Internasional dan Lokal. Proyek-proyek yang kami kerjakan bervariasi, di antaranya seperti permintaan website dengan tingkat keamanan dan kualitas yang sangat tinggi yang diperuntukan bagi perusahaan yang berafiliasi dengan lembaga pemerintahan ataupun perusahaan yang bergerak di bidang keuangan. Selain itu ada juga proyek pembuatan website yang membutuhkan tingkat kreativitas desain yang tinggi dan kemampuan pemrograman yang rumit. Dalam melakukan pembuatan website kami memberikan pendekatan fleksibel dengan fokus pada kecepatan penyelesaian proyek namun tidak melupakan kualitas, dan Anda juga tidak perlu khawatir karena harga yang kami berikan masih cukup terjangkau. Jika Anda memerlukan jasa pembuatan website yang dapat dipercaya silakan hubungi LOGIQUE.
+                    <span class="logo-font">LOGIQUE</span> telah mengembangkan lebih dari 200 website untuk klien-klien Internasional dan Lokal. Proyek-proyek yang kami kerjakan bervariasi, di antaranya seperti permintaan website dengan tingkat keamanan dan kualitas yang sangat tinggi yang diperuntukan bagi perusahaan yang berafiliasi dengan lembaga pemerintahan ataupun perusahaan yang bergerak di bidang keuangan. Selain itu ada juga proyek pembuatan website yang membutuhkan tingkat kreativitas desain yang tinggi dan kemampuan pemrograman yang rumit. Dalam melakukan pembuatan website kami memberikan pendekatan fleksibel dengan fokus pada kecepatan penyelesaian proyek namun tidak melupakan kualitas, dan Anda juga tidak perlu khawatir karena harga yang kami berikan masih cukup terjangkau. Jika Anda memerlukan jasa pembuatan website yang dapat dipercaya silakan hubungi <span class="logo-font">LOGIQUE</span>.
                     </p>
                 </div>
                 <div class="col-md-5 col-sm-6">
@@ -221,10 +214,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-7 col-sm-7">
-                    <p class="discuss-title">Dari LOGIQUE untuk Anda</p>
+                    <p class="discuss-title">Dari <span class="logo-font">LOGIQUE</span> untuk Anda</p>
                     <div class="discuss-content">
                         <p>
-                            LOGIQUE ingin menghasilkan Website yang bermanfaat untuk Anda!
+                            <span class="logo-font">LOGIQUE</span> ingin menghasilkan Website yang bermanfaat untuk Anda!
                         </p>
                         <p>
                             Kami tahu Anda telah menginvestasikan uang Anda dalam pembuatan Website, untuk itu kami berusaha untuk memproduksi sebuah Website yang dapat memberikan ROI yang maksimal untuk Anda.
@@ -255,7 +248,7 @@ if(isset($_POST['submitted']))
                                 Khususnya di Indonesia sudah banyak kekecewaan yang timbul dari hasil pengembangan website yang kualitasnya tidak sesuai dengan ekspektasi dan meleset dari tanggal penyelesaian yang sudah ditentukan akibat menggunakan jasa pembuatan website yang kurang baik.  Masih ada pelaku bisnis yang berpikir bahwa digital tidak terlalu penting dan hanya mencari layanan berdasarkan harga yang paling murah, alhasil alih-alih mengefisiensikan biaya yang terjadi adalah lebih banyak waktu dan biaya tambahan yang terbuang dalam pengembangan website tersebut.
                                 </p>
                                 <p class="announce-p mb-0">
-                                LOGIQUE hadir untuk memberikan kenyamanan bagi para pelaku bisnis dengan memberikan layanan profesional terbaik dalam pembuatan website dengan harga yang sebanding dengan kualitas yang kami berikan. Dengan investasi yang tepat Anda dapat memperoleh hasil yang maksimal untuk bisnis Anda.
+                                <span class="logo-font">LOGIQUE</span> hadir untuk memberikan kenyamanan bagi para pelaku bisnis dengan memberikan layanan profesional terbaik dalam pembuatan website dengan harga yang sebanding dengan kualitas yang kami berikan. Dengan investasi yang tepat Anda dapat memperoleh hasil yang maksimal untuk bisnis Anda.
                                 </p>
                             </div>
                         </div>
@@ -268,14 +261,14 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="division-title">Dukungan yang LOGIQUE Berikan dalam Pembuatan Website</p>
+                    <p class="division-title">Dukungan yang <span class="logo-font">LOGIQUE</span> Berikan dalam Pembuatan Website</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4">
                     <div class="division-container">
                         <p class="title">Layanan Pembuatan Website “One-Stop”</p>
-                        <p class="content">LOGIQUE memberikan dukungan penuh mulai dari Perencanaan dan Konsultasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
+                        <p class="content"><span class="logo-font">LOGIQUE</span> memberikan dukungan penuh mulai dari Perencanaan dan Konsultasi, Desain, Pemrograman, Pengoperasian atau Pengelolaan Website hingga Pemasaran Digital yang mencakup pembuatan konten, peningkatan SEO, dan pengelolaan iklan digital.</p>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -379,7 +372,7 @@ if(isset($_POST['submitted']))
                     <div class="system-part flow-part">
                         <img loading="lazy" src="assets/img/img-webdev/feature/control-panel.png" alt="システム構築">
                         <h3>Pembuatan Sistem Berbasis Web</h3>
-                        <p>LOGIQUE dapat membantu Anda mengembangkan sistem berbasis web mulai dari manajemen konten (CMS), fungsi-fungsi khusus yang dibuat sesuai dengan kebutuhan, hingga integrasi dengan sistem-sistem eksternal menggunakan Web Service (API). Kami ahli dalam mengembangkan sistem berbasis web menggunakan Laravel, .Net, NodeJS, dan lain-lain.</p>
+                        <p><span class="logo-font">LOGIQUE</span> dapat membantu Anda mengembangkan sistem berbasis web mulai dari manajemen konten (CMS), fungsi-fungsi khusus yang dibuat sesuai dengan kebutuhan, hingga integrasi dengan sistem-sistem eksternal menggunakan Web Service (API). Kami ahli dalam mengembangkan sistem berbasis web menggunakan Laravel, .Net, NodeJS, dan lain-lain.</p>
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
@@ -398,7 +391,7 @@ if(isset($_POST['submitted']))
             <div class="row">
                 <div class="col-md-12">
                     <p class="title">Portofolio Pembuatan Website</p>
-                    <p class="content">Berikut adalah beberapa contoh hasil produksi web LOGIQUE.
+                    <p class="content">Berikut adalah beberapa contoh hasil produksi web <span class="logo-font">LOGIQUE</span>.
                     </p>
                 </div>
             </div>
@@ -423,8 +416,8 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="title">Strategi Pengembangan Website di Logique</p>
-                    <p class="subtitle">Sebagai perusahaan profesional dalam bidang pembuatan web, Logique memiliki standar pelaksanaan dan strategi yang dapat memastikan website yang kami hasilkan berkualitas tinggi dan bermanfaat untuk tujuan bisnis Anda. Berikut adalah beberapa contoh gambaran strategi yang diterapkan oleh LOGIQUE.</p>
+                    <p class="title">Strategi Pengembangan Website di <span class="logo-font">Logique</span></p>
+                    <p class="subtitle">Sebagai perusahaan profesional dalam bidang pembuatan web, <span class="logo-font">Logique</span> memiliki standar pelaksanaan dan strategi yang dapat memastikan website yang kami hasilkan berkualitas tinggi dan bermanfaat untuk tujuan bisnis Anda. Berikut adalah beberapa contoh gambaran strategi yang diterapkan oleh <span class="logo-font">LOGIQUE</span>.</p>
                 </div>
             </div>
             <div class="row strategic-list">
@@ -490,7 +483,7 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p class="title">Layanan Lain LOGIQUE Terkait Pembuatan Website</p>
+                    <p class="title">Layanan Lain <span class="logo-font">LOGIQUE</span> Terkait Pembuatan Website</p>
                 </div>
             </div>
             <div class="row">
@@ -676,9 +669,9 @@ Proses Bisnis Perusahaan</p>
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h2>Alur Pembuatan Situs Web di LOGIQUE</h2>
+                    <h2>Alur Pembuatan Situs Web di <span class="logo-font">LOGIQUE</span></h2>
                     <p>
-                    Pembuatan situs web dari LOGIQUE selalu berfokus pada penyesuaian antara kecepatan dan kualitas. Para ahli dan pekerja profesional kami siap bertanggung jawab terhadap setiap langkah yang dilakukan. Alur pembuatan situs web sangat terstruktur, mulai dari perencanaan dan pengajuan, desain, pengembangan, serta pengoperasian untuk mewujudkan situs web terbaik. Tahapan LOGIQUE untuk membuat sebuah situs web juga dapat bervariasi, tergantung dari jenis proyek (ukuran situs web, kebutuhan CMS, kesulitan dalam pengembangan sistem, dll). Berikut ini adalah alur umum dalam pembuatan situs web di LOGIQUE.
+                    Pembuatan situs web dari <span class="logo-font">LOGIQUE</span> selalu berfokus pada penyesuaian antara kecepatan dan kualitas. Para ahli dan pekerja profesional kami siap bertanggung jawab terhadap setiap langkah yang dilakukan. Alur pembuatan situs web sangat terstruktur, mulai dari perencanaan dan pengajuan, desain, pengembangan, serta pengoperasian untuk mewujudkan situs web terbaik. Tahapan <span class="logo-font">LOGIQUE</span> untuk membuat sebuah situs web juga dapat bervariasi, tergantung dari jenis proyek (ukuran situs web, kebutuhan CMS, kesulitan dalam pengembangan sistem, dll). Berikut ini adalah alur umum dalam pembuatan situs web di <span class="logo-font">LOGIQUE</span>.
                     </p>
                 </div>
                 <div class="col-md-6 text-center">
@@ -897,7 +890,7 @@ Proses Bisnis Perusahaan</p>
                         <div class="row">
                             <div class="col-md-offset-2 col-md-10 m-t-10">
                                 <p class="title-content-p">
-                                Setelah website diluncurkan, kami tidak akan meninggalkan Anda begitu saja. Kami memahami agar dapat berjalan dengan baik dan mencapai hasil yang diharapkan, setiap website membutuhkan pengelolaan berkelanjutan. Karena itu, LOGIQUE menyediakan berbagai layanan yang Anda butuhkan, mulai dari pemantauan website atau server, pengoperasian harian, pembuatan konten, manajemen akun media sosial, dan aktivitas digital marketing yang bertujuan untuk memaksimalkan website Anda.
+                                Setelah website diluncurkan, kami tidak akan meninggalkan Anda begitu saja. Kami memahami agar dapat berjalan dengan baik dan mencapai hasil yang diharapkan, setiap website membutuhkan pengelolaan berkelanjutan. Karena itu, <span class="logo-font">LOGIQUE</span> menyediakan berbagai layanan yang Anda butuhkan, mulai dari pemantauan website atau server, pengoperasian harian, pembuatan konten, manajemen akun media sosial, dan aktivitas digital marketing yang bertujuan untuk memaksimalkan website Anda.
                                  </p>
                             </div>
                         </div>
@@ -961,7 +954,7 @@ Proses Bisnis Perusahaan</p>
                     <a href="/hubungi-kami.php">
                         <div class="button-container">
                             <p>
-                            Silahkan hubungi LOGIQUE tentang pembuatan website di Indonesia
+                            Silahkan hubungi <span class="logo-font">LOGIQUE</span> tentang pembuatan website di Indonesia
                             </p>
                         </div>
                     </a>
@@ -1009,7 +1002,7 @@ Proses Bisnis Perusahaan</p>
                                 Pada website juga terdapat implementasi Income Calculator berdasarkan formula perhitungan yang komprehensif dengan variasi output yang mencakup grafik. Hasil akhir website ini kemudian di implementasi pada infrastruktur AWS. 
                             </p>
                             <p class="content">
-                                Salah satu tantangan dalam proyek ini adalah kebutuhan AIA untuk merilis versi awal hanya dalam 2 minggu, dan LOGIQUE mampu menjawab ekspektasi tersebut dengan baik. 
+                                Salah satu tantangan dalam proyek ini adalah kebutuhan AIA untuk merilis versi awal hanya dalam 2 minggu, dan <span class="logo-font">LOGIQUE</span> mampu menjawab ekspektasi tersebut dengan baik. 
                             </p>
                             <p class="content">
                                 Setelah versi awal dirilis, pengembangan berlanjut dengan peningkatan fungsi termasuk implementasi fungsi kalkulator dengan total waktu pengembangan dari awal sampai akhir sekitar 5 minggu.
@@ -1128,7 +1121,7 @@ Proses Bisnis Perusahaan</p>
                                 Merupakan suatu terobosan dari Panin Dai-ichi Life dalam bentuk produk-produk asuransi digital yang dapat dibeli langsung secara online melalui website E-Commerce. 
                             </p>
                             <p class="content">
-                                Berangkat dari pengalaman LOGIQUE yang telah banyak menangani proyek E-Commerce baik untuk industri asuransi maupun barang retail, kami membantu merancang konsep e-commerce Panin Dai-ichi Life mulai dari tahap perencanaan, desain, pengembangan kode, dan implementasi pada server yang telah disediakan. 
+                                Berangkat dari pengalaman <span class="logo-font">LOGIQUE</span> yang telah banyak menangani proyek E-Commerce baik untuk industri asuransi maupun barang retail, kami membantu merancang konsep e-commerce Panin Dai-ichi Life mulai dari tahap perencanaan, desain, pengembangan kode, dan implementasi pada server yang telah disediakan. 
                             </p>
                             <p class="content">
                                 Pembuatan desain disesuaikan dengan konsep branding ‘Bekal Hidup’ yang dikombinasikan dengan animasi sehingga website terlihat lebih menarik, termasuk sangat memperhatikan User Experience untuk memudahkan Customer dalam melakukan pembelian produk asuransi yang ada. 
@@ -1140,7 +1133,7 @@ Proses Bisnis Perusahaan</p>
                                 Website E-Commerce ini juga terintegrasi dengan sistem pembayaran Midtrans yang mencakup pembelian awal dan recurring serta integrasi dengan sistem inti dari Panin Dai-ichi Life itu sendiri. 
                             </p>
                             <p class="content">
-                                Dalam pelaksanaannya, LOGIQUE membantu Panin Dai-ichi memiliki sebuah website E-Commerce yang dapat digunakan dalam waktu 3 bulan (fase 1), yang kemudian berlanjut dengan peningkatan fungsi untuk memenuhi cakupan tipe produk asuransi baru yang akan disediakan secara online di fase 2.
+                                Dalam pelaksanaannya, <span class="logo-font">LOGIQUE</span> membantu Panin Dai-ichi memiliki sebuah website E-Commerce yang dapat digunakan dalam waktu 3 bulan (fase 1), yang kemudian berlanjut dengan peningkatan fungsi untuk memenuhi cakupan tipe produk asuransi baru yang akan disediakan secara online di fase 2.
                             </p>
                         </div>
                         <div class="content-section">

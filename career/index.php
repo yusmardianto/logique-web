@@ -95,7 +95,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
-              <h1 class="header__title">Wujudkan Mimpi Anda Dengan Berkarir Bersama LOGIQUE</h1>
+              <h1 class="header__title">Lowongan Kerja di <span class="logo-font">LOGIQUE</span></h1>
               <p>
                 Di LOGIQUE, Anda dapat mewujudkan mimpi Anda sebagai karyawan tetap dan mendapatkan peningkatan karir web developer yang cemerlang
                 tanpa batas. Segera bergabung dan kembangkan karir Anda bersama kami.

@@ -93,6 +93,8 @@ $kodeBarang = $result;
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>White Paper Download | LOGIQUE</title>
 
+    <link rel="canonical" href="https://www.logique.co.id/white-paper-web-dev-2.php" />
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
