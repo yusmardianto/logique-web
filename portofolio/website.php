@@ -152,7 +152,7 @@
     
             <section class="portfolio-update__contact">
                 <div class="py--20px content-wrapper__">
-                    <div class="p--0 container__">
+                    <div class="py--0 container__">
                         <div class="row flex__row align-items-center contact__content">
                             <div class="col-xs-12 col-md-8 content__image">
                                 <div class="d-flex align-items-center">
