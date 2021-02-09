@@ -19,6 +19,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
     <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
+
+    <link rel="canonical" href="https://www.logique.co.id/en/portfolio/website.php" />
     
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">

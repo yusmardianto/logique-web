@@ -18,6 +18,8 @@
         content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
+
+    <link rel="canonical" href="https://www.logique.co.id/en/portfolio.php" />
     
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
