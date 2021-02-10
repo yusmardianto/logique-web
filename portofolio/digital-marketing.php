@@ -108,68 +108,153 @@
         }
         </style>
 
-        <div class="portfolio-update content-wrapper__">
+        <div class="portfolio-update">
 
-            <section class="--top portfolio__banner portfolio__banner-detail">
-                <div class="container__" style="padding:0">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">Home</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                        itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                            </ol>
+            <section class="portfolio__banner portfolio__banner-detail">
+                <div class="content-wrapper__">
+                    <div class="container__ --top" style="padding:0">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                    itemtype="http://schema.org/BreadcrumbList">
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                            href="index.php"><span itemprop="name">Home</span></a>
+                                        <meta itemprop="position" content="1" />
+                                    </li>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                        <meta itemprop="position" content="2" />
+                                    </li>
+                                    <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                        <meta itemprop="position" content="2" />
+                                    </li>
+                                </ol>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="container__ banner-detail__content">
-                    <div class="row">
-                        <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>Portofolio Performa Digital Marketing</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> selalu berkomitmen dalam memberikan pencapaian performa Digital Marketing Campaign yang terbaik bagi semua klien dan mitra bisnis kami. Dengan menerapkan standar operasional yang tinggi untuk memastikan setiap proses optimisasi dilakukan dengan perencanaan yang tepat berdasarkan data aktual yang kami analisa, semua keputusan yang dibuat dalam proses optimisasi kampanye iklan dilakukan berdasarkan data yang objektif dan dapat divalidasi.</p>
-                            <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
+                <div class="content-wrapper__">
+                    <div class="container__ banner-detail__content">
+                        <div class="row">
+                            <div class="col-md-offset-1 col-md-7">
+                                <div class="title"><h1>Portofolio Performa Digital Marketing</h1></div>
+                                <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> selalu berkomitmen dalam memberikan pencapaian performa Digital Marketing Campaign yang terbaik bagi semua klien dan mitra bisnis kami. Dengan menerapkan standar operasional yang tinggi untuk memastikan setiap proses optimisasi dilakukan dengan perencanaan yang tepat berdasarkan data aktual yang kami analisa, semua keputusan yang dibuat dalam proses optimisasi kampanye iklan dilakukan berdasarkan data yang objektif dan dapat divalidasi.</p>
+                                <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
+                            </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+    
+            <section class="portfolio-update__contact">
+                <div class="py--20px content-wrapper__">
+                    <div class="py--0 container__">
+                        <div class="row flex__row align-items-center contact__content">
+                            <div class="col-xs-12 col-md-8 content__image">
+                                <div class="d-flex align-items-center">
+                                    <picture>
+                                        <source srcset="/layanan/assets/img/img-pwa/icon/icon-contact.svg">
+                                        <img src="/layanan/assets/img/img-pwa/icon/icon-contact.png" alt="hubungi kami" class="img-responsive pr--10px ml--30px">
+                                    </picture>
+                                    <p class="">Ingin mendapatkan pencapaian performa Digital Marketing yang terbaik untuk Bisnis Anda? <br> Konsultasikan Kebutuhan Anda Bersama <span class="logo-font">LOGIQUE</span></p>        
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-md-4">
+                                <div class="row flex__row justify-content-center">
+                                    <div class="col-sm-4 col-md-8">
+                                        <a href="/hubungi-kami.php" class="form-control btn btn--yellow">HUBUNGI KAMI</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>
 
             <section id="portfolio_dm" class="portfolio-update__content">
-                <div class="container__">
-                    <h2 class="text-center">Bukti Pencapaian Besar Kami Dari Beberapa Merek Terkemuka di Indonesia</h2>
-                    <div class="content__wrapper">
-                        <div class="flex__row">
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div>
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
-                                        <img src="/img/portfolio/update/dm-bamboo.png" alt="">
-                                        <h4>Real Estate - Bamboo</h4>
-                                        <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
-                                    </div>
-                                    <div class="content__detail" style="background-color: #EAFFFC;">
-                                        <div class="detail__description">
-                                        Green Bamboo Terrace adalah perumahan mewah minimalis di Pusat Kota Bogor, dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Kebun Bambu Jakarta, dengan nilai-nilai kualitas yang terus kami jaga membuat Logique mampu menjadi mitra bisnis bagi pencapaian kesuksesan KBJ dalam penjualan properti-properti yang dikembangkan.
+                <div class="content-wrapper__">
+                    <div class="container__">
+                        <h2 class="text-center">Bukti Pencapaian Besar Kami Dari Beberapa Merek Terkemuka di Indonesia</h2>
+                        <div class="content__wrapper">
+                            <div class="flex__row">
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div>
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
+                                            <img src="/img/portfolio/update/dm-bamboo.png" alt="">
+                                            <h4>Real Estate - Bamboo</h4>
+                                            <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                         </div>
-                                        <div class="detail__goal" style="background-color: #b9fff5; color: #004940;">
+                                        <div class="content__detail" style="background-color: #EAFFFC;">
+                                            <div class="detail__description">
+                                            Green Bamboo Terrace adalah perumahan mewah minimalis di Pusat Kota Bogor, dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Kebun Bambu Jakarta, dengan nilai-nilai kualitas yang terus kami jaga membuat Logique mampu menjadi mitra bisnis bagi pencapaian kesuksesan KBJ dalam penjualan properti-properti yang dikembangkan.
+                                            </div>
+                                            <div class="detail__goal" style="background-color: #b9fff5; color: #004940;">
+                                                <h4>Goals</h4>
+                                                <p>Meningkatkan Leads</p>
+                                            </div>
+                                            <div class="detail__achievement" style="color: #004940;">
+                                                <h4>Achievements</h4>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-xs-12">
+                                                        <div class="achievement">
+                                                            <div class="achievement__number">
+                                                            +46%
+                                                            </div>
+                                                            <p>Konversi Leads</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-xs-12">
+                                                        <div class="achievement">
+                                                            <div class="achievement__number">
+                                                            -35%
+                                                            </div>
+                                                            <p>Penurunan Cost / Leads</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-xs-12">
+                                                        <div class="achievement">
+                                                            <div class="achievement__number">
+                                                            +25%
+                                                            </div>
+                                                            <p>Conversions Rate</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-xs-12">
+                                                        <div class="achievement">
+                                                            <div class="achievement__number">
+                                                            +41%
+                                                            </div>
+                                                            <p>ROAS (Return On Ad Spend)</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
+                                        <img src="/img/portfolio/update/dm-mirai.png" alt="">
+                                        <h4>Real Estate - Hajime</h4>
+                                        <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
+                                    </div>
+                                    <div class="content__detail" style="background-color: #DDF0FF;">
+                                        <div class="detail__description">
+                                        Graha Mirai adalah perumahan mewah minimalis di Pusat Kota Cikarang, dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Hajime Indonesia Jaya. Logique berkesempatan menjadi bagian dari perjalanan kesuksesan Graha Mirai, dan dalam waktu 3 bulan Logique berhasil meningkatkan Konversi website yang terjadi dengan sangat signifikan hingga 30%
+                                        </div>
+                                        <div class="detail__goal" style="background-color: #a6cdff; color: #004940; color: #17335a;">
                                             <h4>Goals</h4>
                                             <p>Meningkatkan Leads</p>
                                         </div>
-                                        <div class="detail__achievement" style="color: #004940;">
+                                        <div class="detail__achievement" style="color: #17335a;">
                                             <h4>Achievements</h4>
                                             <div class="row">
                                                 <div class="col-sm-6 col-xs-12">
                                                     <div class="achievement">
                                                         <div class="achievement__number">
-                                                        +46%
+                                                        +30%
                                                         </div>
                                                         <p>Konversi Leads</p>
                                                     </div>
@@ -177,7 +262,7 @@
                                                 <div class="col-sm-6 col-xs-12">
                                                     <div class="achievement">
                                                         <div class="achievement__number">
-                                                        -35%
+                                                        -28%
                                                         </div>
                                                         <p>Penurunan Cost / Leads</p>
                                                     </div>
@@ -185,7 +270,7 @@
                                                 <div class="col-sm-6 col-xs-12">
                                                     <div class="achievement">
                                                         <div class="achievement__number">
-                                                        +25%
+                                                        +22%
                                                         </div>
                                                         <p>Conversions Rate</p>
                                                     </div>
@@ -193,7 +278,7 @@
                                                 <div class="col-sm-6 col-xs-12">
                                                     <div class="achievement">
                                                         <div class="achievement__number">
-                                                        +41%
+                                                        +35%
                                                         </div>
                                                         <p>ROAS (Return On Ad Spend)</p>
                                                     </div>
@@ -202,107 +287,54 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
-                                    <img src="/img/portfolio/update/dm-mirai.png" alt="">
-                                    <h4>Real Estate - Hajime</h4>
-                                    <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
-                                </div>
-                                <div class="content__detail" style="background-color: #DDF0FF;">
-                                    <div class="detail__description">
-                                    Graha Mirai adalah perumahan mewah minimalis di Pusat Kota Cikarang, dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Hajime Indonesia Jaya. Logique berkesempatan menjadi bagian dari perjalanan kesuksesan Graha Mirai, dan dalam waktu 3 bulan Logique berhasil meningkatkan Konversi website yang terjadi dengan sangat signifikan hingga 30%
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
+                                        <img src="/img/portfolio/update/dm-pilipili.png" alt="">
+                                        <h4>E Commerce - Pilipili</h4>
+                                        <p>SEO | Website Maintenance</p>
                                     </div>
-                                    <div class="detail__goal" style="background-color: #a6cdff; color: #004940; color: #17335a;">
-                                        <h4>Goals</h4>
-                                        <p>Meningkatkan Leads</p>
-                                    </div>
-                                    <div class="detail__achievement" style="color: #17335a;">
-                                        <h4>Achievements</h4>
-                                        <div class="row">
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +30%
-                                                    </div>
-                                                    <p>Konversi Leads</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    -28%
-                                                    </div>
-                                                    <p>Penurunan Cost / Leads</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +22%
-                                                    </div>
-                                                    <p>Conversions Rate</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +35%
-                                                    </div>
-                                                    <p>ROAS (Return On Ad Spend)</p>
-                                                </div>
-                                            </div>
+                                    <div class="content__detail" style="background-color: #DDF0FF;">
+                                        <div class="detail__description">
+                                        Pilipili adalah merek e-commerce yang menjual tas FJALLRAVEN KANKEN. Dalam waktu 2 bulan Logique sukses membuktikan hasil nyata yang benar-benar memberikan dampak besar bagi jalannya bisnis Pilipili.
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
-                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="">
-                                    <h4>E Commerce - Pilipili</h4>
-                                    <p>SEO | Website Maintenance</p>
-                                </div>
-                                <div class="content__detail" style="background-color: #DDF0FF;">
-                                    <div class="detail__description">
-                                    Pilipili adalah merek e-commerce yang menjual tas FJALLRAVEN KANKEN. Dalam waktu 2 bulan Logique sukses membuktikan hasil nyata yang benar-benar memberikan dampak besar bagi jalannya bisnis Pilipili.
-                                    </div>
-                                    <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
-                                        <h4>Goals</h4>
-                                        <p>Meningkatkan Traffics website dengan channel organic</p>
-                                    </div>
-                                    <div class="detail__achievement" style="color: #15588c;">
-                                        <h4>Achievements</h4>
-                                        <div class="row">
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +8.4%
+                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
+                                            <h4>Goals</h4>
+                                            <p>Meningkatkan Traffics website dengan channel organic</p>
+                                        </div>
+                                        <div class="detail__achievement" style="color: #15588c;">
+                                            <h4>Achievements</h4>
+                                            <div class="row">
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +8.4%
+                                                        </div>
+                                                        <p>Jumlah Sessions</p>
                                                     </div>
-                                                    <p>Jumlah Sessions</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    -7.01%
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -7.01%
+                                                        </div>
+                                                        <p>Jumlah Pageviews</p>
                                                     </div>
-                                                    <p>Jumlah Pageviews</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +2.7x
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +2.7x
+                                                        </div>
+                                                        <p>Pengunjung berada lebih lama</p>
                                                     </div>
-                                                    <p>Pengunjung berada lebih lama</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    -10%
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -10%
+                                                        </div>
+                                                        <p>Penurunan bounce rate dalam 1 bulan</p>
                                                     </div>
-                                                    <p>Penurunan bounce rate dalam 1 bulan</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -315,26 +347,30 @@
             </section>
 
             <section class="">
-                <div class="container__" style="padding-top: 0;">
-                    <div class="row">
-                        <div class="col-md-offset-1 col-md-10">
-                            <p class="text-center">Dalam setiap proses pengelolaan Digital Marketing Campaign, <strong>LOGIQUE</strong> melibatkan banyak tenaga ahli dan profesional dengan pengalaman bertahun-tahun, mulai dari Digital Marketing Expert, Graphic Designer, Web Developer, Server Engineer, App Developer, Business Analyst, dan Quality Assurance sebagai bentuk komitmen <strong>LOGIQUE</strong> yang tidak akan pernah berkompromi dengan hasil dan pencapaian terbaik yang telah diharapkan oleh mitra-mitra <strong>LOGIQUE</strong>.</p>
+                <div class="content-wrapper__">
+                    <div class="container__" style="padding-top: 0;">
+                        <div class="row">
+                            <div class="col-md-offset-1 col-md-10">
+                                <p class="text-center">Dalam setiap proses pengelolaan Digital Marketing Campaign, <strong>LOGIQUE</strong> melibatkan banyak tenaga ahli dan profesional dengan pengalaman bertahun-tahun, mulai dari Digital Marketing Expert, Graphic Designer, Web Developer, Server Engineer, App Developer, Business Analyst, dan Quality Assurance sebagai bentuk komitmen <strong>LOGIQUE</strong> yang tidak akan pernah berkompromi dengan hasil dan pencapaian terbaik yang telah diharapkan oleh mitra-mitra <strong>LOGIQUE</strong>.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
 
             <section class="portfolio-update__link">
-                <div class="container__">
-                    <div class="row link--dm">
-                        <div class="col-sm-offset-2 col-xs-offset-5 col-md-6 col-sm-10 col-xs-7">
-                        Segera hubungi <strong>LOGIQUE</strong> sekarang, kami akan buatkan perencanaan dan strategy terbaik untuk cita-cita bisnis Anda yang luar biasa.
+                <div class="content-wrapper__">
+                    <div class="container__">
+                        <div class="row link--dm">
+                            <div class="col-sm-offset-2 col-xs-offset-5 col-md-6 col-sm-10 col-xs-7">
+                            Segera hubungi <strong>LOGIQUE</strong> sekarang, kami akan buatkan perencanaan dan strategy terbaik untuk cita-cita bisnis Anda yang luar biasa.
+                            </div>
+                            <div class=" col-lg-offset-0 col-sm-offset-2 col-xs-offset-5 col-md-4 col-sm-10 col-xs-7 text-right">
+                                <a href="/layanan/digital-marketing.php" class="btn btn--yellow"><span>Buat Rencana</span></a>
+                            </div>
                         </div>
-                        <div class=" col-lg-offset-0 col-sm-offset-2 col-xs-offset-5 col-md-4 col-sm-10 col-xs-7 text-right">
-                            <a href="/layanan/digital-marketing.php" class="btn btn--yellow"><span>Buat Rencana</span></a>
-                        </div>
-                    </div>
 
+                    </div>
                 </div>
             </section>
 
