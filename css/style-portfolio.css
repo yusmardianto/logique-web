@@ -40,6 +40,13 @@
     background-image: url("../layanan/assets/img/img-pwa/bg-contact.webp");
 }
 
+@media (min-width: 768px) {
+    .portfolio-update .portfolio-update__contact .content__image > .d-flex {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    }
+}
+
 @media (max-width: 1199.98px) {
     .portfolio-update__content .container__ {
         width: auto;
