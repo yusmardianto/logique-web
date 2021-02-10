@@ -255,7 +255,7 @@
                                     <div class="content-list-item">
                                         <p class="card-category-text">INTERVIEW</p>
                                         <p class="card-content-text">Pesan dari Yoshi, Presiden Direktur LOGIQUE</p>
-                                        <a href="https://www.logique.co.id/blog/2020/04/17/message-yoshi-president-director-logique-2/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                        <a href="https://www.logique.co.id/blog/category/interview/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
                                     </div>
                                     <div class="content-list-item">
                                         <p class="card-category-text">STUDI KASUS</p>
