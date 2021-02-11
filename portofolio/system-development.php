@@ -158,7 +158,7 @@
                                         <source srcset="/layanan/assets/img/img-pwa/icon/icon-contact.svg">
                                         <img src="/layanan/assets/img/img-pwa/icon/icon-contact.png" alt="hubungi kami" class="img-responsive pr--10px ml--30px">
                                     </picture>
-                                    <p class="">Ingin Membuat dan Mengembangkan Aplikasi Web atau PWA untuk Bisnis Anda? <br> Konsultasikan Kebutuhan Anda Bersama <span class="logo-font">LOGIQUE</span></p>        
+                                    <p class="">Ingin Mengembangkan Aplikasi Web atau PWA untuk Bisnis Anda? <br> Konsultasikan Kebutuhan Anda Bersama <span class="logo-font">LOGIQUE</span></p>        
                                 </div>
                             </div>
                             <div class="col-xs-12 col-md-4">
