@@ -108,268 +108,301 @@
         }
         </style>
 
-        <div class="portfolio-update content-wrapper__">
+        <div class="portfolio-update ">
 
-            <section class="--top portfolio__banner portfolio__banner-detail">
-                <div class="container__" style="padding:0">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">Home</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                        itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;System Development</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                            </ol>
+            <section class="portfolio__banner portfolio__banner-detail">
+                <div class="content-wrapper__">
+                    <div class="container__ --top" style="padding:0">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                    itemtype="http://schema.org/BreadcrumbList">
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                            href="index.php"><span itemprop="name">Home</span></a>
+                                        <meta itemprop="position" content="1" />
+                                    </li>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                        <meta itemprop="position" content="2" />
+                                    </li>
+                                    <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                            itemprop="item"><span itemprop="name">&nbsp;Pembuatan Aplikasi Berbasis Web & PWA</span></a>
+                                        <meta itemprop="position" content="2" />
+                                    </li>
+                                </ol>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="container__ banner-detail__content">
-                    <div class="row">
-                        <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>System Development Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> adalah pengembang Sistem Web / Aplikasi Bebasis Web terkemuka di Indonesia dengan kemampuan pengembangan, kualitas teknik, dan keamanan yang berstandar internasional. <strong>LOGIQUE</strong> telah berhasil mengembangkan dan memelihara ratusan Sistem TI yang mampu membawa bisnis klien ke level yang lebih tinggi.</p>
-                            <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
+
+                <div class="content-wrapper__">
+                    <div class="container__ banner-detail__content">
+                        <div class="row">
+                            <div class="col-md-offset-1 col-md-7">
+                                <div class="title"><h1>Portofolio Pembuatan Aplikasi Berbasis Web & PWA</h1></div>
+                                <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> adalah pengembang Sistem Web / Aplikasi Bebasis Web terkemuka di Indonesia dengan kemampuan pengembangan, kualitas teknik, dan keamanan yang berstandar internasional. <strong>LOGIQUE</strong> telah berhasil mengembangkan dan memelihara ratusan Sistem TI yang mampu membawa bisnis klien ke level yang lebih tinggi.</p>
+                                <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
+                            </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+    
+            <section class="portfolio-update__contact">
+                <div class="py--20px content-wrapper__">
+                    <div class="py--0 container__">
+                        <div class="row flex__row align-items-center contact__content">
+                            <div class="col-xs-12 col-md-8 content__image">
+                                <div class="d-flex align-items-center">
+                                    <picture>
+                                        <source srcset="/layanan/assets/img/img-pwa/icon/icon-contact.svg">
+                                        <img src="/layanan/assets/img/img-pwa/icon/icon-contact.png" alt="hubungi kami" class="img-responsive pr--10px ml--30px">
+                                    </picture>
+                                    <p class="">Ingin Mengembangkan Aplikasi Web atau PWA untuk Bisnis Anda? <br> Konsultasikan Kebutuhan Anda Bersama <span class="logo-font">LOGIQUE</span></p>        
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-md-4">
+                                <div class="row flex__row justify-content-center">
+                                    <div class="col-sm-4 col-md-8">
+                                        <a href="/hubungi-kami.php" class="form-control btn btn--yellow">HUBUNGI KAMI</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>
 
             <section id="portfolio_sys" class="portfolio-update__content">
-                <div class="container__">
-                    <h2 class="text-center">System Development</h2>
-                    <div class="content__wrapper">
-                        <div class="flex__row">
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-jba.png" alt="">
-                                </div>
-                                <h3>JBA Indonesia; Online Car Auction System Development</h3>
-                                <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-assa.png" alt="">
-                                </div>
-                                <h3>Assa <br>System Development</h3>
-                            </div>
-                            <div class="clearfix visible-sm"></div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
-                                </div>
-                                <h3>ZuttoRide Indonesia; CRM DevOps</h3>
-                                <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
-                                </div>
-                                <h3>Sinar Mas Land; HRS Development</h3>
-                                <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop1" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                <div class="content-wrapper__">
+                    <div class="container__">
+                        <h2 class="text-center">System Development</h2>
+                        <div class="content__wrapper">
+                            <div class="flex__row">
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <img src="/img/portfolio/update/sys-jba.png" alt="">
                                     </div>
+                                    <h3>JBA Indonesia; Online Car Auction System Development</h3>
+                                    <p>Pengembangan Aplikasi Mobile ( Pengembangan sistem inspeksi kendaraan dan sistem penilaian)</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop2" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <img src="/img/portfolio/update/sys-assa.png" alt="">
                                     </div>
+                                    <h3>Assa <br>System Development</h3>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Pengembangan E-Commerce untuk Perusahaan MLM.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop3" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="clearfix visible-sm"></div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
                                     </div>
+                                    <h3>ZuttoRide Indonesia; CRM DevOps</h3>
+                                    <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Sistem Pengembangan Manajemen Lelang Kendaraan.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop4" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
                                     </div>
+                                    <h3>Sinar Mas Land; HRS Development</h3>
+                                    <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop5" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop1" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Manajemen Poin Bermanfaat & Pengembangan Sistem E-Commerce.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop6" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop2" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Pengembangan E-Commerce untuk Perusahaan MLM.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop7" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop3" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Sistem Pengembangan Manajemen Lelang Kendaraan.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Sistem CRM untuk Pembeli Lelang.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop8" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop4" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Pengembangan Aplikasi Mobile (Android Penawaran Lelang).</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop9" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop5" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Aplikasi Mobile (Sistem Inspeksi/Penilaian Kendaraan).</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop10" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop6" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Sistem CRM untuk Pelayanan Jalan Kendaraan Bermotor.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Pengembangan Sistem Peta Digital.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop11" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop7" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Sistem CRM untuk Pembeli Lelang.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Pengembangan Sistem Lelang C2C.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop12" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop8" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Sistem Penyimpanan Manajemen Layout/Komponen untuk Penerbit Majalah.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop13" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop9" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Pengembangan dan Pengoperasian Situs Pasar Mobil Bekas.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Pengembangan web CMS untuk e-book commerce.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop14" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop10" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Pengembangan Sistem Peta Digital.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Sistem Portal Lowongan Pekerjaan.</p>
-                            </div>
-                            <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
-                                <div class="item__img">
-                                    <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
-                                    <div class="portfolio-sec-system__see-details">
-                                        <a data-toggle="modal" data-target="#pop15" href="#">
-                                            <h3>View Details</h3>
-                                            <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
-                                        </a>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop11" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
                                     </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Pengembangan Sistem Lelang C2C.</p>
                                 </div>
-                                <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
-                                <p>Web Dengan Sistem Rekrutmen.</p>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop12" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Pengembangan Sistem Web CMS Untuk Organisasi Publik.</p>
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop13" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Pengembangan web CMS untuk e-book commerce.</p>
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop14" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Sistem Portal Lowongan Pekerjaan.</p>
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
+                                    <div class="item__img">
+                                        <!-- <img src="/img/portfolio/update/sys-sinarmas.png" alt=""> -->
+                                        <div class="portfolio-sec-system__see-details">
+                                            <a data-toggle="modal" data-target="#pop15" href="#">
+                                                <h3>View Details</h3>
+                                                <p>&#11044; &nbsp; &#11044; &nbsp; &#11044;</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <!-- <h3>Sinar Mas Land; HRS Development</h3> -->
+                                    <p>Web Dengan Sistem Rekrutmen.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
