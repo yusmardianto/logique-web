@@ -108,150 +108,183 @@
         }
         </style>
 
-        <div class="portfolio-update content-wrapper__">
+        <div class="portfolio-update">
 
-            <section class="--top portfolio__banner portfolio__banner-detail">
-                <div class="container__" style="padding:0">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">Home</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                        itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Mobile App</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                            </ol>
+            <section class="portfolio__banner portfolio__banner-detail">
+                <div class="content-wrapper__ --top">
+                    <div class="container__" style="padding:0">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <ol class="breadcrumb breadcrumb--update-design" itemscope
+                                    itemtype="http://schema.org/BreadcrumbList">
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
+                                            href="index.php"><span itemprop="name">Home</span></a>
+                                        <meta itemprop="position" content="1" />
+                                    </li>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                        <meta itemprop="position" content="2" />
+                                    </li>
+                                    <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
+                                            itemprop="item"><span itemprop="name">&nbsp;Pembuatan Aplikasi Mobile</span></a>
+                                        <meta itemprop="position" content="2" />
+                                    </li>
+                                </ol>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="container__ banner-detail__content">
-                    <div class="row">
-                        <div class="col-md-offset-1 col-md-7">
-                            <div class="title"><h1>Mobile App Works</h1></div>
-                            <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> menjadi perusahaan pengembang aplikasi mobile untuk beragam sistem operasi mulai dari Android, iOS, hingga Hybrid. Dengan solusi PWA (Teknologi Web Progresif) dan <strong>LOGIQUE</strong> kini telah berhasil membuktikan hasil kerja yang nyata dan memberikan pelayanan yang memuaskan untuk banyak klien dengan skala bisnis nasional hingga internasional.</p>
-                            <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
+
+                <div class="content-wrapper__">
+                    <div class="container__ banner-detail__content">
+                        <div class="row">
+                            <div class="col-md-offset-1 col-md-7">
+                                <div class="title"><h1>Portofolio Pembuatan Aplikasi Mobile</h1></div>
+                                <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> menjadi perusahaan pengembang aplikasi mobile untuk beragam sistem operasi mulai dari Android, iOS, hingga Hybrid. Dengan solusi PWA (Teknologi Web Progresif) dan <strong>LOGIQUE</strong> kini telah berhasil membuktikan hasil kerja yang nyata dan memberikan pelayanan yang memuaskan untuk banyak klien dengan skala bisnis nasional hingga internasional.</p>
+                                <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
+                            </div>
                         </div>
+                    </div>
+                </div>
+            </section>
+    
+            <section class="portfolio-update__contact">
+                <div class="py--20px content-wrapper__">
+                    <div class="py--0 container__">
+                        <div class="row flex__row align-items-center contact__content">
+                            <div class="col-xs-12 col-md-8 content__image">
+                                <div class="d-flex align-items-center">
+                                    <picture>
+                                        <source srcset="/layanan/assets/img/img-pwa/icon/icon-contact.svg">
+                                        <img src="/layanan/assets/img/img-pwa/icon/icon-contact.png" alt="hubungi kami" class="img-responsive pr--10px ml--30px">
+                                    </picture>
+                                    <p class="">Ingin Membuat dan Mengembangkan Aplikasi Mobile untuk Bisnis Anda? <br> Konsultasikan Kebutuhan Anda Bersama <span class="logo-font">LOGIQUE</span></p>        
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-md-4">
+                                <div class="row flex__row justify-content-center">
+                                    <div class="col-sm-4 col-md-8">
+                                        <a href="/hubungi-kami.php" class="form-control btn btn--yellow">HUBUNGI KAMI</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>
 
             <section id="portofolio_mobile" class="portfolio-update__content">
-                <div class="container__">
-                    <h2 class="text-center">Mobile App</h2>
-                    <div class="content__wrapper">
-                        <div class="row">
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
-                                        <h3>JBA Bike Inspection App</h3>
+                <div class="content-wrapper__">
+                    <div class="container__">
+                        <h2 class="text-center">Mobile App</h2>
+                        <div class="content__wrapper">
+                            <div class="row">
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
+                                            <h3>JBA Bike Inspection App</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Weeo Hino Connect</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-hino.png" alt="">
+                                            <h3>Weeo Hino Connect</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-wantjp-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-wantjp.png" alt="Want.jp">
-                                        <h3>Want.jp</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-wantjp-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-wantjp.png" alt="Want.jp">
+                                            <h3>Want.jp</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
-                                        <h3>NLEC Nihongo E-Learning PWA</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
+                                            <h3>NLEC Nihongo E-Learning PWA</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-jba.png" alt="">
-                                        <h3>JBA Indonesia Auction Bidding App</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                            <h3>JBA Indonesia Auction Bidding App</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
-                                        <h3>Otomart - Used Car on Sale Finder App</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                            <h3>Otomart - Used Car on Sale Finder App</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-frangipani-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
-                                        <h3>Frangipani Esthetics Guest Comment App</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-frangipani-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
+                                            <h3>Frangipani Esthetics Guest Comment App</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-vipplaza-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-vipplaza.png" alt="">
-                                        <h3>VIP Plaza PWA</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-vipplaza-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-vipplaza.png" alt="">
+                                            <h3>VIP Plaza PWA</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/caroline.png" alt="">
-                                        <h3>Caroline Inspection App</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/caroline.png" alt="">
+                                            <h3>Caroline Inspection App</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-weeo-testing.png" alt="WEEO Testing App">
-                                        <h3>WEEO Testing App</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-weeo-testing.png" alt="WEEO Testing App">
+                                            <h3>WEEO Testing App</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-inspection-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-jba-inspection.png" alt="JBA Indonesia - Car Inspection App">
-                                        <h3>JBA Indonesia - Car Inspection App</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-inspection-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-jba-inspection.png" alt="JBA Indonesia - Car Inspection App">
+                                            <h3>JBA Indonesia - Car Inspection App</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
-                                    <div>
-                                        <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
-                                        <h3>Sinarmas Career</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-sinarmas-bg.png')">
+                                        <div>
+                                            <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
+                                            <h3>Sinarmas Career</h3>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
-                                    <div>
-                                        <picture>
-                                            <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
-                                            <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
-                                        </picture>
-                                        <h3>Marubeni - UCO Collection Mobile App</h3>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
+                                        <div>
+                                            <picture>
+                                                <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
+                                                <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
+                                            </picture>
+                                            <h3>Marubeni - UCO Collection Mobile App</h3>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
