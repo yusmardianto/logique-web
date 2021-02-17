@@ -95,6 +95,32 @@ button:focus {
     z-index: 10;
     box-shadow: 2px 4px 9px 0 #ccc;
 }
+
+/* color */
+.color--black {
+    color: #000;
+}
+.bg--l-gray {
+    background-color: #f6f6f6;
+}
+.bg--yellow {
+    background-color: #ffca00;
+}
+.bg--yellow.opa--2 {
+    background-color: rgba(255, 202, 0, .2);
+}
+.bg--cyan {
+    background-color: #1ccff6;
+}
+.bg--cyan.opa--2 {
+    background-color: rgba(28, 207, 246, .2);
+}
+
+/* shadow */
+.box-shadow--light {
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.1);
+}
+
 /*** Header & Navbar ***/
 
 .img-about,
@@ -442,6 +468,11 @@ video {
     align-items: center !important;
 }
 
+/* size */
+.h-100 {
+    height: 100%;
+}
+
 /* display */
 .d-flex {
     display: -ms-flexbox;
@@ -459,26 +490,56 @@ video {
     align-items: center;
 }
 
+.align-items-baseline {
+    align-items: baseline;
+}
+
+.align-items-end {
+    align-items: flex-end;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
 .justify-content-end {
     justify-content: flex-end;
+}
+
+.justify-content-betwwen {
+    justify-content: space-between;
 }
 /* end display */
 
 /* spacing */
+.m-t-10px {
+    margin-top: 10px;
+}
+.m-t-20px {
+    margin-top: 20px;
+}
 .m-t-30px {
     margin-top: 30px;
 }
 
+.m-b-10px {
+    margin-bottom: 10px;
+}
+.m-b-20px {
+    margin-bottom: 20px;
+}
 .m-b-30px {
     margin-bottom: 30px;
+}
+.m-b-50px {
+    margin-bottom: 50px;
 }
 
 .m-r-10px {
     margin-right: 10px;
 }
-
-.p-0 {
-    padding: 0 !important;
+.m-r-20px {
+    margin-right: 20px;
 }
 
 .p-t-10px,
@@ -486,8 +547,14 @@ video {
     padding-top: 10px;
 }
 .p-t-20px,
-.p-y-20px {
+.p-y-20px,
+.p-20px {
     padding-top: 20px;
+}
+.p-t-30px,
+.p-y-30px,
+.p-30px {
+    padding-top: 30px;
 }
 
 .p-b-10px,
@@ -495,18 +562,40 @@ video {
     padding-bottom: 10px;
 }
 .p-b-20px,
-.p-y-20px {
+.p-y-20px,
+.p-20px {
     padding-bottom: 20px;
 }
+.p-b-30px,
+.p-y-30px,
+.p-30px {
+    padding-bottom: 30px;
+}
 
+.p-l-20px,
+.p-x-20px,
+.p-20px {
+    padding-left: 20px;
+}
 .p-l-30px,
-.p-x-30px {
+.p-x-30px,
+.p-30px {
     padding-left: 30px;
 }
 
+.p-r-20px,
+.p-x-20px,
+.p-20px {
+    padding-right: 20px;
+}
 .p-r-30px,
-.p-x-30px {
+.p-x-30px,
+.p-30px {
     padding-right: 30px;
+}
+
+.p-0 {
+    padding: 0 !important;
 }
 /* end spacing */
 
@@ -550,6 +639,9 @@ a.form-control.btn {
 }
 .rounded-lg {
     border-radius: .4rem;
+}
+.rounded-xl {
+    border-radius: 10px;
 }
 /* end border */
 
