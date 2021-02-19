@@ -1,3 +1,7 @@
+.fs--20px p {
+    font-size: 20px;
+}
+
 /* list */
 .list--with-icon li {
     position: relative;

@@ -96,6 +96,11 @@ button:focus {
     box-shadow: 2px 4px 9px 0 #ccc;
 }
 
+/* font */
+.fs--20px {
+    font-size: 20px;
+}
+
 /* color */
 .color--white {
     color: #fff;
