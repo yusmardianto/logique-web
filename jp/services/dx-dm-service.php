@@ -564,19 +564,17 @@
 
             <section class="">
                 <div class="content-wrapper__">
-                    <div class="container__">
-                        <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/dm-links.php'); ?>
-                    </div>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/dm-links.php'); ?>
                 </div>
             </section>
 
             <section class="all-you__security">
                 <div class="content-wrapper__">
-                    <div class="container__">
-                        <!-- <h2 class="text-center m-b-50px">セキュリティー・サービス</h2> -->
-                        <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/other-services.php'); ?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/other-services.php'); ?>
+                    <!-- <div class="container__">
+                        <h2 class="text-center m-b-50px">セキュリティー・サービス</h2>
 
-                        <!-- <div class="text-center row flex__row security__item">
+                        <div class="text-center row flex__row security__item">
                             <div class="col-xs-12 col-sm-6 col-md-3 m-b-20px">
                                 <a href="#" class="color--black">
                                     <div class="h-100 p-30px box-shadow--light item">
@@ -625,8 +623,8 @@
                                     </div>
                                 </a>
                             </div>
-                        </div> -->
-                    </div>
+                        </div>
+                    </div> -->
                 </div>
             </section>
 
