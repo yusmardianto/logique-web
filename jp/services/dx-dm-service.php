@@ -50,8 +50,8 @@
 
         <?php 
             $lang = 'jp';
-            $en_link = '/en/portfolio/website.php';
-            $id_link = '/portofolio/website.php';
+            $en_link = '#';
+            $id_link = '#';
             $jp_link = '#';
             include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
