@@ -564,13 +564,13 @@
 
             <section class="">
                 <div class="content-wrapper__">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/dm-links.php'); ?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/jp/services/assets/components/dm-links.php'); ?>
                 </div>
             </section>
 
             <section class="all-you__security">
                 <div class="content-wrapper__">
-                    <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/other-services.php'); ?>
+                    <?php include($_SERVER['DOCUMENT_ROOT'].'/jp/services/assets/components/other-services.php'); ?>
                     <!-- <div class="container__">
                         <h2 class="text-center m-b-50px">セキュリティー・サービス</h2>
 
