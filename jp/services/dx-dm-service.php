@@ -257,7 +257,7 @@
 
                             <div class="p-30px m-b-30px rounded-xl bg--white">
                                 <a class="color--black d-flex flex-nowrap justify-content-betwwen align-items-center" data-toggle="collapse" href="#collapse_settled_1" role="button" aria-expanded="true" aria-controls="collapse_settled_1">
-                                    <p class="m-r-20px">1. 契約内容に応じて設定工数内の当月の作業内容を管理</p>
+                                    <p class="fs--20px m-r-20px">1. 契約内容に応じて設定工数内の当月の作業内容を管理</p>
                                     <picture>
                                         <source srcset="/img/icon/icon-chevron-up.svg">
                                         <img src="/img/icon/icon-chevron-up.png" alt="" class="img-responsive" width="20px">
@@ -276,7 +276,7 @@
 
                             <div class="p-30px m-b-30px rounded-xl bg--white">
                                 <a class="color--black d-flex flex-nowrap justify-content-betwwen align-items-center" data-toggle="collapse" href="#collapse_settled_2" role="button" aria-expanded="true" aria-controls="collapse_settled_2">
-                                    <p class="m-r-20px">2. 作業者は毎日、作業内容毎に作業時間を記録</p>
+                                    <p class="fs--20px m-r-20px">2. 作業者は毎日、作業内容毎に作業時間を記録</p>
                                     <picture>
                                         <source srcset="/img/icon/icon-chevron-up.svg">
                                         <img src="/img/icon/icon-chevron-up.png" alt="" class="img-responsive" width="20px">
@@ -294,7 +294,7 @@
 
                             <div class="p-30px m-b-30px rounded-xl bg--white">
                                 <a class="color--black d-flex flex-nowrap justify-content-betwwen align-items-center" data-toggle="collapse" href="#collapse_settled_3" role="button" aria-expanded="true" aria-controls="collapse_settled_3">
-                                    <p class="m-r-20px">3. プロジェクトマネージャーがメンバーのタスクと作業時間を管理</p>
+                                    <p class="fs--20px m-r-20px">3. プロジェクトマネージャーがメンバーのタスクと作業時間を管理</p>
                                     <picture>
                                         <source srcset="/img/icon/icon-chevron-up.svg">
                                         <img src="/img/icon/icon-chevron-up.png" alt="" class="img-responsive" width="20px">
@@ -319,7 +319,7 @@
 
                             <div class="p-30px m-b-30px rounded-xl bg--white">
                                 <a class="color--black d-flex flex-nowrap justify-content-betwwen align-items-baseline" data-toggle="collapse" href="#collapse_example_1" role="button" aria-expanded="true" aria-controls="collapse_example_1">
-                                    <div class="m-r-20px">
+                                    <div class="fs--20px m-r-20px">
                                         <p>例1</p>
                                         <p>新規サービスの企画案はある。開発業者の選定、依頼の仕方が分からず、前に進めない。</p>
                                     </div>
@@ -380,7 +380,7 @@
 
                             <div class="p-30px m-b-30px rounded-xl bg--white">
                                 <a class="color--black d-flex flex-nowrap justify-content-betwwen align-items-baseline" data-toggle="collapse" href="#collapse_example_2" role="button" aria-expanded="true" aria-controls="collapse_example_2">
-                                    <div class="m-r-20px">
+                                    <div class="fs--20px m-r-20px">
                                         <p>例2</p>
                                         <p>現在の開発会社にスコープ外だから対応できないと言われ困っている</p>
                                     </div>
@@ -422,7 +422,7 @@
 
                             <div class="p-30px m-b-30px rounded-xl bg--white">
                                 <a class="color--black d-flex flex-nowrap justify-content-betwwen align-items-baseline" data-toggle="collapse" href="#collapse_example_3" role="button" aria-expanded="true" aria-controls="collapse_example_3">
-                                    <div class="m-r-20px">
+                                    <div class="fs--20px m-r-20px">
                                         <p>例3</p>
                                         <p>社内の複数のプロダクトを少数の担当者が運用しなくてはならず回っていない</p>
                                     </div>
@@ -464,7 +464,7 @@
 
                             <div class="p-30px m-b-30px rounded-xl bg--white">
                                 <a class="color--black d-flex flex-nowrap justify-content-betwwen align-items-baseline" data-toggle="collapse" href="#collapse_example_4" role="button" aria-expanded="true" aria-controls="collapse_example_4">
-                                    <div class="m-r-20px">
+                                    <div class="fs--20px m-r-20px">
                                         <p>例4</p>
                                         <p>現在のシステム保守会社の保守費用が高すぎる</p>
                                     </div>
