@@ -72,13 +72,9 @@
                                         <a href="/jp/services.php" itemprop="item"><span itemprop="name">&nbsp;サービス</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                        <a href="/jp/services/system-dev.php" itemprop="item"><span itemprop="name">&nbsp;システム開発</span></a>
-                                        <meta itemprop="position" content="3" />
-                                    </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"><span itemprop="name">&nbsp;定額DX/DM支援サービス</span></a>
-                                        <meta itemprop="position" content="4" />
+                                        <meta itemprop="position" content="3" />
                                     </li>
                                 </ol>
                             </div>
@@ -88,15 +84,15 @@
 
                 <div class="content-wrapper__ main-banner__content">
                     <div class="container__">
-                        <div class="row flex__row align-items-end">
-                            <div class="col-xs-12 col-md-6">
+                        <div class="row row--5px flex__row align-items-end">
+                            <div class="col-xs-12 col-md-7">
                                 <div class="m-b-50px">
                                     <h1>月額45 juta rupiahで</h1>
                                     <h4>当社のスペシャリスト人材を合計1人月分まで使い放題！<br>
                                     もう採用や人材配置、トレーニングに頭を悩ます必要ありません。</h4>
                                 </div>
                             </div>
-                            <div class="col-xs-12 col-md-6 hidden-xs hidden-sm hidden-md">
+                            <div class="col-xs-12 col-md-5 hidden-xs hidden-sm">
                                 <picture>
                                     <source srcset="/img/service/all-you/bg-main-illustration.webp" type="image/webp">
                                     <img src="/img/service/all-you/bg-main-illustration.png" alt="" class="img-responsive">
