@@ -5,19 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEのWebサイト・ホームページ制作実績を紹介。LOGIQUEはジャカルタのWeb制作・システム開発会社。インドネシアで効果のでる多くのWebを制作運用してきました。インドネシア語、英語、日本語のWebを制作運用可能です。">
+        content="LOGIQUEのDX, IT, Digital Marketingに関するin-Houseスペシャリスト（合計約80名）を必要に応じてご利用可能です。デザイナー、プログラマー、アナリスト、セキュリティスペシャリスト、ソーシャルメディアスペシャリストなど様々なスペシャリストの支援を受けられます。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="LOGIQUEのWebサイト制作実績">
+    <meta property="og:title" content="定額DX/DM支援サービス | スペシャリスト利用し放題 | LOGIQUE DIGITAL INDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUEのWebサイト制作実績を紹介。ホームページ制作、Webデザイン、Webシステム開発で豊富な実績があります。">
+        content="LOGIQUEのDX, IT, Digital Marketingに関するin-Houseスペシャリスト（合計約80名）を必要に応じてご利用可能です。デザイナー、プログラマー、アナリスト、セキュリティスペシャリスト、ソーシャルメディアスペシャリストなど様々なスペシャリストの支援を受けられます。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/website.php"/>
-    <title>Web・ホームページ制作実績 | LOGIQUEデジタルインドネシア</title>
+    <title>定額DX/DM支援サービス | スペシャリスト利用し放題 | LOGIQUE DIGITAL INDONESIA</title>
     
     <!-- font -->
     <!-- <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet"> -->
@@ -77,7 +77,7 @@
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                        <a itemprop="item"><span itemprop="name">&nbsp;定額スペシャリスト使い放題サービス</span></a>
+                                        <a itemprop="item"><span itemprop="name">&nbsp;定額DX/DM支援サービス</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -197,7 +197,7 @@
             <section class="all-you__settled">
                 <div class="content-wrapper__">
                     <div class="container__">
-                        <h2 class="text-center m-b-30px">LOGIQUEの定額スペシャリスト使い放題サービスで解決！</h2>
+                        <h2 class="text-center m-b-30px">LOGIQUEの定額DX/DM支援サービス</h2>
 
                         <div class="m-b-30px row flex__row settled__article">
                             <div class="col-xs-12 col-md-4">
@@ -208,7 +208,7 @@
                             </div>
                             <div class="col-xs-12 col-md-8">
                                 <h4>LOGIQUEの様々なスペシャリストリソースを必要に応じて使い放題</h4>
-                                <p>LOGIQUEのin-Houseスペシャリスト（合計約80名）を必要に応じてアサイン可能です。以下がLOGIQUEに在籍するスペシャリストの一覧です。デザイナー(UI/UXデザイン, Web/グラフィックデザイン, Video編集)、BackEndデベロッパー(PHP based framework, .Net, Node.js)、FrontEndデベロッパー(HTML5 / CSS3, JAMStack, Javascript Based Programming (React, Vue, Angular))、モバイルAppデベロッパー(Native with Java, Kotlin or Swift; Hybrid with React Native or Flutter)、DevOps、プロジェクトマネージャー（PMI-PMP Certificated)、セキュリティスペシャリスト（??? certificated)、ビジネスアナリスト、Quality Assuranceスペシャリスト（ソフトウェアテスター）、デジタルマーケティング（SEOスペシャリスト、Adsオプティマイザー、SNSスペシャリスト、コンテンツライター、英語ネイティブコンテンツライター）</p>
+                                <p>LOGIQUEのDX/IT/Digital Marketingに関するin-Houseスペシャリスト（合計約80名）が御社にいま必要な作業を行います。以下がLOGIQUEに在籍するスペシャリストの一覧です。デザイナー(UI/UXデザイン, Web/グラフィックデザイン, Video編集)、BackEndデベロッパー(PHP based framework, .Net, Node.js)、FrontEndデベロッパー(HTML5 / CSS3, JAMStack, Javascript Based Programming (React, Vue, Angular))、モバイルAppデベロッパー(Native with Java, Kotlin or Swift; Hybrid with React Native or Flutter)、DevOps、プロジェクトマネージャー（PMI-PMP Certificated)、セキュリティスペシャリスト（CEH certificated)、ビジネスアナリスト、Quality Assuranceスペシャリスト（ソフトウェアテスター）、デジタルマーケティング（SEOスペシャリスト、Adsオプティマイザー、SNSスペシャリスト、コンテンツライター、英語ネイティブコンテンツライター）</p>
                             </div>
                         </div>
 
@@ -235,11 +235,11 @@
                                             <source srcset="/img/icon/all-you/icon-settled-contact.svg">
                                             <img src="/img/icon/all-you/icon-settled-contact.png" alt="" class="img-responsive">
                                         </picture>
-                                        <h4>LOGIQUEの定額スペシャリストリソースMix利用サービスをお問い合わせ</h4>
+                                        <h4>LOGIQUEの定額DX/DM支援サービスをお問い合わせ</h4>
                                     </div>
                                 </div>
                                 <div class="col-xs-8 col-sm-6 col-md-2">
-                                    <a href="/jp/contact.php" class="form-control btn btn--yellow">SELENGKAPNYA</a>
+                                    <a href="/jp/contact.php" class="form-control btn btn--yellow">お問い合わせ</a>
                                 </div>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
             <section class="bg--l-gray">
                 <div class="content-wrapper__">
                     <div class="container__">
-                        <h2 class="text-center m-b-50px">LOGIQUEの定額スペシャリスト使い放題サービスで解決！</h2>
+                        <h2 class="text-center m-b-50px">LOGIQUEの定額DX/DM支援サービス（スペシャリスト使い放題）で解決！</h2>
 
                         <div class="m-b-50px">
 
@@ -491,7 +491,7 @@
                                             </div>
                                             
                                             <div class="time-flow__item">
-                                                <h4>1人月分 コースで、調査＆基礎資料作成、開発＆テスト環境整備（3ヶ月〜）</h4>
+                                                <h4>1人月分コースで、保守運用スタート（3ヶ月目〜）</h4>
                                                 <ul class="list-unstyled m-t-10px list--with-icon">
                                                     <li>保守運用スタート</li>
                                                     <li>誰がいつ何の作業をしたのか透明性をもってレポートするので、無作業に対して支払いをするということがなくなります。</li>
@@ -565,7 +565,7 @@
             <section class="">
                 <div class="content-wrapper__">
                     <div class="container__">
-                        <?php include($_SERVER['DOCUMENT_ROOT'].'layanan/assets/components/dm-links.php'); ?>
+                        <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/dm-links.php'); ?>
                     </div>
                 </div>
             </section>
@@ -573,9 +573,10 @@
             <section class="all-you__security">
                 <div class="content-wrapper__">
                     <div class="container__">
-                        <h2 class="text-center m-b-50px">セキュリティー・サービス</h2>
+                        <!-- <h2 class="text-center m-b-50px">セキュリティー・サービス</h2> -->
+                        <?php include($_SERVER['DOCUMENT_ROOT'].'jp/services/assets/components/other-services.php'); ?>
 
-                        <div class="text-center row flex__row security__item">
+                        <!-- <div class="text-center row flex__row security__item">
                             <div class="col-xs-12 col-sm-6 col-md-3 m-b-20px">
                                 <a href="#" class="color--black">
                                     <div class="h-100 p-30px box-shadow--light item">
@@ -624,7 +625,7 @@
                                     </div>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
