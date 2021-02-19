@@ -235,7 +235,7 @@
                                             <source srcset="/img/icon/all-you/icon-settled-contact.svg">
                                             <img src="/img/icon/all-you/icon-settled-contact.png" alt="" class="img-responsive">
                                         </picture>
-                                        <h4>LOGIQUEの定額DX/DM支援サービスをお問い合わせ</h4>
+                                        <h4 class="color--white">LOGIQUEの定額DX/DM支援サービスをお問い合わせ</h4>
                                     </div>
                                 </div>
                                 <div class="col-xs-8 col-sm-6 col-md-2">
