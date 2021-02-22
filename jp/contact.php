@@ -54,6 +54,16 @@ if(isset($_POST['submitted']))
     <link rel="canonical" href="https://www.logique.co.id/jp/contact.php"/>
     <title>インドネシアのWeb制作・ITコンサルティング会社LOGIQUEデジタルINDONESIA</title>
 
+    <link rel="preload" href="/fonts/Novecentosanswide-Medium.otf" as="font" crossorigin/>
+    <link rel="preload" href="/fonts/glyphicons-halflings-regular.woff" as="font" crossorigin>
+    <link rel="preload" href="/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3" as="font" crossorigin>
+    <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style">
+    <link rel="preload" href="../css/bootstrap.min.css" as="style">
+    <link rel="preload" href="/css/sidebar-update.css" as="style">
+    <link rel="preload" href="/css/newstyle.css" as="style">
+    <link rel="preload" href="/css/style-contact.css" as="style">
+    <link rel="preload" href="../css/jpstyle.css" as="style">
+
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
@@ -61,10 +71,10 @@ if(isset($_POST['submitted']))
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link rel="stylesheet" href="/css/newstyle.css" >
     <link rel="stylesheet" href="/css/style-contact.css" >
-
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+
+    <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
+    <!-- <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;500;700&display=swap" rel="stylesheet"> -->
     <link href="../css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -96,6 +106,10 @@ if(isset($_POST['submitted']))
         text-align: left;
     }
 
+    .bg-grey {
+        background: #f4f4f4;
+        padding: 40px 30px;
+    }
     #contentsArea {
         z-index: 4;
         width: 100%;
@@ -1266,6 +1280,7 @@ if(isset($_POST['submitted']))
 
         </div>
 
+        <?php $slick_disabled = true; ?>
         <?php include 'footer.php';?>
 
     </div>

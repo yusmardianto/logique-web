@@ -19,6 +19,10 @@
     <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/mobile-app.php"/>
     <title>モバイルアプリ開発実績 | LOGIQUEデジタルインドネシア</title>
 
+    <link rel="preconnect" href="https://app.purechat.com">
+    <link rel="preconnect" href="https://prod.purechatcdn.com">
+    <link rel="preconnect" href="https://ajax.googleapis.com">
+
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet"> 
     
@@ -30,7 +34,7 @@
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -149,7 +153,10 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-nlec.webp">
+                                            <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
+                                        </picture> 
                                         <h3>NLEC Nihongo E-Learning PWA</h3>
                                     </div>
                                 </div>
@@ -157,7 +164,10 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-jba.webp">
+                                            <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        </picture>                                        
                                         <h3>JBA Indonesia Auction Bidding App</h3>
                                     </div>
                                 </div>
@@ -165,7 +175,10 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-otomart.webp">
+                                            <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                        </picture>
                                         <h3>Otomart - Used Car on Sale Finder App</h3>
                                     </div>
                                 </div>
@@ -173,7 +186,10 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-frangipani-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-frangipani.webp">
+                                            <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
+                                        </picture>
                                         <h3>Frangipani Esthetics Guest Comment App</h3>
                                     </div>
                                 </div>
@@ -189,7 +205,10 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/caroline.png" alt="">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/caroline.webp">
+                                            <img src="/img/portfolio/update/caroline.png" alt="">
+                                        </picture>
                                         <h3>Caroline Inspection App</h3>
                                     </div>
                                 </div>

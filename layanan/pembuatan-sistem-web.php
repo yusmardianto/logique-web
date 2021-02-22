@@ -1,4 +1,4 @@
-﻿ <!DOCTYPE html>
+﻿<!DOCTYPE html>
  <html lang="id">
 
  <head>
@@ -1278,12 +1278,20 @@
             </div>
         </div>
     </section>
+<<<<<<< HEAD
+    <div class="content-wrapper__">
+        <?php include './assets/components/dm-links.php' ?>
+        <?php include './assets/components/other-services.php' ?>
+    </div> 
+    <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+=======
     <div>  
         <div class="content-wrapper__">
             <?php include './assets/components/dm-links.php' ?>
             <?php include './assets/components/other-services.php' ?>
         </div> 
     </div>  
+>>>>>>> 5efc215787ea5203014d2159b885b8b34aabe7b0
      <?php include '../footer.php'; ?>
      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
      <script    src="/js/bootstrap.min.js"></script>

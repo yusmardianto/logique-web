@@ -29,13 +29,15 @@
   <link rel="preconnect" href="https://app.purechat.com">
   <link rel="preconnect" href="http://ajax.googleapis.com">
   <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+  <link rel="preload" href="../css/sidebar-update.css" as="style">
+
   <link rel="stylesheet  " href="/css/bootstrap.min.css" as="style">
   <link rel="stylesheet  " href="/css/slick.css" as="style">
   <link rel="stylesheet" href="../css/sidebar-update.css">
-  <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin/>
-  <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Medium.ttf" as="font" crossorigin/>
-  <link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf" as="font" crossorigin/>
+
+  <link rel="preload" href="../css/jpstyle.css" as="style">
   <link rel="preload" href="../css/newstyle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
   <noscript><link rel="stylesheet" href="../css/newstyle.css"></noscript>
   <link href="../css/jpstyle.css" rel="stylesheet"> 
   <!-- Facebook Pixel Code -->

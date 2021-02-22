@@ -55,13 +55,20 @@ if(isset($_POST['submitted']))
         content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
     <title>求人ページ制作｜採用サイト｜インドネシアのWEB制作・システム開発会社LOGIQUE</title>
     <link rel="canonical" href="https://www.logique.co.id/jp/services/recruitment-web-dev.php"/>
+
+    <link rel="preconnect" href="https://ajax.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://prod.purechatcdn.com">
+    <link rel="preconnect" href="https://app.purechat.com">
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <!-- <link href="/css/style.css" rel="stylesheet"> -->
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
     <!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Architects+Daughter" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
@@ -171,10 +178,12 @@ if(isset($_POST['submitted']))
                             <h2 style="padding-top: 15px;">求人・人材採用ページを活用して効果的な採用活動をサポートします。</h2>
                         </div>
                         <div class="col-sm-4 text-right">
-                            <a href="/jp/contact.php" target="_blank" aria-label="Contact Us" rel="noreferrer"><img
-                                    class="logo-logique img-responsive"
-                                    src="assets/img/img-recruitment-website/logo-y-logique.png" alt=""
-                                    style="float: right; margin-top:10px;"></a>
+                            <a href="/jp/contact.php" target="_blank" aria-label="Contact Us" rel="noreferrer">
+                                <picture>
+                                    <source srcset="ssets/img/img-recruitment-website/logo-y-logique.web[">
+                                    <img class="logo-logique img-responsive" src="assets/img/img-recruitment-website/logo-y-logique.png" alt="" style="float: right; margin-top:10px;">
+                                </picture>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -189,18 +198,26 @@ if(isset($_POST['submitted']))
                                 <div class="row">
 
                                     <div class="col-sm-4">
-                                        <img src="assets/img/img-recruitment-website/img-problem2.png" alt="HRD's Problem"
-                                            class="img-responsive">
+                                        <picture>
+                                            <source srcset="assets/img/img-recruitment-website/img-problem2.webp">
+                                            <img src="assets/img/img-recruitment-website/img-problem2.png" alt="HRD's Problem" class="img-responsive">
+                                        </picture>
                                         <div>求人情報を求職者に知らせることができない。選考に十分な求人の母数が集まらない。費用対効果のバランスのとれた求人媒体がない。</div>
                                     </div>
                                     <div class="col-sm-4">
-                                        <img src="assets/img/img-recruitment-website/img-problem3.png" alt="HRD's Problem"
-                                            class="img-responsive">
+                                    <picture>
+                                            <source srcset="assets/img/img-recruitment-website/img-problem3.webp">
+                                            <img src="assets/img/img-recruitment-website/img-problem3.png" alt="HRD's Problem" class="img-responsive">
+                                        </picture>
                                         <div>人材紹介会社を使うとコストが厳しい。。４ヶ月目で退職されたりすることも多く、常に人材紹介エージェントを使う訳にはいかない。</div>
                                     </div>
                                     <div class="col-sm-4">
-                                        <center><img src="assets/img/img-recruitment-website/img-problem1.png" alt="HRD's Problem"
-                                                class="img-responsive"></center>
+                                        <center>
+                                            <picture>
+                                                <source srcset="assets/img/img-recruitment-website/img-problem1.webp">
+                                                <img src="assets/img/img-recruitment-website/img-problem1.png" alt="HRD's Problem" class="img-responsive">
+                                            </picture>
+                                        </center>
                                         <div>JobStreetなど求人ポータルを利用すると求職者数は多く集まるのだが、質が悪く、スクリーニングコストが大きい。</div>
                                     </div>
                                 </div>
@@ -246,8 +263,10 @@ if(isset($_POST['submitted']))
             </section>
 
             <section class="simulation-container">
-                <img src="assets/img/img-recruitment-website/img-simulation2.png" alt="Cost Simulation" class="img-responsive "
-                    style="width: 100%;">
+                <picture>
+                    <source srcset="assets/img/img-recruitment-website/img-simulation2.webp">
+                    <img src="assets/img/img-recruitment-website/img-simulation2.png" alt="Cost Simulation" class="img-responsive " style="width: 100%;">
+                </picture>
                 <div class="container__">
                     <h2 class="text-center">
                     採用サイト（Ownedメディア）をもつ効果
@@ -255,8 +274,10 @@ if(isset($_POST['submitted']))
                     <div class="simul-cont1">
                         <div class="simul-1">仮に新たに</div>
                         <div class="simul-2">
-                            <img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Cost Simulation"
-                                class="img-responsive" style="margin: 0 auto 5px">
+                            <picture>
+                                <source srcset="assets/img/img-recruitment-website/img-simulation1.webp">
+                                <img src="assets/img/img-recruitment-website/img-simulation1.png" alt="Cost Simulation" class="img-responsive" style="margin: 0 auto 5px">
+                            </picture>
                                 10人の採用をする場合</div>
                         <div class="simul-3">10人の新規採用</div>
                     </div>
@@ -272,16 +293,20 @@ if(isset($_POST['submitted']))
                                 <center>
                                     <h4>求人ポータルサイトを利用</h4>
                                 </center>
-                                <img src="assets/img/img-recruitment-website/simulation1.png" alt="Cost Simulation"
-                                    class="img-responsive center-block">
+                                <picture>
+                                    <source srcset="assets/img/img-recruitment-website/simulation1.webp">
+                                    <img src="assets/img/img-recruitment-website/simulation1.png" alt="Cost Simulation" class="img-responsive center-block">
+                                </picture>
                             </div>
                             <div class="visible-xs"><br /><br /></div>
                             <div class="col-sm-6 simul-3">
                                 <center>
                                     <h4>人材紹介会社のサービスを利用</h4>
                                 </center>
-                                <img src="assets/img/img-recruitment-website/simulation2.png" alt="Cost Simulation"
-                                    class="img-responsive center-block">
+                                <picture>
+                                    <source srcset="assets/img/img-recruitment-website/simulation2.webp">
+                                    <img src="assets/img/img-recruitment-website/simulation2.png" alt="Cost Simulation" class="img-responsive center-block">
+                                </picture>
                             </div>
 							<div class="col-sm-12 simul-description">
 								多くの企業が求人ポータルサイトも人材紹介会社も利用していると思います。但し上記のような問題を感じながら利用されているのではないでしょうか？これらの問題を減らすためにも自社の求人採用WEBページ、特設WEBサイトを併用活用してより良い採用活動をしましょう。
@@ -299,8 +324,12 @@ if(isset($_POST['submitted']))
                 <div class="solution-container">
                     <div class="container__">
                         <div class="row">
-                            <div class="col-lg-7 col-md-6 col-sm-6 "><img src="assets/img/img-recruitment-website/bubble-text.png"
-                                    alt="Bubble Text" class="img-responsive"></div>
+                            <div class="col-lg-7 col-md-6 col-sm-6 ">
+                                <picture>
+                                    <source srcset="assets/img/img-recruitment-website/bubble-text.webp">
+                                    <img src="assets/img/img-recruitment-website/bubble-text.png" alt="Bubble Text" class="img-responsive">
+                                </picture>
+                            </div>
                             <div class="col-lg-5 col-md-6 col-sm-6 price-tag">
                                 <div class="price-tag-text">
                                     <!--<div style="font-size: 30px; font-weight: 900;line-height: 30px">Lebih </div>
@@ -329,7 +358,14 @@ if(isset($_POST['submitted']))
             <section class="forwho-container">
                 <div class="container__ hidden">
                     <div class="logo-logique2">
-                        <center><span class=""><img src="assets/img/img-recruitment-website/logo-y-logique.png"></span> </center>
+                        <center>
+                            <span class="">
+                                <picture>
+                                    <source srcset="assets/img/img-recruitment-website/logo-y-logique.webp">
+                                    <img src="assets/img/img-recruitment-website/logo-y-logique.png">
+                                </picture>
+                            </span> 
+                        </center>
                     </div>
                     <h3 class="custom-text">
                         <center>Teruntuk staf dan divisi HRD, <br>
@@ -365,7 +401,10 @@ if(isset($_POST['submitted']))
                     <div class="row">
                         <div class="col-sm-4">
                             <center>
-                                <img src="assets/img/img-recruitment-website/icon-design.png" alt="" class="img-responsive">
+                                <picture>
+                                    <source srcset="assets/img/img-recruitment-website/icon-design.webp">
+                                    <img src="assets/img/img-recruitment-website/icon-design.png" alt="" }class="img-responsive">
+                                </picture>
                                 <div>
                                     インドネシア人に御社の雰囲気をうまく伝えるデザインで制作します。写真や動画も必要に応じて使い、モバイル最適化したページデザインとします。
                                 </div>
@@ -373,14 +412,20 @@ if(isset($_POST['submitted']))
                         </div>
                         <div class="col-sm-4">
                             <center>
-                                <img src="assets/img/img-recruitment-website/icon-seo.png" alt="" class="img-responsive">
+                                <picture>
+                                    <source srcset="assets/img/img-recruitment-website/icon-seo.webp">
+                                    <img src="assets/img/img-recruitment-website/icon-seo.png" alt="" }class="img-responsive">
+                                </picture>
                                 <div>SEO対策をしっかりします。必要に応じて人事部の方にインタビューさせていただきコンテンツ制作いたします。求職者にもGoogleにも分かりやすいコンテンツを制作します。
                                 </div>
                             </center>
                         </div>
                         <div class="col-sm-4">
                             <center>
-                                <img src="assets/img/img-recruitment-website/icon-complete.png" alt="" class="img-responsive">
+                                <picture>
+                                    <source srcset="assets/img/img-recruitment-website/icon-complete.webp">
+                                    <img src="assets/img/img-recruitment-website/icon-complete.png" alt="" }class="img-responsive">
+                                </picture>
                                 <div>応募フォームを実装します。必要に応じて社内の人事システムとの連携、また採用ポータルとの連携システムの構築を行うことも可能です。
                                 </div>
                             </center>
@@ -533,11 +578,12 @@ if(isset($_POST['submitted']))
 			
 		</div>
 
+        <?php $slick_disabled = true; ?>
         <?php include '../footer.php'; ?>
     </div>
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
     <!-- <script src="/js/bootstrap.min.js"></script> -->
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
 
 </body>
 

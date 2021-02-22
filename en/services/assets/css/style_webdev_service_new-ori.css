@@ -11,22 +11,21 @@
     font-weight: bold;
     font-style: normal;
   } */
-  /* @font-face {
+  @font-face {
     font-family: "M Plus 1p";
     src: url("../fonts/M_PLUS_1p/MPLUS1p-Regular.ttf");
+    font-weight: normal;
   }
   @font-face {
     font-family: "M Plus 1p Medium";
     src: url("../fonts/M_PLUS_1p/MPLUS1p-Medium.ttf");
+    font-weight: 500;
   }
   @font-face {
     font-family: "M Plus 1p Bold";
     src: url("../fonts/M_PLUS_1p/MPLUS1p-Bold.ttf");
+    font-weight: 700;
   }
-  @font-face {
-    font-family: "M Plus 1p Extra Bold";
-    src: url("../fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf");
-  } */
   /* @font-face {
     font-family: "Raleway";
     src: url("../fonts/Raleway/Raleway-Regular.ttf");

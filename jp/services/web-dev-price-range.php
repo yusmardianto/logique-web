@@ -56,13 +56,26 @@ if(isset($_POST['submitted']))
          content="インドネシアの制作会社LOGIQUEのWebサイト・ホームページ制作サービスの価格例をご紹介します。静的なWebサイトから大規模なWebシステムまで価格に幅はありますが、概算をご紹介します。詳細はお問い合わせください。">
     <title>Web制作費用 | インドネシアのWeb制作会社LOGIQUEのホームページ制作</title>
     <link rel="canonical" href="https://www.logique.co.id/jp/services/web-dev-price-range.php"/>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://app.purechat.com">
+
+    <link rel="preload" href="/css/sidebar-update.css" as="style">
+    <link rel="preload" href="/css/style-revamp.css" as="style">
+
+    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin>
+    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Medium.ttf" as="font" crossorigin>
+    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf" as="font" crossorigin>
+    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf" as="font" crossorigin>
+    <link rel="preload" href="assets/fonts/Open_Sans/OpenSans-Bold.ttf" as="font" crossorigin>
+
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/style.css" rel="stylesheet">
     <link href="assets/css/style_webdev_service_new.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -235,7 +248,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/webdev-service/11.webp">
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
+                    </picture>
                 </div>
                 <div class="col-md-8 content-container">
                     <div class="title-container">
@@ -341,7 +357,10 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
                 <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/webdev-service/22.webp">
+                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/22.png" alt="">
+                    </picture>
                 </div>
             </div>
         </div>

@@ -165,8 +165,10 @@ if(isset($_POST['submitted']))
                          <!-- Wrapper for slides -->
                          <div class="carousel-inner">
                              <div class="item active">
-                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
+                                 <picture>
+                                     <source srcset="assets/img/img-webdev/carousel.webp">
+                                     <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja" class="img-responsive center-block">
+                                 </picture>
                              </div>
                          </div>
                          <ol class="carousel-indicators">
@@ -181,7 +183,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-md-5">
-                    <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/flow.webp">
+                        <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
+                    </picture>
                 </div>
                 <div class="col-sm-7 col-md-7">
                     <p class="flow-title">Webへの期待、予算、用意できる体制によって 作るべきWebは変わってきます</p>
@@ -1247,6 +1252,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
         </div>
     </section>
     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
