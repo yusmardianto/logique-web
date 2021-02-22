@@ -1556,11 +1556,11 @@ footer .medsos-new .facebook-icon:hover{
 
 .portfolio-update__content .content__detail .detail__description {
   padding: 20px;
-  min-height: 375px;
+  min-height: 200px;
 }
 
 .wrapper--update-design-font.--jp .portfolio-update__content .content__detail .detail__description {
-  min-height: 330px;
+  min-height: 200px;
 }
 
 .portfolio-update__content .content__detail .detail__goal {
