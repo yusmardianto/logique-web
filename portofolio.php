@@ -475,11 +475,11 @@
                                 </div>
                             </div>
                             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.jpg')">
-                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="" loading="lazy" >
-                                    <h4>E Commerce - Pilipili</h4>
-                                    <p>SEO | Website Maintenance</p>
-                                </div>
+                            <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')">
+                                        <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
+                                        <h4>Company Profile - Ishida</h4>
+                                        <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
+                                    </div>
                             </div>
                         </div>
                     </div>

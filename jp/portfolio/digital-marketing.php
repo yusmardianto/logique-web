@@ -122,7 +122,7 @@
                     <h2 class="text-center">インドネシアでのデジタルマーケティング事例</h2>
                     <div class="content__wrapper">
                         <div class="flex__row">
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
                                     <img src="/img/portfolio/update/dm-bamboo.png" alt="">
                                     <h4>不動産開発販売 – Green Bamboo Terrace</h4>
@@ -175,7 +175,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
                                     <img src="/img/portfolio/update/dm-mirai.png" alt="">
                                     <h4>不動産開発販売 – 一建設インドネシア</h4>
@@ -228,59 +228,113 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
-                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="" style="flex-grow: 1; object-position: top;">
-                                    <h4>E Commerce - Pilipili</h4>
-                                    <p>SEO対策 | Web最適化</p>
-                                </div>
-                                <div class="content__detail" style="background-color: #DDF0FF;">
-                                    <div class="detail__description">
-                                    バッグなどを販売するアパレルECのPilipili にてオーガニックトラフィックを増やすことを目的としてご支援しました。２ヶ月目から目に見えた成果が出ました。オーガニックトラフィックを増やした後は、直帰率の低下、滞在時間の長期化、回遊率アップ、コンバージョンRateの向上など、設定した各課題に対して、全て成果を出すことに成功しました。
+                           
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')">
+                                        <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
+                                        <h4>Company Profile - Ishida</h4>
+                                        <p>SEO | Website Maintenance</p>
                                     </div>
-                                    <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
-                                        <h4>Goals</h4>
-                                        <p>Increase website traffic with organic channels</p>
-                                    </div>
-                                    <div class="detail__achievement" style="color: #15588c;">
-                                        <h4>Achievements</h4>
-                                        <div class="row">
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +8.4%
+                                    <div class="content__detail" style="background-color: #DDF0FF;">
+                                        <div class="detail__description">
+                                        Ishida adalah produsen mesin timbang, packing, dan mesin inspeksi (checkweigher, metal detector, x-ray) yang memiliki pengalaman lebih dari 125 tahun secara global di berbagai industri seperti snacks, daging, buah segar, ready meal, seafood, dan banyak industri lainnya.
+                                        </div>
+                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
+                                            <h4>Goals</h4>
+                                            <p>Meningkatkan Leads – Dengan Google ADs</p>
+                                        </div>
+                                        <div class="detail__achievement" style="color: #15588c;">
+                                            <h4>Achievements</h4>
+                                            <div class="row">
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +67% 
+                                                        </div>
+                                                        <p>Konversi Leads</p>
                                                     </div>
-                                                    <p>Number of Sessions</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    -7.01%
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -23,7%
+                                                        </div>
+                                                        <p>Penurunan Cost Per Leads</p>
                                                     </div>
-                                                    <p>Number of Pageviews</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +2.7x
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +31,9%
+                                                        </div>
+                                                        <p>Conversions Rate</p>
                                                     </div>
-                                                    <p>Visitors Stay Longer</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +1.9x
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +28,6%
+                                                        </div>
+                                                        <p>ROAS (Return On Ad Spend)</p>
                                                     </div>
-                                                    <p>Percentage of Bounce Rate</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/tsubame-dm-portfolio.jpg')">
+                                        <img src="/img/portfolio/update/dm-tsubame-logo.png" alt="">
+                                        <h4>Education - Tsubame</h4>
+                                        <p>SEO | Website Maintenance</p>
+                                    </div>
+                                    <div class="content__detail" style="background-color: #DDF0FF;">
+                                        <div class="detail__description">
+                                        Tsubame merupakan situs web Lembaga Pelatihan Kerja (LPK) magang ke Jepang yang bertugas untuk mengirimkan siswa/i asal Indonesia yang ingin magang kerja ke Jepang. Logique telah berhasil memberikan dampak perkembangan yang positif bagi perkembangan LPK Tsubame.
+                                        </div>
+                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
+                                            <h4>Goals</h4>
+                                            <p>Meningkatkan Traffic website melalui channel organic</p>
+                                        </div>
+                                        <div class="detail__achievement" style="color: #15588c;">
+                                            <h4>Achievements</h4>
+                                            <div class="row">
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +105,83%
+                                                        </div>
+                                                        <p>Jumlah Sessions</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +90,77%
+                                                        </div>
+                                                        <p>Jumlah Pageviews</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -21,91%
+                                                        </div>
+                                                        <p>Pengunjung berada lebih lama</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -4,92%
+                                                        </div>
+                                                        <p>Penurunan bounce rate dalam 1 bulan</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                         </div>
                     </div>
                 </div>
