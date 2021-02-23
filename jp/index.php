@@ -127,9 +127,7 @@
                 <div class="col-md-offset-1 col-md-10 text-center">
                   <h1 class="title-index" style="margin-top: 100px;">インドネシアでお客様の課題を<br class="visible-md visible-lg">Web・ITの活用で解決してきました
                   </h1>
-                  <p>Webシステム開発、Web・ホームページ制作、スマホアプリ開発、IT/DXコンサルティングサービスをインドネシアで行っております。インドネシア国内のお客様のデジタル/ネットビジネスを戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWeb/システムを制作開発運用することを心がけています。
-</p>
-
+                  <p>Webシステム開発、Web・ホームページ制作、スマホアプリ開発、IT/DXコンサルティングサービスをインドネシアで行っております。インドネシア国内のお客様のデジタル/ネットビジネスを戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWeb/システムを制作開発運用することを心がけています。</p>
                   <p>インターネット広告、ソーシャルメディアの運用、クラウドサーバー運用、Webサイトやアプリのセキュリティ脆弱性診断など関連サービスも幅広く提供していますのでお気軽にご相談ください。</p>
                 </div>
               </div>
@@ -169,6 +167,17 @@
           </div>
         </div>
       </div>
+
+      <section class="bg--white">
+        <div class="container__">
+          <a href="/jp/services/dx-dm-service.php">
+            <picture>
+              <source srcset="/img/dx-dm-banner.webp" type="image/webp">
+              <img src="/img/dx-dm-banner.jpg" alt="" class="img-responsive">
+            </picture>
+          </a>
+        </div>
+      </section>
 
       <section class="portfolio bg--white">
         <div class="container__">
