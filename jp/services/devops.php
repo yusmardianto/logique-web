@@ -56,6 +56,12 @@ if(isset($_POST['submitted']))
     <link rel="canonical" href="https://www.logique.co.id/jp/services/devops.php"/>
     <title>クラウドサーバー構築運用 | DevOps | ジャカルタのシステム開発会社LOGIQUEデジタルインドネシア</title>
 
+    <link rel="preconnect" href="https://ajax.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+
     <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
@@ -190,7 +196,10 @@ if(isset($_POST['submitted']))
                     <div class="col-sm-4">
                         <div class="devops-work-item">
                             <div class="img-container">
-                                <img src="assets/img/img-devops/jba-logo.png" class="img-responsive">
+                                <picture>
+                                    <source srcset="assets/img/img-devops/jba-logo.webp">
+                                    <img src="assets/img/img-devops/jba-logo.png" class="img-responsive mx-auto">
+                                </picture>
                             </div>
                             <div class="devops-desc">
                                 2013年にクラウドサーバーを構築して移行して以来保守運用、請求代行サービスを行っています。大きなトラブルなく運用できています。
@@ -200,7 +209,10 @@ if(isset($_POST['submitted']))
                     <div class="col-sm-4">
                         <div class="devops-work-item">
                             <div class="img-container">
-                                <img src="assets/img/img-devops/confidential-img.png" class="img-responsive">
+                                <picture>
+                                    <source srcset="assets/img/img-devops/confidential-img.webp">
+                                    <img src="assets/img/img-devops/confidential-img.png" class="img-responsive mx-auto">                                
+                                </picture>
                             </div>
                             <div class="devops-desc">
                                 某大手保険会社のWebサーバーをAlibabaクラウド内に構築運用しています。インドネシア国内でサーバーを運用するルールに則ったものです。
@@ -210,7 +222,10 @@ if(isset($_POST['submitted']))
                     <div class="col-sm-4">
                         <div class="devops-work-item">
                             <div class="img-container">
-                                <img src="assets/img/img-devops/confidential-img.png" class="img-responsive">
+                                <picture>
+                                    <source srcset="assets/img/img-devops/confidential-img.webp">
+                                    <img src="assets/img/img-devops/confidential-img.png" class="img-responsive mx-auto">                                
+                                </picture>
                             </div>
                             <div class="devops-desc">
                                 マーケットプレイスをAWSに構築。サイトの成長に合わせサーバー構成をチューニングしながら保守運用している。

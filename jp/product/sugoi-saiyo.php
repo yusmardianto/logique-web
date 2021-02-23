@@ -48,13 +48,23 @@
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <title>インドネシアでの採用を効率的に｜SugoiSaiyo｜LOGIQUE DIGITAL INDONESIA</title>
      <link rel="canonical" href="https://www.logique.co.id/jp/product/sugoi-saiyo.php"/>
+
+     <link rel="preload" href="/fonts/Novecentosanswide-Medium.otf" as="font" crossorigin/>
+     <link rel="preload" href="/css/style-revamp.css" as="style">
+     <link rel="preload" href="/css/sidebar-update.css" as="style">
+     <link rel="preload" href="/css/style.css" as="style">
+     <link rel="preload" href="/css/bootstrap.min.css" as="style">
+     <link rel="preload" href="css/style_sugoisaiyo.css" as="style">
+     <link rel="preload" href="/css/jpstyle.css" as="style">
+
      <link href="/css/bootstrap.min.css" rel="stylesheet">
      <link href="/css/style.css" rel="stylesheet">
      <link href="css/style_sugoisaiyo.css" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
-     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
-     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+     <link href="/css/jpstyle.css" rel="stylesheet">
+     <!-- <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet"> -->
+     <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
+     <!-- <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
      <script>
      (function(i, s, o, g, r, a, m) {
          i['GoogleAnalyticsObject'] = r;
@@ -653,6 +663,7 @@
          </section>
      </div>
 
+     <?php $slick_disabled = true; ?>
      <?php include '../footer.php'; ?>
 
      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>

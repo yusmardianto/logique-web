@@ -13,7 +13,25 @@ CSS Reset
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
 
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700&display=swap');
+@font-face {
+	font-family: "M Plus 1p";
+	src: url("../fonts/M_PLUS_1p/MPLUS1p-Regular.ttf");
+	font-weight: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "M Plus 1p";
+	src: url("../fonts/M_PLUS_1p/MPLUS1p-Medium.ttf");
+	font-weight: 500;
+	font-display: swap;
+}
+@font-face {
+	font-family: "M Plus 1p";
+	src: url("../fonts/M_PLUS_1p/MPLUS1p-Bold.ttf");
+	font-weight: 700;
+
+	font-display: swap;
+}
 * {
     font-family: 'M PLUS 1p',Lato, sans-serif; 
 }
@@ -244,8 +262,7 @@ header.head-banner{
 }
 .simul-container{
 	padding-bottom: 30px;
-	background: url(../img/img-recruitment-website/bg-yellow.png) no-repeat;
-	background-size: cover;
+	background-color: #ecbc14;
 }
 .simul-container div center:not(:last-child) {
 	line-height: 1;

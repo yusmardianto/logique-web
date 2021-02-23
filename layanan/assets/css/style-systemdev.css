@@ -865,7 +865,8 @@ section.dm__other-service  strong, section.dm__links   strong {
     overflow: hidden;
     position: relative;
 } 
-.class-jamstack-5 .success-item.center {
+ 
+  .class-jamstack-5 .success-item.center {
     border: 1px solid rgb(239, 239, 239);
     box-shadow: 0px 23px 21px -18px rgba(0, 0, 0, 0.1);
 }
@@ -896,7 +897,9 @@ section.dm__other-service  strong, section.dm__links   strong {
     text-transform: uppercase;
 }
 section.content-section.seventh-part {
+  
     padding: 0 0 15px;
+ 
 }
 .class-jamstack-6 {
     padding-bottom: 15px;
@@ -1167,13 +1170,5 @@ section.content-section.seventh-part {
     background-size: cover;
     padding: 35px 0 40px 0;
     margin-bottom: 30px;
+    }
 }
- }
-
- 
-
-
- 
-
-
- 

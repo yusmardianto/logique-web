@@ -1649,6 +1649,11 @@ cursor: pointer;
   font-weight: 600;
   letter-spacing: -0.2px;
 }
+
+.content-article .article-container .img-container .img-news-thumbnail{
+  height: 150px;
+  object-fit: cover;
+}
 .content-article .article-indicators {
     position: relative;
     bottom: 0;

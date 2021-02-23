@@ -19,6 +19,10 @@
     <link rel="canonical" href="https://www.logique.co.id/jp/services/digital-marketing.php">
     <title>デジタルマーケティングサービス | LOGIQUEデジタル インドネシア</title>
 
+    <link rel="preconnect" href="https://www.google-analytics.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+
     <!-- bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
@@ -365,9 +369,16 @@
 
     </div>
 
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php'; ?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
+    <script src="/js/modernizr-custom.js"></script>                                
     <script>
+        Modernizr.on('webp', function(result) {
+            if (result) {
+                $("body").addClass('webp');
+            }
+        });
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();
             $(this).ekkoLightbox();
