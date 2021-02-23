@@ -1,10 +1,12 @@
 ﻿<!DOCTYPE html>
 <html lang="ja">
+
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="インドネシアでWebシステム、モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのサービス紹介ページ。ジャカルタに本社をもちジョグジャカルタに制作運用センターをもつ10年近いインドネシアでの経験をもつ制作開発会社です。">
+    <meta name="description" itemprop="description"
+        content="インドネシアでWebシステム、モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのサービス紹介ページ。ジャカルタに本社をもちジョグジャカルタに制作運用センターをもつ10年近いインドネシアでの経験をもつ制作開発会社です。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, 印刷">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="インドネシアのITコンサルティング会社LOGIQUEのサービス紹介">
@@ -15,15 +17,15 @@
     <meta property="og:description"
         content="インドネシアでWebシステム、モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのサービス紹介ページ。ジャカルタに本社をもちジョグジャカルタに制作運用センターをもつ10年近いインドネシアでの経験をもつ制作開発会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/jp/services.php"/>
+    <link rel="canonical" href="https://www.logique.co.id/jp/services.php" />
     <title>インドネシアのITコンサルティング会社LOGIQUEのサービス紹介</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- <link href="../css/style.css" rel="stylesheet"> -->
-    
-    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+
+    <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-revamp.css" rel="stylesheet">
     <link href="/css/style-services.css" rel="stylesheet">
@@ -66,14 +68,13 @@
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
                                         href="index.php"><span itemprop="name">Home</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
+                                            itemprop="name">&nbsp;LOGIQUEのサービス</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -106,6 +107,17 @@
                             </a>
                         </div>
                     </div>
+                </div>
+            </section>
+
+            <section class="bg--white">
+                <div class="container__">
+                    <a href="/jp/services/dx-dm-service.php">
+                        <picture>
+                            <source srcset="/img/dx-dm-banner.webp" type="image/webp">
+                            <img src="/img/dx-dm-banner.jpg" alt="" class="img-responsive">
+                        </picture>
+                    </a>
                 </div>
             </section>
 
@@ -574,8 +586,7 @@
                                 <p>インドネシアで多くのモバイルアプリ、ハイブリッドアプリの開発を行ってきました。モバイル・ソリューションの活用でインドネシア市場で発展する企業をご支援しています。モバイルアプリと他システムとの連携などが必要になるケースがほとんどです。インフラの設計設定から、他システムとのデータ連携、バックエンドシステムの開発まで幅広く対応可能です。
                                 </p>
                                 <div class="service-detail__btn-wrapper">
-                                    <a target="_blank" class="main-btn --yellow"
-                                        href="/jp/services/progressive-web-app-dev.php">もっと見る</a>
+                                    <a target="_blank" class="main-btn --yellow" href="/jp/services/progressive-web-app-dev.php">もっと見る</a>
                                 </div>
                             </div>
                         </div>
@@ -591,8 +602,7 @@
                                         企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。PWA開発も豊富にあります。
                                     </p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/jp/services/mobile-app-dev.php">もっと見る</a>
+                                        <a target="_blank" class="main-btn --yellow" href="/jp/services/mobile-app-dev.php">もっと見る</a>
                                     </div>
                             </div>
                         </div>
@@ -632,7 +642,7 @@
                                 <source srcset="/img/google-badge.webp">
                                 <img class="google-badge --ja" src="/img/google-badge.png" alt="Google Badge">
                             </picture>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -650,8 +660,7 @@
                                         インドネシア語で金融系ビッグキーワードや車系ビッグキーワードで1位を長く維持した実績あります。 SEMもお任せください。
                                     </p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
+                                        <a target="_blank" class="main-btn --yellow" href="/jp/services/digital-marketing/seo-service.php">もっと見る</a>
                                     </div>
                             </div>
                         </div>
@@ -666,8 +675,7 @@
                                     <p>インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。
                                         パートナーと協業して効果の高いソリューションをご提供します。</p>
                                     <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow"
-                                            href="/jp/services/digital-marketing.php">もっと見る</a>
+                                        <a target="_blank" class="main-btn --yellow" href="/jp/services/digital-marketing.php">もっと見る</a>
                                     </div>
                             </div>
                         </div>
@@ -804,7 +812,8 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">IT/DXコンサルティング</h4>
                                     <p>
-                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、DX推進支援、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT” 領域で様々なコンサルティングやアドバイザリーサービスを行っています。
+                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、DX推進支援、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT”
+                                        領域で様々なコンサルティングやアドバイザリーサービスを行っています。
                                     </p>
                                     <br>
                                     <p>
@@ -989,7 +998,7 @@
                                 <li>従業員（オフィスワーカー）の生産性を向上したい</li>
                                 <li>インドネシア語でSEO対策したい</li>
                                 <li>FacebookやInstagramを活用して集客したい</li>
-                                <li>Webサイトやアプリにセキュリティ脆弱性がないか検査したい。</li>                                
+                                <li>Webサイトやアプリにセキュリティ脆弱性がないか検査したい。</li>
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">お問い合わせ</a>
                         </div>
