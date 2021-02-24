@@ -138,7 +138,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>Project Manager / Consultant merupakan lini depan LOGIQUE yang dapat berkomunikasi, memahami masalah yang dihadapi, serta mampu memberikan solusi terbaik yang dibutuhkan client dari sisi bisnis maupun teknis. <br>Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant juga berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
+                <p><span class="fs-24 line-height-1"> Project Manager / Consultant</span> merupakan lini depan LOGIQUE yang dapat berkomunikasi, memahami masalah yang dihadapi, serta mampu memberikan solusi terbaik yang dibutuhkan client dari sisi bisnis maupun teknis. <br>Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant juga berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
               </div>
              
               <div class="career-requirement">
