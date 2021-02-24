@@ -843,7 +843,8 @@ section.dm__other-service  strong, section.dm__links   strong {
     overflow: hidden;
     position: relative;
 } 
-.class-jamstack-5 .success-item:hover {
+.class-jamstack-5 .success-item.center {
+    border: 1px solid rgb(239, 239, 239);
     box-shadow: 0px 23px 21px -18px rgba(0, 0, 0, 0.1);
 }
 .class-jamstack-5 .circle-- {
@@ -873,7 +874,7 @@ section.dm__other-service  strong, section.dm__links   strong {
     text-transform: uppercase;
 }
 section.content-section.seventh-part {
-    padding: 0 0 25px;
+    padding: 0 0 15px;
 }
 .class-jamstack-6 {
     padding-bottom: 15px;

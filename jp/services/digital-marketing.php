@@ -199,10 +199,7 @@
             <div class="container__ text-center">
                 <h2>Marketing Trends</h2>
                 <p>デジタルマーケティングの技術は日進月歩です。全てのビジネスでデジタルマーケティングを行うことは成功への不可欠な要素となっています。トレンドを把握しインドネシアの特殊性を理解した上で適切に活用していくご支援をします。</p>
-                <picture>
-                    <source srcset="assets/img/img-digital-marketing/trend-image.webp">
-                    <img src="assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive">
-                </picture>
+                <img src="assets/img/img-digital-marketing/trend-image.png" alt="" class="img-responsive" loading="lazy">
                 <p>インターナショナルにまたインドネシア国内で、テクニカルチームとクリエイティブチームを持つ<strong>LOGIQUE</strong>はお客様のデジタルマーケティングを正しい方向に導く成功経験を作ってきました。常に最新動向をキャッチアップしお客様にベストな提案をすることを心掛けています。</p>
             </div>
         </section>
@@ -362,10 +359,7 @@
             <div class="container__ text-center">
                 <h2>How <strong>LOGIQUE</strong>'s Team Work</h2><br>
                 <a href="assets/img/img-digital-marketing/lgq-teamwork.png" data-toggle="lightbox">
-                    <picture>
-                        <source srcset="assets/img/img-digital-marketing/lgq-teamwork.webp">
-                        <img src="assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive">
-                    </picture>
+                    <img src="assets/img/img-digital-marketing/lgq-teamwork.png" alt="teamwork" class="img-responsive" loading="lazy">
                 </a>
             </div>
         </section>
