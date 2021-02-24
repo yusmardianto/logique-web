@@ -6,18 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
+        content="We have developed many Websites, Systems & Apps. Check our portfolios on Web creation, mobile app / PWA development, IT system development & many more.">
     <meta name="keywords" content="website creation, web-system development, designing, printing, corporate site, landing page">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Portfolio | Websites, Systems and Apps | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is frequently involved in numerous web development projects, ranging from designing web systems, mobile applications, digital marketing campaigns, and many other IT related ventures. Our work within the Digital and IT areas cover ASEAN countries; especially Indonesia and Japan. Click here to see our top achievements and clientele portfolio.">
+        content="We have developed many Websites, Systems & Apps. Check our portfolios on Web creation, mobile app / PWA development, IT system development & many more.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Portfolio | Web System App Development Works | LOGIQUE Digital Indonesia</title>
+    <title>Portfolio | Websites, Systems and Apps | LOGIQUE Digital Indonesia</title>
 
     <link rel="canonical" href="https://www.logique.co.id/en/portfolio.php" />
     
