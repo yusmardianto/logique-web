@@ -204,7 +204,7 @@
                             </div>
                             <div class="col-xs-12 col-md-8">
                                 <h4><span class="logo-font">LOGIQUE</span> offers unlimited use of its varied & specialist human resources, as per your need.</h4>
-                                <p>LOGIQUE’s in-house IT/DX/DM specialists (a total of about 80 people) can be assigned as needed with the aim to provide you with their top quality professional services. Below is a list of specialists currently active with LOGIQUE.</p>
+                                <p><span class="logo-font">LOGIQUE’s</span> in-house IT/DX/DM specialists (a total of about 80 people) can be assigned as needed with the aim to provide you with their top quality professional services. Below is a list of specialists currently active with <span class="logo-font">LOGIQUE</span>.</p>
                                 <p>Designer (UI / UX design, Web / Graphic design, Video editing), BackEnd developer (PHP based framework, .Net, Node.js), FrontEnd developer (HTML5 / CSS3, JAMStack, Javascript Based Programming (React, Vue, Angular) ), Mobile App Developer (Native with Java, Kotlin or Swift; Hybrid with React Native or Flutter), DevOps, Project Manager (PMI-PMP Certificated), Security Specialist (certificated), Business Analyst, Quality Assurance Specialist (Software Tester) , Digital Marketing (SEO Specialist, Ads Optimizer, SNS Specialist, Content Writer, English Native Content Writer).</p>
                             </div>
                         </div>
@@ -232,7 +232,7 @@
                                             <source srcset="/img/icon/all-you/icon-settled-contact.svg">
                                             <img src="/img/icon/all-you/icon-settled-contact.png" alt="" class="img-responsive">
                                         </picture>
-                                        <h4 class="color--white">Ask us more about LOGIQUE's Flat-rate DX/DM Specialists Service. </h4>
+                                        <h4 class="color--white">Ask us more about <span class="logo-font">LOGIQUE</span>'s Flat-rate DX/DM Specialists Service. </h4>
                                     </div>
                                 </div>
                                 <div class="col-xs-8 col-sm-6 col-md-2">
@@ -336,7 +336,7 @@
                                                 <h4>The Project starts with a 1 Man-Month package: 45 million rupiah (for 1 month).</h4>
                                                 <ul class="list-unstyled m-t-10px list--with-icon">
                                                     <li>In addition to a PM, assign a business analyst and a lead programmer to develop a prototype.</li>
-                                                    <li>Their in-house designer or LOGIQUE’s designer will create the design.</li>
+                                                    <li>Their in-house designer or <span class="logo-font">LOGIQUE</span>’s designer will create the design.</li>
                                                     <li>The system architecture is designed by the lead programmer.</li>
                                                     <li>Assign a front-end developer for prototyping.</li>
                                                 </ul>
@@ -550,7 +550,7 @@
                                 <p class="m-b-10px">In addition, various efficient operations can be considered.</p>
                                 <p class="m-b-10px">First of all, please tell us about any issues that your company has been facing.</p>
                                 <p class="m-b-30px">Solve your problems by utilizing our In-House Specialists</p>
-                                <a href="/en/contact.php" class="form-control btn btn--yellow">Contact LOGIQUE about our Fixed-rate DX/DM Specialist Service</a>
+                                <a href="/en/contact.php" class="form-control btn btn--yellow">Contact <span class="logo-font">LOGIQUE</span> about our Fixed-rate DX/DM Specialist Service</a>
                             </div>
                         </div>
                     </div>
