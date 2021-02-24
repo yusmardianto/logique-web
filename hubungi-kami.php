@@ -42,19 +42,19 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
+        content="Tertarik untuk pengembangan website, aplikasi web & mobile app, jasa digital marketing, seo atau hanya ingin berkonsultasi terkait bisnis digital? Hubungi Kami.">
     <meta name="keywords"
         content="pengembangan sistem web, digital marketing, pembuatan aplikasi android, media sosial, sistem aplikasi, hubungi kami, pembuatan website, konten, pemasaran, konsultasi, seo">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE">
+    <meta property="og:title" content="Hubungi Kami Untuk Kebutuhan Bisnis Digital Anda | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/hubungi-kami.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
     <meta property="og:description"
-        content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
+        content="Tertarik untuk pengembangan website, aplikasi web & mobile app, jasa digital marketing, seo atau hanya ingin berkonsultasi terkait bisnis digital? Hubungi Kami.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE</title>
+    <title>Hubungi Kami Untuk Kebutuhan Bisnis Digital Anda | LOGIQUE</title>
     
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
@@ -689,7 +689,7 @@ if(isset($_POST['submitted']))
             <section style="background-color: #f4f4f4;">
                 <div class="container__ text-center" style="padding-bottom:0">
                     <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
-                        Contact Us
+                    Hubungi Kami
                     </h1>
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">

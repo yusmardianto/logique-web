@@ -97,7 +97,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Consultant / Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Project Manager  / Consultant </span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -107,7 +107,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Consultant / <br>Project Manager</h1>
+              <h1 class="header__title">Project Manager / <br>Consultant </h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -138,7 +138,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>LOGIQUE membuka lowongan khusus untuk Consultant / Project Manager yang memiliki tingkat pengalaman yang baik dalam pengembangan website / sistem berbasis web / aplikasi mobile dalam industri otomotif. Mari bergabung bersama kami.</p>
+                <p><span class="fs-24 line-height-1"> Project Manager / Consultant</span> merupakan lini depan LOGIQUE yang dapat berkomunikasi, memahami masalah yang dihadapi, serta mampu memberikan solusi terbaik yang dibutuhkan client dari sisi bisnis maupun teknis. <br>Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant juga berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
               </div>
              
               <div class="career-requirement">

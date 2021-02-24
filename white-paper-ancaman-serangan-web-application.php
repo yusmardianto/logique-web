@@ -78,19 +78,19 @@ $kodeBarang = $result;
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
+        content="Download panduan lengkap mengenai langkah antisipasi & cara penanganan ancaman serangan terhadap aplikasi berbasis web / web application disini. | LOGIQUE">
     <meta name="keywords"
         content="pengembangan sistem web, digital marketing, pembuatan aplikasi android, media sosial, sistem aplikasi, hubungi kami, pembuatan website, konten, pemasaran, konsultasi, seo">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE">
+    <meta property="og:title" content="White Paper Download | Ancaman Serangan Pada Web App">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/hubungi-kami.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
     <meta property="og:description"
-        content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
+        content="Download panduan lengkap mengenai langkah antisipasi & cara penanganan ancaman serangan terhadap aplikasi berbasis web / web application disini. | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>White Paper Download | LOGIQUE</title>
+    <title>White Paper Download | Ancaman Serangan Pada Web App</title>
 
     <link rel="canonical" href="https://www.logique.co.id/white-paper-ancaman-serangan-web-application.php" />
 
