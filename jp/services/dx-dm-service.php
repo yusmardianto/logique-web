@@ -16,7 +16,7 @@
     <meta property="og:description"
         content="LOGIQUEのDX, IT, Digital Marketingに関するin-Houseスペシャリスト（合計約80名）を必要に応じてご利用可能です。デザイナー、プログラマー、アナリスト、セキュリティスペシャリスト、ソーシャルメディアスペシャリストなど様々なスペシャリストの支援を受けられます。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/website.php"/>
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/dx-dm-service.php"/>
     <title>定額DX/DM支援サービス | スペシャリスト利用し放題 | LOGIQUE DIGITAL INDONESIA</title>
     
     <!-- font -->
@@ -50,8 +50,8 @@
 
         <?php 
             $lang = 'jp';
-            $en_link = '#';
-            $id_link = '#';
+            $en_link = '/en/services/dx-dm-service.php';
+            $id_link = '/layanan/dx-dm-service.php';
             $jp_link = '#';
             include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
@@ -193,7 +193,7 @@
             <section class="all-you__settled">
                 <div class="content-wrapper__">
                     <div class="container__">
-                        <h2 class="text-center m-b-30px">LOGIQUEの定額DX/DM支援サービス</h2>
+                        <h2 class="text-center m-b-30px"><span class="logo-font">LOGIQUE</span>の定額DX/DM支援サービス</h2>
 
                         <div class="m-b-30px row flex__row settled__article">
                             <div class="col-xs-12 col-md-4">
@@ -203,8 +203,8 @@
                                 </picture>
                             </div>
                             <div class="col-xs-12 col-md-8">
-                                <h4>LOGIQUEの様々なスペシャリストリソースを必要に応じて使い放題</h4>
-                                <p>LOGIQUEのDX/IT/Digital Marketingに関するin-Houseスペシャリスト（合計約80名）が御社にいま必要な作業を行います。以下がLOGIQUEに在籍するスペシャリストの一覧です。デザイナー(UI/UXデザイン, Web/グラフィックデザイン, Video編集)、BackEndデベロッパー(PHP based framework, .Net, Node.js)、FrontEndデベロッパー(HTML5 / CSS3, JAMStack, Javascript Based Programming (React, Vue, Angular))、モバイルAppデベロッパー(Native with Java, Kotlin or Swift; Hybrid with React Native or Flutter)、DevOps、プロジェクトマネージャー（PMI-PMP Certificated)、セキュリティスペシャリスト（CEH certificated)、ビジネスアナリスト、Quality Assuranceスペシャリスト（ソフトウェアテスター）、デジタルマーケティング（SEOスペシャリスト、Adsオプティマイザー、SNSスペシャリスト、コンテンツライター、英語ネイティブコンテンツライター）</p>
+                                <h4><span class="logo-font">LOGIQUE</span>の様々なスペシャリストリソースを必要に応じて使い放題</h4>
+                                <p><span class="logo-font">LOGIQUE</span>のDX/IT/Digital Marketingに関するin-Houseスペシャリスト（合計約80名）が御社にいま必要な作業を行います。以下が<span class="logo-font">LOGIQUE</span>に在籍するスペシャリストの一覧です。デザイナー(UI/UXデザイン, Web/グラフィックデザイン, Video編集)、BackEndデベロッパー(PHP based framework, .Net, Node.js)、FrontEndデベロッパー(HTML5 / CSS3, JAMStack, Javascript Based Programming (React, Vue, Angular))、モバイルAppデベロッパー(Native with Java, Kotlin or Swift; Hybrid with React Native or Flutter)、DevOps、プロジェクトマネージャー（PMI-PMP Certificated)、セキュリティスペシャリスト（CEH certificated)、ビジネスアナリスト、Quality Assuranceスペシャリスト（ソフトウェアテスター）、デジタルマーケティング（SEOスペシャリスト、Adsオプティマイザー、SNSスペシャリスト、コンテンツライター、英語ネイティブコンテンツライター）</p>
                             </div>
                         </div>
 
@@ -231,7 +231,7 @@
                                             <source srcset="/img/icon/all-you/icon-settled-contact.svg">
                                             <img src="/img/icon/all-you/icon-settled-contact.png" alt="" class="img-responsive">
                                         </picture>
-                                        <h4 class="color--white">LOGIQUEの定額DX/DM支援サービスをお問い合わせ</h4>
+                                        <h4 class="color--white"><span class="logo-font">LOGIQUE</span>の定額DX/DM支援サービスをお問い合わせ</h4>
                                     </div>
                                 </div>
                                 <div class="col-xs-8 col-sm-6 col-md-2">
@@ -247,7 +247,7 @@
             <section class="bg--l-gray">
                 <div class="content-wrapper__">
                     <div class="container__">
-                        <h2 class="text-center m-b-50px">LOGIQUEの定額DX/DM支援サービス（スペシャリスト使い放題）で解決！</h2>
+                        <h2 class="text-center m-b-50px"><span class="logo-font">LOGIQUE</span>の定額DX/DM支援サービス（スペシャリスト使い放題）で解決！</h2>
 
                         <div class="m-b-50px">
 
@@ -403,7 +403,7 @@
                                             </div>
                                             
                                             <div class="time-flow__item">
-                                                <h4>2人月分 コースでサブシステム / モジュール開発を行う（2ヶ月間〜</h4>
+                                                <h4>2人月分 コースでサブシステム / モジュール開発を行う（2ヶ月間〜)</h4>
                                                 <ul class="list-unstyled m-t-10px list--with-icon">
                                                     <li>必要なBE、FEリソースを投入して開発を行う</li>
                                                     <li>QAエンジニアを投入して単体テストを行う。</li>
@@ -551,7 +551,7 @@
                                 <p class="m-b-10px">まずは御社の課題お聞かせください。</p>
                                 <p class="m-b-10px">当社のIn-Houseスペシャリストを</p>
                                 <p class="m-b-30px">活用して課題解決可能です。</p>
-                                <a href="/jp/contact.php" class="form-control btn btn--yellow">LOGIQUEの定額スペシャリストリソースMix利用サービスをお問い合わせ</a>
+                                <a href="/jp/contact.php" class="form-control btn btn--yellow"><span class="logo-font">LOGIQUE</span>の定額スペシャリストリソースMix利用サービスをお問い合わせ</a>
                             </div>
                         </div>
                     </div>

@@ -47,6 +47,9 @@
 }
 
 /* problems */
+.all-you .all-you__problems .problems__item .item > div {
+    max-height: 90px;
+}
 .all-you .all-you__problems .problems__item .item picture img {
     min-width: 50px;
 }
@@ -149,27 +152,6 @@
     align-items: baseline;
     padding-top: 2px;
     font-size: 22px;
-}
-
-/* security */
-.all-you .all-you__security .security__item .item {
-    position: relative;
-    transition: box-shadow .15s ease-in-out, transform .15s ease-in-out;
-}
-
-.all-you .all-you__security .security__item .item:hover {
-    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
-    transform: scale(1.03);
-}
-
-.all-you .all-you__security .security__item .item img {
-    width: 70px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.all-you .all-you__security .security__item .item h4 {
-    min-height: 60px;
 }
 
 @media (max-width: 1199.98px) {
