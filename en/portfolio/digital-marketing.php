@@ -241,12 +241,11 @@
                                         <p>SEO | Website Maintenance</p>
                                     </div>
                                     <div class="content__detail" style="background-color: #DDF0FF;">
-                                        <div class="detail__description">
-                                        Ishida adalah produsen mesin timbang, packing, dan mesin inspeksi (checkweigher, metal detector, x-ray) yang memiliki pengalaman lebih dari 125 tahun secara global di berbagai industri seperti snacks, daging, buah segar, ready meal, seafood, dan banyak industri lainnya.
+                                        <div class="detail__description"> Ishida is involved in the manufacturing of scales & other weighing machines, packing, and selling tools of inspection (checkweighers, metal detectors, x-rays) with more than 125 years of experience working globally within a wide variety of industries, some of which include the meat, snacks, fresh fruit, ready meals, the seafood industries, among many others.
                                         </div>
                                         <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
                                             <h4>Goals</h4>
-                                            <p>Meningkatkan Leads – Dengan Google ADs</p>
+                                            <p>To Increase Leads - With Google ADsAchievements.</p>
                                         </div>
                                         <div class="detail__achievement" style="color: #15588c;">
                                             <h4>Achievements</h4>
@@ -256,7 +255,7 @@
                                                         <div class="achievement__number">
                                                         +67% 
                                                         </div>
-                                                        <p>Konversi Leads</p>
+                                                        <p>Leads Conversion</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-6 col-xs-12">
@@ -264,7 +263,7 @@
                                                         <div class="achievement__number">
                                                         -23,7%
                                                         </div>
-                                                        <p>Penurunan Cost Per Leads</p>
+                                                        <p>Cost Per Leads Reduction</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-6 col-xs-12">
@@ -295,11 +294,11 @@
                                     </div>
                                     <div class="content__detail" style="background-color: #DDF0FF;">
                                         <div class="detail__description">
-                                        Tsubame merupakan situs web Lembaga Pelatihan Kerja (LPK) magang ke Jepang yang bertugas untuk mengirimkan siswa/i asal Indonesia yang ingin magang kerja ke Jepang. Logique telah berhasil memberikan dampak perkembangan yang positif bagi perkembangan LPK Tsubame.
+                                        Tsubame is the name of a website owned by the Apprenticeship Training Institute (LPK) which manages Japanese based apprenticeships, and is tasked with sending students from Indonesia to succeed in apprenticeships in Japan. Logique has succeeded in providing a positive impact on the overall development of LPK Tsubame.
                                         </div>
                                         <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
                                             <h4>Goals</h4>
-                                            <p>Meningkatkan Traffic website melalui channel organic</p>
+                                            <p>To Increase website traffic through organic channels.</p>
                                         </div>
                                         <div class="detail__achievement" style="color: #15588c;">
                                             <h4>Achievements</h4>
@@ -309,7 +308,7 @@
                                                         <div class="achievement__number">
                                                         +105,83%
                                                         </div>
-                                                        <p>Jumlah Sessions</p>
+                                                        <p>Number of sessions</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-6 col-xs-12">
@@ -317,7 +316,7 @@
                                                         <div class="achievement__number">
                                                         +90,77%
                                                         </div>
-                                                        <p>Jumlah Pageviews</p>
+                                                        <p>Number of pageviews</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-6 col-xs-12">
@@ -325,7 +324,7 @@
                                                         <div class="achievement__number">
                                                         -21,91%
                                                         </div>
-                                                        <p>Pengunjung berada lebih lama</p>
+                                                        <p>of visitors stay longer</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-sm-6 col-xs-12">
@@ -333,7 +332,7 @@
                                                         <div class="achievement__number">
                                                         -4,92%
                                                         </div>
-                                                        <p>Penurunan bounce rate dalam 1 bulan</p>
+                                                        <p>Decrease in bounce rate in 1 month</p>
                                                     </div>
                                                 </div>
                                             </div>
