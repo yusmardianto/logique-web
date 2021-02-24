@@ -138,85 +138,42 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>Consultant merupakan lini depan LOGIQUE yang dapat berkomunikasi, memahami masalah yang dihadapi, serta mampu memberikan solusi terbaik yang dibutuhkan client dari sisi bisnis maupun teknis. <br>
-                Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
-              </div>
-              <div class="career-requirement">
-              <h3 class="section-title">Special Requirement</h3>
                 <p>LOGIQUE membuka lowongan khusus untuk Consultant / Project Manager yang memiliki tingkat pengalaman yang baik dalam pengembangan website / sistem berbasis web / aplikasi mobile dalam industri otomotif. Mari bergabung bersama kami.</p>
               </div>
+             
               <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
+                <h3 class="section-title">JOB RESPONSIBILITIES</h3>
                 <ul class="career-list">
-                  <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
-                  <li>
-                    Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
-                  </li>
-                  <li>
-                    Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
-                  <li>
-                    Melakukan analisa terhadap kebutuhan bisnis dan memberikan estimasi pengerjaan yang diperlukan termasuk pembuatan proposal.
-                  </li>
-                  <li>
-                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project budget.
-                  </li>
-                  <li>
-                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas secara tepat waktu dan sesuai dengan budget.
-                  </li>
-                  <li>
-                    Melakukan monitoring terhadap penggunaan resource proyek, cepat menanggapi risiko dalam proyek dan aktif serta inisiatif dalam menyelesaikan masalah di dalam proyek.
-                  </li>
-                  <li>
-                    Berkomunikasi secara profesional baik dengan klien maupun dengan tim proyek dan managemen selama jalannya proyek
-                  </li>
-                  <li>
-                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.                  
-                  </li>
-                  <li>Mengikuti semua standar perusahaan dalam pelaksanaan proyek.</li>
-                  <li>Mencerminkan perwakilan nama perusahaan secara baik kepada semua pemangku kepentingan selama bekerja.</li>
-                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
-                  <li>Membantu perkembangan aplikasi sesuai kebutuhan bisnis klien.</li>
+                  <li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+                  <li>Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan terhadap klien </li>
+                  <li>Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
+                  <li>Analisa baik terhadap kebutuhan bisnis dan memberikan estimasi pengerjaan yang diperlukan termasuk pembuatan proposal </li>
+                  <li>Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project budget terhadap proyek. </li>
+                  <li>Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas secara tepat waktu dan sesuai dengan budget </li> 
+                  <li> Berkomunikasi secara professional baik dengan klien maupun dengan tim proyek dan management selama jalannya proyek.</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience</h3>
+                <h3 class="section-title">REQUIREMENTS / MUST HAVE SKILL</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam
-                    bidang pembuatan website, sistem web, dan aplikasi mobile.
-                  </li>
-                  <li>
-                    Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.
-                  </li>
-                  <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
-                  </li>
-                  <li>
-                    Memiliki kemampuan interpesonal yang baik.
-                  </li>
-                  <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
-                  </li>
-                  <li>
-                    Memiliki kemampuan presentasi yang baik.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
-                  </li>
-                  <li>
-                    Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.
-                  </li>
-                  <li>
-                    Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.
-                  </li>
-                  <li>
-                    Dapat bekerja dalam tim.
-                  </li>
+                  <li>Memiliki pengalaman yang baik dalam melakukan manajemen proyek dan pengaplikasian teknologi terbaru dalam bidang pembuatan website, sistem berbasis web, dan aplikasi mobile.</li>
+                  <li>Memiliki kemampuan analisa dan memecahkan masalah yang tinggi. </li>
+                  <li>Berorientasi pada pelayanan terhadap client/customer. </li>
+                  <li>Memiliki kemampuan interpersonal yang baik. </li>
+                  <li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik </li>
+                  <li>Memiliki kemampuan presentasi yang baik.  </li>
+                  <li>Memiliki pengetahuan yang luas dengan dunia IT.  </li>
+                  <li>Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi. </li>
+                  <li>Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 3 tahun.  </li>
+                  <li>Dapat bekerja dalam tim.  </li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+            <div class="career-requirement">
+              <h3 class="section-title">Special Requirement</h3>
+                <p>LOGIQUE membuka lowongan khusus untuk Consultant / Project Manager yang memiliki tingkat pengalaman yang baik dalam pengembangan website / sistem berbasis web / aplikasi mobile dalam industri otomotif. Mari bergabung bersama kami.</p>
+              </div>
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
@@ -228,12 +185,16 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
-                  <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
-                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia•	Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
-              <div class="career-requirement">
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">Cara Bekerja Consultant / Product Manager Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
@@ -261,7 +222,7 @@
                     <div class="work-schedule__text">Membuat laporan harian internal, project costing, dan laporan tertulis terkait pekerjaan proyek untuk klien.</div>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
