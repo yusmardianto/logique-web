@@ -42,17 +42,17 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUE Indonesia adalah konsultan manajemen proyek IT profesional dengan sertifikasi PMP yang berpengalaman dan selalu sukses dalam menangani proyek-proyek IT/DX.">
+    <meta name="description" content="Konsultan manajemen proyek IT profesional dengan sertifikasi PMP. Memaksimalkan tiap proyek dengan metode agile software development yang afektif | LOGIQUE">
     <meta name="keywords" content="manajemen proyek, manajemen proyek profesional, konsultan manajemen proyek, proyek it, manajemen proyek it, pmp, project management, professional project management">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Manajemen Proyek IT Profesional | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Konsultan Manajemen Proyek IT Profesional | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/project-management.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="LOGIQUE Indonesia adalah konsultan manajemen proyek IT profesional dengan sertifikasi PMP yang berpengalaman dan selalu sukses dalam menangani proyek-proyek IT/DX.">
+    <meta property="og:description" content="Konsultan manajemen proyek IT profesional dengan sertifikasi PMP. Memaksimalkan tiap proyek dengan metode agile software development yang afektif | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Manajemen Proyek IT Profesional | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Konsultan Manajemen Proyek IT Profesional | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
