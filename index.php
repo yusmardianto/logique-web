@@ -214,6 +214,17 @@
         </div>
       </div>
 
+      <section class="bg--white">
+        <div class="container__">
+          <a href="/layanan/dx-dm-service.php">
+            <picture>
+              <source srcset="/img/dx-dm-banner-id.webp" type="image/webp">
+              <img src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive">
+            </picture>
+          </a>
+        </div>
+      </section>
+
       <section class="portfolio bg--white">
         <div class="container__">
           <h3 class="section-title">Portofolio Kami</h3>
