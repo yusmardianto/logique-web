@@ -112,6 +112,17 @@
                 </div>
             </section>
 
+        <section class="bg--white">
+            <div class="container__">
+                <a href="/en/services/dx-dm-service.php">
+                    <picture>
+                        <source srcset="/img/dx-dm-banner-en.webp" type="image/webp">
+                        <img src="/img/dx-dm-banner-en.jpg" alt="" class="img-responsive">
+                    </picture>
+                </a>
+            </div>
+        </section>
+
             <section id="serviceNavigation">
                 <div class="container__">
                     <div class="row">
