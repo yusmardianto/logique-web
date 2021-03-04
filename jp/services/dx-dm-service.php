@@ -138,7 +138,7 @@
                                             <img src="/img/icon/all-you/icon-problem-media.png" alt="" class="img-responsive">
                                         </picture>
                                     </div>
-                                    <p>社内にデジタルの専門家を育てたいのでハンズオンでトレーニングしたい。</p>
+                                    <p>プログラマーはいるのだが、現在開発中のシステムに必要な特定言語を使えるプログラマがいない。</p>
                                 </div>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-md-4 m-b-30px">
