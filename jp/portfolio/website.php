@@ -491,8 +491,8 @@
                                     </picture>
                                     <h3>Royal Armada</h3>
                                     <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
+                                        <li>E-Commerce (デザイン | コーディング)</li>
+                                        <li>ショッピングEC, アパレル</li>
                                     </ul>
                                 </a>
                             </div>
@@ -632,7 +632,7 @@
                                     <h3>TOKOPARTS</h3>
                                         <ul class="list-unstyled">
                                         <li>E-Commerce Dev (Design | System Development | Payment Gateway) </li>
-                                        <li>, E-Commerce, Retail, Spareparts</li>
+                                        <li> E-Commerce, Retail, Spareparts</li>
                                     </ul> 
                                 </a>
                             </div>
@@ -641,8 +641,8 @@
                                     <img src="/img/portfolio/update/jba-philipine.jpg" class="img-responsive" alt="Benefit One">
                                     <h3>JBA Philippines</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB development & Operation (Design | Sistem | CMS | Operation | AWS)</li>
-                                        <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        <li>Web開発 (デザイン | システム開発 | アプリ開発 | 運用)</li>
+                                        <li>Webシステム開発, オークション, 自動車, フィリピン</li>
                                     </ul>
                                 </a>
                             </div>
@@ -651,8 +651,8 @@
                                     <img src="/img/portfolio/update/thehealthybelly.jpg" class="img-responsive" alt="Benefit One">
                                     <h3>The Healthy Belly</h3>
                                         <ul class="list-unstyled">
-                                        <li>Web Page Creation (Coding | Integrasi CMS)</li>
-                                        <li>CMS, Membership, Food, Recipes</li>
+                                        <li>Web開発 (デザイン | Webサービス開発 | 運用)</li>
+                                        <li>Webサービス, レシピ共有, 料理メディア</li>
                                     </ul>  
                                 </a>
                             </div>
@@ -979,8 +979,8 @@
                                 <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer"> 
                                     <h3>KBR</h3>
                                     <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
+                                        <li>WEB制作 (デザイン | コーディング | CMS)</li>
+                                        <li>CMS, モバイル, 金融</li>
                                     </ul>
                                 </a>
                             </div> 
