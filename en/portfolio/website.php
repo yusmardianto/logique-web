@@ -299,6 +299,16 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/web-symposium.jpg" class="img-responsive" alt="Symposium Application LP">
+                                    <h3>Symposium Application LP</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Application Form Creation (Design | PHP Form)</li>
+                                        <li>Multi-language,Mobile,Application Form,Public</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://maisonderes.com/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/web-mdr.jpg" class="img-responsive" alt="Maison de Res (Condominium Portal)">
                                     <h3>Maison de Res (Condominium Portal)</h3>
