@@ -1167,7 +1167,7 @@
                                             <li>Integrasi Layanan Pengiriman, Booking Pengiriman, Tracking Pengiriman, Tiki, Lion Parcel</li>
                                         </ul>
                                     </div>
-                                </div>  
+                                </div>   
                             </div> */ ?>
                         </div>
                         <div class="text-center">
