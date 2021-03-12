@@ -414,8 +414,8 @@
                                     <img src="/img/portfolio/update/web-royal-amanda.jpg" class="img-responsive" alt="Royal Armada">
                                     <h3>Royal Armada</h3>
                                     <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
+                                        <li>E-Commerce (Design | Coding)</li>
+                                        <li>Shopping EC, apparel</li>
                                     </ul>
                                 </a>
                             </div>
@@ -879,8 +879,8 @@
                                 <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer"> 
                                     <h3>KBR</h3>
                                     <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
+                                        <li>Web Development (Design | CMS | Coding)</li>
+                                        <li>CMS, mobile, finance</li>
                                     </ul>
                                 </a>
                             </div>
