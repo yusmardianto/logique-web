@@ -728,9 +728,9 @@
                                             <li>Customized CMS, Mobile Optimized, Corporate Web, Medical Service Web</li>
                                         </ul>
                                     </a>
+                                    </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="https://wkvetter.com/" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/web-vetter-bulletin.jpg" class="img-responsive" alt="Vetter Bulletin Board">
+                                    <a class="content__item" href="https://wkvetter.com/" target="_blank" rel="noreferrer"> 
                                         <h3>Vetter</h3>
                                         <ul class="list-unstyled">
                                             <li>Web Bulletin board Development (Design | Coding | Integrasi CMS)</li>
@@ -877,14 +877,13 @@
                                     <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer"> 
                                         <h3>KBR</h3>
                                         <ul class="list-unstyled">
-                                            <li></li>
-                                            <li></li>
+                                            <li>Web Creation (Design | Coding)</li>
+                                            <li>Podcast site</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item">
-                                        <img src="/img/portfolio/update/web-jfe.jpg" class="img-responsive" alt="JFE">
+                                    <div class="content__item"> 
                                         <h3>JFE Engineering Indonesia</h3>
                                         <ul class="list-unstyled">
                                             <li>Corporate Web Creation (Design | Coding)</li>
@@ -892,18 +891,7 @@
                                             Trader</li>
                                         </ul>
                                     </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item">
-                                        <img src="/img/portfolio/update/web-jfe.jpg" class="img-responsive" alt="JFE">
-                                        <h3>JFE Engineering Indonesia</h3>
-                                        <ul class="list-unstyled">
-                                            <li>Corporate Web Creation (Design | Coding)</li>
-                                            <li>Responsive WEB Dev, Multi-Language, Manufacturing
-                                            Trader</li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://promokreditbprks.com/" target="_blank" rel="noreferrer"> 
                                         <h3>BPR KS</h3>
@@ -923,8 +911,7 @@
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="https://4dentist.jp/" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/web-4dentist.jpg" class="img-responsive" alt="4Dentist.jp">
+                                    <a class="content__item" href="https://4dentist.jp/" target="_blank" rel="noreferrer"> 
                                         <h3>4Dentist.jp (Dentist Portal)</h3>
                                         <ul class="list-unstyled">
                                             <li>Pengoperasian & Pengembangan WEB (Design | CMS | Operation)</li>
