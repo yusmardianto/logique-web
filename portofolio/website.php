@@ -182,8 +182,28 @@
                         <div class="content__wrapper">
                             <div class="flex__row">
                                 <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_aia" rel="noreferrer">
+                                        <img src="/img/portfolio/update/web-aia-premiere.jpg" class="img-responsive" alt="AIA Premier Academy" loading="lazy" >
+                                        <h3>AIA Premier Academy</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
+                                            <li>Website Campaign, Optimasi Mobile, Asuransi, Akademi</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
+                                        <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>Panin Life Dai-ichi</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
+                                            <li>CMS, E-Commerce, Finansial, Asuransi, Integrasi API, Payment Gateway</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                        <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
+                                        <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>JBA INDONESIA</h3>
                                         <ul class="list-unstyled">
                                             <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
@@ -191,6 +211,36 @@
                                         </ul>
                                     </a>
                                 </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>JTrust Bank (Re-design)</h3>
+                                        <ul class="list-unstyled">
+                                            <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
+                                            <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>AUKSI</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation)</li>
+                                            <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>Mobirent</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Web Design (Design | Coding | Deployment)</li>
+                                            <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                        </ul>
+                                    </a>
+                                </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">
@@ -352,14 +402,14 @@
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                     
-                                        <img src="/img/portfolio/update/fuji-seimitsu.jpg" class="img-responsive" alt="MORESCO INDONESIA">
+                                    <div class="content__item">
+                                        <img src="/img/portfolio/update/fuji-seimitsu.jpg" class="img-responsive" alt="FUJI SEIMITSU INDONESIA">
                                         <h3>FUJI SEIMITSU INDONESIA</h3>
                                         <ul class="list-unstyled">
                                             <li>Pengembangan WEB (Design | Coding | WEB Server)</li>
                                             <li>Multi-language, Mobile, Manufaktur</li>
                                         </ul>
-                                     
+                                    </div> 
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
@@ -701,16 +751,7 @@
                                             <li>Mobile, Pemesanan Online, Olahraga</li>
                                         </ul>
                                     </a>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="https://j-golfacademy.com/" target="_blank" rel="noreferrer">
-                                        <h3>Jakarta Golf Academy</h3>
-                                        <ul class="list-unstyled">
-                                            <li>HTML/CSS Coding (Coding)</li>
-                                            <li>Golf Academy website</li>
-                                        </ul>
-                                    </a>
-                                </div>
+                                </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://nlecnihongo.com/" target="_blank" rel="noreferrer">
                                         <h3>NLEC</h3>

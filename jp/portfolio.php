@@ -325,6 +325,16 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    <h3>AUKSI</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Development & Operasion WEB (Design | Sistem | CMS | Operation)</li>
+                                        <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
@@ -334,16 +344,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">
-                                    <h3>JNTO Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBリニューアル＆運用 (デザイン| コーディング| 運用)</li>
-                                        <li>モバイル最適化,セキュアなWEB,公共,旅行</li>
-                                    </ul>
-                                </a>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="text-center">
@@ -596,41 +597,20 @@
                                             <p>Tim</p>
                                         </div>
                                         <div class="content-desc">
-                                            <p>Pengarah Proyek (PM)</p>
-                                            <p>
-                                            Desainer Kreatif
-                                            </p>
-                                            <p>
-                                            Implementasi HTML dan Animasi
-                                            </p>
-                                            <p>
-                                            Fungsional
-                                            </p>
-                                            <p>
-                                            Testing
-                                            </p>
-                                            <p>
-                                            Infrastruktur
-                                            </p>
-                                                
+                                            <p> Pengarah Proyek (PM)</p>
+                                            <p> Desainer Kreatif </p>
+                                            <p> Implementasi HTML dan Animasi </p>
+                                            <p> Fungsional </p>
+                                            <p> Testing </p>
+                                            <p> Infrastruktur </p>     
                                         </div>
                                         <div class="content-desc">
                                             <p>Nico</p>
-                                            <p>
-                                            Adit/Angel
-                                            </p>
-                                            <p>
-                                            Fahmi, Bagas
-                                            </p>
-                                            <p>
-                                            Andre
-                                            </p>
-                                            <p>
-                                            Angga
-                                            </p>
-                                            <p>
-                                            Wisya
-                                            </p>
+                                            <p> Adit/Angel </p>
+                                            <p> Fahmi, Bagas </p>
+                                            <p> Andre </p>
+                                            <p> Angga </p>
+                                            <p> Wisya </p>
                                         </div>
                                     </div>
                                 </div>
