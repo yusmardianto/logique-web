@@ -329,8 +329,8 @@
                                     <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
                                     <h3>AUKSI</h3>
                                     <ul class="list-unstyled">
-                                        <li>Development & Operasion WEB (Design | Sistem | CMS | Operation)</li>
-                                        <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                        <li>Webシステム開発 & 運用 (デザイン | 開発 | 運用)</li>
+                                        <li>Webシステム開発, オークションWeb, 自動車</li>
                                     </ul>
                                 </a>
                             </div>

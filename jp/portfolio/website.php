@@ -187,8 +187,8 @@
                                     <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
                                     <h3>AUKSI</h3>
                                     <ul class="list-unstyled">
-                                        <li>Development & Operasion WEB (Design | Sistem | CMS | Operation)</li>
-                                        <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                        <li>Webシステム開発 & 運用 (デザイン | 開発 | 運用)</li>
+                                        <li>Webシステム開発, オークションWeb, 自動車</li>
                                     </ul>
                                 </a>
                             </div>
@@ -199,6 +199,16 @@
                                     <ul class="list-unstyled">
                                         <li>BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）</li>
                                         <li>スマホ最適, BtoBサービス, レンタカー</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                    <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="">
+                                    <h3>JBA INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li> WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
+                                        <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
                                     </ul>
                                 </a>
                             </div>
@@ -416,8 +426,8 @@
                                     <img src="/img/portfolio/update/fuji-seimitsu.jpg" class="img-responsive" alt="FUJI SEIMITSU INDONESIA">
                                     <h3>FUJI SEIMITSU INDONESIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Development(Design | Coding | WEB Server)</li>
-                                        <li>Multi-language, Mobile, Manufaktur</li>
+                                        <li>WEB制作(デザイン | コーディング | CMS)</li>
+                                        <li>多言語Web制作, 製造業, 製品紹介Web</li>
                                     </ul> 
                                 </div>
                             </div>
