@@ -15,7 +15,7 @@
               class="lowongan-position__item bg--sub-project-manager">
               <div class="lowongan-position__overlay"></div>
               <span class="other-position__urgent">Urgently Needed</span>
-              <h3 class="section-title">Project Manager Lead</h3>
+              <h3 class="section-title">Consultant / <br>PM Lead</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
