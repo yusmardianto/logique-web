@@ -195,7 +195,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 style=" line-height: normal; "><small>Jika anda ingin tahu lebih banyak tentang bagaimana kami mengelola project anda bisa mengunjungi halaman<br><a href="/layanan/project-management.php" style=" text-decoration: underline; ">"Sukses dengan PROJECT MANAGEMENT PROFESSIONAL"</a></small></h3>
+                <h3 style=" line-height: normal; font-size:20px;">Jika anda ingin tahu lebih banyak tentang bagaimana kami mengelola project anda bisa mengunjungi halaman<br><a href="/layanan/project-management.php" style=" text-decoration: underline;line-height: 1.5;">"Sukses dengan PROJECT MANAGEMENT PROFESSIONAL"</a></h3>
               </div>
               <!-- <div class="career-requirement">
                 <h3 class="section-title">Cara Bekerja Consultant / Product Manager Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>

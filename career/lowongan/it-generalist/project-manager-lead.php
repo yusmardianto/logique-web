@@ -97,7 +97,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Project Manager Lead</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Consultant/PM Lead</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -107,7 +107,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Project Manager Lead</h1>
+              <h1 class="header__title">Consultant/PM Lead</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -227,7 +227,7 @@
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 style=" line-height: normal; "><small>Jika anda ingin tahu lebih banyak tentang bagaimana kami mengelola project anda bisa mengunjungi halaman<br><a href="/layanan/project-management.php" style=" text-decoration: underline; ">"Sukses dengan PROJECT MANAGEMENT PROFESSIONAL"</a></small></h3>
+                <h3 style=" line-height: normal; font-size: 20px;">Jika anda ingin tahu lebih banyak tentang bagaimana kami mengelola project anda bisa mengunjungi halaman<br><a href="/layanan/project-management.php" style=" text-decoration: underline;line-height: 1.5; ">"Sukses dengan PROJECT MANAGEMENT PROFESSIONAL"</a></h3>
               </div>
               <!-- <div class="career-requirement">
                 <h3 class="section-title">Cara Bekerja Consultant / Project Manager Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
