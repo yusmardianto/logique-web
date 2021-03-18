@@ -169,8 +169,6 @@
              
               <div class="career-requirement">
                 <h3 class="section-title">JOB RESPONSIBILITIES</h3>
-                <p>Pimpin tim Analisis Bisnis:</p>
-                <p>Job Description</p>
                 <ul class="career-list">
                   <li>Membuat struktur dan peran tim Business Analyst dalam pembagian tugas</li>
                   <li>Bertanggung jawab untuk merencanakan dan memantau aktivitas tim Bisnis Analyst dan memberikan pelaporan rutin untuk setiap hasil pekerjaan tim Bisnis Analis</li>
