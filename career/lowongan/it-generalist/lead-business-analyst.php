@@ -219,7 +219,7 @@
                 <h3 style=" line-height: normal; font-size: 20px;">Jika anda ingin tahu lebih banyak tentang bagaimana kami mengelola project anda bisa mengunjungi halaman<br><a href="/layanan/project-management.php" style=" text-decoration: underline;line-height: 1.5; ">"Sukses dengan PROJECT MANAGEMENT PROFESSIONAL"</a></h3>
               </div> -->
               <!-- <div class="career-requirement">
-                <h3 class="section-title">Cara Bekerja Consultant / Project Manager Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
+                <h3 class="section-title">Cara Bekerja Lead Business Analyst Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">09:00 – 09:30</div>
@@ -256,7 +256,7 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Consultant / Project Manager Salary Range in LOGIQUE</h3>
+              <h3 class="section-title">Lead Business Analyst Salary Range in LOGIQUE</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
