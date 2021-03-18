@@ -120,11 +120,11 @@
                   <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
                  <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/web-developer.php">
+                  <a href="/career/lowongan/it-generalist/lead-business-analyst.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">PHP Developer</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/analysis.png" alt="Web Developer">
+                        <h3 class="heading-black">Lead BA</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -141,11 +141,11 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/it-generalist/business-analyst.php">
+                  <a href="/career/lowongan/it-generalist/project-manager-lead.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body ">
-                        <img class="img-responsive card-icon" src="/img/career/icon/analysis.png" alt="Front End Developer">
-                        <h3 class="heading-black">Business Analyst</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Front End Developer">
+                        <h3 class="heading-black">Lead PM</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -162,12 +162,12 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                   <a href="/career/lowongan/specialist/it-security-specialist.php">
+                   <a href="/career/lowongan/specialist/quality-assurance.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/password.png"
+                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
                           alt="Security Specialist">
-                        <h3 class="heading-black">IT Security</h3>
+                        <h3 class="heading-black">QA</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
