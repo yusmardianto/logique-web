@@ -147,6 +147,13 @@
               <h3 class="section-title">Mobile Application Developer (Android)</h3>
             </a>
           </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/net-developer.php"
+              class="lowongan-position__item bg--sub-net-dev">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">.NET Developer</h3>
+            </a>
+          </div>
           <!-- <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/senior-reactjs-developer.php"
               class="lowongan-position__item bg--sub-senior-react-js-dev ">
