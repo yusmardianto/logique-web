@@ -141,7 +141,7 @@
               <div class="career-requirement">
                 <p>.NET developer bertanggung jawab untuk mendesign, menyesuaikan dan membangun software aplikasi berdasarkan keperluan bisnis yang berkelanjutan.</p>
                 <p>.NET developer membuat aplikasi dari awal, mengkonfigurasi system yang sudah ada dan memberikan support. </p>
-                <p>.NET developer mampu menulis functional code secara teliti untuk menemukan defects.</p>
+                <p>.NET developer menulis functional code secara teliti untuk menemukan defects.</p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Talenta Yang Kami Cari </h3>
