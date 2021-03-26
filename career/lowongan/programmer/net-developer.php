@@ -154,9 +154,10 @@
                   <li>Perfeksionis </li>
                   <li>Logis dalam berpikir</li>
                 </ul>
-                <p>
+                <p class="mb--15">
                   <strong>Maka, Andalah talenta yang cocok untuk bergabung dan berkembang bersama kami. </strong>
                 </p>
+                <p>Pekerjaan Anda meliputi pengembangan software dan aplikasi sesuai dengan kebutuhan client Logique, mulai dari melakukan perencanaan pembuatan, memperbaiki terjadinya error, dan melakukan pengembangan pada produk.</p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Apa yang bisa Anda dapatkan </h3>
@@ -171,9 +172,9 @@
                   <p>Di bawah ini adalah yang kami harapkan dari kamu sebagai .NET Developer:</p>
                   <ul class="career-list">
                       <li>Memanfaatkan development tools yang sudah ada meliputi ASP.NET – C#, SQL Server, dan JavaScript</li>
-                      <li>Membuat dan memelihara code untuk berbagai aplikasi .Net dan memperbaiki semua bug atau defects dalam system</li>
-                      <li>Menyiapkan aplikasi berbasis testing untuk berbagai aplikasi .Net</li>
-                      <li>Meningkatkan system yang ada dengan menganalisa tujuan bisnis, menyiapkan tindakan perencanaan dan mengidentifikasi area untuk modifikasi dan improvemen</li>
+                      <li>Membuat dan memelihara code untuk berbagai aplikasi .NET dan memperbaiki semua bug atau defects dalam system</li>
+                      <li>Menyiapkan aplikasi berbasis testing untuk berbagai aplikasi .NET</li>
+                      <li>Meningkatkan system yang ada dengan menganalisa tujuan bisnis, menyiapkan tindakan perencanaan dan mengidentifikasi area untuk modifikasi dan improvement</li>
                       <li>Mengelola system pelacakan defect dan memperbaiki semua masalah dan mempersiapkan update untuk system</li>
                   </ul>
               </div>
@@ -183,7 +184,7 @@
                 <ul class="career-list">
                   <li>Minimal Sarjana dari ilmu computer</li>
                   <li>Berpengalaman minimal 4 tahun dalam mendesign atau mengembangkan aplikasi menggunakan .NET, C#, ASP.NET, Windows Forms dan SQL Server</li>
-                  <li>Familiar dengan ASP.NET MVC framework dan memiliki pengalaman mengembagkan aplikasi web dengan konsep MVC</li>
+                  <li>Familiar dengan ASP.NET MVC framework dan memiliki pengalaman mengembangkan aplikasi web dengan konsep MVC</li>
                   <li>Berpengalaman menggunakan GIT sebagai Version Control System</li>
                   <li>Memahami architecture styles / API (REST, RPC)</li>
                   <li>Memahami Teknik object-oriented development</li>
