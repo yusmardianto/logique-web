@@ -767,14 +767,14 @@ if(isset($_POST['submitted']))
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <a href="/jp/services/dx-dm-service.php">
                                 <picture>
-                        <source srcset="/img/contact/banner-link-dx-dm.webp" type="image/webp">
-                        <img src="/img/contact/banner-link-dx-dm.png" alt="" class="img-responsive">
-                    </picture>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
+                                    <source srcset="/img/contact/banner-link-dx-dm.webp" type="image/webp">
+                                    <img src="/img/contact/banner-link-dx-dm.png" alt="" class="img-responsive">
+                                </picture>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <section>
                 <div class="container__">
