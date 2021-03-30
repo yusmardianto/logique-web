@@ -747,7 +747,7 @@ if(isset($_POST['submitted']))
 
             <section>
                 <div class="container__">
-                    <div class="row flex__row justify-content-center">
+                    <div class="row flex__row no-gutters justify-content-center">
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <a href="/white-paper.php">
                                 <picture>
