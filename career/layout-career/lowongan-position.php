@@ -11,11 +11,27 @@
         <h2 class="section-title">Lowongan IT Generalist</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/it-generalist/project-manager-lead.php"
+              class="lowongan-position__item bg--sub-project-manager">
+              <div class="lowongan-position__overlay"></div>
+              <span class="other-position__urgent">Urgently Needed</span>
+              <h3 class="section-title">Consultant / <br>PM Lead</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/it-generalist/project-manager.php"
               class="lowongan-position__item bg--sub-project-manager">
               <div class="lowongan-position__overlay"></div>
               <span class="other-position__urgent">Urgently Needed</span>
               <h3 class="section-title">Consultant / <br>Project Manager</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/it-generalist/lead-business-analyst.php"
+              class="lowongan-position__item bg--sub-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <span class="other-position__urgent">Urgently Needed</span>
+              <h3 class="section-title">Lead Business Analyst</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -129,6 +145,13 @@
               class="lowongan-position__item bg--sub-mobile-app-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">Mobile Application Developer (Android)</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/net-developer.php"
+              class="lowongan-position__item bg--sub-net-dev">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">.NET Developer</h3>
             </a>
           </div>
           <!-- <div class="col-md-6 col-lg-4">

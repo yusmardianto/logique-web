@@ -142,12 +142,9 @@
                 <div class="container__">
                     <div class="content__wrapper">
                         <div class="flex__row">
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_aia" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-aia-premiere.webp">
-                                        <img src="/img/portfolio/update/web-aia-premiere.jpg" class="img-responsive" alt="AIA Premier Academy">
-                                    </picture>
+                                    <img src="/img/portfolio/update/web-aia-premiere.jpg" class="img-responsive" alt="AIA Premier Academy">
                                     <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
                                         <li>Webページ制作 (デザイン | コーディング | ホスティング)</li>
@@ -157,10 +154,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/panin.webp">
-                                        <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="Panin Life Dai-ichi">
-                                    </picture>
+                                    <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
                                         <li>保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携）</li>
@@ -170,24 +164,17 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/jba.webp">
-                                        <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
-                                    </picture>
+                                    <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
+                                        <li> WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
                                         <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/j-trust.webp">
-                                        <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="">
-                                    </picture>
+                                    <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="">
                                     <h3>JTrust Bank (Re-design)</h3>
                                     <ul class="list-unstyled">
                                         <li>キャンペーンページ制作 (デザイン | コーディング | CMS開発)</li>
@@ -196,15 +183,32 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    <h3>AUKSI</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Webシステム開発 & 運用 (デザイン | 開発 | 運用)</li>
+                                        <li>Webシステム開発, オークションWeb, 自動車</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/mobirent.webp">
-                                        <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
-                                    </picture>
+                                    <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)</li>
-                                        <li>CMS,ポータル, Mobile,不動産,WEBサービス</li>
+                                        <li>BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）</li>
+                                        <li>スマホ最適, BtoBサービス, レンタカー</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                    <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="">
+                                    <h3>JBA INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li> WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
+                                        <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
                                     </ul>
                                 </a>
                             </div>
@@ -236,6 +240,19 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-bisnissaya.webp">
+                                        <img src="/img/portfolio/update/web-bisnissaya.jpg" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
+                                    </picture>
+                                    <h3>BisnisSaya.com (MLM E-Commerce)</h3>
+                                    <ul class="list-unstyled">
+                                        <li>ECサイト構築 (デザイン| EC構築 | CMS構築 | 運用)</li>
+                                        <li>EC,CMS,決済連携,マルチレベルマーケティング</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.otomart.id/" target="_blank" rel="noreferrer">
                                     <picture>
                                         <source srcset="/img/portfolio/update/web-otomart.webp">
@@ -245,6 +262,19 @@
                                     <ul class="list-unstyled">
                                         <li>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用 | AWS運用)</li>
                                         <li>CMS,マーケットプレイス,会員WEB,Mobile, WEBサービス,車</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://sentraya.id/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-sentraya.webp">
+                                        <img src="/img/portfolio/update/web-sentraya.jpg" class="img-responsive" alt="Menara Sentraya">
+                                    </picture>
+                                    <h3>Menara Sentraya</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサイト制作 (デザイン| コーディング |CMS)</li>
+                                        <li>モバイル最適化, CMS構築, 不動産</li>
                                     </ul>
                                 </a>
                             </div>
@@ -261,7 +291,6 @@
                                     </ul>
                                 </a>
                             </div>
-                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <picture>
@@ -276,59 +305,6 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://sentraya.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-sentraya.webp">
-                                        <img src="/img/portfolio/update/web-sentraya.jpg" class="img-responsive" alt="Menara Sentraya">
-                                    </picture>
-                                    <h3>Menara Sentraya</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBサイト制作 (デザイン| コーディング |CMS)</li>
-                                        <li>モバイル最適化, CMS構築, 不動産</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-bisnissaya.webp">
-                                        <img src="/img/portfolio/update/web-bisnissaya.jpg" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
-                                    </picture>
-                                    <h3>BisnisSaya.com (MLM E-Commerce)</h3>
-                                    <ul class="list-unstyled">
-                                        <li>ECサイト構築 (デザイン| EC構築 | CMS構築 | 運用)</li>
-                                        <li>EC,CMS,決済連携,マルチレベルマーケティング</li>
-                                    </ul>
-                                </a>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-frangipani-amp.webp">
-                                        <img src="/img/portfolio/update/web-frangipani-amp.jpg" class="img-responsive" alt="Frangipani">
-                                    </picture>
-                                    <h3>Frangipani</h3>
-                                    <ul class="list-unstyled">
-                                        <li>AMP制作 (デザイン | AMPプログラミング）</li>
-                                        <li>AMP, モバイル,高速ページ,バリ島SPA</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://warasahalal.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-warasa.webp">
-                                        <img src="/img/portfolio/update/web-warasa.jpg" class="img-responsive" alt="WARASA">
-                                    </picture>
-                                    <h3>WARASA</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBリニューアル制作 (デザイン| コーディング | AWS)</li>
-                                        <li>モバイル最適化, 多言語, 食品</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://hoyu.co.id/" target="_blank" rel="noreferrer">
                                     <picture>
                                         <source srcset="/img/portfolio/update/web-hoyu.webp">
@@ -341,20 +317,19 @@
                                     </ul>
                                 </a>
                             </div>
-
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
+                                <a class="content__item" href="https://shi-indonesia.co.id/" target="_blank" rel="noreferrer">
                                     <picture>
-                                        <source srcset="/img/portfolio/update/web-arf.webp">
-                                        <img src="/img/portfolio/update/web-arf.jpg" class="img-responsive" alt="ASEAN (ARF)">
+                                        <source srcset="/img/portfolio/update/web-shi.webp">
+                                        <img src="/img/portfolio/update/web-shi.jpg" class="img-responsive" alt="Sumitomo Heavy">
                                     </picture>
-                                    <h3>ASEAN (ARF)</h3>
+                                    <h3>Sumitomo Heavy</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEBサイト制作 (デザイン| コーディング |CMS)</li>
-                                        <li>モバイル最適化, Wordpress, 公共</li>
+                                        <li>Heavy Industry Web制作 (デザイン｜コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb, 重工業</li>
                                     </ul>
-                                </div>
-                            </div>
+                                </a>
+                            </div> 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <picture>
@@ -369,20 +344,6 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://jualbeliweb.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-jualbeliweb.webp">
-                                        <img src="/img/portfolio/update/web-jualbeliweb.jpg" class="img-responsive" alt="JualBeliWEB.id (Website market place)">
-                                    </picture>
-                                    <h3>JualBeliWEB.id (Website market place)</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用)</li>
-                                        <li>CMS,マーケットプレイス,DB,Mobile,セキュアなWEB,WEBサービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <picture>
                                         <source srcset="/img/portfolio/update/web-ajapan.webp">
@@ -395,6 +356,697 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-symposium.webp">
+                                        <img src="/img/portfolio/update/web-symposium.jpg" class="img-responsive" alt="Symposium Application LP">
+                                    </picture>
+                                    <h3>Symposium Application LP</h3>
+                                    <ul class="list-unstyled">
+                                        <li>参加申込フォーム (デザイン | PHPフォーム)</li>
+                                        <li>多言語,モバイル, 申込フォーム開発,公共</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://maisonderes.com/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-mdr.webp">
+                                        <img src="/img/portfolio/update/web-mdr.jpg" class="img-responsive" alt="Maison de Res (Condominium Portal)">
+                                    </picture>
+                                    <h3>Maison de Res (Condominium Portal)</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)</li>
+                                        <li>CMS,ポータル, Mobile,不動産,WEBサービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-zutto.webp">
+                                        <img src="/img/portfolio/update/web-zutto.jpg" class="img-responsive" alt="ZuttoRide Indonesia">
+                                    </picture>
+                                    <h3>ZuttoRide Indonesia</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)</li>
+                                        <li>多言語,モバイル,バイクサービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-ikeuchi.webp">
+                                        <img src="/img/portfolio/update/web-ikeuchi.jpg" class="img-responsive" alt="Ikeuchi Indonesia">
+                                    </picture>
+                                    <h3>Ikeuchi Indonesia</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサイト制作 (デザイン | コーディング)</li>
+                                        <li>多言語,モバイル,製造業</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://www.moresco.co.id/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-moresco.webp">
+                                        <img src="/img/portfolio/update/web-moresco.jpg" class="img-responsive" alt="MORESCO INDONESIA">
+                                    </picture>
+                                    <h3>MORESCO INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)</li>
+                                        <li>多言語,モバイル,製造業</li>
+                                    </ul>
+                                </a>
+                            </div> 
+                            <div class="col-md-4 col-sm-6 col-xs-12"> 
+                                <div class="content__item">
+                                    <img src="/img/portfolio/update/fuji-seimitsu.jpg" class="img-responsive" alt="FUJI SEIMITSU INDONESIA">
+                                    <h3>FUJI SEIMITSU INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB制作(デザイン | コーディング | CMS)</li>
+                                        <li>多言語Web制作, 製造業, 製品紹介Web</li>
+                                    </ul> 
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-trendpot.webp">
+                                        <img src="/img/portfolio/update/web-trendpot.jpg" alt="Digital Marketing Indonesia" class="img-responsive center-block">
+                                    </picture>
+                                    <h3>TRENDPOT</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB制作＆運用 (デザイン | コーディング | 運用)</li>
+                                        <li>モバイル,セキュアなWEB,公共</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-kumomiland.webp">
+                                        <img src="/img/portfolio/update/web-kumomiland.jpg" alt="KUMOMI LAND INDONESIA" class="img-responsive center-block">
+                                    </picture>
+                                    <h3>KUMOMI LAND INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB制作 (デザイン | コーディング | 保守)</li>
+                                        <li>モバイル,多言語,Wordpress,ブログ,不動産</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-wantjp.webp">
+                                        <img src="/img/portfolio/update/web-wantjp.jpg" class="img-responsive" alt="Want.jp">
+                                    </picture>
+                                    <h3>Want.jp</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Eコマース (PWA | ReactJS | NodeJS)</li>
+                                        <li>モバイル最適化EC, 越境EC</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-banzai-hobby.webp">
+                                        <img src="/img/portfolio/update/web-banzai-hobby.jpg" class="img-responsive" alt="Banzai Hobby">
+                                    </picture>
+                                    <h3>Banzai Hobby</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサーバー＆データ移行 (移行 | ホスティング | AWS)</li>
+                                        <li>Eコマース, Zenカート</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-royal-amanda.webp">
+                                        <img src="/img/portfolio/update/web-royal-amanda.jpg" class="img-responsive" alt="Royal Armada">
+                                    </picture>
+                                    <h3>Royal Armada</h3>
+                                    <ul class="list-unstyled">
+                                        <li>E-Commerce (デザイン | コーディング)</li>
+                                        <li>ショッピングEC, アパレル</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://klikhoreca.com/" target="_blank" class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-klikhoreca.webp">
+                                        <img src="/img/portfolio/update/web-klikhoreca.jpg" class="img-responsive" alt="Klikhoreca">
+                                    </picture>    
+                                    <h3>Klikhoreca</h3>
+                                    <ul class="list-unstyled">
+                                        <li>ECサイト構築 (デザイン | システム開発 | 決済連携) </li>
+                                        <li>PWA開発, NextJSフレームワーク, 小売EC, 日用品食品EC</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-aia-berbagi.webp">
+                                        <img src="/img/portfolio/update/web-aia-berbagi.jpg" class="img-responsive" alt="AIA Berbagi">
+                                    </picture>
+                                    <h3>AIA Berbagi</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作 (コーディング | API連携)</li>
+                                        <li>フォーム開発, マイクロサイト, 保険, CSR</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-aia-conservation.webp">
+                                        <img src="/img/portfolio/update/web-aia-conservation.jpg" class="img-responsive" alt="AIA Conservation">
+                                    </picture>
+                                    <h3>AIA Conservation</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作 (デザイン | コーディング)</li>
+                                        <li>フォーム開発, マルチユーザージャーニー, マイクロサイト, Adobe Forms, 保険</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-panin.webp" type="image/webp">
+                                        <img src="/img/portfolio/update/web-panin.jpg" class="img-responsive" alt="Panin Dai-ichi">
+                                    </picture>
+                                    <h3>Panin Dai-ichi</h3>
+                                    <ul class="list-unstyled">
+                                        <li>保険E-Commerce  (CMS開発 | 動的な保険商品の生成)</li>
+                                        <li>Laravel開発, 保険, EC</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-proline.webp">
+                                        <img src="/img/portfolio/update/web-proline.jpg" class="img-responsive" alt="PROLINE FINANCE">
+                                    </picture>
+                                    <h3>PROLINE FINANCE</h3>
+                                    <ul class="list-unstyled">
+                                        <li>CMS WEBサイト制作 (デザイン | コーディング | CMS)</li>
+                                        <li>CMS,モバイル対応,金融</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://premium-garansi.co.id/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-premiumgaransi.webp">
+                                        <img src="/img/portfolio/update/web-premiumgaransi.jpg" class="img-responsive" alt="Premium Garansi">
+                                    </picture>
+                                    <h3>Premium-Garansi.co.id</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Webページ制作 (コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-ligohome.webp">
+                                        <img src="/img/portfolio/update/web-ligohome.jpg" class="img-responsive" alt="LIGO Home">
+                                    </picture>
+                                    <h3>LIGO-Home</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Webページ制作 (デザイン | コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://indonesea.id/" target="_blank" class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-indonesea.webp">
+                                        <img src="/img/portfolio/update/web-indonesea.jpg" class="img-responsive" alt="Indonesea">
+                                    </picture>
+                                    <h3>Indonesea</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web構築（デザイン制作 | CMS | コーディング）</li>
+                                        <li>予約管理システム, CMS, レジャー, BtoCサービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://gakken-jakarta.com/" target="_blank" class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-gakken.webp">
+                                        <img src="/img/portfolio/update/web-gakken.jpg" class="img-responsive" alt="Gakken Jakata">
+                                    </picture>
+                                    <h3>Gakken Jakarta</h3>
+                                    <ul class="list-unstyled">
+                                        <li>(コーディング | 運用 | サーバー運用）</li>
+                                        <li>コーポレート＆サービスWeb、教育</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://benefit-one.co.id/" target="_blank" class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-benefit-one.webp">
+                                        <img src="/img/portfolio/update/web-benefit-one.jpg" class="img-responsive" alt="Green Bamboo Terrace">
+                                    </picture>
+                                    <h3>Benefit One Website Remake</h3>
+                                    <ul class="list-unstyled">
+                                        <li>制作（デザイン制作 | CMS | コーディング）</li>
+                                        <li>ブログ, スマホ最適, BtoBサービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://tokoparts.com/home" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/tokoparts.jpg" class="img-responsive" alt="Benefit One">
+                                    <h3>TOKOPARTS</h3>
+                                        <ul class="list-unstyled">
+                                        <li>E-Commerce Dev (Design | System Development | Payment Gateway) </li>
+                                        <li> E-Commerce, Retail, Spareparts</li>
+                                    </ul> 
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://thehealthybelly.co/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/jba-philipine.jpg" class="img-responsive" alt="Benefit One">
+                                    <h3>JBA Philippines</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web開発 (デザイン | システム開発 | アプリ開発 | 運用)</li>
+                                        <li>Webシステム開発, オークション, 自動車, フィリピン</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://thehealthybelly.co/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/thehealthybelly.jpg" class="img-responsive" alt="Benefit One">
+                                    <h3>The Healthy Belly</h3>
+                                        <ul class="list-unstyled">
+                                        <li>Web開発 (デザイン | Webサービス開発 | 運用)</li>
+                                        <li>Webサービス, レシピ共有, 料理メディア</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                        </div>
+                        <!--- other -->
+                        <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
+                        <div class="flex__row">
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer"> 
+                                    <h3>JNTO Campaign Page</h3>
+                                    <ul class="list-unstyled">
+                                        <li>HTML/CSSコーディング (コーディング)</li>
+                                        <li>モバイル最適化, キャンペーンページ</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://jjc.or.id/" target="_blank" rel="noreferrer">
+                                    <h3>Jakarta Japan Club</h3>
+                                    <ul class="list-unstyled">
+                                        <li>HTML/CSS Coding (Coding | CMS)</li>
+                                        <li>Website Creation, Maintenance, Company organization and Club</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>ASEAN (ARF)</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサイト制作 (デザイン| コーディング |CMS)</li>
+                                        <li>モバイル最適化, Wordpress, 公共</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>ASEAN (Legal)</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web Remake Development (Design | Coding | CMS Integration)</li>
+                                        <li>Public & Private Document Access, Custom Wordpress, International Organisation</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://afcwp.asean.org/" target="_blank" rel="noreferrer"> 
+                                    <h3>ASEAN (Financial)</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web Remake Development (Design | Coding | CMS Integration)</li>
+                                        <li>Custom Wordpress, Public & Private Document Access, Multi Level Authors, International Organisation</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://jjs.or.id/" target="_blank" rel="noreferrer"> 
+                                    <h3>Jakarta Japanese School</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)</li>
+                                        <li>日本語WEB,ブログ,モバイル最適化,願書受付,学校</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>Cikarang Japanese School</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB構築＆運用 (デザイン | Coding | Wordpress | AWS運用)</li>
+                                        <li>日本語WEB,ブログ,モバイル最適化,願書受付,学校</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>ECCJ</h3>
+                                    <ul class="list-unstyled">
+                                        <li>LP制作、申込みフォーム制作 (デザイン | プログラミング)</li>
+                                        <li>モバイル最適化, 申込フォーム, イベント</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.60jpid.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>60<sup>th</sup> Anniversary Japan-Indonesia</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用)</li>
+                                        <li>CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer"> 
+                                    <h3>Music Festival Landing Page</h3>
+                                    <ul class="list-unstyled">
+                                        <li>ランディングページ制作 (デザイン | マークアップ | 広告)</li>
+                                        <li>モバイル最適化, 多言語, イベント</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer"> 
+                                    <h3>JJS 50 years special LP</h3>
+                                    <ul class="list-unstyled">
+                                        <li>LP制作（Bootstrap | コンテンツ企画）</li>
+                                        <li>LP, スマホ最適化,教育, スクール</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://lifenesia.com" target="_blank" rel="noreferrer"> 
+                                    <h3>Lifenesia</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBホスティング (コーディング | CMSフィッティング)</li>
+                                        <li>モバイル最適化, CMS, ニュースポータル</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://timscorp.co.id/en" target="_blank" rel="noreferrer"> 
+                                    <h3>PT. TOYOTA ENTERPRISE INDONESIA MANAGEMENT SERVICE</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web 構築（デザイン制作 | CMS | コーディング）</li>
+                                        <li>独自CMS, スマホ最適, カンパニーWeb, 不動産情報Web</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://warasahalal.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>WARASA</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBリニューアル制作 (デザイン| コーディング | AWS)</li>
+                                        <li>モバイル最適化, 多言語, 食品</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://frangipanibalispa.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>Frangipani</h3>
+                                    <ul class="list-unstyled">
+                                        <li>AMP制作 (デザイン | AMPプログラミング）</li>
+                                        <li>AMP, モバイル,高速ページ,バリ島SPA</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>Salon De Res</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB制作 (デザイン | コーディング)</li>
+                                        <li>モバイル最適化,多言語,美容</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://j-golfacademy.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>Jakarta Golf Academy</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサイト制作 (デザイン| コーディング |運用)</li>
+                                        <li>モバイル最適化,オンラインブッキング,スポーツ</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://nlecnihongo.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>NLEC</h3>
+                                    <ul class="list-unstyled">
+                                        <li>EラーニングWEB開発 (デザイン | CMS | PWA開発）</li>
+                                        <li>システム開発, PWA開発, モバイル最適化,Eラーニング,教育</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://hmw-rehab.com/en" target="_blank" rel="noreferrer"> 
+                                    <h3>HMW Rehabilitation Clinic</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web 構築（デザイン制作 | CMS | コーディング）</li>
+                                        <li>独自CMS, スマホ最適, カンパニーWeb, 医療サービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://wkvetter.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>Vetter</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web掲示板制作 (デザイン | コーディング | CMS)</li>
+                                        <li>掲示板, CMS, コミュニティWeb, メディア, ベトナム</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://sibad.id/id" target="_blank" rel="noreferrer"> 
+                                    <h3>Sibad.id</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web再構築（クラウド移行 | 再構築＆改善 | 決済機能構築）</li>
+                                        <li>有料会員, サブスクWeb, ファンクラブ運営, エンターテイメント</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>Ishida</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web構築（デザイン制作 | CMS | コーディング</li>
+                                        <li>BtoB, 製品検索Web, 製造業</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>Sumitomo Kenki</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WebフロントエンドDev (コーディング | CMS)</li>
+                                        <li>モバイル最適化, CMS, コーポレートWeb, 建機</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>Sumitomo Forestry LP</h3>
+                                    <ul class="list-unstyled">
+                                        <li>ランディングページ制作 (デザイン | コーディング)</li>
+                                        <li>モバイル,キャンペーンページ</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer"> 
+                                    <h3>Hajime Indonesia</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBサイト制作 (デザイン | コーディング | 運用 | WEBサーバー運用)</li>
+                                        <li>多言語,モバイル,AWS,不動産</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.bambootajur.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>Green Bamboo Terace</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web 再制作（デザイン制作 | CMS | コーディング）</li>
+                                        <li>WordPress, スマホ最適, 不動産</li>
+                                    </ul>
+                                </a>
+                            </div> 
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://opuspark.co.id/" target="_blank" rel="noreferrer"> 
+                                    <h3>Opus Park</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBリニューアル制作 (PDCA | SEO | AWS)</li>
+                                        <li>モバイル最適化, O2O, 不動産</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://www.bambootajur.com/" target="_blank" class="content__item"> 
+                                    <h3>Green Bamboo Terrace</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作（デザイン制作 | コーディング | デジタルマーケティング）</li>
+                                        <li>コンバージョン獲得, 不動産</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://grahamirai.co.id/" target="_blank" rel="noreferrer"> 
+                                    <h3>Graha Mirai</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作（デザイン制作 | コーディング | 運用）</li>
+                                        <li>モバイル最適, サービスWeb, 不動産</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>LPK Tsubame Japanese Learning Center</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web改善 (リデザイン｜コーディング | CMS)</li>
+                                        <li>モバイル最適化, サービスWeb, 教育</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://swara.tunaiku.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>Amar Bank</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Webリニューアル制作 (デザイン | コーディング | CMS)</li>
+                                        <li>Wordpress, コーポレートWeb, 銀行, 金融</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>Pertamina</h3>
+                                    <ul class="list-unstyled">
+                                        <li>UI/UXデザイン (デザイン | HTML/CSSコーディング)</li>
+                                        <li>eラーニング, トレーニング, 資源ビジネス</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://m-pas.org/" target="_blank" rel="noreferrer"> 
+                                    <h3>MPAS</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WebフロントエンドDev (デザイン | コーディング | CMS)</li>
+                                        <li>検索Web, CMS, 医療情報</li>
+                                    </ul>
+                                </a>
+                            </div>  
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://scskidn.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>SCSK</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作（デザイン制作 | コーディング | メンテナンス）</li>
+                                        <li>短納期制作, コーポレートWeb, ITサービス</li>
+                                    </ul>
+                                </a>
+                            </div> 
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://weeo.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>Weeo</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作（デザイン制作 | コーディング | 運用）</li>
+                                        <li>モバイル最適, サービスWeb, IoTサービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer"> 
+                                    <h3>KBR</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB制作 (デザイン | コーディング | CMS)</li>
+                                        <li>CMS, モバイル, 金融</li>
+                                    </ul>
+                                </a>
+                            </div> 
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item"> 
+                                    <h3>JFE</h3>
+                                    <ul class="list-unstyled">
+                                        <li>コーポレートWEB制作 (デザイン | コーディング）</li>
+                                        <li>レスポンシブ制作, 多言語WEB, コーポレート動画制作, 鉄鋼商社</li>
+                                    </ul>
+                                </div>
+                            </div> 
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://promokreditbprks.com/" target="_blank" rel="noreferrer"> 
+                                    <h3>BPR KS</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB再制作 & 改善ワーク(デザイン | コーディング | コンテンツ制作 | 運用)</li>
+                                        <li>CMS, モバイル, セキュアなWEB, 金融, 自動車ローン</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://omc.co.id/" target="_blank" rel="noreferrer"> 
+                                    <h3>Onitsuka Management Consulting</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEBリデザイン(デザイン | コーディング)</li>
+                                        <li>多言語,モバイル,AWS,コンサルティング,会計税務</li>
+                                    </ul>
+                                </a>
+                            </div> 
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://4dentist.jp/" target="_blank" rel="noreferrer"> 
+                                    <h3>4Dentist.jp (Dentist Portal)</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB構築＆運用 (デザイン | CMS | 運用)</li>
+                                        <li>Wordpress,モバイル最適化,会員専用Web,医療</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer"> 
+                                    <h3>Digital Marketing Indonesia</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB制作 (デザイン | コーディング)</li>
+                                        <li>多言語,モバイル最適化,ITサービス</li>
+                                    </ul>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="content__wrapper">
+                        <div class="flex__row">
+                             
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://jualbeliweb.id/" target="_blank" rel="noreferrer">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-jualbeliweb.webp">
+                                        <img src="/img/portfolio/update/web-jualbeliweb.jpg" class="img-responsive" alt="JualBeliWEB.id (Website market place)">
+                                    </picture>
+                                    <h3>JualBeliWEB.id (Website market place)</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB構築＆運用 (デザイン | CMS | システム構築｜コンテンツ制作 | 運用)</li>
+                                        <li>CMS,マーケットプレイス,DB,Mobile,セキュアなWEB,WEBサービス</li>
+                                    </ul>
+                                </a>
+                            </div> 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/id/moe" target="_blank" rel="noreferrer">
                                     <picture>
@@ -475,259 +1127,7 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-eccj.webp">
-                                        <img src="/img/portfolio/update/web-eccj.jpg" class="img-responsive" alt="ECCJ">
-                                    </picture>
-                                    <h3>ECCJ</h3>
-                                    <ul class="list-unstyled">
-                                        <li>LP制作、申込みフォーム制作 (デザイン | プログラミング)</li>
-                                        <li>モバイル最適化, 申込フォーム, イベント</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-sfi.webp">
-                                        <img src="/img/portfolio/update/web-sfi.jpg" class="img-responsive" alt="Sumitomo Forestry LP">
-                                    </picture>
-                                    <h3>Sumitomo Forestry LP</h3>
-                                    <ul class="list-unstyled">
-                                        <li>ランディングページ制作 (デザイン | コーディング)</li>
-                                        <li>モバイル,キャンペーンページ</li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://hajime-indonesia.co.id/about/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-hajime.webp">
-                                        <img src="/img/portfolio/update/web-hajime.jpg" class="img-responsive" alt="Hajime Indonesia">
-                                    </picture>
-                                    <h3>Hajime Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBサイト制作 (デザイン | コーディング | 運用 | WEBサーバー運用)</li>
-                                        <li>多言語,モバイル,AWS,不動産</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://maisonderes.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-mdr.webp">
-                                        <img src="/img/portfolio/update/web-mdr.jpg" class="img-responsive" alt="Maison de Res (Condominium Portal)">
-                                    </picture>
-                                    <h3>Maison de Res (Condominium Portal)</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB構築＆運用 (デザイン | CMS |コンテンツ制作 | 運用)</li>
-                                        <li>CMS,ポータル, Mobile,不動産,WEBサービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.zuttoride.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-zutto.webp">
-                                        <img src="/img/portfolio/update/web-zutto.jpg" class="img-responsive" alt="ZuttoRide Indonesia">
-                                    </picture>
-                                    <h3>ZuttoRide Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)</li>
-                                        <li>多言語,モバイル,バイクサービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://jjs.or.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-jjs.webp">
-                                        <img src="/img/portfolio/update/web-jjs.jpg" class="img-responsive" alt="Jakarta Japanese School">
-                                    </picture>
-                                    <h3>Jakarta Japanese School</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB構築＆運用 (デザイン | Coding | Wordpress | 運用)</li>
-                                        <li>日本語WEB,ブログ,モバイル最適化,願書受付,学校</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://cikarang-japanese-school.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-cjs.webp">
-                                        <img src="/img/portfolio/update/web-cjs.jpg" class="img-responsive" alt="Cikarang Japanese School">
-                                    </picture>
-                                    <h3>Cikarang Japanese School</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB構築＆運用 (デザイン | Coding | Wordpress | AWS運用)</li>
-                                        <li>日本語WEB,ブログ,モバイル最適化,願書受付,学校</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-symposium.webp">
-                                        <img src="/img/portfolio/update/web-symposium.jpg" class="img-responsive" alt="Symposium Application LP">
-                                    </picture>
-                                    <h3>Symposium Application LP</h3>
-                                    <ul class="list-unstyled">
-                                        <li>参加申込フォーム (デザイン | PHPフォーム)</li>
-                                        <li>多言語,モバイル, 申込フォーム開発,公共</li>
-                                    </ul>
-                                </a>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.ikeuchi.id/lp/eng/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-ikeuchi.webp">
-                                        <img src="/img/portfolio/update/web-ikeuchi.jpg" class="img-responsive" alt="Ikeuchi Indonesia">
-                                    </picture>
-                                    <h3>Ikeuchi Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBサイト制作 (デザイン | コーディング)</li>
-                                        <li>多言語,モバイル,製造業</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.moresco.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-moresco.webp">
-                                        <img src="/img/portfolio/update/web-moresco.jpg" class="img-responsive" alt="MORESCO INDONESIA">
-                                    </picture>
-                                    <h3>MORESCO INDONESIA</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBサイト制作 (デザイン | コーディング | 保守 | WEBサーバー運用)</li>
-                                        <li>多言語,モバイル,製造業</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://trendpot-recruit.asia/index.php" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-trendpot.webp">
-                                        <img src="/img/portfolio/update/web-trendpot.jpg" alt="Digital Marketing Indonesia" class="img-responsive center-block">
-                                    </picture>
-                                    <h3>TRENDPOT</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB制作＆運用 (デザイン | コーディング | 運用)</li>
-                                        <li>モバイル,セキュアなWEB,公共</li>
-                                    </ul>
-                                </a>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.digitalmarketingindonesia.co.id/index_id.php" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-dmi.webp">
-                                        <img src="/img/portfolio/update/web-dmi.jpg" alt="Digital Marketing Indonesia" class="img-responsive center-block">
-                                    </picture>
-                                    <h3>Digital Marketing Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB制作 (デザイン | コーディング)</li>
-                                        <li>多言語,モバイル最適化,ITサービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-salon-de-res.webp">
-                                        <img src="/img/portfolio/update/web-salon-de-res.jpg" alt="Salon De Res" class="img-responsive center-block">
-                                    </picture>
-                                    <h3>Salon De Res</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB制作 (デザイン | コーディング)</li>
-                                        <li>モバイル最適化,多言語,美容</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.kumomiland.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-kumomiland.webp">
-                                        <img src="/img/portfolio/update/web-kumomiland.jpg" alt="KUMOMI LAND INDONESIA" class="img-responsive center-block">
-                                    </picture>
-                                    <h3>KUMOMI LAND INDONESIA</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB制作 (デザイン | コーディング | 保守)</li>
-                                        <li>モバイル,多言語,Wordpress,ブログ,不動産</li>
-                                    </ul>
-                                </a>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://4dentist.jp/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-4dentist.webp">
-                                        <img src="/img/portfolio/update/web-4dentist.jpg" class="img-responsive" alt="4Dentist.jp">
-                                    </picture>
-                                    <h3>4Dentist.jp (Dentist Portal)</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB構築＆運用 (デザイン | CMS | 運用)</li>
-                                        <li>Wordpress,モバイル最適化,会員専用Web,医療</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://omc.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-omc.webp">
-                                        <img src="/img/portfolio/update/web-omc.jpg" class="img-responsive" alt="Onitsuka Management Consulting">
-                                    </picture>
-                                    <h3>Onitsuka Management Consulting</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBリデザイン(デザイン | コーディング)</li>
-                                        <li>多言語,モバイル,AWS,コンサルティング,会計税務</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://j-golfacademy.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-golfjkt.webp">
-                                        <img src="/img/portfolio/update/web-golfjkt.jpg" class="img-responsive" alt="Jakarta Golf Academy">
-                                    </picture>
-                                    <h3>Jakarta Golf Academy</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBサイト制作 (デザイン| コーディング |運用)</li>
-                                        <li>モバイル最適化,オンラインブッキング,スポーツ</li>
-                                    </ul>
-                                </a>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.60jpid.com/music-festival.php" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-music-festival.webp">
-                                        <img src="/img/portfolio/update/web-music-festival.jpg" class="img-responsive" alt="Music Festival Landing Page">
-                                    </picture>
-                                    <h3>Music Festival Landing Page</h3>
-                                    <ul class="list-unstyled">
-                                        <li>ランディングページ制作 (デザイン | マークアップ | 広告)</li>
-                                        <li>モバイル最適化, 多言語, イベント</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://promokreditbprks.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-bprks.webp">
-                                        <img src="/img/portfolio/update/web-bprks.jpg" class="img-responsive" alt="BPR KS">
-                                    </picture>
-                                    <h3>BPR KS</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB再制作 & 改善ワーク(デザイン | コーディング | コンテンツ制作 | 運用)</li>
-                                        <li>CMS, モバイル, セキュアなWEB, 金融, 自動車ローン</li>
-                                    </ul>
-                                </a>
-                            </div>
+                             
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.vipplaza.co.id/" target="_blank" rel="noreferrer">
                                     <picture>
@@ -742,59 +1142,9 @@
                                 </a>
                             </div>
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://opuspark.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-opus-park.webp">
-                                        <img src="/img/portfolio/update/web-opus-park.jpg" class="img-responsive" alt="Opus Park">
-                                    </picture>
-                                    <h3>Opus Park</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBリニューアル制作 (PDCA | SEO | AWS)</li>
-                                        <li>モバイル最適化, O2O, 不動産</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://nlecnihongo.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-nlec.webp">
-                                        <img src="/img/portfolio/update/web-nlec.jpg" class="img-responsive" alt="NLEC">
-                                    </picture>
-                                    <h3>NLEC</h3>
-                                    <ul class="list-unstyled">
-                                        <li>EラーニングWEB開発 (デザイン | CMS | PWA開発）</li>
-                                        <li>システム開発, PWA開発, モバイル最適化,Eラーニング,教育</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-jfe.webp">
-                                        <img src="/img/portfolio/update/web-jfe.jpg" class="img-responsive" alt="JFE">
-                                    </picture>
-                                    <h3>JFE</h3>
-                                    <ul class="list-unstyled">
-                                        <li>コーポレートWEB制作 (デザイン | コーディング）</li>
-                                        <li>レスポンシブ制作, 多言語WEB, コーポレート動画制作, 鉄鋼商社</li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.jjs.or.id/50thanniversary" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-jjs50.webp">
-                                        <img src="/img/portfolio/update/web-jjs50.jpg" class="img-responsive" alt="JJS 50 years special LP">
-                                    </picture>
-                                    <h3>JJS 50 years special LP</h3>
-                                    <ul class="list-unstyled">
-                                        <li>LP制作（Bootstrap | コンテンツ企画）</li>
-                                        <li>LP, スマホ最適化,教育, スクール</li>
-                                    </ul>
-                                </a>
-                            </div>
+                            
+                            
+                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jba.co.id/id/hasil-harga-lelang" target="_blank" rel="noreferrer">
                                     <picture>
@@ -822,32 +1172,8 @@
                                 </a>
                             </div>           
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://lifenesia.com" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-lifenesia.webp">
-                                        <img src="/img/portfolio/update/web-lifenesia.jpg" class="img-responsive" alt="Lifenesia">
-                                    </picture>
-                                    <h3>Lifenesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBホスティング (コーディング | CMSフィッティング)</li>
-                                        <li>モバイル最適化, CMS, ニュースポータル</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-jnto-campaign.webp">
-                                        <img src="/img/portfolio/update/web-jnto-campaign.jpg" class="img-responsive" alt="JNTO Campaign Page">
-                                    </picture>
-                                    <h3>JNTO Campaign Page</h3>
-                                    <ul class="list-unstyled">
-                                        <li>HTML/CSSコーディング (コーディング)</li>
-                                        <li>モバイル最適化, キャンペーンページ</li>
-                                    </ul>
-                                </a>
-                            </div>
+                            
+                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <picture>
@@ -862,45 +1188,9 @@
                                 </div>
                             </div>                            
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.60jpid.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-60jpid.webp">
-                                        <img src="/img/portfolio/update/web-60jpid.jpg" class="img-responsive" alt="60th Anniversary Japan-Indonesia">
-                                    </picture>
-                                    <h3>60<sup>th</sup> Anniversary Japan-Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB制作＆運用 (デザイン | コーディング | コンテンツ制作 | 運用)</li>
-                                        <li>CMS, multi-bahasa, Mobile, Keamanan WEB, Publik</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-wantjp.webp">
-                                        <img src="/img/portfolio/update/web-wantjp.jpg" class="img-responsive" alt="Want.jp">
-                                    </picture>
-                                    <h3>Want.jp</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Eコマース (PWA | ReactJS | NodeJS)</li>
-                                        <li>モバイル最適化EC, 越境EC</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://banzaihobby.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-banzai-hobby.webp">
-                                        <img src="/img/portfolio/update/web-banzai-hobby.jpg" class="img-responsive" alt="Banzai Hobby">
-                                    </picture>
-                                    <h3>Banzai Hobby</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEBサーバー＆データ移行 (移行 | ホスティング | AWS)</li>
-                                        <li>Eコマース, Zenカート</li>
-                                    </ul>
-                                </a>
-                            </div>    
+                            
+                           
+                               
 
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://jjc.or.id/hojin/annai/" target="_blank" rel="noreferrer">
@@ -940,21 +1230,7 @@
                                         <li>モバイル最適化, CMS, キャンペーンページ</li>
                                     </ul>
                                 </a>
-                            </div>  
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-proline.webp">
-                                        <img src="/img/portfolio/update/web-proline.jpg" class="img-responsive" alt="PROLINE FINANCE">
-                                    </picture>
-                                    <h3>PROLINE FINANCE</h3>
-                                    <ul class="list-unstyled">
-                                        <li>CMS WEBサイト制作 (デザイン | コーディング | CMS)</li>
-                                        <li>CMS,モバイル対応,金融</li>
-                                    </ul>
-                                </a>
-                            </div>
+                            </div>   
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://aiaberbagi.com" target="_blank" rel="noreferrer">
                                     <picture>
@@ -968,60 +1244,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.kbrprime.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-kbr-id.webp">
-                                        <img src="/img/portfolio/update/web-kbr-id.jpg" class="img-responsive" alt="KBR_ID">
-                                    </picture>
-                                    <h3>KBR</h3>
-                                    <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
-                                    </ul>
-                                </a>
-                            </div>        
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://unitedconcepts.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-royal-amanda.webp">
-                                        <img src="/img/portfolio/update/web-royal-amanda.jpg" class="img-responsive" alt="Royal Armada">
-                                    </picture>
-                                    <h3>Royal Armada</h3>
-                                    <ul class="list-unstyled">
-                                        <li></li>
-                                        <li></li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://premium-garansi.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-premiumgaransi.webp">
-                                        <img src="/img/portfolio/update/web-premiumgaransi.jpg" class="img-responsive" alt="Premium Garansi">
-                                    </picture>
-                                    <h3>Premium-Garansi.co.id</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Webページ制作 (コーディング | CMS)</li>
-                                        <li>モバイル最適化, CMS, コーポレートWeb</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-ligohome.webp">
-                                        <img src="/img/portfolio/update/web-ligohome.jpg" class="img-responsive" alt="LIGO Home">
-                                    </picture>
-                                    <h3>LIGO-Home</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Webページ制作 (デザイン | コーディング | CMS)</li>
-                                        <li>モバイル最適化, CMS, コーポレートWeb</li>
-                                    </ul>
-                                </div>
-                            </div>   
-
+                             
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.otomart.id/oto-garansi.html" target="_blank" rel="noreferrer">
                                     <picture>
@@ -1035,126 +1258,17 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://timscorp.co.id/en" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-timscorp.webp">
-                                        <img src="/img/portfolio/update/web-timscorp.jpg" class="img-responsive" alt="Timscorp">
-                                    </picture>
-                                    <h3>PT. TOYOTA ENTERPRISE INDONESIA MANAGEMENT SERVICE</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web 構築（デザイン制作 | CMS | コーディング）</li>
-                                        <li>独自CMS, スマホ最適, カンパニーWeb, 不動産情報Web</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.bambootajur.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-bambootajur.webp">
-                                        <img src="/img/portfolio/update/web-bambootajur.jpg" class="img-responsive" alt="Green Bamboo Terace">
-                                    </picture>
-                                    <h3>Green Bamboo Terace</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web 再制作（デザイン制作 | CMS | コーディング）</li>
-                                        <li>WordPress, スマホ最適, 不動産</li>
-                                    </ul>
-                                </a>
-                            </div>                            
+                            
+                                                       
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://hmw-rehab.com/en" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-hmw.webp">
-                                        <img src="/img/portfolio/update/web-hmw.jpg" class="img-responsive" alt="HMW Rehabilitation Clinic">
-                                    </picture>
-                                    <h3>HMW Rehabilitation Clinic</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web 構築（デザイン制作 | CMS | コーディング）</li>
-                                        <li>独自CMS, スマホ最適, カンパニーWeb, 医療サービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://weeo.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-weeo.webp">
-                                        <img src="/img/portfolio/update/web-weeo.jpg" class="img-responsive" alt="Weeo">
-                                    </picture>
-                                    <h3>Weeo</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web制作（デザイン制作 | コーディング | 運用）</li>
-                                        <li>モバイル最適, サービスWeb, IoTサービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://scskidn.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-scsk.webp">
-                                        <img src="/img/portfolio/update/web-scsk.jpg" class="img-responsive" alt="SCSK">
-                                    </picture>
-                                    <h3>SCSK</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web制作（デザイン制作 | コーディング | メンテナンス）</li>
-                                        <li>短納期制作, コーポレートWeb, ITサービス</li>
-                                    </ul>
-                                </a>
-                            </div>                            
+                            
+                                                       
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://grahamirai.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-graha-mirai.webp">
-                                        <img src="/img/portfolio/update/web-graha-mirai.jpg" class="img-responsive" alt="Graha Mirai">
-                                    </picture>
-                                    <h3>Graha Mirai</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web制作（デザイン制作 | コーディング | 運用）</li>
-                                        <li>モバイル最適, サービスWeb, 不動産</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://swara.tunaiku.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-amar-bank.webp">
-                                        <img src="/img/portfolio/update/web-amar-bank.jpg" class="img-responsive" alt="Amar Bank">
-                                    </picture>
-                                    <h3>Amar Bank</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Webリニューアル制作 (デザイン | コーディング | CMS)</li>
-                                        <li>Wordpress, コーポレートWeb, 銀行, 金融</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://m-pas.org/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-mpas.webp">
-                                        <img src="/img/portfolio/update/web-mpas.jpg" class="img-responsive" alt="MPAS">
-                                    </picture>
-                                    <h3>MPAS</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WebフロントエンドDev (デザイン | コーディング | CMS)</li>
-                                        <li>検索Web, CMS, 医療情報</li>
-                                    </ul>
-                                </a>
-                            </div>                            
+                            
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-pertamina.webp">
-                                        <img src="/img/portfolio/update/web-pertamina.jpg" class="img-responsive" alt="Pertamina">
-                                    </picture>
-                                    <h3>Pertamina</h3>
-                                    <ul class="list-unstyled">
-                                        <li>UI/UXデザイン (デザイン | HTML/CSSコーディング)</li>
-                                        <li>eラーニング, トレーニング, 資源ビジネス</li>
-                                    </ul>
-                                </div>
-                            </div>
+                                                      
+
+                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://lifenesia.com/" target="_blank" rel="noreferrer">
                                     <picture>
@@ -1168,73 +1282,9 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://shi-indonesia.co.id/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-shi.webp">
-                                        <img src="/img/portfolio/update/web-shi.jpg" class="img-responsive" alt="Sumitomo Heavy">
-                                    </picture>
-                                    <h3>Sumitomo Heavy</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Heavy Industry Web制作 (デザイン｜コーディング | CMS)</li>
-                                        <li>モバイル最適化, CMS, コーポレートWeb, 重工業</li>
-                                    </ul>
-                                </a>
-                            </div>  
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-asean-legal.webp">
-                                        <img src="/img/portfolio/update/web-asean-legal.jpg" class="img-responsive" alt="ASEAN Legal">
-                                    </picture>
-                                    <h3>ASEAN (Legal)</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web Remake Development (Design | Coding | CMS Integration)</li>
-                                        <li>Public & Private Document Access, Custom Wordpress, International Organisation</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://afcwp.asean.org/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-asean-afcwp.webp">
-                                        <img src="/img/portfolio/update/web-asean-afcwp.jpg" class="img-responsive" alt="ASEAN Finance">
-                                    </picture>
-                                    <h3>ASEAN (Financial)</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web Remake Development (Design | Coding | CMS Integration)</li>
-                                        <li>Custom Wordpress, Public & Private Document Access, Multi Level Authors, International Organisation</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.tsubame-jltc.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-tsubame-lpk.webp">
-                                        <img src="/img/portfolio/update/web-tsubame-lpk.jpg" class="img-responsive" alt="Tsubame JLTC">
-                                    </picture>
-                                    <h3>LPK Tsubame Japanese Learning Center</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web改善 (リデザイン｜コーディング | CMS)</li>
-                                        <li>モバイル最適化, サービスWeb, 教育</li>
-                                    </ul>
-                                </a>
-                            </div>     
-
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://wkvetter.com/" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-vetter-bulletin.webp">
-                                        <img src="/img/portfolio/update/web-vetter-bulletin.jpg" class="img-responsive" alt="Vetter Bulletin Board">
-                                    </picture>
-                                    <h3>Vetter</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web掲示板制作 (デザイン | コーディング | CMS)</li>
-                                        <li>掲示板, CMS, コミュニティWeb, メディア, ベトナム</li>
-                                    </ul>
-                                </a>
-                            </div>
+                             
+                                 
+                            
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <picture>
@@ -1248,153 +1298,19 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://sibad.id/id" target="_blank" rel="noreferrer">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-sibad.webp">
-                                        <img src="/img/portfolio/update/web-sibad.jpg" class="img-responsive" alt="Siti Badriah">
-                                    </picture>
-                                    <h3>Sibad.id</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web再構築（クラウド移行 | 再構築＆改善 | 決済機能構築）</li>
-                                        <li>有料会員, サブスクWeb, ファンクラブ運営, エンターテイメント</li>
-                                    </ul>
-                                </a>
-                            </div>      
+                                  
 
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-ishida.webp">
-                                        <img src="/img/portfolio/update/web-ishida.jpg" class="img-responsive" alt="Ishida">
-                                    </picture>
-                                    <h3>Ishida</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web構築（デザイン制作 | CMS | コーディング</li>
-                                        <li>BtoB, 製品検索Web, 製造業</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-sumitomo-kenki.webp">
-                                        <img src="/img/portfolio/update/web-sumitomo-kenki.jpg" class="img-responsive" alt="Sumitomo Kenki">
-                                    </picture>
-                                    <h3>Sumitomo Kenki</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WebフロントエンドDev (コーディング | CMS)</li>
-                                        <li>モバイル最適化, CMS, コーポレートWeb, 建機</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-aia-berbagi.webp">
-                                        <img src="/img/portfolio/update/web-aia-berbagi.jpg" class="img-responsive" alt="AIA Berbagi">
-                                    </picture>
-                                    <h3>AIA Berbagi</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web制作 (コーディング | API連携)</li>
-                                        <li>フォーム開発, マイクロサイト, 保険, CSR</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-aia-conservation.webp">
-                                        <img src="/img/portfolio/update/web-aia-conservation.jpg" class="img-responsive" alt="AIA Conservation">
-                                    </picture>
-                                    <h3>AIA Conservation</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web制作 (デザイン | コーディング)</li>
-                                        <li>フォーム開発, マルチユーザージャーニー, マイクロサイト, Adobe Forms, 保険</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="https://gakken-jakarta.com/" target="_blank" class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-gakken.webp">
-                                        <img src="/img/portfolio/update/web-gakken.jpg" class="img-responsive" alt="Gakken Jakata">
-                                    </picture>
-                                    <h3>Gakken Jakarta</h3>
-                                    <ul class="list-unstyled">
-                                        <li>(コーディング | 運用 | サーバー運用）</li>
-                                        <li>コーポレート＆サービスWeb、教育</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="https://indonesea.id/" target="_blank" class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-indonesea.webp">
-                                        <img src="/img/portfolio/update/web-indonesea.jpg" class="img-responsive" alt="Indonesea">
-                                    </picture>
-                                    <h3>Indonesea</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web構築（デザイン制作 | CMS | コーディング）</li>
-                                        <li>予約管理システム, CMS, レジャー, BtoCサービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="https://www.bambootajur.com/" target="_blank" class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-kbj.webp">
-                                        <img src="/img/portfolio/update/web-kbj.jpg" class="img-responsive" alt="Green Bamboo Terrace">
-                                    </picture>
-                                    <h3>Green Bamboo Terrace</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Web制作（デザイン制作 | コーディング | デジタルマーケティング）</li>
-                                        <li>コンバージョン獲得, 不動産</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="https://benefit-one.co.id/" target="_blank" class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-benefit-one.webp">
-                                        <img src="/img/portfolio/update/web-benefit-one.jpg" class="img-responsive" alt="Green Bamboo Terrace">
-                                    </picture>
-                                    <h3>Benefit One Website Remake</h3>
-                                    <ul class="list-unstyled">
-                                        <li>制作（デザイン制作 | CMS | コーディング）</li>
-                                        <li>ブログ, スマホ最適, BtoBサービス</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a href="https://klikhoreca.com/" target="_blank" class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-klikhoreca.webp">
-                                        <img src="/img/portfolio/update/web-klikhoreca.jpg" class="img-responsive" alt="Klikhoreca">
-                                    </picture>    
-                                    <h3>Klikhoreca</h3>
-                                    <ul class="list-unstyled">
-                                        <li>ECサイト構築 (デザイン | システム開発 | 決済連携) </li>
-                                        <li>PWA開発, NextJSフレームワーク, 小売EC, 日用品食品EC</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item">
-                                    <picture>
-                                        <source srcset="/img/portfolio/update/web-panin.webp" type="image/webp">
-                                        <img src="/img/portfolio/update/web-panin.jpg" class="img-responsive" alt="Panin Dai-ichi">
-                                    </picture>
-                                    <h3>Panin Dai-ichi</h3>
-                                    <ul class="list-unstyled">
-                                        <li>保険E-Commerce  (CMS開発 | 動的な保険商品の生成)</li>
-                                        <li>Laravel開発, 保険, EC</li>
-                                    </ul>
-                                </div>
-                            </div>
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
 
                         </div>
-                    </div>
+                    </div> -->
                     <div class="text-center">
                         <a href="#" class="btn btn--full">コンバージョンが出るホームページが必要ではないですか？</a>
                     </div>

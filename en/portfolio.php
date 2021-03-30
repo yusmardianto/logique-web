@@ -328,22 +328,22 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    <h3>AUKSI</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Development & Operasion WEB (Design | Sistem | CMS | Operation)</li>
+                                        <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Design (Design | Coding | Deployment)</li>
                                         <li>Company Web, Mobile Optimized, Automotive, Car Rental</li>
-                                    </ul>
-                                </a>
-                            </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">
-                                    <h3>JNTO Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>WEB Remake & Operation (Design | Coding | Operation)</li>
-                                        <li>Mobile Optimized, secure WEB, Public, Travel</li>
                                     </ul>
                                 </a>
                             </div>
