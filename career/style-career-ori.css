@@ -1101,6 +1101,14 @@ ul.medsos-new li a {
   background: url("/img/career/bg-img/bg-sub-mobile-app-dev.jpg") center/cover no-repeat;
   background-image: url("/img/career/bg-img/bg-sub-mobile-app-dev.webp");
 }
+.bg--main-net-dev {
+  background: url("/img/career/bg-img/bg-main-net-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-main-net-dev.webp");
+}
+.bg--sub-net-dev {
+  background: url("/img/career/bg-img/bg-sub-net-dev.jpg") center/cover no-repeat;
+  background-image: url("/img/career/bg-img/bg-sub-net-dev.webp");
+}
 .bg--sub-senior-react-js-dev {
   background: url("/img/career/bg-img/bg-sub-senior-react-js-dev.jpg") center/cover no-repeat;
   background-image: url("/img/career/bg-img/bg-sub-senior-react-js-dev.webp");
