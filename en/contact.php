@@ -700,6 +700,37 @@ if(isset($_POST['submitted']))
 
             <section>
                 <div class="container__">
+                    <div class="row flex__row justify-content-center">
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <a href="/white-paper.php">
+                                <picture>
+                                    <source srcset="/img/contact/banner-link-whitepaper.webp" type="image/webp">
+                                    <img src="/img/contact/banner-link-whitepaper.png" alt="" class="img-responsive">
+                                </picture>
+                            </a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <a href="/case-study/">
+                                <picture>
+                                    <source srcset="/img/contact/banner-link-case-study.webp" type="image/webp">
+                                    <img src="/img/contact/banner-link-case-study.png" alt="" class="img-responsive">
+                                </picture>
+                            </a>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-4">
+                            <a href="/en/services/dx-dm-service.php">
+                                <picture>
+                                    <source srcset="/img/contact/banner-link-dx-dm.webp" type="image/webp">
+                                    <img src="/img/contact/banner-link-dx-dm.png" alt="" class="img-responsive">
+                                </picture>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <div class="container__">
                     <div class="clearfix">
                         <div class="contact-us-cont" style="padding:0;">
                             <div class="col-sm-6" style="padding: 1em 0;">
