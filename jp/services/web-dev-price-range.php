@@ -50,8 +50,8 @@ if(isset($_POST['submitted']))
      <meta property="og:title" content="Web制作費用 | インドネシアのWeb制作会社LOGIQUEのホームページ制作">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
-     <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev-price-range.php">
+     <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
      <meta property="og:description"
          content="インドネシアの制作会社LOGIQUEのWebサイト・ホームページ制作サービスの価格例をご紹介します。静的なWebサイトから大規模なWebシステムまで価格に幅はありますが、概算をご紹介します。詳細はお問い合わせください。">
     <title>Web制作費用 | インドネシアのWeb制作会社LOGIQUEのホームページ制作</title>

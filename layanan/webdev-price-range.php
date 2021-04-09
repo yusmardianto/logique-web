@@ -36,7 +36,7 @@ if(isset($_POST['submitted']))
 ?>
 
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="id">
 
 <head>
     <meta charset="utf-8">
@@ -50,7 +50,8 @@ if(isset($_POST['submitted']))
 	<meta property="og:title" content="Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
-	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:url" content="https://www.logique.co.id/layanan/webdev-price-range.php">
+	<meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
 	<meta property="og:description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 	<title>Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia</title>

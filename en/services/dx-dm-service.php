@@ -12,8 +12,8 @@
     <meta property="og:title" content="Flat-rate DX/DM Specialist Service | Subscription DM | LOGIQUE Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/en/portfolio.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
+    <meta property="og:url" content="https://www.logique.co.id/en/services/dx-dm-service.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/service/all-you/bg-main-illustration.png">
     <meta property="og:description"
         content="Jakarta based Flat Rate Specialist IT/DX/DM services available by subscription with Logique Digital Indonesia at a good price.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

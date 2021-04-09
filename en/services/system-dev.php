@@ -49,7 +49,8 @@
      <meta property="og:title" content="Web system development and maintenance services | LOGIQUE">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:url" content="https://www.logique.co.id/en/services/system-dev.php">
+     <meta property="og:image" content="https://www.logique.co.id/layanan/assets/img/img-systemdev/newlayout/skemaproyek.png">
      <meta property="og:description"
          content="Using Agile Development, LOGIQUE provides web system development & maintenance services in Jakarta, Indonesia, so as to sustain your web based system.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

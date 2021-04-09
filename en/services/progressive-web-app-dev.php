@@ -14,7 +14,8 @@
     <meta property="og:title" content="Indonesia's Best Progressive Web App (PWA) Development Service｜LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:url" content="https://www.logique.co.id/en/services/progressive-web-app-dev.php">
+    <meta property="og:image" content="https://www.logique.co.id/layanan/assets/img/img-pwa/img-banner-header.png">
     <meta property="og:description"
         content="LOGIQUE is a pioneer company in Indonesian PWA development, having developed PWAs as for E-Commerce and E-Learning. The Best Progressive Web App (PWA) Development Service in Jakarta. Looking for the best PWA Developer? Contact LOGIQUE. Experienced & Professional.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

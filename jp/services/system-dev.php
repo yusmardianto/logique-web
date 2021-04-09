@@ -52,9 +52,9 @@
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/jp/services/system-dev.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:image" content="https://www.logique.co.id/layanan/assets/img/img-systemdev/newlayout/skemaproyek.png">
      <meta property="og:description"
-         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
+         content="LOGIQUEは、E-Commerceシステム、CRMシステム、会計管理システムなど各種システム開発運用やアプリ開発、システムコンサルティングをインドネシアで行っています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
      <title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
      <link rel="canonical" href="https://www.logique.co.id/jp/services/system-dev.php"/>
      
