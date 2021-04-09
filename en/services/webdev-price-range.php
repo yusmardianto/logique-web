@@ -36,7 +36,7 @@ if(isset($_POST['submitted']))
 ?>
 
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
@@ -50,8 +50,8 @@ if(isset($_POST['submitted']))
      <meta property="og:title" content="Complete Web Development Price List Jakarta | LOGIQUE">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
-     <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:url" content="https://www.logique.co.id/en/services/webdev-price-range.php">
+     <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
      <meta property="og:description"
          content="LOGIQUE is a highly ranked web development company in Jakarta offering a range of prices and platforms for developing a Website or web Application.">
     <title>Complete Web Development Price List Jakarta | LOGIQUE</title>

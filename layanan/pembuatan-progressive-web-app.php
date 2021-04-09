@@ -12,7 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-progressive-web-app.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:image" content="https://www.logique.co.id/layanan/assets/img/img-pwa/img-banner-header.png">
     <meta property="og:description" content="Jasa Pembuatan Progressive Web App (PWA) Terbaik Di Indonesia. LOGIQUE berpengalaman dalam mengembangkan PWA untuk E-Commerce, E-Learning, dll. Hubungi Kami!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>Jasa Pembuatan Progressive Web App (PWA) Terbaik | LOGIQUE</title>

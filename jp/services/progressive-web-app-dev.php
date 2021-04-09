@@ -15,7 +15,7 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services/progressive-web-app-dev.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:image" content="https://www.logique.co.id/layanan/assets/img/img-pwa/img-banner-header.png">
     <meta property="og:description"
         content="インドネシアでPWA開発の豊富な経験をもつLOGIQUEデジタルIndonesiaにPWA開発に関することはお任せください。Webアプリの開発、既存のアプリの改修、メンテナンスなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューションについても豊富な経験あります。">
     <title>PWA開発 | LOGIQUE Digital インドネシア</title>
