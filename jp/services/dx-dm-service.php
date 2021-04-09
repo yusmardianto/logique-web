@@ -11,8 +11,8 @@
     <meta property="og:title" content="定額DX/DM支援サービス | スペシャリスト利用し放題 | LOGIQUE DIGITAL INDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
+    <meta property="og:url" content="https://www.logique.co.id/jp/services/dx-dm-service.php">
+    <meta property="og:image" content="https://www.logique.co.id/img/service/all-you/bg-main-illustration.png">
     <meta property="og:description"
         content="LOGIQUEのDX, IT, Digital Marketingに関するin-Houseスペシャリスト（合計約80名）を必要に応じてご利用可能です。デザイナー、プログラマー、アナリスト、セキュリティスペシャリスト、ソーシャルメディアスペシャリストなど様々なスペシャリストの支援を受けられます。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

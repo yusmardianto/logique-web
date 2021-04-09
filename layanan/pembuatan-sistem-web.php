@@ -16,7 +16,7 @@
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-sistem-web.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:image" content="https://www.logique.co.id/layanan/assets/img/img-systemdev/newlayout/skemaproyek.png">
      <meta property="og:description"
          content="Jasa pembuatan aplikasi web / sistem web di Jakarta dengan harga terbaik. Dikerjakan secara profesional menggunakan teknologi terkini | LOGIQUE">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
