@@ -49,7 +49,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/jp/services/mobile-app-dev.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-mobileapps/hp-header.png">
      <meta property="og:description"
          content="インドネシアのモバイルApp開発会社LOGIQUEデジタルIndonesia。モバイル・スマホアプリの開発、既存のアプリの改修、バージョンアップ対応、メンテナンス契約についてなど、お気軽にご相談ください。アプリの開発以外にもモバイル・スマホ活用ソリューション、PWA等についても豊富な経験あります。">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
