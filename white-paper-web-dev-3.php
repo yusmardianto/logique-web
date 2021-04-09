@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once("./form/fgwhitepaperform.php");
 require './conf.php';
 
@@ -91,7 +91,7 @@ $kodeBarang = $result;
     <meta property="og:description"
         content="Download panduan lengkap mengenai peran dan pentingnya pengujian penetrasi (penetration testing) dalam proses bisnis perusahaan Anda | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>White Paper Download | Pentingnya Penetration Testin<g/title>
+    <title>White Paper Download | Pentingnya Penetration Testing</title>
 
     <link rel="canonical" href="https://www.logique.co.id/white-paper-web-dev-3.php" />
 
