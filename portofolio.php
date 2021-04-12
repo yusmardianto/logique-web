@@ -327,14 +327,17 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
-                                    <h3>AUKSI</h3>
+                                <div class="content__item">
+                                    <picture>
+                                        <source srcset="/img/portfolio/update/web-jbap.webp" type="image/webp">
+                                        <img src="/img/portfolio/update/web-jbap.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    </picture>
+                                    <h3>JBA Philippines</h3>   
                                     <ul class="list-unstyled">
-                                        <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation)</li>
-                                        <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                        <li>(Design | CMS | System | Operation | AWS)</li>
+                                        <li>Online Auction, DB-Web, Automotive, Philippines, Auction</li>
                                     </ul>
-                                </a>
+                                </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
