@@ -930,7 +930,16 @@
                                     </ul>
                                 </a>
                             </div>
-
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    <h3>AUKSI</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Development & Operasion WEB (Design | Sistem | CMS | Operation)</li>
+                                        <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                    </ul>
+                                </a>
+                            </div>
                         </div>
                     </div>
                     <!-- <div class="content__wrapper">
