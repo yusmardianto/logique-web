@@ -45,7 +45,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php">
-     <meta property="og:image" content="https://www.logique.co.id/assets/img/img-mobileapps/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/en/services/assets/img/img-mobileapps/mobile-phone.png">
      <meta property="og:description"
          content="Jasa pembuatan aplikasi Android & iOS terbaik di Jakarta. Aplikasi Mobile berbasis hybrid dengan teknologi flutter | Aplikasi inspeksi Otomotif, E-commerce, dll.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">

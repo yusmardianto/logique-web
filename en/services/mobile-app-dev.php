@@ -51,7 +51,7 @@ if(isset($_POST['submitted']))
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/en/services/mobile-app-dev.php">
-     <meta property="og:image" content="https://www.logique.co.id/assets/img/img-mobileapps/og-image.png">
+     <meta property="og:image" content="https://www.logique.co.id/en/services/assets/img/img-mobileapps/mobile-phone.png">
      <meta property="og:description"
          content="LOGIQUE is a mobile app developer in Jakarta, providing Mobile App development & design services, for Android, iOS or Hybrid Mobile Apps.">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
