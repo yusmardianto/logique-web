@@ -161,6 +161,20 @@
               <h3 class="section-title">Senior React JS Developer</h3>
             </a>
           </div> -->
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/golang-developer.php"
+              class="lowongan-position__item bg--sub-web-dev">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Golang Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/flutter-developer.php"
+              class="lowongan-position__item bg--sub-mobile-app-dev">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Flutter Developer</h3>
+            </a>
+          </div>
         </div>
         <?php endif; ?>
 
