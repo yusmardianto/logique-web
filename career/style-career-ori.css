@@ -2367,6 +2367,9 @@ ul.candiate-criteria__reject li::before {
   padding-left: 15px;
   margin-bottom: 15px;
 }
+.career-list .career-list {
+  list-style: circle;
+}
 .work-schedule__item {
   display: flex;
   align-items: baseline;

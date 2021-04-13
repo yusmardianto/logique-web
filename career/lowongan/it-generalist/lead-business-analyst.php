@@ -138,7 +138,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p><span class="fs-24 line-height-1">Lead Business Analyst </span>memegang tanggung jawab untuk memastikan bagian analisis bisnis dari proyek memenuhi kebutuhan proyek dan yang terfokus untuk mencapai tujuan dan prioritas bisnis. Dengan laju bisnis yang cepat, seorang Lead Business Analys diharapkan mampu menentukan bagaimana requirement akan dikelola, dan meninjau hasil project yang dibuat oleh sudah memenuhi standar kualitas dan konsistensi. Seorang Lead Business Analyst perlu tetap fokus pada hal-hal berikut: Delegasi, Pembinaan, dan Sasaran Bisnis.</p>
+                <p><span class="fs-24 line-height-1">Lead Business Analyst </span>bertanggung jawab untuk memastikan bagian analisis bisnis dari proyek memenuhi kebutuhan proyek dan yang terfokus untuk mencapai tujuan dan prioritas bisnis. Dengan laju bisnis yang cepat, seorang Lead Business Analys diharapkan mampu menentukan bagaimana requirement akan dikelola, dan meninjau hasil project yang dibuat oleh sudah memenuhi standar kualitas dan konsistensi. Seorang Lead Business Analyst perlu tetap fokus pada hal-hal berikut: Delegasi, Pembinaan, dan Sasaran Bisnis.</p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Talenta yang kami cari</h3>
@@ -170,16 +170,14 @@
               <div class="career-requirement">
                 <h3 class="section-title">JOB RESPONSIBILITIES</h3>
                 <ul class="career-list">
-                  <li>Membuat struktur dan peran tim Business Analyst dalam pembagian tugas</li>
-                  <li>Bertanggung jawab untuk merencanakan dan memantau aktivitas tim Bisnis Analyst dan memberikan pelaporan rutin untuk setiap hasil pekerjaan tim Bisnis Analis</li>
-                  <li>Bekerja sama dengan tim pengembangan untuk memahami hasil yang diharapkan dari proyek yang dikembangkan maupun yang sudah ada.</li>
-                  <li>Mampu mempertahankan dan meningkatkan SOP dalam Manajemen Kepuasan Pelanggan.</li>
-                  <li>Terlibat dan memimpin untuk mendefinisikan suatu masalah dan kebutuhan project, desain solusi, pengujian, pelatihan, serta menyampaikan dan memastikan kebutuhan tersebut sejalan dengan tujuan bisnis.</li>
-                  <li>Menerjemahkan kebutuhan bisnis tingkat tinggi ke dalam spesifikasi fungsional dan mengelola perubahan pada persyaratan dan spesifikasi tersebut.</li> 
-                  <li>Memfasilitasi komunikasi dan mendapatkan komitmen antar unit bisnis untuk menyelaraskan solusi dengan strategi bisnis</li>
-                  <li>Mendokumentasikan kebutuhan bisnis, desain fungsional, skenario / kasus / skrip pengujian, user manual.</li>
-                  <li>Mengatur kolaborasi dengan antar tim</li>
-                  <li>Bertanggung jawab untuk mengatur rencana project, dan juga progress untuk setiap project.</li>
+                  <li>Memimpin team Business Analyst</li>
+                  <li>Bertanggung jawab untuk perencanaan dan memantau aktifitas Business Analyst dan memberikan laporan </li>
+                  <li>Terlibat dan memimpin penyelesaian masalah, requirement elisitasi, solution design, testing, training dan memastikan requirements tersebut selaras dengan tujuan bisnis</li>
+                  <li>Membantu dalam pengembangan ruang lingkup project dan menentukan batasan project</li>
+                  <li>Menerjemahkan high level business requirements ke dalam spesifikasi functional dan mengelola perubahan pada requirements </li>
+                  <li>Memfasilitasi komunikasi antar unit bisnis dan menyelaraskan solusi dengan strategi bisnis</li>
+                  <li>Mendokumentasikan business requirements, functional design, test scenario/case/script, user manual</li>
+                  <li>Melatih dan membimbing team yang kurang berpengalaman</li>
                 </ul>
               </div>
             </div>
@@ -187,16 +185,12 @@
               <div class="career-requirement">
                 <h3 class="section-title">REQUIREMENTS / MUST HAVE SKILL</h3>
                 <ul class="career-list">
-                  <li>Memiliki pengalaman minimal 5 tahun sebagai Bisnis Analyst/System Analis</li>
+                  <li>Memiliki pengalaman minimal 6 tahun sebagai Bisnis Analyst/System Analis dan minimal 2 tahun sebagai posisi Senior atau Lead </li>
                   <li>Mempunyai pengalaman memegang lebih dari 2 proyek besar bersamaan.</li>
-                  <li>Memiliki pemahaman yang luas tentang software perusahaan dan pengimplementasian software perusahaan di dalam sebuah project</li>
                   <li>Mempunyai pengalaman dengan business process definition and design</li>
-                  <li>Pernah menyelesaikan proyek dengan hasil yang baik untuk proyek ditempat Anda bekerja</li>
-                  <li>Memiliki pengetahuan tentang project management dan juga tools-tools yang mendukung</li>
-                  <li>Attention to detail and ability to meet deadlines</li>
+                  <li>Mahir dalam membuat pemodelan menggunakan BPMN, DFD, UML, ERD, Use Case, Activity Diagram / Flow process, laporan dokumentasi</li>
                   <li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik</li>
                   <li>Memiliki kemampuan analisa dan memecahkan masalah yang tinggi</li>
-                  <li>Goal-driven, self-starter, able to thrive in a fast-paced environment</li>
                   <li>Memiliki kemampuan Bahasa Inggris yang baik</li>
                 </ul>
               </div>
