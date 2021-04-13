@@ -359,8 +359,56 @@
                       </div>
                     </div>
                   </a>
+                </div>                
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/golang-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Gooang Developer">
+                        <h3 class="heading-black">Golang Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                       <!--  <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div> -->
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
+
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/flutter-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Gooang Developer">
+                        <h3 class="heading-black">Flutter Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                       <!--  <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div> -->
+                      </div>
+                    </div>
+                  </a>
+                </div>              
+              </div>
+
             </div>
           </div>
         </div>
