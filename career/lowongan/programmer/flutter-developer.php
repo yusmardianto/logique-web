@@ -6,20 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Lowongan kerja Lead Business Analyst terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
+    content="Lowongan Kerja Flutter Developer Terbaru di Jakarta & Jogja. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
   <meta name="keywords"
-    content="keuntungan bekerja di logique, join us, lead business analyst, lowongan kerja, digital marketing, seo, desain">
+    content="keuntungan bekerja di logique, join us, Flutter Developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja Lead Business Analyst Terbaru Jakarta | LOGIQUE">
+  <meta property="og:title" content="Lowongan Kerja Flutter Developer Terbaru | LOGIQUE ">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
-  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
+   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Lowongan kerja Lead Business Analyst terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
+    content="Lowongan Kerja Flutter Developer Terbaru di Jakarta & Jogja. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/it-generalist/project-manager.php" />
-  <title>Lowongan Kerja Lead Business Analyst Terbaru Jakarta | LOGIQUE</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/programmer/frontend-developer.php" />  
+  <title>Lowongan Kerja Flutter Developer Terbaru | LOGIQUE </title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -29,42 +29,18 @@
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
 
   <!-- Facebook Pixel Code -->
-  <script>
-  ! function(f, b, e, v, n, t, s) {
-    if (f.fbq) return;
-    n = f.fbq = function() {
-      n.callMethod ?
-        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-    };
-    if (!f._fbq) f._fbq = n;
-    n.push = n;
-    n.loaded = !0;
-    n.version = '2.0';
-    n.queue = [];
-    t = b.createElement(e);
-    t.async = !0;
-    t.src = v;
-    s = b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t, s)
-  }(window, document, 'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '713777762291663');
-  fbq('track', 'PageView');
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
-      src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
+  <script>! function(f, b, e, v, n, t, s){ if (f.fbq) return; n=f.fbq=function(){ n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)}; if (!f._fbq) f._fbq=n; n.push=n; n.loaded=!0; n.version='2.0'; n.queue=[]; t=b.createElement(e); t.async=!0; t.src=v; s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)}(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '713777762291663'); fbq('track', 'PageView'); </script>
+  <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
-  <?php 
-    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
-      echo "<!-- Google Tag Manager -->
+  <?php if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') { ?>
+      <!-- Google Tag Manager -->
       <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
       })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
-      <!-- End Google Tag Manager -->";
-    }
-  ?>  
+      <!-- End Google Tag Manager -->
+  <?php } ?>  
 </head>
 
 <body>
@@ -75,7 +51,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--main-project-manager">
+      <section class="container-fluid --top bg--main-front-end-dev">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -93,11 +69,11 @@
                   <meta itemprop="position" content="3" />
                 </li>
                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                    href="/career/lowongan/it-generalist/"><span itemprop="name">&nbsp; IT Generalist</span></a>
+                    href="/career/lowongan/programmer/"><span itemprop="name">&nbsp; Programmer</span></a>
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Lead Business Analyst</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Flutter Developer</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -106,14 +82,14 @@
         </div>
         <div class="container--max-width header-banner">
           <div class="row">
-            <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Lead Business Analyst</h1>
+            <div class="col-sm-offset-1 col-lg-8 col-md-9 col-sm-10">
+              <h1 class="header__title">Flutter Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/work.png" alt="Work Type">
                   </div>
-                  <p>IT Generalist</p>
+                  <p>Programmer</p>
                 </div>
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -125,7 +101,7 @@
                   <div class="career-detail__img-wrapper">
                     <img class="career-detail__img" src="/img/career/icon/location.png" alt="Work Location">
                   </div>
-                  <p>Jakarta</p>
+                  <p>Jakarta, Yogyakarta, remote working</p>
                 </div> -->
               </div>
             </div>
@@ -137,105 +113,105 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
-              <?php /*<div class="career-requirement">
-                <p><span class="fs-24 line-height-1">Lead Business Analyst </span>bertanggung jawab untuk memastikan bagian analisis bisnis dari proyek memenuhi kebutuhan proyek dan yang terfokus untuk mencapai tujuan dan prioritas bisnis. Dengan laju bisnis yang cepat, seorang Lead Business Analys diharapkan mampu menentukan bagaimana requirement akan dikelola, dan meninjau hasil project yang dibuat oleh sudah memenuhi standar kualitas dan konsistensi. Seorang Lead Business Analyst perlu tetap fokus pada hal-hal berikut: Delegasi, Pembinaan, dan Sasaran Bisnis.</p>
-              </div> */ ?>
               <div class="career-requirement">
-                <h3 class="section-title">Talenta yang kami cari</h3>
-                <p>Ada alasan mengapa tanggung jawab pemimpin menyertakan kata-kata seperti &quot;visi&quot;, &quot;dukungan emosional&quot;, dan &quot;tujuan&quot;. Seperti di bagian lain dunia bisnis, kepemimpinan seringkali lebih merupakan seni daripada sains dan membutuhkan pengembangan soft skill yang spesifik dan unik bersama dengan hard skill yang lebih khas yang tercantum dalam deskripsi pekerjaan Anda.</p>
-                <br>
-                <p>Soft Skill yang kami maksud diatas adalah:</p>
-                <ul class="career-list">
-                  <li>Manajemen tim</li>
-                  <li>Resolusi konflik</li>
-                  <li>Kepemimpinan</li>
-                  <li>Motivasi </li>
-                  <li>Komunikasi </li>
-                  <li>Mengusulkan perubahan</li> 
-                  <li>Menciptakan solusi</li>
-                </ul>
-                <p>Logique sendiri biasanya akan memilih orang-orang yang terbaik di bidangnya dan orang- orang tersebut akan menjadi aset yang sangat penting bagi Logique Untuk itu kami selalu berusaha memberikan yang terbaik bagi setiap karyawan. Maka dari itu Logique mengharapkan orang-orang tersebut telah memiliki karakteristik dan juga skill yang terbaik dibidangnya.</p>
-                <br>
+                <p><span class="fs-24 line-height-1">Flutter Developer</span> berperan dalam menghasilkan aplikasi mobile yang berkualitas dan memenuhi kebutuhan klien. Secara umum akan intensif berkolaborasi dengan tim Backend Developer untuk menemukan solusi teknis dan tim Design untuk menciptakan UI/UX yang baik.</p>
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Talenta Yang Kami Cari</h3>
+                <p class="mb--15">Logique mencari seorang yang yang terampil dan bersemangat dan juga memiliki pengalaman bekerja dalam sebuah tim pengembang aplikasi berbasis web dan juga mobile. Baik saat melakukan perancangan website atau saat melakukan debugging maupun mengatasi error yang pada aplikasi. Untuk melakukan hal tersebut di butuhkan strategi dan juga logika yang tepat agar menghasilkan aplikasi yang baik.</p>
                 <p>Jika Anda memiliki karakteristik:</p>
                 <ul class="career-list">
                   <li>Professional</li>
+                  <li>Memiliki inisiatif tinggi</li>
+                  <li>Berkomitmen tinggi</li>
                   <li>Mandiri</li>
                   <li>Self-Driven</li>
-                  <li>Perfeksionis </li>
                   <li>Logis dalam berpikir</li>
                 </ul>
-                <p>Maka, Andalah talenta yang cocok untuk bergabung dengan kami.</p>
+                <p>Maka, Andalah talenta yang cocok untuk bergabung dan berkembang bersama kami.</p>
               </div>
-             
               <div class="career-requirement">
-                <h3 class="section-title">JOB RESPONSIBILITIES</h3>
+                <h3 class="section-title">Persyaratan</h3>
                 <ul class="career-list">
-                  <li>Memimpin team Business Analyst</li>
-                  <li>Bertanggung jawab untuk perencanaan dan memantau aktifitas Business Analyst dan memberikan laporan </li>
-                  <li>Terlibat dan memimpin penyelesaian masalah, requirement elisitasi, solution design, testing, training dan memastikan requirements tersebut selaras dengan tujuan bisnis</li>
-                  <li>Membantu dalam pengembangan ruang lingkup project dan menentukan batasan project</li>
-                  <li>Menerjemahkan high level business requirements ke dalam spesifikasi functional dan mengelola perubahan pada requirements </li>
-                  <li>Memfasilitasi komunikasi antar unit bisnis dan menyelaraskan solusi dengan strategi bisnis</li>
-                  <li>Mendokumentasikan business requirements, functional design, test scenario/case/script, user manual</li>
-                  <li>Melatih dan membimbing team yang kurang berpengalaman</li>
+                  <li>Berpengalaman dengan Test Driven Development (TDD)</li>
+                  <li>Dapat mengimplementasikan Continuous Integration di projek Flutter</li>
+                  <li>Menguasai berbagai macam State Management (GetX, Provider, BLoC, Cubit)</li>
+                  <li>Mampu mengimplementasikan Teknologi Realtime menggunakan Firebase maupun Socket</li>
+                  <li>Mahir dalam profiling (leaks, performance, memory allocations)</li>
+                  <li>Dapat mengimplementasikan Analytics (crash logging, A/B Testing, user behavior) di projek Flutter</li>
+                  <li>Berpengalaman min. 3 tahun sebagai pengembang Mobile Application (iOS atau Android) menggunakan native / platform hybrid lain</li>
+                  <li>Menguasai konsep OOP (Object Oriented Programming)</li>
+                  <li>Berpengalaman dalam memakai Library dan API pihak ketiga</li>
+                  <li>Familiar dengan GIT</li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">REQUIREMENTS / MUST HAVE SKILL</h3>
+                <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                  <li>Memiliki pengalaman minimal 6 tahun sebagai Bisnis Analyst/System Analis dan minimal 2 tahun sebagai posisi Senior atau Lead </li>
-                  <li>Mempunyai pengalaman memegang lebih dari 2 proyek besar bersamaan.</li>
-                  <li>Mempunyai pengalaman dengan business process definition and design</li>
-                  <li>Mahir dalam membuat pemodelan menggunakan BPMN, DFD, UML, ERD, Use Case, Activity Diagram / Flow process, laporan dokumentasi</li>
-                  <li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik</li>
-                  <li>Memiliki kemampuan analisa dan memecahkan masalah yang tinggi</li>
-                  <li>Memiliki kemampuan Bahasa Inggris yang baik</li>
+                  <li>
+                    Berpengalaman dalam teknologi:
+                    <ul class="career-list">
+                      <li>iOS native development</li>
+                      <li>Background Job / Worker</li>
+                      <li>Unit Testing</li>
+                      <li>UI Testing</li>
+                    </ul>
+                  </li>
+                  <li>Pernah menerbitkan min. 1 atau lebih Mobile Application di Playstore / Appstore</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Keuntungan bekerja Di LOGIQUE</h3>
+                <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
                   <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
                   <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
                   <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
                   <li>Bonus kinerja bulanan (performance based).</li>
                   <li>Berpeluang mendapatkan bonus overtime.</li>
-                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
                   <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
                   <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
               <!-- <div class="career-requirement">
-                <h3 style=" line-height: normal; font-size: 20px;">Jika anda ingin tahu lebih banyak tentang bagaimana kami mengelola project anda bisa mengunjungi halaman<br><a href="/layanan/project-management.php" style=" text-decoration: underline;line-height: 1.5; ">"Sukses dengan PROJECT MANAGEMENT PROFESSIONAL"</a></h3>
-              </div> -->
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">Cara Bekerja Lead Business Analyst Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
+                <h3 class="section-title">Cara Bekerja Front End Developer Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
+                <h4 class="section-subtitle">Front End Developer</h4>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">09:00 – 09:30</div>
                     <div class="work-schedule__text">Mulai dokodemo, cek email, trello, slack, untuk memulai pekerjaan atau memberikan tanggapan untuk hari ini.</div>
                   </div>
+                </div>
+                <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">09:31 – 12:00</div>
-                    <div class="work-schedule__text">Melakukan briefing daftar pekerjaan baru dan diskusi dengan tim developer terkait tugas yang telah diberikan.</div>
+                    <div class="work-schedule__text">Melakukan diskusi dengan PIC proyek maupun tim lainnya terkait pekerjaan baru atau melanjutkan pekerjaan.</div>
                   </div>
+                </div>
+                <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">12:00 – 13:00</div>
                     <div class="work-schedule__text">Istirahat</div>
                   </div>
+                </div>
+                <div class="work-schedule">
                   <div class="work-schedule__item">
                     <div class="work-schedule__time">13:01 – 16:00</div>
-                    <div class="work-schedule__text">Meeting dengan klien-klien terkait status proyek dan memastikan hubungan dengan klien terjalin dengan baik. Memberikan konsultasi untuk calon klien dari sisi bisnis maupun teknis dan memberikan solusi yang terbaik.</div>
+                    <div class="work-schedule__text">Melanjutkan pekerjaan dan berkolaborasi dengan tim terkait jika diperlukan.</div>
                   </div>
+                </div>
+                <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:01 – 17:00</div>
-                    <div class="work-schedule__text">Memeriksa status pekerjaan harian untuk proyek-proyek yang dikerjakan dari tim.</div>
+                    <div class="work-schedule__time">16:00 – 17:00</div>
+                    <div class="work-schedule__text">Memberikan informasi terkait status pekerjaan terakhir kepada PIC proyek, Melakukan pengecekan terhadap pekerjaan yang telah dilakukan untuk memastikan tidak ada masalah maupun kekurangan lainnya.</div>
                   </div>
+                </div>
+                <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">17:01 - 18:00</div>
-                    <div class="work-schedule__text">Membuat laporan harian internal, project costing, dan laporan tertulis terkait pekerjaan proyek untuk klien.</div>
+                    <div class="work-schedule__time">17:01 – 18:00</div>
+                    <div class="work-schedule__text">Mempelajari kemampuan Front-End terbaru atau mengikuti kursus online yang diberikan, membuat laporan pekerjaan harian yang dikerjaan selama 1 hari penuh.</div>
                   </div>
                 </div>
               </div> -->
@@ -244,11 +220,11 @@
         </div>
       </section>
 
-      <section class="container-fluid bg--salary" style="margin-bottom: 2.5em">
+      <!-- <section class="container-fluid bg--salary --mb-2em">
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <h3 class="section-title">Lead Business Analyst Salary Range in LOGIQUE</h3>
+              <h3 class="section-title">Salary Range</h3>
               <div class="row">
                 <div class="col-md-4 col-sm-12">
                   <div class="salary-range">
@@ -256,14 +232,14 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Junior</em>
                       </div>
-                      <!-- <h5 class="section-title">Consultant/Project Manager</h5> -->
+                      <h5 class="section-title">Front End Developer</h5>
                     </div>
                     <span class="salary-range__salary">5.000.000 - 7.000.000 IDR</span>
-                    <!-- <ul class="salary-range__list">
-                      <li>Can analyze and suggest what / how we should improve</li>
-                      <li>Can manage development team and run small budget digital marketing campaigns</li>
-                      <li>Good at reporting</li>
-                    </ul> -->
+                    <ul class="salary-range__list">
+                      <li>Can program / code at least one programming language (PHP or JavaScript)</li>
+                      <li>Can code by following the coding guide without many bugs</li>
+                      <li>Can read programming source that others coded and update them</li>
+                    </ul>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -272,16 +248,15 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Middle</em>
                       </div>
-                      <!-- <h5 class="section-title">Consultant/Project Manager</h5> -->
+                      <h5 class="section-title">Front End Developer</h5>
                     </div>
-                    <span class="salary-range__salary">7.000.000 - 11.000.000 IDR</span>
-                    <!-- <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage development team and solve the issues well</li>
-                      <li>Run digital marketing and offline campaigns</li>
-                      <li>Good at reporting and planning</li>
-                      <li>Good at communicating with user clients and solving problems</li>
-                    </ul> -->
+                    <span class="salary-range__salary">7.000.000 - 10.000.000 IDR</span>
+                    <ul class="salary-range__list">
+                      <li>Can program / code or know some programming languages (at least both PHP and JavaScript)                        
+                      </li>
+                      <li>Can catch up new technology and new things quickly</li>
+                      <li>Can deal with Database well, and should have infrastructure knowledge somehow</li>
+                    </ul>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
@@ -290,23 +265,21 @@
                       <div class="salary-range__head-top">
                         <em class="salary-range__position">Senior</em>
                       </div>
-                      <!-- <h5 class="section-title">Consultant/Project Manager</h5> -->
+                      <h5 class="section-title">Front End Developer</h5>
                     </div>
-                    <span class="salary-range__salary">11.000.000 IDR ~ </span>
-                    <!-- <ul class="salary-range__list">
-                      <li>Can analyze well and decide what / how we should improve</li>
-                      <li>Can manage team members well and have a good communication with other teams</li>
-                      <li>Excellent in reporting to the management and make good strategy</li>
-                      <li>Plan good sales and marketing plan and can do sales activities by themselves</li>
-                      <li>Very good at communicating with user clients</li>
-                    </ul> -->
+                    <span class="salary-range__salary">10.000.000 IDR ~</span>
+                    <ul class="salary-range__list">
+                      <li>Have a system architect and design knowledge and good at DevOps</li>
+                      <li>Good coding knowledge and can lead other developers</li>
+                      <li>Have a high ability of solving a problem and Code fast</li>
+                    </ul>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
       <section class="container-fluid bg--career-apply --mb-2em">
         <div class="container--max-width">

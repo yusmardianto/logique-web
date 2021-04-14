@@ -194,6 +194,8 @@
       <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS / Vue JS Developer</li></a>
       <a href="/career/lowongan/programmer/web-developer.php"><li>PHP Developer</li></a>
       <a href="/career/lowongan/programmer/net-developer.php"><li>.NET Developer</li></a>
+      <a href="/career/lowongan/programmer/golang-developer.php"><li>Golang Developer</li></a>
+      <a href="/career/lowongan/programmer/flutter-developer.php"><li>Flutter Developer</li></a>
     </ul>
   </div>
   <div class="mega-menu__item">
@@ -206,6 +208,7 @@
       <!-- <a href="/career/lowongan/it-generalist/consultant.php"><li>Consultant</li></a> --> 
       <a href="/career/lowongan/it-generalist/project-manager.php"><li>Consultant / Project Manager</li></a>
       <a href="/career/lowongan/it-generalist/product-manager.php"><li>Product Manager</li></a>
+      <a href="/career/lowongan/it-generalist/lead-business-analyst.php"><li>Lead Business Analyst</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/specialist/" class="mega-menu__title">
