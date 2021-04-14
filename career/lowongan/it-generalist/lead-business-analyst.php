@@ -137,9 +137,9 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
-              <div class="career-requirement">
+              <?php /*<div class="career-requirement">
                 <p><span class="fs-24 line-height-1">Lead Business Analyst </span>bertanggung jawab untuk memastikan bagian analisis bisnis dari proyek memenuhi kebutuhan proyek dan yang terfokus untuk mencapai tujuan dan prioritas bisnis. Dengan laju bisnis yang cepat, seorang Lead Business Analys diharapkan mampu menentukan bagaimana requirement akan dikelola, dan meninjau hasil project yang dibuat oleh sudah memenuhi standar kualitas dan konsistensi. Seorang Lead Business Analyst perlu tetap fokus pada hal-hal berikut: Delegasi, Pembinaan, dan Sasaran Bisnis.</p>
-              </div>
+              </div> */ ?>
               <div class="career-requirement">
                 <h3 class="section-title">Talenta yang kami cari</h3>
                 <p>Ada alasan mengapa tanggung jawab pemimpin menyertakan kata-kata seperti &quot;visi&quot;, &quot;dukungan emosional&quot;, dan &quot;tujuan&quot;. Seperti di bagian lain dunia bisnis, kepemimpinan seringkali lebih merupakan seni daripada sains dan membutuhkan pengembangan soft skill yang spesifik dan unik bersama dengan hard skill yang lebih khas yang tercantum dalam deskripsi pekerjaan Anda.</p>
