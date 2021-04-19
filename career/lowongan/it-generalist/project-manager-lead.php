@@ -10,16 +10,16 @@
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, project manager Lead, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja Consultant / Project Manager Lead Terbaru Jakarta | LOGIQUE">
+  <meta property="og:title" content="Lowongan Kerja Lead Consultant / Project Manager Terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Lowongan kerja Consultant / Project Manager Lead terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
+    content="Lowongan kerja Lead Consultant / Project Manager terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/career/lowongan/it-generalist/project-manager.php" />
-  <title>Lowongan Kerja Consultant / Project Manager Lead Terbaru Jakarta | LOGIQUE</title>
+  <title>Lowongan Kerja Lead Consultant / Project Manager Terbaru Jakarta | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -97,7 +97,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Consultant/PM Lead</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Lead Consultant/PM</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -107,7 +107,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Consultant/PM Lead</h1>
+              <h1 class="header__title">Lead Consultant/PM</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -138,7 +138,7 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p><span class="fs-24 line-height-1">Seorang Consultant/PM Lead </span>berurusan dengan aspek tidak berwujud yang menyatukan tim dan memimpin proyek agar berhasil. Dalam menangani tugas-tugasnya peran seorang Consultant/PM Lead di Logique sehari-hari juga harus memastikan kelancaran sebuah proyek berjalan dengan baik sambil juga memimpin, menginspirasi, dan memotivasi tim untuk melakukan pekerjaan terbaik mereka.</p>
+                <p><span class="fs-24 line-height-1">Seorang Lead Consultant/PM </span>berurusan dengan aspek tidak berwujud yang menyatukan tim dan memimpin proyek agar berhasil. Dalam menangani tugas-tugasnya peran seorang Consultant/PM Lead di Logique sehari-hari juga harus memastikan kelancaran sebuah proyek berjalan dengan baik sambil juga memimpin, menginspirasi, dan memotivasi tim untuk melakukan pekerjaan terbaik mereka.</p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Talenta yang kami cari</h3>

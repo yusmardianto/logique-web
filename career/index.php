@@ -137,17 +137,17 @@
                   <div class="urgent-box">
                     <h2 class="section-title">Dibutuhkan Segera!</h2>
                     <div class="urgent-need">
-                      <a href="/career/lowongan/it-generalist/lead-business-analyst.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/analysis.png" alt="Web Developer">
-                        <div class="urgent-need__text">Lead BA</div>
+                      <a href="/career/lowongan/programmer/golang-developer.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Golang Developer">
+                        <div class="urgent-need__text">Golang Developer</div>
                       </a>
-                      <a href="/career/lowongan/it-generalist/project-manager-lead.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/clock.png" alt="Front End Developer">
-                        <div class="urgent-need__text">Lead PM</div>
+                      <a href="/career/lowongan/programmer/flutter-developer.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Flutter Developer">
+                        <div class="urgent-need__text">Flutter Developer</div>
                       </a>
                       <a href="/career/lowongan/specialist/quality-assurance.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/quality.png" alt="Security Specialist">
-                        <div class="urgent-need__text text-center">QA</div>
+                        <div class="urgent-need__text text-center">QA Engineer</div>
                       </a>
                     </div>
                     <a href="/career/lowongan/" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px; position: relative;"
