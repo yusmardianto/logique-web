@@ -231,8 +231,8 @@
 
       <!-- IFRAME VIDEO -->
       <link href="/career/responsive-iframe.css" rel="stylesheet">
-      <section class="v-frame-container">
-        <iframe class="responsive-iframe" src="https://www.youtube.com/embed/XVsi2NWP6fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <section class="iframe-wrapper">
+        <iframe class="iframe-vid" width="560" height="315" src="https://www.youtube.com/embed/XVsi2NWP6fs" title="YouTube video player" frameborder="0" frameborder="0" scrolling="no" allowfullscreen></iframe>
       </section>
 
 
@@ -244,9 +244,9 @@
 
     <?php include '../../footer.php'; ?>
   </div>
-  <script type="text/JavaScript">
+  <script type=" text/JavaScript">
     $('.waNumber').html('0822-60-5678-56');
-    </script>
+          </script>
 </body>
 
 </html>
