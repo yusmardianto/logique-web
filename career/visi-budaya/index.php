@@ -17,6 +17,10 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Visi & Budaya Kerja | Info Pekerjaan | LOGIQUE Digital Indonesia</title>
 
+  <!-- fitVIds Lib -->
+  <!-- <script src="path/to/jquery.fitvids.js"></script> -->
+
+
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
@@ -229,10 +233,11 @@
         </div>
       </section>
 
+
       <!-- IFRAME VIDEO -->
       <link href="/career/responsive-iframe.css" rel="stylesheet">
       <section class="iframe-wrapper">
-        <iframe class="iframe-vid" width="560" height="315" src="https://www.youtube.com/embed/XVsi2NWP6fs" title="YouTube video player" frameborder="0" frameborder="0" scrolling="no" allowfullscreen></iframe>
+        <iframe width="560" height="315" class="logique-vid" src="https://www.youtube.com/embed/XVsi2NWP6fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </section>
 
 
@@ -244,9 +249,14 @@
 
     <?php include '../../footer.php'; ?>
   </div>
-  <script type=" text/JavaScript">
+
+  <script>
     $('.waNumber').html('0822-60-5678-56');
-          </script>
+  </script>
+
+  <!-- fluid video vanilla Lib -->
+  <script src="/visi-budaya/videofluid.js"></script>
+
 </body>
 
 </html>
