@@ -209,6 +209,7 @@
       <a href="/career/lowongan/it-generalist/project-manager.php"><li>Consultant / Project Manager</li></a>
       <a href="/career/lowongan/it-generalist/product-manager.php"><li>Product Manager</li></a>
       <a href="/career/lowongan/it-generalist/lead-business-analyst.php"><li>Lead Business Analyst</li></a>
+      <a href="/career/lowongan/it-generalist/project-manager-lead.php"><li>Lead Consultant/PM</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/specialist/" class="mega-menu__title">

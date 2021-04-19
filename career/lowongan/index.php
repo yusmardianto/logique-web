@@ -145,7 +145,7 @@
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body ">
                         <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Front End Developer">
-                        <h3 class="heading-black">Lead PM</h3>
+                        <h3 class="heading-black">Lead Consultant/PM</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
