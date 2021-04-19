@@ -287,6 +287,17 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-midaz-bg.jpg')">
+                                        <div>
+                                            <picture>
+                                                <source srcset="/img/portfolio/update/mobile-midaz.webp" type="image/webp">
+                                                <img src="/img/portfolio/update/mobile-midaz.png" alt="Midazpay">
+                                            </picture>
+                                            <h3>Midazpay</h3>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
