@@ -143,7 +143,7 @@
                       </a>
                       <a href="/career/lowongan/it-generalist/project-manager-lead.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/clock.png" alt="Front End Developer">
-                        <div class="urgent-need__text">Lead PM</div>
+                        <div class="urgent-need__text">Lead Consultant/PM</div>
                       </a>
                       <a href="/career/lowongan/specialist/quality-assurance.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/quality.png" alt="Security Specialist">
