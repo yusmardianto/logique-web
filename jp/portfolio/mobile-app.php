@@ -151,13 +151,13 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-midaz-bg.jpg')">
                                     <div>
                                         <picture>
-                                            <source srcset="/img/portfolio/update/mobile-nlec.webp">
-                                            <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
-                                        </picture> 
-                                        <h3>NLEC Nihongo E-Learning PWA</h3>
+                                            <source srcset="/img/portfolio/update/mobile-midaz.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-midaz.png" alt="Midazpay">
+                                        </picture>
+                                        <h3>Midazpay</h3>
                                     </div>
                                 </div>
                             </div>
@@ -173,13 +173,13 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
                                     <div>
                                         <picture>
-                                            <source srcset="/img/portfolio/update/mobile-otomart.webp">
-                                            <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                            <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
                                         </picture>
-                                        <h3>Otomart - Used Car on Sale Finder App</h3>
+                                        <h3>Marubeni - UCO Collection Mobile App</h3>
                                     </div>
                                 </div>
                             </div>
@@ -238,24 +238,24 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
                                     <div>
                                         <picture>
-                                            <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
-                                            <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
-                                        </picture>
-                                        <h3>Marubeni - UCO Collection Mobile App</h3>
+                                            <source srcset="/img/portfolio/update/mobile-nlec.webp">
+                                            <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
+                                        </picture> 
+                                        <h3>NLEC Nihongo E-Learning PWA</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-midaz-bg.jpg')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
                                     <div>
                                         <picture>
-                                            <source srcset="/img/portfolio/update/mobile-midaz.webp" type="image/webp">
-                                            <img src="/img/portfolio/update/mobile-midaz.png" alt="Midazpay">
+                                            <source srcset="/img/portfolio/update/mobile-otomart.webp">
+                                            <img src="/img/portfolio/update/mobile-otomart.png" alt="">
                                         </picture>
-                                        <h3>Midazpay</h3>
+                                        <h3>Otomart - Used Car on Sale Finder App</h3>
                                     </div>
                                 </div>
                             </div>

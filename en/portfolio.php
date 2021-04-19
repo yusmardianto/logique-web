@@ -145,6 +145,10 @@
                                 <source srcset="/img/portfolio/client-list/webp/nissin.webp" type="image/webp">
                                 <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/nissin.png" alt="nissin">
                             </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/ykkap.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/ykkap.png" alt="ykkap">
+                            </picture>
 
                             <!-- rectangle logo -->
                             <picture>
@@ -218,6 +222,14 @@
                             <picture>
                                 <source srcset="/img/portfolio/client-list/webp/benese.webp" type="image/webp">
                                 <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/benese.png" alt="benese">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/midaz.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/midaz.png" alt="midaz">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/btpn.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/btpn.png" alt="btpn">
                             </picture>
                         </div>
                     </div>
@@ -388,10 +400,13 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-midaz-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
-                                        <h3>NLEC Nihongo E-Learning PWA</h3>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-midaz.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-midaz.png" alt="Midazpay">
+                                        </picture>
+                                        <h3>Midazpay</h3>
                                     </div>
                                 </div>
                             </div>
@@ -404,10 +419,13 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
-                                        <h3>Otomart - Used Car on Sale Finder App</h3>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
+                                        </picture>
+                                        <h3>Marubeni - UCO Collection Mobile App</h3>
                                     </div>
                                 </div>
                             </div>
