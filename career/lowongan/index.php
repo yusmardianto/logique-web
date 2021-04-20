@@ -120,11 +120,11 @@
                   <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
                  <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/it-generalist/lead-business-analyst.php">
+                  <a href="/career/lowongan/programmer/golang-developer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/analysis.png" alt="Web Developer">
-                        <h3 class="heading-black">Lead BA</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Golang Developer">
+                        <h3 class="heading-black">Golang Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -141,11 +141,11 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/it-generalist/project-manager-lead.php">
+                  <a href="/career/lowongan/programmer/flutter-developer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body ">
-                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Front End Developer">
-                        <h3 class="heading-black">Lead Consultant/PM</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Flutter Developer">
+                        <h3 class="heading-black">Flutter Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -167,7 +167,7 @@
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
                           alt="Security Specialist">
-                        <h3 class="heading-black">QA</h3>
+                        <h3 class="heading-black">QA Engineer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
