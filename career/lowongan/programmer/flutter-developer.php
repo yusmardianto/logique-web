@@ -131,6 +131,17 @@
                 <p>Maka, Andalah talenta yang cocok untuk bergabung dan berkembang bersama kami.</p>
               </div>
               <div class="career-requirement">
+                <h3 class="section-title">Responsibilities</h3>
+                <ul class="career-list">
+                  <li>Mengembangkan dan menghasilkan aplikasi mobile untuk platform Android maupun iOS</li>
+                  <li>Mendukung seluruh aspek dalam pembuatan aplikasi mobile (konsep, desain, pengujian, deployment)</li>
+                  <li>Melakukan identifikasi malfungsi/debugging dan bug fixing untuk mengoptimalkan kinerja aplikasi mobile</li>
+                  <li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik</li>
+                  <li>Tetap up to date dengan teknologi terbaru dan mampu memberikan solusi terhadap kebutuhan projek</li>
+                  <li>Mampu bekerja dalam tim dan mempunyai Analisa yang baik</li>
+                </ul>
+              </div>
+              <div class="career-requirement">
                 <h3 class="section-title">Persyaratan</h3>
                 <ul class="career-list">
                   <li>Berpengalaman dengan Test Driven Development (TDD)</li>
