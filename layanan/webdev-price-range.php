@@ -11,7 +11,6 @@ $formproc->AddRecipient(['info@logique.co.id']); //<<---Put your email address h
 //2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
 // and put it here
 $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
-
 //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
 if (isset($_POST['submitted'])) {
@@ -58,7 +57,6 @@ if (isset($_POST['submitted'])) {
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="/css/style.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -67,7 +65,7 @@ if (isset($_POST['submitted'])) {
 
 
     <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
-    <link href="assets/css/style_webdev_service_new.css" rel="stylesheet">
+    <!-- <link href="assets/css/style_webdev_service_new.css" rel="stylesheet"> -->
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
