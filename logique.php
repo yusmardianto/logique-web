@@ -69,14 +69,6 @@
             include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
         ?>
 
-        <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
-        <!-- <div class="contain-video">
-            <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-                <source src="img/12377093.mp4" type="video/mp4">
-            </video>
-        </div>
-        <div class="bg-white-opacity"></div> -->
-        
         <?php 
             $lang = 'id';
             $en_link = '/en/logique.php';
@@ -223,18 +215,11 @@
                     <hr class="title__yellow-line"><br>
                     <div class="row">
                         <div class="col-sm-6">
-                            <!-- <h4 class="title-index--bold">PERKEMBANGAN</h4><br> -->
                             <p>Mendukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</p>
                         </div>
                         <div class="col-sm-6">
-                            <!-- <h4 class="title-index--bold">INOVASI</h4><br> -->
                             <p>Berkontribusi pada pertumbuhan industri pembuatan dan pengembangan web / aplikasi mobile di Indonesia, serta memberikan peluang yang lebih baik bagi para pengembang web / aplikasi di Indonesia.</p>
                         </div>
-                        <!-- <div class="col-sm-4">
-                            <h4 class="title-index--bold">PELUANG</h4><br>
-                            <p>Untuk memberikan peluang yang lebih baik bagi Pencipta dan Pengembang di Indonesia dengan membantu memaksimalkan potensi mereka untuk masa depan yang lebih baik.
-                            </p>
-                        </div> -->
                     </div>
                 </div>
             </section>
@@ -357,35 +342,6 @@
                     </div>
                 </div>
             </section>
-
-            <!-- <section id="contact">
-                <div class="container__">
-                    <div class="row">
-                        <div class="col-sm-5">
-                            <h1 class="title-index" style="margin-bottom:0">Hubungi Logique</h1>
-                            <p>LOGIQUE siap membantu Anda.</p>
-                            <br>
-                            <hr class="title__yellow-line">
-                            <img src="../img/contact.png" style="width:100%" alt="contact">
-                        </div>
-                        <div class="col-sm-7">
-                            <ul class="lgq-does__list">
-                                <li>Mengembangkan situs web / sistem web / aplikasi mobile</li>
-                                <li>Mengganti agen outsourcing / vendor IT / Pemasaran Digital</li>
-                                <li>Mengelola pengoperasian situs web / sistem.</li>
-                                <li>Meningkatkan akses ke situs web Anda dengan SEO.</li>
-                                <li>Mengorganisir dan menjalankan strategi promosi online.</li>
-                                <li>Mencari penyewaan server web dan perusahaan untuk mengelolanya.</li>
-                                <li>Menerapkan sistem manajemen SDM/HR berbasis cloud</li>
-                                <li>Merencanakan strategi digital untuk bisnis Anda</li>
-                            </ul>
-                            <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
-                                LOGIQUE</a>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-
             <?php include "./contact-logique-section.php"; ?>
 
         </div>

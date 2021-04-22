@@ -22,7 +22,6 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- <link href="css/style.css" rel="stylesheet"> -->
 
     <link href="/css/sidebar-update.css" rel="stylesheet"> 
     <link href="/css/newstyle.css" rel="stylesheet">
@@ -59,15 +58,6 @@
     ?>
 
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
-
-        <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
-        <!-- <div class="contain-video">
-				<video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-					<source src="img/12377093.mp4" type="video/mp4">
-				</video>
-			</div>
-			<div class="bg-white-opacity"></div> -->
-        
         <!-- NAVIGATION -->
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
