@@ -52,21 +52,19 @@ if (isset($_POST['submitted'])) {
     <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
     <meta property="og:description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
+
     <title>Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!-- FAST Font load Formula -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" media="print" onload="this.media='all'" />
 
-
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet"> -->
-
-    <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/style-revamp.css" rel="stylesheet">
