@@ -701,13 +701,13 @@
     /* color: #fff; */
   }
   
-  /* .breadcrumb a {
+  .breadcrumb a {
     color: #fff;
   }
   
   .breadcrumb li.active a {
     text-decoration: underline;
-  } */
+  }
   
   .breadcrumb > li + li:before {
     color: #000;
@@ -717,6 +717,7 @@
   .breadcrumb > .active {
     color: #ebc033;
   }
+  
   .flow-part {
     position: relative;
     padding-left: 75px;

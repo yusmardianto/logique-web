@@ -58,6 +58,7 @@
     ?>
 
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
+
         <!-- NAVIGATION -->
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
@@ -96,40 +97,10 @@
             </section>
 
             <section class="bg--gray">
-                <div class="container__">
-                    <div class="text-center">
-                        <h1 class="title-index">Layanan Kami</h1>
-                        <hr class="title__yellow-line--center">
-                        <p class="title__description" style="margin-bottom:20px">
-                        Saat ini kecepatan merupakan salah satu indikator utama yang menentukan kesuksesan atau kegagalan sebuah bisnis. Hal ini sejalan dengan perubahan tren pengaplikasian teknologi (IT) dan Web ke dalam bisnis yang terjadi dengan sangat cepat. Untuk dapat mengikuti perubahan tersebut, kecepatan dan fleksibilitas adalah dua aset penting yang harus dimanfaatkan dan dimaksimalkan. <br><br>
-                        Itulah sebabnya, untuk mempromosikan bisnis Anda dengan baik, kami menyediakan layanan pengembangan web & aplikasi yang cepat dan fleksibel; yang mampu menghasilkan hasil dengan kualitas terbaik sambil secara fleksibel beradaptasi dengan kebutuhan Anda. 
-                        </p>
-                        <div class="our-service__btn-wrapper">
-                            <a href="portofolio.php">
-                                <div class="main-btn --black">Lihat Portofolio</div>
-                            </a>
-                            <a href="/layanan/project-management.php">
-                                <div class="main-btn --yellow">Manajemen Proyek Kami</div>
-                            </a>
-                            <a href="hubungi-kami.php"
-                                onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">
-                                <div class="main-btn --yellow">Hubungi Kami</div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
+               
+            <h1>halo</h1>
             </section>
 
-            <section class="bg--white">
-                <div class="container__">
-                    <a href="/layanan/dx-dm-service.php">
-                        <picture>
-                            <source srcset="/img/dx-dm-banner-id.webp" type="image/webp">
-                            <img src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive">
-                        </picture>
-                    </a>
-                </div>
-            </section>
 
             <section id="serviceNavigation">
                 <div class="container__">

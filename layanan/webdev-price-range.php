@@ -56,22 +56,23 @@ if (isset($_POST['submitted'])) {
 
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
 
 
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet"> -->
 
     <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
-    <!-- <link href="assets/css/style_webdev_service_new.css" rel="stylesheet"> -->
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
-    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-revamp.css" rel="stylesheet">
     <link href="/css/style-services.css" rel="stylesheet">
-
+    <link href="/layanan/assets/css/styles-web-dev-services/styles_webdev_service.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
 
 
     <script>
@@ -124,6 +125,7 @@ if (isset($_POST['submitted'])) {
         }
     </style>
 
+
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
@@ -135,65 +137,79 @@ if (isset($_POST['submitted'])) {
 
         <?php
         $lang = 'id';
-        $en_link = '/en/services.php';
+        $en_link = '/en/services/webdev-price-range.php';
         $id_link = '#';
-        $jp_link = '/jp/services.php';
+        $jp_link = '/jp/services/web-dev-price-range.php';
         include($_SERVER['DOCUMENT_ROOT'] . '/header.php');
         ?>
 
-        <header class="content-wrapper__">
-            <div class="text-left --top">
-                <div class="container-fluid">
-                    <div class="row bg-section">
-                        <div class="col-md-12">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
-                        </div>
-                        <div class="col-sm-12 breadcrumb-section">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Beranda</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="web-dev.php" itemprop="item"><span itemprop="name">&nbsp;Produksi Website</span></a>
-                                    <meta itemprop="position" content="3" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span itemprop="name">&nbsp;Harga Pembuatan Website</span></a>
-                                    <meta itemprop="position" content="3" />
-                                </li>
-                            </ol>
-                        </div>
-                        <div class="col-md-12 m-t-2em main-section">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-6"></div>
-                                    <div class="col-md-6">
-                                        <h1 class="title">
-                                            <span><span>Opsi Harga & Layanan Pembuatan Website</span></span>
-                                        </h1>
-                                        <div class="content">
-                                            <p>
-                                                Sejauh ini banyak pelanggan yang ingin tahu terlebih dahulu estimasi biaya yang dibutuhkan terkait pembuatan website atau pengembangan sistem berbasis web untuk memastikan biaya tersebut sesuai dengan anggaran yang dimiliki.
-                                            </p>
-                                            <p>
-                                                Oleh karena itu kami telah menyiapkan empat pilihan layanan yang dapat memberikan gambaran terhadap kebutuhan para pelanggan dalam pembuatan atau pengelolaan website.
-                                                Walaupun cakupan pekerjaan akan bergantung dari jumlah anggaran yang tersedia, namun kami akan tetap melakukan yang terbaik untuk mengerjakan proyek apa pun sesuai dengan cakupan pekerjaan yang ada.
-                                            </p>
-                                            <p>
-                                                Jika Anda tidak yakin kategori layanan mana yang sesuai dengan kebutuhan Anda, silakan hubungi kami.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
 
-        <section class="miniplan">
+        <div class="content-cont">
+            <section class="header-wrapper">
+                <div class="breadcrumb-wrapper">
+                    <ol class="breadcrumb-list" itemscope itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Beranda</span></a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="web-dev.php" itemprop="item"><span itemprop="name">&nbsp;Produksi Website</span></a>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span itemprop="name">&nbsp;Harga Pembuatan Website</span></a>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                    </ol>
+                </div>
+
+
+                <header class="header-cont">
+                    <div class="left-header">
+                    </div>
+
+                    <div class="right-header">
+                        <h1 class="title-header">
+                            Opsi Harga & Layanan Pembuatan Website
+                        </h1>
+
+                        <p>
+                            Sejauh ini banyak pelanggan yang ingin tahu terlebih dahulu estimasi biaya yang dibutuhkan terkait pembuatan website atau pengembangan sistem berbasis web untuk memastikan biaya tersebut sesuai dengan anggaran yang dimiliki.
+                        </p>
+
+                        <p>
+                            Oleh karena itu kami telah menyiapkan empat pilihan layanan yang dapat memberikan gambaran terhadap kebutuhan para pelanggan dalam pembuatan atau pengelolaan website.
+                            Walaupun cakupan pekerjaan akan bergantung dari jumlah anggaran yang tersedia, namun kami akan tetap melakukan yang terbaik untuk mengerjakan proyek apa pun sesuai dengan cakupan pekerjaan yang ada.
+                        </p>
+
+                        <p>
+                            Jika Anda tidak yakin kategori layanan mana yang sesuai dengan kebutuhan Anda, silakan hubungi kami.
+                        </p>
+
+                    </div>
+                </header>
+            </section>
+
+            <!-- CSS ATOMIC IMPORT for Load Performance -->
+            <link href="/layanan/assets/css/styles-web-dev-services/styles_price_plan.css" rel="stylesheet">
+            <section class="miniplan">
+                <div class="image-miniplan-cont">
+                    <img class="miniplan-image" loading="lazy" src="assets/img/img-webdev/webdev-service/miniplan-image.webp" alt="miniplan price">
+                </div>
+
+                <div class="desc-plan-cont">
+                    <h2 class="plan-title">Opsi Product Cepat</h2>
+                    <p class="plan-desc">Website Sederhana atau Landing Page</p>
+                </div>
+            </section>
+
+
+
+
+
+        </div>
+
+        <!-- <section class="miniplan">
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 img-container">
@@ -252,8 +268,9 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="standardplan">
+        </section> -->
+
+        <!-- <section class="standardplan">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 content-container">
@@ -313,8 +330,9 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="largeplan">
+        </section> -->
+
+        <!-- <section class="largeplan">
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 img-container">
@@ -373,8 +391,9 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="strategicplan">
+        </section> -->
+
+        <!-- <section class="strategicplan">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 content-container">
@@ -426,8 +445,9 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="promo">
+        </section> -->
+
+        <!-- <section class="promo">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -461,8 +481,10 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="datatable">
+        </section> -->
+
+
+        <!-- <section class="datatable">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -568,8 +590,9 @@ if (isset($_POST['submitted'])) {
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="gallery">
+        </section> -->
+
+        <!-- <section class="gallery">
             <div class="container">
                 <div class="row ads-container">
                     <div class="col-md-6 col-sm-6">
@@ -585,10 +608,28 @@ if (isset($_POST['submitted'])) {
                 </div>
             </div>
         </section>
-        <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+        <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section> -->
+
+
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <?php include '../footer.php'; ?>
 
-        <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
         <script src="/js/bootstrap.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
         <script src='https://www.google.com/recaptcha/api.js'></script>
