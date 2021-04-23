@@ -1,9 +1,3 @@
-@-webkit-viewport {
-  width: device-width;
-}
-section .page-title-container h1.page-title @-moz-viewport {
-  width: device-width;
-}
 @-ms-viewport {
   width: device-width;
 }
@@ -13,12 +7,11 @@ section .page-title-container h1.page-title @-moz-viewport {
 @viewport {
   width: device-width;
 }
-@charset "UTF-8";
 /**
 CSS Reset
 */
 /* @import url(https://fonts.googleapis.com/css?family=Raleway); */
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap");
 
 @font-face {
   font-family: "avenirblack";
@@ -245,12 +238,10 @@ img.pright {
   margin: 0 0 30px 30px;
 }
 
-header{
-  
+header {
 }
 
 header.head-banner {
-
   width: 100%;
   display: block;
   position: relative;
@@ -847,12 +838,11 @@ ul.medsos-new li a {
 }
 
 .sticky-phone:hover,
-.sticky-mail:hover{
+.sticky-mail:hover {
   background: #019ce4;
-  
 }
 
-.sticky-whatsapp:hover{
+.sticky-whatsapp:hover {
   background: #23bb5b;
 }
 
@@ -872,7 +862,7 @@ ul.medsos-new li a {
   margin: 0 auto;
 }
 
-.ready-to-use .img-3-people{
+.ready-to-use .img-3-people {
   width: 520px;
   height: auto;
 }
@@ -894,7 +884,7 @@ ul.medsos-new li a {
   margin-bottom: 1em;
 }
 
-.can-help img{
+.can-help img {
   width: 220px;
   height: auto;
 }
@@ -975,7 +965,6 @@ ul.medsos-new li a {
   width: 520px;
   /* border: 1px solid red; */
   outline: 0;
-  
 }
 
 .step-one small {
@@ -1031,7 +1020,6 @@ ul.medsos-new li a {
 .slick-slide:not(.slick-center) {
   z-index: 0;
   transform: scale(0.8);
-
 }
 
 .slick-active.slick-center + .slick-slide + .slick-slide {
@@ -1044,10 +1032,10 @@ ul.medsos-new li a {
 .slick-center {
   z-index: 3;
 }
-.slick-center img{
-  -webkit-box-shadow: 0px 0px 49px -9px rgba(0,0,0,0.75);
-  -moz-box-shadow: 0px 0px 49px -9px rgba(0,0,0,0.75);
-  box-shadow: 0px 0px 49px -9px rgba(0,0,0,0.75);
+.slick-center img {
+  -webkit-box-shadow: 0px 0px 49px -9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 49px -9px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 49px -9px rgba(0, 0, 0, 0.75);
 }
 .slick-slide {
   position: relative;
@@ -1055,14 +1043,13 @@ ul.medsos-new li a {
   height: auto !important;
 }
 
-div.slick-list.draggable{
+div.slick-list.draggable {
   padding: 4em 0 !important;
 }
 
 .black-bg {
   background: black;
 }
-
 
 .step-description {
   position: relative;
@@ -1174,16 +1161,16 @@ div.slick-list.draggable{
   cursor: pointer;
 }
 
-.step-three li{
+.step-three li {
   padding: 0.2em 0;
 }
 
-.plans .table-1{
+.plans .table-1 {
   padding-left: 0 !important;
 }
 
-.plans .table-2{
-  padding-right:0 !important;
+.plans .table-2 {
+  padding-right: 0 !important;
 }
 
 .plans h5 {
@@ -1239,7 +1226,6 @@ div.slick-list.draggable{
   box-shadow: 0px 0px 5px -2px rgba(0, 0, 0, 0.75);
 }
 
-
 .marketing-fee {
   text-align: center;
   padding: 1em;
@@ -1270,28 +1256,26 @@ div.slick-list.draggable{
   margin: 2em auto 0;
 }
 
-.message-alert{
+.message-alert {
   width: 60%;
   margin: 1em auto 3em;
-  
 }
 
 .message-form .row {
   position: relative;
 }
 
-.contact-info-mobile{
+.contact-info-mobile {
   margin-bottom: 1em;
   display: none;
-  justify-content: center
+  justify-content: center;
 }
 
-.contact-info-mobile a{
+.contact-info-mobile a {
   color: #0c337b;
   padding: 0.5em;
   margin-left: 0.2em;
   font-size: 2.1em;
-
 }
 
 .img-form-left {
@@ -1358,10 +1342,10 @@ textarea.form-item {
   .slick-initialized .slick-slide {
     margin-left: -50px;
   }
-  .img-form-left{
+  .img-form-left {
     width: 250px;
   }
-  .img-form-right{
+  .img-form-right {
     width: 300px;
   }
 }
@@ -1379,7 +1363,7 @@ textarea.form-item {
     width: 100%;
   }
   .plans .table-1,
-  .plans .table-2{
+  .plans .table-2 {
     padding-left: 15px !important;
     padding-right: 15px !important;
   }
@@ -1410,7 +1394,6 @@ textarea.form-item {
     font-size: 60px;
   }
 
-
   .text-box,
   .text-box p,
   .text-box strong {
@@ -1431,7 +1414,6 @@ textarea.form-item {
     width: 55%;
   }
 
-
   .can-help::before {
     width: 80%;
   }
@@ -1440,7 +1422,7 @@ textarea.form-item {
     margin-left: -140px;
   }
 
-  .contact-info-mobile{
+  .contact-info-mobile {
     display: flex;
   }
 
@@ -1461,7 +1443,7 @@ textarea.form-item {
 
 /* Extra Small Devices, Phones */
 @media (max-width: 480px) {
-  .banner-content{
+  .banner-content {
     height: 375px;
   }
 
@@ -1505,13 +1487,13 @@ textarea.form-item {
   }
 
   .slick-prev,
-  .slick-next{
+  .slick-next {
     width: 100px !important;
   }
 
   .slick-prev::before,
-  .slick-next::before{
-    font-size: 40px !important;    
+  .slick-next::before {
+    font-size: 40px !important;
   }
 
   .can-help span {

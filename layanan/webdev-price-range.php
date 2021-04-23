@@ -67,10 +67,9 @@ if (isset($_POST['submitted'])) {
 
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
-    <link href="/css/style-revamp.css" rel="stylesheet">
     <link href="/css/style-services.css" rel="stylesheet">
+    <link href="/css/epicstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/styles-web-dev-services/styles_webdev_service.css" rel="stylesheet">
-    <link href="/css/newstyle.css" rel="stylesheet">
 
 
     <script>
@@ -196,15 +195,87 @@ if (isset($_POST['submitted'])) {
                 </div>
 
                 <div class="desc-plan-cont">
-                    <h2 class="plan-title">Opsi Product Cepat</h2>
+                    <h2 class="plan-title">Opsi Produksi Cepat</h2>
                     <p class="plan-desc">Website Sederhana atau Landing Page</p>
+
+                    <!-- Kontainer Deskripsi Waktu -->
+                    <div class="desc-waktu">
+                        <!-- Masa Produksi -->
+                        <div class="sub-container-desc">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg">
+                            </div>
+
+                            <div class="desc-masa-produksi">
+                                <h3 class="desc-title">Masa Produksi</h3>
+                                <p class="desc-value">~ 1 Bulan</p>
+                            </div>
+
+                        </div>
+
+                        <!-- Jumlah Halaman -->
+                        <div class="sub-container-desc">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg">
+                            </div>
+
+                            <div class="desc-jumlah-halaman">
+                                <h3 class="desc-title">Jumlah Halaman</h3>
+                                <p class="desc-value"> Sampai dengan 5 bulan </p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Kontainer Cakupan Pekerjaan -->
+                    <div class="cakupan-pekerjaan">
+                        <div class="sub-cakupan-pekerjaan">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg">
+                            </div>
+
+                            <div class="desc-cakupan-pekerjaan">
+                                <h3 class="desc-title">Cakupan Pekerjaan</h3>
+                                <ul class="cakupan-pekerjaan-list">
+                                    <li>
+                                        Desain, Koding HTML, Implementasi Standar SEO, Pengetesan dan Penyesuaian, Peluncuran Website
+                                    </li>
+
+                                    <li>
+                                        Materi wajib disediakan oleh klien.
+                                    </li>
+
+                                    <li>
+                                        Konten website tersedia dalam bentuk statis.
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Biaya Kontainer -->
+                    <div class="desc-biaya">
+                        <!-- Biaya -->
+                        <div class="sub-container-biaya">
+                            <h3 class="biaya-title">Biaya Pembuatan Website</h3>
+                            <p class="biaya-value">15 juta - 30 juta IDR</p>
+                        </div>
+
+                        <!-- Button Container -->
+                        <div class="sub-container-biaya">
+                            <a target="_blank" href="../hubungi-kami.php">
+                                <div class="button-biaya">
+                                    Hubungi Kami
+                                </div>
+
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </section>
-
-
-
-
-
         </div>
 
         <!-- <section class="miniplan">
