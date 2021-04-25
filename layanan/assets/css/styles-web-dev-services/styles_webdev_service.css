@@ -40,9 +40,9 @@ body {
   .right-header > p {
     max-width: 100%;
     font-size: 14px;
-    line-height: 1.6;
+    line-height: 1.7;
     color: rgb(29, 29, 29);
-    margin-bottom: 15px;
+    margin-bottom: 20px;
   }
 }
 

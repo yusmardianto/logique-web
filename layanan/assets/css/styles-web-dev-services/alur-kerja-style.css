@@ -1,0 +1,116 @@
+/* 
+RESPONSIVE TEMPLATE
+
+@media only screen and (min-width: 320px) {}
+@media only screen and (min-width: 375px) {}
+@media only screen and (min-width: 425px) {}
+@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 1024px) {}
+@media only screen and (min-width: 1440px) {}
+*/
+
+:root {
+  --yellowAlurKerja: #f8c100;
+}
+
+@media only screen and (min-width: 320px) {
+  .alur-kerja-cont {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    background-color: var(--yellowAlurKerja);
+    margin: 80px auto 0 auto;
+    padding: 30px 0 30px 0;
+  }
+
+  .contact-detail-cont {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    background-color: rgb(31, 31, 31);
+    margin: 70px auto 0 auto;
+    padding: 30px 0 30px 0;
+  }
+
+  .title-alur-kerja {
+    display: flex;
+    width: 90%;
+    max-width: 600px;
+    font-size: 16px;
+    color: rgb(70, 70, 70);
+    line-height: 1.9;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .title-contact-detail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 80%;
+    max-width: 600px;
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.9;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .landing-contact {
+    text-decoration: none;
+  }
+}
+
+@media only screen and (min-width: 1020px) {
+  .alur-kerja-cont {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1050px;
+    height: 150px;
+    background-image: url("/layanan/assets/img/img-webdev/webdev-service/bg-rules.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 150px auto 0 auto;
+    padding: 0 0 0 50px;
+  }
+
+  .contact-detail-cont {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1050px;
+    height: 60px;
+    margin: 50px auto 0 auto;
+    padding: 0;
+    background-color: rgb(31, 31, 31);
+  }
+
+  .title-alur-kerja {
+    display: flex;
+    width: 90%;
+    max-width: 600px;
+    font-size: 20px;
+    color: rgb(34, 34, 34);
+    line-height: 1.9;
+    text-align: left;
+    margin: 0;
+  }
+
+  .title-contact-detail {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.9;
+    text-align: left;
+    margin: 0 auto;
+    cursor: pointer;
+  }
+}

@@ -1,0 +1,195 @@
+/* 
+RESPONSIVE TEMPLATE
+
+@media only screen and (min-width: 320px) {}
+@media only screen and (min-width: 375px) {}
+@media only screen and (min-width: 425px) {}
+@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 1024px) {}
+@media only screen and (min-width: 1440px) {}
+*/
+
+:root {
+  --orangel: rgb(245, 93, 4);
+  --blackTitle: rgb(61, 61, 61);
+  --yellowl: #f8c100;
+  --skala-besar: rgb(5, 169, 71);
+  --skala-strategis: rgb(245, 10, 4);
+}
+
+@media only screen and (min-width: 1024px) {
+  .plan {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    max-width: 1050px;
+  }
+
+  .plan-gap {
+    margin: 200px auto 0 auto;
+  }
+
+  .plan-gap-100 {
+    margin: 150px auto 0 auto;
+  }
+
+  .plan-reverse {
+    flex-direction: row-reverse;
+  }
+
+  .image-plan-cont {
+    display: flex;
+    justify-content: flex-start;
+    width: 40%;
+    margin: 0;
+  }
+  .plan-image {
+    height: 280px;
+    width: auto;
+    margin: 0;
+    text-align: left;
+  }
+
+  .desc-plan-cont {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  .plan-title {
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+    color: var(--orangel);
+    font-weight: bold;
+    font-size: 25px;
+    margin: 0;
+  }
+
+  .standar-color {
+    color: var(--bluel);
+  }
+
+  .skala-besar-color {
+    color: var(--skala-besar);
+  }
+
+  .skala-strategis-color {
+    color: var(--skala-strategis);
+  }
+
+  .plan-desc {
+    display: flex;
+    justify-content: flex-start;
+    margin: 5px 0 0 0;
+    color: var(--blackTitle);
+    font-weight: bold;
+    font-size: 16px;
+    width: 70%;
+  }
+
+  /* Kontainer Desc Waktu */
+  .desc-waktu {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 50px 0 0 0;
+    gap: 50px;
+  }
+
+  .sub-container-desc {
+    display: flex;
+    width: 220px;
+    margin: 0;
+  }
+  .extra-width {
+    width: 300px;
+  }
+
+  .desc-title {
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .desc-value {
+    font-size: 14px;
+    margin: 5px 0 0 0;
+  }
+
+  .checklist-img {
+    margin-right: 12px;
+  }
+
+  /* Kontainer Desc Waktu */
+  .cakupan-pekerjaan {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 30px 0 0 0;
+  }
+
+  .sub-cakupan-pekerjaan {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .cakupan-pekerjaan-list {
+    margin: 10px 0 0 0;
+    font-size: 14px;
+  }
+
+  .cakupan-pekerjaan-list li {
+    margin: 10px 0 0 15px;
+    line-height: 1.9;
+  }
+
+  .desc-biaya {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 50px 0 0 10px;
+    gap: 50px;
+  }
+
+  .sub-container-biaya {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 220px;
+    margin: 0;
+  }
+
+  .biaya-title {
+    font-weight: bold;
+    font-size: 17px;
+  }
+
+  .biaya-value {
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--orangel);
+    margin: 0;
+  }
+
+  .button-biaya {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: var(--yellowl);
+    color: #000;
+    width: 200px;
+    height: 50px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 auto 0 auto;
+  }
+
+  .button-biaya:hover {
+    opacity: 0.8;
+  }
+}
