@@ -444,7 +444,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Biaya -->
                         <div class="sub-container-biaya">
                             <h3 class="biaya-title">Biaya Pembuatan Website</h3>
-                            <p class="biaya-value">60 juta - 150 juta IDR</p>
+                            <p class="biaya-value">80 juta - 150 juta IDR</p>
                         </div>
 
                         <!-- Button Container -->
@@ -696,45 +696,6 @@ if (isset($_POST['submitted'])) {
         </div>
 
         <?php include '../footer.php'; ?>
-
-        <script src="/js/bootstrap.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-        <script src='https://www.google.com/recaptcha/api.js'></script>
-        <script type="text/javascript">
-            $(function() {
-                $('.smooth').click(function() {
-                    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-                        this.hostname) {
-                        var target = $(this.hash);
-                        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                        if (target.length) {
-                            $('html, body').animate({
-                                scrollTop: target.offset().top
-                            }, 1000);
-                            return false;
-                        }
-                    }
-                });
-            });
-        </script>
-        <script type="text/javascript">
-            // Instantiate the Bootstrap carousel
-            $('.multi-item-carousel').carousel({
-                interval: false
-            });
-
-            // for every slide in carousel, copy the next slide's item in the slide.
-            // Do the same for the next, next item.
-            $('.multi-item-carousel .item').each(function() {
-                var next = $(this).next();
-                if (!next.length) {
-                    next = $(this).siblings(':first');
-                }
-                next.children(':first-child').clone().appendTo($(this));
-
-            });
-        </script>
-
     </div>
 </body>
 

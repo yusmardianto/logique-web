@@ -107,7 +107,7 @@ if (isset($_POST['submitted'])) {
         <?php
         // $active option are home, about, portfolio, services, product, career, contact
         $active = 'services';
-        include($_SERVER['DOCUMENT_ROOT'] . '/sidebar.php');
+        include($_SERVER['DOCUMENT_ROOT'] . '/en/sidebar.php');
         ?>
 
         <?php
@@ -115,8 +115,11 @@ if (isset($_POST['submitted'])) {
         $en_link = '#';
         $id_link = '/layanan/webdev-price-range.php';
         $jp_link = '/jp/services/web-dev-price-range.php';
-        include($_SERVER['DOCUMENT_ROOT'] . '/header.php');
+
+        include($_SERVER['DOCUMENT_ROOT'] . '/en/header.php');
         ?>
+
+
 
         <div class="content-cont">
             <section class="header-wrapper">
@@ -252,7 +255,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="/contact.php">
+                            <a target="_blank" href="/en/contact.php">
                                 <div class="button-biaya">
                                     Contacts Us
                                 </div>
@@ -349,7 +352,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="/contact.php">
+                            <a target="_blank" href="/en/contact.php">
                                 <div class="button-biaya">
                                     Contacts Us
                                 </div>
@@ -439,7 +442,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="/contact.php">
+                            <a target="_blank" href="/en/contact.php">
                                 <div class="button-biaya">
                                     Contacts Us
                                 </div>
@@ -525,7 +528,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="/contact.php">
+                            <a target="_blank" href="/en/contact.php">
                                 <div class="button-biaya">
                                     Contacts Us
                                 </div>
@@ -577,8 +580,115 @@ if (isset($_POST['submitted'])) {
             </section>
 
 
+            <!-- Table Price -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/table-price.css" media="all">
+            <section class="table-container">
+                <table class="table=price-x">
+                    <tr>
+                        <th>Service</th>
+                        <th>Price </th>
+                        <th>Description</th>
+                    </tr>
+                    <tr>
+                        <td>HTML/CSS Coding (1 Website)</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>Depending on the configuration of the website, it is possible to mark up the previous page HTML / CSS with 15,000,000 IDR if it is a normal corporate web (up to about 10 pages in total). We will do standard coding, install Google Analytics tags, and write your specified meta tags.</td>
+                    </tr>
+                    <tr>
+                        <td>HTML/CSS Coding (Per 1 Page)</td>
+                        <td>500,000 IDR ~</td>
+                        <td>Although it may differ depending on the volume and configuration of the content in the page, please note that 500,000 IDR per page is the standard estimation. If all design and contents of the 10-page website are ready, it is possible to code all with 5,000,000 IDR.</td>
+                    </tr>
+                    <tr>
+                        <td>Motion Coding</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>Implement visual programming such as motion with parallax effect using jQuery, HTML5, etc.</td>
+                    </tr>
+                    <tr>
+                        <td>Logo and Illustration Creation</td>
+                        <td>10,000,000 IDR 〜</td>
+                        <td>If your company does not have a logo yet, we can help you create one. We will help you get close to the ideal logo and create multiple patterns of illustrations.</td>
+                    </tr>
+                    <tr>
+                        <td>Online Chat Function</td>
+                        <td>5,000,000 IDR ~</td>
+                        <td>Implement an online chat tool on your website either for easier and instant customer support or even to increase your sales.</td>
+                    </tr>
+                    <tr>
+                        <td>Inquiry page optimization</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>By optimizing the content of the inquiry page and the form, you can maximize the number of queries/leads and minimize the drop rate from users who visit your website.</td>
+                    </tr>
+                    <tr>
+                        <td>Recruitment page optimization</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>Optimize the content on the recruiting page to increase the number of submissions through the website. It is also possible to build a hiring site as a special site.
+                            <a href="/recruitment-web-dev.php">
+                                <span style="color: #1985D6;">Click here for details.</span>
+                            </a>
+                            We also sell cloud tools for efficient hiring operations, Sugoi Saiyo.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Create shopping cart function</td>
+                        <td>20,000,000 IDR 〜</td>
+                        <td>We can use the e-commerce framework to grant shopping capabilities to your web. There is a wide range of this feature depending on the requirements, so please contact us for details.</td>
+                    </tr>
+                    <tr>
+                        <td>Payment gateway cooperation</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>We have a track record of establishing linkage functions with the payment gateway service for notable companies in Indonesia. Please contact us as subscription settlement is also possible.</td>
+                    </tr>
+                    <tr>
+                        <td>API Creation</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>We will create an API for linking functions/information with other systems, other websites, mobile apps, and services. We develop the system according to the data format (XML, HTML, JSON, etc.) to be sent and received.</td>
+                    </tr>
+                    <tr>
+                        <td>Content Creation</td>
+                        <td>Please contact us for price.</td>
+                        <td>Regular content creation operation or one-time content creation (content creation at the time of website creation) is also possible. There is a range of price depending on the volume, the peculiarity of the content to be created, the language of the created content, etc. Please consult us first.</td>
+                    </tr>
+                    <tr>
+                        <td>Photography</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>The price includes shooting in 1 location, 5 to 10 cuts, and 4 hours shooting time. Please contact us for details on shooting outdoors and in the factory.</td>
+                    </tr>
+                    <tr>
+                        <td>Drone shooting</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>1 shooting location, 1 flight, up to 15 minutes shooting time, deliverable animation data. It doesn’t include the acquisition of flight permits.</td>
+                    </tr>
+                    <tr>
+                        <td>Movie shooting editing</td>
+                        <td>20,000,000 IDR 〜</td>
+                        <td>We create movies with various needs, from videos created with graphics/animation only to full movie shooting and productions.</td>
+                    </tr>
+                </table>
+            </section>
 
+            <!-- Detail Contacts -->
+            <a class="landing-contact" target="_blank" href="/en/contact.php">
+                <section class="contact-detail-cont">
+                    <h3 class="title-contact-detail">Click here to contact us for more detailed quote</h3>
+                </section>
+            </a>
+
+
+            <!-- Table Price -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/sosmed-section.css" media="all">
+            <section class="sosmed-section">
+                <div class="facebook-section">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/facebookads.png" alt="facebook banner">
+                </div>
+                <div class="linkedin-section">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
+                </div>
+            </section>
         </div>
+
+        <?php include '../footer.php'; ?>
+
     </div>
 </body>
 
