@@ -13,24 +13,23 @@ $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
 //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
-if(isset($_POST['submitted']))
-{
-	if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
-		$secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
-		// $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-		$verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
-		// print_r($verifyResponse); exit;
-		$responseData = json_decode($verifyResponse);
-		if ($responseData->success) {
-			if ($formproc->ProcessForm()) {
-				$msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
-			}
-		} else {
-			$msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
-		}
-	} else {
-		$msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-	}
+if (isset($_POST['submitted'])) {
+    if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
+        $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
+        // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
+        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $_POST['g-recaptcha-response']);
+        // print_r($verifyResponse); exit;
+        $responseData = json_decode($verifyResponse);
+        if ($responseData->success) {
+            if ($formproc->ProcessForm()) {
+                $msg = "<div class='alert alert-success' id='msg' role='alert'>Thank you for sending us inquiry!</div>";
+            }
+        } else {
+            $msg = "<div class='alert alert-warning' id='msg' role='alert'>reCAPTCHA verification failed, please try again.</div>";
+        }
+    } else {
+        $msg = "<div class='alert alert-warning' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
+    }
 }
 
 ?>
@@ -41,21 +40,18 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description"
-        content="Tertarik untuk pengembangan website, aplikasi web & mobile app, jasa digital marketing, seo atau hanya ingin berkonsultasi terkait bisnis digital? Hubungi Kami.">
-    <meta name="keywords"
-        content="pengembangan sistem web, digital marketing, pembuatan aplikasi android, media sosial, sistem aplikasi, hubungi kami, pembuatan website, konten, pemasaran, konsultasi, seo">
+    <meta name="description" itemprop="description" content="Tertarik untuk pengembangan website, aplikasi web & mobile app, jasa digital marketing, seo atau hanya ingin berkonsultasi terkait bisnis digital? Hubungi Kami.">
+    <meta name="keywords" content="pengembangan sistem web, digital marketing, pembuatan aplikasi android, media sosial, sistem aplikasi, hubungi kami, pembuatan website, konten, pemasaran, konsultasi, seo">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Hubungi Kami Untuk Kebutuhan Bisnis Digital Anda | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/hubungi-kami.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
-    <meta property="og:description"
-        content="Tertarik untuk pengembangan website, aplikasi web & mobile app, jasa digital marketing, seo atau hanya ingin berkonsultasi terkait bisnis digital? Hubungi Kami.">
+    <meta property="og:description" content="Tertarik untuk pengembangan website, aplikasi web & mobile app, jasa digital marketing, seo atau hanya ingin berkonsultasi terkait bisnis digital? Hubungi Kami.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Hubungi Kami Untuk Kebutuhan Bisnis Digital Anda | LOGIQUE</title>
-    
+
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
@@ -63,37 +59,29 @@ if(isset($_POST['submitted']))
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- <link href="css/style.css" rel="stylesheet"> -->
-    <link rel="stylesheet" href="/css/sidebar-update.css" >
-    <link rel="stylesheet" href="/css/newstyle.css" >
-    <link rel="stylesheet" href="/css/style-contact.css" >
+    <link rel="stylesheet" href="/css/sidebar-update.css">
+    <link rel="stylesheet" href="/css/newstyle.css">
+    <link rel="stylesheet" href="/css/style-contact.css">
 
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
-    <link rel="canonical" href="https://www.logique.co.id/hubungi-kami.php" />  
+    <link rel="canonical" href="https://www.logique.co.id/hubungi-kami.php" />
 
-    <?php 
-        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
-            echo "<!-- Google Tag Manager -->
+    <?php
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo "<!-- Google Tag Manager -->
             <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
             <!-- End Google Tag Manager -->";
-        }
+    }
     ?>
 
 
 </head>
 <style>
-    /* div.row{
-            width: 100%;
-        } */
-
-    /* .breadcrumb {
-        padding: 0;
-    } */
-
     .breadcrumb-position {
         position: relative;
         left: -8em;
@@ -122,11 +110,6 @@ if(isset($_POST['submitted']))
         width: 100%;
         max-width: unset !important;
         min-height: 100%;
-        /* margin: -35px 50px 0 auto; */
-        /* padding: 40px 0; */
-        /* margin-left: 95px; */
-        /* padding-right: 50px; */
-        /* padding-left: 95px; */
     }
 
     .d-title {
@@ -425,7 +408,7 @@ if(isset($_POST['submitted']))
 
     .timeline-horizontal .timeline-item {
         display: table-cell;
-        height: 320px;
+        height: 400px;
         width: 20%;
         min-width: 260px;
         float: none !important;
@@ -472,12 +455,13 @@ if(isset($_POST['submitted']))
         background: #000;
         color: #fff;
         border-radius: 10px;
-        padding: 1em;
+        padding: 15px 20px;
         position: absolute;
         bottom: 6px;
         right: -12px;
         left: 24px;
-        height: 100px;
+        height: 130px;
+        font-size: 14px;
     }
 
     .lang-logo {
@@ -637,29 +621,29 @@ if(isset($_POST['submitted']))
 
 <body>
 
-    <?php 
-        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
-            echo '<!-- Google Tag Manager (noscript) -->
+    <?php
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo '<!-- Google Tag Manager (noscript) -->
             <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- End Google Tag Manager (noscript) -->';
-        }
+    }
     ?>
 
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
         <!-- NAVIGATION -->
-        <?php 
-            // $active option are home, about, portfolio, services, product, career, contact
-            $active = 'contact';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        <?php
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'contact';
+        include($_SERVER['DOCUMENT_ROOT'] . '/sidebar.php');
         ?>
 
-        <?php 
-            $lang = 'id';
-            $en_link = '/en/contact.php';
-            $id_link = '#';
-            $jp_link = '/jp/contact.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        <?php
+        $lang = 'id';
+        $en_link = '/en/contact.php';
+        $id_link = '#';
+        $jp_link = '/jp/contact.php';
+        include($_SERVER['DOCUMENT_ROOT'] . '/header.php');
         ?>
 
         <!-- <br /> -->
@@ -670,14 +654,11 @@ if(isset($_POST['submitted']))
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">Beranda</span></a>
+                            <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="index.php"><span itemprop="name">Beranda</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Hubungi Kami</span></a>
+                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span itemprop="name">&nbsp;Hubungi Kami</span></a>
                                     <meta itemprop="position" content="2" />
                                 </li>
                             </ol>
@@ -689,7 +670,7 @@ if(isset($_POST['submitted']))
             <section style="background-color: #f4f4f4;">
                 <div class="container__ text-center" style="padding-bottom:0">
                     <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
-                    Hubungi Kami
+                        Hubungi Kami
                     </h1>
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">
@@ -760,8 +741,7 @@ if(isset($_POST['submitted']))
                     <div class="clearfix">
                         <div class="contact-us-cont">
                             <div class="col-sm-6" style="padding: 1em 0;">
-                                <img class="" src="img/kontak-img.jpg" alt="Hubungi Kami Logique"
-                                    style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;" />
+                                <img class="" src="img/kontak-img.jpg" alt="Hubungi Kami Logique" style="width: 100%; height: auto; max-width: 500px; object-fit: scale-down; border: 2px solid black; padding: 2%;" />
                             </div>
                             <div class="col-sm-6" style="padding-top: 5%;">
                                 <dt class="d-title" style="background: #ffd02a; padding:1em;">
@@ -785,71 +765,53 @@ if(isset($_POST['submitted']))
                             </div>
 
                             <div class="col-sm-8 col-sm-offset-2 text-center sosmed-contact">
-                                <a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook"
-                                    rel="noreferrer"><i class="fa fa-facebook-official"
-                                        style="color:#777; font-size: xx-large;"></i></a>
-                                <a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter"
-                                    rel="noreferrer"><i class="fa fa-twitter" style="color:#777; font-size: xx-large;"></i></a>
-                                <a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram"
-                                    rel="noreferrer"><i class="fa fa-instagram" style="color:#777; font-size: xx-large;"></i></a>
-                                <a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn"
-                                    rel="noreferrer"><i class="fa fa-linkedin-square"
-                                        style="color:#777; font-size: xx-large;"></i></a>
-                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" aria-label="WhatsApp"
-                                    rel="noreferrer"><i class="fa fa-whatsapp" style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://www.facebook.com/logique.id/" target="_blank" aria-label="Facebook" rel="noreferrer"><i class="fa fa-facebook-official" style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://twitter.com/LogiqueDigital" target="_blank" aria-label="Twitter" rel="noreferrer"><i class="fa fa-twitter" style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://www.instagram.com/logiquedigital/" target="_blank" aria-label="Instagram" rel="noreferrer"><i class="fa fa-instagram" style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://www.linkedin.com/company/13420656" target="_blank" aria-label="LinkedIn" rel="noreferrer"><i class="fa fa-linkedin-square" style="color:#777; font-size: xx-large;"></i></a>
+                                <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" aria-label="WhatsApp" rel="noreferrer"><i class="fa fa-whatsapp" style="color:#777; font-size: xx-large;"></i></a>
                             </div>
                             <br>
-                            <?php if(isset($msg))
-					{
-						echo $msg;
-					}
-					?>
+                            <?php if (isset($msg)) {
+                                echo $msg;
+                            }
+                            ?>
                             <br>
                             <div class="" style="margin-top: 3%;">
-                                <form class="contactform" id="moresco-contactform" role="form" name='myForm'
-                                    onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>'
-                                    method='post' accept-charset='UTF-8'>
+                                <form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
                                     <input type='hidden' name='submitted' id='submitted' value='1' />
-                                    <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
-                                        value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
+                                    <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
                                     <div><span class='error'><?php echo $formproc->GetErrorMessage(); ?></span></div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10" id="anchorForm">
                                         <label for="companyname" class="c-label">Nama Perusahaan</label>
                                         <div class="form-group">
-                                            <input type="text" class="form-control" id="companyname" name="companyname"
-                                                aria-label="Company Name"
-                                                value='<?php echo $formproc->SafeDisplay('companyname') ?>'
-                                                placeholder="NAMA PERUSAHAAN">
+                                            <input type="text" class="form-control" id="companyname" name="companyname" aria-label="Company Name" value='<?php echo $formproc->SafeDisplay('companyname') ?>' placeholder="NAMA PERUSAHAAN">
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <label for="name" class="c-label">Nama</label>
                                         <div class="form-group">
-                                            <input type="text" class="form-control" id="name" name="name" aria-label="Name"
-                                                value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
+                                            <input type="text" class="form-control" id="name" name="name" aria-label="Name" value='<?php echo $formproc->SafeDisplay('name') ?>' placeholder="NAMA">
                                         </div>
                                     </div>
 
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <label for="phone" class="c-label">Nomor Telepon</label>
                                         <div class="form-group">
-                                            <input type="number" class="form-control" id="phone" name="phone" aria-label="Phone"
-                                                value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
+                                            <input type="number" class="form-control" id="phone" name="phone" aria-label="Phone" value='<?php echo $formproc->SafeDisplay('phone') ?>' placeholder="NOMOR TELEPON">
                                         </div>
                                     </div>
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <label for="email" class="c-label">Email</label> <small class="text-danger">Mohon masukkan alamat email perusahaan Anda</small>
                                         <div class="form-group">
-                                            <input type="email" class="form-control" id="email" name="email" aria-label="Email"
-                                                value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
+                                            <input type="email" class="form-control" id="email" name="email" aria-label="Email" value='<?php echo $formproc->SafeDisplay('email') ?>' placeholder="E-MAIL">
                                         </div>
                                     </div>
 
                                     <div class="col-md-8 col-md-offset-2 col-sm-offset-1 col-sm-10">
                                         <label for="message" class="c-label">Message</label>
                                         <div class="form-group" style="margin-top: 10px;">
-                                            <textarea class="form-control" name="message" aria-label="Message"
-                                                placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
+                                            <textarea class="form-control" name="message" aria-label="Message" placeholder="PESAN"><?php echo $formproc->SafeDisplay('message') ?></textarea>
                                         </div>
                                     </div>
 
@@ -861,17 +823,14 @@ if(isset($_POST['submitted']))
                                         <div class="checkbox">
                                             <label>
                                                 <input type="checkbox" name="inquiry[]" value="Mengembangkan sebuah website">
-                                                <span class="cr"><i
-                                                        class="cr-icon glyphicon glyphicon-ok"></i></span>mengembangkan sebuah
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>mengembangkan sebuah
                                                 website
                                             </label>
                                         </div>
                                         <div class="checkbox">
                                             <label>
-                                                <input type="checkbox" name="inquiry[]"
-                                                    value="Mengembangkan sistem web / maintenance">
-                                                <span class="cr"><i
-                                                        class="cr-icon glyphicon glyphicon-ok"></i></span>mengembangkan sistem
+                                                <input type="checkbox" name="inquiry[]" value="Mengembangkan sistem web / maintenance">
+                                                <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>mengembangkan sistem
                                                 web / maintenance
                                             </label>
                                         </div>
@@ -884,8 +843,7 @@ if(isset($_POST['submitted']))
                                         </div>
                                         <div class="checkbox">
                                             <label>
-                                                <input type="checkbox" name="inquiry[]"
-                                                    value="Memasang atau mengoperasikan iklan di Internet">
+                                                <input type="checkbox" name="inquiry[]" value="Memasang atau mengoperasikan iklan di Internet">
                                                 <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>memasang
                                                 atau
                                                 mengoperasikan iklan di Internet
@@ -893,8 +851,7 @@ if(isset($_POST['submitted']))
                                         </div>
                                         <div class="checkbox">
                                             <label>
-                                                <input type="checkbox" name="inquiry[]"
-                                                    value="Mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran">
+                                                <input type="checkbox" name="inquiry[]" value="Mendesain profil perusahaan atau hasil cetakan lainnya untuk pameran">
                                                 <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>mendesain
                                                 profil
                                                 perusahaan atau hasil cetakan lainnya untuk pameran
@@ -902,24 +859,21 @@ if(isset($_POST['submitted']))
                                         </div>
                                         <div class="checkbox">
                                             <label>
-                                                <input type="checkbox" name="inquiry[]"
-                                                    value="Kami mencari perusahaan yang ikut tender">
+                                                <input type="checkbox" name="inquiry[]" value="Kami mencari perusahaan yang ikut tender">
                                                 <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>Kami mencari
                                                 perusahaan yang ikut tender
                                             </label>
                                         </div>
                                         <div class="checkbox">
                                             <label>
-                                                <input type="checkbox" name="inquiry[]"
-                                                    value="Kami mencari konsultan untuk memulai bisnis di indonesia">
+                                                <input type="checkbox" name="inquiry[]" value="Kami mencari konsultan untuk memulai bisnis di indonesia">
                                                 <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>Kami mencari
                                                 konsultan untuk memulai bisnis di indonesia
                                             </label>
                                         </div>
                                         <div class="checkbox">
                                             <label>
-                                                <input type="checkbox" name="inquiry[]"
-                                                    value="Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis">
+                                                <input type="checkbox" name="inquiry[]" value="Kami ingin mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis">
                                                 <span class="cr"><i class="cr-icon glyphicon glyphicon-ok"></i></span>Kami ingin
                                                 mengunjungi kantor Anda saat kami ke Jakarta untuk melakukan perjalanan bisnis
                                             </label>
@@ -927,14 +881,11 @@ if(isset($_POST['submitted']))
                                     </div>
 
                                     <div class="col-sm-12" style="display:flex;justify-content:center; margin-bottom:1em">
-                                        <div class="g-recaptcha pull-right"
-                                            data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
+                                        <div class="g-recaptcha pull-right" data-sitekey="6LcuHywUAAAAACj__hCefsBCkoIC2ExM2Sur4cCp"></div>
                                         <div class="clearfix"></div><br>
                                     </div>
                                     <div class="col-sm-4 col-sm-offset-4 paddingleft">
-                                        <button type="submit" class="btn btn-block"
-                                            onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');"
-                                            style="background: #f4ce58;">Kirim</button>
+                                        <button type="submit" class="btn btn-block" onclick="ga('send', 'event', 'Button-Kirim', 'Action-Click', 'Button-Kirim-Label');" style="background: #f4ce58;">Kirim</button>
                                     </div>
                                 </form>
                             </div>
@@ -1077,8 +1028,7 @@ if(isset($_POST['submitted']))
                             <div class="panel-group" id="accordion">
 
                                 <div class="panel panel-default">
-                                    <div class="panel-heading" type="button" data-toggle="collapse" data-parent="#accordion"
-                                        data-target="#collapse1">
+                                    <div class="panel-heading" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse1">
                                         <dt class="panel-title">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>Saya ingin mengetahui rentan harga
                                                 layanan
@@ -1089,8 +1039,7 @@ if(isset($_POST['submitted']))
                                         <div class="panel-body">
                                             Harga layanan tergantung pada kebutuhan Anda. Untuk melihat kisaran harga untuk
                                             pengembangan Website,
-                                            kunjungilah halaman ini: <a href="https://www.logique.co.id/layanan/web-dev.php"
-                                                target="blank"><strong><i>Kisaran Harga Pengembangan Web LOGIQUE</i></strong></a>.
+                                            kunjungilah halaman ini: <a href="https://www.logique.co.id/layanan/web-dev.php" target="blank"><strong><i>Kisaran Harga Pengembangan Web LOGIQUE</i></strong></a>.
                                             Harap dicatat bahwa Informasi yang tertera hanyalah kisaran umum.
                                             Kami akan memberikan perkiraan yang lebih terperinci setelah mengetahui kebutuhan
                                             Anda.
@@ -1100,8 +1049,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse2">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse2">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>BIsakah LOGIQUE mengirimkan beberapa
                                                 programmer untuk bekerja onsite?</a>
                                         </dt>
@@ -1121,8 +1069,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse3">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse3">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Kami juga sebuah perusahaan pengembang. Bisakah LOGIQUE menjadi sub-kontraktor
                                                 kami?
@@ -1140,8 +1087,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse4">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse4">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Apakah proses proyek dapat dijalankan dalam Bahasa Inggris?
                                             </a>
@@ -1158,8 +1104,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse5">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse5">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Apakah meeting dapat dilakukan di luar negeri?
                                             </a>
@@ -1177,8 +1122,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse6">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse6">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Kami sedang berpikir untuk mengganti agen outsourcing web / sistem kami saat ini
                                                 dengan LOGIQUE.
@@ -1200,8 +1144,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse7">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse7">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Kami ingin mengebangkan sistem managemen untuk bisnis kami.
                                             </a>
@@ -1221,8 +1164,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse8">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse8">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Kami ingin membuat kontrak kemitraan / distributor dengan LOGIQUE.
                                             </a>
@@ -1238,8 +1180,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse9">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse9">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Kami ingin membangun aplikasi mobile.
                                             </a>
@@ -1256,8 +1197,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse10">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse10">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Kami ingin mencetak alat pemasaran, apakah Anda dapat menawarkan pencetakan
                                                 sekaligus
@@ -1275,8 +1215,7 @@ if(isset($_POST['submitted']))
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
-                                            data-target="#collapse11">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse11">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
                                                 Apakah Anda mampu menerapkan SEO dalam Bahasa Inggris?
                                             </a>
@@ -1299,9 +1238,7 @@ if(isset($_POST['submitted']))
                             </div>
 
                             <div class="map-container">
-                                <iframe title="Office Map"
-                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid"
-                                    allowfullscreen></iframe>
+                                <iframe title="Office Map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -1310,24 +1247,24 @@ if(isset($_POST['submitted']))
 
         </div>
 
-        <?php include 'footer.php';?>
+        <?php include 'footer.php'; ?>
         <script async defer src='https://www.google.com/recaptcha/api.js'></script>
         <script>
-        $(function() {
-            $('.smooth').click(function() {
-                if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
-                    .hostname == this.hostname) {
-                    var target = $(this.hash);
-                    target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                    if (target.length) {
-                        $('html, body').animate({
-                            scrollTop: target.offset().top
-                        }, 1000);
-                        return false;
+            $(function() {
+                $('.smooth').click(function() {
+                    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location
+                        .hostname == this.hostname) {
+                        var target = $(this.hash);
+                        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                        if (target.length) {
+                            $('html, body').animate({
+                                scrollTop: target.offset().top
+                            }, 1000);
+                            return false;
+                        }
                     }
-                }
+                });
             });
-        });
         </script>
     </div>
 </body>

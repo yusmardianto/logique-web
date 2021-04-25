@@ -675,7 +675,7 @@ if (isset($_POST['submitted'])) {
             </section>
 
             <!-- Detail Contacts -->
-            <a class="landing-contact" target="_blank" href="../hubungi-kami.php">
+            <a class="landing-contact" target="_blank" href="/hubungi-kami.php">
                 <section class="contact-detail-cont">
                     <h3 class="title-contact-detail">Klik disini untuk menghubungi kami mengenai detail lainnya</h3>
                 </section>

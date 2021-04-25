@@ -590,11 +590,107 @@ if (isset($_POST['submitted'])) {
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/table-price.css" media="all">
             <section class="table-container">
                 <table class="table=price-x">
-                   
+                    <tr>
+                        <th>Service</th>
+                        <th>Price </th>
+                        <th>Description</th>
+                    </tr>
+                    <tr>
+                        <td>HTML / CSS コーディング (1サイト）</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>@Webサイトの構成によりますが、通常のコーポレートWeb（合計10ページ程度まで）ですと15,000,000 IDRで全ページHTML/CSSマークアップすることが可能です。標準的なコーディングをしますしGAタグの設置やご指定のメタタグ記述もいたします。</td>
+                    </tr>
+                    <tr>
+                        <td>HTML / CSS コーディング(1ページあたり）</td>
+                        <td>500,000 IDR ~</td>
+                        <td>ページ内コンテンツのボリュームや構成により大きく異なる可能性はありますが、目安としては1ページ500,000 IDRとお考えください。10ページあるWebサイトのデザインとコンテンツが全て準備出来ている場合、5,000,000 IDRで全てコーディングすることが可能です。</td>
+                    </tr>
+                    <tr>
+                        <td>モーションコーディング</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>新規事業でロゴがまだない場合などがあります。複数パターンを作成しながら理想のロゴに近づけるご支援をしんがら完成まで導きます</td>
+                    </tr>
+                    <tr>
+                        <td>ロゴ・イラスト作成</td>
+                        <td>10,000,000 IDR 〜</td>
+                        <td>JQueryやHTML5などを使用したパララックス効果をつける動きなどのビジュアルプログラミングを行います。</td>
+                    </tr>
+                    <tr>
+                        <td>オンラインチャット機能</td>
+                        <td>5,000,000 IDR ~</td>
+                        <td>オンラインチャットツールを御社WebサイトにImplementします。</td>
+                    </tr>
+                    <tr>
+                        <td>お問い合わせページ最適化</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</td>
+                    </tr>
+                    <tr>
+                        <td>採用ページ最適化</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。
+                            <span style="color: #1985D6;">詳細はこちら。</span>
+                            採用業務を効率的に行うためのクラウドツールの販売もしています。Sugoi Saiyo
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>ショッピング・カート機能作成</td>
+                        <td>20,000,000 IDR 〜</td>
+                        <td>E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>ペイメントゲートウェイ連携</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>API作成</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>他システムや他Webサイト、モバイルアプリ、サービスとの機能・情報連携のためにAPI作成を行います。送受信されるデータ形式（XML,HTML,JSONなど）に合わせ開発します。</td>
+                    </tr>
+                    <tr>
+                        <td>コンテンツ作成</td>
+                        <td>ご相談ください</td>
+                        <td>定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>写真撮影</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>ドローン撮影</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>1撮影場所、1フライト、撮影時間15分まで、成果物動画データ。飛行許可取得などは含んでいません。</td>
+                    </tr>
+                    <tr>
+                        <td>動画撮影編集</td>
+                        <td>20,000,000 IDR 〜</td>
+                        <td>グラフィックのみで制作する動画から、撮影を行い制作するムービーまで、様々なニーズにお応えします。</td>
+                    </tr>
                 </table>
             </section>
 
+            <!-- Detail Contacts -->
+            <a class="landing-contact" target="_blank" href="/jp/contact.php">
+                <section class="contact-detail-cont">
+                    <h3 class="title-contact-detail">こちらから詳細なお見積りをご相談いただけます</h3>
+                </section>
+            </a>
+
+            <!-- Table Price -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/sosmed-section.css" media="all">
+            <section class="sosmed-section">
+                <div class="facebook-section">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/facebookads.png" alt="facebook banner">
+                </div>
+                <div class="linkedin-section">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
+                </div>
+            </section>
         </div>
+
+        <?php include '../footer.php'; ?>
     </div>
 
 </body>
