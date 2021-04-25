@@ -114,15 +114,6 @@ if (isset($_POST['submitted'])) {
     }
     ?>
 
-    <style>
-        @media only screen and (max-width: 414px) {
-            .breadcrumb {
-                padding-left: 15px;
-            }
-        }
-    </style>
-
-
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
@@ -188,7 +179,6 @@ if (isset($_POST['submitted'])) {
             </section>
 
             <!-- CSS ATOMIC IMPORT for Load Performance -->
-
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/styles_price_plan_320.css" media="(min-width: 320px)">
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/styles_price_plan_425.css" media="(min-width: 425px)">
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/styles_price_plan_768.css" media="(min-width: 768px)">
@@ -197,7 +187,7 @@ if (isset($_POST['submitted'])) {
             <!-- MINIPLAN Section -->
             <section class="plan plan-gap-100">
                 <div class="image-plan-cont">
-                    <img class="plan-image" loading="lazy" src="assets/img/img-webdev/webdev-service/miniplan-image.webp" alt="miniplan price">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/miniplan-image.webp" alt="miniplan price">
                 </div>
 
                 <div class="desc-plan-cont">
@@ -209,7 +199,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Masa Produksi -->
                         <div class="sub-container-desc">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-masa-produksi">
@@ -222,7 +212,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Jumlah Halaman -->
                         <div class="sub-container-desc extra-width">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-jumlah-halaman">
@@ -239,7 +229,7 @@ if (isset($_POST['submitted'])) {
                     <div class="cakupan-pekerjaan">
                         <div class="sub-cakupan-pekerjaan">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-cakupan-pekerjaan">
@@ -272,7 +262,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="../hubungi-kami.php">
+                            <a target="_blank" href="/hubungi-kami.php">
                                 <div class="button-biaya">
                                     Hubungi Kami
                                 </div>
@@ -288,7 +278,7 @@ if (isset($_POST['submitted'])) {
             <!-- STANDART Section -->
             <section class="plan plan-reverse plan-gap">
                 <div class="image-plan-cont">
-                    <img class="plan-image" loading="lazy" src="assets/img/img-webdev/webdev-service/standart-image.webp" alt="Standart price">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/standart-image.webp" alt="Standart price">
                 </div>
 
                 <div class="desc-plan-cont">
@@ -300,7 +290,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Masa Produksi -->
                         <div class="sub-container-desc">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-masa-produksi">
@@ -313,7 +303,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Jumlah Halaman -->
                         <div class="sub-container-desc extra-width">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-jumlah-halaman">
@@ -330,7 +320,7 @@ if (isset($_POST['submitted'])) {
                     <div class="cakupan-pekerjaan">
                         <div class="sub-cakupan-pekerjaan">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-cakupan-pekerjaan">
@@ -368,7 +358,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="../hubungi-kami.php">
+                            <a target="_blank" href="/hubungi-kami.php">
                                 <div class="button-biaya">
                                     Hubungi Kami
                                 </div>
@@ -384,7 +374,7 @@ if (isset($_POST['submitted'])) {
             <!-- SKALA BESAR Section -->
             <section class="plan plan-gap">
                 <div class="image-plan-cont">
-                    <img class="plan-image" loading="lazy" src="assets/img/img-webdev/webdev-service/skala-besar.webp" alt="skala besar price">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/skala-besar.webp" alt="skala besar price">
                 </div>
 
                 <div class="desc-plan-cont">
@@ -396,7 +386,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Masa Produksi -->
                         <div class="sub-container-desc">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-masa-produksi">
@@ -409,7 +399,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Jumlah Halaman -->
                         <div class="sub-container-desc extra-width">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-jumlah-halaman">
@@ -426,7 +416,7 @@ if (isset($_POST['submitted'])) {
                     <div class="cakupan-pekerjaan">
                         <div class="sub-cakupan-pekerjaan">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-cakupan-pekerjaan">
@@ -459,7 +449,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="../hubungi-kami.php">
+                            <a target="_blank" href="/hubungi-kami.php">
                                 <div class="button-biaya">
                                     Hubungi Kami
                                 </div>
@@ -474,7 +464,7 @@ if (isset($_POST['submitted'])) {
             <!-- Produk Strategis Section -->
             <section class="plan plan-reverse plan-gap">
                 <div class="image-plan-cont">
-                    <img class="plan-image" loading="lazy" src="assets/img/img-webdev/webdev-service/standart-image.webp" alt="Standart price">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/strategicimg.webp" alt="harga plan strategis">
                 </div>
 
                 <div class="desc-plan-cont">
@@ -488,7 +478,7 @@ if (isset($_POST['submitted'])) {
                         <!-- Masa Produksi -->
                         <div class="sub-container-desc">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-masa-produksi">
@@ -504,7 +494,7 @@ if (isset($_POST['submitted'])) {
                     <div class="cakupan-pekerjaan">
                         <div class="sub-cakupan-pekerjaan">
                             <div class="checklist-img">
-                                <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
                             </div>
 
                             <div class="desc-cakupan-pekerjaan">
@@ -545,7 +535,7 @@ if (isset($_POST['submitted'])) {
 
                         <!-- Button Container -->
                         <div class="sub-container-biaya">
-                            <a target="_blank" href="../hubungi-kami.php">
+                            <a target="_blank" href="/hubungi-kami.php">
                                 <div class="button-biaya">
                                     Hubungi Kami
                                 </div>
@@ -696,10 +686,10 @@ if (isset($_POST['submitted'])) {
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/sosmed-section.css" media="all">
             <section class="sosmed-section">
                 <div class="facebook-section">
-                    <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="facebook banner">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/facebookads.png" alt="facebook banner">
                 </div>
                 <div class="linkedin-section">
-                    <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
                 </div>
             </section>
 
