@@ -549,9 +549,50 @@ if (isset($_POST['submitted'])) {
             <!-- PROSES ALUR KERJA BLOCK -->
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/alur-kerja-style.css" media="all">
             <section class="alur-kerja-cont">
-                <h3 class="title-alur-kerja">ヒアリングから初回のご提案までの流れ  とWeb制作料金単価の目安</h3>
+                <h3 class="title-alur-kerja">ヒアリングから初回のご提案までの流れ とWeb制作料金単価の目安</h3>
             </section>
 
+            <!-- Table Schedule -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/table-schedule.css" media="all">
+            <section class="plan-schedule">
+                <div class="schedule-cont bg-cream">
+                    <div class="title-schedule-cont">
+                        <p class="schedule-title">
+                            ヒアリング・初回ご提案
+                        </p>
+                    </div>
+
+                    <div class="desc-schedule-cont">
+                        <p class="schedule-desc">
+                            無料ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。
+                        </p>
+                    </div>
+                </div>
+
+                <div class="schedule-cont bg-grey">
+                    <div class="title-schedule-cont">
+                        <p class="schedule-title">
+                            その他制作諸費用の目安
+                        </p>
+                    </div>
+
+                    <div class="desc-schedule-cont">
+                        <p class="schedule-desc">
+                            当社の価格は、作業の難易度やスケジュールの緊急度などによって幅がありますが、個別の作業依頼は以下のようになります。あくまで目安としてお考えください。
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+
+
+            <!-- Table Price -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/table-price.css" media="all">
+            <section class="table-container">
+                <table class="table=price-x">
+                   
+                </table>
+            </section>
 
         </div>
     </div>
