@@ -299,7 +299,7 @@ if (isset($_POST['submitted'])) {
         margin-left: -25px;
         background-color: #7c7c7c;
         border: 3px solid #000;
-        z-index: 100;
+        z-index: 2;
         border-top-right-radius: 50%;
         border-top-left-radius: 50%;
         border-bottom-right-radius: 50%;
