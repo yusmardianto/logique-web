@@ -14,12 +14,11 @@ $formproc->SetFormRandomKey('HG9hPBpn9Bn26yg');
 
 //$formproc->AddFileUploadField('photo','jpg,jpeg,pdf,doc,docx',40960);
 
-if(isset($_POST['submitted']))
-{
+if (isset($_POST['submitted'])) {
     if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
         $secret = '6LcuHywUAAAAAEfJ-sZem8CzGVYIUMcxoT0jRhtW';
         // $secret = '6Lf3pA8UAAAAAEECs5-RC010LQ3ehBt76aKv8Rxb';
-        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
+        $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret=' . $secret . '&response=' . $_POST['g-recaptcha-response']);
         // print_r($verifyResponse); exit;
         $responseData = json_decode($verifyResponse);
         if ($responseData->success) {
@@ -31,8 +30,8 @@ if(isset($_POST['submitted']))
         }
     } else {
         $msg = "<div class='alert alert-warning' style='font-size: 18px;margin-top: 10px;' id='msg' role='alert'>Please click the reCAPTCHA box.</div>";
-   }
- }
+    }
+}
 ?>
 
 <!DOCTYPE html>
@@ -46,640 +45,654 @@ if(isset($_POST['submitted']))
     <meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Web制作費用 | インドネシアのWeb制作会社LOGIQUEのホームページ制作">
-     <meta property="og:type" content="website">
-     <meta property="og:site_name" content="Logique">
-     <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev-price-range.php">
-     <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
-     <meta property="og:description"
-         content="インドネシアの制作会社LOGIQUEのWebサイト・ホームページ制作サービスの価格例をご紹介します。静的なWebサイトから大規模なWebシステムまで価格に幅はありますが、概算をご紹介します。詳細はお問い合わせください。">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Web制作費用 | インドネシアのWeb制作会社LOGIQUEのホームページ制作">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev-price-range.php">
+    <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
+    <meta property="og:description" content="インドネシアの制作会社LOGIQUEのWebサイト・ホームページ制作サービスの価格例をご紹介します。静的なWebサイトから大規模なWebシステムまで価格に幅はありますが、概算をご紹介します。詳細はお問い合わせください。">
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/web-dev-price-range.php" />
     <title>Web制作費用 | インドネシアのWeb制作会社LOGIQUEのホームページ制作</title>
-    <link rel="canonical" href="https://www.logique.co.id/jp/services/web-dev-price-range.php"/>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://app.purechat.com">
-
-    <link rel="preload" href="/css/sidebar-update.css" as="style">
-    <link rel="preload" href="/css/style-revamp.css" as="style">
-
-    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin>
-    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Medium.ttf" as="font" crossorigin>
-    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf" as="font" crossorigin>
-    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf" as="font" crossorigin>
-    <link rel="preload" href="assets/fonts/Open_Sans/OpenSans-Bold.ttf" as="font" crossorigin>
-
+    <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
-    <link href="assets/css/style_webdev_service_new.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
+
+    <!-- FAST Font load Formula -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap" media="print" onload="this.media='all'" />
+
+
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/style-services.css" rel="stylesheet">
+    <link href="/css/epicstyle.css" rel="stylesheet">
+    <link href="/layanan/assets/css/styles-web-dev-services/styles_webdev_service.css" rel="stylesheet">
+
+
     <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
+        ga('create', 'UA-105878648-1', 'auto');
+        ga('send', 'pageview');
+    </script>
 
-	</script>
+    <?php
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+    }
+    ?>
+
+
 </head>
 
 <body>
-    <style>
-    @media only screen (max-width: 414px) {
-        .breadcrumb {
-            padding-left: 15px;
-        }
+
+    <?php
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
     }
-    </style>
-    <div class="side-container"></div>
-    <div>
+    ?>
 
+
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
         <!-- NAVIGATION -->
-        <div class="nav-lp">
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update in-jp">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/jp/">
-                                <div class="img-home"></div>
-                                Home
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/logique.php">
-                                <div class="img-about"></div>
-                                会社概要
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/portfolio.php">
-                                <div class="img-portfolio"></div>
-                                制作実績
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/jp/services.php">
-                                <div class="img-services"></div>
-                                サービス
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="product.php">
-                                <div class="img-product"></div>
-                                プロダクト
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                採用/<br>パートナー
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/contact.php">
-                                <div class="img-contact"></div>
-                                お問い合わせ
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
+        <?php
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'] . '/jp/sidebar.php');
+        ?>
+
+        <?php
+        $lang = 'jp';
+        $en_link = '/en/services/webdev-price-range.php';
+        $id_link = '/layanan/webdev-price-range.php';
+        $jp_link = '#';
+
+
+        include($_SERVER['DOCUMENT_ROOT'] . '/jp/header.php');
+        ?>
+
+        <div class="content-cont">
+            <section class="header-wrapper">
+                <div class="breadcrumb-wrapper">
+                    <ol class="breadcrumb-list" itemscope itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.php"><span itemprop="name">Beranda</span></a>
+                            <meta itemprop="position" content="1" />
+                        </li>
+                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="../layanan.php"><span itemprop="name">&nbsp;サービス</span></a>
+                            <meta itemprop="position" content="2" />
+                        </li>
+                        <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="web-dev.php" itemprop="item"><span itemprop="name">&nbsp;Web・ホームページ制作 </span></a>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                        <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span itemprop="name">&nbsp;サービスメニュー</span></a>
+                            <meta itemprop="position" content="3" />
+                        </li>
+                    </ol>
                 </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/webdev-price-range.php">EN</a></li>
-                                    <li><a href="/layanan/webdev-price-range.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
+
+                <header class="header-cont">
+                    <div class="left-header">
+                    </div>
+
+                    <div class="right-header">
+                        <h1 class="title-header">
+                            Web / ホームページ制作サービスメニュー
+                        </h1>
+
+                        <p>
+                            お客様の様々なWeb・ホームページ制作運用ニーズにお応えするために４つの基本サービスメニューをご用意しました。
+                        </p>
+
+                        <p>
+                            ご相談前に費用感などをお知りになりたいという声が多いので、こちらに掲載の情報を参考にしていただければと思います。 ご予算の大小で作業スコープは変わってきますが、どのプロジェクトにも作業スコープ内で最善を尽くします。
+                        </p>
+
+                        <p>
+                            お客様のご要望にフィットするサービスメニューはどれかご不明な場合など、お気軽にご相談ください
+                        </p>
+
+                    </div>
+                </header>
+            </section>
+
+
+            <!-- CSS ATOMIC IMPORT for Load Performance -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/styles_price_plan_320.css" media="(min-width: 320px)">
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/styles_price_plan_425.css" media="(min-width: 425px)">
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/styles_price_plan_768.css" media="(min-width: 768px)">
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/styles_price_plan_1024.css" media="(min-width: 1024px)">
+
+            <!-- MINIPLAN Section -->
+            <section class="plan plan-gap-100">
+                <div class="image-plan-cont">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/miniplan-image.webp" alt="miniplan price">
+                </div>
+
+                <div class="desc-plan-cont">
+                    <h2 class="plan-title">クイック制作Plan</h2>
+                    <p class="plan-desc">
+                        簡易なWebやランディングページ
+                    </p>
+
+                    <!-- Kontainer Deskripsi Waktu -->
+                    <div class="desc-waktu">
+                        <!-- Masa Produksi -->
+                        <div class="sub-container-desc">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-masa-produksi">
+                                <h3 class="desc-title">制作期間</h3>
+                                <p class="desc-value">〜1ヶ月程度</p>
+                            </div>
+
+                        </div>
+
+                        <!-- Jumlah Halaman -->
+                        <div class="sub-container-desc extra-width">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-jumlah-halaman">
+                                <h3 class="desc-title">ページ数</h3>
+                                <p class="desc-value">５ページ程度まで</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Kontainer Cakupan Pekerjaan -->
+                    <div class="cakupan-pekerjaan">
+                        <div class="sub-cakupan-pekerjaan">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-cakupan-pekerjaan">
+                                <h3 class="desc-title">作業内容</h3>
+                                <ul class="cakupan-pekerjaan-list">
+                                    <li>
+                                        デザイン、HTMLコーディング、標準的なSEO対策、調整＆テスト、公開作業
+                                    </li>
+
+                                    <li>
+                                        素材は全てご用意いただきます。
+                                    </li>
+
+                                    <li>
+                                        Static Webが原則
+                                    </li>
                                 </ul>
-                                <a href="/jp/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
 
-        <header class="content-wrapper__">
-            <div class="text-left --top">
-                <div class="container-fluid">
-                    <div class="row bg-section">
-                        <div class="col-md-12">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/mainbg.png" alt="">
+
+                    <!-- Biaya Kontainer -->
+                    <div class="desc-biaya">
+                        <!-- Biaya -->
+                        <div class="sub-container-biaya">
+                            <h3 class="biaya-title">制作費用</h3>
+                            <p class="biaya-value">15 juta 〜 30 juta IDR</p>
                         </div>
-                        <div class="col-sm-12 breadcrumb-section">
-                            <ol class="breadcrumb breadcrumb--update-design" itemscope
-                                itemtype="http://schema.org/BreadcrumbList">
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="/jp/index.php"><span itemprop="name">Home</span></a>
-                                    <meta itemprop="position" content="1" />
-                                </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item" href="/jp/services.php"><span itemprop="name">&nbsp;サービス</span></a>
-                                    <meta itemprop="position" content="2" />
-                                </li>
-                                <li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Web・ホームページ制作</span></a>
-                                    <meta itemprop="position" content="3" />
-                                </li>
-                                <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;サービスメニュー</span></a>
-                                    <meta itemprop="position" content="3" />
-                                </li>
-                            </ol>
-                        </div>
-                        <div class="col-md-12 m-t-2em main-section">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-6"></div>
-                                    <div class="col-md-6">
-                                        <h1 class="title">
-                                            <span><span>Web / ホームページ制作サービスメニュー</span></span>
-                                        </h1>
-                                        <div class="content">
-                                            <p>
-                                            お客様の様々なWeb・ホームページ制作運用ニーズにお応えするために４つの基本サービスメニューをご用意しました。
-                                            </p>
-                                            <p>
-                                            ご相談前に費用感などをお知りになりたいという声が多いので、こちらに掲載の情報を参考にしていただければと思います。
-ご予算の大小で作業スコープは変わってきますが、どのプロジェクトにも作業スコープ内で最善を尽くします。
-                                            </p>
-                                            <p>
-                                            お客様のご要望にフィットするサービスメニューはどれかご不明な場合など、お気軽にご相談ください
-                                            </p>
-                                        </div>
-                                    </div>
+
+                        <!-- Button Container -->
+                        <div class="sub-container-biaya">
+                            <a target="_blank" href="/jp/contact.php">
+                                <div class="button-biaya">
+                                    Contact Us
                                 </div>
-                            </div>
+
+                            </a>
                         </div>
                     </div>
                 </div>
-            </div>
-        </header>
+            </section>
+
+            <!-- STANDART Section -->
+            <section class="plan plan-reverse plan-gap">
+                <div class="image-plan-cont">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/standart-image.webp" alt="Standart price">
+                </div>
+
+                <div class="desc-plan-cont">
+                    <h2 class="plan-title standar-color">スタンダード制作Plan</h2>
+                    <p class="plan-desc">スタンダードなコーポレートWebやサービスWeb</p>
+
+                    <!-- Kontainer Deskripsi Waktu -->
+                    <div class="desc-waktu">
+                        <!-- Masa Produksi -->
+                        <div class="sub-container-desc">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-masa-produksi">
+                                <h3 class="desc-title">制作期間</h3>
+                                <p class="desc-value">1ヶ月〜2.5ヶ月（素材のご準備速度に依存します）</p>
+                            </div>
+
+                        </div>
+
+                        <!-- Jumlah Halaman -->
+                        <div class="sub-container-desc extra-width">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-jumlah-halaman">
+                                <h3 class="desc-title">ページ数</h3>
+                                <p class="desc-value">20ページ程度まで</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Kontainer Cakupan Pekerjaan -->
+                    <div class="cakupan-pekerjaan">
+                        <div class="sub-cakupan-pekerjaan">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-cakupan-pekerjaan">
+                                <h3 class="desc-title">作業内容</h3>
+                                <ul class="cakupan-pekerjaan-list">
+                                    <li>
+                                        デザイン、HTMLコーディング、CMSフィッティング、標準的なSEO対策、調整＆テスト、公開作業
+                                    </li>
+
+                                    <li>
+                                        Static Web or Wordpress or 当社独自CMS
+                                    </li>
+
+                                    <li>
+                                        原則、素材は提供いただきます。
+                                    </li>
+
+                                    <li>
+                                        お客様都合で4ヶ月を超えることになる場合には追加費用が必要となるケースがあります。*
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Biaya Kontainer -->
+                    <div class="desc-biaya">
+                        <!-- Biaya -->
+                        <div class="sub-container-biaya">
+                            <h3 class="biaya-title">制作費用</h3>
+                            <p class="biaya-value">30 juta - 60 juta IDR</p>
+                        </div>
+
+                        <!-- Button Container -->
+                        <div class="sub-container-biaya">
+                            <a target="_blank" href="/jp/contact.php">
+                                <div class="button-biaya">
+                                    Contact Us
+                                </div>
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <!-- SKALA BESAR Section -->
+            <section class="plan plan-gap">
+                <div class="image-plan-cont">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/skala-besar.webp" alt="skala besar price">
+                </div>
+
+                <div class="desc-plan-cont">
+                    <h2 class="plan-title skala-besar-color">Large Scale Web 制作Plan</h2>
+                    <p class="plan-desc">大規模なコーポレートWebやサービスWebが対象</p>
+
+                    <!-- Kontainer Deskripsi Waktu -->
+                    <div class="desc-waktu">
+                        <!-- Masa Produksi -->
+                        <div class="sub-container-desc">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-masa-produksi">
+                                <h3 class="desc-title">制作期間</h3>
+                                <p class="desc-value">2.5ヶ月〜4ヶ月</p>
+                            </div>
+
+                        </div>
+
+                        <!-- Jumlah Halaman -->
+                        <div class="sub-container-desc extra-width">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-jumlah-halaman">
+                                <h3 class="desc-title">ページ数</h3>
+                                <p class="desc-value">50ページ以上</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- Kontainer Cakupan Pekerjaan -->
+                    <div class="cakupan-pekerjaan">
+                        <div class="sub-cakupan-pekerjaan">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-cakupan-pekerjaan">
+                                <h3 class="desc-title">作業内容</h3>
+                                <ul class="cakupan-pekerjaan-list">
+                                    <li>
+                                        デザイン、HTMLコーディング、標準的なSEO対策、CMS構築、QA、インフラ設定、Securityアセスメント（*詳細なPentestは別料金）、公開作業
+                                    </li>
+
+                                    <li>
+                                        オープンソースCMS or 当社独自CMS or PHPフレームワークで構築
+                                    </li>
+
+                                    <li>
+                                        原則、素材は提供いただきます。
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Biaya Kontainer -->
+                    <div class="desc-biaya">
+                        <!-- Biaya -->
+                        <div class="sub-container-biaya">
+                            <h3 class="biaya-title">制作費用</h3>
+                            <p class="biaya-value">80 juta - 150 juta IDR</p>
+                        </div>
+
+                        <!-- Button Container -->
+                        <div class="sub-container-biaya">
+                            <a target="_blank" href="/jp/contact.php">
+                                <div class="button-biaya">
+                                    Contact Us
+                                </div>
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Produk Strategis Section -->
+            <section class="plan plan-reverse plan-gap">
+                <div class="image-plan-cont">
+                    <img class="plan-image" loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/strategicimg.webp" alt="harga plan strategis">
+                </div>
+
+                <div class="desc-plan-cont">
+                    <h2 class="plan-title skala-strategis-color">Strategic Web Creation Plan</h2>
+                    <p class="plan-desc">
+                        Web戦略を策定した上で戦略に沿ったWebを制作します。
+                    </p>
+
+                    <!-- Kontainer Deskripsi Waktu -->
+                    <div class="desc-waktu">
+                        <!-- Masa Produksi -->
+                        <div class="sub-container-desc">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-masa-produksi">
+                                <h3 class="desc-title">制作期間</h3>
+                                <p class="desc-value">3ヶ月〜5ヶ月</p>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+                    <!-- Kontainer Cakupan Pekerjaan -->
+                    <div class="cakupan-pekerjaan">
+                        <div class="sub-cakupan-pekerjaan">
+                            <div class="checklist-img">
+                                <img loading="lazy" src="/layanan/assets/img/img-webdev/webdev-service/checklist.svg" alt="checklist price">
+                            </div>
+
+                            <div class="desc-cakupan-pekerjaan">
+                                <h3 class="desc-title">作業内容</h3>
+                                <ul class="cakupan-pekerjaan-list">
+                                    <li>
+                                        アニメーション制作などスコープに限界はありません。ご要望に応じて、また競合他社と差別化するために必要なものを制作します。
+                                    </li>
+
+                                    <li>
+                                        当社コンサルタントが御社のマーケティング 部門や広報部門などとプロジェクト運営しま す。
+                                    </li>
+
+                                    <li>
+                                        まず企画・要件定義フェーズ（1ヶ月程度）を先に実施させていただき、そこで制作スコープ・期間・金額をご提案します。
+                                    </li>
+
+                                    <li>
+                                        数回のコンサルティングセッションを経て戦略策定します。
+                                    </li>
+
+                                    <li>
+                                        企画・戦略策定フェーズの納品物は、カスタマージャニー、ペルソナ分析、現状Webアクセス分析、ブランドコンセプト定義書、ブランドメッセージ定義、サイトマップ、コンテンツ設計書、ワイヤーフレーム、デザインガイドライン、などとなります。（プロジェクトに合わせて変動します）
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Biaya Kontainer -->
+                    <div class="desc-biaya">
+                        <!-- Biaya -->
+                        <div class="sub-container-biaya">
+                            <h3 class="biaya-title">制作費用</h3>
+                            <p class="biaya-value">200 juta - 500 juta IDR</p>
+                        </div>
+
+
+                        <!-- Button Container -->
+                        <div class="sub-container-biaya">
+                            <a target="_blank" href="/jp/contact.php">
+                                <div class="button-biaya">
+                                    Contact Us
+                                </div>
+
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- PROSES ALUR KERJA BLOCK -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/alur-kerja-style.css" media="all">
+            <section class="alur-kerja-cont">
+                <h3 class="title-alur-kerja">ヒアリングから初回のご提案までの流れ とWeb制作料金単価の目安</h3>
+            </section>
+
+            <!-- Table Schedule -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/table-schedule.css" media="all">
+            <section class="plan-schedule">
+                <div class="schedule-cont bg-cream">
+                    <div class="title-schedule-cont">
+                        <p class="schedule-title">
+                            ヒアリング・初回ご提案
+                        </p>
+                    </div>
+
+                    <div class="desc-schedule-cont">
+                        <p class="schedule-desc">
+                            無料ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。
+                        </p>
+                    </div>
+                </div>
+
+                <div class="schedule-cont bg-grey">
+                    <div class="title-schedule-cont">
+                        <p class="schedule-title">
+                            その他制作諸費用の目安
+                        </p>
+                    </div>
+
+                    <div class="desc-schedule-cont">
+                        <p class="schedule-desc">
+                            当社の価格は、作業の難易度やスケジュールの緊急度などによって幅がありますが、個別の作業依頼は以下のようになります。あくまで目安としてお考えください。
+                        </p>
+                    </div>
+                </div>
+            </section>
+
+
+
+            <!-- Table Price -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/table-price.css" media="all">
+            <section class="table-container">
+                <table class="table=price-x">
+                    <tr>
+                        <th>Service</th>
+                        <th>Price </th>
+                        <th>Description</th>
+                    </tr>
+                    <tr>
+                        <td>HTML / CSS コーディング (1サイト）</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>@Webサイトの構成によりますが、通常のコーポレートWeb（合計10ページ程度まで）ですと15,000,000 IDRで全ページHTML/CSSマークアップすることが可能です。標準的なコーディングをしますしGAタグの設置やご指定のメタタグ記述もいたします。</td>
+                    </tr>
+                    <tr>
+                        <td>HTML / CSS コーディング(1ページあたり）</td>
+                        <td>500,000 IDR ~</td>
+                        <td>ページ内コンテンツのボリュームや構成により大きく異なる可能性はありますが、目安としては1ページ500,000 IDRとお考えください。10ページあるWebサイトのデザインとコンテンツが全て準備出来ている場合、5,000,000 IDRで全てコーディングすることが可能です。</td>
+                    </tr>
+                    <tr>
+                        <td>モーションコーディング</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>新規事業でロゴがまだない場合などがあります。複数パターンを作成しながら理想のロゴに近づけるご支援をしんがら完成まで導きます</td>
+                    </tr>
+                    <tr>
+                        <td>ロゴ・イラスト作成</td>
+                        <td>10,000,000 IDR 〜</td>
+                        <td>JQueryやHTML5などを使用したパララックス効果をつける動きなどのビジュアルプログラミングを行います。</td>
+                    </tr>
+                    <tr>
+                        <td>オンラインチャット機能</td>
+                        <td>5,000,000 IDR ~</td>
+                        <td>オンラインチャットツールを御社WebサイトにImplementします。</td>
+                    </tr>
+                    <tr>
+                        <td>お問い合わせページ最適化</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</td>
+                    </tr>
+                    <tr>
+                        <td>採用ページ最適化</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。
+                            <span style="color: #1985D6;">詳細はこちら。</span>
+                            採用業務を効率的に行うためのクラウドツールの販売もしています。Sugoi Saiyo
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>ショッピング・カート機能作成</td>
+                        <td>20,000,000 IDR 〜</td>
+                        <td>E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>ペイメントゲートウェイ連携</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>API作成</td>
+                        <td>15,000,000 IDR 〜</td>
+                        <td>他システムや他Webサイト、モバイルアプリ、サービスとの機能・情報連携のためにAPI作成を行います。送受信されるデータ形式（XML,HTML,JSONなど）に合わせ開発します。</td>
+                    </tr>
+                    <tr>
+                        <td>コンテンツ作成</td>
+                        <td>ご相談ください</td>
+                        <td>定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>写真撮影</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。</td>
+                    </tr>
+                    <tr>
+                        <td>ドローン撮影</td>
+                        <td>5,000,000 IDR 〜</td>
+                        <td>1撮影場所、1フライト、撮影時間15分まで、成果物動画データ。飛行許可取得などは含んでいません。</td>
+                    </tr>
+                    <tr>
+                        <td>動画撮影編集</td>
+                        <td>20,000,000 IDR 〜</td>
+                        <td>グラフィックのみで制作する動画から、撮影を行い制作するムービーまで、様々なニーズにお応えします。</td>
+                    </tr>
+                </table>
+            </section>
+
+            <!-- Detail Contacts -->
+            <a class="landing-contact" target="_blank" href="/jp/contact.php">
+                <section class="contact-detail-cont">
+                    <h3 class="title-contact-detail">こちらから詳細なお見積りをご相談いただけます</h3>
+                </section>
+            </a>
+
+            <!-- Table Price -->
+            <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/sosmed-section.css" media="all">
+            <section class="sosmed-section">
+                <div class="facebook-section">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/facebookads.png" alt="facebook banner">
+                </div>
+                <div class="linkedin-section">
+                    <img loading="lazy" src="/layanan/assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
+                </div>
+            </section>
+        </div>
+
+        <?php include '../footer.php'; ?>
     </div>
-    <section class="miniplan">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 img-container">
-                    <picture>
-                        <source srcset="assets/img/img-webdev/webdev-service/11.webp">
-                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/11.png" alt="">
-                    </picture>
-                </div>
-                <div class="col-md-8 content-container">
-                    <div class="title-container">
-                        <p>クイック制作Plan</p>
-                    </div>
-                    <p class="content">簡易なWebやランディングページ</p>
-                    <div class="detail-requirement">
-                        <div class="detail-container detail-period">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>制作期間</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>〜1ヶ月程度</span>
-                            </div>
-                        </div>
-                        <div class="detail-container detail-page">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>ページ数</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>５ページ程度まで</span>
-                            </div>
-                        </div>
-                        <div class="detail-container detail-margin detail-work">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>作業内容</span>
-                            </div>
-                            <div class="detail-content detail-list">
-                                <p>• デザイン、HTMLコーディング、標準的なSEO対策、調整＆テスト、公開作業</p>
-                                <p>• 素材は全てご用意いただきます。</p>
-                                <p>• Static Webが原則</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="detail-contact">
-                        <div class="price-container">
-                            <p class="title">制作費用</p>
-                            <p class="price">15 juta 〜 30 juta IDR</p>
-                        </div>
-                        <div class="button-container">
-                            <a href="/jp/contact.php">
-                                <p>Contact Us</p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="standardplan">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 content-container">
-                    <div class="title-container">
-                        <p>スタンダード制作Plan</p>
-                    </div>
-                    <p class="content">スタンダードなコーポレートWebやサービスWeb</p>
-                    <div class="detail-requirement">
-                        <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>制作期間</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>1ヶ月〜2.5ヶ月（素材のご準備速度に依存します）</span>
-                            </div>
-                        </div>
-                        <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>ページ数</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>20ページ程度まで</span>
-                            </div>
-                        </div>
-                        <div class="detail-container detail-margin">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>作業内容</span>
-                            </div>
-                            <div class="detail-content detail-list">
-                                <p>•	デザイン、HTMLコーディング、CMSフィッティング、標準的なSEO対策、調整＆テスト、公開作業</p>
-                                <p>•	Static Web or Wordpress or 当社独自CMS</p>
-                                <p>•	原則、素材は提供いただきます。</p>
-                                <p>	*お客様都合で4ヶ月を超えることになる場合には追加費用が必要となるケースがあります。</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="detail-contact">
-                        <div class="price-container">
-                            <p class="title">制作費用</p>
-                            <p class="price">30 juta 〜 60 juta IDR</p>
-                        </div>
-                        <div class="button-container">
-                            <a href="/jp/contact.php">
-                                <p>Contact Us</p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 img-container">
-                    <picture>
-                        <source srcset="assets/img/img-webdev/webdev-service/22.webp">
-                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/22.png" alt="">
-                    </picture>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="largeplan">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/33.png" alt="">
-                </div>
-                <div class="col-md-8 content-container">
-                    <div class="title-container">
-                        <p>Large Scale Web 制作Plan</p>
-                    </div>
-                    <p class="content">大規模なコーポレートWebやサービスWebが対象</p>
-                    <div class="detail-requirement">
-                        <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>制作期間</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>2.5ヶ月〜4ヶ月</span>
-                            </div>
-                        </div>
-                        <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>ページ数</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>50ページ以上</span>
-                            </div>
-                        </div>
-                        <div class="detail-container detail-margin">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>作業内容</span>
-                            </div>
-                            <div class="detail-content detail-list">
-                                <p>•	デザイン、HTMLコーディング、標準的なSEO対策、CMS構築、QA、インフラ設定、Securityアセスメント（*詳細なPentestは別料金）、公開作業</p>
-                                <p>•	オープンソースCMS or 当社独自CMS or PHPフレームワークで構築</p>
-                                <p>•	原則、素材は提供いただきます。</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="detail-contact">
-                        <div class="price-container">
-                            <p class="title">制作費用</p>
-                            <p class="price">80 juta 〜 150 juta IDR</p>
-                        </div>
-                        <div class="button-container">
-                            <a href="/jp/contact.php">
-                                <p>Contact Us</p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="strategicplan">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 content-container">
-                    <div class="title-container">
-                        <p>Strategic Web Creation Plan</p>
-                    </div>
-                    <p class="content">Web戦略を策定した上で戦略に沿ったWebを制作します。</p>
-                    <div class="detail-requirement">
-                        <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>制作期間</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>3ヶ月〜5ヶ月</span>
-                            </div>
-                        </div>
-                        <div class="detail-container">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>ページ数</span>
-                            </div>
-                            <div class="detail-content">
-                                <span>-</span>
-                            </div>
-                        </div>
-                        <div class="detail-container detail-margin">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-service/checklist.svg" alt="">
-                            <div class="detail-title">
-                                <span>作業内容</span>
-                            </div>
-                            <div class="detail-content detail-list">
-                                <p>•	アニメーション制作などスコープに限界はありません。ご要望に応じて、また競合他社と差別化するために必要なものを制作します。</p>
-                                <p>•	当社コンサルタントが御社のマーケティング	部門や広報部門などとプロジェクト運営しま	す。</p>
-                                <p>•	まず企画・要件定義フェーズ（1ヶ月程度）を先に実施させていただき、そこで制作スコープ・期間・金額をご提案します。</p>
-                                <p>•	数回のコンサルティングセッションを経て戦略策定します。</p>
-                                <p>•	企画・戦略策定フェーズの納品物は、カスタマージャニー、ペルソナ分析、現状Webアクセス分析、ブランドコンセプト定義書、ブランドメッセージ定義、サイトマップ、コンテンツ設計書、ワイヤーフレーム、デザインガイドライン、などとなります。（プロジェクトに合わせて変動します）</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="detail-contact">
-                        <div class="price-container">
-                            <p class="title">制作費用</p>
-                            <p class="price">200 juta 〜 500 juta IDR</p>
-                        </div>
-                        <div class="button-container">
-                            <a href="/jp/contact.php">
-                                <p>Contact Us</p>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 img-container">
-                    <img loading="lazy" src="assets/img/img-webdev/webdev-service/44.png" alt="">
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="promo">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="promo-container">
-                        <img loading="lazy" src="assets/img/img-webdev/webdev-service/promo.png" alt="">
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="promo-list promo-odd">
-                        <div class="promo-title">
-                            <p>ヒアリング・初回ご提案</p>
-                        </div>
-                        <div class="promo-content">
-                            <p>無料ご提案するためのやりとりや打ち合わせを含みます。通常、ご提案段階でのデザイン制作はしておりません。どうしてもラフデザインの制作が必要な場合、提案デザイン制作費をいただく場合があります。</p>
-                        </div>
-                    </div>  
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="promo-list">
-                        <div class="promo-title">
-                            <p>その他制作諸費用の目安</p>
-                        </div>
-                        <div class="promo-content">
-                            <p>当社の価格は、作業の難易度やスケジュールの緊急度などによって幅がありますが、個別の作業依頼は以下のようになります。あくまで目安としてお考えください。</p>
-                        </div>
-                    </div>  
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="datatable">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="table-responsive table-data">
-                        <table class="table table-striped">
-                            <thead>
-                                <tr>
-                                    <th scope="col">Service</th>
-                                    <th scope="col">Price </th>
-                                    <th scope="col">Description</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>HTML / CSS コーディング (1サイト）</td>
-                                    <td>15,000,000 IDR 〜</td>
-                                    <td>@Webサイトの構成によりますが、通常のコーポレートWeb（合計10ページ程度まで）ですと15,000,000 IDRで全ページHTML/CSSマークアップすることが可能です。標準的なコーディングをしますしGAタグの設置やご指定のメタタグ記述もいたします。</td>
-                                </tr>
-                                <tr>
-                                    <td>HTML / CSS コーディング(1ページあたり）</td>
-                                    <td>500,000 IDR ~</td>
-                                    <td>ページ内コンテンツのボリュームや構成により大きく異なる可能性はありますが、目安としては1ページ500,000 IDRとお考えください。10ページあるWebサイトのデザインとコンテンツが全て準備出来ている場合、5,000,000 IDRで全てコーディングすることが可能です。</td>
-                                </tr>
-                                <tr>
-                                    <td>モーションコーディング</td>
-                                    <td>5,000,000 IDR 〜</td>
-                                    <td>新規事業でロゴがまだない場合などがあります。複数パターンを作成しながら理想のロゴに近づけるご支援をしんがら完成まで導きます</td>
-                                </tr>
-                                <tr>
-                                    <td>ロゴ・イラスト作成</td>
-                                    <td>10,000,000 IDR 〜</td>
-                                    <td>JQueryやHTML5などを使用したパララックス効果をつける動きなどのビジュアルプログラミングを行います。</td>
-                                </tr>
-                                <tr>
-                                    <td>オンラインチャット機能</td>
-                                    <td>5,000,000 IDR ~</td>
-                                    <td>オンラインチャットツールを御社WebサイトにImplementします。</td>
-                                </tr>
-                                <tr>
-                                    <td>お問い合わせページ最適化</td>
-                                    <td>15,000,000 IDR 〜</td>
-                                    <td>お問い合わせページのコンテンツの最適化、フォーム最適化により、問い合わせ数の最大化、ドロップ率の最小化を実現します。</td>
-                                </tr>
-                                <tr>
-                                    <td>採用ページ最適化</td>
-                                    <td>15,000,000 IDR 〜</td>
-                                    <td>採用ページのコンテンツを最適化してWeb経由の応募数を増やします。採用サイトを特設サイトとして構築することも可能です。 
-                                        <span style="color: #1985D6;">詳細はこちら。</span>    
-                                        採用業務を効率的に行うためのクラウドツールの販売もしています。Sugoi Saiyo</td>
-                                </tr>
-                                <tr>
-                                    <td>ショッピング・カート機能作成</td>
-                                    <td>20,000,000 IDR 〜</td>
-                                    <td>E-Commerceフレームワークを使用してショッピング機能を御社のWebに付与します。要件によって大きな幅が出ますので詳細はご相談ください。</td>
-                                </tr>
-                                <tr>
-                                    <td>ペイメントゲートウェイ連携</td>
-                                    <td>15,000,000 IDR 〜</td>
-                                    <td>インドネシアで利用可能な各社のペイメントゲートウェイサービスとの連携機能構築の実績があります。サブスクリプション決済なども可能ですのでご相談ください。</td>
-                                </tr>
-                                <tr>
-                                    <td>API作成</td>
-                                    <td>15,000,000 IDR 〜</td>
-                                    <td>他システムや他Webサイト、モバイルアプリ、サービスとの機能・情報連携のためにAPI作成を行います。送受信されるデータ形式（XML,HTML,JSONなど）に合わせ開発します。</td>
-                                </tr>
-                                <tr>
-                                    <td>コンテンツ作成</td>
-                                    <td>ご相談ください</td>
-                                    <td>定期的なコンテンツ作成運用もワンショットのコンテンツ作成（Webサイト作成時のコンテンツ作成）も可能です。ボリューム、作成するコンテンツの特殊性、作成コンテンツの言語、などによって料金に幅がありますのでご相談ください。</td>
-                                </tr>
-                                <tr>
-                                    <td>写真撮影</td>
-                                    <td>5,000,000 IDR 〜</td>
-                                    <td>1撮影場所、カット数5〜10、撮影時間4時間までで5,000,000 IDRとなります。屋外や工場内での撮影などは詳細をご相談ください。</td>
-                                </tr>
-                                <tr>
-                                    <td>ドローン撮影</td>
-                                    <td>5,000,000 IDR 〜</td>
-                                    <td>1撮影場所、1フライト、撮影時間15分まで、成果物動画データ。飛行許可取得などは含んでいません。</td>
-                                </tr>
-                                <tr>
-                                    <td>動画撮影編集</td>
-                                    <td>20,000,000 IDR 〜</td>
-                                    <td>グラフィックのみで制作する動画から、撮影を行い制作するムービーまで、様々なニーズにお応えします。</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <a href="/jp/contact.php">
-                        <div class="slogan-container">
-                            <p>
-                                こちらから詳細なお見積りをご相談いただけます
-                            </p>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="gallery">
-        <div class="container">
-            <div class="row ads-container">
-                <div class="col-md-6 col-sm-6">
-                    <a href="https://www.facebook.com/logique.id/" target="_blank">
-                        <img loading="lazy" src="assets/img/img-webdev/facebookads.png" alt="">
-                    </a>
-                </div>
-                <div class="col-md-6 col-sm-6">
-                     <a href="https://www.linkedin.com/company/13420656" target="_blank">
-                        <img loading="lazy" src="assets/img/img-webdev/linkedinads.png" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
-    <?php include '../footer.php'; ?>
 
-    <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
-    <script type="text/javascript">
-    $(function() {
-        $('.smooth').click(function() {
-            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname ==
-                this.hostname) {
-                var target = $(this.hash);
-                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-                if (target.length) {
-                    $('html, body').animate({
-                        scrollTop: target.offset().top
-                    }, 1000);
-                    return false;
-                }
-            }
-        });
-    });
-    </script>
-    <script type="text/javascript">
-        // Instantiate the Bootstrap carousel
-        $('.multi-item-carousel').carousel({
-        interval: false
-        });
+</body>
 
-        // for every slide in carousel, copy the next slide's item in the slide.
-        // Do the same for the next, next item.
-        $('.multi-item-carousel .item').each(function(){
-        var next = $(this).next();
-        if (!next.length) {
-            next = $(this).siblings(':first');
-        }
-        next.children(':first-child').clone().appendTo($(this));
-        
-        // if (next.next().length>0) {
-        //     next.next().children(':first-child').clone().appendTo($(this));
-        // } else {
-        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
-        // }
-        });
-    </script>
 </html>
