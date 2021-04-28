@@ -45,13 +45,13 @@ if (isset($_POST['submitted'])) {
     <meta name="keywords" content="jasa pembuatan website, jasa pembuatan website profesional, jasa pembuatan website jakarta">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/web-dev.php" />
+    <link rel="canonical" href="https://www.logique.co.id/layanan/jasa-pembuatan-website.php" />
 
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Jasa Pembuatan Website Profesional di Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/web-dev.php">
+    <meta property="og:url" content="https://www.logique.co.id/layanan/jasa-pembuatan-website.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="Jasa pembuatan website profesional dan terbaik di Jakarta. Untuk pembuatan website perusahaan di bidang otomotif, e-commerce, asuransi & lainnya | LOGIQUE">
     <title>Jasa Pembuatan Website Profesional di Jakarta | LOGIQUE</title>

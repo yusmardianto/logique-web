@@ -60,7 +60,7 @@
         <h3 class="text-center">Layanan Lainnya</h3>
         <div class="row other-service__list">
             <div class="col-sm-3">
-                <a href="/layanan/web-dev.php" class="list__item">
+                <a href="/layanan/jasa-pembuatan-website.php" class="list__item">
                     <!-- <img src="en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive"> -->
                     <h4>Jasa Pembuatan Website</h4>
                     <p><strong>LOGIQUE</strong> adalah perusahaan pengembangan situs web yang berupaya meningkatkan bisnis Anda.</p>

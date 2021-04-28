@@ -90,7 +90,7 @@ if(isset($_POST['submitted']))
         <?php 
             $lang = 'en';
             $en_link = '#';
-            $id_link = '/layanan/web-dev.php';
+            $id_link = '/layanan/jasa-pembuatan-website.php';
             $jp_link = '/jp/services/web-dev.php';
             include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
         ?>
