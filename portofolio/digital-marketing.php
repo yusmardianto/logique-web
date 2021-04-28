@@ -190,9 +190,9 @@
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')" data-toggle="modal" data-target="#modal-pilipili">
-                                        <img src="/img/portfolio/update/dm-pilipili.png" alt="">
-                                        <h4>E Commerce - Pilipili</h4>
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
+                                        <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
+                                        <h4>Company Profile - Ishida</h4>
                                         <p>SEO | Website Maintenance</p>
                                     </div>
                                 </div>
