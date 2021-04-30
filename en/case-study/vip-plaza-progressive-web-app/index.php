@@ -15,7 +15,9 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia helped VIP Plaza Indonesia in Progressive Web Apps (PWA) development for their e-commerce site. Highly stable, secured, fast, with great UI and UX for users. Learn the case study in creating 'an app without install' here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/en/case-study/vip-plaza-progressive-web-app/">
+
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
