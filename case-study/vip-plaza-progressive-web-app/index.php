@@ -16,6 +16,7 @@
     <meta property="og:description" content="LOGIQUE merupakan salah satu pengembang Progressive Web App (PWA) terbaik di Indonesia. Salah satu contoh PWA yang berhasil dikembangkan adalah VIP Plaza. ">
     <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/vip-plaza-progressive-web-app/">
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -326,7 +327,7 @@
                 </a>
               </div>
               <div>
-                <a href="/layanan/web-dev.php" class="btn--cs-bottom">
+                <a href="/layanan/jasa-pembuatan-website.php" class="btn--cs-bottom">
                   <picture>
                     <source srcset="/case-study/img/icon/btn-web-dev.svg">
                     <img src="/case-study/img/icon/btn-web-dev.png" alt="">

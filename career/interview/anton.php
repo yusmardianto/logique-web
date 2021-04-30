@@ -6,20 +6,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Staff terbaik kami di divisi Digital Marketing memberikan pesan untuk para kandidat yang ingin melamar sebagai Frontend Developer di LOGIQUE terkait kemampuan apa saja yang dicari oleh kami sehingga dapat terus berkembang bersama kami. Segera kunjungi website karir LOGIQUE sekarang juga!">
+    content="Staff terbaik kami pada posisi CTO memberikan pesan untuk para kandidat Frontend Developer yang ingin bergabung bersama LOGIQUE agar dapat terus berkembang.">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Interview Digital Marketing | Pesan Untuk Kandidat | LOGIQUE">
+  <meta property="og:title" content="Interview CTO | Pesan Untuk Kandidat | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Staff terbaik kami di divisi Frontend Developer memberikan pesan untuk para kandidat yang ingin melamar sebagai Frontend Developer di LOGIQUE terkait kemampuan apa saja yang dicari oleh kami sehingga dapat terus berkembang bersama kami. Segera kunjungi website karir LOGIQUE sekarang juga!">
+    content="Staff terbaik kami pada posisi CTO memberikan pesan untuk para kandidat Frontend Developer yang ingin bergabung bersama LOGIQUE agar dapat terus berkembang.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   
-  <title>Interview Digital Marketing | Pesan Untuk Kandidat | LOGIQUE</title>
+  <title>Interview CTO | Pesan Untuk Kandidat | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">

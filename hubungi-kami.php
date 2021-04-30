@@ -1030,7 +1030,7 @@ if (isset($_POST['submitted'])) {
                                 <div class="panel panel-default">
                                     <div class="panel-heading" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse1">
                                         <dt class="panel-title">
-                                            <i class="fa fa-question-circle">&nbsp;</i><a>Saya ingin mengetahui rentan harga
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>Saya ingin mengetahui rentang harga
                                                 layanan
                                                 LOGIQUE.</a>
                                         </dt>
@@ -1039,7 +1039,7 @@ if (isset($_POST['submitted'])) {
                                         <div class="panel-body">
                                             Harga layanan tergantung pada kebutuhan Anda. Untuk melihat kisaran harga untuk
                                             pengembangan Website,
-                                            kunjungilah halaman ini: <a href="https://www.logique.co.id/layanan/web-dev.php" target="blank"><strong><i>Kisaran Harga Pengembangan Web LOGIQUE</i></strong></a>.
+                                            kunjungilah halaman ini: <a href="https://www.logique.co.id/layanan/jasa-pembuatan-website.php" target="blank"><strong><i>Kisaran Harga Pengembangan Web LOGIQUE</i></strong></a>.
                                             Harap dicatat bahwa Informasi yang tertera hanyalah kisaran umum.
                                             Kami akan memberikan perkiraan yang lebih terperinci setelah mengetahui kebutuhan
                                             Anda.
@@ -1146,7 +1146,7 @@ if (isset($_POST['submitted'])) {
                                     <div class="panel-heading">
                                         <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse7">
                                             <i class="fa fa-question-circle">&nbsp;</i><a>
-                                                Kami ingin mengebangkan sistem managemen untuk bisnis kami.
+                                                Kami ingin mengembangkan sistem managemen untuk bisnis kami.
                                             </a>
                                         </dt>
                                     </div>

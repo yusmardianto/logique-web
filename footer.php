@@ -61,7 +61,7 @@
                                     <li><a href="/logique.php">Tentang Kami</a> </li>
                                     <li class="have-submenu"><a href="/layanan.php">Layanan</a>
                                         <ul>
-                                        <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan  Website</a> </li>
+                                        <li class="have-submenu"><a href="/layanan/jasa-pembuatan-website.php" target="_blank">Jasa Pembuatan  Website</a> </li>
                                         <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
                                         <li><a href="/layanan/pembuatan-progressive-web-app.php" target="_blank">Jasa Pembuatan PWA</a> </li>
                                         <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>

@@ -289,7 +289,7 @@
                     <div class="row container__">
                         <div class="col-md-12">
                             <div class="web-solution__btn-wrapper --inline-model">
-                                <a href="layanan/web-dev.php">
+                                <a href="layanan/jasa-pembuatan-website.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/web.png" alt="">
@@ -399,7 +399,7 @@
                                         <h3 class="service-detail__title">Pengembangan / Pembaharuan Website</h4>
                                             <p>Kami dapat membantu Anda untuk menciptakan sebuah website profesional yang efektif untuk menyampaikan nilai-nilai perusahaan Anda. Kami juga menyediakan layanan pembelian domain, web server, SSL, layanan fotografi atau pembuatan video, serta pembuatan konten website sesuai dengan kebutuhan yang Anda inginkan. Sampai saat ini, jasa pembuatan website yang kami berikan telah menjangkau beragam jenis usaha. Dalam proses pengembangannya, kami akan selalu memberikan solusi kreatif dan fungsional sesuai dengan perkembangan teknologi dan tren terkini di dunia digital.</p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="layanan/web-dev.php">Pelajari Lebih Lanjut
+                                                <a class="main-btn --yellow" href="layanan/jasa-pembuatan-website.php">Pelajari Lebih Lanjut
                                                     <span class="hidden-xs">Tentang Pembuatan Website</span></a>
                                             </div>
                                     </div>

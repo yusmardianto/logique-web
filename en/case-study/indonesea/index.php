@@ -15,12 +15,13 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="PT. Jelajah Bahari Indonesia (Indonesea) has entrusted LOGIQUE with developing the Indonesea.id website by using an efficient Dive Booking System.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  </script>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&amp;display=swap" rel="stylesheet">
 	ga('create', 'UA-105878648-1', 'auto');
 	ga('send', 'pageview');

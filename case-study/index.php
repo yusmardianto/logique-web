@@ -26,7 +26,7 @@
     content="Daftar klien Logique Digital Indonesia untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="/case-study/assets/favicon.ico">
-  <link rel="canonical" href="https://www.logique.co.id/" />  
+  <link rel="canonical" href="https://www.logique.co.id/case-study/" />  
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://connect.facebook.net/en_US/fbevents.js">
   <script>
