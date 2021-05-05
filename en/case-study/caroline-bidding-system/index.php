@@ -14,7 +14,8 @@
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE developed a quality car trading system & online bidding system for Caroline. Create a System for Your Business with LOGIQUE.">
-	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

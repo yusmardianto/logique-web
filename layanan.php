@@ -127,8 +127,14 @@
                 <div class="container__">
                     <a href="/layanan/dx-dm-service.php">
                         <picture>
-                            <source srcset="/img/dx-dm-banner-id.webp" type="image/webp">
-                            <img src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive">
+                            <!-- webp -->
+                            <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.webp" type="image/webp">
+                            <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.webp" type="webp">
+
+                            <!-- jpeg -->
+                            <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.jpg" type="image/jpeg">
+                            <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.jpg" type="image/jpeg">
+                            <img srcset="/img/dx-dm-banner-id-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive" style="width: 100%;">
                         </picture>
                     </a>
                 </div>
@@ -147,33 +153,48 @@
                                         <p class="service-list__title">Pembuatan Website</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#webCreate_revamp">
-                                            <li>Pengembangan / Pembaharuan Website</li>
-                                        </a>
-                                        <a href="#webCreate_multi">
-                                            <li>Pembuatan Website Multi Bahasa</li>
-                                        </a>
-                                        <a href="#webCreate_webService">
-                                            <li>Pembuatan / Pengoperasian Web Media</li>
-                                        </a>
-                                        <a href="#webCreate_recruit">
-                                            <li>Pembuatan Website Rekrutmen</li>
-                                        </a>
-                                        <a href="#webCreate_restaurant">
-                                            <li>Website Restoran</li>
-                                        </a>
-                                        <a href="#webCreate_dental">
-                                            <li>Website Klinik Gigi</li>
-                                        </a>
+                                        <li>
+                                            <a href="#webCreate_revamp">
+                                                Pengembangan / Pembaharuan Website
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#webCreate_multi">
+                                                Pembuatan Website Multi Bahasa
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#webCreate_webService">
+                                                Pembuatan / Pengoperasian Web Media
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#webCreate_recruit">
+                                                Pembuatan Website Rekrutmen
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#webCreate_restaurant">
+                                                Website Restoran
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#webCreate_dental">
+                                                Website Klinik Gigi
+                                            </a>
+                                        </li>
                                         <!-- <a href="#webCreate_responsive">
                                             <li>Website dengan Desain Responsif</li>
                                         </a>
                                         <a href="#webCreate_landing">
                                             <li>Halaman Landing / Kampanye</li>
                                         </a> -->
-                                        <a href="#webCreate_blog">
-                                            <li>Website berbasis Wordpress</li>
-                                        </a>
+                                        <li>
+                                            <a href="#webCreate_blog">
+                                                Website berbasis Wordpress
+                                            </a>
+                                        </li>
+                                        
                                     </ul>
                                 </div>
                             </div>
@@ -186,18 +207,26 @@
                                         <p class="service-list__title">Aplikasi Berbasis Web / Pengelolaan Website</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#sysDev_ecommerce">
-                                            <li>Pengembangan E-Commerce</li>
-                                        </a>
-                                        <a href="#sysDev_automotive">
-                                            <li>Pengembangan Sistem untuk Industri Otomotif</li>
-                                        </a>
-                                        <a href="#sysDev_cms">
-                                            <li>Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)</li>
-                                        </a>
-                                        <a href="#sysDev_member">
-                                            <li>Sistem Manajemen Pelanggan / Pengembangan Sistem Akunting</li>
-                                        </a>
+                                        <li>
+                                            <a href="#sysDev_ecommerce">
+                                                Pengembangan E-Commerce
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#sysDev_automotive">
+                                                Pengembangan Sistem untuk Industri Otomotif
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#sysDev_cms">
+                                                Pengembangan dan Pengelolaan Sistem Manajemen Konten (CMS)
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#sysDev_member">
+                                                Sistem Manajemen Pelanggan / Pengembangan Sistem Akunting
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -210,15 +239,21 @@
                                         <p class="service-list__title">Solusi Mobile</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#mobile_pwa">
-                                            <li>Pengembangan PWA (Progressive Web App)</li>
-                                        </a>
-                                        <a href="#mobile_appDev">
-                                            <li>Pengembangan Mobile App</li>
-                                        </a>
-                                        <a href="#mobile_appCreate">
-                                            <li>Pembuatan Website Responsif / Mobile First</li>
-                                        </a>
+                                        <li>
+                                            <a href="#mobile_pwa">
+                                                Pengembangan PWA (Progressive Web App)
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#mobile_appDev">
+                                                Pengembangan Mobile App
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#mobile_appCreate">
+                                                Pembuatan Website Responsif / Mobile First
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -233,18 +268,26 @@
                                         <p class="service-list__title">Digital Marketing</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#dm_seo">
-                                            <li>SEO / SEM</li>
-                                        </a>
-                                        <a href="#dm_itConsult">
-                                            <li>Pengoperasian Iklan Digital</li>
-                                        </a>
-                                        <a href="#dm_contentCreate">
-                                            <li>Pembuatan Konten Website</li>
-                                        </a>
-                                        <a href="#dm_digiMarket">
-                                            <li>Optimasi Landing Page</li>
-                                        </a>
+                                        <li>
+                                            <a href="#dm_seo">
+                                                SEO / SEM
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#dm_itConsult">
+                                                Pengoperasian Iklan Digital
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#dm_contentCreate">
+                                                Pembuatan Konten Website
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#dm_digiMarket">
+                                                Optimasi Landing Page
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -257,9 +300,11 @@
                                         <p class="service-list__title">IT Security Service</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#webSecurity_va">
-                                            <li>Tes Keamanan Website / Mobile App (VA / Penetration Test)</li>
-                                        </a>
+                                        <li>
+                                            <a href="#webSecurity_va">
+                                                Tes Keamanan Website / Mobile App (VA / Penetration Test)
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -272,15 +317,21 @@
                                         <p class="service-list__title">Lain-lain</p>
                                     </a>
                                     <ul class="service-list__list">
-                                        <a href="#othersService_graphic">
-                                            <li>Desain Grafis</li>
-                                        </a>
-                                        <a href="#otherService_server">
-                                            <li>Pengoperasian Server Cloud (AWS / Alibaba Cloud)</li>
-                                        </a>
-                                        <a href="#otherService_itConsultant">
-                                            <li>Konsultasi Bisnis IT</li>
-                                        </a>
+                                        <li>
+                                            <a href="#othersService_graphic">
+                                                Desain Grafis
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#otherService_server">
+                                                Pengoperasian Server Cloud (AWS / Alibaba Cloud)
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#otherService_itConsultant">
+                                                Konsultasi Bisnis IT
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -289,7 +340,7 @@
                     <div class="row container__">
                         <div class="col-md-12">
                             <div class="web-solution__btn-wrapper --inline-model">
-                                <a href="layanan/web-dev.php">
+                                <a href="layanan/jasa-pembuatan-website.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/web.png" alt="">
@@ -399,7 +450,7 @@
                                         <h3 class="service-detail__title">Pengembangan / Pembaharuan Website</h4>
                                             <p>Kami dapat membantu Anda untuk menciptakan sebuah website profesional yang efektif untuk menyampaikan nilai-nilai perusahaan Anda. Kami juga menyediakan layanan pembelian domain, web server, SSL, layanan fotografi atau pembuatan video, serta pembuatan konten website sesuai dengan kebutuhan yang Anda inginkan. Sampai saat ini, jasa pembuatan website yang kami berikan telah menjangkau beragam jenis usaha. Dalam proses pengembangannya, kami akan selalu memberikan solusi kreatif dan fungsional sesuai dengan perkembangan teknologi dan tren terkini di dunia digital.</p>
                                             <div class="service-detail__btn-wrapper">
-                                                <a class="main-btn --yellow" href="layanan/web-dev.php">Pelajari Lebih Lanjut
+                                                <a class="main-btn --yellow" href="layanan/jasa-pembuatan-website.php">Pelajari Lebih Lanjut
                                                     <span class="hidden-xs">Tentang Pembuatan Website</span></a>
                                             </div>
                                     </div>

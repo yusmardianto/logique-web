@@ -328,7 +328,7 @@
                 </a>
               </div>
               <div>
-                <a href="/layanan/web-dev.php" class="btn--cs-bottom">
+                <a href="/layanan/jasa-pembuatan-website.php" class="btn--cs-bottom">
                   <picture>
                     <source srcset="/case-study/img/icon/btn-web-dev.svg">
                     <img src="/case-study/img/icon/btn-web-dev.png" alt="">

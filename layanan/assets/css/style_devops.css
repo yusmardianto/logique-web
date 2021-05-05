@@ -453,10 +453,8 @@ footer {
     height: auto;
   }
   header h1 { 
-    font-size: 24px;
-    height: 36px;
     letter-spacing: -0.35px;
-    color: #ffffff
+    color: #ffffff;
   }
   header h1 span{
     color: #ffca00; 
@@ -553,7 +551,7 @@ footer {
   }
   header h1 {
     font-size: 30px;
-    padding-top: 30px;
+    line-height: 1.2;
   }
   header .subtitle-header br {
     display: none;

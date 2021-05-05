@@ -376,7 +376,7 @@
                                 <source srcset="/layanan/assets/img/img-pwa/img-others-web.webp" type="image/webp">
                                 <img src="/layanan/assets/img/img-pwa/img-others-web.png" alt="pembuatan website" class="img-responsive mb--25px">
                             </picture>
-                            <a href="/layanan/web-dev.php" class="form-control btn btn--yellow">PEMBUATAN WEBSITE</a>
+                            <a href="/layanan/jasa-pembuatan-website.php" class="form-control btn btn--yellow">PEMBUATAN WEBSITE</a>
                         </div>
                         <div class="col-xs-12 col-sm-6 col-md-4">
                             <picture>

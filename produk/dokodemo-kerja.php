@@ -1129,7 +1129,7 @@ if(isset($_POST['submitted']))
                                  <li><a href="/logique.php">Tentang Kami</a> </li>
                                  <li class="have-submenu"><a href="/layanan.php">Layanan</a>
                                      <ul>
-                                         <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa
+                                         <li class="have-submenu"><a href="/layanan/jasa-pembuatan-website.php" target="_blank">Jasa
                                                  Pembuatan Website</a>
                                              <ul>
                                                  <li><a href="/layanan/pembuatan-web-karir.php" target="_blank">

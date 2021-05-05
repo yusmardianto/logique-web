@@ -346,9 +346,6 @@ footer .medsos-new {
     list-style: circle;
     padding-left: 0;
 }
-.link-footer-nav li:last-child {
-    padding-bottom: 0;
-}
 .link-footer-nav li ul {
     padding-left: 20px;
 }
@@ -431,7 +428,6 @@ background-size: contain;
       padding-left: 0;
     } 
     .footer-update.content-wrapper__{
-      padding-left: 0;
       margin-left: 100px;
     }
     
