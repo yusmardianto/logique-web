@@ -49,6 +49,7 @@ html {
     border-radius: 5px;
     padding: 10px;
     font-size: 16px;
+    color: black;
 }
 .study-case-banner{
     background-image: url(../img/portfolio/study-case-banner.jpg);

@@ -1,5 +1,5 @@
 ﻿<?php
-
+error_reporting(0);
 require_once("assets/form/fgcontact_webdev.php");
 
 $formproc = new FGContactForm();
@@ -61,7 +61,7 @@ if (isset($_POST['submitted'])) {
     <!-- <link href="/css/style.css" rel="stylesheet"> -->
     <link href="assets/css/style-webdev-new.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;

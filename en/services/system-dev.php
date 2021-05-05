@@ -1,4 +1,5 @@
 ﻿ <?php
+ error_reporting(0);
  require_once("assets/form/fgcontact_systemdev.php");
 
  $formproc = new FGContactForm();

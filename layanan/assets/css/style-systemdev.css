@@ -92,8 +92,9 @@ img{
     content: ">"!important;
 }
 .breadcrumb-container{
-background: #000000;
-padding:5px 0;
+    background: #000000;
+    padding:5px 0;
+
 }
 .breadcrumb--update-design {
     padding:0; 
@@ -952,7 +953,10 @@ section.content-section.seventh-part {
     }
  }
 
-@media (max-width: 762px) {
+@media (max-width: 768px) {
+    .breadcrumb-container{
+        margin-left: 0px !important;
+    }
     .whyus-accordion .panel-collapse {
         padding-left: 40px;
     }

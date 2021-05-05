@@ -22,9 +22,9 @@
 </style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">  
     <!-- End Twitter universal website tag code -->
-    <div class="container__footer">
+    <div class="container__">
         <div class="row">
-            <div class="col-md-offset-1 col-md-10 col-sm-12">
+            <div class="col-sm-offset-1 col-md-10 col-sm-11">
                 <div class="row flex-row">
                     <div class="col-md-4 col-sm-12 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">

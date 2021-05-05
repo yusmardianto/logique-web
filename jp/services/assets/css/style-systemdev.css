@@ -884,8 +884,10 @@ section.content-section.seventh-part {
 
 @media (max-width: 991px) {   }
 
-@media (max-width: 762px) { 
-  
+@media (max-width: 768px) { 
+    .breadcrumb-container{
+        margin-left: 0px !important;
+    }
     .success-service-list > .row > div:last-child {
         height: auto;
     }
