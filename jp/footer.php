@@ -103,7 +103,7 @@ footer {
     </script>
     <div class="container__footer">
         <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
+            <div class="col-sm-offset-1 col-md-10 col-sm-11">
                 <div class="row flex-row">
                     <div class="col-sm-4 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">

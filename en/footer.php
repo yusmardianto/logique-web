@@ -8,7 +8,7 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
     <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview");</script>
     <div class="container__footer">
         <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
+            <div class="col-sm-offset-1 col-md-10 col-sm-11">
                 <div class="row flex-row">
                     <div class="col-sm-4 company-info ">
                         <div itemscope itemtype="https://schema.org/Organization">

@@ -714,26 +714,17 @@ footer {
 .link-footer-nav {
   font-weight: 700;
 }
-.link-footer-nav ul li {
-  list-style: none;
-}
 .link-footer-nav ul li ul {
   padding-left: 20px;
 }
 .link-footer-nav li a {
   font-weight: normal;
-  padding-bottom: 10px;
   display: block;
 }
 .link-footer-nav .have-submenu a {
-  padding: 8px 0;
   line-height: normal;
 }
-.link-footer-nav > ul > li {
-  border-bottom: 1px dotted #666;
-}
 .link-footer-nav > ul > li > a {
-  padding: 8px 0;
   line-height: normal;
 }
 .link-footer-nav > ul > li.have-submenu > ul > li:first-child > a {

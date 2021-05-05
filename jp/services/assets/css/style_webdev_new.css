@@ -494,6 +494,9 @@ footer p:before {
     margin-right: 0;
     padding-top: 0;
   }
+  .content-wrapper__ .bg-section{
+    background: #f0f0f0 !important;
+  }
 }
 .img-about,
 .img-blog,
@@ -1291,6 +1294,9 @@ footer {
 }
 .content-wrapper__ .bg-section {
   position: relative;
+  background: url(../img/img-webdev/webdev-bg.png) no-repeat;
+  background-size: cover;
+  background-position: 30%;
 }
 .content-wrapper__ .bg-section img {
   width: 100%;
@@ -1298,15 +1304,10 @@ footer {
   position: relative;
 }
 .content-wrapper__ .bg-section .breadcrumb-section {
-  position: absolute;
   left: 135px;
 }
 .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
   padding: 10px 15px;
-}
-.content-wrapper__ .bg-section .main-section {
-  position: absolute;
-  margin-top: 64px;
 }
 .content-wrapper__ .bg-section .main-section .title {
   color: rgb(0, 0, 0);
@@ -1897,7 +1898,6 @@ section {
       left: 10px;
   }
   .content-wrapper__ .bg-section .main-section {
-      position: absolute;
       margin-top: 20px;
       padding: 0;
   }
@@ -2212,12 +2212,10 @@ header {
     margin-left: 0;
 }
 .content-wrapper__ .bg-section .breadcrumb-section {
-    position: absolute;
     left: 0;
     top: 0;
 }
 .content-wrapper__ .bg-section .main-section {
-  position: absolute;
   margin-top: 0;
   padding: 0;
   top: 0;
@@ -2651,12 +2649,10 @@ header {
     margin-left: 0;
 }
 .content-wrapper__ .bg-section .breadcrumb-section {
-    position: absolute;
     left: 0;
     top: 0;
 }
 .content-wrapper__ .bg-section .main-section {
-  position: absolute;
   margin-top: 0;
   padding: 0;
   top: 0;
@@ -3057,9 +3053,6 @@ header {
 .content-wrapper__ .--top {
   margin-top: 4.3em;
 }
-  section, header {
-      padding-left: 100px;
-  }
   header {
       height: auto !important;
   }

@@ -187,8 +187,14 @@ ini_set('display_error', 0);
         <div class="container__">
           <a href="/layanan/dx-dm-service.php">
             <picture>
-              <source srcset="/img/dx-dm-banner-id.webp" type="image/webp">
-              <img src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive">
+              <!-- webp -->
+              <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.webp" type="image/webp">
+              <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.webp" type="webp">
+
+              <!-- jpeg -->
+              <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.jpg" type="image/jpeg">
+              <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.jpg" type="image/jpeg">
+              <img srcset="/img/dx-dm-banner-id-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive" style="width: 100%;">
             </picture>
           </a>
         </div>

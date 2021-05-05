@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 
 require_once("assets/form/fgcontact_webdev.php");
 
@@ -106,9 +107,6 @@ if(isset($_POST['submitted']))
             <div class="text-left --top">
                 <div class="container-fluid">
                     <div class="row bg-section">
-                        <div class="col-md-12">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
-                        </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
                                 itemtype="http://schema.org/BreadcrumbList">
