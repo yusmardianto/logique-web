@@ -179,17 +179,6 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#webCreate_dental">
-                                                Website Klinik Gigi
-                                            </a>
-                                        </li>
-                                        <!-- <a href="#webCreate_responsive">
-                                            <li>Website dengan Desain Responsif</li>
-                                        </a>
-                                        <a href="#webCreate_landing">
-                                            <li>Halaman Landing / Kampanye</li>
-                                        </a> -->
-                                        <li>
                                             <a href="#webCreate_blog">
                                                 Website berbasis Wordpress
                                             </a>
@@ -515,21 +504,6 @@
                                     <div class="service-detail__btn-wrapper">
                                         <a class="main-btn --yellow" href="layanan/pembuatan-website-restoran/">Pelajari Lebih Lanjut
                                             <span class="hidden-xs">Tentang Pembuatan Website Restoran</span></a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="webCreate_dental">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Website Klinik Gigi</h4>
-                                    <p>Website yang Anda buat dapat membantu meningkatkan kredibilitas klinik gigi yang Anda miliki. Tidak hanya itu saja, website juga akan membantu meningkatkan popularitas secara online dan juga memudahkan pelanggan untuk menggunakan layanan dari klinik Anda. Website yang Anda buat dapat menjadi media promosi yang baik dengan jangkauan yang lebih luas tanpa ada batasan waktu.</p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a class="main-btn --yellow" href="layanan/pembuatan-website-klinik-gigi/">Pelajari Lebih Lanjut
-                                            <span class="hidden-xs">Tentang Pembuatan Website Klinik Gigi</span></a>
                                     </div>
                             </div>
                         </div>
