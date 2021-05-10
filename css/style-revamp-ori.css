@@ -621,7 +621,9 @@ b {
     padding-bottom: 0;
   }
 }
-
+.link-footer-nav li:last-child{
+  text-align: left;
+}
 /* flex row */
 .flex__row {
   display: flex;
@@ -1024,6 +1026,7 @@ b {
 }
 .footer-update a{
   color: #fff;
+  font-size: 13px;
 }
 .footer-update h3{
   font-size: 20px;
@@ -1126,7 +1129,15 @@ footer .medsos-new .facebook-icon:hover{
   background:url(../img/icon-facebook-hover.svg)  no-repeat;
   background-size: contain;
 }
-
+ul.footer-submenu{
+  margin-bottom: 20px;
+}
+.mobile-menu-container{
+  display: none;
+}
+.phone-info li img{
+  margin-right: 20px;
+}
 @media (max-width: 991.98px) {
   .footer-update p {
     line-height: 22px;
@@ -1810,6 +1821,42 @@ footer .medsos-new .facebook-icon:hover{
     .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc:nth-child(2) {
         font-size: 12px;
     }
+    .mobile-menu-container {
+      display: flex;
+      margin-bottom: 20px;
+  }
+  .mobile-menu-container ul{
+      flex: 0 0 50%;
+  }
+  .main-footer-container{
+      display: none !important;
+  }
+    .footer-extrainfo{
+      display: flex;
+      padding-top: 20px; 
+  }
+  .footer-extrainfo ul{
+      margin: 0 !important;
+      flex: 0 0 50%; 
+  }
+  .footer-extrainfo ul.medsos-new{
+      display: flex;
+      padding-left: 10px;
+
+  }
+  .mobile-menu-container  a{
+      padding:5px 0;
+      display:block ;
+  }
+  .content-wrapper__.bg--footer.footer-section{
+    padding: 0;
+  }
+  footer .flex-row{
+    display: block;
+  }
+  footer .medsos-new li{
+    padding: 0 0 0 5px !important;
+  }
 }
 
 /* end portfolio modal section */
