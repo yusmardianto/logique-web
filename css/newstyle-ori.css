@@ -1145,6 +1145,12 @@ ul.footer-submenu{
 .mobile-menu-container{
     display: none;
 }
+.main-footer-container a{
+    font-weight: bold;
+}
+.main-footer-container .footer-submenu a{
+    font-weight: normal;
+}
 /* -------------- responsive harus di bawah ini ---------------*/
 @media (max-width: 1199.98px) and (min-width: 768px) {
     .container__ {
