@@ -24,9 +24,9 @@
     <!-- End Twitter universal website tag code -->
     <div class="container__">
         <div class="row">
-            <div class="col-sm-offset-1 col-md-10 col-sm-11">
+            <div class=" col-sm-12">
                 <div class="row flex-row">
-                    <div class="col-md-4 col-sm-12 company-info">
+                    <div class="col-md-3 col-sm-12 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title "> 
                                 <span itemprop="name" class="logo-font" >LOGIQUE</span> 
@@ -34,14 +34,14 @@
                             <div itemprop="address" class='footer-address' itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> <strong>Ad Premier Building 19th Floor. </strong><br>Jalan Tb. Simatupang No. 5
                                     <br />
-                                    Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
+                                    Ragunan, Ps. Minggu, <br>Jakarta Selatan, Indonesia </span><span
                                     itemprop="postalCode">12550</span>  
                             </div> 
                             <div class="footer-extrainfo">    
                                 <ul class="phone-info">
-                                                <li class=""><img alt="Telepon Kantor" src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                                <li class=""><img alt="Telepon Kantor" src="/img/phone.svg" style="width:18px;">(021) 22708935 / 36</li>
                                                 <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                                rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;" loading="lazyload">&nbsp;&nbsp;<span
+                                                rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;" loading="lazyload"><span
                                                     class="waNumber" alt="Whatapps Kantor">0811-870-321</span></a></li> 
                                             </ul> 
                                             <ul class="medsos-new">
@@ -53,33 +53,64 @@
                             </div>  
                         </div>
                     </div>
-                    <div class="col-md-8 col-sm-12 company-footer-nav">
-                        <div class="row">
-                            <div class="col-sm-6 link-footer-nav main-footer-nav">
+                    <div class="col-md-9 col-sm-12 company-footer-nav">
+                        <div class="mobile-menu-container">
+                            <ul>
+                                <li><a href="/index.php">Beranda</a></li>
+                                    <li><a href="/logique.php">Tentang Kami</a> </li>
+                                    <li class="have-submenu"><a href="/layanan.php">Layanan</a>
+                                    <li><a href="/portofolio.php">Portofolio</a>
+                                    <li><a href="/case-study/">Studi Kasus</a></li> 
+                                    <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                    <li><a href="/white-paper.php">White Paper Download</a></li> 
+                                    
+                            </ul>
+                            <ul>
+                            <li class="have-submenu">  <a href="/produk.php">Produk Kami</a>
+                                    <li><a href="/career/">Join  Logique (Karir)</a>
+                                    <li> <a href="/career/lowongan/"  >Lowongan Kerja </a>
+                                    <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
+                                    <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                            </ul>
+                        </div>
+                        <div class="row main-footer-container">
+                            <div class="col-sm-4 link-footer-nav main-footer-nav">
                                 <ul>
                                     <li><a href="/index.php">Beranda</a></li>
                                     <li><a href="/logique.php">Tentang Kami</a> </li>
                                     <li class="have-submenu"><a href="/layanan.php">Layanan</a>
-                                        <ul>
-                                        <li class="have-submenu"><a href="/layanan/jasa-pembuatan-website.php" target="_blank">Jasa Pembuatan  Website</a> </li>
-                                        <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
-                                        <li><a href="/layanan/pembuatan-progressive-web-app.php" target="_blank">Jasa Pembuatan PWA</a> </li>
-                                        <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>
-                                        <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan  Keamanan  Website (Pentest) </a></li>
-                                        <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
-                                            <ul>
-                                                <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a>
-                                                </li>
-                                            </ul>
-                                        </li>
+                                        <ul class="footer-submenu">
+                                            <li class="have-submenu"><a href="/layanan/jasa-pembuatan-website.php" target="_blank">Jasa Pembuatan  Website</a> </li>
+                                            <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
+                                            <li><a href="/layanan/pembuatan-progressive-web-app.php" target="_blank">Jasa Pembuatan PWA</a> </li>
+                                            <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>
+                                            <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan  Keamanan  Website (Pentest) </a></li>
+                                            <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a></li>
+                                            <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a> </li> 
+                                        
+                                        </ul>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/layanan/project-management.php">Manajemen Proyek Kami</a> </li>
+                                            <li><a href="/layanan/devops.php">Layanan Manajemen Cloud Server</a> </li>
+                                            <li><a href="#">Layanan Flat-rate DX/DM Service</a> </li>
                                         </ul>
                                     </li> 
-                                    <li><a href="/portofolio.php">Portofolio</a></li> 
-                                    <li><a href="/case-study/">Studi Kasus</a></li> 
+                                   
                                 </ul>
                             </div> 
-                            <div class="col-sm-6 link-footer-nav">
-                                
+                            <div class="col-sm-4 link-footer-nav">
+                                <ul> 
+                                    <li><a href="/portofolio.php">Portofolio</a>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/portofolio/website.php">Website Dev Portfolio</a></li>
+                                            <li><a href="/portofolio/mobile-app.php">Mobile App Portfolio</a></li>
+                                            <li><a href="/portofolio/system-development.php">System Dev Portfolio</a></li>
+                                            <li><a href="/portofolio/system-development.php ">Digital Marketing Portfolio</a></li>
+                                        </ul> 
+                                    </li> 
+                                    <li><a href="/case-study/">Studi Kasus</a></li> 
+                                    <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                    <li><a href="/white-paper.php">White Paper Download</a></li> 
                                     <li class="have-submenu">  <a href="/produk.php">Produk Kami</a>
                                         <ul>
                                             <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja  <span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a> </li>
@@ -87,14 +118,34 @@
                                             <li><a href="/produk/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <span style="font-size: 11px;">(Sistem aplikasi perekrutan pegawai)</span></a> </li>   
                                         </ul>
                                     </li>
+                                   
+                                </ul>
+
+                            </div>
+                            <div class="col-sm-4 link-footer-nav"> 
+                                <ul>  
                                     <li><a href="/career/">Join  Logique (Karir)</a>
-                                        <ul>
-                                                <li><a href="/career/">Kerja di LOGIQUE</a></li>
-                                                <li> <a href="/career/lowongan/"  >Lowongan Kerja </a></li>  
+                                        <ul class="footer-submenu">    
+                                            <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pengembangan Karir</a></li>
+                                            <li><a href="/career/aktivitas-kerja/">Aktivitas Kami</a></li>
+                                            <li><a href="/career/pedoman-hr/">Pendoman HR</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pesan Untuk Kandidat</a></li>
+                                            <li><a href="/career/faq/">FAQ</a></li> 
+                                               
                                             </ul>
-                                        </li>
+                                        </li>  
+                                          <li> <a href="/career/lowongan/"  >Lowongan Kerja </a>
+                                            <ul class="footer-submenu">
+                                                <li><a href="/career/lowongan/programmer/">Lowongan Programmer</a></li>
+                                                <li><a href="/career/lowongan/it-generalist/">Lowongan IT Generalist</a></li>
+                                                <li><a href="/career/lowongan/specialist/">Lowongan Other IT Specialist</a></li>
+                                                <li><a href="/career/lowongan/digitalmarketing/">Lowongan Digital Marketing</a></li> 
+                                            </ul> 
+                                          </li>  
                                     <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
-                                    <li class="m-t-30px"><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                    <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                </ul>  
                             </div>
                         </div> 
                     </div> 
