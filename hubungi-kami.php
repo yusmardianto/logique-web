@@ -1050,7 +1050,7 @@ if (isset($_POST['submitted'])) {
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse2">
-                                            <i class="fa fa-question-circle">&nbsp;</i><a>BIsakah LOGIQUE mengirimkan beberapa
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>Bisakah LOGIQUE mengirimkan beberapa
                                                 programmer untuk bekerja onsite?</a>
                                         </dt>
                                     </div>
