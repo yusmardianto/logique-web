@@ -695,6 +695,64 @@ if (isset($_POST['submitted'])) {
 
         </div>
 
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [{
+                    "@type": "Question",
+                    "name": "Berapa rentang harga layanan LOGIQUE untuk jasa web system development, pembuatan website dan aplikasi?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Harga layanan tergantung pada kebutuhan Anda. Kami akan memberikan perkiraan yang lebih terperinci setelah mengetahui kebutuhan Anda."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "BIsakah LOGIQUE mengirimkan beberapa programmer untuk bekerja onsite?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LOGIQUE dapat bekerja secara Fleksibel, jika terdapat alasan yang masuk akal / tidak terhindarkan maka bekerja secara Onsite dapat kami lakukan. Silahkan hubungi kami dan jangan ragu untuk untuk berkonsultasi."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Bisakah LOGIQUE menjadi sub-kontraktor untuk perusahaan pengembang lain?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tergantung situasi. Kami pernah bekerja sama dengan perusahaan konsultasi, vendor perangkat lunak, agen IT in-house dan biro iklan. Kami terbuka pada peluang dan tantangan baru."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakah proses proyek dapat dijalankan dalam Bahasa Inggris?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bisa. LOGIQUE berpengalaman menangani perusahaan-perusahaan besar dari beberapa negara seperti Jepang, Singapura, Malaysia, Filipina, Australia, Inggris, Amerika, Swedia, dan Italia."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakah meeting dapat dilakukan di luar negeri?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Mari kita bahas masalah ini dengan Anda terlebih dahulu. Biasanya kami menawarkan video conference call, tetapi kami bisa memenuhi hal tersebut tergantung pada kasusnya."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakan LOGIQUE dapat mengembangkan sistem manajemen untuk bisnis kami?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LOGIQUE mampu mengembangkan berbagai jenis sistem dan telah memiliki pengalaman di bidang pengembangan sistem manajemen pelanggan, pengembangan sistem untuk rekrutmen, e-commerce, e-learning, dan lainnya."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakah LOGIQUE dapat mengembangkan aplikasi mobile?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Konsultasikan kebutuhan Anda. LOGIQUE memiliki spesialis yang mampu mengembangkan berbagai aplikasi untuk Android dan iOS, Hybrid App, dan PWA."
+                    }
+                }]
+            }
+        </script>
+
+
         <?php include '../footer.php'; ?>
     </div>
 </body>
