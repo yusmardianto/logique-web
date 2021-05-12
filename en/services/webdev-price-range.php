@@ -685,6 +685,23 @@ if (isset($_POST['submitted'])) {
                     <img loading="lazy" src="/layanan/assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
                 </div>
             </section>
+
+            <section class="plan">
+                <div class="container__">
+                    <div style="margin-top: 1em;">
+                        <div class="clearfix">
+                            <dt class="title-header d-title-large title-bg-grey" style="text-align: left;">Frequently asked questions:</dt>
+                            <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
+                        </div>
+                        <div class="mt-12" id="accordion" style="width:100%;">
+
+                            <?php include '../FAQ.php';?>
+                           
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         </div>
 
         <script type="application/ld+json">
