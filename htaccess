@@ -29,7 +29,7 @@ Redirect 301 /en/services/digital-marketing/seo-optimization.php /en/services/di
 
 #### ID ####
 Redirect 301 /tentang-kami.php /logique.php
-Redirect 301 /layanan/webdev-price-range.php /layanan/biaya-pembuatan-website.php
+Redirect 301 /layanan/webdev-price-range.php /layanan/harga-pembuatan-website.php
 
 #ID Services
 Redirect 301 /layanan/pembuatan-website-karir-perusahaan/ /layanan/pembuatan-web-karir.php

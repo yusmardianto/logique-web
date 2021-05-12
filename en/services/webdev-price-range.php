@@ -113,7 +113,7 @@ if (isset($_POST['submitted'])) {
         <?php
         $lang = 'en';
         $en_link = '#';
-        $id_link = '/layanan/webdev-price-range.php';
+        $id_link = '/layanan/harga-pembuatan-website.php';
         $jp_link = '/jp/services/web-dev-price-range.php';
 
         include($_SERVER['DOCUMENT_ROOT'] . '/en/header.php');

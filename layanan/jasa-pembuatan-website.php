@@ -199,7 +199,7 @@ if (isset($_POST['submitted'])) {
                         <p class="flow-content">
                             Untuk mempermudah Anda, kami telah mempersiapkan beberapa kategori pengembangan website berikut dengan perkiraan waktu dan biayanya. Jangan ragu untuk menghubungi kami bila Anda tidak memahami kategori pengembangan website yang diperlukan. Kami juga siap membantu jika Anda memerlukan penawaran khusus berdasarkan rincian fitur yang sudah dimiliki.
                         </p>
-                        <a href="/layanan/webdev-price-range.php" target="_blank">
+                        <a href="/layanan/harga-pembuatan-website.php" target="_blank">
                             <div class="flow-button">
                                 Lihat Opsi Harga Pembuatan Website
                                 <img loading="lazy" src="assets/img/img-webdev/arrow.png" alt="">

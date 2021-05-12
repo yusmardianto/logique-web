@@ -48,11 +48,11 @@ if (isset($_POST['submitted'])) {
     <meta property="og:title" content="Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/webdev-price-range.php">
+    <meta property="og:url" content="https://www.logique.co.id/layanan/harga-pembuatan-website.php">
     <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
     <meta property="og:description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/harga-pembuatan-website.php">
 
     <title>Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia</title>
 
@@ -68,6 +68,7 @@ if (isset($_POST['submitted'])) {
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/style-services.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/newstyle.css">
     <link href="/css/epicstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/styles-web-dev-services/styles_webdev_service.css" rel="stylesheet">
 
@@ -705,39 +706,26 @@ if (isset($_POST['submitted'])) {
             
              <!-- FAQ -->
             <section class="plan">
-            <div class="container__">
-                <div style="margin-top: 1em;">
-                    <div class="clearfix ">                           
-                        <dt class="title-header" style="text-align: left;">Pertanyaan yang sering diajukan:
-                        </dt>
-                        <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
-                        
-                    </div>
-                    <div class="mt-12" id="accordion" style="width:100%;">
+                <div class="container__">
+                    <div style="margin-top: 1em;">
+                        <div class="clearfix ">                           
+                            <dt class="title-header" style="text-align: left;">Pertanyaan yang sering diajukan:
+                            </dt>
+                            <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
+                            
+                        </div>
+                        <div class="mt-12" id="accordion" style="width:100%;">
 
-                        <div class="panel-group" id="accordion">
-
-                        <?php include '../FAQ.php'; ?>
-                        
+                            <div class="panel-group" id="accordion">
+                                <?php include '../FAQ.php'; ?>
+                            </div>
+                            
+                        </div>
                     </div>
                 </div>
-            </div>
-        </section>
+            </section>
         </div>
-
-<<<<<<< HEAD:layanan/harga-pembuatan-website.php
-    
-=======
-<<<<<<< HEAD:layanan/harga-pembuatan-website.php
-       
-        
-       
-
-            <script type="application/ld+json">
-=======
->>>>>>> develop:layanan/biaya-pembuatan-website.php
         <script type="application/ld+json">
->>>>>>> develop:layanan/biaya-pembuatan-website.php
             {
                 "@context": "https://schema.org",
                 "@type": "FAQPage",
@@ -793,15 +781,8 @@ if (isset($_POST['submitted'])) {
                 }]
             }
         </script>
-<<<<<<< HEAD:layanan/harga-pembuatan-website.php
-=======
-<<<<<<< HEAD:layanan/harga-pembuatan-website.php
-=======
-
-
->>>>>>> develop:layanan/biaya-pembuatan-website.php
->>>>>>> develop:layanan/biaya-pembuatan-website.php
         <?php include '../footer.php'; ?>
+
     </div>
 </body>
 
