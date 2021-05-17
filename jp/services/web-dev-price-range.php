@@ -126,7 +126,7 @@ if (isset($_POST['submitted'])) {
         <?php
         $lang = 'jp';
         $en_link = '/en/services/webdev-price-range.php';
-        $id_link = '/layanan/webdev-price-range.php';
+        $id_link = '/layanan/harga-pembuatan-website.php';
         $jp_link = '#';
 
 

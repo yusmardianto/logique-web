@@ -113,7 +113,7 @@ if (isset($_POST['submitted'])) {
         <?php
         $lang = 'en';
         $en_link = '#';
-        $id_link = '/layanan/webdev-price-range.php';
+        $id_link = '/layanan/harga-pembuatan-website.php';
         $jp_link = '/jp/services/web-dev-price-range.php';
 
         include($_SERVER['DOCUMENT_ROOT'] . '/en/header.php');
@@ -685,7 +685,89 @@ if (isset($_POST['submitted'])) {
                     <img loading="lazy" src="/layanan/assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
                 </div>
             </section>
+
+            <section class="plan">
+                <div class="container__">
+                    <div style="margin-top: 1em;">
+                        <div class="clearfix">
+                            <dt class="title-header d-title-large title-bg-grey" style="text-align: left;">Frequently asked questions:</dt>
+                            <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
+                        </div>
+                        <div class="mt-12" id="accordion" style="width:100%;">
+
+                            <?php include '../FAQ.php';?>
+                           
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         </div>
+
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [{
+                    "@type": "Question",
+                    "name": "Is it possible to proceed with a project using the English language?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It is possible, though there may be some difficulties. Most of our staff is able to communicate in English at a practical level. We have also ventured to start projects with overseas companies."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Is it possible for you to have a meeting overseas?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Let us discuss the matter with you first. Mostly, we offer video conference calls, but we might be able to be flexible depending on the case."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "We are thinking about changing our current web/system outsourcer and seek to replace them with you.",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Please contact us without any further hesitation. There is no need to worry too much about documentation, etc. In most cases, We are able to develop a wide range of digital products through years of experience in the field of customer management systems development."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "We are seeking a developer to build a management system for our business.",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We are capable of developing various kinds of systems through previous experience in the field of customer management systems development, as well as developing systems for improved recruitment, e-commerce, pointing, and content and loan management, among many others. We are experts in system development, utilizing open web technologies."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "We want to have a partnership / distributor contract with LOGIQUE.",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Let us talk about it with you in further detail. Please feel free to visit our office if you are planning any trips to Jakarta."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "We want to build a mobile application.",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We are capable of developing both Android and iOS applications for you. We can begin planning the development of the mobile app as well, if you require it."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "We would like to print a marketing tool, are you able to offer printing as well as designing services?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "We can of course both design and print pamphlets. And we are also able to design and print other products such as T-shirts. In case you need to print something extremely difficult, you might better look for other company. We can also introduce you to the companies that we know if you would like us to."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Are you capable of implementing SEO in the Indonesian Language?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes, and we have a proven track record of excellence in that area; helping many industries in the finance, travel and education fields promote their website so that it’s found in the upper ranks of the search results. Our team, consisting of many Indonesian content writers and marketers, will help provide you with the best SEO results. We are also able to implement SEO in the English and Japanese languages, as well."
+                    }
+                }]
+            }
+        </script>
+
 
         <?php include '../footer.php'; ?>
 

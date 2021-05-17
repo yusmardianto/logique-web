@@ -48,11 +48,11 @@ if (isset($_POST['submitted'])) {
     <meta property="og:title" content="Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/webdev-price-range.php">
+    <meta property="og:url" content="https://www.logique.co.id/layanan/harga-pembuatan-website.php">
     <meta property="og:image" content="https://www.logique.co.id/jp/services/assets/img/img-webdev/webdev-service/22.png">
     <meta property="og:description" content="Daftar harga / biaya pembuatan website perusahaan, company profile, e commerce & lainnya. Standar Internasional, Berkualitas & Profesional | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/webdev-price-range.php">
+    <link rel="canonical" href="https://www.logique.co.id/layanan/harga-pembuatan-website.php">
 
     <title>Harga / Biaya Pembuatan Website | LOGIQUE Digital Indonesia</title>
 
@@ -68,6 +68,7 @@ if (isset($_POST['submitted'])) {
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/style-services.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/newstyle.css">
     <link href="/css/epicstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/styles-web-dev-services/styles_webdev_service.css" rel="stylesheet">
 
@@ -102,6 +103,16 @@ if (isset($_POST['submitted'])) {
     ?>
 
 </head>
+
+<!-- <style>
+    @media only screen and (max-width: 768px) {
+    
+
+        .d-title-large {
+            font-size: larger;
+        }
+    }
+</style> -->
 
 <body>
 
@@ -692,10 +703,86 @@ if (isset($_POST['submitted'])) {
                     <img loading="lazy" src="/layanan/assets/img/img-webdev/linkedinads.png" alt="linkedin banner">
                 </div>
             </section>
+            
+             <!-- FAQ -->
+            <section class="plan">
+                <div class="container__">
+                    <div style="margin-top: 1em;">
+                        <div class="clearfix ">                           
+                            <dt class="title-header" style="text-align: left;">Pertanyaan yang sering diajukan:
+                            </dt>
+                            <hr class="col-sm-1 col-xs-2 bar-yellow" style="padding: 5px 0; border: none;">
+                            
+                        </div>
+                        <div class="mt-12" id="accordion" style="width:100%;">
 
+                            <div class="panel-group" id="accordion">
+                                <?php include '../FAQ.php'; ?>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
-
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [{
+                    "@type": "Question",
+                    "name": "Berapa rentang harga layanan LOGIQUE untuk jasa web system development, pembuatan website dan aplikasi?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Harga layanan tergantung pada kebutuhan Anda. Kami akan memberikan perkiraan yang lebih terperinci setelah mengetahui kebutuhan Anda."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "BIsakah LOGIQUE mengirimkan beberapa programmer untuk bekerja onsite?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LOGIQUE dapat bekerja secara Fleksibel, jika terdapat alasan yang masuk akal / tidak terhindarkan maka bekerja secara Onsite dapat kami lakukan. Silahkan hubungi kami dan jangan ragu untuk untuk berkonsultasi."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Bisakah LOGIQUE menjadi sub-kontraktor untuk perusahaan pengembang lain?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tergantung situasi. Kami pernah bekerja sama dengan perusahaan konsultasi, vendor perangkat lunak, agen IT in-house dan biro iklan. Kami terbuka pada peluang dan tantangan baru."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakah proses proyek dapat dijalankan dalam Bahasa Inggris?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bisa. LOGIQUE berpengalaman menangani perusahaan-perusahaan besar dari beberapa negara seperti Jepang, Singapura, Malaysia, Filipina, Australia, Inggris, Amerika, Swedia, dan Italia."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakah meeting dapat dilakukan di luar negeri?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Mari kita bahas masalah ini dengan Anda terlebih dahulu. Biasanya kami menawarkan video conference call, tetapi kami bisa memenuhi hal tersebut tergantung pada kasusnya."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakan LOGIQUE dapat mengembangkan sistem manajemen untuk bisnis kami?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "LOGIQUE mampu mengembangkan berbagai jenis sistem dan telah memiliki pengalaman di bidang pengembangan sistem manajemen pelanggan, pengembangan sistem untuk rekrutmen, e-commerce, e-learning, dan lainnya."
+                    }
+                },{
+                    "@type": "Question",
+                    "name": "Apakah LOGIQUE dapat mengembangkan aplikasi mobile?",
+                    "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Konsultasikan kebutuhan Anda. LOGIQUE memiliki spesialis yang mampu mengembangkan berbagai aplikasi untuk Android dan iOS, Hybrid App, dan PWA."
+                    }
+                }]
+            }
+        </script>
         <?php include '../footer.php'; ?>
+
     </div>
 </body>
 
