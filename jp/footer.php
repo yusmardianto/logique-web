@@ -101,11 +101,11 @@ footer {
 	ga('send', 'pageview');
 
     </script>
-    <div class="container__footer">
+    <div class="container__">
         <div class="row">
-            <div class="col-sm-offset-1 col-md-10 col-sm-11">
+            <div class=" col-sm-12">
                 <div class="row flex-row">
-                    <div class="col-sm-4 company-info">
+                    <div class="col-sm-3 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title"> <span itemprop="name">LOGIQUE</span></strong></div>
                                 <div itemprop="address" class='footer-address' itemscope itemtype="https://schema.org/PostalAddress">
@@ -127,46 +127,99 @@ footer {
                                 </ul>
                         </div>
                     </div>
-                    <div class="col-sm-8 company-footer-nav">
-                        <div class="row">
-                            <div class="col-sm-6 link-footer-nav  main-footer-nav" >
+                    <div class="col-sm-9 company-footer-nav">
+                    <div class="mobile-menu-container">
+                            <ul>
+                                <li><a href="/jp/index.php">Home</a></li>
+                                <li><a href="/jp/logique.php">会社概要</a></li>
+                                <li ><a href="/jp/services.php">サービス</a>
+                                <li><a href="/jp/portfolio.php">制作開発実績</a></li>
+                                <li><a href="/case-study/">事例紹介</a></li> 
+                                <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                <li><a href="/en/white-paper.php">White Paper Download</a></li>     
+                            </ul>
+                            <ul>
+                                <li ><a href="/jp/product.php">プロダクト</a> 
+                                <li><a href="/career/">採用/パートナー (求人/インターン)</a></li>
+                                <li> <a href="/en/career/lowongan/"  >Lowongan Kerja </a>
+                                <li><a href="/jp/contact.php">お問い合わせ</a></li> 
+                                <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                            </ul>
+                        </div>
+                        <div class="row main-footer-container">
+                            <div class="col-sm-4 link-footer-nav main-footer-nav">
                                 <ul>
                                     <li><a href="/jp/index.php">Home</a></li>
                                     <li><a href="/jp/logique.php">会社概要</a></li>
-                                    <li class="have-submenu"><a href="/jp/services.php">サービス</a>
-                                        <ul>
+                                    <li  class="have-submenu"><a href="/jp/services.php">サービス</a>
+                                        <ul class="footer-submenu">
                                             <li class="have-submenu"><a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a> </li>
                                             <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
                                             <li><a href="/jp/services/progressive-web-app-dev.php" target="_blank">Webアプリ(PWA)開発</a></li>
                                             <li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
                                             <li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
-                                            <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a>
-                                                <ul>
-                                                <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>
-                                                </ul>
-                                            </li> 
-                                        </ul> 
-                                    </li>
-                                    <li><a href="/jp/portfolio.php">制作開発実績</a></li>
-                                    <li><a href="/case-study/">事例紹介</a></li> 
-                                    
+                                            <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a> </li> 
+                                            <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>    
+                                        </ul>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/jp/services/project-management.php">プロジェクトマネジメントについて</a> </li>
+                                            <li><a href="/jp/services/devops.php">クラウドサーバー運用サービス</a> </li>
+                                            <li><a href="#"> 定額DX/DMサービス</a> </li>
+                                        </ul>
+                                    </li> 
+                                   
                                 </ul>
                             </div> 
-                            <div class="col-sm-6 link-footer-nav">
-                                <ul>
-                                    <li class="have-submenu"><a href="/jp/product.php">プロダクト</a> 
+                            <div class="col-sm-4 link-footer-nav">
+                                <ul> 
+                                    <li  class="have-submenu"><a href="/jp/portfolio.php">制作開発実績</a>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/jp/portfolio/website.php">LOGIQUEのWeb制作実績</a></li>
+                                            <li><a href="/jp/portfolio/mobile-app.php">モバイルアプリの開発実績</a></li>
+                                            <li><a href="/jp/portfolio/system-development.php">システム開発実績</a></li>
+                                            <li><a href="/jp/portfolio/digital-marketing.php">デジタルマーケティングの実績</a></li>
+                                        </ul> 
+                                    </li> 
+                                    <li><a href="/case-study/">事例紹介</a></li>  
+                                    <li><a href="/blog/category/interview/">インタビュー</a></li> 
+                                    <li><a href="/white-paper.php"> ホワイトペーパー</a></li> 
+                                    <li class="have-submenu" ><a href="/jp/product.php">プロダクト</a> 
                                         <ul>
-                                            <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
+                                        <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
                                             <li><a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo  <span style="font-size: 12px;">（採用管理ツール）</span></a></li>
                                             <li><a href="/jp/product/nippo.php" target="_blank">Nippo  <span style="font-size: 12px;">（日報＆人事評価ツール）</span></a></li>    
                                         </ul>
                                     </li>
-                                    <li><a href="/career/">採用/パートナー (求人/インターン)</a></li>
-                                    <li><a href="/jp/contact.php">お問い合わせ</a></li>  
-                                    <li class="m-t-30px"><a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></li>
+                                   
                                 </ul>
+
                             </div>
-                        </div> 
+                            <div class="col-sm-4 link-footer-nav"> 
+                                <ul>  
+                                    <li><a href="/career/">採用</a> 
+                                        <ul class="footer-submenu">    
+                                            <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pengembangan Karir</a></li>
+                                            <li><a href="/career/aktivitas-kerja/">Aktivitas Kami</a></li>
+                                            <li><a href="/career/pedoman-hr/">Pendoman HR</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pesan Untuk Kandidat</a></li>
+                                            <li><a href="/career/faq/">FAQ</a></li> 
+                                               
+                                            </ul>
+                                        </li>  
+                                          <li> <a href="/career/lowongan/"  >求人 </a>
+                                            <ul class="footer-submenu">
+                                                <li><a href="/career/lowongan/programmer/">Lowongan Programmer</a></li>
+                                                <li><a href="/career/lowongan/it-generalist/">Lowongan IT Generalist</a></li>
+                                                <li><a href="/career/lowongan/specialist/">Lowongan Other IT Specialist</a></li>
+                                                <li><a href="/career/lowongan/digitalmarketing/">Lowongan Digital Marketing</a></li> 
+                                            </ul> 
+                                          </li>  
+                                    <li><a href="/jp/contact.php">お問い合わせ</a></li> 
+                                    <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                </ul>  
+                            </div>
+                        </div>  
                           
                     </div>
                     <div class="col-sm-12 link-footer"> 
