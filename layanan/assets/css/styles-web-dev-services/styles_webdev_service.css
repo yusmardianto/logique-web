@@ -31,11 +31,12 @@ body {
 
   .title-header {
     text-align: center;
-    margin: 165px auto 20px auto;
+    margin: 10px auto 20px auto;
     font-size: 20px;
     color: var(--blackTitle);
     font-weight: bold;
   }
+
 
   .right-header > p {
     max-width: 100%;
@@ -69,11 +70,12 @@ body {
 
   .title-header {
     text-align: center;
-    margin: 130px auto 20px auto;
+    margin: 20px auto 20px auto;
     font-size: 20px;
     color: #000;
     font-weight: bold !important;
   }
+
 }
 
 @media only screen and (min-width: 1024px) {
