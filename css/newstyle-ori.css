@@ -1146,7 +1146,7 @@ ul.footer-submenu{
     display: none;
 }
 .main-footer-container a{
-    font-weight: bold;
+    font-weight: bold !important;
 }
 .main-footer-container .footer-submenu a{
     font-weight: normal;

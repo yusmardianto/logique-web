@@ -6,11 +6,11 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
 
     <script type='text/javascript' data-cfasync='false'>window.purechatApi={l:[],t:[],on:function(){this.l.push(arguments)}},function(){var e=!1,t=document.createElement("script");t.async=!0,t.type="text/javascript",t.src="https://app.purechat.com/VisitorWidget/WidgetScript",document.getElementsByTagName("HEAD").item(0).appendChild(t),t.onreadystatechange=t.onload=function(t){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(new PCWidget({c:"4c745242-66c8-4931-9b56-3c3bdcc5cbe6",f:!0}),e=!0)}}();</script>
     <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview");</script>
-    <div class="container__footer">
+    <div class="container__">
         <div class="row">
-            <div class="col-sm-offset-1 col-md-10 col-sm-11">
+            <div class=" col-sm-12">
                 <div class="row flex-row">
-                    <div class="col-sm-4 company-info ">
+                    <div class="col-sm-3 company-info ">
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title"> <span itemprop="name">LOGIQUE</span></strong></div>
                             <div  class='footer-address' itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
@@ -33,54 +33,99 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                         </ul>
                         
                     </div>
-                    <div class="col-sm-8 company-footer-nav">
-                        <div class="row">
-                            <div class="col-sm-6 link-footer-nav  main-footer-nav">
+                    <div class="col-sm-9 company-footer-nav">
+                        <div class="mobile-menu-container">
+                            <ul>
+                                <li><a href="/en/index.php">Home</a></li>
+                                <li><a href="/en/logique.php">About Us</a></li>
+                                <li ><a href="/en/services.php">Service</a> </li> 
+                                <li><a href="/en/portofolio.php">Portfolio</a>
+                                <li><a href="/en/case-study/">Case Study</a></li> 
+                                <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                <li><a href="/en/white-paper.php">White Paper Download</a></li>     
+                            </ul>
+                            <ul>
+                                <li class="have-submenu">  <a href="/en/produk.php">Our Product</a>
+                                <li><a href="/en/career/">Join  Logique (Karir)</a>
+                                <li> <a href="/en/career/lowongan/"  >Lowongan Kerja </a>
+                                <li><a href="en/contact.php">Contact Us</a></li>
+                                <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                            </ul>
+                        </div>
+                        <div class="row main-footer-container">
+                            <div class="col-sm-4 link-footer-nav main-footer-nav">
                                 <ul>
                                     <li><a href="/en/index.php">Home</a></li>
                                     <li><a href="/en/logique.php">About Us</a></li>
-                                    <li class="have-submenu"><a href="/en/services.php">Service</a> 
-                                        <ul>
-                                            <li class="have-submenu"><a href="/en/services/web-dev.php" target="_blank">Web Development</a> </li>
+                                    <li class="have-submenu"><a href="/en/services.php">Service</a>  
+                                        <ul class="footer-submenu">
+                                            <li ><a href="/en/services/web-dev.php" target="_blank">Web Development</a> </li>
                                             <li><a href="/en/services/system-dev.php" target="_blank">Web System Development</a></li>
                                             <li><a href="/en/services/progressive-web-app-dev.php" target="_blank">Web App (PWA) Development</a></li>
                                             <li><a href="/en/services/mobile-app-dev.php" target="_blank">Mobile App Development</a></li>
                                             <li><a href="/en/services/penetration-test.php" target="_blank">WEB Security Assesment (Pentest)</a></li>
-                                            <li class="have-submenu"><a href="/en/services/digital-marketing.php" target="_blank">Digital  Marketing </a>
-                                                <ul>
-                                                    <!-- <li><a href="/en/services/digital-marketing/seo-optimization.php" target="_blank"> SEO Optimization</a></li> -->
-                                                    <li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO
-                                                            Service</a></li>
-                                                    <!-- <a href="/layanan/pembuatan-website-restoran/" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Restaurant Website Creation</a> -->
-                                                </ul>
-                                            </li>
+                                            <li ><a href="/en/services/digital-marketing.php" target="_blank">Digital  Marketing </a></li>
+                                            <li><a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO  Service</a></li> 
                                         </ul>
-                                    </li>
-                                    <li><a href="/en/portfolio.php">Portfolio</a></li>      
-                                    <li><a href="/case-study/">Case Study</a></li>                               
+                                        <ul class="footer-submenu">
+                                            <li><a href="/en/services/project-management.php">Our Project Management</a> </li>
+                                            <li><a href="/en/services/devops.php">Server Cloud Management Service</a> </li>
+                                            <li><a href="#"> Flat-rate DX/DM Service</a> </li>
+                                        </ul>
+                                    </li> 
                                    
                                 </ul>
                             </div> 
-                            <div class="col-sm-6 link-footer-nav">
-                                <ul>
-                                    <li><a href="/en/product.php">Products</a>
-                                        <ul>
-                                            <li> <a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 11px;">(Remote Working Tool)</span> </a></li>
-                                            <li><a href="/en/product/nippo.php" target="_blank">Nippo <span style="font-size: 11px;">(Daily Report Tool)</span> </a></li>
-                                            <li><a href="/en/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo <span style="font-size: 11px;">(Employee Recruitment System)</span> </a></li>
-                                        </ul>
+                            <div class="col-sm-4 link-footer-nav">
+                                <ul> 
+                                    <li><a href="/en/portfolio.php">Portfolio</a>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/en/portfolio/website.php">Website Dev Portfolio</a></li>
+                                            <li><a href="/en/portfolio/mobile-app.php">Mobile App Portfolio</a></li>
+                                            <li><a href="/en/portfolio/system-development.php">System Dev Portfolio</a></li>
+                                            <li><a href="/en/portfolio/digital-marketing.php ">Digital Marketing Portfolio</a></li>
+                                        </ul> 
                                     </li> 
-                                    <li><a href="/career/">Join LOGIQUE (Career)</a>
+                                    <li><a href="/case-study/">Case Study</a></li> 
+                                    <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                    <li><a href="/white-paper.php">White Paper Download</a></li> 
+                                    <li class="have-submenu">  <a href="/produk.php">Our Product</a>
                                         <ul>
-                                            <li><a href="/career/">Kerja di LOGIQUE</a></li>
-                                            <li> <a href="/career/lowongan/"  >Lowongan Kerja </a></li>  
+                                            <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja  <span style="font-size: 11px;">(Remote Working Tool) </span> </a> </li>
+                                            <li><a href="/en/product/nippo.php" target="_blank"> Nippo <span style="font-size: 11px;">(Daily Report Tool)</span> </a> </li>
+                                            <li><a href="/en/product/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <span style="font-size: 11px;">(Employee Recruitment System)</span></a> </li>   
                                         </ul>
                                     </li>
-                                    <li><a href="/en/contact.php">Contact Us</a></li>
-                                    <li class="m-t-30px"><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                   
                                 </ul>
+
                             </div>
-                        </div> 
+                            <div class="col-sm-4 link-footer-nav"> 
+                                <ul>  
+                                    <li><a href="/career/">Join LOGIQUE (Career)</a>
+                                        <ul class="footer-submenu">    
+                                            <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pengembangan Karir</a></li>
+                                            <li><a href="/career/aktivitas-kerja/">Aktivitas Kami</a></li>
+                                            <li><a href="/career/pedoman-hr/">Pendoman HR</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pesan Untuk Kandidat</a></li>
+                                            <li><a href="/career/faq/">FAQ</a></li> 
+                                               
+                                            </ul>
+                                        </li>  
+                                          <li> <a href="/career/lowongan/"  >Lowongan Kerja </a>
+                                            <ul class="footer-submenu">
+                                                <li><a href="/career/lowongan/programmer/">Lowongan Programmer</a></li>
+                                                <li><a href="/career/lowongan/it-generalist/">Lowongan IT Generalist</a></li>
+                                                <li><a href="/career/lowongan/specialist/">Lowongan Other IT Specialist</a></li>
+                                                <li><a href="/career/lowongan/digitalmarketing/">Lowongan Digital Marketing</a></li> 
+                                            </ul> 
+                                          </li>  
+                                    <li><a href="en/contact.php">Contact Us</a></li>
+                                    <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                </ul>  
+                            </div>
+                        </div>  
                     </div>
                     <div class="col-sm-12 link-footer">
                         <h3>About Us</h3>
