@@ -128,7 +128,7 @@
                         <div class="content__wrapper">
                             <div class="flex__row">
                                 <div class="col-md-4 col-sm-6 col-xs-12">                                
-                                    <a href="/en/portfolio/digital-marketing/jba-indonesia.php">
+                                    <a href="/en/portfolio/digital-marketing/JBA-Indonesia.php">
                                         <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-jba-bg.png')" data-toggle="modal" data-target="#modal-jba">
                                             <img src="/img/portfolio/update/dm-jba.png" alt="">
                                             <h4>Real Estate - JBA</h4>
