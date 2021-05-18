@@ -121,272 +121,162 @@
                 </div>
             </section>
 
-            <section id="portfolio_dm" class="portfolio-update__content" style="margin-bottom: 0">
-                <div class="container__">
-                    <h2 class="text-center">Our Great Achievements With the Leading Brands <br class="visible-lg visible-xl"> in Indonesia</h2>
-                    <div class="content__wrapper">
-                        <div class="flex__row">
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
-                                    <img src="/img/portfolio/update/dm-bamboo.png" alt="">
-                                    <h4>Real Estate - Bamboo</h4>
-                                    <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
-                                </div>
-                                <div class="content__detail" style="background-color: #EAFFFC;">
-                                    <div class="detail__description">
-                                    Green Bamboo Terrace is a minimalist luxury housing in Bogor City Center, managed by a leading property developer in Indonesia, namely PT. Kebun Bambu Jakarta, with quality values that we continue to maintain, has made Logique able to become a business partner for KBJ's success in selling developed properties.
-                                    </div>
-                                    <div class="detail__goal" style="background-color: #b9fff5; color: #004940;">
-                                        <h4>Goals</h4>
-                                        <p>Increase Leads</p>
-                                    </div>
-                                    <div class="detail__achievement" style="color: #004940;">
-                                        <h4>Achievements</h4>
-                                        <div class="row">
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +46%
-                                                    </div>
-                                                    <p>Lead Conversion</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    -35%
-                                                    </div>
-                                                    <p>Cost / Leads Reduction</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +25%
-                                                    </div>
-                                                    <p>Conversions Rate</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +41%
-                                                    </div>
-                                                    <p>ROAS (Return On Ad Spend)</p>
-                                                </div>
-                                            </div>
+            <!-- List Card Portofolio -->
+            <section id="portfolio_dm" class="portfolio-update__content">
+                <div class="content-wrapper__">
+                    <div class="container__">
+                        <div class="content__wrapper">
+                            <div class="flex__row">
+                                <div class="col-md-4 col-sm-6 col-xs-12">                                
+                                    <a href="/en/portfolio/digital-marketing/jba-indonesia.php">
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-jba-bg.png')" data-toggle="modal" data-target="#modal-jba">
+                                            <img src="/img/portfolio/update/dm-jba.png" alt="">
+                                            <h4>Real Estate - JBA</h4>
+                                            <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                         </div>
-
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
+                                        <img src="/img/portfolio/update/dm-sumitomo.png" alt="">
+                                        <h4>Sumitomo Heavy Industry (SHI)</h4>
+                                        <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
-                                    <img src="/img/portfolio/update/dm-mirai.png" alt="">
-                                    <h4>Real Estate - Hajime</h4>
-                                    <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
-                                </div>
-                                <div class="content__detail" style="background-color: #DDF0FF;">
-                                    <div class="detail__description">
-                                    Graha Mirai is a minimalist luxury housing in Cikarang City Center, managed by a leading property developer in Indonesia, namely PT. Hajime Indonesia Jaya. Logique has the opportunity to be part of Graha Mirai's success journey, and within 3 months Logique has succeeded in increasing website conversions that have occurred very significantly up to 30%
-                                    </div>
-                                    <div class="detail__goal" style="background-color: #a6cdff; color: #004940; color: #17335a;">
-                                        <h4>Goals</h4>
-                                        <p>Increase Leads</p>
-                                    </div>
-                                    <div class="detail__achievement" style="color: #17335a;">
-                                        <h4>Achievements</h4>
-                                        <div class="row">
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +30%
-                                                    </div>
-                                                    <p>Lead Conversion</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    -28%
-                                                    </div>
-                                                    <p>Cost / Leads Reduction</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +22%
-                                                    </div>
-                                                    <p>Conversions Rate</p>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +35%
-                                                    </div>
-                                                    <p>ROAS (Return On Ad Spend)</p>
-                                                </div>
-                                            </div>
-                                        </div>
-
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
+                                        <img src="/img/portfolio/update/dm-tokoparts.png" alt="">
+                                        <h4>E Commerce - Tokoparts</h4>
+                                        <p>SEO | Website Maintenance</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')">
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
+                                        <img src="/img/portfolio/update/dm-bamboo.png" alt="">
+                                        <h4>Real Estate - Bamboo</h4>
+                                        <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')" data-toggle="modal" data-target="#modal-mirai">
+                                        <img src="/img/portfolio/update/dm-mirai.png" alt="">
+                                        <h4>Real Estate - Hajime</h4>
+                                        <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
                                         <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
                                         <h4>Company Profile - Ishida</h4>
                                         <p>SEO | Website Maintenance</p>
                                     </div>
-                                    <div class="content__detail" style="background-color: #DDF0FF;">
-                                        <div class="detail__description"> Ishida is involved in the manufacturing of scales & other weighing machines, packing, and selling tools of inspection (checkweighers, metal detectors, x-rays) with more than 125 years of experience working globally within a wide variety of industries, some of which include the meat, snacks, fresh fruit, ready meals, the seafood industries, among many others.
-                                        </div>
-                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
-                                            <h4>Goals</h4>
-                                            <p>To Increase Leads - With Google ADsAchievements.</p>
-                                        </div>
-                                        <div class="detail__achievement" style="color: #15588c;">
-                                            <h4>Achievements</h4>
-                                            <div class="row">
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        +67% 
-                                                        </div>
-                                                        <p>Leads Conversion</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        -23,7%
-                                                        </div>
-                                                        <p>Cost Per Leads Reduction</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        +31,9%
-                                                        </div>
-                                                        <p>Conversions Rate</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        +28,6%
-                                                        </div>
-                                                        <p>ROAS (Return On Ad Spend)</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/tsubame-dm-portfolio.jpg')">
-                                        <img src="/img/portfolio/update/dm-tsubame-logo.png" alt="">
-                                        <h4>Education - Tsubame</h4>
-                                        <p>SEO | Website Maintenance</p>
-                                    </div>
-                                    <div class="content__detail" style="background-color: #DDF0FF;">
-                                        <div class="detail__description">
-                                        Tsubame is the name of a website owned by the Apprenticeship Training Institute (LPK) which manages Japanese based apprenticeships, and is tasked with sending students from Indonesia to succeed in apprenticeships in Japan. Logique has succeeded in providing a positive impact on the overall development of LPK Tsubame.
-                                        </div>
-                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
-                                            <h4>Goals</h4>
-                                            <p>To Increase website traffic through organic channels.</p>
-                                        </div>
-                                        <div class="detail__achievement" style="color: #15588c;">
-                                            <h4>Achievements</h4>
-                                            <div class="row">
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        +105,83%
-                                                        </div>
-                                                        <p>Number of sessions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        +90,77%
-                                                        </div>
-                                                        <p>Number of pageviews</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        -21,91%
-                                                        </div>
-                                                        <p>of visitors stay longer</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        -4,92%
-                                                        </div>
-                                                        <p>Decrease in bounce rate in 1 month</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                </div>                             
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="">
-                <div class="container__" style="padding-top: 0;">
-                    <div class="row">
-                        <div class="col-md-offset-1 col-md-10">
-                            <p class="text-center">In every process of managing the Digital Marketing Campaign, <strong>LOGIQUE</strong> involves many experts and professionals with years of experience, ranging from Digital Marketing Expert, Graphic Designer, Web Developer, Server Engineer, App Developer, Business Analyst, and Quality Assurance as a form of <strong>LOGIQUE</strong>'s commitment which never compromises with the best results and achievements that <strong>LOGIQUE</strong>'s partners have come to expect.</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="portfolio-update__link">
-                <div class="container__">
-                    <div class="row link--dm">
-                        <div class="col-sm-offset-2 col-xs-offset-5 col-md-6 col-sm-10 col-xs-7">
-                        Contact <strong>LOGIQUE</strong> now, we will make the best plans and strategies for your extraordinary business goals.
-                        </div>
-                        <div class=" col-lg-offset-0 col-sm-offset-2 col-xs-offset-5 col-md-4 col-sm-10 col-xs-7 text-right">
-                            <a href="/en/services/digital-marketing.php" class="btn btn--yellow"><span>Make a plan</span></a>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- <div class="container__">
-                <div class="text-center our-portfolio">
-                    <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Contact us and we will
-                        present to
-                        you our previous portfolios
-                        regarding development,
-                        maintenance and operation. You can contact us from here:</p>
-                    <a href="contact.php" class="btn btn-contact-us-black"
-                        onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
-                        Contact us for LOGIQUE's portfolio
-                    </a>
-                </div>
-            </div> -->
-
+         
             <?php include './portfolio-links.php';?>
 
         </div>
 
         <?php include '../footer.php';?>
     </div>   
+    
+    <!--modal jba  -->
+    <div class="modal modal-dm modal-jba fade" id="modal-jba" tabindex="-1" role="dialog" aria-labelledby="modal-jba">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <button class="btn-close-modal" data-dismiss="modal" aria-label="Close">
+                    <img src="/img/portfolio/update/icon-close.png" alt="">
+                </button>
+                <div class="modal-body">
+                    <div class="modal-body-header" style="background-image: url('/img/portfolio/update/bg-jba-modal-header.jpg');">
+                        <p class="modal-dm-company">PT. JBA Indonesia</p>
+                        <h3 class="modal-dm-title">Mengembangkan Brand Awareness dan Conversions Melalui Facebook Instagram dan Google Advertisement.</h3>
+                        <p class="modal-dm-service">SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                    </div>
+                    <div class="modal-section modal-body-client" style="background-image: url('/img/portfolio/update/bg-jba-modal-blue.jpg');">
+                        <div class="flex__row">
+                            <div class="col-lg-4 col-xs-12 modal-section-title-wrapper">
+                                <h4 class="modal-section-title">CLIENT'S BACKGROUND</h4>
+                            </div>
+                            <div class="col-lg-8 col-xs-12">
+                                <div class="section-content-wrapper">
+                                    <p>Saat ini, JBA telah memiliki lebih dari 18 cabang, hub, dan pool di berbagai kota-kota besar di Indonesia. Dan, JBA akan terus melebarkan layanan dan bisnis lelangnya dengan rencana bisnis yang inovatif dan produktif. JBA juga mengadaptasi berbagai teknologi dan sistem komunikasi terkini untuk dapat memberikan yang terbaik bagi penitip kendaraan, pembeli kendaraan, dan masyarakat luas. JBA akan terus berinovasi untuk mempertahankan layanan dan bisnis lelang yang prima serta tetap menjadi yang terdepan di Indonesia.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-section modal-body-approach">
+                        <div class="flex__row">
+                            <div class="col-lg-4 col-xs-12 modal-section-title-wrapper">
+                                <h4 class="modal-section-title">APPROACHING STRATEGY</h4>
+                            </div>
+                            <div class="col-lg-8 col-xs-12">
+                                <div class="section-content-wrapper">
+                                    <p>Logique membuat Advertisement Campaign dengan Channels & Placements yang ditetapkan berdasarkan produk yang ditawarkan dan Audience/Customer potential, dengan:</p>
+                                    <ul class="approach-list">
+                                        <li><p>Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</p></li>
+                                        <li><p>Membuat iklan yang lebih relevan yang memungkinkan meningkatkan Skor Kualitas iklan.</p></li>
+                                        <li><p>Membatasi jumlah Audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol.</p></li>
+                                        <li><p>Mengendalikan penguasaan market lelang otomotif melalui Advertisement Campaign, dengan menjaga harga bid CPC dan kualitas Iklan.</p></li>
+                                        <li><p>Secara aktif bekerja sama dengan team branding JBA untuk memastikan setiap Campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</p></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-section modal-body-result" style="background-image: url('/img/portfolio/update/bg-jba-modal-result.jpg');">
+                        <div class="flex__row">
+                            <div class="col-lg-4 col-xs-12 modal-section-title-wrapper">
+                                <h4 class="modal-section-title">THE RESULT</h4>
+                                <p class="modal-result-text">Dengan strategy yang Logique terapkan, kami berhasil membuat iklan yang disesuaikan dengan relevansi tinggi yang ditautkan langsung ke halaman produk atau kategori.</p>
+                            </div>
+                            <div class="col-lg-8 col-xs-12">
+                                <div class="section-content-wrapper">
+                                    <div class="flex__row">
+                                        <div class="col-md-6 col-xs-12">
+                                            <div class="result__box">
+                                                <h5>+8%</h5>
+                                                <p>Conversion Rate</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-xs-12">
+                                            <div class="result__box">
+                                                <h5>+15%</h5>
+                                                <p>Cost Per Click (CPC)</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-xs-12">
+                                            <div class="result__box">
+                                                <h5>+10%</h5>
+                                                <p>Conversions</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 col-xs-12">
+                                            <div class="result__box">
+                                                <h5>+43%</h5>
+                                                <p>CTR</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-section modal-body-takeaway" style="background-image: url('/img/portfolio/update/bg-jba-modal-blue.jpg');">
+                        <h4>Key Takeaway</h4>
+                        <p>Tingginya permintaan akan kebutuhan property di Indonesia serta tingginya kompetisi market menjadi tantangan yang mendorong team Logique terus berinovasi dan mengembangkan pendekatan strategy yang unik untuk mampu memberikan kesan kepada setiap calon konsumen tertarik untuk melakukan booking maupun interaksi.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
     </script>
     <script>

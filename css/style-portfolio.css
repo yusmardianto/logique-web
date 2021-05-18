@@ -35,332 +35,283 @@
     padding: 0;
 }
 
-/* row */
-.justify-content-center {
-    justify-content: center;
+
+/* 
+    ``````````````````````````````````````````````````````````````````````
+    Reference for below class : https://tailwindcss.com/docs/utility-first
+
+    ``````````````````````````````````````````````````````````````````````
+*/
+
+.relative {
+    position: relative !important;
 }
 
-.container__.banner-detail__content{
-    padding: 0px;
-}
-.portfolio-update.ind .content__item.content__item--dm{
-    cursor: pointer;
-}
-.wording__box{
-    text-align: center;
-    background: black;
-    color: white;
-    padding: 20px 0;
-    font-size: 24px;
-    border-radius: 4px;
-}
-.modal-dm .modal-body{
-    padding: 5px;
+.-left-1{
+    left: -4px !important; 
 }
 
-.modal-dm .modal-body .modal-body-header{
-    color: white;
-    text-align: center;
-    font-weight: bold;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-position: center;
-    padding: 60px 80px;
+.-left-2{
+    left: -8px !important; 
 }
 
-.modal-dm .modal-body .modal-body-header .modal-dm-company{
-    font-size: 14px;
-    font-weight: 600;
-    padding-bottom: 15px;
-}
-.modal-dm .modal-body .modal-body-header .modal-dm-title{
-    font-size: 25px;
-    font-weight: 800;
-    line-height: 1.2;
-    margin-bottom: 10px;
-}
-.modal-dm .modal-body .modal-body-header .modal-dm-service{
-    font-size: 14px;
-    line-height: 1.2;
-    font-weight: 400;
-}
-.modal-dm .modal-body .modal-body-result .result__box{
-    border: 1px solid white;
-    background: rgba(207, 33, 43, 0.6);
-    text-align: center;
-    padding: 15px 0;
-    color: white;
-    border-radius: 8px;
-    margin-bottom: 15px;
-}
-.modal-dm .modal-body .modal-body-result .result__box h5{
-    font-size: "Raleway";
-    font-weight: 900;
-    font-size: 35px;
+.left-0 {
+    left: 0px !important; 
 }
 
-.modal-dm .modal-section{
-    padding: 30px 0;
+.left-1 {
+    left: 4px !important ;
 }
 
-.modal-dm .modal-body .modal-body-client{
-    background-size: cover;
-    background-position: bottom;
+.bottom-0 {
+    bottom: 0px !important;
 }
-.modal-dm .modal-body .modal-section-title-wrapper{
-    display: flex;
+
+.bottom-1 {
+    bottom: 4px !important;
+}
+
+/* 
+    MARGIN
+*/
+
+.m-0{
+    margin: 0px;
+}
+
+.m-1{
+    margin: 4px;
+}
+
+.m-2{
+    margin: 8px;
+}
+
+.mt-2 {
+    margin-top: 8px !important;
+}
+
+.mt-3 {
+    margin-top: 12px !important;
+}
+
+.mt-4 {
+    margin-top: 16px !important;
+}
+
+.mt-5 {
+    margin-top: 20px !important;
+}
+
+.mt-6 {
+    margin-top: 24px !important;
+}
+
+.mt-7 {
+    margin-top: 28px !important;
+}
+
+.mt-12 {
+    margin-top: 48px !important;
+}
+
+.mt-20 {
+    margin-top: 80px;
+}
+
+.mb-0 {
+    margin-bottom: 0px;
+}
+
+.mb-1 {
+    margin-bottom: 0.25rem;
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.mb-3 {
+    margin-bottom: 0.75rem;
+}
+
+.mb-4 {
+    margin-bottom: 1rem;
+}
+
+.mb-5 {
+    margin-bottom: 1.25rem;
+}
+
+.mb-6 {
+    margin-bottom: 1.5rem;
+}
+
+.ml-0 {
+    margin-left: 0px !important;
+}
+
+.mr-0 {
+    margin-right: 0px;
+}
+
+.mr-1 {
+    margin-right: 0.25rem;
+}
+
+.mr-2 {
+    margin-right: 0.5rem;
+}
+
+.mr-3 {
+    margin-right: 0.75rem;
+}
+
+.mr-4 {
+    margin-right: 1rem;
+}
+
+/* 
+    PADDING 
+*/
+.pb-0 {
+    padding-bottom: 0px;
+}
+
+.pb-1 {
+    padding-bottom: 0.25rem;
+}
+
+.pb-2 {
+    padding-bottom: 0.5rem;
+}
+
+.pb-3 {
+    padding-bottom: 0.75rem;
+}
+
+.pb-4 {
+    padding-bottom: 1rem;
+}
+
+.pb-5 {
+    padding-bottom: 1.25rem;
+}
+
+.pb-6 {
+    padding-bottom: 1.5rem;
+}
+
+.pb-7 {
+    padding-bottom:  1.75rem;
+}
+
+.pb-8 {
+    padding-bottom: 2rem;
+}
+
+.pb-9 {
+    padding-bottom: 2.25rem;
+}
+
+.pb-40 {
+    padding-bottom: 10rem;
+}
+
+/* 
+    FLEX
+*/
+
+.flex-col {
     flex-direction: column;
+}
+
+.justify-center{
     justify-content: center;
 }
-.modal-dm .modal-body .modal-section-title{
-    font-family: 'Raleway', sans-serif;
-    font-size: 25px;
-    padding-left: 40px;
-    font-weight: 900;
-}
-.modal-dm .modal-body .section-content-wrapper{
-    padding: 0 40px 0 40px;
+
+.self-item-center{
+    align-self: center;
+    flex-basis: auto;
 }
 
-.modal-dm .modal-body .approach-list{
-    padding-left: 11px;
-    list-style-type: none;
-    padding-top: 10px;
+.text-white {
+    color: rgb(255, 255, 255)
 }
-.modal-dm .modal-body .approach-list li{
-    position: relative;
-    padding-left: 15px;
-    /* border-left: 2px solid #cc1500; */
-    padding-bottom: 10px;
-    margin-top: 0px;
+
+.text-blue-card {
+    color: rgb(26, 38, 98);  
 }
-.modal-dm .modal-body .approach-list li::before{
+
+ul .approach-items {
+    list-style: none;
+}
+  
+li.approach-item::before {
     position: absolute;
     content: "";
-    width: 15px;
-    height: 15px;
+    width: 12px;
+    height: 12px;
     background-color: #cf212b;
-    left: -8.5px;
-    top: 6px;
     border-radius: 100%;
-}
-.modal-dm .modal-body .approach-list li::after{
-    position: absolute;
-    content: "";
-    width: 2px;
-    background-color: #cf212b;
-    height: 100%;
-    top: 10px;
-    left: -2px;
-}
-.modal-dm .modal-body .approach-list li:last-of-type::after{
-    content: none;
+    left: -8px;
+    margin-top: 8px;
 }
 
-.modal-dm .modal-body .modal-body-result{
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-position: center;
-}
-.modal-dm .modal-body .modal-result-text{
-    padding-left: 40px;
-    font-size: 12px;
-    color: white;
-    margin-bottom: 20px;
-}
-.modal-dm .modal-body .modal-body-takeaway{
+.text-center {
     text-align: center;
-    padding: 40px;
-    background-size: cover;
-    background-position: bottom;
-}
-.modal-dm .modal-body .modal-body-takeaway h4{
-    font-size: 20px;
-    font-weight: 800;
-    font-family: "Raleway";
-    margin-bottom: 10px;
-    letter-spacing: 0.8px;
 }
 
-/* modal jba */
-
-.modal-jba .modal-body .modal-body-header{
-    color: white;
-    text-align: center;
-    font-weight: bold;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    background-position: center;
-    padding: 60px;
+.text-xs {
+    font-size: 0.75rem;
+    line-height: 1rem;
 }
 
-.modal-jba .modal-body .modal-section-title,
-.modal-jba .modal-body .section-content-wrapper{
-    color: white;
-}
-.modal-jba .modal-body-approach {
-    background-color: #0c1442;
-}
-.modal-jba .modal-body .approach-list li::before,
-.modal-jba .modal-body .approach-list li::after{
-    background-color: rgb(238, 50, 66);
-}
-.modal-jba .modal-body .modal-body-result .result__box{
-    background:  rgba(12, 20, 66, 0.4);
-    border: 1px solid rgb(237, 56, 67);
-}
-.modal-jba .modal-body .modal-body-takeaway{
-    color: white;
-}
-/* modal sumitomo */
-.modal-sumitomo .modal-body .modal-section-title,
-.modal-sumitomo .modal-body .section-content-wrapper{
-    color: white;
-}
-.modal-sumitomo .modal-body-approach {
-    background-color: #035fa4;
-}
-.modal-sumitomo .modal-body .approach-list li::before,
-.modal-sumitomo .modal-body .approach-list li::after{
-    background-color: rgb(70, 176, 255);
-}
-.modal-sumitomo .modal-body .modal-body-result .result__box{
-    background:  rgba(3, 89, 153, 0.73);
-    border: 1px solid rgb(255, 255, 255);
-}
-.modal-sumitomo .modal-body .modal-result-text{
-    margin-bottom: 20px;
-}
-.modal-sumitomo .modal-body .modal-body-takeaway{
-    color: white;
-}
-/* modal tokoparts */
-.modal-tokoparts .modal-body .modal-body-result .modal-section-title{
-    color: white;
-}
-.modal-tokoparts .modal-body .modal-body-result .modal-result-text{
-    margin-bottom: 20px;
+.text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
 }
 
-.modal-tokoparts .modal-body .modal-result-text{
-    padding-left: 40px;
-    font-size: 12px;
+.text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
 }
 
-/* modal greenbamboo */
-.modal-greenbamboo .modal-body .modal-body-header .modal-dm-company,
-.modal-greenbamboo .modal-body .modal-section-title{
-    color: #f1cd6f;
-}
-.modal-greenbamboo .modal-body .section-content-wrapper{
-    color: white;
-}
-.modal-greenbamboo .modal-body-approach {
-    background-color:#0b584c;
-}
-.modal-greenbamboo .modal-body .approach-list li::before,
-.modal-greenbamboo .modal-body .approach-list li::after{
-    background-color: rgb(241, 205, 111);
-}
-.modal-greenbamboo .modal-body .modal-body-result .modal-section-title{
-    color: #f1cd6f;
-}
-.modal-greenbamboo .modal-body .modal-body-result .result__box{
-    background: rgba(1, 155, 128, 0.5);
-    border: 1px solid rgb(241, 205, 111);
-}
-.modal-greenbamboo .modal-body .modal-body-result .result__box h5,
-.modal-greenbamboo .modal-body .modal-body-takeaway h4{
-    color: #f1cd6f;
-}
-.modal-greenbamboo .modal-body .modal-body-takeaway{
-    color: white;
-}
-/* modal mirai */
-.modal-mirai .modal-body .modal-body-header .modal-dm-company,
-.modal-mirai .modal-body .modal-section-title{
-    color: #ffc06c;
-}
-.modal-mirai .modal-body .section-content-wrapper{
-    color: white;
-}
-.modal-mirai .modal-body-approach {
-    background-color:#173553;
-}
-.modal-mirai .modal-body .approach-list li::before,
-.modal-mirai .modal-body .approach-list li::after{
-    background-color: #ff9542;
-}
-.modal-mirai .modal-body .modal-body-result .modal-section-title{
-    color: #ffc06c;
-}
-.modal-mirai .modal-body .modal-body-result .result__box{
-    background: rgba(14, 41, 70, 0.58);
-    border: 1px solid rgb(255, 149, 66);
-}
-.modal-mirai .modal-body .modal-body-result .result__box h5,
-.modal-mirai .modal-body .modal-body-takeaway h4{
-    color: #ffc06c;
-}
-.modal-mirai .modal-body .modal-body-takeaway{
-    color: white;
-}
-/* modal pilipili */
-.modal-pilipili .modal-body .modal-section-title,
-.modal-pilipili .modal-body .section-content-wrapper{
-    color: white;
-}
-.modal-pilipili .modal-body-approach {
-    background-color: #193858;
-}
-.modal-pilipili .modal-body .approach-list li::before,
-.modal-pilipili .modal-body .approach-list li::after{
-    background-color: #eb0029;
-}
-.modal-pilipili .modal-body .modal-body-result .result__box{
-    background: rgba(14, 41, 70, 0.58);
-    border: 1px solid rgb(208, 16, 54);
-}
-.modal-pilipili .modal-body .modal-result-text{
-    margin-bottom: 20px;
-}
-.modal-pilipili .modal-body .modal-body-takeaway{
-    color: white;
-}
-.btn-close-modal{
-    position: absolute;
-    top: -20px;
-    right: -20px;
-    z-index: 1;
-    width: 40px;
-    height: 40px;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 100%;
-    border: none;
-    background: white;
-    box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.2);
-}
-.btn-close-modal:hover{
-    background: #ebebeb;
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
 }
 
-@media (max-width: 1199.98px) {
-    .portfolio-update__content .container__ {
-        width: auto;
-    }
+.text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
 }
 
-@media (max-width: 991px){
-    .container__.banner-detail__content{
-        padding-left: 2.5em;
-    }
+.text-7xl {
+    font-size: 4.5rem;
+    line-height: 1;
 }
+
+.text-8xl {
+    font-size: 6rem;
+    line-height: 1;
+}
+
+.text-9xl {
+    font-size: 8rem;
+    line-height: 1;
+}
+
+
+.card-result {
+    width: 100%;
+    height: 106px;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.21);
+
+}
+
+
+
+
