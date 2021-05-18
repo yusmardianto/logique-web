@@ -162,9 +162,9 @@ footer {
                                             <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>    
                                         </ul>
                                         <ul class="footer-submenu">
-                                            <li><a href="/en/services/project-management.php">Our Project Management</a> </li>
-                                            <li><a href="/en/services/devops.php">Server Cloud Management Service</a> </li>
-                                            <li><a href="#"> Flat-rate DX/DM Service</a> </li>
+                                            <li><a href="/jp/services/project-management.php">プロジェクトマネジメントについて</a> </li>
+                                            <li><a href="/jp/services/devops.php">クラウドサーバー運用サービス</a> </li>
+                                            <li><a href="#"> 定額DX/DMサービス</a> </li>
                                         </ul>
                                     </li> 
                                    
@@ -181,8 +181,8 @@ footer {
                                         </ul> 
                                     </li> 
                                     <li><a href="/case-study/">事例紹介</a></li>  
-                                    <li><a href="/blog/category/interview/">Interviews</a></li> 
-                                    <li><a href="/white-paper.php">White Paper Download</a></li> 
+                                    <li><a href="/blog/category/interview/">インタビュー</a></li> 
+                                    <li><a href="/white-paper.php"> ホワイトペーパー</a></li> 
                                     <li class="have-submenu" ><a href="/jp/product.php">プロダクト</a> 
                                         <ul>
                                         <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
@@ -196,7 +196,7 @@ footer {
                             </div>
                             <div class="col-sm-4 link-footer-nav"> 
                                 <ul>  
-                                    <li><a href="/career/">採用/パートナー (求人/インターン)</a> 
+                                    <li><a href="/career/">採用</a> 
                                         <ul class="footer-submenu">    
                                             <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
                                             <li><a href="/career/pengembangan-karir/">Pengembangan Karir</a></li>
@@ -207,7 +207,7 @@ footer {
                                                
                                             </ul>
                                         </li>  
-                                          <li> <a href="/career/lowongan/"  >Lowongan Kerja </a>
+                                          <li> <a href="/career/lowongan/"  >求人 </a>
                                             <ul class="footer-submenu">
                                                 <li><a href="/career/lowongan/programmer/">Lowongan Programmer</a></li>
                                                 <li><a href="/career/lowongan/it-generalist/">Lowongan IT Generalist</a></li>
