@@ -155,11 +155,13 @@
                         <div class="content__wrapper">
                             <div class="flex__row">
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-jba-bg.png')" data-toggle="modal" data-target="#modal-jba">
-                                        <img src="/img/portfolio/update/dm-jba.png" alt="">
-                                        <h4>Real Estate - JBA</h4>
-                                        <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
-                                    </div>
+                                    <a href="/portofolio/digital-marketing/JBA-Indonesia.php">
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-jba-bg.png')">
+                                            <img src="/img/portfolio/update/dm-jba.png" alt="">
+                                            <h4>Real Estate - JBA</h4>
+                                            <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                                        </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
