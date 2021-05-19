@@ -73,9 +73,9 @@
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing.php';
-            $id_link = '#';
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/portofolio/digital-marketing/JBA-Indonesia.php';
             $jp_link = '/jp/portfolio/digital-marketing.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
@@ -163,7 +163,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>Client's Background</h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
                                     JBA Indonesia is a client of LOGIQUE's that works within the automotive auction industry. Entering the Indonesian auction market in 2011, JBA Indonesia to date has more than 18 branches, hubs and pools situated within various major cities across Indonesia. As a pioneer vehicle auctioning company, JBA is committed to the expansion of its auction business through a uniquely innovative business strategy.
                                 </p>
@@ -216,7 +216,7 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/update/bg-jba-modal-header.jpg');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/bg-portofolio-section-bottom.png');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-7">
