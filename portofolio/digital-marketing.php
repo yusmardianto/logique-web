@@ -173,11 +173,13 @@
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
-                                        <img src="/img/portfolio/update/dm-tokoparts.png" alt="">
-                                        <h4>E Commerce - Tokoparts</h4>
-                                        <p>SEO | Website Maintenance</p>
-                                    </div>
+                                    <a href="/portofolio/digital-marketing/tokoparts.php">                                                             
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
+                                            <img src="/img/portfolio/update/dm-tokoparts.png" alt="">
+                                            <h4>E Commerce - Tokoparts</h4>
+                                            <p>SEO | Website Maintenance</p>
+                                        </div>
+                                    </a>                                
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
