@@ -137,11 +137,13 @@
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
-                                        <img src="/img/portfolio/update/dm-sumitomo.png" alt="">
-                                        <h4>Sumitomo Heavy Industry (SHI)</h4>
-                                        <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
-                                    </div>
+                                    <a href="/en/portfolio/digital-marketing/sumitomo.php">                                
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
+                                            <img src="/img/portfolio/update/dm-sumitomo.png" alt="">
+                                            <h4>Sumitomo Heavy Industry (SHI)</h4>
+                                            <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                                        </div>
+                                    </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
@@ -185,96 +187,7 @@
         <?php include '../footer.php';?>
     </div>   
     
-    <!--modal jba  -->
-    <div class="modal modal-dm modal-jba fade" id="modal-jba" tabindex="-1" role="dialog" aria-labelledby="modal-jba">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <button class="btn-close-modal" data-dismiss="modal" aria-label="Close">
-                    <img src="/img/portfolio/update/icon-close.png" alt="">
-                </button>
-                <div class="modal-body">
-                    <div class="modal-body-header" style="background-image: url('/img/portfolio/update/bg-jba-modal-header.jpg');">
-                        <p class="modal-dm-company">PT. JBA Indonesia</p>
-                        <h3 class="modal-dm-title">Mengembangkan Brand Awareness dan Conversions Melalui Facebook Instagram dan Google Advertisement.</h3>
-                        <p class="modal-dm-service">SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
-                    </div>
-                    <div class="modal-section modal-body-client" style="background-image: url('/img/portfolio/update/bg-jba-modal-blue.jpg');">
-                        <div class="flex__row">
-                            <div class="col-lg-4 col-xs-12 modal-section-title-wrapper">
-                                <h4 class="modal-section-title">CLIENT'S BACKGROUND</h4>
-                            </div>
-                            <div class="col-lg-8 col-xs-12">
-                                <div class="section-content-wrapper">
-                                    <p>Saat ini, JBA telah memiliki lebih dari 18 cabang, hub, dan pool di berbagai kota-kota besar di Indonesia. Dan, JBA akan terus melebarkan layanan dan bisnis lelangnya dengan rencana bisnis yang inovatif dan produktif. JBA juga mengadaptasi berbagai teknologi dan sistem komunikasi terkini untuk dapat memberikan yang terbaik bagi penitip kendaraan, pembeli kendaraan, dan masyarakat luas. JBA akan terus berinovasi untuk mempertahankan layanan dan bisnis lelang yang prima serta tetap menjadi yang terdepan di Indonesia.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="modal-section modal-body-approach">
-                        <div class="flex__row">
-                            <div class="col-lg-4 col-xs-12 modal-section-title-wrapper">
-                                <h4 class="modal-section-title">APPROACHING STRATEGY</h4>
-                            </div>
-                            <div class="col-lg-8 col-xs-12">
-                                <div class="section-content-wrapper">
-                                    <p>Logique membuat Advertisement Campaign dengan Channels & Placements yang ditetapkan berdasarkan produk yang ditawarkan dan Audience/Customer potential, dengan:</p>
-                                    <ul class="approach-list">
-                                        <li><p>Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</p></li>
-                                        <li><p>Membuat iklan yang lebih relevan yang memungkinkan meningkatkan Skor Kualitas iklan.</p></li>
-                                        <li><p>Membatasi jumlah Audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol.</p></li>
-                                        <li><p>Mengendalikan penguasaan market lelang otomotif melalui Advertisement Campaign, dengan menjaga harga bid CPC dan kualitas Iklan.</p></li>
-                                        <li><p>Secara aktif bekerja sama dengan team branding JBA untuk memastikan setiap Campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</p></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="modal-section modal-body-result" style="background-image: url('/img/portfolio/update/bg-jba-modal-result.jpg');">
-                        <div class="flex__row">
-                            <div class="col-lg-4 col-xs-12 modal-section-title-wrapper">
-                                <h4 class="modal-section-title">THE RESULT</h4>
-                                <p class="modal-result-text">Dengan strategy yang Logique terapkan, kami berhasil membuat iklan yang disesuaikan dengan relevansi tinggi yang ditautkan langsung ke halaman produk atau kategori.</p>
-                            </div>
-                            <div class="col-lg-8 col-xs-12">
-                                <div class="section-content-wrapper">
-                                    <div class="flex__row">
-                                        <div class="col-md-6 col-xs-12">
-                                            <div class="result__box">
-                                                <h5>+8%</h5>
-                                                <p>Conversion Rate</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-xs-12">
-                                            <div class="result__box">
-                                                <h5>+15%</h5>
-                                                <p>Cost Per Click (CPC)</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-xs-12">
-                                            <div class="result__box">
-                                                <h5>+10%</h5>
-                                                <p>Conversions</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 col-xs-12">
-                                            <div class="result__box">
-                                                <h5>+43%</h5>
-                                                <p>CTR</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="modal-section modal-body-takeaway" style="background-image: url('/img/portfolio/update/bg-jba-modal-blue.jpg');">
-                        <h4>Key Takeaway</h4>
-                        <p>Tingginya permintaan akan kebutuhan property di Indonesia serta tingginya kompetisi market menjadi tantangan yang mendorong team Logique terus berinovasi dan mengembangkan pendekatan strategy yang unik untuk mampu memberikan kesan kepada setiap calon konsumen tertarik untuk melakukan booking maupun interaksi.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+ 
 
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">

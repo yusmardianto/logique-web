@@ -16,10 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Strategi digital marketing di perusahaan lelang JBA Indonesia dijalankan untuk meningkatkan brand awareness dan conversions. Simak strategi kami di sini!">
+        content="Sumitomo implements an SEO strategy improving overall website quality. LOGIQUE has succeeded in bringing about significant improvements.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/JBA-Indonesia.php">
-    <title>JBA Indonesia | Portofolio Performa Digital Marketing</title>
+    <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/sumitomo.php">
+    <title>Sumitomo (SHI) | Digital Marketing Performance Portfolio</title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -73,9 +73,9 @@
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/JBA-Indonesia.php';
-            $id_link = '#';
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/portofolio/digital-marketing/sumitomo.php';
             $jp_link = '/jp/portfolio/digital-marketing.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
@@ -120,12 +120,12 @@
                                             itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/en/portfolio/digital-marketing.php"
                                             itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;JBA Indonesia</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Sumitomo Heavy Industries</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -133,21 +133,21 @@
                         </div>
                     </div>
                 </div>
-                <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/update/bg-jba-modal-header.jpg'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/sumitomo/bg-header.png'); background-position: center; padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/update/dm-jba.png" 
+                                    src="/img/portfolio/digitalmarketing/sumitomo/logo.png" 
                                     alt="" 
+                                    style="width: 65%; "
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>PT. JBA Indonesia </h1></div>
+                                <div class="title text-white"><h1>Sumitomo Heavy Industries (SHI) </h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Mengembangkan Brand Awareness dan Conversions Melalui Facebook Instagram dan Google Advertisement.                                                                  
+                                    Improve Website Quality and Quality Through Search Engine Optimization (SEO)
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -165,21 +165,21 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    JBA Indonesia merupakan salah satu klien LOGIQUE yang bergerak pada bidang lelang otomotif. Perusahaan ini masuk pasar lelang Indonesia pada tahun 2011 dan sampai saat ini sudah mempunyai lebih dari 18 cabang, hub, dan pool di berbagai kota besar di Indonesia. Sebagai pionir perusahaan lelang mobil, JBA berkomitmen untuk terus melebarkan layanan dan bisnis lelangnya dengan rencana bisnis yang inovatif dan produktif. 
+                                    Sumitomo Heavy Industries is a company that specializes in machine manufacturing, producing a wide variety of goods which range from advanced precision machinery to customized machinery. Further, the manufacturing of ships, as well as factory and environmental facilities is a service also provided by Sumitomo. 
                                 </p>
                                 <p class="title__description">
-                                    JBA juga menjadi perusahaan yang aktif dalam hal pengembangan informasi serta digital user experience. Perusahaan ini dapat mengadaptasi berbagai teknologi dan sistem komunikasi terkini untuk dapat memberikan yang terbaik bagi penitip kendaraan, pembeli kendaraan, serta masyarakat luas. JBA percaya bahwa memaksimalkan pemanfaatan teknologi menjadi upaya penting untuk dapat memberikan layanan secara lebih efektif kepada para pelanggannya.
+                                    Sumitomo Heavy Industries provides high quality products and solutions and is supported by technology that has been tested by its customers around the world. Through these means, Sumitomo Heavy Industries hopes to be able to support its community, thereby making people's lives easier. In addition, Sumitomo Heavy Industries also wants to realize the company's mission in becoming a manufacturer of world class products and services throughout the world.
                                 </p>
                                 <p class="title__description">
-                                    JBA juga terus berinovasi untuk mempertahankan layanan dan bisnis lelang yang prima serta tetap menjadi yang terdepan di Indonesia. Meskipun saat ini, JBA sudah menjadi perusahaan lelang mobil berskala besar di Indonesia, namun JBA terus mengambil langkah-langkah inovatif untuk mengembangkan bisnisnya.
-                                </p>
-                                <p class="title__description">
-                                    JBA Indonesia memutuskan untuk menggunakan layanan digital marketing dari LOGIQUE untuk mengembangkan brand awarenes dan conversion yaitu dengan menggunakan Facebook, Instagram, dan Google Advertisement. Dengan strategi pemasaran digital ini, JBA Indonesia dapat mengembangkan brand awareness dan akan semakin dikenal sebagai perusahaan lelang mobil terbaik di Indonesia.
-                                </p>
+                                    In the pursuit of this goal, the company will continue to innovate and leverage its technological capabilities so as to reach a wider audience. One of the ways this can be achieved is by digital means, specifically through the use of a website.
+                                </p>        
+                                <p class="title__descri ption">
+                                    Further, Sumitomo Heavy Industries ensures the overall quality of its website in terms of its design and performance so that information related to the company’s services or products can be accessed by the wider public in an easy and comprehensive manner. In order to ensure optimal website performance, Sumitomo Heavy Industries has decided to use the digital marketing services provided by LOGIQUE, namely in regards to search engine optimization (SEO). Through this optimization strategy, Sumitomo's website has experienced optimal levels of performance and moreover, the website holds a good ranking through Google search engine pages.
+                                </p>                    
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/bg-portofolio-jba.webp" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/sumitomo/pict-client-background.webp" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -193,20 +193,23 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    Efektifitas Facebook, Instagram, serta Google Advertisement sangat dipengaruhi oleh penargetan audience yang tepat. Strategi digital marketing di perusahaan lelang otomotif JBA Indonesia kami mulai dengan melakukan analisa mendalam mengenai service atau produk yang ditawarkan. Setelah itu, kami juga melakukan audience profiling di perusahaan JBA Indonesia yaitu proses untuk menentukan dan mengetahui target audience yang tepat.
+                                    In order to improve the quality of Sumitomo's website, LOGIQUE first takes several crucial steps in determining the overall potential of the website.This consists of the LOGIQUE team first making a comprehensive and structured plan in regards to the overall improvement and development of the website’s quality.
                                 </p>
                                 <p class="title__description" >
-                                    Dari hasil analisa tersebut, LOGIQUE kemudian membuat Advertisement Campaign dengan Channels & Placements yang ditetapkan berdasarkan produk yang ditawarkan dan Audience atau Customer potential. Berikut solusi dan strategi digital marketing di perusahaan lelang yang kami berikan saat menjalankan Facebook, Instagram, dan Google Advertisement:
+                                    In addition, the LOGIQUE team also develops content so as to make the site more relevant to niche targeted areas of the market. Besides improving website quality, we also specialize in digital marketing strategies so as to increase the satisfaction of every user or customer visiting SHI’s site. 
+                                </p>
+                                <p class="title__description" >
+                                    The following shows LOGIQUE’s general Search Engine Optimization (SEO) strategies that have been conducted for Sumitomo’s website:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan Skor Kualitas iklan.</li>
-                                    <li class="approach-item">Membatasi jumlah Audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market lelang otomotif melalui Advertisement Campaign, dengan menjaga harga bid CPC dan kualitas Iklan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding JBA untuk memastikan setiap Campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">Conduct a comprehensive website audit for all existing pages.</li>
+                                    <li class="approach-item">Develop a website page repair plan in regards to any problematic aspects existing throughout all pages. This can be done by classifying these problems in order of priority.</li>
+                                    <li class="approach-item">Improve the quality of all appropriate existing website content and add further relevant information for the convenience of potential visitors.</li>
+                                    <li class="approach-item">Monitor keyword positions and actively follow the development of the Search Engine Algorithm so that any changes which are implemented, are done based on the parameters set by the search engine.</li>
+                                    <li class="approach-item">Actively work with both Front End & Back End developer teams so as to improve the website’s overall quality, from image optimization to increasing the website’s page speed.</li>
                                 </ul>
                             </div>
                         </div>
@@ -216,49 +219,63 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/bg-portofolio-section-bottom.png');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/sumitomo/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-7">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Dengan strategi digital marketing yang tim LOGIQUE terapkan, kami berhasil menjalankan iklan di platform Facebook, Instagram, dan Google yang disesuaikan dengan relevansi tinggi serta ditautkan langsung ke halaman produk atau kategori. Dari Advertisement Campaign LOGIQUE tersebut, JBA Indonesia memperoleh peningkatan secara signifikan sebagai berikut:
+                                    Through the implementation of LOGIQUE’s digital marketing strategies, we have succeeded in improving, not only the overall quality of the website, but also the position of its potential keywords which have been tailored to a high level of relevance, being linked directly to the product or category pages. Through the Search Engine Optimization (SEO) process, Sumitomo’s website has significantly increased in regards to the following metrics:
                                 </p>
                             </div>
                             <div class="col-md-5 col-xs-12 mt-7">
-                                <div class="col-md-6 col-xs-12">    
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
-                                    </div>
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+10%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
-                                    </div>   
+                              
+                                <div class="row">
+                                    <div class="col-md-6 col-xs-12">    
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-blue-card text-6xl">+34%</h5>                                  
+                                            <p class="text-blue-card text-xl mt-2"><b>Total Clicks</b></p>
+                                        </div>
+                                          
+                                    </div>                              
+                                    <div class="col-md-6 col-xs-12">    
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center" >
+                                            <h5 class="card-text text-blue-card text-6xl">+77%</h5>                                  
+                                            <p class="text-blue-card text-xl mt-2"><b>Total Impression</b></p>
+                                        </div>
+                                    </div>    
                                 </div>
-                                
-                                <div class="col-md-6 col-xs-12">    
-                                    
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                <div class="row">
+                                    <div class="col-md-4 col-xs-12">                                          
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-blue-card text-6xl">+20%</h5>                                  
+                                            <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
+                                        </div>   
                                     </div>
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+43%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
-                                    </div>   
-                                </div>
+                                    <div class="col-md-4 col-xs-12">                                                                                                                          
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-blue-card text-6xl">+7%</h5>                                  
+                                            <p class="text-blue-card text-xl mt-2"><b>Average Position</b></p>
+                                        </div>
+                                    </div>
 
+                                    <div class="col-md-4 col-xs-12">                                                                                                                          
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-blue-card text-6xl">-28%</h5>                                  
+                                            <p class="text-blue-card text-xl mt-2"><b>Bounce Rate</b></p>
+                                        </div>   
+                                    </div>                                                                                             
+                                </div>
                             </div>
-                        </div>
-
-                        <hr class="mt-7" />
-
+                        
+                                        
+                        <hr style="border: 1px solid white;" /> 
+                        
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Tingginya persaingan di pasar lelang menjadi tantangan yang mendorong tim LOGIQUE untuk terus berinovasi dan mengembangkan pendekatan strategi pemasaran digital yang maksimal, unik, serta mampu memberikan kesan kepada setiap calon konsumennya. Dengan solusi yang telah kami berikan, secara signifikan perusahaan dapat meningkatkan brand awareness, menarik lebih banyak interaksi dengan pelanggan, serta menghasilkan conversion yang lebih tinggi daripada sebelumnya. 
+                                    Understanding the client’s Products as well as the Intents Audiences are important factors in determining the direction of website’s development. In addition, the search engine optimization strategy can also be implemented so as to ensure an appropriate level of user satisfaction and to maintain the quality of the website so that it remains optimal and in accordance with the Search Engine Algorithm. Through the provided solutions, companies can significantly generate more visits, improve their website’s rankings, and increase their site’s impressions.
                                 </p>
                             </div>
                         </div>
