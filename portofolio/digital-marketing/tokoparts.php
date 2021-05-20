@@ -132,14 +132,14 @@
                             </div>
                         </div>
                     </div>
-                </div>               
-                <!-- background-position: center; background-repeat: no-repeat; -->
+                </div>                               
                 <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/tokoparts/bg-header.png'); padding: 54px; background-position: center; background-repeat: no-repeat;">   
+                <!-- <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/tokoparts/bg-header.png'); padding: 54px;">    -->
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/tokoparts/logo.PNG" 
+                                    src="/img/portfolio/digitalmarketing/tokoparts/logo_transparent.png" 
                                     alt="" 
                                     class="relative left-0 mt-12 visible-md visible-lg"
                                     style="height: 200px; width: auto; margin-left: 40px;" 
@@ -158,7 +158,7 @@
             </section>
 
             <!-- CLIENT'S BACKGROUND -->
-            <section class="portfolio__banner portfolio__banner-detail">
+            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
                     <div class="container__ ">
                         <div class="row">
@@ -188,7 +188,7 @@
             </section>
 
             <!-- APPROACHING STRATEGY -->
-            <section class="portfolio__banner portfolio__banner-detail">
+            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
                     <div class="container__ banner-detail__content">
                         <div class="row">
@@ -218,7 +218,7 @@
             </section>
 
             <!-- THE RESULT -->
-            <section class="portfolio__banner portfolio__banner-detail mt-7">
+            <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/tokoparts/bg-footer.webp');">
                     <div class="container__ banner-detail__content" style="padding-bottom: 32px;">
                         <div class="row">

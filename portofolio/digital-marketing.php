@@ -182,25 +182,31 @@
                                     </a>                                
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
-                                        <img src="/img/portfolio/update/dm-bamboo.png" alt="">
-                                        <h4>Real Estate - Bamboo</h4>
-                                        <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
-                                    </div>
+                                    <a href="/portofolio/digital-marketing/green-bamboo-terrace.php">                                                             
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
+                                            <img src="/img/portfolio/update/dm-bamboo.png" alt="">
+                                            <h4>Real Estate - Bamboo</h4>
+                                            <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                                        </div>
+                                    </a>                                
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')" data-toggle="modal" data-target="#modal-mirai">
-                                        <img src="/img/portfolio/update/dm-mirai.png" alt="">
-                                        <h4>Real Estate - Hajime</h4>
-                                        <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
-                                    </div>
+                                    <a href="/portofolio/digital-marketing/graha-mirai.php">                                                             
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')" data-toggle="modal" data-target="#modal-mirai">
+                                            <img src="/img/portfolio/update/dm-mirai.png" alt="">
+                                            <h4>Real Estate - Hajime</h4>
+                                            <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
+                                        </div>
+                                    </a>                                                                                                
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
-                                        <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
-                                        <h4>Company Profile - Ishida</h4>
-                                        <p>SEO | Website Maintenance</p>
-                                    </div>
+                                    <a href="/portofolio/digital-marketing/ishida-indonesia.php">                                                             
+                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
+                                            <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
+                                            <h4>Company Profile - Ishida</h4>
+                                            <p>SEO | Website Maintenance</p>
+                                        </div>
+                                    </a>                                
                                 </div>
                                 <!-- <div class="col-md-4 col-sm-6 col-xs-12">
                                     <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
