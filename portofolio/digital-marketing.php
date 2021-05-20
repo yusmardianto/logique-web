@@ -155,17 +155,17 @@
                         <div class="content__wrapper">
                             <div class="flex__row">
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a href="/portofolio/digital-marketing/JBA-Indonesia.php">
-                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-jba-bg.png')">
+                                    <a href="/portofolio/digital-marketing/JBA-Indonesia.php">                                        
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-jba-bg.png');">
                                             <img src="/img/portfolio/update/dm-jba.png" alt="">
                                             <h4>Real Estate - JBA</h4>
                                             <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
-                                        </div>
+                                        </div>                                        
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="/portofolio/digital-marketing/sumitomo.php">                            
-                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
                                             <img src="/img/portfolio/update/dm-sumitomo.png" alt="">
                                             <h4>Sumitomo Heavy Industry (SHI)</h4>
                                             <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
@@ -174,7 +174,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="/portofolio/digital-marketing/tokoparts.php">                                                             
-                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
                                             <img src="/img/portfolio/update/dm-tokoparts.png" alt="">
                                             <h4>E Commerce - Tokoparts</h4>
                                             <p>SEO | Website Maintenance</p>
@@ -183,7 +183,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="/portofolio/digital-marketing/green-bamboo-terrace.php">                                                             
-                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
                                             <img src="/img/portfolio/update/dm-bamboo.png" alt="">
                                             <h4>Real Estate - Bamboo</h4>
                                             <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
@@ -192,7 +192,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="/portofolio/digital-marketing/graha-mirai.php">                                                             
-                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')" data-toggle="modal" data-target="#modal-mirai">
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')" data-toggle="modal" data-target="#modal-mirai">
                                             <img src="/img/portfolio/update/dm-mirai.png" alt="">
                                             <h4>Real Estate - Hajime</h4>
                                             <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
@@ -201,66 +201,13 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="/portofolio/digital-marketing/ishida-indonesia.php">                                                             
-                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
                                             <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
                                             <h4>Company Profile - Ishida</h4>
                                             <p>SEO | Website Maintenance</p>
                                         </div>
                                     </a>                                
-                                </div>
-                                <!-- <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
-                                        <img src="/img/portfolio/update/dm-pilipili.png" alt="">
-                                        <h4>E Commerce - Pilipili</h4>
-                                        <p>SEO | Website Maintenance</p>
-                                    </div>
-                                    <div class="content__detail" style="background-color: #DDF0FF;">
-                                        <div class="detail__description">
-                                        Pilipili adalah merek e-commerce yang menjual tas FJALLRAVEN KANKEN. Dalam waktu 2 bulan Logique sukses membuktikan hasil nyata yang benar-benar memberikan dampak besar bagi jalannya bisnis Pilipili.
-                                        </div>
-                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
-                                            <h4>Goals</h4>
-                                            <p>Meningkatkan Traffics website dengan channel organic</p>
-                                        </div>
-                                        <div class="detail__achievement" style="color: #15588c;">
-                                            <h4>Achievements</h4>
-                                            <div class="row">
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        +8.4%
-                                                        </div>
-                                                        <p>Jumlah Sessions</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        -7.01%
-                                                        </div>
-                                                        <p>Jumlah Pageviews</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        +2.7x
-                                                        </div>
-                                                        <p>Pengunjung berada lebih lama</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-sm-6 col-xs-12">
-                                                    <div class="achievement">
-                                                        <div class="achievement__number">
-                                                        -10%
-                                                        </div>
-                                                        <p>Penurunan bounce rate dalam 1 bulan</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
+                                </div>                                
                             </div>
                         </div>
                     </div>
