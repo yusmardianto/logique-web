@@ -16,11 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Strategi digital marketing di perusahaan lelang JBA Indonesia dijalankan untuk meningkatkan brand awareness dan conversions. Simak strategi kami di sini!">
+        content="Google search advertisement LOGIQUE telah membantu Ishida untuk bisa menghasilkan conversions yang jauh lebih tinggi. Simak bagaimana kami melakukannya di sini!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/JBA-Indonesia.php">
-    <title>JBA Indonesia | Portofolio Performa Digital Marketing</title>
-    
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/ishida-indonesia.php">
+    <title>Ishida Indonesia  | Portofolio Performa Digital Marketing</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -51,7 +50,6 @@
     ?>
 
 </head>
-
 <body style="overflow-x: hidden">
 
     <?php 
@@ -125,7 +123,7 @@
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;JBA Indonesia</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Ishida Indonesia</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -134,20 +132,20 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/update/bg-jba-modal-header.jpg'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-header.png'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/update/dm-jba.png" 
+                                    src="/img/portfolio/digitalmarketing/ishida/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>PT. JBA Indonesia </h1></div>
+                                <div class="title text-white"><h1>Ishida Indonesia</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Mengembangkan Brand Awareness dan Conversions Melalui Facebook Instagram dan Google Advertisement.                                                                  
+                                    Menjawab Kebutuhan Business Owner Akan Beragam Teknologi Mesin Produksi Melalui Google Search Advertisement.
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -160,26 +158,27 @@
             <!-- CLIENT'S BACKGROUND -->
             <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
-                    <div class="container__">
+                    <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    JBA Indonesia merupakan salah satu klien LOGIQUE yang bergerak pada bidang lelang otomotif. Perusahaan ini masuk pasar lelang Indonesia pada tahun 2011 dan sampai saat ini sudah mempunyai lebih dari 18 cabang, hub, dan pool di berbagai kota besar di Indonesia. Sebagai pionir perusahaan lelang mobil, JBA berkomitmen untuk terus melebarkan layanan dan bisnis lelangnya dengan rencana bisnis yang inovatif dan produktif. 
+                                    Ishida Indonesia adalah cabang resmi dari Ishida Co., Ltd. yang berada di Jepang. Ishida sendiri merupakan produsen mesin timbang, packing, dan mesin inspeksi (checkweigher, metal detector, x-ray) untuk berbagai industri seperti snacks, daging, buah segar, ready meal, seafood, dan lain-lain. Ishida juga banyak dikenal sebagai perusahaan profesional yang mampu menyediakan  kebutuhan mesin pabrik berskala besar untuk para pelanggannya. 
                                 </p>
                                 <p class="title__description">
-                                    JBA juga menjadi perusahaan yang aktif dalam hal pengembangan informasi serta digital user experience. Perusahaan ini dapat mengadaptasi berbagai teknologi dan sistem komunikasi terkini untuk dapat memberikan yang terbaik bagi penitip kendaraan, pembeli kendaraan, serta masyarakat luas. JBA percaya bahwa memaksimalkan pemanfaatan teknologi menjadi upaya penting untuk dapat memberikan layanan secara lebih efektif kepada para pelanggannya.
+                                    Sampai saat ini, Ishida sudah mempunyai pengalaman selama lebih dari 125 tahun dan seluruh produk yang mereka kembangan memiliki kualitas yang baik serta menggunakan teknologi yang tinggi. Dengan pengalaman dan profesionalitas yang sudah mereka miliki, sampai saat ini Ishida sudah menjadi mitra terpercaya bagi banyak bisnis di seluruh dunia.
                                 </p>
                                 <p class="title__description">
-                                    JBA juga terus berinovasi untuk mempertahankan layanan dan bisnis lelang yang prima serta tetap menjadi yang terdepan di Indonesia. Meskipun saat ini, JBA sudah menjadi perusahaan lelang mobil berskala besar di Indonesia, namun JBA terus mengambil langkah-langkah inovatif untuk mengembangkan bisnisnya.
+                                    Untuk menjaga kepercayaan tersebut, Ishida terus berkontribusi dalam memenuhi kebutuhan pelanggan akan produk dan layanan berkualitas dengan menyediakan tim R & D serta tim engineer profesional yang berdedikasi tinggi. Dengan kualitas produk dan layanan tersebut, Ishida ingin agar perusahaan mereka dapat memberikan solusi kepada para pemilik bisnis akan kebutuhan beragam teknologi mesin produksi.
                                 </p>
                                 <p class="title__description">
-                                    JBA Indonesia memutuskan untuk menggunakan layanan digital marketing dari LOGIQUE untuk mengembangkan brand awarenes dan conversion yaitu dengan menggunakan Facebook, Instagram, dan Google Advertisement. Dengan strategi pemasaran digital ini, JBA Indonesia dapat mengembangkan brand awareness dan akan semakin dikenal sebagai perusahaan lelang mobil terbaik di Indonesia.
+                                    Oleh karena itulah, Ishida Indonesia bekerjasama dengan LOGIQUE untuk menjalankan Google search advertisement. Dengan strategi pemasaran ini, informasi mengenai produk-produk dari Ishida dapat dijangkau oleh target pelanggan yang tepat sehingga penjualan dapat semakin meningkat.  
                                 </p>
+                            
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/bg-portofolio-jba.webp" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/ishida/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -195,18 +194,18 @@
                             <div class="col-md-12">
                                 <div class="title"><h1>APPROACHING STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    Efektifitas Facebook, Instagram, serta Google Advertisement sangat dipengaruhi oleh penargetan audience yang tepat. Strategi digital marketing di perusahaan lelang otomotif JBA Indonesia kami mulai dengan melakukan analisa mendalam mengenai service atau produk yang ditawarkan. Setelah itu, kami juga melakukan audience profiling di perusahaan JBA Indonesia yaitu proses untuk menentukan dan mengetahui target audience yang tepat.
+                                    Untuk menjamin agar Google search advertisement yang dijalankan dapat bekerja dengan baik, tim LOGIQUE melakukan analisis mendalam untuk mendapatkan kelompok audience dengan akurasi penargetan yang tinggi. Selain itu, untuk memastikan agar iklan bekerja secara efektif, kami juga akan menganalisa produk-produk yang ditawarkan Ishida, apa unique selling point yang mereka miliki, serta potensi market yang tersedia.
                                 </p>
                                 <p class="title__description" >
-                                    Dari hasil analisa tersebut, LOGIQUE kemudian membuat Advertisement Campaign dengan Channels & Placements yang ditetapkan berdasarkan produk yang ditawarkan dan Audience atau Customer potential. Berikut solusi dan strategi digital marketing di perusahaan lelang yang kami berikan saat menjalankan Facebook, Instagram, dan Google Advertisement:
+                                    Secara garis besar, berikut adalah strategi pemasaran Google search advertisement yang kami lakukan:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan Skor Kualitas iklan.</li>
-                                    <li class="approach-item">Membatasi jumlah Audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market lelang otomotif melalui Advertisement Campaign, dengan menjaga harga bid CPC dan kualitas Iklan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding JBA untuk memastikan setiap Campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk yang ada pada website Ishida.</li>
+                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan skor kualitas iklan</li>
+                                    <li class="approach-item">Membatasi jumlah audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat group audience yang terkontrol.</li>
+                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bekasi dan sekitarnya melalui advertisement campaign dengan menjaga harga bid CPC serta kualitas dari iklan yang dijalankan.</li>
+                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding Ishida untuk memastikan bahwa setiap campaign yang berjalan telah sesuai dengan target dan objektif yang ingin dicapai oleh perusahaan</li>
                                 </ul>
                             </div>
                         </div>
@@ -215,24 +214,24 @@
             </section>
 
             <!-- THE RESULT -->
-            <section class="portfolio__banner portfolio__banner-detail mt-7">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/bg-portofolio-section-bottom.png');">
+            <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-7">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Dengan strategi digital marketing yang tim LOGIQUE terapkan, kami berhasil menjalankan iklan di platform Facebook, Instagram, dan Google yang disesuaikan dengan relevansi tinggi serta ditautkan langsung ke halaman produk atau kategori. Dari Advertisement Campaign LOGIQUE tersebut, JBA Indonesia memperoleh peningkatan secara signifikan sebagai berikut:
-                                </p>
+                                    Dengan strategi yang diterapkan oleh LOGIQUE, kami berhasil menjalankan Google search advertisement yang disesuaikan dengan relevansi yang tinggi serta ditautkan langsung ke halaman produk di web Ishida. Berikut adalah hasil yang diperoleh dari strategi pemasaran yang kami jalankan:
+                                </p>  
                             </div>
                             <div class="col-md-5 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+24%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+10%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+46%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
@@ -240,11 +239,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">-27%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+43%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+37%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
@@ -258,7 +257,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Tingginya persaingan di pasar lelang menjadi tantangan yang mendorong tim LOGIQUE untuk terus berinovasi dan mengembangkan pendekatan strategi pemasaran digital yang maksimal, unik, serta mampu memberikan kesan kepada setiap calon konsumennya. Dengan solusi yang telah kami berikan, secara signifikan perusahaan dapat meningkatkan brand awareness, menarik lebih banyak interaksi dengan pelanggan, serta menghasilkan conversion yang lebih tinggi daripada sebelumnya. 
+                                    Untuk memastikan agar produk-produk Ishida Indonesia dapat dikenal lebih luas dan mampu menjangkau target market yang tepat, LOGIQUE melakukan analisis mendalam sebelum menjalankan Google search advertisement. Selain itu, kami juga menyediakan kategori produk yang sangat spesifik agar setiap campaign yang dijalankan dapat menghasilkan conversion yang tinggi dan mampu menjangkau target audiens dengan tepat. Dalam menjalankan strategi pemasaran ini, kami selalu memastikan bahwa setiap leads yang dihasilkan memiliki kualitas yang optimal.
                                 </p>
                             </div>
                         </div>

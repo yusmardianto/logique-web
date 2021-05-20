@@ -16,10 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Strategi digital marketing di perusahaan lelang JBA Indonesia dijalankan untuk meningkatkan brand awareness dan conversions. Simak strategi kami di sini!">
+        content="Digital advertisement yang LOGIQUE terapkan membawa banyak dampak positif untuk Green Bamboo Terrace. Simak bagaimana strategi marketing properti kami di sini.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/JBA-Indonesia.php">
-    <title>JBA Indonesia | Portofolio Performa Digital Marketing</title>
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/green-bamboo-terrace.php">
+    <title>Green Bamboo Terrace | Portofolio Performa Digital Marketing</title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -125,7 +125,7 @@
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;JBA Indonesia</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Green Bamboo Terrace</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -134,20 +134,20 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/update/bg-jba-modal-header.jpg'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/greenbambooterrace/bg-header.png'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/update/dm-jba.png" 
+                                    src="/img/portfolio/digitalmarketing/greenbambooterrace/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>PT. JBA Indonesia </h1></div>
+                                <div class="title text-white"><h1>Green Bamboo Terrace</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Mengembangkan Brand Awareness dan Conversions Melalui Facebook Instagram dan Google Advertisement.                                                                  
+                                    Pengoptimalan Kualitas Leads dan Memenangkan Kompetisi Pasar Properti Melalui Digital Advertisement
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -160,26 +160,29 @@
             <!-- CLIENT'S BACKGROUND -->
             <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
-                    <div class="container__">
+                    <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    JBA Indonesia merupakan salah satu klien LOGIQUE yang bergerak pada bidang lelang otomotif. Perusahaan ini masuk pasar lelang Indonesia pada tahun 2011 dan sampai saat ini sudah mempunyai lebih dari 18 cabang, hub, dan pool di berbagai kota besar di Indonesia. Sebagai pionir perusahaan lelang mobil, JBA berkomitmen untuk terus melebarkan layanan dan bisnis lelangnya dengan rencana bisnis yang inovatif dan produktif. 
+                                    Green Bamboo Terrace adalah perumahan mewah, modern, dan minimalis yang terletak di lokasi yang strategis yaitu di pusat Kota Bogor. Green Bamboo Terrace dikelola oleh  pengembang properti terkemuka di Indonesia yaitu PT. Kebun Bambu Jakarta yang juga terafiliasi dengan Bamboo Field Japan.
                                 </p>
                                 <p class="title__description">
-                                    JBA juga menjadi perusahaan yang aktif dalam hal pengembangan informasi serta digital user experience. Perusahaan ini dapat mengadaptasi berbagai teknologi dan sistem komunikasi terkini untuk dapat memberikan yang terbaik bagi penitip kendaraan, pembeli kendaraan, serta masyarakat luas. JBA percaya bahwa memaksimalkan pemanfaatan teknologi menjadi upaya penting untuk dapat memberikan layanan secara lebih efektif kepada para pelanggannya.
+                                    Pada project Green Bamboo Terrace ini, PT Kebun Bambu Jakarta berkomitmen untuk menciptakan tempat tinggal yang berkualitas tinggi dengan harga yang terjangkau. Perumahan atau rumah hunian yang disediakan dibangun menggunakan material- material premium berstandar Jepang agar setiap unit rumah bisa menjadi hunian yang aman dan nyaman untuk ditinggali dalam jangka waktu yang lama.
                                 </p>
                                 <p class="title__description">
-                                    JBA juga terus berinovasi untuk mempertahankan layanan dan bisnis lelang yang prima serta tetap menjadi yang terdepan di Indonesia. Meskipun saat ini, JBA sudah menjadi perusahaan lelang mobil berskala besar di Indonesia, namun JBA terus mengambil langkah-langkah inovatif untuk mengembangkan bisnisnya.
+                                    Green Bamboo Terrace juga dikenal sebagai perumahan exclusive dengan fasilitas yang lengkap mulai dari club house, children pool, garden with kids playground, mushola, security dan CCTV 24 jam, PDAM, jaringan listrik bawah tanah, dan masih banyak lagi. Dengan kualitas hunian yang ada di perumahan Green Bamboo Terrace ini, PT. Kebun Bambu Jakarta berkomitmen untuk menjadi developer terbaik di Indonesia untuk kedepannya.
                                 </p>
                                 <p class="title__description">
-                                    JBA Indonesia memutuskan untuk menggunakan layanan digital marketing dari LOGIQUE untuk mengembangkan brand awarenes dan conversion yaitu dengan menggunakan Facebook, Instagram, dan Google Advertisement. Dengan strategi pemasaran digital ini, JBA Indonesia dapat mengembangkan brand awareness dan akan semakin dikenal sebagai perusahaan lelang mobil terbaik di Indonesia.
+                                    Untuk mencapai hal tersebut, perusahaan ini terus menjaga dan mengoptimalkan kualitas huniannya. Selain itu, mereka juga menerapkan berbagai strategi pemasaran di era digital agar bisnis mereka dapat berkembang dan semakin dikenal luas oleh target marketnya.
+                                </p>
+                                <p class="title__description">
+                                    Di sisi lain, tingginya kebutuhan akan tempat tinggal membuat para developer di Indonesia menjadi semakin agresif dalam memasarkan dan mengembangkan propertinya. Oleh karena itulah, PT Kebun Bambu Jakarta mengambil langkah pasti dengan memutuskan untuk menggunakan layanan Digital Advertisement dari LOGIQUE untuk memenangkan kompetisi di pasar properti.
                                 </p>
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/bg-portofolio-jba.webp" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/greenbambooterrace/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -188,25 +191,25 @@
             </section>
 
             <!-- APPROACHING STRATEGY -->
-            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
+            <section class="portfolio__banner portfolio__banner-detail " style="background-image: none;">
                 <div class="content-wrapper__">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="title"><h1>APPROACHING STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    Efektifitas Facebook, Instagram, serta Google Advertisement sangat dipengaruhi oleh penargetan audience yang tepat. Strategi digital marketing di perusahaan lelang otomotif JBA Indonesia kami mulai dengan melakukan analisa mendalam mengenai service atau produk yang ditawarkan. Setelah itu, kami juga melakukan audience profiling di perusahaan JBA Indonesia yaitu proses untuk menentukan dan mengetahui target audience yang tepat.
+                                    LOGIQUE menjalankan strategi marketing properti melalui digital advertisement dengan tujuan untuk mengoptimalkan kualitas leads yang dihasilkan. Kami merencanakan strategi pemasaran secara matang seperti membuat advertisement campaign dengan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta audience atau customer potential.
                                 </p>
                                 <p class="title__description" >
-                                    Dari hasil analisa tersebut, LOGIQUE kemudian membuat Advertisement Campaign dengan Channels & Placements yang ditetapkan berdasarkan produk yang ditawarkan dan Audience atau Customer potential. Berikut solusi dan strategi digital marketing di perusahaan lelang yang kami berikan saat menjalankan Facebook, Instagram, dan Google Advertisement:
+                                    Strategi marketing properti yang kami jalankan adalah:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan Skor Kualitas iklan.</li>
-                                    <li class="approach-item">Membatasi jumlah Audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market lelang otomotif melalui Advertisement Campaign, dengan menjaga harga bid CPC dan kualitas Iklan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding JBA untuk memastikan setiap Campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website Green Bamboo Terrace.</li>
+                                    <li class="approach-item">Membuat iklan yang lebih relevan serta memungkinkan untuk bisa meningkatkan skor kualitas iklan.</li>
+                                    <li class="approach-item">Membatasi jumlah audience yang memiliki kualitas rendah dengan cara memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol secara maksimal.</li>
+                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bogor dan sekitarnya melalui advertisement campaign, dengan menjaga harga bid CPC dan kualitas iklan yang dijalankan.</li>
+                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Green Bamboo Terrace untuk memastikan bahwa setiap campaign sudah berjalan sesuai dengan target dan objektif ingin dicapai oleh perusahaan.</li>
                                 </ul>
                             </div>
                         </div>
@@ -215,14 +218,14 @@
             </section>
 
             <!-- THE RESULT -->
-            <section class="portfolio__banner portfolio__banner-detail mt-7">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/bg-portofolio-section-bottom.png');">
+            <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/greenbambooterrace/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-7">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Dengan strategi digital marketing yang tim LOGIQUE terapkan, kami berhasil menjalankan iklan di platform Facebook, Instagram, dan Google yang disesuaikan dengan relevansi tinggi serta ditautkan langsung ke halaman produk atau kategori. Dari Advertisement Campaign LOGIQUE tersebut, JBA Indonesia memperoleh peningkatan secara signifikan sebagai berikut:
+                                    Dengan strategi yang diterapkan oleh LOGIQUE, kami berhasil membuat iklan atau digital advertisement yang disesuaikan dengan relevansi tinggi dan ditautkan langsung ke halaman produk atau kategori. Dari strategi marketing properti ini, kami dapat menghasilkan berbagai peningkatan positif yaitu:
                                 </p>
                             </div>
                             <div class="col-md-5 col-xs-12 mt-7">
@@ -258,7 +261,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Tingginya persaingan di pasar lelang menjadi tantangan yang mendorong tim LOGIQUE untuk terus berinovasi dan mengembangkan pendekatan strategi pemasaran digital yang maksimal, unik, serta mampu memberikan kesan kepada setiap calon konsumennya. Dengan solusi yang telah kami berikan, secara signifikan perusahaan dapat meningkatkan brand awareness, menarik lebih banyak interaksi dengan pelanggan, serta menghasilkan conversion yang lebih tinggi daripada sebelumnya. 
+                                    Tingginya permintaan akan kebutuhan properti serta persaingan yang semakin ketat di pasar properti, membuat team LOGIQUE merasa tertantang dan terus berinovasi. Dalam menjalankan strategi ini, kami mengembangkan pendekatan yang unik dan mampu memberikan kesan positif pada setiap calon konsumen yang tertarik untuk melakukan booking maupun interaksi. Dengan cara ini, Green Bamboo Terrace dapat menghasilkan conversions yang lebih tinggi daripada sebelumnya. 
                                 </p>
                             </div>
                         </div>

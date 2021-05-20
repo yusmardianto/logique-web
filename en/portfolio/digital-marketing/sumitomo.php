@@ -158,7 +158,7 @@
             </section>
 
             <!-- CLIENT'S BACKGROUND -->
-            <section class="portfolio__banner portfolio__banner-detail">
+            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
                     <div class="container__ ">
                         <div class="row">
@@ -188,7 +188,7 @@
             </section>
 
             <!-- APPROACHING STRATEGY -->
-            <section class="portfolio__banner portfolio__banner-detail">
+            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
                     <div class="container__ banner-detail__content">
                         <div class="row">
@@ -218,7 +218,7 @@
             </section>
 
             <!-- THE RESULT -->
-            <section class="portfolio__banner portfolio__banner-detail mt-7">
+            <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/sumitomo/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">

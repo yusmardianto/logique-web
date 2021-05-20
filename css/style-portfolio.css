@@ -306,6 +306,13 @@ li.approach-item::before {
     line-height: 1;
 }
 
+/* 
+    BACKGROUNDS
+*/
+.bg-none {
+    background-image: none !important; 
+}
+
 
 .card-result {
     width: 100%;
