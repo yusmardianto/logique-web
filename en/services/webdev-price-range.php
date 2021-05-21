@@ -67,6 +67,7 @@ if (isset($_POST['submitted'])) {
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/style-services.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/newstyle.css">
     <link href="/css/epicstyle.css" rel="stylesheet">
     <link href="/layanan/assets/css/styles-web-dev-services/styles_webdev_service.css" rel="stylesheet">
 
