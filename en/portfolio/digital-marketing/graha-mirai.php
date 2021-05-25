@@ -16,11 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Digital advertisement yang LOGIQUE terapkan membawa banyak dampak positif untuk Green Bamboo Terrace. Simak bagaimana strategi marketing properti kami di sini.">
+        content="To increase sales, Graha Mirai uses digital advertisement services from LOGIQUE. This property marketing strategy has succeeded in increasing the company's profits.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/green-bamboo-terrace.php">
-    <title>Green Bamboo Terrace | Portofolio Performa Digital Marketing</title>
-    
+    <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/graha-mirai.php">
+    <title>Graha Mirai | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -73,9 +72,9 @@
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/green-bamboo-terrace.php';
-            $id_link = '#';
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/portofolio/digital-marketing/graha-mirai.php';
             $jp_link = '/jp/portfolio/digital-marketing.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
@@ -103,7 +102,6 @@
         </style>
 
         <div class="portfolio-update ind">
-
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
                     <div class="container__ --top" style="padding:0">
@@ -125,7 +123,7 @@
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Green Bamboo Terrace</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Graha Mirai</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -134,20 +132,20 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/greenbambooterrace/bg-header.png'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-header.png'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/greenbambooterrace/logo.png" 
+                                    src="/img/portfolio/digitalmarketing/grahamirai/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Green Bamboo Terrace</h1></div>
+                                <div class="title text-white"><h1>Graha Mirai</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Pengoptimalan Kualitas Leads dan Memenangkan Kompetisi Pasar Properti Melalui Digital Advertisement
+                                    Increase Property Sales in the Middle of Industrial Estates Through Digital Advertisement
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -165,24 +163,24 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Green Bamboo Terrace adalah perumahan mewah, modern, dan minimalis yang terletak di lokasi yang strategis yaitu di pusat Kota Bogor. Green Bamboo Terrace dikelola oleh  pengembang properti terkemuka di Indonesia yaitu PT. Kebun Bambu Jakarta yang juga terafiliasi dengan Bamboo Field Japan.
+                                    Graha Mirai offers luxurious housing residences located in the center of Cikarang City. This estate is managed by a leading property developer in Indonesia, namely PT. Hajime Indonesia Jaya.
                                 </p>
                                 <p class="title__description">
-                                    Pada project Green Bamboo Terrace ini, PT Kebun Bambu Jakarta berkomitmen untuk menciptakan tempat tinggal yang berkualitas tinggi dengan harga yang terjangkau. Perumahan atau rumah hunian yang disediakan dibangun menggunakan material- material premium berstandar Jepang agar setiap unit rumah bisa menjadi hunian yang aman dan nyaman untuk ditinggali dalam jangka waktu yang lama.
+                                    Graha Mirai presents beautiful, modern and minimalist style residential houses of guaranteed quality, due to the houses undergoing routine checkups throughout their construction process.
                                 </p>
                                 <p class="title__description">
-                                    Green Bamboo Terrace juga dikenal sebagai perumahan exclusive dengan fasilitas yang lengkap mulai dari club house, children pool, garden with kids playground, mushola, security dan CCTV 24 jam, PDAM, jaringan listrik bawah tanah, dan masih banyak lagi. Dengan kualitas hunian yang ada di perumahan Green Bamboo Terrace ini, PT. Kebun Bambu Jakarta berkomitmen untuk menjadi developer terbaik di Indonesia untuk kedepannya.
+                                    Graha Mirai’s strategic location adds to the housing’s high demand status. This housing estate itself is located between two toll roads, namely the Elevated Jakarta Cikampek Toll Road, as well as the South Jakarta Cikampek II Toll Road. In addition, Graha Mirai is also located in an area that holds a comprehensive range of public facilities, such as a hospital, school, and the industrial center of the Greenland International Industrial Center (GIIC) Deltamas. Furthermore, it lies close to the Bekasi administrative area.
                                 </p>
                                 <p class="title__description">
-                                    Untuk mencapai hal tersebut, perusahaan ini terus menjaga dan mengoptimalkan kualitas huniannya. Selain itu, mereka juga menerapkan berbagai strategi pemasaran di era digital agar bisnis mereka dapat berkembang dan semakin dikenal luas oleh target marketnya.
+                                    PT. Hajime Indonesia Jaya itself, in offering its services guarantees only the highest standard of quality housing. This company plays an active role in encouraging the expansion of the indonesian real estate industry and is committed to its status as a highly trusted development company. 
                                 </p>
                                 <p class="title__description">
-                                    Di sisi lain, tingginya kebutuhan akan tempat tinggal membuat para developer di Indonesia menjadi semakin agresif dalam memasarkan dan mengembangkan propertinya. Oleh karena itulah, PT Kebun Bambu Jakarta mengambil langkah pasti dengan memutuskan untuk menggunakan layanan Digital Advertisement dari LOGIQUE untuk memenangkan kompetisi di pasar properti.
+                                    In developing their property business, Graha Mirai has chosen to leverage digital marketing services provided for by LOGIQUE Digital Indonesia. Through this property marketing strategy, it is hoped that Graha Mirai can thus generate more sales, despite being located in the middle of an industrial center.
                                 </p>
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/greenbambooterrace/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/grahamirai/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -191,25 +189,25 @@
             </section>
 
             <!-- APPROACHING STRATEGY -->
-            <section class="portfolio__banner portfolio__banner-detail " style="background-image: none;">
+            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    LOGIQUE menjalankan strategi marketing properti melalui digital advertisement dengan tujuan untuk mengoptimalkan kualitas leads yang dihasilkan. Kami merencanakan strategi pemasaran secara matang seperti membuat advertisement campaign dengan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta audience atau customer potential.
+                                    Graha Mirai first selects an effective property marketing strategy, implemented through digital advertisements. LOGIQUE then carries out several optimizations so that the ads can thus work effectively. LOGIQUE creates advertising campaigns through channels & placements based on the products offered and the targeted audience.
                                 </p>
                                 <p class="title__description" >
-                                    Strategi marketing properti yang kami jalankan adalah:
+                                    Here are the property marketing strategies we have currently implemented:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website Green Bamboo Terrace.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan serta memungkinkan untuk bisa meningkatkan skor kualitas iklan.</li>
-                                    <li class="approach-item">Membatasi jumlah audience yang memiliki kualitas rendah dengan cara memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol secara maksimal.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bogor dan sekitarnya melalui advertisement campaign, dengan menjaga harga bid CPC dan kualitas iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Green Bamboo Terrace untuk memastikan bahwa setiap campaign sudah berjalan sesuai dengan target dan objektif ingin dicapai oleh perusahaan.</li>
+                                    <li class="approach-item">Suggesting keywords and advertisements covering the span of all products on the Graha Mirai website.</li>
+                                    <li class="approach-item">Increasing the relevance of every advert, thus allowing its quality score to increase.</li>
+                                    <li class="approach-item">Limiting the number of low quality audiences by regularly monitoring targeting information and creating controlled audience groups.</li>
+                                    <li class="approach-item">Influencing the property market in the Bekasi area through advertisement campaigns by maintaining CPC bid prices and ad quality.</li>
+                                    <li class="approach-item">Actively working with the branding team from Graha Mirai to ensure that every campaign runs according to the targets and objectives to be achieved.</li>
                                 </ul>
                             </div>
                         </div>
@@ -219,23 +217,30 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/greenbambooterrace/bg-footer.webp');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-7">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Dengan strategi yang diterapkan oleh LOGIQUE, kami berhasil membuat iklan atau digital advertisement yang disesuaikan dengan relevansi tinggi dan ditautkan langsung ke halaman produk atau kategori. Dari strategi marketing properti ini, kami dapat menghasilkan berbagai peningkatan positif yaitu:
+                                    The initial success of digital advertisements are greatly influenced by proper strategies of audience targeting. Therefore, the team at LOGIQUE has successfully conducted various in-depth analyses so as to highlight audience groups with a high level of targeting accuracy.
                                 </p>
+                                <p class="text-white" >
+                                    Through LOGIQUE's property marketing strategy, Graha Mirai's digital advertisements can thus run effectively. We have created tailor made ads with high degrees of relevance, as well as linking them to Graha Mirai’s various product pages.
+                                </p>
+                                <p class="text-white" >
+                                    The following data details the achievements garnered from the digital advertisements that we have run:
+                                </p>
+
                             </div>
                             <div class="col-md-5 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+22%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+10%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+30%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
@@ -243,11 +248,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">-28%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+43%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
@@ -261,7 +266,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Tingginya permintaan akan kebutuhan properti serta persaingan yang semakin ketat di pasar properti, membuat team LOGIQUE merasa tertantang dan terus berinovasi. Dalam menjalankan strategi ini, kami mengembangkan pendekatan yang unik dan mampu memberikan kesan positif pada setiap calon konsumen yang tertarik untuk melakukan booking maupun interaksi. Dengan cara ini, Green Bamboo Terrace dapat menghasilkan conversions yang lebih tinggi daripada sebelumnya. 
+                                    Dealing with Graha Mirai’s special case, specifically with housing built in the middle of an industrial location presents a challenge for the LOGIQUE team in finding proper ways of disseminating effective digital ads. However, through this specific property marketing strategy, LOGIQUE has indeed succeeded in presenting digital advertisements that are able to reach the intended target audience in a precise manner, be it customers who need housing to be close to their workplace or customers who are looking for a means to invest.
                                 </p>
                             </div>
                         </div>

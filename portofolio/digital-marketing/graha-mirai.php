@@ -73,7 +73,7 @@
 
         <?php 
             $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/JBA-Indonesia.php';
+            $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
             $id_link = '#';
             $jp_link = '/jp/portfolio/digital-marketing.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
