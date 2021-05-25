@@ -16,10 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Digital advertisement yang LOGIQUE terapkan membawa banyak dampak positif untuk Green Bamboo Terrace. Simak bagaimana strategi marketing properti kami di sini.">
+        content="The digital ads applied by LOGIQUE have effectively promoted Green Bamboo Terrace’s real estate business. Check out our property marketing strategies here.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/green-bamboo-terrace.php">
-    <title>Green Bamboo Terrace | Portofolio Performa Digital Marketing</title>
+    <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/green-bamboo-terrace.php">
+    <title>Green Bamboo Terrace | Digital Marketing Performance Portfolio</title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -73,9 +73,9 @@
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/green-bamboo-terrace.php';
-            $id_link = '#';
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/portofolio/digital-marketing/green-bamboo-terrace.php';
             $jp_link = '/jp/portfolio/digital-marketing.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
@@ -147,7 +147,7 @@
                             <div class="col-md-8 col-sm-12" >                                
                                 <div class="title text-white"><h1>Green Bamboo Terrace</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Pengoptimalan Kualitas Leads dan Memenangkan Kompetisi Pasar Properti Melalui Digital Advertisement
+                                    Optimizing the Quality of Leads and Winning the Competition in the Property Market Through Digital Advertisement
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -165,19 +165,19 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Green Bamboo Terrace adalah perumahan mewah, modern, dan minimalis yang terletak di lokasi yang strategis yaitu di pusat Kota Bogor. Green Bamboo Terrace dikelola oleh  pengembang properti terkemuka di Indonesia yaitu PT. Kebun Bambu Jakarta yang juga terafiliasi dengan Bamboo Field Japan.
+                                    Green Bamboo Terrace offers luxurious housing residences in a modern and minimalist style. Located within a strategic area, specifically the center of Bogor City, Green Bamboo Terrace is currently managed by a leading property developer in Indonesia, namely PT. Kebun Bambu Jakarta which is also affiliated with Bamboo Field Japan.
                                 </p>
                                 <p class="title__description">
-                                    Pada project Green Bamboo Terrace ini, PT Kebun Bambu Jakarta berkomitmen untuk menciptakan tempat tinggal yang berkualitas tinggi dengan harga yang terjangkau. Perumahan atau rumah hunian yang disediakan dibangun menggunakan material- material premium berstandar Jepang agar setiap unit rumah bisa menjadi hunian yang aman dan nyaman untuk ditinggali dalam jangka waktu yang lama.
+                                    This Green Bamboo Terrace project has seen PT Kebun Bambu Jakarta in its commitment to creating high-quality residences at affordable prices. Residential houses are built using premium Japanese materials, thereby making sure that each housing unit is a safe and comfortable residence to live in.
                                 </p>
                                 <p class="title__description">
-                                    Green Bamboo Terrace juga dikenal sebagai perumahan exclusive dengan fasilitas yang lengkap mulai dari club house, children pool, garden with kids playground, mushola, security dan CCTV 24 jam, PDAM, jaringan listrik bawah tanah, dan masih banyak lagi. Dengan kualitas hunian yang ada di perumahan Green Bamboo Terrace ini, PT. Kebun Bambu Jakarta berkomitmen untuk menjadi developer terbaik di Indonesia untuk kedepannya.
+                                    Green Bamboo Terrace is known for its exclusive housing with a complete range of facilities, some of which include a clubhouse, children’s swimming pool, garden with a playground, prayer room, security as well as 24 hour CCTV, PDAM, and an underground electricity network, among others. Due to the high level of quality offered by Green Bamboo Terrace’s residences, PT. Kebun Bambu Jakarta has been committed to being the top rated developer within Indonesia. 
                                 </p>
                                 <p class="title__description">
-                                    Untuk mencapai hal tersebut, perusahaan ini terus menjaga dan mengoptimalkan kualitas huniannya. Selain itu, mereka juga menerapkan berbagai strategi pemasaran di era digital agar bisnis mereka dapat berkembang dan semakin dikenal luas oleh target marketnya.
+                                    In order to achieve this, the company has continued to maintain and optimize the quality of its housing. In addition, they have also implemented a number of marketing strategies, thereby growing their business and having their products and services become more widely recognized by their target market.
                                 </p>
                                 <p class="title__description">
-                                    Di sisi lain, tingginya kebutuhan akan tempat tinggal membuat para developer di Indonesia menjadi semakin agresif dalam memasarkan dan mengembangkan propertinya. Oleh karena itulah, PT Kebun Bambu Jakarta mengambil langkah pasti dengan memutuskan untuk menggunakan layanan Digital Advertisement dari LOGIQUE untuk memenangkan kompetisi di pasar properti.
+                                    However, because of the high demand for housing, Indonesian based developers have taken a more aggressive stance in regards to marketing and developing their properties. Therefore, PT Kebun Bambu Jakarta has taken a definite step by deciding to use LOGIQUE's Digital Advertising services in order to win against the high competition present within the property market.
                                 </p>
                             </div>
                             <div class="col-md-4">
@@ -196,20 +196,20 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    LOGIQUE menjalankan strategi marketing properti melalui digital advertisement dengan tujuan untuk mengoptimalkan kualitas leads yang dihasilkan. Kami merencanakan strategi pemasaran secara matang seperti membuat advertisement campaign dengan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta audience atau customer potential.
+                                    LOGIQUE first carries out its property marketing strategy via digital advertisements with the aim of optimizing the quality of generated leads. We plan marketing strategies carefully, such as by creating advertising campaigns with defined channels & placements based on the products offered as well as potential audiences. 
                                 </p>
                                 <p class="title__description" >
-                                    Strategi marketing properti yang kami jalankan adalah:
+                                    The property marketing strategies that have been carried out include:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website Green Bamboo Terrace.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan serta memungkinkan untuk bisa meningkatkan skor kualitas iklan.</li>
-                                    <li class="approach-item">Membatasi jumlah audience yang memiliki kualitas rendah dengan cara memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol secara maksimal.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bogor dan sekitarnya melalui advertisement campaign, dengan menjaga harga bid CPC dan kualitas iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Green Bamboo Terrace untuk memastikan bahwa setiap campaign sudah berjalan sesuai dengan target dan objektif ingin dicapai oleh perusahaan.</li>
+                                    <li class="approach-item">Effectively create keywords and ads that cover the entire product on the website.</li>
+                                    <li class="approach-item">Make sure that the ad is relevant; this allows you to improve the ad's Quality Score.</li>
+                                    <li class="approach-item">Limit the number of low quality Audiences by regularly monitoring targeted information and creating a controlled Audience Group.</li>
+                                    <li class="approach-item">Controlling the property market within the Bogor area through Advertising Campaigns, through the maintaining of CPC bid prices and ad quality.</li>
+                                    <li class="approach-item">Actively working with the Green Bamboo Terrace branding team so as to ensure each Campaign runs according to the stated targets and objectives.</li>
                                 </ul>
                             </div>
                         </div>
@@ -225,7 +225,7 @@
                             <div class="col-md-7">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Dengan strategi yang diterapkan oleh LOGIQUE, kami berhasil membuat iklan atau digital advertisement yang disesuaikan dengan relevansi tinggi dan ditautkan langsung ke halaman produk atau kategori. Dari strategi marketing properti ini, kami dapat menghasilkan berbagai peningkatan positif yaitu:
+                                    Through such implemented strategies, LOGIQUE has succeeded in making digital advertisements tailored to a high degree of relevance that are further linked directly to either product or category pages. By engaging in this strategy, a number of positive improvements had been produced, namely:
                                 </p>
                             </div>
                             <div class="col-md-5 col-xs-12 mt-7">
@@ -261,7 +261,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Tingginya permintaan akan kebutuhan properti serta persaingan yang semakin ketat di pasar properti, membuat team LOGIQUE merasa tertantang dan terus berinovasi. Dalam menjalankan strategi ini, kami mengembangkan pendekatan yang unik dan mampu memberikan kesan positif pada setiap calon konsumen yang tertarik untuk melakukan booking maupun interaksi. Dengan cara ini, Green Bamboo Terrace dapat menghasilkan conversions yang lebih tinggi daripada sebelumnya. 
+                                    The high demand for property, coupled with the increasingly fierce competition within the market has emboldened LOGIQUE in its pursuit for continued innovation. In carrying out this strategy, we have developed a unique approach, giving a positive impression to any potential customer interested in proceeding with bookings or interactions. Indeed, Green Bamboo Terrace has overall generated a higher number of conversions.
                                 </p>
                             </div>
                         </div>
