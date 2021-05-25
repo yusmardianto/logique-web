@@ -16,11 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Digital advertisement yang LOGIQUE terapkan membawa banyak dampak positif untuk Green Bamboo Terrace. Simak bagaimana strategi marketing properti kami di sini.">
+        content="LOGIQUE's Google search advertisement campaigns have helped Ishida generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/green-bamboo-terrace.php">
-    <title>Green Bamboo Terrace | Portofolio Performa Digital Marketing</title>
-    
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/ishida-indonesia.php">
+    <title>Ishida Indonesia | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -51,7 +50,6 @@
     ?>
 
 </head>
-
 <body style="overflow-x: hidden">
 
     <?php 
@@ -73,9 +71,9 @@
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/green-bamboo-terrace.php';
-            $id_link = '#';
+            $lang = 'en';
+            $en_link = '#'; 
+            $id_link = '/portofolio/digital-marketing/ishida-indonesia.php';
             $jp_link = '/jp/portfolio/digital-marketing.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
@@ -125,7 +123,7 @@
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Green Bamboo Terrace</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Ishida Indonesia</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -134,20 +132,20 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/greenbambooterrace/bg-header.png'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-header.png'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/greenbambooterrace/logo.png" 
+                                    src="/img/portfolio/digitalmarketing/ishida/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Green Bamboo Terrace</h1></div>
+                                <div class="title text-white"><h1>Ishida Indonesia</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Pengoptimalan Kualitas Leads dan Memenangkan Kompetisi Pasar Properti Melalui Digital Advertisement
+                                    Answering the Needs of Business Owners for Various Production Machine Technologies Through Google Search Advertisements.
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -165,24 +163,22 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Green Bamboo Terrace adalah perumahan mewah, modern, dan minimalis yang terletak di lokasi yang strategis yaitu di pusat Kota Bogor. Green Bamboo Terrace dikelola oleh  pengembang properti terkemuka di Indonesia yaitu PT. Kebun Bambu Jakarta yang juga terafiliasi dengan Bamboo Field Japan.
+                                    Ishida Indonesia is the name of the official branch of Ishida Co., Ltd. which is located in Japan. Ishida itself is a manufacturer of weighing, packing, and inspection machines (checkweighers, metal detectors, x-rays) for various industries, some of which include the snacks, meat, fresh fruit, ready meals and seafood industries, among others. Ishida also prides itself as a company that is able to meet its customers’ large-scale factory machinery needs.
                                 </p>
                                 <p class="title__description">
-                                    Pada project Green Bamboo Terrace ini, PT Kebun Bambu Jakarta berkomitmen untuk menciptakan tempat tinggal yang berkualitas tinggi dengan harga yang terjangkau. Perumahan atau rumah hunian yang disediakan dibangun menggunakan material- material premium berstandar Jepang agar setiap unit rumah bisa menjadi hunian yang aman dan nyaman untuk ditinggali dalam jangka waktu yang lama.
+                                    Ishida has had more than 125 years of experience developing highly advanced and cutting edge products. Through their extensive experience within their field, Ishida has become a trusted partner for many businesses around the world.
                                 </p>
                                 <p class="title__description">
-                                    Green Bamboo Terrace juga dikenal sebagai perumahan exclusive dengan fasilitas yang lengkap mulai dari club house, children pool, garden with kids playground, mushola, security dan CCTV 24 jam, PDAM, jaringan listrik bawah tanah, dan masih banyak lagi. Dengan kualitas hunian yang ada di perumahan Green Bamboo Terrace ini, PT. Kebun Bambu Jakarta berkomitmen untuk menjadi developer terbaik di Indonesia untuk kedepannya.
+                                    To maintain this trust, Ishida consistently aims to meet their customers’ needs with regards to quality products and services through a dedicated R&D team, as well as a team of professional engineers. By leveraging high quality products and services, Ishida seeks to provide practical solutions for business owners for their needs in the area of production machine technology.
                                 </p>
                                 <p class="title__description">
-                                    Untuk mencapai hal tersebut, perusahaan ini terus menjaga dan mengoptimalkan kualitas huniannya. Selain itu, mereka juga menerapkan berbagai strategi pemasaran di era digital agar bisnis mereka dapat berkembang dan semakin dikenal luas oleh target marketnya.
+                                    Therefore, Ishida Indonesia has collaborated with LOGIQUE in order to run appropriate Google search advertisements. Through this marketing strategy, information about Ishida's products can reach the right targeted customers, hence increasing overall sales in the process.
                                 </p>
-                                <p class="title__description">
-                                    Di sisi lain, tingginya kebutuhan akan tempat tinggal membuat para developer di Indonesia menjadi semakin agresif dalam memasarkan dan mengembangkan propertinya. Oleh karena itulah, PT Kebun Bambu Jakarta mengambil langkah pasti dengan memutuskan untuk menggunakan layanan Digital Advertisement dari LOGIQUE untuk memenangkan kompetisi di pasar properti.
-                                </p>
+                            
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/greenbambooterrace/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/ishida/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -191,25 +187,25 @@
             </section>
 
             <!-- APPROACHING STRATEGY -->
-            <section class="portfolio__banner portfolio__banner-detail " style="background-image: none;">
+            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
                                 <p class="title__description" >
-                                    LOGIQUE menjalankan strategi marketing properti melalui digital advertisement dengan tujuan untuk mengoptimalkan kualitas leads yang dihasilkan. Kami merencanakan strategi pemasaran secara matang seperti membuat advertisement campaign dengan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta audience atau customer potential.
+                                    To ensure that Google search advertisements work well, the LOGIQUE team first conducts an in-depth analysis in order to target audience groups with a high level of accuracy. In addition, so as to ensure that the advertisements work effectively, we will also thoroughly analyze the products offered by Ishida, in terms of what unique selling points they have, as well as the available market potential.
                                 </p>
                                 <p class="title__description" >
-                                    Strategi marketing properti yang kami jalankan adalah:
+                                        In general, here are some of the marketing strategies pertaining to Google Search Ads that have been implemented:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website Green Bamboo Terrace.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan serta memungkinkan untuk bisa meningkatkan skor kualitas iklan.</li>
-                                    <li class="approach-item">Membatasi jumlah audience yang memiliki kualitas rendah dengan cara memantau secara berkala informasi penargetan dan membuat Group Audience yang terkontrol secara maksimal.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bogor dan sekitarnya melalui advertisement campaign, dengan menjaga harga bid CPC dan kualitas iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Green Bamboo Terrace untuk memastikan bahwa setiap campaign sudah berjalan sesuai dengan target dan objektif ingin dicapai oleh perusahaan.</li>
+                                    <li class="approach-item">Suggesting keywords and advertisements covering the span of all products on the Ishida website.</li>
+                                    <li class="approach-item">Making ads with a high degree of relevance, thereby increasing the overall quality score. </li>
+                                    <li class="approach-item">Limiting the number of low quality audiences by regularly monitoring targeting information and creating controlled audience groups</li>
+                                    <li class="approach-item">Influencing the Indonesian market for production machines through advertisement campaigns by maintaining CPC bid prices and ad quality.</li>
+                                    <li class="approach-item">Working with Ishida's branding team in order to ensure that every campaign runs in accordance with the targets and objectives the company aims to achieve.</li>
                                 </ul>
                             </div>
                         </div>
@@ -219,23 +215,23 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/greenbambooterrace/bg-footer.webp');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-7">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Dengan strategi yang diterapkan oleh LOGIQUE, kami berhasil membuat iklan atau digital advertisement yang disesuaikan dengan relevansi tinggi dan ditautkan langsung ke halaman produk atau kategori. Dari strategi marketing properti ini, kami dapat menghasilkan berbagai peningkatan positif yaitu:
-                                </p>
+                                    Through LOGIQUE’s implemented strategy, we have successfully run Google search advertisements which are tailored-made to a high degree of relevance, linked directly to the appropriate product pages within Ishida's website. The following shows the results obtained from our marketing strategy:
+                                </p>  
                             </div>
                             <div class="col-md-5 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+24%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+10%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+46%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
@@ -243,11 +239,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">-27%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+43%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+37%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
@@ -261,7 +257,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Tingginya permintaan akan kebutuhan properti serta persaingan yang semakin ketat di pasar properti, membuat team LOGIQUE merasa tertantang dan terus berinovasi. Dalam menjalankan strategi ini, kami mengembangkan pendekatan yang unik dan mampu memberikan kesan positif pada setiap calon konsumen yang tertarik untuk melakukan booking maupun interaksi. Dengan cara ini, Green Bamboo Terrace dapat menghasilkan conversions yang lebih tinggi daripada sebelumnya. 
+                                    In order to ensure that Ishida Indonesia's products are widely recognized and able to reach the intended target market, LOGIQUE has conducted an in-depth analysis before running any Google search advertisements. Additionally, we also provide very specifically detailed product categories so that every running campaign is able to generate a high number of conversions with the ability to reach the target audience with precision. In carrying the aforementioned marketing strategies, we ensure that every lead generated is of optimal quality.
                                 </p>
                             </div>
                         </div>
