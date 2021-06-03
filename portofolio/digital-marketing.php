@@ -158,7 +158,7 @@
                                     <a href="/portofolio/digital-marketing/JBA-Indonesia.php">                                        
                                         <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-jba-bg.png');">
                                             <img src="/img/portfolio/update/dm-jba.png" alt="">
-                                            <h4>Real Estate - JBA</h4>
+                                            <h4>Automotive (Auction)</h4>
                                             <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                         </div>                                        
                                     </a>
