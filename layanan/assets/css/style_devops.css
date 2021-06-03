@@ -14,7 +14,7 @@ body {
 } */
 
 header {
-  background-image: url(../img/img-devops/main-banner-devops.jpg);
+  background-image: url(../img/img-devops/bg-header.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -48,9 +48,9 @@ header h1 span{
   margin-top: 30px;
   line-height: 31px;
 }
-.service-list{
+/* .service-list{
   padding:55px 0 100px;
-}
+} */
 .new-box {
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.1);
   padding: 20px; 
@@ -281,14 +281,6 @@ footer {
   /* font-size: 13px; */
   /* color: #fff; */
 }
-
-/* .breadcrumb a {
-  color: #fff;
-}
-
-.breadcrumb li.active a {
-  text-decoration: underline;
-} */
 
 .breadcrumb > li + li:before {
   color: #fff;
@@ -875,4 +867,352 @@ footer {
   .captcha-custom div div iframe {
     width: 87.5%;
   }
+}
+
+/* carousel */
+#about #profile .carousel-control {
+  background-color: #ffcf2a;
+  color: black;
+  height: 55px;
+  width: 55px;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+  border: solid 1px black;
+  opacity: 1;
+}
+#about #profile .carousel-control.right,
+#about #profile .carousel-control.left {
+  background-image: none;
+}
+#about #profile .carousel-control.left {
+  left: -65px;
+}
+#about #profile .carousel-control.right {
+  right: -65px;
+}
+#profile.carousel img {
+  height: 285px;
+  width: 100%;
+  border-bottom: 3px solid #ffca13;
+  object-fit: cover;
+}
+
+.custombox__btn-product {
+  position: absolute;
+  background-color: #ffca13;
+  border: solid 2px #ffca13;
+  color: #000;
+  padding: 0.5em 2em;
+  border-radius: 5px;
+  bottom: -20px;
+  right: 50%;
+  transform: translateX(50%);
+  transition: all 0.3s;
+}
+
+.custombox__btn:hover,
+.custombox__btn-product:hover {
+  background-color: #000;
+  border-color: #000;
+  color: #fff;
+}
+
+.custombox__slider {
+  text-align: center;
+  border: solid 1px #000;
+  position: relative;
+  padding: 5%;
+}
+
+.custombox__slider-img {
+  width: 100%;
+  z-index: 0;
+}
+
+.custombox__slider-btn {
+  position: absolute;
+  font-size: 14px;
+  background-color: #000;
+  color: white;
+  border-radius: 20px;
+  width: 90%;
+  right: 50%;
+  bottom: -25px;
+  transform: translateX(50%);
+  padding: 10px 3%;
+}
+
+.custombox__custom-slider .item {
+  overflow: hidden;
+}
+
+.custombox__slider-text-wrapper {
+  position: absolute;
+  /* width: 45%; */
+  height: 150%;
+  bottom: -44px;
+  /* left: -40px; */
+  display: flex;
+  align-items: flex-end;
+  /* padding-bottom: 75px; */
+  /* padding-left: 20px; */
+  background-color: rgba(255, 207, 42, 0.9);
+  transform: rotateZ(-15deg);
+}
+
+.custombox__slider-text {
+  transform: rotateZ(15deg);
+  padding-left: 15px;
+  padding-right: 25px;
+  text-align: left;
+}
+
+.custom__card-icon {
+  border: 1px solid #dedede;
+  padding: 14px;
+  border-radius: 10%;
+}
+
+/* STYLE SECTION CTA */
+.custom_section-cta {
+  background-image: url(../img/img-devops/bg-section-cta.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: auto;
+  height: 200px; 
+  text-align: center;
+  padding-top: 0px;
+  padding-bottom: 90px;
+}
+
+.custom__button-contact-us {
+  background: rgb(255, 202, 0);
+  border-radius: 5px;
+  height: 50px;
+  width: 200px;  
+}
+
+ /* Style the tab */
+ .tabcontainer {
+  width:100%;
+}
+.tab {
+  overflow: hidden;
+  /* border: 1px solid #ccc; */
+  background-color: transparent;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: transparent;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  border-bottom: 7px solid grey;
+
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {                                    
+  border-bottom: 7px solid #ffca13;            
+
+}
+
+/* Create an active/current tablink class */
+.tab button.active {            
+  border-bottom: 7px solid #ffca13;            
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  /* border: 1px solid #ccc; */
+  border-top: none;
+}
+
+/* CUSTOM BUTTON ICON */
+.custom__button-icon{
+  color: grey;
+  padding: 0.5rem;
+  border: 1px solid grey;
+  border-radius: 50%;
+
+}
+
+
+
+/* 
+    ``````````````````````````````````````````````````````````````````````
+    Reference for below class : https://tailwindcss.com/docs/utility-first
+
+    ``````````````````````````````````````````````````````````````````````
+*/
+
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+.text-6xl {
+  font-size: 3.75rem;
+  line-height: 1;
+}
+
+.text-color-primary-main {
+  color: #ffca13;
+}
+
+.text-color-black-main {
+  color: #000000;
+}
+
+.text-color-grey {
+  color: grey;
+}
+
+.text-white {
+  color:white;
+}
+
+.font-extrabold {
+  font-weight: 800;
+}
+
+
+.font-black {
+  font-weight: 900;
+}
+
+.leading-normal {
+  line-height: 1.5;
+}
+
+.tracking-widest {
+  letter-spacing: 0.1em;
+}
+
+
+
+/* 
+    MARGIN
+*/
+
+.m-0{
+  margin: 0px;
+}
+
+.m-1{
+  margin: 4px;
+}
+
+.m-2{
+  margin: 8px;
+}
+
+.mt-2 {
+  margin-top: 8px !important;
+}
+
+.mt-3 {
+  margin-top: 12px !important;
+}
+
+.mt-4 {
+  margin-top: 16px !important;
+}
+
+.mt-5 {
+  margin-top: 20px !important;
+}
+
+.mt-6 {
+  margin-top: 24px !important;
+}
+
+.mt-7 {
+  margin-top: 28px !important;
+}
+
+.mt-8 {
+  
+  margin-top:  32px !important;
+}
+
+.mt-12 {
+  margin-top: 48px !important;
+}
+
+.mt-20 {
+  margin-top: 80px;
+}
+
+
+.mb-0 {
+  margin-bottom: 0px;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-3 {
+  margin-bottom: 0.75rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+.mb-5 {
+  margin-bottom: 1.25rem;
+}
+
+.mb-6 {
+  margin-bottom: 1.5rem;
+}
+
+.ml-0 {
+  margin-left: 0px !important;
+}
+
+.mr-0 {
+  margin-right: 0px;
+}
+
+.mr-1 {
+  margin-right: 0.25rem;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
+.mr-3 {
+  margin-right: 0.75rem;
+}
+
+.mr-4 {
+  margin-right: 1rem;
+}
+
+
+/* 
+    PADDING
+*/
+.pt-40 {
+  padding-top: 10rem;
+}
+.p-3 {
+  padding : 0.75rem;
 }

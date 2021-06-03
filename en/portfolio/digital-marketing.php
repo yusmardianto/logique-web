@@ -129,16 +129,20 @@
                             <div class="flex__row">
                                 <div class="col-md-4 col-sm-6 col-xs-12">                                
                                     <a href="/en/portfolio/digital-marketing/JBA-Indonesia.php">
-                                        <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-jba-bg.png')" data-toggle="modal" data-target="#modal-jba">
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-jba-bg.png')" data-toggle="modal" data-target="#modal-jba">
                                             <img src="/img/portfolio/update/dm-jba.png" alt="">
-                                            <h4>Real Estate - JBA</h4>
+                                            <h4>Automotive (Auction)</h4>
                                             <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                         </div>
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="/en/portfolio/digital-marketing/sumitomo.php">                                
+<<<<<<< HEAD
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
+=======
                                         <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-sumitomo-bg.png')" data-toggle="modal" data-target="#modal-sumitomo">
+>>>>>>> develop
                                             <img src="/img/portfolio/update/dm-sumitomo.png" alt="">
                                             <h4>Sumitomo Heavy Industry (SHI)</h4>
                                             <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
@@ -147,7 +151,11 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="/en/portfolio/digital-marketing/tokoparts.php">                                
+<<<<<<< HEAD
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
+=======
                                         <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-tokoparts-bg.png')" data-toggle="modal" data-target="#modal-tokoparts">
+>>>>>>> develop
                                             <img src="/img/portfolio/update/dm-tokoparts.png" alt="">
                                             <h4>E Commerce - Tokoparts</h4>
                                             <p>SEO | Website Maintenance</p>
@@ -155,21 +163,33 @@
                                     </a>                            
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
+<<<<<<< HEAD
+                                    <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
+=======
                                     <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')" data-toggle="modal" data-target="#modal-greenbamboo">
+>>>>>>> develop
                                         <img src="/img/portfolio/update/dm-bamboo.png" alt="">
                                         <h4>Real Estate - Bamboo</h4>
                                         <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
+<<<<<<< HEAD
+                                    <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')" data-toggle="modal" data-target="#modal-mirai">
+=======
                                     <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')" data-toggle="modal" data-target="#modal-mirai">
+>>>>>>> develop
                                         <img src="/img/portfolio/update/dm-mirai.png" alt="">
                                         <h4>Real Estate - Hajime</h4>
                                         <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
                                     </div>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
+<<<<<<< HEAD
+                                    <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
+=======
                                     <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')" data-toggle="modal" data-target="#modal-pilipili">
+>>>>>>> develop
                                         <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
                                         <h4>Company Profile - Ishida</h4>
                                         <p>SEO | Website Maintenance</p>
