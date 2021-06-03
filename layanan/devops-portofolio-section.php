@@ -1,6 +1,6 @@
 
 <section>
-        <div class="container">
+        <div class="container__">
             <h2 class="mt-12 font-black text-center">Cloud Server DevOps Work</h2>
             <div id="tes-carousel" class="carousel slide" data-ride="carousel">                      
                 <div class="carousel-inner" >                        

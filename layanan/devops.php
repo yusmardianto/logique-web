@@ -199,7 +199,7 @@ if(isset($_POST['submitted']))
 
     <!-- Section Description AWS Partner Network -->
     <section>
-        <div class="container mt-12">
+        <div class="container__ mt-12">
             <div class="row">
                 <div class="col-md-4">
 
@@ -242,7 +242,7 @@ if(isset($_POST['submitted']))
 
     <!-- Section TABS Cloud Server Providers -->
     <section>
-        <div class="container">
+        <div class="container__">
             <div class="row">
                 <div class="col-md-12">
                     <div class="tabcontainer" style="width: 100%">
@@ -467,7 +467,7 @@ if(isset($_POST['submitted']))
 
     <!-- SECTION SERVICE LIST OF LOGIQUE -->
     <section >
-        <div class="container">
+        <div class="container__">
             <div class="row">
                 <div class="col-md-12">
                     <img class="mt-7" src="assets/img/img-devops/image-temukan-solusi.webp" alt="Solution">
@@ -518,7 +518,7 @@ if(isset($_POST['submitted']))
 
     <!-- SECTION WHY LOGIQUE ? (CAROUSEL) -->
     <section>   
-        <div class="container">
+        <div class="container__">
             <div style="margin-bottom: -124px;">
                 <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
                 <h2 class="mt-7 font-black left">Kenapa Memilih </h2>  
