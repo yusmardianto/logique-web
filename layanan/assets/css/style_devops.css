@@ -868,106 +868,13 @@ footer {
     width: 87.5%;
   }
 }
-
-/* carousel */
-#about #profile .carousel-control {
-  background-color: #ffcf2a;
-  color: black;
-  height: 55px;
-  width: 55px;
-  border-radius: 50%;
-  top: 50%;
-  transform: translateY(-50%);
-  border: solid 1px black;
-  opacity: 1;
-}
-#about #profile .carousel-control.right,
-#about #profile .carousel-control.left {
-  background-image: none;
-}
-#about #profile .carousel-control.left {
-  left: -65px;
-}
-#about #profile .carousel-control.right {
-  right: -65px;
-}
-#profile.carousel img {
-  height: 285px;
-  width: 100%;
-  border-bottom: 3px solid #ffca13;
-  object-fit: cover;
+.container {
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+  margin: 0 auto;
 }
 
-.custombox__btn-product {
-  position: absolute;
-  background-color: #ffca13;
-  border: solid 2px #ffca13;
-  color: #000;
-  padding: 0.5em 2em;
-  border-radius: 5px;
-  bottom: -20px;
-  right: 50%;
-  transform: translateX(50%);
-  transition: all 0.3s;
-}
-
-.custombox__btn:hover,
-.custombox__btn-product:hover {
-  background-color: #000;
-  border-color: #000;
-  color: #fff;
-}
-
-.custombox__slider {
-  text-align: center;
-  border: solid 1px #000;
-  position: relative;
-  padding: 5%;
-}
-
-.custombox__slider-img {
-  width: 100%;
-  z-index: 0;
-}
-
-.custombox__slider-btn {
-  position: absolute;
-  font-size: 14px;
-  background-color: #000;
-  color: white;
-  border-radius: 20px;
-  width: 90%;
-  right: 50%;
-  bottom: -25px;
-  transform: translateX(50%);
-  padding: 10px 3%;
-}
-
-.custombox__custom-slider .item {
-  overflow: hidden;
-}
-
-.custombox__slider-text-wrapper {
-  position: absolute;
-  /* width: 45%; */
-  height: 150%;
-  bottom: -44px;
-  /* left: -40px; */
-  display: flex;
-  align-items: flex-end;
-  /* padding-bottom: 75px; */
-  /* padding-left: 20px; */
-  background-color: rgba(255, 207, 42, 0.9);
-  transform: rotateZ(-15deg);
-}
-
-.custombox__slider-text {
-  transform: rotateZ(15deg);
-  padding-left: 15px;
-  padding-right: 25px;
-  text-align: left;
-}
-
+/* STYLE CARD ICON CONTENT TAB  */
 .custom__card-icon {
   border: 1px solid #dedede;
   padding: 14px;

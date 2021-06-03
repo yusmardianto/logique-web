@@ -591,7 +591,7 @@ if(isset($_POST['submitted']))
 
      <!-- SECTION CALL TO ACTION -->
     <section class="custom_section-cta">
-        <div class="container__">
+        <div class="container">
                 <div class="row">
                     <div class="col-md-8 text-left ">
                         <p class="text-white mt-4 leading-normal tracking-widest">Contact Us</p>
