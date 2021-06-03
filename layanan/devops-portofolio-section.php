@@ -5,7 +5,7 @@
             <div id="tes-carousel" class="carousel slide" data-ride="carousel">                      
                 <div class="carousel-inner" >                        
                     <div class="item active" >                                        
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 124px" src="assets/img/img-devops/logo-jba.webp" alt="Logo JBA">
+                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 154px" src="assets/img/img-devops/logo-jba.webp" alt="Logo JBA">
                         <div class="carousel-caption">                            
                             <p class="text-color-black-main">
                                 JBA merupakan perusahaan yang bergerak di bidang lelang otomotif. Kami telah menyediakan layanan untuk JBA sejak sistem mereka dimigrasikan ke server cloud pada tahun 2015 dan kami telah beroperasi tanpa ada masalah besar.

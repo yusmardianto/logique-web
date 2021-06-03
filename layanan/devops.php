@@ -111,9 +111,10 @@ if(isset($_POST['submitted']))
 
         .custom__card-why-logique{                    
             background-color: white;
-            padding: 14px;
+            padding: 4px;
             border-radius: 10px;
-            border: 1px solid #d2d2d2;
+            /* height: ; */
+            /* border: 1px solid #d2d2d2; */
         }
         
         .carousel-indicators li {           
@@ -121,6 +122,17 @@ if(isset($_POST['submitted']))
         }
         .carousel-indicators .active {           
             background-color: #ffca13;
+        }
+
+        .carousel-caption {
+            text-shadow: none;
+        }
+
+        @media screen and (min-width: 768px){
+            .carousel-indicators {
+                bottom: -32px;
+            }
+
         }
  
         </style>
@@ -198,9 +210,9 @@ if(isset($_POST['submitted']))
     </div> 
 
     <!-- Section Description AWS Partner Network -->
-    <section>
-        <div class="container__ mt-12">
-            <div class="row">
+    <section style="background-image: url(assets/img/img-devops/bg-aws-partner.webp); background-repeat: no-repeat; background-position: top right; ">
+        <div class="container__ mt-12" >
+            <div class="row" >
                 <div class="col-md-4">
 
                     <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
@@ -211,7 +223,7 @@ if(isset($_POST['submitted']))
                     <img class="mt-7" src="assets/img/img-devops/logo-aws.webp" alt="AWS badge">
                     <img class="mt-4" src="assets/img/img-devops/images-dots.webp" alt="Dots">
                 </div>
-                <div class="col-md-8">
+                <div class="col-md-8" >
                     <p class="mt-4 font-black">
                         LOGIQUE menyediakan layanan lengkap DevOps pada manajemen cloud server Indonesia untuk memudahkan dan meningkatkan ketangkasan bisnis dalam membawa produk ke pasar. LOGIQUE sudah sangat berpengalaman dalam mengelola cloud server untuk berbagai jenis bisnis di Indonesia baik itu dengan cloud server dari AWS, GCP, ataupun Alibaba.                
                     </p>
@@ -245,26 +257,26 @@ if(isset($_POST['submitted']))
         <div class="container__">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="tabcontainer" style="width: 100%">
-                        <div class="tab">
-                            <button class="tablinks font-black" onclick="openCity(event, 'Amazon')">
+                    <div class="tabcontainer">
+                        <div class="tab" style="max-width: 100%">
+                            <button style="width: 33%;" class="tablinks font-black active" onclick="openCity(event, 'Amazon')">
                                 Amazon Web Services                            
                             </button>
-                            <button class="tablinks font-black" onclick="openCity(event, 'Google')">                                
+                            <button  style="width: 33%;" class="tablinks font-black" onclick="openCity(event, 'Google')">                                
                                 Google Cloud Platform
                             </button>
-                            <button class="tablinks font-black" onclick="openCity(event, 'Alibaba')">
+                            <button  style="width: 33%;" class="tablinks font-black" onclick="openCity(event, 'Alibaba')">
                                 Alibaba Cloud
                             </button>
                         </div>
 
                         <!-- TAB CONTENT AMAZON WEB SERVICES -->
-                        <div id="Amazon" class="tabcontent">
+                        <div id="Amazon" class="tabcontent" style="display: block;"> 
                             <div class="row">
-                                <div class="col-md-5">
+                                <div class="col-md-6">
                                     <img class="mt-7 " src="assets/img/img-devops/amazon-logo-description.webp" alt="AWS badge">
                                 </div>
-                                <div class="col-md-7">
+                                <div class="col-md-6">
                                     <h3 class="mt-7 font-black">1. Amazon Web Services (AWS)</h3>
                                     <p>
                                         Amazon Web Services (AWS) menjadi salah satu penyedia cloud terbesar dan terkemuka di pasar. Banyak klien kami yang memilih untuk menggunakan cloud server dari AWS karena kemampuannya dalam menghadirkan solusi cloud computing yang fleksibel, andal, dapat diskalakan, mudah digunakan, serta hemat biaya. Sampai saat ini, AWS sudah dipercaya oleh berbagai jenis bisnis untuk mendukung kebutuhan mereka dalam menjalankan aplikasi-aplikasi penting yang membutuhkan high availability. LOGIQUE sendiri, saat ini sudah tersertifikasi sebagai mitra AWS di Indonesia.
@@ -346,10 +358,10 @@ if(isset($_POST['submitted']))
                         <!-- TAB CONTENT GOOGLE CLOUD PLATFORM -->
                         <div id="Google" class="tabcontent">
                             <div class="row">
-                                <div class="col-md-5">
+                                <div class="col-md-6">
                                     <img class="mt-7 " src="assets/img/img-devops/gcp-logo.webp" alt="GCP Logo">
                                 </div>
-                                <div class="col-md-7">                                  
+                                <div class="col-md-6">                                  
                                     <h3 class="mt-7 font-black">2. Google Cloud Platform (GCP)</h3>
                                     <p>
                                         Google Cloud Platform merupakan layanan cloud computing yang disediakan oleh Google. GCP menawarkan solusi cloud yang memungkinkan bisnis Anda untuk dapat dimodernisasi serta proses pengembangan yang lebih cepat di lingkungan apa pun.
@@ -410,10 +422,10 @@ if(isset($_POST['submitted']))
                         <!-- TAB CONTENT ALIBABA CLOUD-->
                         <div id="Alibaba" class="tabcontent">
                             <div class="row">
-                                <div class="col-md-5">
+                                <div class="col-md-6">
                                     <img class="mt-7 " src="assets/img/img-devops/alibaba-logo-description.webp" alt="Alibaba Logo">
                                 </div>
-                                <div class="col-md-7">                                  
+                                <div class="col-md-6">                                  
                                     <h3 class="mt-7 font-black">3. Alibaba Cloud</h3>
                                     <p>
                                         Layanan dari Alibaba Cloud juga disediakan oleh LOGIQUE untuk memenuhi kebutuhan cloud server Indonesia. Alibaba Cloud menyediakan komputasi awan dan kemampuan pemrosesan data yang andal dan aman untuk ribuan perusahaan, pengembang, dan organisasi pemerintah di lebih dari 200 negara dan wilayah. Selain memiliki performa dan keandalan yang terbukti, Alibaba Cloud juga memiliki kehadiran yang kuat di Asia.
@@ -519,24 +531,34 @@ if(isset($_POST['submitted']))
     <!-- SECTION WHY LOGIQUE ? (CAROUSEL) -->
     <section>   
         <div class="container__">
-            <div style="margin-bottom: -124px;">
+            <!-- <div style="margin-bottom: auto; display:block">
                 <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
-                <h2 class="mt-7 font-black left">Kenapa Memilih </h2>  
+                <h2 class="mt-7 font-black left">Kenapa memilih </h2>  
                 <a href="/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design"></a> 
                 <img class="mt-4" src="assets/img/img-devops/images-dots.webp" alt="Dots">
-            </div>
+            </div> -->
 
-            <div id="why-logique" class="carousel slide" data-ride="carousel">        
+            <div id="why-logique" class="carousel slide" data-ride="carousel" style="padding-top: 54px;">        
                 <ol class="carousel-indicators">
                     <li data-target="#why-logique" data-slide-to="0" class="active"></li>
                     <li data-target="#why-logique" data-slide-to="1"></li>
                     <li data-target="#why-logique" data-slide-to="2"></li>
                 </ol>
                 
-                <div class="carousel-inner">
+                <div class="carousel-inner" >
                     <div class="item active">
-                        <img class="right-image" src="assets/img/img-devops/bg-why-logique-1.webp" alt="Demo 1">
-                        <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px">     
+                        <img class="right-image"  src="assets/img/img-devops/bg-why-logique-1.webp" alt="Demo 1">
+                        <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px"> 
+                            <div>
+                                <span style="border-bottom: 2px solid black; color : transparent;">123456789</span>    
+                                <a style="color: black" href="/">                                  
+                                    <h2 class="font-black text-left"> 
+                                        Kenapa memilih 
+                                    </h2>                                                                        
+                                    <img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design">
+                                </a> 
+                                <img class="mt-4 block mr-auto" src="assets/img/img-devops/images-dots.webp" alt="Dots">
+                            </div>    
                             <div class="custom__card-why-logique">
                                 <h3 class="text-color-black-main text-left">
                                     Memberikan solusi lengkap dan terbaik
@@ -549,9 +571,20 @@ if(isset($_POST['submitted']))
                     </div>
 
                     <div class="item">
-                        <img class="right-image" src="assets/img/img-devops/bg-why-logique-2.webp" alt="Demo 2">
-                        <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px">     
-                            <div class="custom__card-why-logique">
+                        <img class="right-image"  src="assets/img/img-devops/bg-why-logique-2.webp" alt="Demo 2">
+                        <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px">   
+                            <div>
+                                <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
+                                <h2 class="mt-20 font-black left">
+                                    <span class="font-black" style="border-top: 3px solid black; font-size: 30px; ">Kenapa </span>
+                                    memilih 
+                                </h2>  
+                                <a style="color: black" href="/">
+                                    <h2 class="font-black text-left">Kenapa memilih </h2>  
+                                <img  src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design"></a> 
+                                <img class="mt-4 block mr-auto" src="assets/img/img-devops/images-dots.webp" alt="Dots">
+                            </div>    
+                            <div class="custom__card-why-logique ">
                                 <h3 class="text-color-black-main text-left">
                                     Profesional dan berpengalaman
                                 </h3>                       
@@ -563,8 +596,15 @@ if(isset($_POST['submitted']))
                     </div>
     
                     <div class="item">
-                        <img class="right-image" src="assets/img/img-devops/bg-why-logique-3.webp" alt="Demo 2">
+                        <img class="right-image"  src="assets/img/img-devops/bg-why-logique-3.webp" alt="Demo 2">
                         <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px">     
+                            <div>
+                                <!-- <span style="border-bottom: 2px solid black; color : transparent">123456789</span>                                      -->
+                                <a style="color: black" href="/">
+                                    <h2 class="font-black text-left">Kenapa memilih </h2>  
+                                <img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design"></a> 
+                                <img class="mt-4 block mr-auto" src="assets/img/img-devops/images-dots.webp" alt="Dots">
+                            </div>  
                             <div class="custom__card-why-logique">
                                 <h3 class="text-color-black-main text-left">
                                     Mampu memberikan respon yang cepat
@@ -632,10 +672,10 @@ if(isset($_POST['submitted']))
         });
     });
 
-    $(document).ready(function(event){        
-        openCity(event, 'Amazon')
-        // $('#Amazon').addClass("button.active")
-    })
+    // $(document).ready(function(event){        
+    //     // openCity(event, 'Amazon')
+    //     // $('#Amazon').addClass("button.active")
+    // })
 
 
     //*Feat: Tab

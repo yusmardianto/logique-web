@@ -983,6 +983,10 @@ footer {
   color:white;
 }
 
+.text-left {
+  text-align:left;
+}
+
 .font-extrabold {
   font-weight: 800;
 }
@@ -1084,6 +1088,10 @@ footer {
   margin-bottom: 1.5rem;
 }
 
+.-mb-5 {
+  margin-bottom: -1.25rem;
+}
+
 .ml-0 {
   margin-left: 0px !important;
 }
@@ -1108,6 +1116,10 @@ footer {
   margin-right: 1rem;
 }
 
+.mr-auto{
+  margin-right: auto;
+}
+
 
 /* 
     PADDING
@@ -1117,4 +1129,11 @@ footer {
 }
 .p-3 {
   padding : 0.75rem;
+}
+
+/* 
+    DISPLAY
+*/
+.block {
+  display: block;
 }
