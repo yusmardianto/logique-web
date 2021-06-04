@@ -4,13 +4,13 @@
                 <div class="col-md-12">
                     <div class="tabcontainer">
                         <div class="tab" style="max-width: 100%">
-                            <button style="width: 33%;" class="tablinks font-black active" onclick="openCity(event, 'Amazon')">
+                            <button style="width: 33%;" class="tablinks font-black active" onclick="openProvider(event, 'Amazon')">
                                 Amazon Web Services                            
                             </button>
-                            <button  style="width: 33%;" class="tablinks font-black" onclick="openCity(event, 'Google')">                                
+                            <button  style="width: 33%;" class="tablinks font-black" onclick="openProvider(event, 'Google')">                                
                                 Google Cloud Platform
                             </button>
-                            <button  style="width: 33%;" class="tablinks font-black" onclick="openCity(event, 'Alibaba')">
+                            <button  style="width: 33%;" class="tablinks font-black" onclick="openProvider(event, 'Alibaba')">
                                 Alibaba Cloud
                             </button>
                         </div>

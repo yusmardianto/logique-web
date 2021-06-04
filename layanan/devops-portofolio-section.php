@@ -67,20 +67,20 @@
                                 Benesse adalah perusahaan yang bergerak di bidang pendidikan. Perusahaan ini mempercayakan pengelolaan cloud server mereka pada LOGIQUE. Untuk pengelolan data base dan keamanan website, Benesse memilih untuk menggunakan layanan EC2 dan RDS dari AWS. 
                             </p>
                         </div>
-                    </div>
-                
-                             
+                    </div>                                             
                 </div>
                 
-                <!-- kontrol-->               
-               
-                <a class="carousel-control left" href="#tes-carousel" data-slide="prev">                
-                    <span class="custom__button-icon">⬅</span>
+                <!-- kontrol-->                                             
+                <a class="carousel-control left " href="#tes-carousel" data-slide="prev">                
+                    <span>                        
+                        <img src="assets/img/img-devops/chevron-left.png" />
+                    </span>
                 </a>
                 <a class="carousel-control right" href="#tes-carousel" data-slide="next">                                           
-                    <span  class="custom__button-icon">➡</span>
-
-                </a>
+                    <span>                        
+                        <img src="assets/img/img-devops/chevron-right.png" />
+                    </span>
+                </a>              
             
             </div>
         </div>

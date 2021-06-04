@@ -307,102 +307,10 @@ if(isset($_POST['submitted']))
 
 
     <!-- SECTION WHY LOGIQUE ? (CAROUSEL) -->
-    <section>   
-        <div class="container__">
-            <!-- <div style="margin-bottom: auto; display:block">
-                <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
-                <h2 class="mt-7 font-black left">Kenapa memilih </h2>  
-                <a href="/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design"></a> 
-                <img class="mt-4" src="assets/img/img-devops/images-dots.webp" alt="Dots">
-            </div> -->
-
-            <div id="why-logique" class="carousel slide" data-ride="carousel">        
-                <ol class="carousel-indicators">
-                    <li data-target="#why-logique" data-slide-to="0" class="active"></li>
-                    <li data-target="#why-logique" data-slide-to="1"></li>
-                    <li data-target="#why-logique" data-slide-to="2"></li>
-                </ol>
-                
-                <div class="carousel-inner" >
-                    <div class="item active">
-                        <img class="right-image"  src="assets/img/img-devops/bg-why-logique-1.webp" alt="Demo 1">
-                        <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px"> 
-                            <div>
-                                <span style="border-bottom: 2px solid black; color : transparent;">123456789</span>    
-                                <a style="color: black" href="/">                                  
-                                    <h2 class="font-black text-left"> 
-                                        Kenapa memilih 
-                                    </h2>                                                                        
-                                    <img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design">
-                                </a> 
-                                <img class="mt-4 block mr-auto" src="assets/img/img-devops/images-dots.webp" alt="Dots">
-                            </div>    
-                            <div class="custom__card-why-logique">
-                                <h3 class="text-color-black-main text-left">
-                                    Memberikan solusi lengkap dan terbaik
-                                </h3>                       
-                                <p class="text-color-black-main text-left mt-2">
-                                    LOGIQUE menyediakan layanan penuh DevOps pada cloud server. Kami juga mampu memberikan beragam solusi terbaik mulai dari pengelolaan cloud server, pengembangan aplikasi dan website, keamanan cyber, dan lain-lain. Bersama LOGIQUE, Anda akan mendapatkan One Stop Solution untuk mengembangkan bisnis dengan mudah dan sukses di era digital.  
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <img class="right-image"  src="assets/img/img-devops/bg-why-logique-2.webp" alt="Demo 2">
-                        <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px">   
-                            <div>
-                                <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
-                                <h2 class="mt-20 font-black left">
-                                    <span class="font-black" style="border-top: 3px solid black; font-size: 30px; ">Kenapa </span>
-                                    memilih 
-                                </h2>  
-                                <a style="color: black" href="/">
-                                    <h2 class="font-black text-left">Kenapa memilih </h2>  
-                                <img  src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design"></a> 
-                                <img class="mt-4 block mr-auto" src="assets/img/img-devops/images-dots.webp" alt="Dots">
-                            </div>    
-                            <div class="custom__card-why-logique ">
-                                <h3 class="text-color-black-main text-left">
-                                    Profesional dan berpengalaman
-                                </h3>                       
-                                <p class="text-color-black-main text-left mt-2">
-                                    LOGIQUE adalah mitra AWS yang sudah tersertifikasi di Indonesia. Selain itu, LOGIQUE juga memiliki tim ahli di bidang pengelolaan cloud server yang sudah sangat berpengalaman dalam membantu berbagai jenis bisnis di Indonesia. Oleh karena itu, Anda tidak perlu meragukan keahlian teknis yang kami miliki.
-                                </p>
-                            </div>
-                            </div>
-                    </div>
-    
-                    <div class="item">
-                        <img class="right-image"  src="assets/img/img-devops/bg-why-logique-3.webp" alt="Demo 2">
-                        <div class="carousel-caption" style="margin-left: -200px; margin-right: 124px">     
-                            <div>
-                                <!-- <span style="border-bottom: 2px solid black; color : transparent">123456789</span>                                      -->
-                                <a style="color: black" href="/">
-                                    <h2 class="font-black text-left">Kenapa memilih </h2>  
-                                <img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design"></a> 
-                                <img class="mt-4 block mr-auto" src="assets/img/img-devops/images-dots.webp" alt="Dots">
-                            </div>  
-                            <div class="custom__card-why-logique">
-                                <h3 class="text-color-black-main text-left">
-                                    Mampu memberikan respon yang cepat
-                                </h3>                       
-                                <p class="text-color-black-main text-left mt-2">
-                                    LOGIQUE memberikan layanan DevOps yang fast respon untuk kebutuhan cloud server Anda. Kami juga akan memberikan dukungan teknis dan trouble shooting 24/7 jika terjadi masalah yang tidak diinginkan pada cloud server Anda.
-                                </p>
-                            </div>
-                            </div>
-                    </div>                                               
-                </div>
-            </div>
-        </div>
-    </section> 
+    <?php include './devops-why-logique-section.php';?>    
    
-
-
     <!-- SECTION (CAROUSEL WITH ARROW) --> 
     <?php include './devops-portofolio-section.php';?>
-
 
      <!-- SECTION CALL TO ACTION -->
     <section class="custom_section-cta">
@@ -415,16 +323,16 @@ if(isset($_POST['submitted']))
                         </h3>    
                     </div>
                     <div class="col-md-4 text-right">
-                        <button type="button" class="mt-7 btn custom__button-contact-us">
+                        <button type="button" class="mt-7 btn custom__button-contact-us" style="background-image: url(assets/img-devops/icon-arrow-right.svg)">
                             <a href="/hubungi-kami.php">
-                                <p class="font-black text-color-black-main">➡ &nbsp; Contact Us Now</p>
+                                <span class="glyphicon glyphicon-arrow-right text-color-black-main mt-1" aria-hidden="true"></span>
+                                <span class="font-black text-color-black-main"> &nbsp; Contact Us Now</span>
                             </a>
-                        </button>
+                        </button>                        
                     </div>
                 </div>
             </div>
     </section>
-
     
     <?php include '../footer.php'; ?>    
     <script src="/js/bootstrap.min.js"></script>
@@ -447,14 +355,8 @@ if(isset($_POST['submitted']))
         });
     });
 
-    // $(document).ready(function(event){        
-    //     // openCity(event, 'Amazon')
-    //     // $('#Amazon').addClass("button.active")
-    // })
-
-
     //*Feat: Tab
-    function openCity(evt, cityName) {
+    function openProvider(evt, cityName) {
         var i, tabcontent, tablinks;
         tabcontent = document.getElementsByClassName("tabcontent");
         for (i = 0; i < tabcontent.length; i++) {
