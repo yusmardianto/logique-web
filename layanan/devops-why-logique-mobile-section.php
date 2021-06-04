@@ -16,7 +16,7 @@
                 </a> 
                                      
                 <div class="carousel-inner" >                        
-                    <div class="item active" style="height: 115% !important;" >                                        
+                    <!-- <div class="item active" style="height: 115% !important;" >                                        
                         <img class="mt-7 centering-image" style="width: 100%; border-radius: 20px;" src="assets/img/img-devops/bg-why-logique-1.webp" alt="bg-1">
                         <div class="carousel-caption text-left" >        
                             <h3 class="text-color-black-main text-left -ml-6-sm ">
@@ -26,6 +26,22 @@
                                 LOGIQUE menyediakan layanan penuh DevOps pada cloud server. Kami juga mampu memberikan beragam solusi terbaik mulai dari pengelolaan cloud server, pengembangan aplikasi dan website, keamanan cyber, dan lain-lain. Bersama LOGIQUE, Anda akan mendapatkan One Stop Solution untuk mengembangkan bisnis dengan mudah dan sukses di era digital.  
                             </p>
                         </div>
+                    </div> -->
+                    <div class="item active"> 
+                        <div style="display: flex; flex-direction: column; justify-content:center">
+                            <img class="mt-7 centering-image" style="width: 100%; border-radius: 20px;" src="assets/img/img-devops/bg-why-logique-1.webp" alt="bg-1">                                                        
+                        </div>
+                        <div style="padding:16px">
+                            <h3 class="text-color-black-main text-left">
+                                Memberikan solusi lengkap dan terbaik
+                            </h3>    
+                            <p class="text-color-black-main mt-2-sm  ">
+                                LOGIQUE menyediakan layanan penuh DevOps pada cloud server. Kami juga mampu memberikan beragam solusi terbaik mulai dari pengelolaan cloud server, pengembangan aplikasi dan website, keamanan cyber, dan lain-lain. Bersama LOGIQUE, Anda akan mendapatkan One Stop Solution untuk mengembangkan bisnis dengan mudah dan sukses di era digital.  
+                            </p>
+                        </div>
+                        <!-- <div class="carousel-caption text-left" >  
+                        </div> -->
+                    
                     </div>
                                     
                     <div class="item" style="height: 110% !important;; ">
