@@ -1,4 +1,3 @@
-
 <section class="visible-sm visible-xs">
         <div class="container__">            
             <div id="why-logique-mobile" class="carousel slide" data-ride="carousel"> 
@@ -17,7 +16,7 @@
                 </a> 
                                      
                 <div class="carousel-inner" >                        
-                    <div class="item active" style="height: 115%;" >                                        
+                    <div class="item active" style="height: 115% !important;" >                                        
                         <img class="mt-7 centering-image" style="width: 100%; border-radius: 20px;" src="assets/img/img-devops/bg-why-logique-1.webp" alt="bg-1">
                         <div class="carousel-caption text-left" >        
                             <h3 class="text-color-black-main text-left -ml-6-sm ">
@@ -29,7 +28,7 @@
                         </div>
                     </div>
                                     
-                    <div class="item"  style="height: 110%;">
+                    <div class="item" style="height: 110% !important;; ">
                         <img class="mt-7 centering-image" style="width: 100%; border-radius: 20px;" src="assets/img/img-devops/bg-why-logique-2.webp" alt="bg-2" >
                         <div class="carousel-caption">
                             <h3 class="text-color-black-main text-left -ml-6-sm ">
@@ -41,7 +40,7 @@
                         </div>
                     </div>
 
-                    <div class="item"  style="height: 100%;">
+                    <div class="item"  style="height: 100% !important;">
                         <img class="mt-7 centering-image" style="width: 100%; border-radius: 20px;" src="assets/img/img-devops/bg-why-logique-3.webp" alt="bg-3" >                        
                         <div class="carousel-caption">
                             <h3 class="text-color-black-main text-left -ml-6-sm ">
