@@ -112,9 +112,7 @@ if(isset($_POST['submitted']))
         .custom__card-why-logique{                    
             background-color: white;
             padding: 4px;
-            border-radius: 10px;
-            /* height: ; */
-            /* border: 1px solid #d2d2d2; */
+            border-radius: 10px;         
         }
         
         .carousel-indicators li {           
@@ -128,13 +126,102 @@ if(isset($_POST['submitted']))
             text-shadow: none;
         }
 
-        @media screen and (min-width: 768px){
-            .carousel-indicators {
-                bottom: -32px;
+        .custom__bg-image-partner-aws{
+            background-image: url(assets/img/img-devops/bg-aws-partner.webp); 
+            background-repeat: no-repeat; 
+            background-position: top right; 
+        }
+    
+        @media only screen and (max-width: 414px) {
+            .breadcrumb {
+                padding-left: 15px;
+            }
+        }
+                
+        /* 
+            TAILWIND RESPONSIVE REFERENCE : https://v1.tailwindcss.com/docs/responsive-design#app
+        */
+
+        /* Small (sm) */
+        @media (max-width: 640px) {                
+            
+            .bg-sm-none {
+                background-image: none  
+            }
+            
+            .font-sm-normal{
+                font-weight: 400;
             }
 
+            .font-sm-light{
+
+                font-weight: 300;
+            } 
+            
+            .text-sm-left{
+                text-align: left;
+            }
+
+            .mt-2-sm{
+                margin-top: 8px !important;
+            }
+            .mt-3-sm {
+                margin-top: 12px !important;
+            }
+
+            .-ml-6-sm {
+                margin-left: -24px !important;
+            }
+            .-mt-12-sm {
+                margin-top: -48px !important;
+            }
+            .h-20-sm {
+                height: 20%;
+            }	
+            .h-40-sm {
+                height: 40%;
+            }	
+
+            .h-50-sm {
+                height: 50%;
+            }	
+
+            .h-60-sm {
+                height: 60%;
+            }
+
+            .h-65-sm {
+                height: 65%;
+            }
+
+            .h-75-sm {
+                height: 75%;
+            }
+
+            .h-80-sm {
+                height: 80%;
+            }    
+            .h-90-sm {
+                height: 91%;
+            }
+            .h-full-sm {
+                height: 100%;
+            }
         }
- 
+        
+        /* Medium (md) */
+        @media (max-width: 768px){
+            .carousel-indicators {
+                bottom: -32px;
+            }        
+        }
+        
+        /* Large (lg) */
+        @media (min-width: 1024px) { /* ... */ }
+        
+        /* Extra Large (xl) */
+        @media (min-width: 1280px) { /* ... */ }
+
         </style>
 </head>
 
@@ -146,14 +233,7 @@ if(isset($_POST['submitted']))
 			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<!-- End Google Tag Manager (noscript) -->';
 		}
-	?>
-    <style>
-        @media only screen (max-width: 414px) {
-            .breadcrumb {
-                padding-left: 15px;
-            }
-        }
-    </style>
+	?>  
     <div class="wrapper wrapper--update-design wrapper--update-design-font"> 
         <!-- NAVIGATION -->
         <?php 
@@ -210,7 +290,7 @@ if(isset($_POST['submitted']))
     </div> 
 
     <!-- Section Description AWS Partner Network -->
-    <section style="background-image: url(assets/img/img-devops/bg-aws-partner.webp); background-repeat: no-repeat; background-position: top right; ">
+    <section class="custom__bg-image-partner-aws bg-sm-none -mt-12-sm">
         <div class="container__ mt-12" >
             <div class="row" >
                 <div class="col-md-4">
@@ -221,7 +301,7 @@ if(isset($_POST['submitted']))
                         telah disertifikasi sebagai mitra AWS di Indonesia Percayakan pengelolaan cloud server Anda bersama kami!
                     </p>
                     <img class="mt-7" src="assets/img/img-devops/logo-aws.webp" alt="AWS badge">
-                    <img class="mt-4" src="assets/img/img-devops/images-dots.webp" alt="Dots">
+                    <img class="mt-4 hidden-xs hidden-sm" src="assets/img/img-devops/images-dots.webp" alt="Dots">
                 </div>
                 <div class="col-md-8" >
                     <p class="mt-4 font-black">
@@ -230,6 +310,8 @@ if(isset($_POST['submitted']))
                     <p class=" mt-4 font-black">
                         Untuk pengelolaan cloud server yang optimal, kami memberikan layanan DevOps untuk bisnis Anda. DevOps (Development dan Operations) sendiri merupakan kombinasi dari culture, praktik, dan alat yang digabungkan untuk meningkatkan kemampuan sebuah perusahaan untuk proses delivery aplikasi ataupun website dengan kecepatan yang tinggi. Dengan demikian, proses pengembangan produk baru baik itu website ataupun aplikasi memungkinkan untuk dilakukan dengan cepat.
                     </p>
+
+                    <img class="mt-4 visible-xs visible-sm" src="assets/img/img-devops/images-dots.webp" alt="Dots">
                 </div>
             </div>
 
@@ -238,13 +320,13 @@ if(isset($_POST['submitted']))
                     <h2 class="font-black">
                         Layanan Devops untuk Cloud Computing yang Disediakan LOGIQUE
                     </h2>
-                    <p class="font-black mt-4">
+                    <p class="font-black font-sm-normal mt-4">
                         Jika saat ini Anda sedang membangun atau mengembangkan situs website, e-commerce, ataupun aplikasi website yang menuntut keandalan, ketangkasan, kolaborasi terpusat, stabilitas, dan keamanan data bisnis, maka Anda membutuhkan layanan cloud server yang bekerja secara optimal. LOGIQUE hadir untuk membantu menyediakan solusi DevOps secara lengkap untuk manajemen cloud server Indonesia bagi bisnis Anda. 
                     </p>
-                    <p  class="font-black mt-4">
+                    <p  class="font-black font-sm-normal mt-4">
                         Cloud server adalah server berbentuk virtual yang dibangun, dihosting, dan dikirimkan oleh platform komputasi awan melalui internet. Dengan menggunakan cloud server, maka data ataupun sumber daya lain dapat tersebar dan dapat diakses dengan mudah dari berbagai perangkat di lokasi berbeda ataupun dari jarak jauh.
                     </p>
-                    <p  class="font-black mt-4 mb-6">
+                    <p  class="font-black font-sm-normal mt-4 mb-6">
                         LOGIQUE dapat membantu Anda untuk memberdayakan website, e-commerce, ataupun aplikasi website Anda dan memberikan dukungan yang sangat dibutuhkan untuk dapat menjalankannya dengan layanan manajemen cloud server yang kami miliki. Dengan profesionalitas dan pengalaman tim, LOGIQUE menyediakan pengelolaan cloud server dari penyedia layanan cloud computing terbaik yaitu:
                     </p>
                 </div>
@@ -260,7 +342,7 @@ if(isset($_POST['submitted']))
         <div class="container__">
             <div class="row">
                 <div class="col-md-12">
-                    <img class="mt-7 hidden-xs hidden-sm" src="assets/img/img-devops/image-temukan-solusi.webp" alt="Solution">
+                    <img class="mt-7" style="width: 100%; border-radius: 10px;" src="assets/img/img-devops/image-temukan-solusi.webp" alt="Solution">
                 </div>
             </div>
 
@@ -274,11 +356,11 @@ if(isset($_POST['submitted']))
             </div>
 
             <div class="row">
-                <div class="col-sm-4">
-                    <div class="new-box">
-                        <img src="assets/img/img-devops/icon-billing-service.svg">
-                        <h3>Layanan Penagihan</h3>
-                        <p>
+                <div class="col-sm-4 text-sm-center">
+                    <div class="new-box">                        
+                        <img src="assets/img/img-devops/icon-billing-service.svg" >                        
+                        <h3 class="text-left">Layanan Penagihan</h3>
+                        <p class="text-left">
                             Kami mengeluarkan tagihan bersama Faktur Pajak dalam Rupiah sehingga Anda tidak perlu membayar ke AWS dalam USD.
                         </p>
                     </div>
@@ -307,7 +389,9 @@ if(isset($_POST['submitted']))
 
 
     <!-- SECTION WHY LOGIQUE ? (CAROUSEL) -->
-    <?php include './devops-why-logique-section.php';?>    
+    <?php include './devops-why-logique-section.php';?>  
+    <?php include './devops-why-logique-mobile-section.php';?>    
+
    
     <!-- SECTION (CAROUSEL WITH ARROW) --> 
     <?php include './devops-portofolio-section.php';?>
@@ -322,7 +406,7 @@ if(isset($_POST['submitted']))
                             We’re here to serve you.
                         </h3>    
                     </div>
-                    <div class="col-md-4 text-right">
+                    <div class="col-md-4 text-right text-sm-left">
                         <button type="button" class="mt-7 btn custom__button-contact-us" style="background-image: url(assets/img-devops/icon-arrow-right.svg)">
                             <a href="/hubungi-kami.php">
                                 <span class="glyphicon glyphicon-arrow-right text-color-black-main mt-1" aria-hidden="true"></span>

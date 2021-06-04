@@ -1,4 +1,4 @@
-<section>   
+<section class="hidden-sm hidden-xs">   
         <div class="container__">           
 
             <div id="why-logique" class="carousel slide" data-ride="carousel">        
