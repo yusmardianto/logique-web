@@ -213,11 +213,33 @@ if(isset($_POST['submitted']))
         @media (max-width: 768px){
             .carousel-indicators {
                 bottom: -32px;
-            }        
+            }    
+
+            /* .carousel-caption{
+                right: 5%;
+                left: 5%;                
+            } */
+            .pb-60-md{
+                padding-bottom: 15rem;
+            }   
+            
+          
         }
         
         /* Large (lg) */
-        @media (min-width: 1024px) { /* ... */ }
+        @media (min-width: 1024px) { 
+            .pb-60-lg{
+                padding-bottom: 15rem;
+            }   
+
+            .ml-72-lg{
+                margin-left: 18rem;
+            }
+
+            .mr-72-lg{
+                margin-right: 18rem;
+            }
+         }
         
         /* Extra Large (xl) */
         @media (min-width: 1280px) { /* ... */ }

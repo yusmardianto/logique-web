@@ -14,12 +14,14 @@
                 </ol>
                                      
                 <div class="carousel-inner" >                        
-                    <div class="item active h-65-sm" >                                        
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 154px" src="assets/img/img-devops/logo-jba.webp" alt="Logo JBA">
-                        <div class="carousel-caption">                            
-                            <p class="text-color-black-main">
-                                JBA merupakan perusahaan yang bergerak di bidang lelang otomotif. Kami telah menyediakan layanan untuk JBA sejak sistem mereka dimigrasikan ke server cloud pada tahun 2015 dan kami telah beroperasi tanpa ada masalah besar.
-                            </p>
+                    <div class="item active" >                                        
+                        <div class="flex flex-col justify-center">
+                            <img class="mt-7 centering-image " style="width: 210px;" src="assets/img/img-devops/logo-jba.webp" alt="Logo JBA">
+                            <div class="p-6">                                                   
+                                <p class="text-color-black-main text-center mt-2-sm ml-72-lg mr-72-lg" >
+                                    JBA merupakan perusahaan yang bergerak di bidang lelang otomotif. Kami telah menyediakan layanan untuk JBA sejak sistem mereka dimigrasikan ke server cloud pada tahun 2015 dan kami telah beroperasi tanpa ada masalah besar.
+                                </p>
+                            </div>
                         </div>
                     </div>
                                     
