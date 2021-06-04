@@ -2,9 +2,19 @@
 <section>
         <div class="container__">
             <h2 class="mt-12 font-black text-center">Cloud Server DevOps Work</h2>
-            <div id="tes-carousel" class="carousel slide" data-ride="carousel">                      
+            <div id="tes-carousel" class="carousel slide" data-ride="carousel"> 
+                <ol class="carousel-indicators visible-xs">
+                    <li data-target="#tes-carousel" data-slide-to="0" class="active"></li>
+                    <li data-target="#tes-carousel" data-slide-to="1"></li>
+                    <li data-target="#tes-carousel" data-slide-to="2"></li>
+                    <li data-target="#tes-carousel" data-slide-to="3"></li>
+                    <li data-target="#tes-carousel" data-slide-to="4"></li>
+                    <li data-target="#tes-carousel" data-slide-to="5"></li>
+                    <li data-target="#tes-carousel" data-slide-to="6"></li>
+                </ol>
+                                     
                 <div class="carousel-inner" >                        
-                    <div class="item active" >                                        
+                    <div class="item active h-65-sm" >                                        
                         <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 154px" src="assets/img/img-devops/logo-jba.webp" alt="Logo JBA">
                         <div class="carousel-caption">                            
                             <p class="text-color-black-main">
@@ -12,9 +22,8 @@
                             </p>
                         </div>
                     </div>
-
                                     
-                    <div class="item">
+                    <div class="item h-60-sm">
                         <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 124px" src="assets/img/img-devops/confidential-img.png" >
                         <div class="carousel-caption">
                             <p class="text-color-black-main">
@@ -23,8 +32,8 @@
                         </div>
                     </div>
 
-                    <div class="item">
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 154px" src="assets/img/img-devops/logo_tokopart.png" >                        
+                    <div class="item h-90-sm">
+                        <img class="mt-7 centering-image " style="width: 210px; padding-bottom: 154px" src="assets/img/img-devops/logo_tokopart.png" >                        
                         <div class="carousel-caption">
                             <p class="text-color-black-main">
                                 Sebagai web e-commerce otomotif, Tokoparts membutuhkan cloud server yang mampu bekerja dengan baik sehingga website dapat diakses dengan cepat dan mudah. Untuk menyediakan hal tersebut, LOGIQUE menggunakan solusi cloud server dari AWS seperti EC2 dan RDS.  Selain itu, untuk melindungi website, Tokoparts juga menggunakan layanan WAF.
@@ -32,7 +41,7 @@
                         </div>
                     </div>
 
-                    <div class="item">
+                    <div class="item h-60-sm">
                         <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 200px" src="assets/img/img-devops/logo-benefit-one.svg" >                        
                         <div class="carousel-caption">
                             <p class="text-color-black-main">
@@ -42,7 +51,7 @@
                     </div>
 
 
-                    <div class="item">
+                    <div class="item h-50-sm">
                         <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 124px" src="assets/img/img-devops/confidential-img.png" >
                         <div class="carousel-caption">
                             <p class="text-color-black-main">
@@ -51,7 +60,7 @@
                         </div>
                     </div>
 
-                    <div class="item">
+                    <div class="item h-75-sm">
                         <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 200px" src="assets/img/img-devops/logo-jbap.png" >
                         <div class="carousel-caption">
                             <p class="text-color-black-main">
@@ -60,7 +69,7 @@
                         </div>
                     </div>
 
-                    <div class="item">
+                    <div class="item h-80-sm">
                         <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 200px" src="assets/img/img-devops/logo-beneese.png" >
                         <div class="carousel-caption">
                             <p class="text-color-black-main">
@@ -71,12 +80,12 @@
                 </div>
                 
                 <!-- kontrol-->                                             
-                <a class="carousel-control left " href="#tes-carousel" data-slide="prev">                
+                <a class="carousel-control left hidden-xs " href="#tes-carousel" data-slide="prev">                
                     <span>                        
                         <img src="assets/img/img-devops/chevron-left.png" />
                     </span>
                 </a>
-                <a class="carousel-control right" href="#tes-carousel" data-slide="next">                                           
+                <a class="carousel-control right hidden-xs" href="#tes-carousel" data-slide="next">                                           
                     <span>                        
                         <img src="assets/img/img-devops/chevron-right.png" />
                     </span>

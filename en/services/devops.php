@@ -129,7 +129,7 @@ if(isset($_POST['submitted']))
             <div class="container__">
                 <div class="row">
                     <div class="col-md-8 text-left ">
-                        <h1 class="text-6xl font-black mt-12 leading-normal">Layanan Manajemen <br /> Cloud Server</h1>
+                        <h1 class="text-6xl font-black mt-12 leading-normal">Cloud Server Management <br />Services</h1>
                         <h3 class="font-black text-color-primary-main mt-2 ">
                             AWS / GCP / Alibaba Cloud
                         </h3>    
@@ -145,7 +145,6 @@ if(isset($_POST['submitted']))
         <div class="container__ mt-12" >
             <div class="row" >
                 <div class="col-md-4">
-
                     <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
                     <a href="/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design mt-7"></a>
                     <p class="font-black text-4xl leading-normal mt-2">
