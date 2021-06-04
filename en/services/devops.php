@@ -63,11 +63,9 @@ if(isset($_POST['submitted']))
 
     <link href="/css/sidebar-update.css" rel="stylesheet">
     <link href="/css/newstyle.css" rel="stylesheet">
-    <link href="assets/css/style_devops.css" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
+    <!-- <link href="/css/style_devops.css" rel="stylesheet"> -->
+    <link href="../../layanan/assets/css/style_devops.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -127,58 +125,59 @@ if(isset($_POST['submitted']))
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>      
             <div class="container__">
                 <div class="row">
-                    <div class="col-md-offset-1 col-md-10 m-t-2em">
-                        <h1 class="text-center title-text"> Server Cloud Management Service<span>AWS / GCP / Alibaba Cloud</span></h1>
-                        <div class="subtitle-header text-center">
-                            <div class="line-title"></div>
-                            <p>LOGIQUE provides fully managed DevOps services on Cloud Servers and<br> have plenty of experiences with companies in Indonesia
-                            </p>
-
-                            <p style="color: #ffca00"><strong>LOGIQUE is a certified AWS partner in Indonesia</strong></p>
-                            <div class="badge-container text-center">
-                                <img src="assets/img/img-devops//aws-badge.svg" alt="AWS badge">
-                            </div>
-                        </div>
+                    <div class="col-md-8 text-left ">
+                        <h1 class="text-6xl font-black mt-12 leading-normal">Layanan Manajemen <br /> Cloud Server</h1>
+                        <h3 class="font-black text-color-primary-main mt-2 ">
+                            AWS / GCP / Alibaba Cloud
+                        </h3>    
+                        <span style="border-bottom: 2px solid white; color : transparent">123456789</span>                                                  
                     </div>
+                    <div class="col-md-4">
                 </div>
             </div>
         </header>
     </div> 
-    <section class="service-list"  >
-        <div class="container">
+     <!-- Section Description AWS Partner Network -->
+     <section style="background-image: url(assets/img/img-devops/bg-aws-partner.webp); background-repeat: no-repeat; background-position: top right; ">
+        <div class="container__ mt-12" >
+            <div class="row" >
+                <div class="col-md-4">
+
+                    <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
+                    <a href="/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design mt-7"></a>
+                    <p class="font-black text-4xl leading-normal mt-2">
+                        telah disertifikasi sebagai mitra AWS di Indonesia Percayakan pengelolaan cloud server Anda bersama kami!
+                    </p>
+                    <img class="mt-7" src="../../layanan/assets/img/img-devops/logo-aws.webp" alt="AWS badge">
+                    <img class="mt-4" src="../../layanan/assets/img/img-devops/images-dots.webp" alt="Dots">
+                </div>
+                <div class="col-md-8" >
+                    <p class="mt-4 font-black">
+                        LOGIQUE menyediakan layanan lengkap DevOps pada manajemen cloud server Indonesia untuk memudahkan dan meningkatkan ketangkasan bisnis dalam membawa produk ke pasar. LOGIQUE sudah sangat berpengalaman dalam mengelola cloud server untuk berbagai jenis bisnis di Indonesia baik itu dengan cloud server dari AWS, GCP, ataupun Alibaba.                
+                    </p>
+                    <p class=" mt-4 font-black">
+                        Untuk pengelolaan cloud server yang optimal, kami memberikan layanan DevOps untuk bisnis Anda. DevOps (Development dan Operations) sendiri merupakan kombinasi dari culture, praktik, dan alat yang digabungkan untuk meningkatkan kemampuan sebuah perusahaan untuk proses delivery aplikasi ataupun website dengan kecepatan yang tinggi. Dengan demikian, proses pengembangan produk baru baik itu website ataupun aplikasi memungkinkan untuk dilakukan dengan cepat.
+                    </p>
+                </div>
+            </div>
+
             <div class="row">
-                <div class="col-sm-4">
-                    <div class="new-box">
-                        <img src="assets/img/img-devops/icon-billing-service.svg">
-                        <h3>Billing Service</h3>
-                        <p>
-                            We issue an invoice to you with Faktur Pajak in Indonesian Rupiah instead of paying directly to AWS in USD.
-                        </p>
-                       <!--  <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="new-box">
-                        <img src="assets/img/img-devops/icon-development-service.svg">
-                        <h3>Layanan Pengembangan</h3>
-                        <p>
-                             We provide services to build a cloud-based environment and migrate your system from on-premise servers to cloud server. 
-                        </p>
-                        <!-- <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="new-box">
-                        <img src="assets/img/img-devops/icon-operation-maintenance-service.svg">
-                        <h3>Development Service</h3>
-                        <p>
-                            You do not need to have your own IT support resources. We provide 24/7 monitoring, technical support and troubleshooting.
-                        </p>
-                       <!--  <img src="assets/img/img-devops/icon-arrow-right.svg" class="small-icon"> -->
-                    </div>
+                <div class="col-md-12">
+                    <h2 class="font-black">
+                        Layanan Devops untuk Cloud Computing yang Disediakan LOGIQUE
+                    </h2>
+                    <p class="font-black mt-4">
+                        Jika saat ini Anda sedang membangun atau mengembangkan situs website, e-commerce, ataupun aplikasi website yang menuntut keandalan, ketangkasan, kolaborasi terpusat, stabilitas, dan keamanan data bisnis, maka Anda membutuhkan layanan cloud server yang bekerja secara optimal. LOGIQUE hadir untuk membantu menyediakan solusi DevOps secara lengkap untuk manajemen cloud server Indonesia bagi bisnis Anda. 
+                    </p>
+                    <p  class="font-black mt-4">
+                        Cloud server adalah server berbentuk virtual yang dibangun, dihosting, dan dikirimkan oleh platform komputasi awan melalui internet. Dengan menggunakan cloud server, maka data ataupun sumber daya lain dapat tersebar dan dapat diakses dengan mudah dari berbagai perangkat di lokasi berbeda ataupun dari jarak jauh.
+                    </p>
+                    <p  class="font-black mt-4 mb-6">
+                        LOGIQUE dapat membantu Anda untuk memberdayakan website, e-commerce, ataupun aplikasi website Anda dan memberikan dukungan yang sangat dibutuhkan untuk dapat menjalankannya dengan layanan manajemen cloud server yang kami miliki. Dengan profesionalitas dan pengalaman tim, LOGIQUE menyediakan pengelolaan cloud server dari penyedia layanan cloud computing terbaik yaitu:
+                    </p>
                 </div>
             </div>
         </div>
