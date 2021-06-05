@@ -25,59 +25,74 @@
                         </div>
                     </div>
                                     
-                    <div class="item h-60-sm">
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 124px" src="assets/img/img-devops/confidential-img.png" >
-                        <div class="carousel-caption">
-                            <p class="text-color-black-main">
-                                Kami telah membangun serta mengelola sistem pada server Alibaba Cloud untuk perusahaan asuransi asing terkemuka dan Alibaba Cloud di Indonesia sudah memenuhi persyaratan OJK.
-                            </p>
+                    <div class="item ">
+                        <div class="flex flex-col justify-center">
+                            <img class="mt-7 centering-image" style="width: 210px;" src="assets/img/img-devops/confidential-img.png"  alt="Confidential" />
+                            <div class="p-6">
+                                <p class="text-color-black-main text-center mt-2-sm ml-72-lg mr-72-lg">
+                                    Kami telah membangun serta mengelola sistem pada server Alibaba Cloud untuk perusahaan asuransi asing terkemuka dan Alibaba Cloud di Indonesia sudah memenuhi persyaratan OJK.
+                                </p>
+                            </div>
                         </div>
                     </div>
 
-                    <div class="item h-90-sm">
-                        <img class="mt-7 centering-image " style="width: 210px; padding-bottom: 154px" src="assets/img/img-devops/logo_tokopart.png" >                        
-                        <div class="carousel-caption">
-                            <p class="text-color-black-main">
-                                Sebagai web e-commerce otomotif, Tokoparts membutuhkan cloud server yang mampu bekerja dengan baik sehingga website dapat diakses dengan cepat dan mudah. Untuk menyediakan hal tersebut, LOGIQUE menggunakan solusi cloud server dari AWS seperti EC2 dan RDS.  Selain itu, untuk melindungi website, Tokoparts juga menggunakan layanan WAF.
-                            </p>
+                    <div class="item">
+                        <div class="flex flex-col justify-center">
+                            <img class="mt-7 centering-image " style="width: 210px;" src="assets/img/img-devops/logo_tokopart.png"  alt="tokopart" />                        
+                            <div class="p-6">
+                                <p class="text-color-black-main text-center mt-2-sm ml-72-lg mr-72-lg">
+                                    Sebagai web e-commerce otomotif, Tokoparts membutuhkan cloud server yang mampu bekerja dengan baik sehingga website dapat diakses dengan cepat dan mudah. Untuk menyediakan hal tersebut, LOGIQUE menggunakan solusi cloud server dari AWS seperti EC2 dan RDS.  Selain itu, untuk melindungi website, Tokoparts juga menggunakan layanan WAF.
+                                </p>
+                            </div>
                         </div>
                     </div>
 
-                    <div class="item h-60-sm">
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 200px" src="assets/img/img-devops/logo-benefit-one.svg" >                        
-                        <div class="carousel-caption">
-                            <p class="text-color-black-main">
-                                Benefit One merupakan website yang digunakan untuk memberikan penghargaan dengan sistem point digital. Untuk dapat menjalankan website ini, LOGIQUE telah melakukan pengelola cloud server AWS dengan mengoperasikan layanan EC2, RDS, dan ALB.
-                            </p>
+                    <div class="item">
+                        <div class="flex flex-col justify-center">
+                            <img class="mt-7 centering-image" style="width: 210px;" src="assets/img/img-devops/logo-benefit-one.svg" alt="Benefit One" />                        
+                            <div class="p-6">
+                                <p class="text-color-black-main text-center mt-2-sm ml-72-lg mr-72-lg">
+                                    Benefit One merupakan website yang digunakan untuk memberikan penghargaan dengan sistem point digital. Untuk dapat menjalankan website ini, LOGIQUE telah melakukan pengelola cloud server AWS dengan mengoperasikan layanan EC2, RDS, dan ALB.
+                                </p>
+                            </div>
                         </div>
                     </div>
 
 
-                    <div class="item h-50-sm">
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 124px" src="assets/img/img-devops/confidential-img.png" >
-                        <div class="carousel-caption">
-                            <p class="text-color-black-main">
-                                Kami mengembangkan Marketplace pada AWS untuk industri otomotif dan kami terus mengoptimalkan konfigurasi dan kinerja server.
-                            </p>
+                    <div class="item">
+                        <div class="flex flex-col justify-center">
+                            <img class="mt-7 centering-image" style="width: 210px;" src="assets/img/img-devops/confidential-img.png" alt="Confidential" />
+                            <div class="p-6">
+                                <p class="text-color-black-main text-center mt-2-sm ml-72-lg mr-72-lg">
+                                    Kami mengembangkan Marketplace pada AWS untuk industri otomotif dan kami terus mengoptimalkan konfigurasi dan kinerja server.
+                                </p>
+                            </div>
                         </div>
+
                     </div>
 
-                    <div class="item h-75-sm">
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 200px" src="assets/img/img-devops/logo-jbap.png" >
-                        <div class="carousel-caption">
-                            <p class="text-color-black-main">
-                                Selain mampu membantu pengelolaan cloud server untuk klien domestik, LOGIQUE juga berpengalaman dalam memenuhi kebutuhan klien internasional. Untuk JBA Philippines, LOGIQUE mengoperasikan sistem dengan cloud server AWS menggunakan layanan seperti EC2 dan RDS agar aplikasi web dapat dijalankan, diakses, dan dikelola dengan mudah. 
-                            </p>
+                    <div class="item">
+                        <div class="flex flex-col justify-center">
+                            <img class="mt-7 centering-image" style="width: 210px;" src="assets/img/img-devops/logo-jbap.png" alt="JBAP" >
+                            <div class="p-6">
+                                <p class="text-color-black-main text-center mt-2-sm ml-72-lg mr-72-lg">
+                                    Selain mampu membantu pengelolaan cloud server untuk klien domestik, LOGIQUE juga berpengalaman dalam memenuhi kebutuhan klien internasional. Untuk JBA Philippines, LOGIQUE mengoperasikan sistem dengan cloud server AWS menggunakan layanan seperti EC2 dan RDS agar aplikasi web dapat dijalankan, diakses, dan dikelola dengan mudah. 
+                                </p>
+                            </div>
                         </div>
+
                     </div>
 
-                    <div class="item h-80-sm">
-                        <img class="mt-7 centering-image" style="width: 210px; padding-bottom: 200px" src="assets/img/img-devops/logo-beneese.png" >
-                        <div class="carousel-caption">
-                            <p class="text-color-black-main">
-                                Benesse adalah perusahaan yang bergerak di bidang pendidikan. Perusahaan ini mempercayakan pengelolaan cloud server mereka pada LOGIQUE. Untuk pengelolan data base dan keamanan website, Benesse memilih untuk menggunakan layanan EC2 dan RDS dari AWS. 
-                            </p>
+                    <div class="item">
+                        <div class="flex flex-col justify-center">
+                            <img class="mt-7 centering-image" style="width: 210px;" src="assets/img/img-devops/logo-beneese.png" alt="Logo Beneese" >
+                            <div class="p-6">                        
+                                <p class="text-color-black-main text-center mt-2-sm ml-72-lg mr-72-lg">
+                                    Benesse adalah perusahaan yang bergerak di bidang pendidikan. Perusahaan ini mempercayakan pengelolaan cloud server mereka pada LOGIQUE. Untuk pengelolan data base dan keamanan website, Benesse memilih untuk menggunakan layanan EC2 dan RDS dari AWS. 
+                                </p>
+                            </div>
                         </div>
+
                     </div>                                             
                 </div>
                 
