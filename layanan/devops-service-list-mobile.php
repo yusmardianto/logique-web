@@ -10,7 +10,7 @@
                 <div class="carousel-inner" >                                       
                     <div class="item active"> 
                         <div class="flex flex-col justify-center">
-                            <div class="left-image" >  
+                            <div class="left-image" style="margin-left: 17px;" >  
                                 <img src="assets/img/img-devops/icon-billing-service.svg" />                                                
                             </div>
                         </div>
@@ -26,7 +26,7 @@
                                     
                     <div class="item" >
                         <div class="flex flex-col justify-center">
-                            <div class="left-image">   
+                            <div class="left-image"  style="margin-left: 17px;">   
                                 <img src="assets/img/img-devops/icon-development-service.svg" />
                             </div>
                         </div>
@@ -42,7 +42,7 @@
 
                     <div class="item">
                         <div class="flex flex-col justify-center">
-                            <div class="left-image">   
+                            <div class="left-image"  style="margin-left: 17px;">   
                                 <img src="assets/img/img-devops/icon-operation-maintenance-service.svg" />
                             </div>
                         </div>
