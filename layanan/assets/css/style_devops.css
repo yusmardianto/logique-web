@@ -969,7 +969,6 @@ footer {
 }
 
 
-
 /* 
     ``````````````````````````````````````````````````````````````````````
     Reference for below class : https://tailwindcss.com/docs/utility-first
@@ -1015,7 +1014,6 @@ footer {
 .font-black {
   font-weight: 900;
 }
-
 .leading-normal {
   line-height: 1.5;
 }

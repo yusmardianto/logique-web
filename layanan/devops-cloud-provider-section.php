@@ -1,3 +1,8 @@
+<!-- <style>
+    #providers option {
+        width: 30px;
+    }
+</style> -->
 <section>
         <div class="container__">
             <div class="row">
@@ -26,12 +31,12 @@
                         <!-- TAB CONTENT AMAZON WEB SERVICES -->
                         <div id="Amazon" class="tabcontent" style="display: block;"> 
                             <div class="row">
-                                <div class="col-md-6 hidden-xs hidden-sm">                                    
-                                    <img class="mt-7" src="assets/img/img-devops/amazon-logo-description.webp" alt="AWS badge">                                    
+                                <div class="col-md-6">                                    
+                                    <img class="mt-7 w-full-sm" src="assets/img/img-devops/amazon-logo-description.webp" alt="AWS badge">                                    
                                 </div>
                                 <div class="col-md-6 col-sm-12" >
-                                    <h3 class="mt-7 font-black">1. Amazon Web Services (AWS)</h3>
-                                    <p>
+                                    <h3 class="mt-7 font-black text-4xl-sm ">1. Amazon Web Services (AWS)</h3>
+                                    <p class=" mt-3-sm">
                                         Amazon Web Services (AWS) menjadi salah satu penyedia cloud terbesar dan terkemuka di pasar. Banyak klien kami yang memilih untuk menggunakan cloud server dari AWS karena kemampuannya dalam menghadirkan solusi cloud computing yang fleksibel, andal, dapat diskalakan, mudah digunakan, serta hemat biaya. Sampai saat ini, AWS sudah dipercaya oleh berbagai jenis bisnis untuk mendukung kebutuhan mereka dalam menjalankan aplikasi-aplikasi penting yang membutuhkan high availability. LOGIQUE sendiri, saat ini sudah tersertifikasi sebagai mitra AWS di Indonesia.
                                     </p>
                                 </div>
@@ -42,7 +47,7 @@
                                 </div>
                                 <div class="col-md-10">
                                     <h4 class="font-black mt-3-sm ">Amazon Elastic Compute Cloud (Amazon EC2)</h4>
-                                    <p>
+                                    <p >
                                         Merupakan layanan web yang menyediakan keamanan serta komputasi yang dapat diubah ukurannya (resizable) di dalam cloud. Amazon EC2 ini juga menawarkan platform komputasi terluas dan terdalam dengan beragam pilihan prosesor, storage, networking, serta sistem operasi. Kelebihan lain dari produk ini adalah tersedianya prosesor tercepat di cloud dan mereka memiliki jaringan ethernet sebesar 400 Gbps.
                                     </p>
                                 </div>
@@ -111,12 +116,12 @@
                         <!-- TAB CONTENT GOOGLE CLOUD PLATFORM -->
                         <div id="Google" class="tabcontent">
                             <div class="row">
-                                <div class="col-md-6 hidden-xs hidden-sm">
-                                    <img class="mt-7 " src="assets/img/img-devops/gcp-logo.webp" alt="GCP Logo">
+                                <div class="col-md-6">
+                                    <img class="mt-7 w-full-sm " src="assets/img/img-devops/gcp-logo.webp" alt="GCP Logo">
                                 </div>
                                 <div class="col-md-6">                                  
-                                    <h3 class="mt-7 font-black">2. Google Cloud Platform (GCP)</h3>
-                                    <p>
+                                    <h3 class="mt-7 font-black text-4xl-sm ">2. Google Cloud Platform (GCP)</h3>
+                                    <p  class=" mt-3-sm">
                                         Google Cloud Platform merupakan layanan cloud computing yang disediakan oleh Google. GCP menawarkan solusi cloud yang memungkinkan bisnis Anda untuk dapat dimodernisasi serta proses pengembangan yang lebih cepat di lingkungan apa pun.
                                     </p> 
                                 </div>
@@ -175,12 +180,12 @@
                         <!-- TAB CONTENT ALIBABA CLOUD-->
                         <div id="Alibaba" class="tabcontent">
                             <div class="row">
-                                <div class="col-md-6 hidden-xs hidden-sm ">
-                                    <img class="mt-7 " src="assets/img/img-devops/alibaba-logo-description.webp" alt="Alibaba Logo">
+                                <div class="col-md-6">
+                                    <img class="mt-7  w-full-sm " src="assets/img/img-devops/alibaba-logo-description.webp" alt="Alibaba Logo">
                                 </div>
                                 <div class="col-md-6">                                  
-                                    <h3 class="mt-7 font-black">3. Alibaba Cloud</h3>
-                                    <p>
+                                    <h3 class="mt-7 font-black text-4xl-sm ">3. Alibaba Cloud</h3>
+                                    <p  class=" mt-3-sm">
                                         Layanan dari Alibaba Cloud juga disediakan oleh LOGIQUE untuk memenuhi kebutuhan cloud server Indonesia. Alibaba Cloud menyediakan komputasi awan dan kemampuan pemrosesan data yang andal dan aman untuk ribuan perusahaan, pengembang, dan organisasi pemerintah di lebih dari 200 negara dan wilayah. Selain memiliki performa dan keandalan yang terbukti, Alibaba Cloud juga memiliki kehadiran yang kuat di Asia.
                                     </p> 
                                 </div>

@@ -89,9 +89,22 @@ if(isset($_POST['submitted']))
             margin-right: auto;
             width: 50%;
         }
+
+        .centering-image-icon {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;            
+        }
+        
         .right-image {
             display: block;
             margin-left: auto;            
+            width: 50%;
+        }
+
+        .left-image {
+            display: block;
+            margin-right: auto;            
             width: 50%;
         }
         /* CAROUSEL */
@@ -143,8 +156,30 @@ if(isset($_POST['submitted']))
         */
 
         /* Small (sm) */
-        @media (max-width: 640px) {                
+        @media (max-width: 640px) {    
             
+            .custom_section-cta-mobile {
+                background-image: url(assets/img/img-devops/bg-section-cta-mobile.webp);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                width: auto;
+                height: 200px; 
+                text-align: center;
+                padding-top: 0px;
+                padding-bottom: 90px;
+            }
+            
+            .text-4xl-sm {
+                font-size: 2.25rem;
+                line-height: 2.5rem;
+            }
+
+            .text-5xl-sm {
+                font-size: 3rem;
+                line-height: 1;
+            }
+
             .bg-sm-none {
                 background-image: none  
             }
@@ -167,6 +202,10 @@ if(isset($_POST['submitted']))
             }
             .mt-3-sm {
                 margin-top: 12px !important;
+            }
+
+            .mt-6-sm {
+                margin-top: 24px !important;
             }
 
             .-ml-6-sm {
@@ -207,6 +246,10 @@ if(isset($_POST['submitted']))
             .h-full-sm {
                 height: 100%;
             }
+
+            .w-full-sm {
+                width: 100%;
+            }
         }
         
         /* Medium (md) */
@@ -214,11 +257,7 @@ if(isset($_POST['submitted']))
             .carousel-indicators {
                 bottom: -32px;
             }    
-
-            /* .carousel-caption{
-                right: 5%;
-                left: 5%;                
-            } */
+        
             .pb-60-md{
                 padding-bottom: 15rem;
             }   
@@ -299,7 +338,7 @@ if(isset($_POST['submitted']))
             <div class="container__">
                 <div class="row">
                     <div class="col-md-8 text-left ">
-                        <h1 class="text-6xl font-black mt-12 leading-normal">Layanan Manajemen <br /> Cloud Server</h1>
+                        <h1 class="text-6xl font-black mt-12 leading-normal text-5xl-sm">Layanan Manajemen <br /> Cloud Server</h1>
                         <h3 class="font-black text-color-primary-main mt-2 ">
                             AWS / GCP / Alibaba Cloud
                         </h3>    
@@ -316,30 +355,29 @@ if(isset($_POST['submitted']))
         <div class="container__ mt-12" >
             <div class="row" >
                 <div class="col-md-4">
-
                     <span style="border-bottom: 2px solid black; color : transparent">123456789</span>    
                     <a href="/"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design mt-7"></a>
-                    <p class="font-black text-4xl leading-normal mt-2">
+                    <p class="font-black text-4xl leading-normal mt-4">
                         telah disertifikasi sebagai mitra AWS di Indonesia Percayakan pengelolaan cloud server Anda bersama kami!
                     </p>
                     <img class="mt-7" src="assets/img/img-devops/logo-aws.webp" alt="AWS badge">
                     <img class="mt-4 hidden-xs hidden-sm" src="assets/img/img-devops/images-dots.webp" alt="Dots">
                 </div>
                 <div class="col-md-8" >
-                    <p class="mt-4 font-black">
+                    <p class="mt-4 mt-6-sm font-black font-sm-normal ">
                         LOGIQUE menyediakan layanan lengkap DevOps pada manajemen cloud server Indonesia untuk memudahkan dan meningkatkan ketangkasan bisnis dalam membawa produk ke pasar. LOGIQUE sudah sangat berpengalaman dalam mengelola cloud server untuk berbagai jenis bisnis di Indonesia baik itu dengan cloud server dari AWS, GCP, ataupun Alibaba.                
                     </p>
-                    <p class=" mt-4 font-black">
+                    <p class=" mt-4 font-black font-sm-normal">
                         Untuk pengelolaan cloud server yang optimal, kami memberikan layanan DevOps untuk bisnis Anda. DevOps (Development dan Operations) sendiri merupakan kombinasi dari culture, praktik, dan alat yang digabungkan untuk meningkatkan kemampuan sebuah perusahaan untuk proses delivery aplikasi ataupun website dengan kecepatan yang tinggi. Dengan demikian, proses pengembangan produk baru baik itu website ataupun aplikasi memungkinkan untuk dilakukan dengan cepat.
                     </p>
 
-                    <img class="mt-4 visible-xs visible-sm" src="assets/img/img-devops/images-dots.webp" alt="Dots">
+                    <img class="mt-6 visible-xs visible-sm" src="assets/img/img-devops/images-dots.webp" alt="Dots">
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="font-black">
+                    <h2 class="font-black text-4xl-sm ">
                         Layanan Devops untuk Cloud Computing yang Disediakan LOGIQUE
                     </h2>
                     <p class="font-black font-sm-normal mt-4">
@@ -370,14 +408,14 @@ if(isset($_POST['submitted']))
 
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="mt-7 font-black">Temukan Solusi dan Layanan Terbaik dari LOGIQUE</h2>
-                    <p class="mb-6 font-black">
+                    <h2 class="mt-7 font-black text-4xl-sm">Temukan Solusi dan Layanan Terbaik dari LOGIQUE</h2>
+                    <p class="mb-6 font-black font-sm-normal  mt-3-sm">
                         Dalam memberikan layanan DevOps untuk pengelolaan cloud server Indonesia, LOGIQUE menawarkan beberapa solusi untuk Anda, yaitu:
                     </p>
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row hidden-xs hidden-sm" >
                 <div class="col-sm-4 text-sm-center">
                     <div class="new-box">                        
                         <img src="assets/img/img-devops/icon-billing-service.svg" >                        
@@ -406,6 +444,9 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
             </div>
+
+            <?php include './devops-service-list-mobile.php';?>  
+
         </div>
     </section>
 
@@ -419,7 +460,7 @@ if(isset($_POST['submitted']))
     <?php include './devops-portofolio-section.php';?>
 
      <!-- SECTION CALL TO ACTION -->
-    <section class="custom_section-cta">
+    <section class="custom_section-cta hidden-xs hidden-sm">    
         <div class="container">
                 <div class="row">
                     <div class="col-md-8 text-left ">
@@ -439,6 +480,9 @@ if(isset($_POST['submitted']))
                 </div>
             </div>
     </section>
+    <a href="/hubungi-kami.php">
+        <section class="custom_section-cta-mobile hidden-md hidden-lg"></section>
+    </a>
     
     <?php include '../footer.php'; ?>    
     <script src="/js/bootstrap.min.js"></script>
