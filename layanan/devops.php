@@ -337,14 +337,15 @@ if(isset($_POST['submitted']))
             </div>
             <div class="container__">
                 <div class="row">
-                    <div class="col-md-8 text-left ">
-                        <h1 class="text-6xl font-black mt-12 leading-normal text-5xl-sm">Layanan Manajemen <br /> Cloud Server</h1>
-                        <h3 class="font-black text-color-primary-main mt-2 ">
-                            AWS / GCP / Alibaba Cloud
-                        </h3>    
-                        <span style="border-bottom: 2px solid white; color : transparent">123456789</span>                                                  
+                        <div class="col-md-8 text-left ">
+                            <h1 class="text-6xl font-black mt-12 leading-normal text-5xl-sm">Layanan Manajemen <br /> Cloud Server</h1>
+                            <h3 class="font-black text-color-primary-main mt-2 ">
+                                AWS / GCP / Alibaba Cloud
+                            </h3>    
+                            <span style="border-bottom: 2px solid white; color : transparent">123456789</span>                                                  
+                        </div>
+                        <div class="col-md-4">
                     </div>
-                    <div class="col-md-4">
                 </div>
             </div>
         </header>
@@ -365,7 +366,8 @@ if(isset($_POST['submitted']))
                 </div>
                 <div class="col-md-8" >
                     <p class="mt-4 mt-6-sm font-black font-sm-normal ">
-                        LOGIQUE menyediakan layanan lengkap DevOps pada manajemen cloud server Indonesia untuk memudahkan dan meningkatkan ketangkasan bisnis dalam membawa produk ke pasar. LOGIQUE sudah sangat berpengalaman dalam mengelola cloud server untuk berbagai jenis bisnis di Indonesia baik itu dengan cloud server dari AWS, GCP, ataupun Alibaba.                
+                        LOGIQUE menyediakan layanan lengkap DevOps pada manajemen cloud server Indonesia untuk memudahkan dan meningkatkan ketangkasan bisnis dalam membawa produk ke pasar. LOGIQUE sudah sangat berpengalaman dalam mengelola cloud server untuk berbagai jenis bisnis di Indonesia baik itu dengan cloud server dari AWS, GCP, ataupun Alibaba.                                        
+
                     </p>
                     <p class=" mt-4 font-black font-sm-normal">
                         Untuk pengelolaan cloud server yang optimal, kami memberikan layanan DevOps untuk bisnis Anda. DevOps (Development dan Operations) sendiri merupakan kombinasi dari culture, praktik, dan alat yang digabungkan untuk meningkatkan kemampuan sebuah perusahaan untuk proses delivery aplikasi ataupun website dengan kecepatan yang tinggi. Dengan demikian, proses pengembangan produk baru baik itu website ataupun aplikasi memungkinkan untuk dilakukan dengan cepat.
@@ -393,6 +395,7 @@ if(isset($_POST['submitted']))
             </div>
         </div>
     </section>
+
 
     <!-- Section TABS Cloud Server Providers -->
     <?php include './devops-cloud-provider-section.php';?>
