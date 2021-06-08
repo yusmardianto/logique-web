@@ -1,7 +1,7 @@
 
 <section>
         <div class="container__">
-            <h2 class="mt-12 font-black text-center">Cloud Server DevOps Work</h2>
+            <h2 class="mt-12 font-black text-center">LOGIQUE’s Clients from Various Industries</h2>
             <div id="tes-carousel" class="carousel slide" data-ride="carousel"> 
                 <ol class="carousel-indicators visible-xs">
                     <li data-target="#tes-carousel" data-slide-to="0" class="active"></li>
