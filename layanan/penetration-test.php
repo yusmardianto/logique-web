@@ -92,6 +92,37 @@
         position: absolute;
     }
 
+    .border-white {
+        border-color: white;
+    }
+
+    .border-1{
+        border-width: 1px;
+    }
+
+    .border-solid {
+        border-style: solid;
+    }
+
+    .bg-transparent{
+        background-color: transparent;
+    }
+
+    .pt-4{
+        padding-top: 1rem;
+    }
+
+    .pb-4{
+        padding-bottom: 1rem;
+    }
+
+    .pb-8{
+        padding-bottom: 2rem;
+    }
+    .rounded-2xl{
+        border-radius: 1rem;
+    }
+
     @media (max-width: 640px) {
         .sm-relative {
             position: relative;
@@ -142,7 +173,7 @@
                     </div>
                 </div>
             </section>
-            <div class="container__" >                
+            <div class="container__">                
                 <div class="row">
                     <div class="col-md-12">                                            
                         <h1 class="text-center">
@@ -1141,8 +1172,7 @@
             <div class="container__">
                 <div class="row sample-report">
                     <div class="col-sm-4">
-                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox" data-title="SQL Injection"> 
-                            
+                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox" data-title="SQL Injection">                             
                             <picture>
                                 <source srcset="assets/img/img-pentest/webp/thumb-sample-report-sql.webp" type="image/webp">
                                 <img loading="lazy" src="assets/img/img-pentest/thumb-sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
@@ -1299,11 +1329,9 @@
                                                     </div>
                                                 </div>
                                             
-                                        </div>
-                                            
+                                        </div>                                            
                                     <?php  $x++;
-                                }
-                                    
+                                }                                    
                             ?> 
                     
                     <!--  Example item end -->
@@ -1356,6 +1384,33 @@
                 </div>
             </div>
         </section> 
+
+        <!-- CLIENT PENTEST -->
+        <section style="background-color: #fcc515;">            
+            <div class="container__">                               
+                <div class="row pt-4 pb-8" style="padding-bottom: 5rem;">
+                    <h2 class="text-center" >Klien kami</h2>
+                    <div class="col-md-12">
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Adi Sarana Armada, Tbk</span>                                                
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Sembilan Anugerah</span>
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Pacto</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Softorb Technology Indonesia</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Yamaha Indonesia Motor Manufacturing </span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Indo Koala Remittance</span>                        
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Wanasawit Subur Lestari</span>           
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Teknologi Migo Indonesia</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Sekolah Integrasi Digital</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Sumo Teknologi Solusi (Alodokter)</span>
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Multi Megastar</span>
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Dtechcorp Konsultindo Prima</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Gunatronikatama Cipta</span>
+                    </div>
+                </div>
+            </div>                       
+        </section>            
+
+
+
         <section class="faq">
             <div class="container-fluid" style="max-width: 1345px">
                 <h2 class="faq-title">FAQ</h2>
@@ -1379,10 +1434,10 @@
                                 <h3>Berapakah harga layanan pengetesan sistem keamanan dari LOGIQUE?</h3>
                                 <p>Dalam melakukan pengetesan sistem mulai dari tahapan awal (preparation), tahapan
                                     pengujian (assessment) dan tahapan pelaporan (reporting), LOGIQUE menawarkan harga mulai
-                                    dari Rp 10 juta, tergantung dari jenis aplikasi serta sistem yang akan diuji. Untuk
+                                    dari Rp 15 juta, tergantung dari jenis aplikasi serta sistem yang akan diuji. Untuk
                                     mengetahui informasi lebih lanjut, Anda dapat langsung menghubungi kami melalui email ke
                                     info@logique.co.id atau di nomor telepon (021) 227 089 35/36 atau melalui pesan WhatsApp
-                                    di nomor 0812 9656 0380.</p>
+                                    di nomor 0811-870-321.</p>
                             </li>
                             <li>
                                 <h3>Dalam melakukan pengetesan, apakah security team LOGIQUE hanya mengandalkan automated
