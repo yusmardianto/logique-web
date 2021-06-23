@@ -6,34 +6,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="LOGIQUE dapat membantu mengevaluasi sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
+        content="LOGIQUE menyediakan jasa Penetration Testing (Pentest) untuk membantu meningkatkan sistem keamanan Website & Aplikasi. Layanan Security Assessment terbaik di Indonesia.">
     <meta name="keywords"
         content="penetration test, penetration testing, jasa penetration test, jasa penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Penetration Test | Keamanan website | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Jasa Penetration Testing (Pentest) & Keamanan Website | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/layanan/penetration-test.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="LOGIQUE dapat membantu meningkatkan sistem keamanan website dan aplikasi menggunakan metode penetration testing. Segera hubungi LOGIQUE untuk mendapatkan layanan security assessment terbaik di Indonesia.">
+        content="LOGIQUE menyediakan jasa Penetration Testing (Pentest) untuk membantu meningkatkan sistem keamanan Website & Aplikasi. Layanan Security Assessment terbaik di Indonesia.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Penetration Test | Keamanan website | LOGIQUE Digital Indonesia</title>
+    <title>Jasa Penetration Testing (Pentest) & Keamanan Website | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">  
 
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link rel="stylesheet" href="/css/newstyle.css" >
-    <link rel="stylesheet" href="/css/style-revamp.css" >
-    <!-- <link rel="stylesheet" href="../css/style.css" > -->
+    <link rel="stylesheet" href="/css/style-revamp.css" >    
     <link href="assets/css/style-pentest.css" rel="stylesheet">
     <link href="/css/animate.min.css" rel="stylesheet">
     
     <link rel="canonical" href="https://www.logique.co.id/layanan/penetration-test.php"/>  
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
-    <!-- <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet"> -->
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css"> -->
     <?php 
         if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
             echo "<!-- Google Tag Manager -->
@@ -84,6 +79,58 @@
             margin-bottom: 2.5em
         }
     }
+
+ 
+    /* 
+        ``````````````````````````````````````````````````````````````````````
+        Reference for below class : https://tailwindcss.com/docs/utility-first
+
+        ``````````````````````````````````````````````````````````````````````
+    */   
+    
+    .absolute {
+        position: absolute;
+    }
+
+    .border-white {
+        border-color: white;
+    }
+
+    .border-1{
+        border-width: 1px;
+    }
+
+    .border-solid {
+        border-style: solid;
+    }
+
+    .bg-transparent{
+        background-color: transparent;
+    }
+
+    .pt-4{
+        padding-top: 1rem;
+    }
+
+    .pb-4{
+        padding-bottom: 1rem;
+    }
+
+    .pb-8{
+        padding-bottom: 2rem;
+    }
+    .rounded-2xl{
+        border-radius: 1rem;
+    }
+
+    @media (max-width: 640px) {
+        .sm-relative {
+            position: relative;
+        }
+    }
+    @media (min-width: 1024px) {}
+    @media (min-width: 1280px) {}   
+ 
     </style>
 
     <!-- NAVIGATION -->
@@ -118,8 +165,7 @@
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                        itemprop="item"><span itemprop="name">&nbsp;Pengetesan Keamanan Website (VA
-                                            Test)</span></a>
+                                        itemprop="item"><span itemprop="name">&nbsp;Jasa Penetration Test (Pentest)</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -127,43 +173,61 @@
                     </div>
                 </div>
             </section>
-            <div class="container__">
+            <div class="container__">                
                 <div class="row">
-                    <div class="col-md-12"> 
+                    <div class="col-md-12">                                            
+                        <h1 class="text-center">
+                            Jasa Penetration Testing (Pentest) dan Keamanan Website Terbaik Di Indonesia
+                        </h1>
+                        <div class="absolute sm-relative" style="bottom: 45%; background-color: white; padding : 28px; border-radius: 10px; opacity: 0.9;">
+                            <p style="color: black">
+                                LOGIQUE Digital Indonesia memiliki standar operasional kelas dunia dalam menjalankan proses penetration testing / pengujian keamanan Website dan Aplikasi. Didukung oleh Pentester berpengalaman yang telah memiliki sertifikasi CEH (Certified Ethical Hacker) dan CSCU (Certified Secure Computer User) dari EC- Council, kemampuan Kami tidak perlu Anda ragukan lagi.
+                            </p>
+    
+                            <p style="color: black">
+                                Jangan tunda untuk meningkatkan keamanan Website & Aplikasi Anda guna menghindari resiko serangan cyber yang merugikan. 
+                                <a href="/hubungi-kami.php">Hubungi Kami Sekarang!</a>
+                            </p>
+                        </div>
                         <picture> 
                             <source media="(max-width: 468px)" srcset="assets/img/img-pentest/top-banner-mobile.png" type="image/png">
                             <source media="(min-width: 469px)" srcset="assets/img/img-pentest/top-banner.png" type="image/png">
                             <img src="assets/img/img-pentest/top-banner-mobile.png"  loading="lazy"  class="img-responsive center-block top-banner" alt="Top Banner">
-                        </picture>
+                        </picture>                       
+                    </div>
+                </div>  
+                
+                <div class="row">
+                    <div class="col-md-12">
                         <div class="div-question-top">
-                            <div class="inside">
-                                <div class="row">
-                                    <div class="col-md-offset-2 col-md-4">
-                                        <ul class="dashed left">
-                                            <li class="wow bounceInUp" data-wow-delay="1s">Apa itu CyberSecurity?</li>
-                                            <li class="wow fadeInDown" data-wow-delay="1.8s">Apakah itu penting?</li>
-                                            <li class="wow zoomInLeft" data-wow-delay="2.6s">Seberapa bahaya ancaman siber
-                                                tersebut?</li>
-                                            <li class="wow fadeInRight" data-wow-delay="3.4s">Apakah saya sudah terlindungi?
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <ul class="dashed">
-                                            <li class="wow rotateInDownLeft" data-wow-delay="4.2s">Bisakah para peretas
-                                                mencuri data atau informasi saya?</li>
-                                            <li class="wow bounceInLeft" data-wow-delay="5s">Bagaimana pengaruhnya terhadap
-                                                bisnis saya?</li>
-                                            <li class="wow flipInY" data-wow-delay="5.8s">Bagaimana cara melindungi bisnis
-                                                dan data saya?</li>
-                                        </ul>
+                                <div class="inside">
+                                    <div class="row">
+                                        <div class="col-md-offset-2 col-md-4">
+                                            <ul class="dashed left">
+                                                <li class="wow bounceInUp" data-wow-delay="1s">Apa itu CyberSecurity?</li>
+                                                <li class="wow fadeInDown" data-wow-delay="1.8s">Apakah itu penting?</li>
+                                                <li class="wow zoomInLeft" data-wow-delay="2.6s">Seberapa bahaya ancaman siber
+                                                    tersebut?</li>
+                                                <li class="wow fadeInRight" data-wow-delay="3.4s">Apakah saya sudah terlindungi?
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <ul class="dashed">
+                                                <li class="wow rotateInDownLeft" data-wow-delay="4.2s">Bisakah para peretas
+                                                    mencuri data atau informasi saya?</li>
+                                                <li class="wow bounceInLeft" data-wow-delay="5s">Bagaimana pengaruhnya terhadap
+                                                    bisnis saya?</li>
+                                                <li class="wow flipInY" data-wow-delay="5.8s">Bagaimana cara melindungi bisnis
+                                                    dan data saya?</li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div><br /><br />
+                            </div><br /><br />
+                        </div>
                     </div>
-                </div>
-            </div>
+            </div>          
         </div>
 
         <br />
@@ -171,7 +235,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
-                        <h1 class="tahukah-title">Tahukah Anda tentang Cyber Security Risk ?</h1><br />
+                        <h2 class="tahukah-title">Tahukah Anda tentang Cyber Security Risk ?</h2><br />
                         <p>Keamanan cyber menjadi salah satu upaya yang perlu ditingkatkan setiap hari terutama jika Anda
                             memiliki bisnis yang berjalan menggunakan media digital. Serangan cyber sudah menjadi ancaman
                             terbesar bagi setiap perusahaan di dunia. Sebuah studi yang dilakukan di University of Maryland
@@ -1108,8 +1172,7 @@
             <div class="container__">
                 <div class="row sample-report">
                     <div class="col-sm-4">
-                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox" data-title="SQL Injection"> 
-                            
+                        <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox" data-title="SQL Injection">                             
                             <picture>
                                 <source srcset="assets/img/img-pentest/webp/thumb-sample-report-sql.webp" type="image/webp">
                                 <img loading="lazy" src="assets/img/img-pentest/thumb-sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
@@ -1266,11 +1329,9 @@
                                                     </div>
                                                 </div>
                                             
-                                        </div>
-                                            
+                                        </div>                                            
                                     <?php  $x++;
-                                }
-                                    
+                                }                                    
                             ?> 
                     
                     <!--  Example item end -->
@@ -1323,6 +1384,33 @@
                 </div>
             </div>
         </section> 
+
+        <!-- CLIENT PENTEST -->
+        <section style="background-color: #fcc515;">            
+            <div class="container__">                               
+                <div class="row pt-4 pb-8" style="padding-bottom: 5rem;">
+                    <h2 class="text-center" >Klien kami</h2>
+                    <div class="col-md-12">
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Adi Sarana Armada, Tbk</span>                                                
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Sembilan Anugerah</span>
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Pacto</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Softorb Technology Indonesia</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Yamaha Indonesia Motor Manufacturing </span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Indo Koala Remittance</span>                        
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Wanasawit Subur Lestari</span>           
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Teknologi Migo Indonesia</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Sekolah Integrasi Digital</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Sumo Teknologi Solusi (Alodokter)</span>
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Multi Megastar</span>
+                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Dtechcorp Konsultindo Prima</span>
+                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Gunatronikatama Cipta</span>
+                    </div>
+                </div>
+            </div>                       
+        </section>            
+
+
+
         <section class="faq">
             <div class="container-fluid" style="max-width: 1345px">
                 <h2 class="faq-title">FAQ</h2>
@@ -1346,10 +1434,10 @@
                                 <h3>Berapakah harga layanan pengetesan sistem keamanan dari LOGIQUE?</h3>
                                 <p>Dalam melakukan pengetesan sistem mulai dari tahapan awal (preparation), tahapan
                                     pengujian (assessment) dan tahapan pelaporan (reporting), LOGIQUE menawarkan harga mulai
-                                    dari Rp 10 juta, tergantung dari jenis aplikasi serta sistem yang akan diuji. Untuk
+                                    dari Rp 15 juta, tergantung dari jenis aplikasi serta sistem yang akan diuji. Untuk
                                     mengetahui informasi lebih lanjut, Anda dapat langsung menghubungi kami melalui email ke
                                     info@logique.co.id atau di nomor telepon (021) 227 089 35/36 atau melalui pesan WhatsApp
-                                    di nomor 0812 9656 0380.</p>
+                                    di nomor 0811-870-321.</p>
                             </li>
                             <li>
                                 <h3>Dalam melakukan pengetesan, apakah security team LOGIQUE hanya mengandalkan automated

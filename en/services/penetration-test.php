@@ -28,6 +28,8 @@
     <link href="assets/css/style-pentest.css" rel="stylesheet">
     <link href="/css/animate.min.css" rel="stylesheet">
 
+    
+    <link rel="canonical" href="https://www.logique.co.id/en/services/penetration-test.php"/>  
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
@@ -109,10 +111,30 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner" />
+                        <h1 class="text-center">
+                            The Most Reliable Penetration Testing (Pentest) & Website Security Services currently available in Indonesia
+                        </h1>
+                        <div style="position:absolute; background-color: white; padding : 28px; border-radius: 10px; opacity: 0.9;">
+                            <p style="color: black">
+                                LOGIQUE Digital Indonesia provides services of world-class & international standards in carrying out the penetration testing process / Website & Application security testing. We are supported by experienced Pentesters who have both CEH (Certified Ethical Hacker) & CSCU (Certified Secure Computer User) certifications from the EC-Council; our proven capabilities within this field are apparent.
+                            </p>
+    
+                            <p style="color: black">
+                                There is no need to delay the safeguarding of your Website and/or application’s overall security; avoid the risks of being victim to harmful cyber-attacks
+                                <a href="/en/contact.php">Contact Us Now!</a>
+                            </p>
+                        </div>
+                        <picture> 
+                            <source media="(max-width: 468px)" srcset="assets/img/img-pentest/top-banner-mobile.png" type="image/png">
+                            <source media="(min-width: 469px)" srcset="assets/img/img-pentest/top-banner.png" type="image/png">
+                            <img src="assets/img/img-pentest/top-banner-mobile.png"  loading="lazy"  class="img-responsive center-block top-banner" alt="Top Banner">
+                        </picture>        
+                        
+                        
+                        
                         <div class="what-is">
-                            <h1 class="title" style="margin-bottom: 0;">Website security assessment service | WEB
-                                vulnerability assessment</h1>
+                            <h2 class="title" style="margin-bottom: 0;">Website security assessment service | WEB
+                                vulnerability assessment</h2>
                             <div class="row">
                                 <div class="col-md-offset-1 col-md-11">
                                     <p><br />
@@ -496,8 +518,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
-                        <div class="title">We are offering a special price for trial of our vulnerability assessment
-                            service.</div>
+                        <div class="title">What exactly is the full price being offered by Logique to perform a thorough Pentest?</div>
                     </div>
                 </div>
                 <div class="row">
@@ -508,11 +529,8 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         <div class="subtitle text-left">
-                            Although it is a simple assessment, we recommend that you know the status of your website’s
-                            security and how critical they are. Feel free to contact us for consultation. We would be
-                            pleased to respond to your questions in English, in Indonesian, or in Japanese about the details
-                            related to website security assessment service, such as assessment detail, report items, cost,
-                            duration, etc. </div>
+                            Through conducting the appropriate pentest activities, starting from the initial stage (preparation), testing to finally the reporting stage, Logique Digital Indonesia is offering prices starting from Rp. 15 Million depending on the type of application or system required for testing.
+                        </div>
                     </div>
                 </div>
             </div>
