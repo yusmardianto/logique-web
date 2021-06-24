@@ -127,6 +127,13 @@
         .sm-relative {
             position: relative;
         }
+
+        .mt-4-sm {
+            margin-top: 1rem;
+        }
+        .mt-8-sm {
+            margin-top: 2rem;
+        }
     }
     @media (min-width: 1024px) {}
     @media (min-width: 1280px) {}   
@@ -179,11 +186,22 @@
                         <h1 class="text-center">
                             Jasa Penetration Testing (Pentest) dan Keamanan Website Terbaik Di Indonesia
                         </h1>
-                        <div class="absolute sm-relative" style="bottom: 45%; background-color: white; padding : 28px; border-radius: 10px; opacity: 0.9;">
+                        <div class="absolute sm-relative" style="bottom: 5%; background-color: white; padding : 28px; border-radius: 10px; opacity: 0.9;">
                             <p style="color: black">
-                                LOGIQUE Digital Indonesia memiliki standar operasional kelas dunia dalam menjalankan proses penetration testing / pengujian keamanan Website dan Aplikasi. Didukung oleh Pentester berpengalaman yang telah memiliki sertifikasi CEH (Certified Ethical Hacker) dan CSCU (Certified Secure Computer User) dari EC- Council, kemampuan Kami tidak perlu Anda ragukan lagi.
+                                <b>LOGIQUE Digital Indonesia Memiliki Standar Operasional Pentest Kelas Dunia.</b>                                 
                             </p>
-    
+                            <p style="color: black">
+                                Dalam menjalankan proses penetration testing (pentest), Logique didukung oleh Pentester berpengalaman yang telah memiliki sertifikasi <b>CEH</b> (Certified Ethical Hacker) dan <b>CSCU</b> (Certified Secure Computer User) dari <b>EC- Council</b>, sehingga kemampuan Kami tidak perlu Anda ragukan lagi. 
+                            </p>
+                            <p style="color: black">
+                                <b>Mengapa Perlu Melakukan Pentest Pada Sistem Yang Anda Miliki? </b>
+                            </p>
+                            <p style="color: black">
+                                Karena dengan melakukan proses penetration testing (pentest), Anda akan mendapatkan gambaran mengenai seberapa kuat sistem pertahanan website, aplikasi atau jaringan yang Anda miliki dalam menghadapi kejahatan cyber dan berbagai gangguan lainnya.                                
+                            </p>
+                            <p style="color: black">
+                                Keamanan cyber menjadi salah satu upaya yang perlu ditingkatkan setiap saat terutama jika Anda memiliki bisnis yang berjalan menggunakan media digital. Serangan cyber sudah menjadi ancaman terbesar bagi setiap perusahaan di dunia. Sebuah studi yang dilakukan di University of Maryland menyatakan bahwa serangan hacker rata-rata terjadi setiap 39 detik. 
+                            </p>
                             <p style="color: black">
                                 Jangan tunda untuk meningkatkan keamanan Website & Aplikasi Anda guna menghindari resiko serangan cyber yang merugikan. 
                                 <a href="/hubungi-kami.php">Hubungi Kami Sekarang!</a>
@@ -1386,26 +1404,47 @@
         </section> 
 
         <!-- CLIENT PENTEST -->
-        <section style="background-color: #fcc515;">            
+        <hr />
+        <section>            
             <div class="container__">                               
-                <div class="row pt-4 pb-8" style="padding-bottom: 5rem;">
-                    <h2 class="text-center" >Klien kami</h2>
-                    <div class="col-md-12">
-                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Adi Sarana Armada, Tbk</span>                                                
-                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Sembilan Anugerah</span>
-                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Pacto</span>
-                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Softorb Technology Indonesia</span>
-                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Yamaha Indonesia Motor Manufacturing </span>
-                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Indo Koala Remittance</span>                        
-                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Wanasawit Subur Lestari</span>           
-                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Teknologi Migo Indonesia</span>
-                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT Sekolah Integrasi Digital</span>
-                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Sumo Teknologi Solusi (Alodokter)</span>
-                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Multi Megastar</span>
-                        <span  class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Dtechcorp Konsultindo Prima</span>
-                        <span class="label label-info border-white border-1 border-solid bg-transparent rounded-2xl">PT. Gunatronikatama Cipta</span>
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 text-center">
+                        <h2 class="text-center" >Klien kami</h2>
+                        <p class="text-center">Berikut sebagian daftar perusahaan yang telah mempercayakan LOGIQUE Digital Indonesia dalam proses penetration testing:</p>
+                    </div> 
+                </div>  
+
+                <div class="row mt-5">
+                    <div class=" col-md-3 text-center">
+                        <img style="margin-top: 54px" src="assets/img/img-pentest/alodokter.png" width="124px" height="auto" alt="Alo dokter"/>                                              
+                    </div>
+                    <div class=" col-md-3 text-center">
+                        <img src="assets/img/img-pentest/assa.jpeg" width="124px" height="auto"  alt="assa"/>                                              
+                    </div>
+                    <div class=" col-md-3 text-center">
+                        <img src="assets/img/img-pentest/migo.png" width="124px" height="auto"  alt="migo"/>                                              
+                    </div>
+                    <div class=" col-md-3 text-center">
+                        <img style="margin-top: 40px" src="assets/img/img-pentest/pacto.png" width="124px" height="auto"  alt="pacto"/>    
                     </div>
                 </div>
+
+                <div class="row mt-5" style="margin-top: 32px;">
+                    <div class=" col-md-3 text-center">
+                        <img src="assets/img/img-pentest/indokoala.png" width="124px" height="auto" alt="indokoala"/>                                              
+                    </div>
+                    <div class=" col-md-3 text-center">
+                        <img class="mt-4-sm " src="assets/img/img-pentest/ptgasi.png" width="224px" height="auto" alt="ptgasi"/>                                              
+                    </div>
+                    <div class="  col-md-3 text-center">
+                        <img class="mt-8-sm" src="assets/img/img-pentest/softorb.png" width="124px" height="auto" alt="softorb"/>                                              
+                    </div>
+                    <div class=" col-md-3 text-center">
+                        <img class="mt-8-sm " src="assets/img/img-pentest/yamaha.png" width="124px" height="auto" alt="yamaha"/>                                              
+                    </div>
+                </div>
+
+
             </div>                       
         </section>            
 
