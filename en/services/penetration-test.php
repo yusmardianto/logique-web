@@ -66,6 +66,62 @@
             margin-bottom: 2.5em
         }
     }
+
+      /* 
+        ``````````````````````````````````````````````````````````````````````
+        Reference for below class : https://tailwindcss.com/docs/utility-first
+
+        ``````````````````````````````````````````````````````````````````````
+    */   
+    
+    .absolute {
+        position: absolute;
+    }
+
+    .border-white {
+        border-color: white;
+    }
+
+    .border-1{
+        border-width: 1px;
+    }
+
+    .border-solid {
+        border-style: solid;
+    }
+
+    .bg-transparent{
+        background-color: transparent;
+    }
+
+    .pt-4{
+        padding-top: 1rem;
+    }
+
+    .pb-4{
+        padding-bottom: 1rem;
+    }
+
+    .pb-8{
+        padding-bottom: 2rem;
+    }
+    .rounded-2xl{
+        border-radius: 1rem;
+    }
+
+
+    @media (max-width: 640px) {
+        .sm-relative {
+            position: relative;
+        }
+
+        .mt-4-sm {
+            margin-top: 1rem;
+        }
+        .mt-8-sm {
+            margin-top: 2rem;
+        }
+    }
     </style>
     
     <!-- NAVIGATION -->
@@ -99,8 +155,7 @@
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                            itemprop="name">&nbsp;WEB Security Assesment (Vulnerability Scanning
-                                            / Test)</span></a>
+                                            itemprop="name">&nbsp; Penetration Testing (Pentest)</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -109,18 +164,29 @@
                 </div>
             </section>
             <div class="container__">
-                <div class="row">
-                    <div class="col-md-12">
+            <div class="row">
+                    <div class="col-md-12">                                            
                         <h1 class="text-center">
                             The Most Reliable Penetration Testing (Pentest) & Website Security Services currently available in Indonesia
                         </h1>
-                        <div style="position:absolute; background-color: white; padding : 28px; border-radius: 10px; opacity: 0.9;">
+                        <div class="absolute sm-relative" style="bottom: 5%; background-color: white; padding : 28px; border-radius: 10px; opacity: 0.9;">
                             <p style="color: black">
-                                LOGIQUE Digital Indonesia provides services of world-class & international standards in carrying out the penetration testing process / Website & Application security testing. We are supported by experienced Pentesters who have both CEH (Certified Ethical Hacker) & CSCU (Certified Secure Computer User) certifications from the EC-Council; our proven capabilities within this field are apparent.
+                                <b>LOGIQUE Digital Indonesia Offers World Class Pentest Services of an International Standard.</b>                                 
                             </p>
-    
                             <p style="color: black">
-                                There is no need to delay the safeguarding of your Website and/or application’s overall security; avoid the risks of being victim to harmful cyber-attacks
+                                Our penetration testing (pentest) process is supported by experienced Pentesters, all of whom have already received their CEH (Certified Ethical Hacker) & CSCU (Certified Secure Computer User) certifications from the EC-Council; indeed, our proven abilities & expertise within this area are clear.
+                            </p>
+                            <p style="color: black">
+                                <b>Why Is It Important to Pentest Your System?</b>
+                            </p>
+                            <p style="color: black">
+                                By conducting penetration testing (pentest) for your digital assets, you will have a better understanding of how prepared your website, application or network defense system is when dealing with serious instances of cybercrime.
+                            </p>
+                            <p style="color: black">
+                                One’s Cyber security needs to be regularly improved, especially if you have a business that incorporates digital media. Cyber attacks have become a serious threat to companies throughout the world. A study conducted by the University of Maryland stated that an average cyber attack occurs every 39 seconds.
+                            </p>
+                            <p style="color: black">
+                                Don't delay the safeguarding of your website and/or application’s security system; avoid the potential risk of highly damaging cyber attacks. 
                                 <a href="/en/contact.php">Contact Us Now!</a>
                             </p>
                         </div>
@@ -128,30 +194,30 @@
                             <source media="(max-width: 468px)" srcset="assets/img/img-pentest/top-banner-mobile.png" type="image/png">
                             <source media="(min-width: 469px)" srcset="assets/img/img-pentest/top-banner.png" type="image/png">
                             <img src="assets/img/img-pentest/top-banner-mobile.png"  loading="lazy"  class="img-responsive center-block top-banner" alt="Top Banner">
-                        </picture>        
-                        
-                        
-                        
-                        <div class="what-is">
-                            <h2 class="title" style="margin-bottom: 0;">Website security assessment service | WEB
-                                vulnerability assessment</h2>
-                            <div class="row">
-                                <div class="col-md-offset-1 col-md-11">
-                                    <p><br />
-                                        In Indonesia, it’s a fact that most of corporates still have very low awareness of
-                                        website security. On the other hand, many skillful attackers are causing many
-                                        security incidents in Indonesia at international level. It is extremely important
-                                        for you to make sure that your website’s security is checked by a professional with
-                                        the viewpoint of cyber attacking/software vulnerability since attackers have various
-                                        ways to penetrate the security hole of your website. If the attackers break your
-                                        security holes, the risk is not only your website will be jacked or edited, but your
-                                        website/business can be used for a crime. That is why it is extremely important to
-                                        strengthen your website’s security even if it’s a very simple website.
-                                    </p>
-                                </div>
+                        </picture>                       
+                    </div>
+                </div>  
+                <div class="row">                                                                                         
+                    <div class="what-is">
+                        <h2 class="title" style="margin-bottom: 0;">Website security assessment service | WEB
+                            vulnerability assessment</h2>
+                        <div class="row">
+                            <div class="col-md-offset-1 col-md-11">
+                                <p><br />
+                                    In Indonesia, it’s a fact that most of corporates still have very low awareness of
+                                    website security. On the other hand, many skillful attackers are causing many
+                                    security incidents in Indonesia at international level. It is extremely important
+                                    for you to make sure that your website’s security is checked by a professional with
+                                    the viewpoint of cyber attacking/software vulnerability since attackers have various
+                                    ways to penetrate the security hole of your website. If the attackers break your
+                                    security holes, the risk is not only your website will be jacked or edited, but your
+                                    website/business can be used for a crime. That is why it is extremely important to
+                                    strengthen your website’s security even if it’s a very simple website.
+                                </p>
                             </div>
                         </div>
-                        <br /><br />
+                    </div>
+                    <br /><br />
                     </div>
                 </div>
             </div>
