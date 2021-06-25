@@ -36,6 +36,8 @@
     <link rel="stylesheet" href="../../../css/sidebar-update.css" >
     <!-- case study style -->
     <link href="css/new-style.css" rel="stylesheet">
+    <link href="../../css/newstyle.css" rel="stylesheet">
+
 
     <?php 
       if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
