@@ -204,15 +204,13 @@
                         <div class="row">
                             <div class="col-md-offset-1 col-md-11">
                                 <p><br />
-                                    In Indonesia, it’s a fact that most of corporates still have very low awareness of
-                                    website security. On the other hand, many skillful attackers are causing many
-                                    security incidents in Indonesia at international level. It is extremely important
-                                    for you to make sure that your website’s security is checked by a professional with
-                                    the viewpoint of cyber attacking/software vulnerability since attackers have various
-                                    ways to penetrate the security hole of your website. If the attackers break your
-                                    security holes, the risk is not only your website will be jacked or edited, but your
-                                    website/business can be used for a crime. That is why it is extremely important to
-                                    strengthen your website’s security even if it’s a very simple website.
+                                In Indonesia, the fact is that most corporations are still relatively unaware of the importance of website security. This has seen an increase in many skilled hackers causing a variety of security incidents throughout Indonesia, 
+                                as well as on an international level. It is extremely important to make sure that your website's security is thoroughly up to date, 
+                                as revealed by a professional with a deep understanding of how cyber hacking/software vulnerability works. This is due to hackers 
+                                having a similar mindset in regards to finding security holes to exploit. If hackers do succeed in breaking through your security systems, 
+                                there could be a variety of risks other than your website being hacked into; additionally, your website/business could be used to conduct
+                                 criminal activities, thereby covering the perpetrators tracks in the process. This is one of many reasons why improving your website’s 
+                                 security is a must, even for relatively simple websites.
                                 </p>
                             </div>
                         </div>
@@ -286,16 +284,11 @@
                         <div class="title fw-300"><span class="yellow">Website security assessment</span> contents</div>
                         <br />
                         <ul>
-                            <li>We check and report on 12 crucial items of the assessment. It is a website vulnerability
-                                assessment service that can quickly scan the security level of your website.</li>
-                            <li>The scope of assessment may be limited by the scale of the website security (number of
-                                pages, search function, presence/absence, and number of forms) that will be tested.</li>
-                            <li>We conduct an assessment by using a security assessment tool that enable us to implement a
-                                comprehensive testing.</li>
-                            <li>We also perform a manual test to identify the critical and potential risk by analysing
-                                source code.</li>
-                            <li>We will provide some advises to solve the risks and show you the priorities of those risks
-                                to be solved.</li>
+                            <li>We check and report on 12 crucial items of assessment. Through these items, the website vulnerability assessment service can swiftly scan your website’s security level.</li>
+                            <li>The scope of the assessment may be limited due to the overall level of website security being tested (number of pages, search function, presence/absence, and number of forms).</li>
+                            <li>We conduct an assessment through the use of a security assessment tool that enables us to implement comprehensive testing procedures.</li>
+                            <li>We also perform a manual test in order to identify any critical & potential risks through analyzing the source code.</li>
+                            <li>We will provide advice in regards to risk management and further explain the steps needed in order for any remaining problems to be fixed.</li>
                         </ul>
                     </div>
                 </div>
@@ -308,16 +301,13 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="text-left lh-30">
-                            <div class="text-center"><span class="title fw-300">Why <b>website security assessment</b> is
-                                    necessary?</span></div>
-                            Websites owned by financial institutions are not the only ones who need security assessment and
-                            countermeasures. The ones who are not handling important and personal information also have a
-                            chance to get cyber-attacked.<br /><br />
-                            Also in Indonesia, attacks such as unauthorized access and falsification of data are frequently
-                            carried out against websites. As a result, it can cause severe damages, such as personal
-                            information leakage, system down, access trouble, up to falsification of identity.<br /><br />
-                            It is important to know how a weak security system can result in financial, reputational, and
-                            legal consequences.
+                            <!-- <div class="text-center"><span class="title fw-300">Why <b>website security assessment</b> is
+                                    necessary?</span></div> -->
+                            <div class="text-center"><span class="title fw-300">On the Importance of <b>Website Security Assessments</b></span></div>
+                            Websites owned by financial institutions are not the only sites that require thorough security assessments and countermeasures. 
+                            Websites that do not necessarily contain important and personal information also remain targets of potential cyber hacking activities.<br /><br />
+                            In Indonesia, cyber-attacks, some of which include the unauthorized access and falsification of data, are frequently carried out against a multitude of websites. As a result, this can cause severe damages, such as personal information leakage, system down, access trouble, and identity theft as well.
+
                             <ol>
                                 <li><b>1. Financial Impact.</b><br>
                                     Cyber Attacks can often result in financial losses arising from:
@@ -351,7 +341,7 @@
                             In order to eliminate these risks so as to continue maintaining a secure website, conducting a
                             security vulnerability assessment is highly recommended. Through a primary security assessment,
                             we can properly grasp the extent to which a website is vulnerable to cyber-attacks.<br /><br />
-                            LOGIQUE will flexibly perform various security assessment according to the scale of the website.
+                            <b>LOGIQUE</b> will flexibly perform various security assessment according to the scale of the website.
                             We also have a primary vulnerability assessment that can be easy and cheaper to start
                             with.<br /><br />
 
@@ -362,10 +352,10 @@
         </section>
 
         <section class="tahapan-title">
-            <div class="question">The steps taken by LOGIQUE in conducting a Website Security Assessment</div>
+            <div class="question"><b>LOGIQUE</b> takes various steps when conducting a Website Security Assessment</div>
             <div class="answer">
-                <b>In conducting a website security assessment, Logique Digital Indonesia uses international standards as
-                    the reference, including:</b>
+                <b>In conducting a website security assessment, <b>LOGIQUE</b> Digital Indonesia adheres to an internationally practiced standard as a reference. 
+                These include:</b>
             </div>
         </section>
         <br /><br />
@@ -380,10 +370,9 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>1</span> <b>Reconnaissance</b></div>
-                                The stage where we will collect initial data or any other things needed for the client.
-                                After data is collected, we will be able to plan attacks more easily. Reconnaissance can be
-                                done in two ways, which are actively (directly touching the specified target) and passively
-                                (surveillance is done through intermediaries).<br /><br />
+                                During this initial stage, we collect data or any other things in regards to the client. After all the necessary data is collected, we will be able to plan our security breach more easily.<br>
+                                 Reconnaissance can be done in two ways; these include actively (directly moving against the specified target) and passively (surveillance is done through intermediaries).
+                                <br /><br />
                             </div>
                         </div>
                     </div>
@@ -394,9 +383,7 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>2</span> <b>Scanning</b></div>
-                                At this stage, an application is needed as a technical tool to collect various advanced data
-                                on the target that we have set. The data sought is more general, which is about the system
-                                they have.<br /><br />
+                                At this stage, we require an application that functions as a technical tool so as to collect data on the specified target. Currently, the data that is sought after is more general in nature.<br /><br />
                             </div>
                         </div>
                     </div>
@@ -410,8 +397,7 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>3</span> <b>Gaining Access</b></div>
-                                We will gain access to take control of one or more network devices to further extract data
-                                from the target, then use the device to launch attacks on other targets.
+                                We will then gain access so as to take control of one or more network devices to further the extraction of data from the set target, after which we will then use the device in order to launch attacks on other targets where necessary.
                                 <br /><br />
                             </div>
                         </div>
@@ -423,9 +409,7 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>4</span> <b>Maintaining Access</b></div>
-                                That is the stage where we will make several steps needed to remain in the target
-                                environment with the aim of collecting as much data as possible. In this phase, the attacker
-                                must remain idle so that they cannot be caught while using the host environment.<br /><br />
+                                That is the stage where we will make several steps needed to remain in the target environment with the aim of collecting as much data as possible. In this phase, the attacker must remain idle so that they cannot be caught while using the host environment.<br /><br />
                             </div>
                         </div>
                     </div>
@@ -439,10 +423,7 @@
                             </div>
                             <div class="col-sm-10 text-justify">
                                 <div class="title"><span>5</span> <b>Covering Tracks</b></div>
-                                The last stage where we will cover the track, forcing the attacker to take the steps needed
-                                to remove all the similarities during detection. Any changes that have been made, improved
-                                authorization, etc. All must return in a non-recognition state (not recognized) by a network
-                                administrator host.
+                                The last stage where we will cover the track, forcing the attacker to take the steps needed to remove all the similarities during detection. Any changes that have been made, improved authorization, etc. All must return in a non-recognition state (not recognized) by a network administrator host.
                             </div>
                         </div>
                     </div>
@@ -452,7 +433,7 @@
         </section>
         <br />
 
-        <div class="mengapa-harus">LOGIQUE provides a variety of Cyber Security services.</div>
+        <div class="mengapa-harus"><b>LOGIQUE</b> provides a variety of Cyber Security services.</div>
         <br><br>
 
         <section class="metode">
@@ -481,7 +462,7 @@
                                     For those of you who might be wondering if desktop applications are still a thing, yes,
                                     of course. Most enterprise applications are installation-based and use hardware
                                     resources to run them. Also, many real-time systems are still desktop-based because of
-                                    their performance capabilities. In this case, LOGIQUE can also do testing to ensure the
+                                    their performance capabilities. In this case, <b>LOGIQUE</b> can also do testing to ensure the
                                     security of the software.
                                 </div>
                             </div>
@@ -517,7 +498,7 @@
                                 <div>
                                     Choosing a weak password or clicking a bad link is the example of personal decisions
                                     that even the best cyber security cannot help. This is the reason why cyber security
-                                    awareness is vital especially among end users and programmers, and LOGIQUE can provide
+                                    awareness is vital especially among end users and programmers, and <b>LOGIQUE</b> can provide
                                     the training for you.
                                 </div>
                             </div>
@@ -527,7 +508,7 @@
                             <div class="col-sm-12">
                                 <div class="subtitle fs-18 f-s-22"><b>E. Cyber Security Consulting</b></div>
                                 <div>
-                                    LOGIQUE is ready to help your IT team to solve security problems and provide the best
+                                <b>LOGIQUE</b> is ready to help your IT team to solve security problems and provide the best
                                     solutions. We can give technical advices to your IT team and strategic advices to your
                                     management team.
                                 </div>
@@ -542,7 +523,7 @@
 
         <!-- <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> can help you.</div> -->
         <div class="mengapa-harus"><a href="/en/" target="_blank"><b>Logique Digital Indonesia</b></a> is experienced in
-            conducting security assessments</div>
+            conducting security assessments within Indonesia </div>
         <br />
 
         <section class="metode">
@@ -550,14 +531,13 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         <p>
-                            In Indonesia, we have performed security assessments on websites of a governmental organization,
-                            financial institution, e-commerce, up to a car manufacturer. Most of the cases, you will be
-                            shocked with the test result, but it is better at least you can notify the risk and make an
-                            appropriate strategy against it. <b>LOGIQUE</b> will help you lessen the risks until the risk
-                            gets
-                            almost none by monitoring its security constantly. While conducting penetration tests for
-                            various companies, we had subsequently discovered several security holes that required immediate
-                            patching up. Some examples of the bugs we had encountered are as follows:
+                            We have performed security assessments on the websites of government organizations, financial institutions, 
+                            e-commerce businesses as well as car manufacturers. In most cases, you will be shocked with the test results; 
+                            however this will allow you to make note of the risk and thereby make an appropriate strategy against it. 
+                            <b>LOGIQUE</b> will assist you in preventing such risks through the constant monitoring of security.
+                            While conducting penetration tests for various companies, we had subsequently discovered several security 
+                            holes that required immediate patching up. Some examples of the bugs we had encountered are as follows:
+
                             <ol>
                                 <li>1. Injection</li>
                                 <li>2. Cross-Site Scripting (XSS)</li>
@@ -584,7 +564,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
-                        <div class="title">What exactly is the full price being offered by Logique to perform a thorough Pentest?</div>
+                        <div class="title">What exactly is the full price being offered by <b>LOGIQUE</b> to perform a thorough Pentest?</div>
                     </div>
                 </div>
                 <div class="row">
@@ -595,7 +575,7 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         <div class="subtitle text-left">
-                            Through conducting the appropriate pentest activities, starting from the initial stage (preparation), testing to finally the reporting stage, Logique Digital Indonesia is offering prices starting from Rp. 15 Million depending on the type of application or system required for testing.
+                            Through conducting the appropriate pentest activities, starting from the initial stage (preparation), testing to finally the reporting stage, <b>LOGIQUE</b> Digital Indonesia is offering prices starting from Rp. 15 Million depending on the type of application or system required for testing.
                         </div>
                     </div>
                 </div>
