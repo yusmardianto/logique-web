@@ -347,9 +347,9 @@
                                         </picture>
                                         <h3>KIIC</h3>   
                                         <ul class="list-unstyled">
-                                                <li>WEB Re-Design (Design | Coding | CMS)</li>
-                                                <li>CMS, Website, Optimasi Mobile, Multi-Bahasa </li>
-                                            </ul>
+                                            <li> Web Re-design (Design | CMS | Web Analysis | AWS) </li>
+                                            <li>BtoB Web,multi-language, Industrial Park </li>
+                                         </ul>
                                     </div>
                                 </a>
                             </div>

@@ -369,8 +369,8 @@
                                     <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
-                                        <li>BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）</li>
-                                        <li>スマホ最適, BtoBサービス, レンタカー</li>
+                                        <li>WEB Re-Design (デザイン | CMS | Web戦略 | AWS)</li>
+                                        <li>BtoBウェブ,多言語Web,工業団地 </li>
                                     </ul>
                                 </a>
                             </div>
