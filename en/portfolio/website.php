@@ -168,7 +168,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                            <!-- <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
                                     <h3>AUKSI</h3>
@@ -177,7 +177,17 @@
                                         <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
                                     </ul>
                                 </a>
-                            </div>
+                            </div> -->
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="https://kiic.co.id" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/kiic.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>KIIC</h3>
+                                        <ul class="list-unstyled">
+                                            <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
+                                            <li>CMS, Website, Optimasi Mobile, Multi-Bahasa </li>
+                                        </ul>
+                                    </a>
+                                </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
@@ -932,7 +942,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    <!-- <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" > -->
                                     <h3>AUKSI</h3>
                                     <ul class="list-unstyled">
                                         <li>Development & Operasion WEB (Design | Sistem | CMS | Operation)</li>
