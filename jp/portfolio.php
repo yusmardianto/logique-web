@@ -336,7 +336,7 @@
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                            <!-- <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item">
                                     <picture>
                                         <source srcset="/img/portfolio/update/web-jbap.webp" type="image/webp">
@@ -348,6 +348,21 @@
                                         <li>Onlineオークション, Webシステム, DB-Web, 自動車, フィリピン, オークション</li>
                                     </ul>
                                 </div>
+                            </div> -->
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://kiic.co.id/" target="_blank" rel="noreferrer">
+                                    <div class="content__item">
+                                        <picture>
+                                            <source srcset="/img/portfolio/kiic.webp" type="image/webp">
+                                            <img src="/img/portfolio/kiic.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        </picture>
+                                        <h3>KIIC</h3>   
+                                        <ul class="list-unstyled">
+                                        <li>キャンペーンページ制作(デザイン | コーディング | CMS開発)</li>
+                                            <li>CMS, セキュアなWEB,多言語,モバイル対応</li>
+                                            </ul>
+                                    </div>
+                                </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">

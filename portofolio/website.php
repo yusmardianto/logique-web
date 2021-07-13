@@ -222,12 +222,12 @@
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
-                                        <h3>AUKSI</h3>
+                                    <a class="content__item" href="https://kiic.co.id" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/kiic.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>KIIC</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation)</li>
-                                            <li>CMS, Website, Lelang Online, Auction, Inegrasi API</li>
+                                            <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
+                                            <li>CMS, Website, Optimasi Mobile, Multi-Bahasa </li>
                                         </ul>
                                     </a>
                                 </div>
@@ -577,7 +577,7 @@
                                 </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="https://tokoparts.com/home" target="_blank" class="content__item">
-                                        <img src="/img/portfolio/update/tokoparts.jpg" class="img-responsive" alt="Benefit One">
+                                        <img src="/img/portfolio/update/tokopart-2.jpg" class="img-responsive" alt="Tokopart">
                                         <h3>TOKOPARTS</h3>
                                          <ul class="list-unstyled">
                                             <li>E-Commerce Dev (Design | System Development | Payment Gateway) </li>
@@ -981,7 +981,7 @@
                                 </div>                                
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://www.auksi.co.id/beranda" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/auksi.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        
                                         <h3>AUKSI</h3>
                                         <ul class="list-unstyled">
                                             <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation)</li>
