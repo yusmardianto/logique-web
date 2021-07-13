@@ -187,8 +187,8 @@
                                         <img src="/img/portfolio/kiic.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>KIIC</h3>
                                         <ul class="list-unstyled">
-                                            <li>WEB Re-Design (デザイン | コーディング | CMS開発)</li>
-                                            <li>CMS, セキュアなWEB,多言語,モバイル対応</li>
+                                            <li>WEB Re-Design (デザイン | CMS | Web戦略 | AWS)</li>
+                                            <li>BtoBウェブ,多言語Web,工業団地 </li>
                                         </ul>
                                     </a>
                                 </div>

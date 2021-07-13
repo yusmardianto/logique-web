@@ -183,8 +183,8 @@
                                         <img src="/img/portfolio/kiic.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>KIIC</h3>
                                         <ul class="list-unstyled">
-                                            <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                            <li>CMS, Website, Optimasi Mobile, Multi-Bahasa </li>
+                                            <li> Web Re-design (Design | CMS | Web Analysis | AWS) </li>
+                                            <li>BtoB Web,multi-language, Industrial Park </li>
                                         </ul>
                                     </a>
                                 </div>
