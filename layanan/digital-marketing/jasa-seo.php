@@ -52,6 +52,59 @@
             <!-- End Google Tag Manager -->";
 	}
 	?>
+
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "FAQPage",
+			"mainEntity": [{
+				"@type": "Question",
+				"name": "1. Apa Itu SEO?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "SEO atau Search Engine Optimization merupakan strategi digital marketing yang dilakukan dengan cara memperbaiki kinerja situs website untuk meningkatkan visibilitasnya di halaman mesin pencari. Karena saat ini Google menjadi search engine terbesar yang paling banyak digunakan oleh pengguna internet, maka proses optimasi ini ditujukan untuk search engine Google."
+				}
+			}, {
+				"@type": "Question",
+				"name": "2. Mengapa perusahaan membutuhkan jasa SEO?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "SEO dapat membantu meningkatkan peringkat website perusahaan untuk pencarian yang relevan di halaman Google. Dengan cara ini perusahaan akan memperoleh berbagai keuntungan seperti:
+					memperoleh lebih banyak web traffic
+					meningkatkan brand awareness
+					meningkatkan penjualan
+					menghasilkan lebih banyak keuntungan
+					dll "
+				}
+			}, {
+				"@type": "Question",
+				"name": "3. Berapa Harga Jasa Optimasi SEO?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Harga jasa SEO di LOGIQUE Digital Indonesia bersifat relatif dan tergantung pada apa yang dibutuhkan oleh klien. Untuk mengetahui berapa biaya yang perlu dibayarkan, Anda dapat menghubungi tim LOGIQUE dan menginformasikan kebutuhan Anda. Selanjutnya, tim analyst dari LOGIQUE akan melakukan pengecekan serta mengevaluasi kesehatan web perusahaan Anda."
+				}
+			}, {
+				"@type": "Question",
+				"name": "4. Berapa lama waktu yang dibutuhkan untuk melihat hasil optimasi?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Setelah proses optimasi, beberapa website dapat mencapai peringkat tertinggi dalam waktu hitungan minggu, namun tidak sedikit website yang membutuhkan waktu berbulan-bulan. Hal tersebut terjadi karena SEO tergantung dari banyak faktor. Salah satunya seperti faktor pemilihan kata kunci dengan tingkat kompetitif tinggi sehingga website membutuhkan waktu yang lebih lama untuk mengalahkan web pesaing. Selain itu, proses peningkatan ranking juga tergantung pada kondisi website Anda saat ini."
+				}
+			}, {
+				"@type": "Question",
+				"name": "5. Teknik SEO apa yang akan dipergunakan?",
+				"acceptedAnswer": {
+					"@type": "Answer",
+					"text": "Kami menggunakan teknik white hat SEO sesuai dengan kaidah dari Google. Tim SEO LOGIQUE juga terus mengikuti dan menyesuaikan teknik optimasi sesuai dengan pembaruan algoritma Google dalam mengoptimalkan kinerja website Anda. Secara garis besar, kami akan menggunakan teknik Onpage SEO, Technical SEO, dan Offpage SEO."
+				}
+			}]
+		}
+	</script>
+
+
+
+
+
 </head>
 
 <body>
