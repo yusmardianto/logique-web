@@ -164,6 +164,53 @@
     background-color: #ffca13;
     margin: 0 20px 0 -32px;
   }
+
+  .bullets-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ffca13;
+    margin: 0 20px 0 -29px;
+  }
+
+  .mask-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5px;
+    height: 30px;
+    background-color: #ffffff;
+    margin: -40px 20px 0 -28px;
+  }
+
+  .bullets-card:hover {
+    opacity: 0.7;
+  }
+
+  .mask-bot-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5px;
+    height: 30px;
+    background-color: #fffffF;
+    margin: 0px 20px -32px -28px;
+  }
+
+  .bullet-bot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ffca13;
+    margin: 0 20px 0 -29px;
+  }
+
   .faq-title-seo > a:hover {
     color: rgb(0, 0, 0);
   }

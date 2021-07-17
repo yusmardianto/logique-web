@@ -514,7 +514,7 @@
 
 				<div class=faq-container>
 					<div class="faq-card-jasa-seo" data-collapse>
-						<h2 class="faq-title-seo"><span class="bullets-card"></span> Apa itu SEO?</h2>
+						<h2 class="faq-title-seo"><span class="mask-card"></span> <span class="bullets-top"></span> Apa itu SEO?</h2>
 						<div class="cont-desc-faq">
 							<img class="quotes-open-seo" src="img/open-quotes.svg" alt="quotes-seo-open" />
 
