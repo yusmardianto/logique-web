@@ -5,69 +5,79 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="Jasa SEO profesional di Jakarta untuk optimalisasi, audit & analisis. Solusi digital untuk bisnis Anda; SEO bidang Otomotif, Asuransi, E-commerce & lainnya">
+	<meta name="description" content="Jasa SEO Jakarta terbaik dan profesional untuk optimasi website Anda. Audit & analisis komprehensif untuk website Otomotif, Asuransi, E-commerce & lainnya">
 	<meta name="keywords" content="jasa seo, jasa seo jakarta, jasa seo profesional, jasa audit seo, jasa analisis seo">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<meta name="title" content="Jasa SEO Profesional Jakarta: Audit & Analisis | LOGIQUE ">
 	<meta property="og:title" content="Jasa SEO Profesional Jakarta: Audit & Analisis | LOGIQUE ">
-    <meta property="og:type" content="website">
-    <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php">
+	<meta property="og:type" content="website">
+	<meta itemprop="name" content="PT. Logique Digital Indonesia">
+	<meta property="og:site_name" content="Logique">
+	<meta property="og:url" content="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-    <meta property="og:description" content="Jasa SEO profesional di Jakarta untuk optimalisasi, audit & analisis. Solusi digital untuk bisnis Anda; SEO bidang Otomotif, Asuransi, E-commerce & lainnya">
+	<meta property="og:description" content="Jasa SEO profesional di Jakarta untuk optimalisasi, audit & analisis. Solusi digital untuk bisnis Anda; SEO bidang Otomotif, Asuransi, E-commerce & lainnya">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php" />  
-	<title>Jasa SEO Profesional Jakarta: Audit & Analisis | LOGIQUE </title>
+	<link rel="canonical" href="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php" />
+	<title>Jasa SEO Jakarta Terbaik & Profesional | LOGIQUE</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-	<!-- <link href="/css/style.css" rel="stylesheet"> -->	
-    <link rel="stylesheet" href="/css/sidebar-update.css" >
-    <link href="/css/newstyle.css" rel="stylesheet">
+	<link rel="stylesheet" href="/css/sidebar-update.css">
+	<link rel="stylesheet" href="css/css-add-feat.css">
+	<link href="/css/newstyle.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
-	<!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
 	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview");</script>
+	<script>
+		! function(e, a, t, n, g, c) {
+			e.GoogleAnalyticsObject = n, e.ga = e.ga || function() {
+				(e.ga.q = e.ga.q || []).push(arguments)
+			}, e.ga.l = +new Date, g = a.createElement(t), c = a.getElementsByTagName(t)[0], g.async = 1, g.src = "https://www.google-analytics.com/analytics.js", c.parentNode.insertBefore(g, c)
+		}(window, document, "script", "ga"), ga("create", "UA-105878648-1", "auto"), ga("send", "pageview");
+	</script>
 	<!-- Twitter universal website tag code -->
-	<script>!function(e,t,n,i,a,c){e.twq||((i=e.twq=function(){i.exe?i.exe.apply(i,arguments):i.queue.push(arguments)}).version="1.1",i.queue=[],(a=t.createElement(n)).async=!0,a.src="//static.ads-twitter.com/uwt.js",(c=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,c))}(window,document,"script"),twq("init","o0xru"),twq("track","PageView");</script>
+	<script>
+		! function(e, t, n, i, a, c) {
+			e.twq || ((i = e.twq = function() {
+				i.exe ? i.exe.apply(i, arguments) : i.queue.push(arguments)
+			}).version = "1.1", i.queue = [], (a = t.createElement(n)).async = !0, a.src = "//static.ads-twitter.com/uwt.js", (c = t.getElementsByTagName(n)[0]).parentNode.insertBefore(a, c))
+		}(window, document, "script"), twq("init", "o0xru"), twq("track", "PageView");
+	</script>
 	<!-- End Twitter universal website tag code -->
-    <?php 
-        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
-            echo "<!-- Google Tag Manager -->
+	<?php
+	if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+		echo "<!-- Google Tag Manager -->
             <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
             <!-- End Google Tag Manager -->";
-        }
-    ?>
+	}
+	?>
 </head>
 
 <body>
-	<?php 
-		if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
-			echo '<!-- Google Tag Manager (noscript) -->
+	<?php
+	if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+		echo '<!-- Google Tag Manager (noscript) -->
 			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
 			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<!-- End Google Tag Manager (noscript) -->';
-		}
+	}
 	?>
 	<div class="wrapper wrapper--update-design wrapper--update-design-font">
-	
+
 		<!-- NAVIGATION -->
-		<?php 
-			// $active option are home, about, portfolio, services, product, career, contact
-			$active = 'services';
-			include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+		<?php
+		// $active option are home, about, portfolio, services, product, career, contact
+		$active = 'services';
+		include($_SERVER['DOCUMENT_ROOT'] . '/sidebar.php');
 		?>
 
-		<?php 
-			$lang = 'id';
-			$en_link = '/en/services/digital-marketing/seo-service.php';
-			$id_link = '#';
-			$jp_link = '/jp/services/digital-marketing/seo-service.php';
-			include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+		<?php
+		$lang = 'id';
+		$en_link = '/en/services/digital-marketing/seo-service.php';
+		$id_link = '#';
+		$jp_link = '/jp/services/digital-marketing/seo-service.php';
+		include($_SERVER['DOCUMENT_ROOT'] . '/header.php');
 		?>
 
 		<div class="content-area content-area__seo">
@@ -76,10 +86,18 @@
 				<div class="container__ text-center">
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
-							<h1>Jasa Audit dan Analisis SEO Profesional di Jakarta</h1>
-							<p>Banyak kendala yang sering dihadapi oleh pelaku bisnis yang memutuskan untuk membawa bisnisnya Go Digital dengan sebuah website, namun setelah memiliki website mereka merasa bingung.</p>
+							<h1>Jasa SEO Jakarta</h1>
+							<p> LOGIQUE Digital Indonesia menyediakan jasa SEO profesional yang siap membantu Anda melakukan optimasi melalui audit & analisis yang komprehensif guna memastikan setiap website mendapatkan posisi terbaik sesuai <i>Target Audience</i> dan kata kunci yang paling relevan.
+							</p>
 							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="" class="img-responsive">
-							<h3>“Darimana Saya Bisa Mendapatkan Pengunjung?”</h3>
+							<h3>“Mengapa Perusahaan Anda Membutuhkan Jasa SEO?”</h3>
+
+							<p>
+								Karena dengan menggunakan jasa SEO, proses optimasi website yang Anda miliki akan jauh lebih efektif dan efisien. Logique memiliki tenaga spesialis yang lengkap dan berpengalaman, mulai dari content writer, ui/ux designer, hingga SEO specialist yang siap untuk menempatkan website Anda pada posisi terbaik di halaman utama hasil pencarian Google dan search engine lainnya.
+							</p>
+							<a class="a-caf-cta" class="" target="_blank" href="https://www.logique.co.id/hubungi-kami.php">
+								<p class="caf-cta">Hubungi Kami Sekarang</p>
+							</a>
 						</div>
 					</div>
 				</div>
@@ -90,16 +108,13 @@
 					<div class="row">
 						<div class="col-sm-12">
 							<ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
-								<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span
-											itemprop="name">Beranda</span></a>
+								<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/en/"><span itemprop="name">Beranda</span></a>
 									<meta itemprop="position" content="1" />
 								</li>
-								<li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-										href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
+								<li class="item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="/layanan.php"><span itemprop="name">&nbsp;Layanan</span></a>
 									<meta itemprop="position" content="2" />
 								</li>
-								<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-											itemprop="name">&nbsp;Jasa SEO</span></a>
+								<li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span itemprop="name">&nbsp;Jasa SEO</span></a>
 									<meta itemprop="position" content="3" />
 								</li>
 							</ol>
@@ -113,9 +128,39 @@
 					<div class="row">
 						<div class="solution__wrapper col-md-offset-1 col-md-10">
 							<div class="solution__main text-center">
-								<h2 class="main__cloud">Jasa SEO</h2>
-								<h2>Search Engine Optimization (SEO) Salah Satu Solusinya</h2>
-								<p>Search engine menjadi platform utama dimana User mencari informasi dan solusi. Melalui jasa SEO yang ditawarkan, Logique hadir untuk memaksimalkan website Anda agar menjadi solusi bagi setiap User yang berpotensi menjadi pelanggan Anda.</p>
+								<h2>Apa Keuntungan Optimasi SEO untuk Perusahaan Anda?</h2>
+								<p>Melakukan optimasi SEO (Search Engine Optimization) pada website perusahaan yang Anda miliki dapat memberikan banyak keuntungan. Sebagaimana kita ketahui bahwa search engine atau mesin pencari, khususnya Google, saat ini menjadi platform utama yang digunakan oleh user dalam mencari informasi dan solusi.</p>
+								<p>Berdasarkan hal tersebut, Logique hadir untuk memaksimalkan website Anda agar dapat memberi solusi bagi setiap user potensial hingga menjadi pelanggan Anda. Berikut beberapa keuntungan lain yang dapat Anda peroleh dari proses optimasi SEO:</p>
+
+								<ul class="ul-list-cfa">
+									<li class="li-list-cfa">
+										<a class="list-cfa">&#183; Memaksimalkan website pada halaman utama mesin pencari.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">&#183; Meningkatkan pengunjung organik.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">&#183; Meningkatkan angka konversi.</a>
+									</li>
+
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">&#183; Meningkatkan daya saing terhadap kompetitor.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">&#183; Meningkatkan Brand Awareness.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">&#183; Dan lainnya.</a>
+									</li>
+								</ul>
+
+								<h2>Mengapa Pilih Logique Sebagai Konsultan SEO Anda?</h2>
+
 								<p>Dengan didukung oleh <span>lebih dari 50 orang tenaga professional</span> di bidang Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, dan Cloud Server Engineer menjadikan <strong>LOGIQUE</strong> sebagai perusahaan satu-satunya yang mampu mensinergikan setiap aspek pengoptimalan sebuah website dalam satu atap dan mekanisme kerja. </p>
 							</div>
 							<br class="visible-lg">
@@ -157,200 +202,222 @@
 				</div>
 			</section>
 
-			<section class="seo__effort">
+
+			<section class="bg--white cfa-container-harga">
+				<div class="col-md-offset-1 col-md-10">
+					<h2 class="text-center" style="margin-top: 30px;">Rincian Harga Jasa SEO Logique</h2>
+					<p class="text-center" style="margin: 10px auto 20px auto;">Hubungi Kami untuk informasi harga secara detail atau dapatkan layanan spesial tarif tetap kami.</p>
+				</div>
+
+
 				<div class="container__">
-					<div class="row">
-						<div class="col-md-offset-1 col-md-10">
-							<p class="text-center">Upaya ini tentu akan berujung pada tingkat kepuasan konsumen yang tinggi dan keunggulan yang diprioritaskan oleh mesin pencari pada saat User melakukan pencarian sebuah kata kunci pada mesin pencari, kemudian menjadikan website Anda sebagai pondasi pertumbuhan bisnis yang signifikan mulai dari pengembangan merk hingga peningkatan penjualan.</p>
-						</div>
-					</div>
+					<a href="/layanan/dx-dm-service.php">
+						<picture>
+							<!-- webp -->
+							<source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.webp" type="image/webp">
+							<source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.webp" type="webp">
+
+							<!-- jpeg -->
+							<source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.jpg" type="image/jpeg">
+							<source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.jpg" type="image/jpeg">
+							<img srcset="/img/dx-dm-banner-id-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive" style="width: 100%;">
+						</picture>
+					</a>
 				</div>
 			</section>
 
+
+
+			<section class="container__ tambahan-container">
+				<h2 class="text-center ">Metode dan Langkah-Langkah SEO</h2>
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo">Metode Seo</h3>
+					<p class="text-list-seo">
+						Sebagai konsultan SEO profesional, Logique senantiasa menggunakan metode dan teknik optimasi yang direkomendasikan oleh para praktisi dan sesuai ketentuan atau panduan yang disarankan oleh search engine itu sendiri, atau yang sering dikenal dengan istilah <a class="a-text-list-seo">White Hat SEO.</a>
+					</p>
+
+					<ul class="underlist-listseo">
+						<li class="underlist-li">
+							<p>Kami tidak pernah berhenti mengikuti perkembangan trend dan pembaharuan dari setiap algoritma mesin pencari.
+							</p>
+						</li>
+
+
+						<li>
+							<p>Setiap tahapan optimisasi yang kami kerjakan akan diawasi dengan ketat dan diuji secara berkala.
+							</p>
+						</li>
+
+						<li>
+							<p>Memastikan setiap traffic yang terjaring berasal dari pengguna Asli bukan robot seperti kebanyakan penyedia jasa seo.
+							</p>
+						</li>
+
+						<li>
+							<p>Menerapkan strategy jangka panjang untuk hasil yang berkelanjutan.
+							</p>
+						</li>
+
+					</ul>
+
+					<p class="text-list-seo" style="margin-top: 40px;">
+						Tim profesional kami mampu menangani proyek SEO dalam 3 bahasa, yaitu Bahasa Indonesia, Inggris, dan Jepang.
+					</p>
+
+
+					<ul class="underlist-listseo">
+						<li class="underlist-li">
+							<p>
+								Kami memiliki tenaga ahli yang asli berbahasa asing mulai dari bahasa Jepang, bahasa Inggris, dan bahasa Indonesia. Menjadikan LOGIQUE perusahaan penyedia jasa SEO yang mampu mendorong bisnis Anda untuk Go International.
+							</p>
+						</li>
+
+
+						<li>
+							<p>
+								Dengan pengalaman selama bertahun-tahun dalam melayani banyak perusahaan Asing maupun Lokal
+							</p>
+						</li>
+
+						<li>
+							<p>
+								Kompetensi tenaga ahli yang terus ditingkatkan mengikuti perkembangan teknik-teknik SEO yang terjadi secara global.
+							</p>
+						</li>
+
+						<li>
+							<p>
+								Menjadikan LOGIQUE perusahaan penyedia jasa SEO yang mampu mendorong bisnis Anda untuk Go International.
+							</p>
+						</li>
+
+					</ul>
+				</div>
+
+				<div class="metode-langkah-seo margin-top-sm">
+					<h3 class="h3-list-seo">Langkah-Langkah SEO</h3>
+					<p class="text-list-seo p-desc-seo">
+						Adapun langkah-langkah optimasi SEO yang kami lakukan adalah sebagai berikut:
+					</p>
+				</div>
+
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo h3-label">Goals & Objective</h3>
+					<p class="text-list-seo p-desc-seo">
+						Langkah pertama yang kami lakukan sebelum melakukan proses optimasi SEO adalah menentukan Goals & Objective ingin dicapai melalui website yang yang Anda miliki. Dengan demikian proses optimasi yang kami lakukan memiliki panduan atau guideline yang jelas dan terarah.
+					</p>
+				</div>
+
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo h3-label">Analisis Target Audience</h3>
+					<p class="text-list-seo p-desc-seo">
+						Langkah selanjutnya adalah melakukan analisis terhadap target audience atau user potensial yang ingin Anda tuju. Hal ini sangat penting karena akan mempengaruhi penentuan kata kunci dan strategi lain yang akan dilakukan pada tahap selanjutnya.
+					</p>
+				</div>
+
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo h3-label">Analisis Keywords</h3>
+					<p class="text-list-seo p-desc-seo">
+						Analisis kata kunci didasarkan pada target audience yang dituju beserta karakteristik yang dimilikinya. Disamping itu, penentuan kata kunci juga disesuaikan dengan goals dan objective untuk menentukan jenis kata kunci yang sesuai dan paling relevan.
+					</p>
+				</div>
+
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo h3-label">Optimasi Onpage (Onpage SEO)</h3>
+					<p class="text-list-seo p-desc-seo">
+						Kami akan menganalisa setiap potensi dan celah yang terdapat didalam asset digital Anda, dan akan kami rangkum menjadi sebuah laporan yang terperinci, memberikan saran & strategy terbaik untuk mengoptimalkan potensi terbesar website Anda.
+					</p>
+
+					<p class="text-list-seo p-desc-seo">
+						Mengumpulkan setiap permasalahan hingga yang terkecil yang bisa berdampak pada kinerja website Anda dan merangkumnya menjadi sebuah laporan dan menerjemahkan setiap detailnya kedalam bentuk dan bahasa yang mudah dipahami. Kemudian mengajak setiap pemangku kepentingan untuk melakukan brainstorming dan memberikan solusi terbaik yang paling efektif dan efisien.
+					</p>
+
+					<p class="text-list-seo p-desc-seo">
+						Adapun optimasi onpage SEO yang kami kerjakan meliputi:
+					</p>
+
+
+					<ul class="underlist-listseo">
+						<li class="underlist-li">
+							<p>
+								Peningkatan kualitas dan kuantitas konten khususnya dari faktor E-A-T atau Expertise, Authoritativeness, dan Trustworthiness.
+							</p>
+
+						</li>
+
+
+						<li>
+							<p>
+								Pengembangan atau pembuatan meta tag (title, meta description, open graph, dan lainnya)
+							</p>
+						</li>
+
+						<li>
+							<p>
+								Pengaturan Headings (H1-H6) yang baik
+							</p>
+						</li>
+
+						<li>
+							<p>
+								Optimasi image (size, format, alt text) dan lainnya
+							</p>
+						</li>
+					</ul>
+				</div>
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo h3-label">Optimasi Teknikal (Technical SEO)</h3>
+					<p class="text-list-seo p-desc-seo">
+						Meningkatkan potensi Aset Digital Anda dengan memperbaiki setiap celah, memperbaharui setiap konten, dan merawat interaksi dengan setiap pengunjung yang berinteraksi dengan Website Anda. Faktor teknikal yang kami prioritaskan antara lain: Sitemap & indexing, Struktur URL, Internal links & navigation, penyematan schema markup, dan lain sebagainya
+					</p>
+
+					<p class="text-list-seo p-desc-seo">
+						Kami akan membagi skala prioritas dari masing-masing permasalahan yang telah terindikasi dan membagi tahapan pekerjaan dengan terstruktur dan sistematis. Setiap pekerjaan akan diawasi dengan ketat dan diuji secara berkala untuk meminimalisir kesalahan yang mungkin terjadi. Secara berkala kami akan melakukan laporan perkembangan pekerjaan dan hasil dari setiap perbaikan yang dilakukan.
+					</p>
+				</div>
+
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo h3-label">
+						Optimasi Offpage (Offpage SEO)
+					</h3>
+					<p class="text-list-seo p-desc-seo">
+						Offpage SEO atau Link Building bertujuan untuk meningkatkan Website Authority dengan membangun komunitas yang kuat dan secara sukarela mau membagikan manfaat Website Anda secara organic, melalui media social, blog, deskripsi video dan lain sebagainya.
+					</p>
+
+					<p class="text-list-seo p-desc-seo">
+						Content creator kami akan menerima brief dan objektif dari sebuah project optimasi website. Kemudian akan dibuat menjadi sebuah content yang bisa berupa artikel, banner, infografis, video, dll.
+					</p>
+
+					<p class="text-list-seo p-desc-seo">
+						Dengan menggunakan strategy viral content kami akan meningkatkan engagement terhadap setiap content yang ditayangkan pada Website Anda. Kami akan membagikan konten-konten tersebut ke media-media yang berpotensi mendatangkan traffic Interaksi pemirsa bisa berupa Like, Share, & Comment.
+					</p>
+				</div>
+
+
+
+				<div class="metode-langkah-seo">
+					<h3 class="h3-list-seo h3-label">
+						Report
+					</h3>
+					<p class="text-list-seo p-desc-seo">
+						Report atau laporan kami buat secara berkala, dapat berupa laporan mingguan atau bulanan sesuai dengan kesepakatan dan kebutuhan klien. Metrik yang kami laporkan mulai dari progres penyelesaian issue dan implementasi strategi hingga laporan analitik berupa perkembangan kunjungan organik (organic traffic), pageviews, bounce rate, click through rate (CTR), hingga rasio konversi (conversion rate).
+					</p>
+				</div>
+
+			</section>
+
+
 			<section class="seo__services">
 				<div class="container__">
-					<section class="services__solution">
-						<h2 class="text-center">One Stop Solution of SEO Services.</h2>
-
-						<div class="services__pills">
-							<ul class="nav nav-pills">
-								<li class="active"><a href="#service_1" data-toggle="pill" aria-controls="home" aria-selected="true">On Page Audit</a></li>
-								<li><a href="#service_2" data-toggle="pill" aria-controls="home" aria-selected="false">Off Page Audit</a></li>
-								<li><a href="#service_3" data-toggle="pill" aria-controls="home" aria-selected="false">Assets <br>Maintenance</a></li>
-								<li><a href="#service_4" data-toggle="pill" aria-controls="home" aria-selected="false">Link Building</a></li>
-								<li><a href="#service_5" data-toggle="pill" aria-controls="home" aria-selected="false">White Hat</a></li>
-								<li><a href="#service_6" data-toggle="pill" aria-controls="home" aria-selected="false">Multi Languages</a></li>
-							</ul>
-							<div class="tab-content">
-								<div id="service_1" class="tab-pane fade in active">
-									<div class="row">
-										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Kami akan menganalisa setiap potensi dan celah yang terdapat didalam asset digital Anda, dan akan kami rangkum menjadi sebuah laporan yang terperinci, memberikan saran & strategy terbaik untuk mengoptimalkan potensi terbesar website Anda.</p>
-											<ul>
-												<li><a href="#service_1_1" data-toggle="pill">Didukung beragam tools yang mutakhir<span>i</span></a></a></li>
-												<li><a href="#service_1_2" data-toggle="pill">Mengumpulkan setiap permasalahan hingga yang terkecil<span>i</span></a></li>
-												<li><a href="#service_1_3" data-toggle="pill">Merangkumnya menjadi sebuah laporan dan menterjemahkan <span>i</span></a></li>
-												<li><a href="#service_1_4" data-toggle="pill">Mengajak setiap pemangku kepentingan<span>i</span></a></li>
-											</ul>
-										</div>
-										<div class="tab-content__img col-md-6 col-xs-12">
-											<div class="tab-content text-center">
-												<div id="service_1_1" class="tab-pane fade in active">
-												seperti SEMRush, Screaming Frog, SEO powersuite tools, Ubersuggest, dll. Kami melakukan analisa secara mendalam kesetiao celah terkecil yang ada pada website Anda
-												</div>
-												<div id="service_1_2" class="tab-pane fade">
-												yang bisa berdampak pada kinerja website Anda
-												</div>
-												<div id="service_1_3" class="tab-pane fade">
-												setiap detailnya kedalam bentuk dan bahasa yang mudah dipahami
-												</div>
-												<div id="service_1_4" class="tab-pane fade">
-												untuk melakukan brainstorming dan menemukan solusi terbaik yang paling efektif dan efisien
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="service_2" class="tab-pane fade">
-									<div class="row">
-										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Kami akan menganalisa brand position Anda terhadap pasar, competitor, channel atau media yang telah dikuasai competitor, dan menemukan strategy terbaik untuk mengalahkan setiap competitor yang telah menguasai kata kunci potential.</p>
-											<ul>
-												<li><a href="#service_2_1" data-toggle="pill">Kami juga melengkapi kemampuan analisa market dengan tools yang paling mutakhir<span>i</span></a></a></li>
-												<li><a href="#service_2_2" data-toggle="pill">Menganalisa setiap kata kunci, media dan channel<span>i</span></a></li>
-												<li><a href="#service_2_3" data-toggle="pill" disabled>Mempelajari kebiasaan pasar, ketertarikan pasar, dan bagaimana pasar terbentuk</a></li>
-												<li><a href="#service_2_4" data-toggle="pill">Semua data akan dirangkum menjadi sebuah laporan yang terperinci <span>i</span></a></li>
-											</ul>
-										</div>
-										<div class="tab-content__img col-md-6 col-xs-12">
-											<div class="tab-content text-center">
-												<div id="service_2_1" class="tab-pane fade in active">
-												seperti SimilarWeb, Ahrefs, MOZ, dll.
-												</div>
-												<div id="service_2_2" class="tab-pane fade">
-												that has the potential to bring in traffic
-												</div>
-												<!-- <div id="service_2_3" class="tab-pane fade">
-													Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas odit cupiditate iste! Dolor earum quos consequatur similique asperiores esse excepturi?
-												</div> -->
-												<div id="service_2_4" class="tab-pane fade">
-												lengkap dengan langkah-langkah pendekatan maupun strategy untuk jenis pasar dan obyektif yang berbeda-beda
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="service_3" class="tab-pane fade">
-									<div class="row">
-										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Meningkatkan potensi Asset Digital Anda dengan memperbaiki setiap celah, memperbaharui setiap konten, dan merawat interaksi dengan setiap pengunjung yang berinteraksi dengan Website Anda.</p>
-											<ul>
-												<li><a href="#service_3_1" data-toggle="pill">Kami akan membagi skala prioritas dari masing-masing permasalahan yang telah terindikasi<span>i</span></a></a></li>
-												<li><a href="#service_3_2" data-toggle="pill">Setiap pekerjaan akan diawasi dengan ketat dan diuji secara berkala<span>i</span></a></li>
-												<li><a href="#service_3_3" data-toggle="pill">Secara berkala kami akan melakukan laporan perkembangan pekerjaan dan hasil dari setiap perbaikan yang dilakukan</a></li>
-											</ul>
-										</div>
-										<div class="tab-content__img col-md-6 col-xs-12">
-											<div class="tab-content text-center">
-												<div id="service_3_1" class="tab-pane fade in active">
-												dan membagi tahapan pekerjaan dengan terstruktur dan sistematis
-												</div>
-												<div id="service_3_2" class="tab-pane fade">
-												untuk meminimalisir kesalahan yang mungkin terjadi
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="service_4" class="tab-pane fade">
-									<div class="row">
-										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Meningkatkan Website Authority dengan membangun komunitas yang kuat dan secara suka rela mau membagikan manfaat Website Anda secara organic, melalui media social, blog, atau video.</p>
-											<ul>
-												<li><a href="#service_4_1" data-toggle="pill">Content creator kami akan menerima brief<span>i</span></a></a></li>
-												<li><a href="#service_4_2" data-toggle="pill">Kemudian akan dibuat menjadi sebuah content<span>i</span></a></a></li>
-												<li><a href="#service_4_3" data-toggle="pill">Menggunakan strategy Viral Content<span>i</span></a></a></li>
-												<li><a href="#service_4_4" data-toggle="pill">Kami akan membagikan konten-konten tersebut ke media-media yang berpotensi mendatangkan traffic</a></a></li>
-												<li><a href="#service_4_4" data-toggle="pill">Interaksi pemirsa bisa berupa Like, Share, & Comment</a></a></li>
-											</ul>
-										</div>
-										<div class="tab-content__img col-md-6 col-xs-12">
-											<div class="tab-content text-center">
-												<div id="service_4_1" class="tab-pane fade in active">
-												dan objektif dari sebuah project optimisasi website
-												</div>
-												<div id="service_4_2" class="tab-pane fade">
-												yang bisa berupa artikel, banner, infografis, video, dll.
-												</div>
-												<div id="service_4_3" class="tab-pane fade">
-												kami akan meningkatkan engagement terhadap setiap content yang ditayangkan pada Website Anda
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="service_5" class="tab-pane fade">
-									<div class="row">
-										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Adalah metode yang kami terapkan dalam setiap proses, untuk menjamin mutu dan kualitas engagement yang terjadi seluruhnya secara Organic dan sesuai dengan ketentuan algoritma mesin pencari.</p>
-											<ul>
-												<li><a href="#service_5_1" data-toggle="pill">Kami tidak pernah berhenti mengikuti perkembangan trend dan perbaharuan<span>i</span></a></a></li>
-												<li><a href="#service_5_2" data-toggle="pill">Setiap tahapan optimisasi yang kami kerjakan <span>i</span></a></a></li>
-												<li><a href="#service_5_3" data-toggle="pill">Memastikan setiap traffic yang terjaring berasal dari pengguna Asli<span>i</span></a></a></li>
-												<li><a href="#service_5_4" data-toggle="pill">Menerapkan strategy jangka panjang untuk hasil yang berkelanjutan</a></a></li>
-											</ul>
-										</div>
-										<div class="tab-content__img col-md-6 col-xs-12">
-											<div class="tab-content text-center">
-												<div id="service_5_1" class="tab-pane fade in active">
-												dari setiap algoritma mesin pencari
-												</div>
-												<div id="service_5_2" class="tab-pane fade">
-												akan diawasi dengan ketat dan diuji secara berkala
-												</div>
-												<div id="service_5_3" class="tab-pane fade">
-												bukan robot seperti kebanyakan penyedia jasa seo
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div id="service_6" class="tab-pane fade">
-									<div class="row">
-										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Tim professional kami mampu menangani proyek SEO dalam 3 bahasa, yaitu Bahasa Indonesia, Inggris, dan Jepang.</p>
-											<ul>
-												<li><a href="#service_6_1" data-toggle="pill">-	Kami memiliki tenaga ahli yang asli berbahasa asing<span>i</span></a></a></li>
-												<li><a href="#service_6_2" data-toggle="pill">-	Dengan pengalaman selama bertahun-tahun dalam melayani banyak perusahaan Asing maupun Lokal</a></a></li>
-												<li><a href="#service_6_3" data-toggle="pill">-	Kompetensi tenaga ahli yang terus ditingkatkan<span>i</span></a></a></li>
-												<li><a href="#service_6_4" data-toggle="pill">-	Menjadikan <strong>LOGIQUE</strong> perusahaan penyedia jasa SEO<span>i</span></a></a></li>
-											</ul>
-										</div>
-										<div class="tab-content__img col-md-6 col-xs-12">
-											<div class="tab-content text-center">
-												<div id="service_6_1" class="tab-pane fade in active">
-												mulai dari bahasa Jepang, bahasa Inggris, dan bahasa Indonesia. Menjadikan <strong>LOGIQUE</strong> perusahaan penyedia jasa SEO yang mampu mendorong bisnis Anda untuk Go International
-												</div>
-												<div id="service_6_3" class="tab-pane fade">
-												mengikuti perkembangan teknik-teknik SEO yang terjadi secara global
-												</div>
-												<div id="service_6_4" class="tab-pane fade">
-												yang mampu mendorong bisnis Anda untuk Go International
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="row">
-								<div class="col-md-offset-1 col-md-10">
-									<p class="text-center"><strong>LOGIQUE</strong> adalah perusahaan dan menjadi tempat bagi para web developer dan praktisi pemasaran digital berpengalaman. Inilah yang memperkuat sinergi antara mengembangkan Aset Digital dan mengoptimalkan interaksi pengguna untuk setiap Aset Digital Anda</p>
-								</div>
-							</div>
-						</div>
-					</section>
 					<section class="services__contribution">
-						<h2 class="text-center">Our Great Contribution to a Business.</h2>
+						<h2 class="text-center">Bidang Bisnis Yang Kami Tangani</h2>
 						<p class="text-center">Kualitas kerja kami telah dibuktikan dengan lusinan pengalaman dan hasil pekerjaan dari beragam bidang proyek dari berbagai industri bisnis, seperti Industri Perbankan, Industri Otomotif, Industri Pariwisata, Industri Properti.</p><br>
 
 						<div class="services__pills">
@@ -387,11 +454,83 @@
 				</div>
 			</section>
 
+			<section class="container__ faq-cont-space">
+				<div class="cont-faq-title">
+					<h2 class="text-center">FAQ Jasa SEO</h2>
+				</div>
+
+				<div class=faq-container>
+					<div class="faq-card-jasa-seo" data-collapse>
+						<h2 class="faq-title-seo"><span class="bullets-card"></span> Apa itu SEO?</h2>
+						<div class="cont-desc-faq">
+							<img class="quotes-open-seo" src="img/open-quotes.svg" alt="quotes-seo-open" />
+
+							<blockquote class=" text-answer-faq">
+								SEO atau Search Engine Optimization merupakan strategi digital marketing yang dilakukan dengan cara memperbaiki kinerja situs website untuk meningkatkan visibilitasnya di halaman mesin pencari. Karena saat ini Google menjadi search engine terbesar yang paling banyak digunakan oleh pengguna internet, maka proses optimasi ini ditujukan untuk search engine Google.
+							</blockquote>
+
+							<img class="quotes-close-seo" src="img/close-quotes.svg" alt="quotes-seo-open" />
+						</div>
+					</div>
+
+					<div class="faq-card-jasa-seo" data-collapse>
+						<h2 class="faq-title-seo"><span class="bullets-card"></span>Mengapa perusahaan membutuhkan jasa SEO?</h2>
+						<div class="cont-desc-faq">
+							<img class="quotes-open-seo" src="img/open-quotes.svg" alt="quotes-seo-open" />
+
+							<blockquote class=" text-answer-faq">
+								SEO dapat membantu meningkatkan peringkat website perusahaan untuk pencarian yang relevan di halaman Google. Dengan cara ini perusahaan akan memperoleh berbagai keuntungan seperti:
+
+								<ul class="underlist-listseo ">
+									<li>
+										<p class="list-card-seo">
+											Peningkatan kualitas dan kuantitas konten khususnya dari faktor E-A-T atau Expertise, Authoritativeness, dan Trustworthiness.
+										</p>
+
+									</li>
+
+
+									<li>
+										<p class="list-card-seo">
+											Pengembangan atau pembuatan meta tag (title, meta description, open graph, dan lainnya)
+										</p>
+									</li>
+
+									<li>
+										<p class="list-card-seo">
+											Pengaturan Headings (H1-H6) yang baik
+										</p>
+									</li>
+
+									<li>
+										<p class="list-card-seo">
+											Optimasi image (size, format, alt text) dan lainnya
+										</p>
+									</li>
+								</ul>
+
+							</blockquote>
+
+							<img class="quotes-close-seo" src="img/close-quotes.svg" alt="quotes-seo-open" />
+						</div>
+					</div>
+
+
+				</div>
+
+
+
+
+
+			</section>
+
+
+
 			<?php include '../assets/components/dm-links.php' ?>
 			<br><br><br><br>
 			<?php include '../assets/components/other-services.php' ?>
 			<br><br>
-			
+
 
 		</div>
 		<?php include '../../footer.php'; ?>
@@ -470,6 +609,10 @@
 				})
 			})
 		</script>
+
+		<script src="js/jquery.collapse.js"></script>
+
+
 </body>
 
 </html>

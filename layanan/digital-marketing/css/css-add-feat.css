@@ -1,0 +1,226 @@
+/**
+
+ just additional css for Text on header pages /layanan/digital-marketing/jasa-seo.php 
+
+*/
+
+@media only screen and (min-width: 320px) {
+  .caf-cta {
+    margin-top: 18px;
+    font-size: 10px;
+    color: black;
+    font-weight: bold !important;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .caf-cta:hover {
+    opacity: 0.7;
+  }
+
+  .a-caf-cta {
+    text-decoration: none;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  .ul-list-cfa {
+    margin: 15px auto 50px auto;
+  }
+
+  .li-list-cfa {
+    margin-top: 8px;
+  }
+
+  .list-cfa {
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+  }
+  .list-cfa:hover {
+    color: black;
+  }
+
+  .cfa-container-harga {
+    margin: 30px auto 30px auto;
+  }
+
+  .cfa-silahkan-hubungi {
+    margin: 30px auto 30px auto;
+  }
+
+  .link-marketing {
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold !important;
+  }
+
+  .link-marketing:hover {
+    color: black;
+    text-decoration: none;
+  }
+
+  .tambahan-container {
+    margin: 70px auto 0 auto !important;
+  }
+
+  .metode-langkah-seo {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    width: 100%;
+    margin: 18px 0 0 0;
+  }
+
+  .h3-list-seo {
+    margin: 20px 0 0 0;
+    font-size: 20px !important;
+    color: rgb(0, 0, 0);
+  }
+
+  .h3-label {
+    border-left: 3px solid #ffca13;
+    padding-left: 10px;
+  }
+
+  .text-list-seo {
+    margin: 15px 0 0 0;
+    font-size: 18px !important;
+    color: rgb(37, 37, 37);
+  }
+
+  .a-text-list-seo {
+    font-size: 16px !important;
+    color: rgb(63, 63, 63);
+    font-weight: bold !important;
+    font-style: italic !important;
+  }
+
+  .a-text-list-seo:hover {
+    font-size: 16px !important;
+    color: rgb(37, 37, 37);
+    font-weight: bold !important;
+  }
+
+  .underlist-listseo {
+    list-style-type: disc;
+    margin: 0 0 0 40px;
+  }
+
+  .underlist-listseo > li > p {
+    margin: 10px 0 0 0;
+    font-size: 18px;
+  }
+
+  .underlist-li {
+    margin: 2px 0 0 0;
+  }
+
+  .margin-top-sm {
+    margin-top: 50px;
+  }
+
+  .faq-card-jasa-seo {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: black;
+  }
+
+  .faq-cont-space {
+    margin: -40px auto 50px auto !important;
+  }
+  .faq-container {
+    border-left: 2px solid #ffca13;
+    padding-left: 10px;
+  }
+
+  h2.faq-title-seo {
+    width: 100%;
+  }
+
+  .faq-title-seo > a {
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 10px 0 10px 15px;
+    font-size: 18px;
+    font-weight: bold !important;
+    color: rgb(46, 46, 46);
+    background-color: #ffffff;
+  }
+
+  .bullets-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #ffca13;
+    margin: 0 20px 0 -32px;
+  }
+  .faq-title-seo > a:hover {
+    color: rgb(0, 0, 0);
+  }
+  .cont-desc-faq {
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto 30px 15px;
+    padding: 20px 5px 10px 15px;
+    background-color: rgb(246, 246, 246);
+    border-radius: 10px;
+  }
+
+  .text-answer-faq {
+    color: rgb(102, 102, 102);
+    font-size: 16px;
+    /* font-weight: bold !important; */
+    border: none;
+  }
+
+  .quotes-open-seo {
+    width: 20px;
+    height: 20px;
+  }
+
+  .quotes-close-seo {
+    display: flex;
+    justify-self: end;
+    text-align: right;
+    align-self: flex-end;
+    width: 20px;
+    height: 20px;
+    margin: -10px 20px 20px 0;
+  }
+
+  .list-card-seo {
+    font-size: 16px !important;
+  }
+}
+
+@media only screen and (min-width: 375px) {
+}
+
+@media only screen and (min-width: 425px) {
+}
+
+@media only screen and (min-width: 768px) {
+  .h3-label {
+    border-left: 4px solid #ffca13;
+    padding-left: 10px;
+  }
+
+  .text-list-seo {
+    margin: 12px 0 0 0;
+    font-size: 18px !important;
+    color: rgb(37, 37, 37);
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+}
