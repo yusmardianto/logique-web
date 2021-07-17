@@ -516,12 +516,42 @@
 					</div>
 
 
+					<div class="faq-card-jasa-seo" data-collapse>
+						<h2 class="faq-title-seo"><span class="bullets-card"></span>Berapa Harga Jasa SEO di LOGIQUE?</h2>
+						<div class="cont-desc-faq">
+							<img class="quotes-open-seo" src="img/open-quotes.svg" alt="quotes-seo-open" />
+							<blockquote class=" text-answer-faq">
+								Harga jasa SEO di LOGIQUE Digital Indonesia bersifat relatif dan tergantung pada apa yang dibutuhkan oleh klien. Untuk mengetahui berapa biaya yang perlu dibayarkan, Anda dapat menghubungi tim LOGIQUE dan menginformasikan kebutuhan Anda. Selanjutnya, tim analyst dari LOGIQUE akan melakukan pengecekan serta mengevaluasi kesehatan web perusahaan Anda.
+							</blockquote>
+							<img class="quotes-close-seo" src="img/close-quotes.svg" alt="quotes-seo-open" />
+						</div>
+					</div>
+
+
+					<div class="faq-card-jasa-seo" data-collapse>
+						<h2 class="faq-title-seo"><span class="bullets-card"></span>
+							Berapa lama waktu yang dibutuhkan untuk melihat hasil optimasi?</h2>
+						<div class="cont-desc-faq">
+							<img class="quotes-open-seo" src="img/open-quotes.svg" alt="quotes-seo-open" />
+							<blockquote class=" text-answer-faq">
+								Setelah proses optimasi, beberapa website dapat mencapai peringkat tertinggi dalam waktu hitungan minggu, namun tidak sedikit website yang membutuhkan waktu berbulan-bulan. Hal tersebut terjadi karena SEO tergantung dari banyak faktor. Salah satunya seperti faktor pemilihan kata kunci dengan tingkat kompetitif tinggi sehingga website membutuhkan waktu yang lebih lama untuk mengalahkan web pesaing. Selain itu, proses peningkatan ranking juga tergantung pada kondisi website Anda saat ini.
+							</blockquote>
+							<img class="quotes-close-seo" src="img/close-quotes.svg" alt="quotes-seo-open" />
+						</div>
+					</div>
+
+
+					<div class="faq-card-jasa-seo" data-collapse>
+						<h2 class="faq-title-seo"><span class="bullets-card"></span>Teknik SEO apa yang akan dipergunakan?</h2>
+						<div class="cont-desc-faq">
+							<img class="quotes-open-seo" src="img/open-quotes.svg" alt="quotes-seo-open" />
+							<blockquote class=" text-answer-faq">
+								Kami menggunakan teknik white hat SEO sesuai dengan kaidah dari Google. Tim SEO LOGIQUE juga terus mengikuti dan menyesuaikan teknik optimasi sesuai dengan pembaruan algoritma Google dalam mengoptimalkan kinerja website Anda. Secara garis besar, kami akan menggunakan teknik Onpage SEO, Technical SEO, dan Offpage SEO.
+							</blockquote>
+							<img class="quotes-close-seo" src="img/close-quotes.svg" alt="quotes-seo-open" />
+						</div>
+					</div>
 				</div>
-
-
-
-
-
 			</section>
 
 
