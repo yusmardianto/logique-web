@@ -140,7 +140,7 @@
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
 							<h1>Jasa SEO Jakarta</h1>
-							<p> LOGIQUE Digital Indonesia menyediakan jasa SEO profesional yang siap membantu Anda melakukan optimasi melalui audit & analisis yang komprehensif guna memastikan setiap website mendapatkan posisi terbaik sesuai <i>Target Audience</i> dan kata kunci yang paling relevan.
+							<p> LOGIQUE Digital Indonesia menyediakan jasa SEO profesional yang siap membantu Anda melakukan optimasi melalui audit & analisis yang komprehensif guna memastikan setiap website mendapatkan posisi terbaik sesuai Target Audience dan kata kunci yang paling relevan.
 							</p>
 							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="" class="img-responsive">
 							<h3>“Mengapa Perusahaan Anda Membutuhkan Jasa SEO?”</h3>
@@ -149,7 +149,9 @@
 								Karena dengan menggunakan jasa SEO, proses optimasi website yang Anda miliki akan jauh lebih efektif dan efisien. Logique memiliki tenaga spesialis yang lengkap dan berpengalaman, mulai dari content writer, ui/ux designer, hingga SEO specialist yang siap untuk menempatkan website Anda pada posisi terbaik di halaman utama hasil pencarian Google dan search engine lainnya.
 							</p>
 							<a class="a-caf-cta" class="" target="_blank" href="https://www.logique.co.id/hubungi-kami.php">
-								<p class="caf-cta">Hubungi Kami Sekarang</p>
+								<div class="button-caf-cta">
+									<p class="caf-cta">Hubungi Kami Sekarang</p>
+								</div>
 							</a>
 						</div>
 					</div>
