@@ -242,12 +242,12 @@
                                     </a>
                                 </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                        <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="" loading="lazy" >
-                                        <h3>JBA INDONESIA</h3>
+                                    <a class="content__item" href="http://www.shinkenjuku.co.id/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
+                                        <h3>Benesse (Shinkenjuku.co.id)</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                            <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
+                                            <li>BtoC, E-Learning, Education</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -605,7 +605,16 @@
                                         </ul>  
                                     </a>
                                 </div>
-                                
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                        <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>JBA INDONESIA</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
+                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        </ul>
+                                    </a>
+                                </div>
                             </div>
                             <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
                             <div class="flex__row">
