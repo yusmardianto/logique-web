@@ -193,7 +193,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
-                                        <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <img src="/img/portfolio/update/web-panin.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>Panin Life Dai-ichi</h3>
                                         <ul class="list-unstyled">
                                             <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
@@ -202,6 +202,16 @@
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="http://www.shinkenjuku.co.id/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
+                                        <h3>Benesse (Shinkenjuku.co.id)</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
+                                            <li>BtoC, E-Learning, Education</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <!-- <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
                                         <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>JBA INDONESIA</h3>
@@ -210,7 +220,7 @@
                                             <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
                                         </ul>
                                     </a>
-                                </div>
+                                </div> -->
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="" loading="lazy" >
@@ -241,16 +251,6 @@
                                         </ul>
                                     </a>
                                 </div> 
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="http://www.shinkenjuku.co.id/" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
-                                        <h3>Benesse (Shinkenjuku.co.id)</h3>
-                                        <ul class="list-unstyled">
-                                            <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
-                                            <li>BtoC, E-Learning, Education</li>
-                                        </ul>
-                                    </a>
-                                </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">
