@@ -211,16 +211,6 @@
                                         </ul>
                                     </a>
                                 </div>
-                                <!-- <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                        <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
-                                        <h3>JBA INDONESIA</h3>
-                                        <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
-                                        </ul>
-                                    </a>
-                                </div> -->
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="" loading="lazy" >
@@ -251,6 +241,16 @@
                                         </ul>
                                     </a>
                                 </div> 
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                        <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>JBA INDONESIA</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
+                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        </ul>
+                                    </a>
+                                </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">

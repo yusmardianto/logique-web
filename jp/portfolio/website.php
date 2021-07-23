@@ -167,8 +167,8 @@
                                     <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
                                     <h3>Benesse (Shinkenjuku.co.id)</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design  (デザイン | システム開発 | 決済代行連携 | サーバー運用)</li>
-                                        <li>BtoC, E-Learning, 教育</li>
+                                        <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
+                                        <li>BtoC, E-Learning, Education</li>
                                     </ul>
                                 </a>
                             </div>
@@ -199,6 +199,16 @@
                                     <ul class="list-unstyled">
                                         <li>BtoBサービス, Car Rental Web制作（デザイン制作 | コーディング | ディプロイ）</li>
                                         <li>スマホ最適, BtoBサービス, レンタカー</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                    <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
+                                    <h3>JBA INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li> WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
+                                        <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
                                     </ul>
                                 </a>
                             </div>
