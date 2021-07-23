@@ -199,12 +199,12 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="">
-                                    <h3>JBA INDONESIA</h3>
+                                <a class="content__item" href="http://www.shinkenjuku.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
+                                    <h3>Benesse (Shinkenjuku.co.id)</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Dev & Operation (Design | CMS | System | Operation | AWS)</li>
-                                        <li>Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</li>
+                                        <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
+                                        <li>BtoC, E-Learning, Education</li>
                                     </ul>
                                 </a>
                             </div>
@@ -561,6 +561,16 @@
                                         <li>Web Page Creation (Coding | Integrasi CMS)</li>
                                         <li>CMS, Membership, Food, Recipes</li>
                                     </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                    <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="">
+                                    <h3>JBA INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li>WEB Dev & Operation (Design | CMS | System | Operation | AWS)</li>
+                                        <li>Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</li>
+                                    </ul>
                                 </a>
                             </div>
                         </div>
