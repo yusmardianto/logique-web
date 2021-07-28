@@ -666,6 +666,26 @@
                                     </ul>
                                 </a>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://valuemax.co.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/gadai-valuemax.jpg" class="img-responsive" alt="Gadai ValueMax">
+                                    <h3>Gadai ValueMax Indonesia</h3>
+                                        <ul class="list-unstyled">
+                                        <li>(デザイン | コーディング) レスポンシブWeb</li>
+                                        <li>金利計算, コンバージョンOriented, ノンバンク</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://siapvaksinbarengaia.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/siap-vaksin-aia.jpg" class="img-responsive" alt="Siap Vaksin Bareng AIA">
+                                    <h3>Siap Vaksin Bareng AIA</h3>
+                                        <ul class="list-unstyled">
+                                        <li> マイクロサイト制作 (デザイン | コーディング | クラウドサーバー管理 | WhatsApp連携)</li>
+                                        <li>モバイル最適化, キャンペーンページ, e-ポリシー, 保険</li>
+                                    </ul>  
+                                </a>
+                            </div>
                         </div>
                         <!--- other -->
                         <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
