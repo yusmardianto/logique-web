@@ -150,40 +150,48 @@
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
-                    Menganalisis dan memantau kinerja situs web, digital ads, dan media sosial dengan di berbagai
-                    platform.
+                    Menganalisis dan memantau kinerja situs web, digital ads, dan media sosial di berbagai platform.
                   </li>
                   <li>
-                    Menyarankan strategi untuk meningkatkan kinerja berdasarkan analisis.
+                      Memberi saran strategis untuk meningkatkan kinerja campaign di setiap plafform.
                   </li>
                   <li>
-                    Terus menyesuaikan performa setiap platform dan situs web untuk mendapatkan hasil yang lebih baik
-                    dengan berkolaborasi dengan web developer, content writer, dan design.
+                    Menjaga dan meningkatkan performa setiap platform untuk mendapatkan hasil yang lebih baik.
                   </li>
                   <li>
-                    Mengoptimalkan performa dengan orientasi terhadap target hasil atau conversion yang dibutuhkan
-                    client/customer.
+                    Mengukur kinerja aktivitas Digital Marketing yang dilakukan dengan berbagai tools (AppsFlyer, Google Analytics, etc).
                   </li>
-                </ul>
-
-                <strong>Terbiasa dalam menganalisis dan mengoptimalkan tool yang terkait dengan digital marketing,
-                  seperti:
-                </strong>
-                <ul class="career-list">
-                  <li>Google Analytics.</li>
-                  <li>Google Ads (Search Ads, GDN Ads, Youtube Ads).</li>
-                  <li>Facebook / Instagram Ads.</li>
-                  <li>Twitter Ads.</li>
-                  <li>Linked In Ads.</li>
-                  <li>Berpengalaman dalam hal memberikan konsultasi/saran/diskusi dengan client/customer.</li>
-                  <li>Mampu menyajikan laporan yang analitis dan terstruktur sesuai kebutuhan client/customer.</li>
-                </ul>
+                  <li>
+                    Mengindetifikasi serta mengevaluasi keywords dan trend yang ada untuk mengoptimalkan campaign.
+                  </li>
+                  <li>
+                    Berpengalaman dalam memberikan konsultasi/saran/diskusi dengan client.
+                  </li>
+                  <li>
+                    Mampu menyajikan laporan yang analitis dan terstruktur sesuai kebutuhan client.
+                  </li>
+                </ul>               
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Requirements</h3>
                 <ul class="career-list">
-                  <li>Mampu berpikir logis & strategis.</li>
-                  <li>Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.</li>
+                  <li>Minimal memiliki 4 tahun pengalaman sebagai Digitial Marketing Specialist.</li>
+                  <li>Memiliki pengalaman bekerja di perusahaan Digital Marketing Agency.</li>
+                  <li>
+                    Berpengalaman dalam mengelola website, social media, dan advertising.
+                  </li>
+                  <li>
+                    Terbiasa dalam menggunakan Google Ads (UAC, SEM, YouTube), Social Media Ads, Google Analytics, AppsFlyer, dan tools lainnya.
+                  </li>
+                  <li>
+                    Familiar dengan best practice serta up to date dengan trend Digital Marketing.
+                  </li>
+                  <li>
+                    Terbiasa dengan SEO dan optimasi web dalam hal teknis dan konten.
+                  </li>
+                  <li>
+                    Memiliki komunikasi dan kemampuan bahasa inggris yag baik.
+                  </li>
                 </ul>
               </div>
               <div class="career-requirement">
