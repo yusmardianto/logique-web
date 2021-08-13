@@ -193,17 +193,7 @@
                     Memiliki komunikasi dan kemampuan bahasa inggris yag baik.
                   </li>
                 </ul>
-              </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Lebih disukai (tidak harus dimiliki)</h3>
-                <ul class="career-list">
-                  <li>Keterampilan programming.</li>
-                  <li>Bahasa Inggris yang komunikatif.</li>
-                  <li>Keterampilan menulis konten.</li>
-                  <li>Keterampilan manajemen media sosial.</li>
-                  <li>Keterampilan desain.</li>
-                </ul>
-              </div>
+              </div>            
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
