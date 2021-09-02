@@ -154,7 +154,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
-                                    <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/web-panin.jpg" class="img-responsive" alt="">
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
                                         <li>保険EC開発制作 (デザイン | プログラミング | CMS | 決済連携）</li>
@@ -163,12 +163,12 @@
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
-                                    <h3>JBA INDONESIA</h3>
+                                <a class="content__item" href="http://www.shinkenjuku.co.id/" target="_blank" rel="noreferrer">
+                                    <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
+                                    <h3>Benesse (Shinkenjuku.co.id)</h3>
                                     <ul class="list-unstyled">
-                                        <li> WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
-                                        <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
+                                        <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
+                                        <li>BtoC, E-Learning, Education</li>
                                     </ul>
                                 </a>
                             </div>
@@ -204,7 +204,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
                                     <h3>JBA INDONESIA</h3>
                                     <ul class="list-unstyled">
                                         <li> WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
@@ -653,6 +653,36 @@
                                         <ul class="list-unstyled">
                                         <li>Web開発 (デザイン | Webサービス開発 | 運用)</li>
                                         <li>Webサービス, レシピ共有, 料理メディア</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                    <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="">
+                                    <h3>JBA INDONESIA</h3>
+                                    <ul class="list-unstyled">
+                                        <li> WEB構築＆運用 (デザイン | CMS | システム構築｜運用 | AWS運用)</li>
+                                        <li>オンラインオークション,高アクセスWEB,DB-WEB,セキュアなWEB,自動車,バイク,金融</li>
+                                    </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://valuemax.co.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/gadai-valuemax.jpg" class="img-responsive" alt="Gadai ValueMax">
+                                    <h3>Gadai ValueMax Indonesia</h3>
+                                        <ul class="list-unstyled">
+                                        <li>(デザイン | コーディング) レスポンシブWeb</li>
+                                        <li>金利計算, コンバージョンOriented, ノンバンク</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://siapvaksinbarengaia.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/siap-vaksin-aia.jpg" class="img-responsive" alt="Siap Vaksin Bareng AIA">
+                                    <h3>Siap Vaksin Bareng AIA</h3>
+                                        <ul class="list-unstyled">
+                                        <li> マイクロサイト制作 (デザイン | コーディング | クラウドサーバー管理 | WhatsApp連携)</li>
+                                        <li>モバイル最適化, キャンペーンページ, e-ポリシー, 保険</li>
                                     </ul>  
                                 </a>
                             </div>

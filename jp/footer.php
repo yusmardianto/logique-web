@@ -18,7 +18,7 @@ footer {
     background-color: #ffcd38;
 }
 
-#PureChatWidget.purechat.purechat-bottom-right {
+/* #PureChatWidget.purechat.purechat-bottom-right {
     right: 20px !important;
     bottom: 20px !important;
 }
@@ -85,7 +85,7 @@ footer {
         left: 45% !important;
         transform: translateX(-50%) !important;
     }
-}
+} */ 
 </style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">
     <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
@@ -245,8 +245,32 @@ footer {
         </div>
     </div>
 </footer>
-
-<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
+<div class="floating-wa-button" >
+    <?php 
+        if (strpos($_SERVER['REQUEST_URI'], "career") !== false){
+            $waNumber = '6282260567856';
+            }else{
+            $waNumber = '62811870321';
+            }
+    ?>
+    <a href="https://wa.me/<?=$waNumber?>" class="wa-button" target="_blank"><img src="/img/icon/icon-logique-wa.svg" width="80" height="80"></a>
+    <style>
+        .floating-wa-button{
+            border-radius: 50%;
+            position:fixed; 
+            bottom : 10%; 
+            right:10px;
+            transition: all 0.15s ease-in-out;
+            z-index: 9999;
+            }
+            .floating-wa-button:hover{
+            box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -webkit-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -moz-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            }
+    </style> 
+</div>
+<!-- <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script> -->
 
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
@@ -283,7 +307,7 @@ $('.map-container')
     var updatedYear = new Date().getFullYear();
     $('.copyrightYear').html(updatedYear);
 </script>
-
+<?php /*
 <!-- override purechat styling -->
 <script>
     $(function() {
@@ -304,7 +328,7 @@ $('.map-container')
             }, 50);
         });
     })
-</script>
+</script> */ ?>
 
 <!-- AD POPUP -->
 <!-- <script>

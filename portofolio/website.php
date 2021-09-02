@@ -193,7 +193,7 @@
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
-                                        <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <img src="/img/portfolio/update/web-panin.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>Panin Life Dai-ichi</h3>
                                         <ul class="list-unstyled">
                                             <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
@@ -202,12 +202,12 @@
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                        <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
-                                        <h3>JBA INDONESIA</h3>
+                                    <a class="content__item" href="http://www.shinkenjuku.co.id/" target="_blank" rel="noreferrer">
+                                        <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
+                                        <h3>Benesse (Shinkenjuku.co.id)</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                            <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
+                                            <li>BtoC, E-Learning, Education</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -243,7 +243,7 @@
                                 </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                        <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>JBA INDONESIA</h3>
                                         <ul class="list-unstyled">
                                             <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
@@ -605,7 +605,36 @@
                                         </ul>  
                                     </a>
                                 </div>
-                                
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
+                                        <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>JBA INDONESIA</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
+                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="https://valuemax.co.id/" target="_blank" class="content__item">
+                                        <img src="/img/portfolio/update/gadai-valuemax.jpg" class="img-responsive" alt="Gadai ValueMax">
+                                        <h3>Gadai ValueMax Indonesia</h3>
+                                         <ul class="list-unstyled">
+                                            <li>Corporate Web Development (Design | Coding)</li>
+                                            <li>Responsive Design, Calculator, Inquiry Form, Pawn Business</li>
+                                        </ul>  
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="https://siapvaksinbarengaia.com/" target="_blank" class="content__item">
+                                        <img src="/img/portfolio/update/siap-vaksin-aia.jpg" class="img-responsive" alt="Siap Vaksin Bareng AIA">
+                                        <h3>Siap Vaksin Bareng AIA</h3>
+                                         <ul class="list-unstyled">
+                                            <li>Microsite Creation (Design | Coding | Hosting | WhatsApp Integration)</li>
+                                            <li>Mobile Optimized, Campaign Page, E-Policy, Insurance</li>
+                                        </ul>  
+                                    </a>
+                                </div>
                             </div>
                             <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
                             <div class="flex__row">
