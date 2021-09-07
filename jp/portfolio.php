@@ -402,7 +402,7 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Weeo Hino Connect</h3>
+                                        <h3>Weeo Gazelle App</h3>
                                     </div>
                                 </div>
                             </div>

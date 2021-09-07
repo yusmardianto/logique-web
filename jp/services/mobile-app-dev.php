@@ -381,7 +381,7 @@ if(isset($_POST['submitted']))
                                         <div class="col-sm-7">
                                             <div class="caption-portfolio">
                                                 <div class="arrow-left"></div>
-                                                <h2 class="font-28">Weeo Hino Connect</h2><br />
+                                                <h2 class="font-28">Weeo Gazelle App</h2><br />
                                                 <div>
                                                     <!-- Application that helps international spa managers to improve services and
                                                     relationships with customers. -->
