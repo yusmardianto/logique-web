@@ -217,7 +217,7 @@ $('.map-container').click(function(){$(this).find('iframe').addClass('clicked')}
 </script>
 <?php /*
 <!-- override purechat styling -->
-<script>
+<!-- <script>
     $(function() {
         purechatApi.on('chatbox:ready', function (args) {
             $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
@@ -236,7 +236,7 @@ $('.map-container').click(function(){$(this).find('iframe').addClass('clicked')}
             }, 50);
         });
     })
-</script> */ ?>
+</script> -->
 
 <!-- AD POPUP -->
 <!-- <script>

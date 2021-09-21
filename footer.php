@@ -1,5 +1,5 @@
-<?php /* <style>
-.tahap-pemesanan-2 { background-color: #ffcd38; }
+<style>
+/* .tahap-pemesanan-2 { background-color: #ffcd38; }
 #PureChatWidget.purechat.purechat-bottom-right {  right: 20px !important; bottom: 20px !important; }
 #PureChatWidget { transition: all ease-in-out 0.25s !important; }
 #PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {  min-height: 55px !important; }
@@ -18,8 +18,8 @@
 #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse { bottom: 70px !important; right: unset !important; left: 45% !important; transform: translateX(-50%) !important; }
 }
 @media (max-width: 486px) {
-}
-</style> */?>
+} */
+</style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">  
     <!-- End Twitter universal website tag code -->
     <div class="container__">
@@ -197,9 +197,8 @@
             }
     </style> 
 </div>
- 
   <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
-<?php /*  <script type='text/javascript' data-cfasync='false'>
+<!-- <script type='text/javascript' data-cfasync='false'>
     window.purechatApi = {  l: [],  t: [],  on: function() {   this.l.push(arguments); }  };
     (function() {
         var done = false;
@@ -215,8 +214,7 @@
                     f: true
                 });
                 done = true; } };  })();
-    </script>  
-    */ ?>
+    </script> -->
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -296,8 +294,8 @@ $('.map-container')
     $('.copyrightYear').html(updatedYear);
 </script>
 
-<!-- override purechat styling 
-<script>
+<!-- override purechat styling -->
+<!-- <script>
     $(function() {
         purechatApi.on('chatbox:ready', function (args) {
             $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
@@ -316,7 +314,7 @@ $('.map-container')
             }, 50);
         });
     })
-</script>-->
+</script> -->
 
 <!-- AD POPUP -->
 <!-- <script>

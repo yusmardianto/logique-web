@@ -85,7 +85,7 @@ footer {
         left: 45% !important;
         transform: translateX(-50%) !important;
     }
-} */ 
+} */
 </style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">
     <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
@@ -307,8 +307,8 @@ $('.map-container')
     var updatedYear = new Date().getFullYear();
     $('.copyrightYear').html(updatedYear);
 </script>
-<?php /*
-<!-- override purechat styling -->
+
+<!-- override purechat styling
 <script>
     $(function() {
         purechatApi.on('chatbox:ready', function (args) {
@@ -328,7 +328,7 @@ $('.map-container')
             }, 50);
         });
     })
-</script> */ ?>
+</script> -->
 
 <!-- AD POPUP -->
 <!-- <script>
