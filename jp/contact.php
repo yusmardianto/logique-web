@@ -824,13 +824,14 @@ if(isset($_POST['submitted']))
                                     rel="noreferrer"><i class="fa fa-whatsapp" style="color:#777; font-size: xx-large;"></i></a>
                             </div>
                             <br>
-                            <?php if(isset($msg))
-						{
-							echo $msg;
-						}
-						?>
-                            <br>
-                            <div class="" style="margin-top: 3%;">
+                            <div class="col-sm-8 col-sm-offset-2" style="margin-top: 10px;">
+                                <?php if(isset($msg))
+                                    {
+                                        echo $msg;
+                                    }
+                                ?>
+                            </div>
+                            <div class="col-xs-12">
                                 <form class="contactform mt-12" id="moresco-contactform" role="form" name='myForm'
                                     onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>'
                                     method='post' accept-charset='UTF-8'>

@@ -690,7 +690,7 @@ if (isset($_POST['submitted'])) {
                 <div class="container__" style="padding-top:0;padding-bottom:0">
                     <div class="row" style="height: fit-content;">
                         <div class="col-sm-6 col-xs-4">
-                            <img class="img-vector" src="img/vector_smart_object.png" alt="" style="">
+                            <img class="img-vector" src="img/vector_smart_object.png" alt="">
                         </div>
                         <div class="col-md-4 col-sm-5" style="padding: 32px 0;">
                             <dt class="d-title" style="color: #fff; text-align: left;">
@@ -772,12 +772,14 @@ if (isset($_POST['submitted'])) {
                                 <a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank" aria-label="WhatsApp" rel="noreferrer"><i class="fa fa-whatsapp" style="color:#777; font-size: xx-large;"></i></a>
                             </div>
                             <br>
-                            <?php if (isset($msg)) {
-                                echo $msg;
-                            }
-                            ?>
-                            <br>
-                            <div class="" style="margin-top: 3%;">
+                            <div class="col-sm-8 col-sm-offset-2" style="margin-top: 10px;">
+                                <?php if(isset($msg))
+                                    {
+                                        echo $msg;
+                                    }
+                                ?>
+                            </div>
+                            <div class="col-xs-12">
                                 <form class="contactform" id="moresco-contactform" role="form" name='myForm' onsubmit='return validateForm()' action='<?php echo $formproc->GetSelfScript(); ?>' method='post' accept-charset='UTF-8'>
                                     <input type='hidden' name='submitted' id='submitted' value='1' />
                                     <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>' value='<?php echo $formproc->GetFormIDInputValue(); ?>' />
