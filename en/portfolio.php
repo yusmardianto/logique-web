@@ -322,19 +322,19 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
                                     <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="">
-                                    <h3>JBA INDONESIA</h3>
+                                    <h3>JBA Indonesia</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Dev & Operation (Design | CMS | System | Operation | AWS)</li>
-                                        <li>Online Auction, Enterprise-WEB, DB-WEB, secure WEB, Automotive, Financial</li>
+                                        <li>Web Dev & Operation (Design | Custom made CMS | Maintenance)</li>
+                                        <li>Enterprise Web, DB-connected, Realtime bidding, Automotive, Car Auction</li>
                                     </ul>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="">
-                                    <h3>JTrust Bank (Re-design)</h3>
+                                    <h3>JTrust Bank</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Re-Design (Design | Coding | CMS Integration)</li>
+                                        <li>Web Re-Design / Growth hack (Design | Coding | Maintenance)</li>
                                         <li>Mobile Optimized, Multi-bahasa, CMS, Bank</li>
                                     </ul>
                                 </a>
@@ -361,8 +361,8 @@
                                         </picture>
                                         <h3>KIIC</h3>   
                                         <ul class="list-unstyled">
-                                            <li> Web Re-design (Design | CMS | Web Analysis | AWS) </li>
-                                            <li>BtoB Web,multi-language, Industrial Park </li>
+                                            <li>Web Re-make (Design | Coding | Maintenance | SEO)</li>
+                                            <li>BtoB Web, Multi-language, CMS, Industrial Park</li>
                                             </ul>
                                     </div>
                                 </a>
@@ -372,8 +372,8 @@
                                     <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="">
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Company Web, Mobile Optimized, Automotive, Car Rental</li>
+                                        <li>Web Development (Design | Coding)</li>
+                                        <li>Corporate Web, Service Web, Automotive, Car Rental</li>
                                     </ul>
                                 </a>
                             </div>

@@ -321,7 +321,7 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
                                     <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
-                                    <h3>JBA INDONESIA</h3>
+                                    <h3>JBA Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
                                         <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
@@ -331,10 +331,10 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="" loading="lazy" >
-                                    <h3>JTrust Bank (Re-design)</h3>
+                                    <h3>JTrust Bank</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                        <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
+                                        <li>Desain Ulang Web / Growth Hack (Design | Coding | Maintenance)</li>
+                                        <li>Optimasi Seluler, Multi-bahasa, CMS, Bank</li>
                                     </ul>
                                 </a>
                             </div>
@@ -347,8 +347,8 @@
                                         </picture>
                                         <h3>KIIC</h3>   
                                         <ul class="list-unstyled">
-                                            <li> Web Re-design (Design | CMS | Web Analysis | AWS) </li>
-                                            <li>BtoB Web,multi-language, Industrial Park </li>
+                                            <li>Pengambangan Ulang Web (Design | Coding | Maintenance | SEO)</li>
+                                            <li>Web BtoB, Multi-bahasa, CMS, Taman Industri</li>
                                          </ul>
                                     </div>
                                 </a>
@@ -358,8 +358,8 @@
                                     <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="" loading="lazy" >
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                        <li>Pengembangan Web (Design | Coding)</li>
+                                        <li>Web Perusahaan, Web Layanan, Otomotif, Penyewaan Mobil</li>
                                     </ul>
                                 </a>
                             </div>
