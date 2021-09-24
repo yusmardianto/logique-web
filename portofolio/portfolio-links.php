@@ -78,7 +78,7 @@
             <div class="text-center">
               <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/case-study/">
                 <img class="img-responsive" src="/img/career/bg-img/bg-contact.png" alt="Kontak Kami">
-                <span>See Case Studies</span>
+                <span>Lihat Studi Kasus</span>
               </a>
             </div>
           </div>
@@ -87,7 +87,7 @@
               <a class="btn-banner-pattern mb--60" style="max-width: 350px;" href="/hubungi-kami.php"
                 target="_blank" rel="noreferrer" onclick="ga('send', 'event', 'Button-Hubungi-Logique-Portofolio', 'Action-Click', 'Button-Hubungi-Logique-Portofolio-Label');">
                 <img class="img-responsive" src="/img/career/bg-img/bg-lowongan.png" alt="Lamar Pekerjaan Sekarang">
-                <span>Contact us</span>
+                <span>Hubungi Kami</span>
               </a>
             </div>
           </div>

@@ -211,7 +211,7 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                                     <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">
-                                    <h3>JNTO Indonesia</h3>
+                                    <h3>JNTO Jakarta</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Re-make & Operation (Design | Operation | SEO)</li>
                                         <li>Japan National Tourism Organization, Travel, Public Sector</li>
