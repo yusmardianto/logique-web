@@ -206,18 +206,18 @@
                                         <img src="/img/portfolio/update/benesse.jpg" class="img-responsive" alt="">
                                         <h3>Benesse (Shinkenjuku.co.id)</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Design (Design | Development | Payment Gateway | Server Management)</li>
-                                            <li>BtoC, E-Learning, Education</li>
+                                            <li>Desain Website (Design | Development | Payment Gateway | Server Management)</li>
+                                            <li>BTC, E-Learning, Pendidikan</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="" loading="lazy" >
-                                        <h3>JTrust Bank (Re-design)</h3>
+                                        <h3>JTrust Bank</h3>
                                         <ul class="list-unstyled">
-                                            <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                            <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
+                                            <li>Desain Ulang Web / Growth Hack (Design | Coding | Maintenance)</li>
+                                            <li>Optimasi Seluler, Multi-bahasa, CMS, Bank</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -226,8 +226,8 @@
                                         <img src="/img/portfolio/kiic.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>KIIC</h3>
                                         <ul class="list-unstyled">
-                                            <li> Web Re-design (Design | CMS | Web Analysis | AWS) </li>
-                                            <li>BtoB Web,multi-language, Industrial Park </li>
+                                            <li>Pengambangan Ulang Web (Design | Coding | Maintenance | SEO)</li>
+                                            <li>Web BtoB, Multi-bahasa, CMS, Taman Industri</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -236,68 +236,49 @@
                                         <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="" loading="lazy" >
                                         <h3>Mobirent</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Design (Design | Coding | Deployment)</li>
-                                            <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                            <li>Pengembangan Web (Design | Coding)</li>
+                                            <li>Web Perusahaan, Web Layanan, Otomotif, Penyewaan Mobil</li>
                                         </ul>
                                     </a>
                                 </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
                                         <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
-                                        <h3>JBA INDONESIA</h3>
+                                        <h3>JBA Indonesia</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                            <li>Pengembangan & Pengoperasian Web (Design | Custom made CMS | Maintenance)</li>
+                                            <li>Web Perusahaan, Terhubung dengan DB, Bidding secara Real Time, Otomotif, Lelang Mobil</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/jnto.jpg" class="img-responsive" alt="">
-                                        <h3>JNTO Indonesia</h3>
+                                        <h3>JNTO Jakarta</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Design (Design | Coding | Deployment)</li>
-                                            <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                            <li>Pengembangan Ulang & Pengoperasian Web (Design | Operation | SEO)</li>
+                                            <li>Organisasi Pariwisata Nasional Jepang, Perjalanan, Sektor Publik</li>
                                         </ul>
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://jcinema2018.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/web-film.jpg" class="img-responsive" alt="Film Festival">
-                                        <h3>Film Festival</h3>
+                                        <h3>Japanese Film Festival</h3>
                                         <ul class="list-unstyled">
-                                            <li>Event / Schedule Web Creation (Design | Coding)</li>
-                                            <li>Optimasi Mobile, Multi-Bahasa, Event</li>
+                                            <li>Pengembangan Web & Manajemen Server (Design | Coding)</li>
+                                            <li>Website Multi-bahasa, Acara, Hiburan</li>
                                         </ul>
                                     </a>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/web-bisnissaya.jpg" class="img-responsive" alt="BisnisSaya.com (MLM E-Commerce)">
-                                        <h3>BisnisSaya.com (MLM E-Commerce)</h3>
-                                        <ul class="list-unstyled">
-                                            <li>Pengembangan E-Commerce (Design | E-Commerce | CMS | Maintenance)</li>
-                                            <li>E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing</li>
-                                        </ul>
-                                    </a>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="https://www.otomart.id/" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/web-otomart.jpg" class="img-responsive" alt="OTOmart (used-car market place)">
-                                        <h3>OTOmart (used-car market place)</h3>
-                                        <ul class="list-unstyled">
-                                            <li>Pengembangan dan Pengoperasian WEB (Design | CMS | Sistem | Pembuatan Konten | Operasional | AWS)</li>
-                                            <li>CMS, Jual-Beli Mobil Bekas, DB-WEB, Optimasi Mobile, Layanan WEB, Otomotif</li>
-                                        </ul>
-                                    </a>
-                                </div>
+                               
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://sentraya.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/web-sentraya.jpg" class="img-responsive" alt="Menara Sentraya">
                                         <h3>Menara Sentraya</h3>
                                         <ul class="list-unstyled">
-                                            <li>WEB Development (Design | Coding | CMS)</li>
-                                            <li>Optimasi Mobile, CMS, PHP, RealEstate, Property</li>
+                                            <li>Pengembangan Web (Design | Coding | CMS)</li>
+                                            <li>CMS Custom, PHP, Manajemen Gedung & Properti</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -306,8 +287,8 @@
                                         <img src="/img/portfolio/update/web-jaif.jpg" class="img-responsive" alt="Japan Asean Integration Fund">
                                         <h3>Japan Asean Integration Fund</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | Coding | Operasional)</li>
-                                            <li>Optimasi Mobile, Keamanan WEB, Publik</li>
+                                            <li>Pengembangan & Pengoperasian Web (Design | Coding | CMS)</li>
+                                            <li>CSR, Negara-negara ASEAN, Sektor publik</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -316,8 +297,8 @@
                                         <img src="/img/portfolio/update/web-shinoken.jpg" class="img-responsive" alt="Shinoken Asset Management">
                                         <h3>Shinoken Asset Management</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengembangan WEB (Design | Coding | AWS)</li>
-                                            <li>Multi-bahasa, Mobile, WEB Perusahaan, AWS, Perumahan</li>
+                                            <li>Desain & Pengembangan Web (Design | Coding | AWS)</li>
+                                            <li>Multi-bahasa, Responsif, Real Estate, Manajemen Aset</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -326,8 +307,8 @@
                                         <img src="/img/portfolio/update/web-hoyu.jpg" class="img-responsive" alt="Hoyu Indonesia">
                                         <h3>Hoyu Indonesia</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengembangan WEB (Design | Coding | Operation)</li>
-                                            <li>Multi-bahasa, Mobile, Manufaktur, Kecantikan</li>
+                                            <li>Pengembangan & Pengoperasian Web (Design | Coding | Maintenance)</li>
+                                            <li>Website Perusahaan, Responsif, Kecantikan, Produk Perawatan Rambut</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -336,8 +317,8 @@
                                         <img src="/img/portfolio/update/web-shi.jpg" class="img-responsive" alt="Sumitomo Heavy">
                                         <h3>Sumitomo Heavy</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Development (Design | Coding | Integrasi CMS)</li>
-                                            <li>Mobile Optimized, CMS, Corporate web</li>
+                                            <li>Pengembangan & Pengoperasian Web (Design | Coding | CMS)</li>
+                                            <li>Optimasi Seluler, CMS, Website Perusahaan, Alat Berat</li>
                                         </ul>
                                     </a>
                                 </div> 
@@ -346,38 +327,18 @@
                                         <img src="/img/portfolio/update/web-caroline.jpg" class="img-responsive" alt="Caroline">
                                         <h3>Caroline</h3>
                                         <ul class="list-unstyled">
-                                            <li>Car Matching Web Development (Design | Coding | System)</li>
-                                            <li>Web System, Market Place, Automotive, Web service</li>
+                                            <li>Pengembangan Pasar Mobil (Design | System Development)</li>
+                                            <li>Sistem Web, Sistem DB, Market Place, Otomotif, Layanan Website</li>
                                         </ul>
                                     </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item">
-                                        <img src="/img/portfolio/update/web-ajapan.jpg" class="img-responsive" alt="aJapan Campaign Page">
-                                        <h3>aJapan Campaign Page</h3>
-                                        <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan Kampanye Microsite (Design | Coding | Operation)</li>
-                                            <li>Multi-bahasa, Mobile, Kampanye</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer">
-                                        <img src="/img/portfolio/update/web-symposium.jpg" class="img-responsive" alt="Symposium Application LP">
-                                        <h3>Symposium Application LP</h3>
-                                        <ul class="list-unstyled">
-                                            <li>Pembuatan Form Aplikasi (Design | PHP Form)</li>
-                                            <li>Multi-bahasa, Mobile, Form Aplikasi, Publik</li>
-                                        </ul>
-                                    </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="http://maisonderes.com/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/web-mdr.jpg" class="img-responsive" alt="Maison de Res (Condominium Portal)">
-                                        <h3>Maison de Res (Condominium Portal)</h3>
+                                        <h3>Maison de Res</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | CMS | Content Creation | Operation)</li>
-                                            <li>CMS, Portal, Mobile, Perumahan, Layanan WEB</li>
+                                            <li>Pengembangan Web & Sistem (Design | System | DB | Content Creation)</li>
+                                            <li>CMS, DB-Web, Pasar Properti, Portal Kondominium Mewah Indonesia, Layanan Website</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -406,8 +367,8 @@
                                         <img src="/img/portfolio/update/web-moresco.jpg" class="img-responsive" alt="MORESCO INDONESIA">
                                         <h3>MORESCO INDONESIA</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengembangan WEB (Design | Coding | Maintenance | WEB Server)</li>
-                                            <li>Multi-language, Mobile, Manufaktur</li>
+                                            <li>Pengembangan Web (Design | Coding | Maintenance | Web Server)</li>
+                                            <li>Multi-bahasa , Mobile, Manufaktur</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -416,8 +377,8 @@
                                         <img src="/img/portfolio/update/fuji-seimitsu.jpg" class="img-responsive" alt="FUJI SEIMITSU INDONESIA">
                                         <h3>FUJI SEIMITSU INDONESIA</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengembangan WEB (Design | Coding | WEB Server)</li>
-                                            <li>Multi-language, Mobile, Manufaktur</li>
+                                            <li>Pengembangan Web (Design | Coding | WEB Server)</li>
+                                            <li>Multi-bahasa, Mobile, Manufaktur</li>
                                         </ul>
                                     </div> 
                                 </div>
@@ -502,19 +463,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <div class="content__item">
-                                        <picture>
-                                            <source srcset="/img/portfolio/update/web-panin.webp" type="image/webp">
-                                            <img src="/img/portfolio/update/web-panin.jpg" class="img-responsive" alt="Panin Dai-ichi">
-                                        </picture>
-                                        <h3>Panin Dai-ichi</h3>
-                                        <ul class="list-unstyled">
-                                            <li>E-Commerce System Extension (CMS Development | Dynamic Insurance Products)</li>
-                                            <li>Laravel, Insurance </li>
-                                        </ul>
-                                    </div>
-                                </div>
+                         
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://prolinefinance.co.id/" target="_blank" rel="noreferrer">
                                         <img src="/img/portfolio/update/web-proline.jpg" class="img-responsive" alt="PROLINE FINANCE">
@@ -530,8 +479,8 @@
                                         <img src="/img/portfolio/update/web-premiumgaransi.jpg" class="img-responsive" alt="Premium Garansi">
                                         <h3>Premium-Garansi.co.id</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Page Creation (Coding | Integrasi CMS)</li>
-                                            <li>Mobile Optimized, CMS, Corporate web</li>
+                                            <li>Pengembangan Halaman Web (Coding | Integrasi CMS)</li>
+                                            <li>Optimasi Seluler, CMS, Website Perusahaan</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -540,8 +489,8 @@
                                         <img src="/img/portfolio/update/web-ligohome.jpg" class="img-responsive" alt="LIGO Home">
                                         <h3>LIGO-Home</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Page Creation (Design | Coding | Integrasi CMS)</li>
-                                            <li>Mobile Optimized, CMS, Corporate web</li>
+                                            <li>Pengembangan Halaman Web (Design | Coding | Integrasi CMS)</li>
+                                            <li>Optimasi Seluler, CMS, Website Perusahaan</li>
                                         </ul>
                                     </div>
                                 </div> 
@@ -550,8 +499,8 @@
                                         <img src="/img/portfolio/update/web-indonesea.jpg" class="img-responsive" alt="Indonesea">
                                         <h3>Indonesea</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Development (Design | CMS | Coding)</li>
-                                            <li>CMS, Booking system, Travel & Leisure, BtoC Service</li>
+                                            <li>Pengembangan Web (Design | CMS | Coding)</li>
+                                            <li>CMS, Sistem Pemesanan, Travel & Leisure, Layanan BtoC</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -570,14 +519,14 @@
                                         <img src="/img/portfolio/update/web-benefit-one.jpg" class="img-responsive" alt="Benefit One">
                                         <h3>Benefit One Website Remake</h3>
                                         <ul class="list-unstyled">
-                                            <li>Web Re-make (Design | CMS | Coding)</li>
-                                            <li>CMS, Mobile Optimized, BtoB Service</li>
+                                            <li>Pengembangan Ulang Web (Design | CMS | Coding)</li>
+                                            <li>CMS, Optimasi Seluler, Layanan BtoB</li>
                                         </ul>
                                     </a>
                                 </div> 
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a href="https://tokoparts.com/home" target="_blank" class="content__item">
-                                        <img src="/img/portfolio/update/tokopart-2.jpg" class="img-responsive" alt="Tokopart">
+                                        <img src="/img/portfolio/update/tokoparts.png" class="img-responsive" alt="Tokopart">
                                         <h3>TOKOPARTS</h3>
                                          <ul class="list-unstyled">
                                             <li>E-Commerce Dev (Design | System Development | Payment Gateway) </li>
@@ -600,18 +549,18 @@
                                         <img src="/img/portfolio/update/thehealthybelly.jpg" class="img-responsive" alt="Benefit One">
                                         <h3>The Healthy Belly</h3>
                                          <ul class="list-unstyled">
-                                            <li>Web Page Creation (Coding | Integrasi CMS)</li>
-                                            <li>CMS, Membership, Food, Recipes</li>
+                                            <li>Pengemabangan Halaman Web (Coding | Integrasi CMS)</li>
+                                            <li>CMS, Keanggotaan, Makanan, Resep</li>
                                         </ul>  
                                     </a>
                                 </div>
                                 <div class="col-md-4 col-sm-6 col-xs-12">
-                                    <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                        <img src="/img/portfolio/update/jba-old.jpg" class="img-responsive" alt="" loading="lazy" >
-                                        <h3>JBA INDONESIA</h3>
+                                    <a class="content__item" href="https://www.gakken-classroom-global.com/" target="_blank">
+                                        <img src="/img/portfolio/update/gakken.png" class="img-responsive" alt="" loading="lazy" >
+                                        <h3>Gakken Classroom Global</h3>
                                         <ul class="list-unstyled">
-                                            <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
-                                            <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
+                                            <li>Pengembangan Web (Coding | Maintenance)</li>
+                                            <li>Web Multi-bahasa, Responsif, Edukasi</li>
                                         </ul>
                                     </a>
                                 </div>
@@ -620,8 +569,8 @@
                                         <img src="/img/portfolio/update/gadai-valuemax.jpg" class="img-responsive" alt="Gadai ValueMax">
                                         <h3>Gadai ValueMax Indonesia</h3>
                                          <ul class="list-unstyled">
-                                            <li>Corporate Web Development (Design | Coding)</li>
-                                            <li>Responsive Design, Calculator, Inquiry Form, Pawn Business</li>
+                                            <li>Pengembangan Web Perusahaan (Design | Coding)</li>
+                                            <li>Desain Responsif, Kalkulator, Formulir Permintaan, Bisnis Gadai</li>
                                         </ul>  
                                     </a>
                                 </div>
@@ -630,13 +579,14 @@
                                         <img src="/img/portfolio/update/siap-vaksin-aia.jpg" class="img-responsive" alt="Siap Vaksin Bareng AIA">
                                         <h3>Siap Vaksin Bareng AIA</h3>
                                          <ul class="list-unstyled">
-                                            <li>Microsite Creation (Design | Coding | Hosting | WhatsApp Integration)</li>
-                                            <li>Mobile Optimized, Campaign Page, E-Policy, Insurance</li>
+                                            <li>Pengembangan Situs Mikro (Design | Coding | Hosting | WhatsApp Integration)</li>
+                                            <li>Optimasi Seluler, Halaman Kampanye, Kebijakan Elektronik, Asuransi</li>
                                         </ul>  
                                     </a>
                                 </div>
                             </div>
-                            <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
+
+                            <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Lainnya</h3>
                             <div class="flex__row">
                                 <div class="col-md-4 col-sm-6 col-xs-12">
                                     <a class="content__item" href="https://www.jnto.or.id/berpetualangdihokkaido" target="_blank" rel="noreferrer">
@@ -1018,6 +968,43 @@
                                         </ul>
                                     </a>
                                 </div>
+
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="https://bisnissaya.com" target="_blank" rel="noreferrer"> 
+                                        <h3>BisnisSaya.com (MLM E-Commerce)</h3>
+                                        <ul class="list-unstyled">
+                                            <li>E-Commerce Development (Design | E-Commerce | CMS | Maintenance)</li>
+                                            <li>E-Commerce, CMS, Payment Gateway, Multi-Level-Marketing</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="https://www.otomart.id/" target="_blank" rel="noreferrer"> 
+                                        <h3>OTOmart (used-car market place)</h3>
+                                        <ul class="list-unstyled">
+                                            <li>WEB Dev & Operation (Design | CMS | System | Content Creation | Operation | AWS)</li>
+                                            <li>CMS, Market Place, DB-WEB, Mobile, WEB service, Automobil</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="#" target="_blank" rel="noreferrer"> 
+                                        <h3>aJapan Campaign Page</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Campaign Microsite Dev & Operation (Design | Coding | Operation)</li>
+                                            <li>Multi-language, Mobile, Campaign</li>
+                                        </ul>
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a class="content__item" href="https://www.60jpid.com/symposium.php" target="_blank" rel="noreferrer"> 
+                                        <h3>Symposium Application LP</h3>
+                                        <ul class="list-unstyled">
+                                            <li>Application Form Creation (Design | PHP Form)</li>
+                                            <li>Multi-language,Mobile,Application Form,Public</li>
+                                        </ul>
+                                    </a>
+                                </div>
                             </div>
 
                             <?php /*
@@ -1248,7 +1235,7 @@
                             </div> */ ?>
                         </div>
                         <div class="text-center">
-                            <a href="#" class="btn btn--full">Butuh Website yang Menarik untuk Meraih Banyak Pengunjung?</a>
+                            <a href="#" class="btn btn--full">Tertarik untuk mendapatkan lebih banyak pelanggan?<br><small>Kami dapat mengembangkan web yang lebih baik untuk Anda</small></a>
                         </div>
                     </div>
                 </div>
