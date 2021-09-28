@@ -164,7 +164,7 @@
                                     <h3>JTrust Bank</h3>
                                     <ul class="list-unstyled">
                                         <li>Web Re-Design / Growth hack (Design | Coding | Maintenance) </li>
-                                        <li>Mobile Optimized, Multi-lanjuage, CMS, Bank</li>
+                                        <li>Mobile Optimized, Multi-language, CMS, Bank</li>
                                     </ul>
                                 </a>
                             </div>
