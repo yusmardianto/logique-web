@@ -428,8 +428,8 @@
                                         <img src="/img/portfolio/update/web-royal-amanda.jpg" class="img-responsive" alt="Royal Armada">
                                         <h3>Royal Armada</h3>
                                         <ul class="list-unstyled">
-                                            <li></li>
-                                            <li></li>
+                                            <li>Pengembangan E-Commerce (Design | Coding)</li>
+                                            <li>Shopping EC, pakaian</li>
                                         </ul>
                                     </a>
                                 </div>
