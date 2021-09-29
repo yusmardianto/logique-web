@@ -158,6 +158,33 @@
                   <li>Lebih disukai jika mempunyai pengalaman low code/no code development </li>
                 </ul>
                 <p>Jika Anda memiliki skill diatas maka Anda adalah talenta yang cocok untuk bergabung dan berkembang bersama kami.</p>
+                <br>
+                <div class="row">
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/1.svg" alt="Logique" style="max-height:46px;">
+                  </div>
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/2.png" alt="Logique" style="max-height:46px;">
+                  </div>
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/3.png" alt="Logique" style="max-height:46px;">
+                  </div>
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/4.png" alt="Logique" style="max-height:46px;margin-top: 15px;">
+                  </div>
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/5.png" alt="Logique" style="max-height:46px;margin-top: 15px;">
+                  </div>
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/6.jpg" alt="Logique" style="max-height:46px;margin-top: 15px;">
+                  </div>
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/7.png" alt="Logique" style="max-height:46px;margin-top: 15px;">
+                  </div>
+                  <div class="col-xs-4 col-sm-4 text-center">
+                    <img src="/img/career/mobile/8.png" alt="Logique" style="max-height:46px;margin-top: 15px;">
+                  </div>
+                </div>
               </div>
               
             </div>
