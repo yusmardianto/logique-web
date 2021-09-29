@@ -142,64 +142,39 @@
                 <p>Mobile Developer berperan dalam menghasilkan aplikasi mobile yang berkualitas dan memenuhi kebutuhan klien. Secara umum akan intensif berkolaborasi dengan tim Backend Developer untuk menemukan solusi teknis dan tim Design untuk menciptakan UI/UX yang baik.</p>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
-                <ul class="career-list">
-                  <li>Mengembangkan dan menghasilkan aplikasi mobile untuk platform Android maupun iOS</li>
-                  <li>Mendukung seluruh aspek dalam pembuatan aplikasi mobile (konsep, desain, pengujian, deployment)</li>
-                  <li>Menganalisis dan mengumpulkan kebutuhan dari klien serta memberikan saran dan solusi dalam mengembangkan aplikasi mobile</li>
-                  <li>Melakukan identifikasi malfungsi/debugging dan bug fixing untuk mengoptimalkan kinerja aplikasi mobile</li>
-                  <li>Mengoptimalkan desain interface untuk meningkatkan user experience yang lebih baik</li>
-                  <li>Tetap up to date dengan teknologi terbaru dan mampu memberikan solusi terhadap kebutuhan projek </li>
-                  <li>Mampu bekerja dalam tim dan mempunyai Analisa yang baik</li>
+                <h3 class="section-title">Talenta Yang Kami Cari</h3>
+                <p>Logique mencari seorang yang memiliki pengalaman bekerja dalam sebuah tim pengembang aplikasi mobile yang kreatif dan inovatif. Untuk mencapai hasil yang baik tentunya kami mencari mobile developer dengan skill.</p>
+                <br>
+                <ul class="career-list" style="list-style-type:decimal;">
+                  <li>Memahami konsep OOP (Object Oriented Programming) dengan baik</li>
+                  <li>Menguasai teknis debugging yang efektif</li>
+                  <li>Mampu menghasilkan aplikasi dengan performance yang baik</li>
+                  <li>Menguasai bahasa pemrograman Java/Kotlin untuk mengembangkan aplikasi native Android dan Swift untuk mengembangkan aplikasi native iOS </li>
+                  <li>Menguasai salah satu Mobile Programming Hybrid (React Native/Flutter/Ionic/etc)</li>
+                  <li>Mahir dalam mengimplementasi/consume REST API</li>
+                  <li>Mahir mengimplementasi tampilan UI yang responsive sesuai design</li>
+                  <li>Lebih disukai jika mempunyai pengalaman implementasi CI/CD</li>
+                  <li>Lebih disukai jika mempunyai pengalaman implementasi Real Time Data</li>
+                  <li>Lebih disukai jika mempunyai pengalaman low code/no code development </li>
                 </ul>
-              </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Requirement</h3>
-                <ul class="career-list">
-                  <li>Berpengalaman min. 2 tahun sebagai pengembang Mobile Application (iOS atau Android)</li>
-                  <li>Menguasai bahasa pemrograman Java/Kotlin untuk mengembangkan aplikasi Android dan swift untuk mengembangkan aplikasi iOS</li>
-                  <li>Menguasai konsep OOP (Object Oriented Programming) </li>
-                  <li>Berpengalaman dalam memakai Library dan API pihak ketiga</li>
-                  <li>Berpengalaman dalam Mobile Programming Hybrid seperti React Native atau Flutter</li>
-                  <li>Untuk Android berpengalaman dengan Jet Pack & Design Pattern MVVM (Model View View Model)</li>
-                  <li>Untuk Framework Flutter berpengalaman dengan (salah satu) Provider, Getx atau Bloc</li>
-                  <li>Untuk React Native berpengalaman dengan (salah satu) Hooks, Redux, Mobx</li>
-                  <li>Familiar dengan GIT</li>
-                </ul>
-              </div>
-
-            </div>
-            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
-              <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>Berpengalaman dalam teknologi:</li>
-                  <li style="list-style:none;">
-                      <ul class="career-list" style="list-style: circle;">
-                        <li>Realtime Socket </li>
-                        <li>Firebase</li>
-                        <li>Web socket</li>
-                        <li>IOS Development</li>
-                        <li>Push Notification</li>
-                        <li>Work Manager</li>
-                        <li>Espresso UI testing</li>
-                      </ul>                  
-                  </li>
-                  <li>Pernah menerbitkan min. 1 atau lebih Mobile Application di Playstore / Appstore</li>
-                </ul>
+                <p>Jika Anda memiliki skill diatas maka Anda adalah talenta yang cocok untuk bergabung dan berkembang bersama kami.</p>
               </div>
               
+            </div>
+            <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat. <br>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
+                  <li>Bisa memberikan kemudahan bagi masyarakat dengan aplikasi yang dibuat.</li>
+                  <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
                   <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
                   <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
                   <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
                   <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
                   <li>Bonus kinerja bulanan (performance based).</li>
                   <li>Berpeluang mendapatkan bonus overtime.</li>
-                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia.</li>
                   <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
                   <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
