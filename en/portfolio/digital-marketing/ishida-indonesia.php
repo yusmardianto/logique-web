@@ -218,13 +218,13 @@
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
-                            <div class="col-md-7">
+                            <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     Through LOGIQUE’s implemented strategy, we have successfully run Google search advertisements which are tailored-made to a high degree of relevance, linked directly to the appropriate product pages within Ishida's website. The following shows the results obtained from our marketing strategy:
                                 </p>  
                             </div>
-                            <div class="col-md-5 col-xs-12 mt-7">
+                            <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+24%</h5>                                  

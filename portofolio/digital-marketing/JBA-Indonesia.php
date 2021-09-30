@@ -219,13 +219,13 @@
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/bg-portofolio-section-bottom.png');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
-                            <div class="col-md-7">
+                            <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     Dengan strategi digital marketing yang tim LOGIQUE terapkan, kami berhasil menjalankan iklan di platform Facebook, Instagram, dan Google yang disesuaikan dengan relevansi tinggi serta ditautkan langsung ke halaman produk atau kategori. Dari Advertisement Campaign LOGIQUE tersebut, JBA Indonesia memperoleh peningkatan secara signifikan sebagai berikut:
                                 </p>
                             </div>
-                            <div class="col-md-5 col-xs-12 mt-7">
+                            <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  

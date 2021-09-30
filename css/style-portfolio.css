@@ -252,6 +252,12 @@
 .text-dark-green {
     color:#5f9729;  
 }
+.text-darker-green {
+    color:#007163;  
+}
+.text-dark-red {
+    color:#cd2028;  
+}
 
 ul .approach-items {
     list-style: none;
@@ -325,8 +331,14 @@ li.approach-item::before {
 /* .portfolio-update .approach-items{
 
 } */
+.portfolio-gbt .approach-item::before{
+    background-color: #007163;
+}
 .portfolio-healthybelly .approach-item::before{
     background-color: #5f9729;
+}
+.portfolio-sumitomo .approach-item::before{
+    background-color: #09a3e6;
 }
 .portfolio-ykkap .approach-item::before{
     background-color: #09a3e6;

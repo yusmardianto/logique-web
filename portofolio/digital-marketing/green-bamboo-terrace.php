@@ -102,7 +102,7 @@
         }
         </style>
 
-        <div class="portfolio-update ind">
+        <div class="portfolio-update portfolio-gbt ind">
 
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
@@ -222,33 +222,33 @@
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/greenbambooterrace/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
-                            <div class="col-md-7">
+                            <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     Dengan strategi yang diterapkan oleh LOGIQUE, kami berhasil membuat iklan atau digital advertisement yang disesuaikan dengan relevansi tinggi dan ditautkan langsung ke halaman produk atau kategori. Dari strategi marketing properti ini, kami dapat menghasilkan berbagai peningkatan positif yaitu:
                                 </p>
                             </div>
-                            <div class="col-md-5 col-xs-12 mt-7">
+                            <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
+                                         <h5 class="card-text text-darker-green text-6xl">+8%</h5>                                  
+                                         <p class="text-darker-green text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+10%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
+                                         <h5 class="card-text text-darker-green text-6xl">+10%</h5>                                  
+                                         <p class="text-darker-green text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
                                 
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                         <h5 class="card-text text-darker-green text-6xl">+15%</h5>                                  
+                                         <p class="text-darker-green text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+43%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
+                                         <h5 class="card-text text-darker-green text-6xl">+43%</h5>                                  
+                                         <p class="text-darker-green text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
 
