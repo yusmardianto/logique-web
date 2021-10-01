@@ -494,29 +494,29 @@
             </section>
 
             <section id="portfolio_dm" class="portfolio-update__content">
-                <div class="container__">
+                <div class="container">
                     <h2 class="text-center">Digital Marketing</h2>
                     <div class="content__wrapper">
                         <div class="flex__row">
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="col-md-4 col-sm-6 col-xs-12 d-flex">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
                                     <img src="/img/portfolio/update/dm-bamboo.png" alt="">
                                     <h4>Real Estate - Bamboo</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
-                                    <img src="/img/portfolio/update/dm-mirai.png" alt="">
-                                    <h4>Real Estate - Hajime</h4>
+                            <div class="col-md-4 col-sm-6 col-xs-12 d-flex">
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-ykkap-bg.jpg')">
+                                    <img src="/img/portfolio/update/dm-ykkap.png" alt="">
+                                    <h4>Aluminium Window - YKKAP</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
                                 </div>
                             </div>
-                            <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')">
-                                    <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
-                                    <h4>Company Profile - Ishida</h4>
-                                    <p>SEO | Website Maintenance  | Google Ads | FB&IG Ads </p>
+                            <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 col-xs-12 d-flex">
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-healthy-belly-bg.jpg')">
+                                    <img src="/img/portfolio/update/dm-healthy-belly.png" alt="">
+                                    <h4>Recipe Web - The Healthy Belly</h4>
+                                    <p>SEO | Website Maintenance | FB&IG Ads </p>
                                 </div>
                             </div>
                         </div>

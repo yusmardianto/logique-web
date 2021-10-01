@@ -10,16 +10,16 @@
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Performa Digital Marketing | Logique Digital Indonesia">
+    <meta property="og:title" content="The Healthy Belly | Digital Marketing Performance Portfolio">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
+    <meta property="og:url" content="https://www.logique.co.id/portofolio/digital-marketing/the-healthy-belly.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Google search advertisement LOGIQUE telah membantu Ishida untuk bisa menghasilkan conversions yang jauh lebih tinggi. Simak bagaimana kami melakukannya di sini!">
+        content="LOGIQUE's Google search advertisement campaigns have helped The Healthy Belly generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/ishida-indonesia.php">
-    <title>Ishida Indonesia  | Portofolio Performa Digital Marketing</title>    
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/the-healthy-belly.php">
+    <title>The Healthy Belly | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -71,9 +71,9 @@
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/ishida-indonesia.php';
-            $id_link = '#';
+            $lang = 'en';
+            $en_link = '#'; 
+            $id_link = '/portofolio/digital-marketing/the-healthy-belly.php';
             $jp_link = '/jp/portfolio/digital-marketing.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
@@ -100,7 +100,7 @@
         }
         </style>
 
-        <div class="portfolio-update ind">
+        <div class="portfolio-update portfolio-healthybelly ind">
 
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
@@ -123,7 +123,7 @@
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Ishida Indonesia</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;The Healthy Belly</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -132,22 +132,22 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-header.png'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/healthybelly/bg-header.jpg'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/ishida/logo.png" 
+                                    src="/img/portfolio/digitalmarketing/healthybelly/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Ishida Indonesia</h1></div>
+                                <div class="title text-white"><h1>The Healthy Belly</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Menjawab Kebutuhan Business Owner Akan Beragam Teknologi Mesin Produksi Melalui Google Search Advertisement.
+                                    Increasing the Company’s Brand Awareness through Facebook, Instagram, and Digital Advertisement
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
+                                <p class="text-white ml-0"><b>Website Maintenance | Social Media Management | FB & IG Ads</b></p>
 
                             </div>
                         </div>
@@ -163,22 +163,25 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Ishida Indonesia adalah cabang resmi dari Ishida Co., Ltd. yang berada di Jepang. Ishida sendiri merupakan produsen mesin timbang, packing, dan mesin inspeksi (checkweigher, metal detector, x-ray) untuk berbagai industri seperti snacks, daging, buah segar, ready meal, seafood, dan lain-lain. Ishida juga banyak dikenal sebagai perusahaan profesional yang mampu menyediakan  kebutuhan mesin pabrik berskala besar untuk para pelanggannya. 
+                                    The Healthy Belly is one of LOGIQUE's clients operating within the healthy food industry. Using the company motto "Healthy Eating Habits, Healthy Body and Soul!", the company believes that through the daily consumption of nutritious food, one can improve both the health of their body and soul.
                                 </p>
                                 <p class="title__description">
-                                    Sampai saat ini, Ishida sudah mempunyai pengalaman selama lebih dari 125 tahun dan seluruh produk yang mereka kembangan memiliki kualitas yang baik serta menggunakan teknologi yang tinggi. Dengan pengalaman dan profesionalitas yang sudah mereka miliki, sampai saat ini Ishida sudah menjadi mitra terpercaya bagi banyak bisnis di seluruh dunia.
+                                    However, The Healthy Belly understands that nowadays people have internalized a variety of misconceptions about healthy eating, usually believing that nutritious food looks unappealing, along with being synonymous with tasting bad.
                                 </p>
                                 <p class="title__description">
-                                    Untuk menjaga kepercayaan tersebut, Ishida terus berkontribusi dalam memenuhi kebutuhan pelanggan akan produk dan layanan berkualitas dengan menyediakan tim R & D serta tim engineer profesional yang berdedikasi tinggi. Dengan kualitas produk dan layanan tersebut, Ishida ingin agar perusahaan mereka dapat memberikan solusi kepada para pemilik bisnis akan kebutuhan beragam teknologi mesin produksi.
+                                    In addition, The Healthy Belly also recognizes that some dishes aren’t suitable for everyone. Therefore, The Healthy Belly aims to change any wrong conceptions about healthy food. They want more people to realize that there are many delicious recipes that are also healthy dishes.
                                 </p>
                                 <p class="title__description">
-                                    Oleh karena itulah, Ishida Indonesia bekerjasama dengan LOGIQUE untuk menjalankan Google search advertisement. Dengan strategi pemasaran ini, informasi mengenai produk-produk dari Ishida dapat dijangkau oleh target pelanggan yang tepat sehingga penjualan dapat semakin meningkat.  
+                                    In order to achieve this, The Healthy Belly provides a website to share, interact, and to find suitably healthy recipes. Through this platform, people can inspire each other in adopting a healthier lifestyle through delicious, appetizing and healthy food.
+                                </p>
+                                <p class="title__description">
+                                    In order for the company's website to run optimally, The Healthy Belly decided to use the web maintenance service provided by LOGIQUE. In addition, The Healthy Belly also utilizes LOGIQUE’s digital marketing services, namely in regards to Social Media Management and FB & IG Ads so as to increase the company's brand awareness.
                                 </p>
                             
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/ishida/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/healthybelly/pict-client-background.jpg" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -192,20 +195,23 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
                                 <p class="title__description" >
-                                    Untuk menjamin agar Google search advertisement yang dijalankan dapat bekerja dengan baik, tim LOGIQUE melakukan analisis mendalam untuk mendapatkan kelompok audience dengan akurasi penargetan yang tinggi. Selain itu, untuk memastikan agar iklan bekerja secara efektif, kami juga akan menganalisa produk-produk yang ditawarkan Ishida, apa unique selling point yang mereka miliki, serta potensi market yang tersedia.
+                                    The Healthy Belly chose LOGIQUE to assist their digital marketing endeavours, namely through the use of digital advertisements.
                                 </p>
                                 <p class="title__description" >
-                                    Secara garis besar, berikut adalah strategi pemasaran Google search advertisement yang kami lakukan:
+                                    In running this strategy, LOGIQUE first carefully designs a marketing plan, namely by conducting an in-depth analysis of the services on offer. LOGIQUE also conducts audience profiling in order to find out the right target audience so that advertisements can be properly reached by the target audience or potential customers so as to generate quality leads.
+                                </p>
+                                <p class="title__description" >
+                                    Here is an outline of the marketing strategy:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk yang ada pada website Ishida.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan skor kualitas iklan</li>
-                                    <li class="approach-item">Membatasi jumlah audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat group audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bekasi dan sekitarnya melalui advertisement campaign dengan menjaga harga bid CPC serta kualitas dari iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding Ishida untuk memastikan bahwa setiap campaign yang berjalan telah sesuai dengan target dan objektif yang ingin dicapai oleh perusahaan</li>
+                                    <li class="approach-item">Effectively work with The Healthy Belly’s branding team to ensure that every campaign is running according to all the stated targets and objectives.</li>
+                                    <li class="approach-item">Effectively identify and define a list of relevant keywords that cover the entire range of services provided by The Healthy Belly.</li>
+                                    <li class="approach-item">Creating ads that are relevant and and can potentially increase the quality score of the ads.</li>
+                                    <li class="approach-item">Limiting the number of low-quality audiences by regularly monitoring targeting information and creating optimally controlled audience groups.</li>
+                                    <li class="approach-item">Controlling the market share in regards to several target locations through advertisement campaigns by maintaining the average CPC price and the quality of the advertisements being run.</li>
                                 </ul>
                             </div>
                         </div>
@@ -215,36 +221,36 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-footer.webp');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/healthybelly/bg-footer.jpg');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Dengan strategi yang diterapkan oleh LOGIQUE, kami berhasil menjalankan Google search advertisement yang disesuaikan dengan relevansi yang tinggi serta ditautkan langsung ke halaman produk di web Ishida. Berikut adalah hasil yang diperoleh dari strategi pemasaran yang kami jalankan:
+                                    With a variety of previously successful digital marketing strategies, LOGIQUE has been able to run digital ads on the Instagram and Facebook platforms with a high degree of relevance and being linked directly to The Healthy Belly’s main service page. Through this digital advertising strategy, The Healthy Belly has managed to receive a significant increase as follows:
                                 </p>  
                             </div>
                             <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+24%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">180.50%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+46%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">+120%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
                                 
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">-27%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">-55.55%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+37%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">118.35%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
 
@@ -257,7 +263,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Untuk memastikan agar produk-produk Ishida Indonesia dapat dikenal lebih luas dan mampu menjangkau target market yang tepat, LOGIQUE melakukan analisis mendalam sebelum menjalankan Google search advertisement. Selain itu, kami juga menyediakan kategori produk yang sangat spesifik agar setiap campaign yang dijalankan dapat menghasilkan conversion yang tinggi dan mampu menjangkau target audiens dengan tepat. Dalam menjalankan strategi pemasaran ini, kami selalu memastikan bahwa setiap leads yang dihasilkan memiliki kualitas yang optimal.
+                                    The high level of competition within the food industry has prepared LOGIQUE in creating a marketing strategy that is optimal, unique, and designed to give a positive impression to every potential consumer. In this way, The Healthy Belly was able to increase the company's brand awareness, gaining more customer interactions than ever before in the process. 
                                 </p>
                             </div>
                         </div>
@@ -268,66 +274,6 @@
 
         <?php include '../../footer.php';?>
     </div>   
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
-    </script>
-    <script>
-    $('.same-height').matchHeight();
-    $('.col-md-4.col-xs-6').matchHeight();
-
-
-    $('.slider-other-client-container').slick({
-        dots: false,
-        infinite: true,
-        speed: 300,
-
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        responsive: [{
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            }
-        ]
-    });
-    $('.mobile-app-container').slick({
-        dots: true,
-        infinite: false,
-        speed: 300,
-        arrows: false,
-        arrows: false,
-        arrows: false,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        speed: 300,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        slickSetOption: true,
-    });
-    $('#PWA .btn-more-portfolio').on('click', function() {
-        $('.mobile-app-container').resize();
-    });
-    </script>
 </body>
 
 </html>

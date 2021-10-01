@@ -208,6 +208,24 @@
                                         </div>
                                     </a>                                
                                 </div>                                
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="/portofolio/digital-marketing/ykkap-indonesia.php">                                                             
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-ykkap-bg.jpg')" data-toggle="modal" data-target="#modal-ykkap">
+                                            <img src="/img/portfolio/update/dm-ykkap.png" alt="">
+                                            <h4>Aluminium Window - YKKAP</h4>
+                                            <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
+                                        </div>
+                                    </a>                                
+                                </div>                                
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="/portofolio/digital-marketing/the-healthy-belly.php">                                                             
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-healthy-belly-bg.jpg')" data-toggle="modal" data-target="#modal-healthy-belly">
+                                            <img src="/img/portfolio/update/dm-healthy-belly.png" alt="">
+                                            <h4>The Healthy Belly</h4>
+                                            <p>SEO | Website Maintenance | FB&IG Ads</p>
+                                        </div>
+                                    </a>                                
+                                </div>                                
                             </div>
                         </div>
                     </div>

@@ -219,13 +219,13 @@
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/bg-portofolio-section-bottom.png');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
-                            <div class="col-md-7">
+                            <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>RESULT</h1></div>
                                 <p class="text-white" >
                                 Through the digital marketing strategy implemented by LOGIQUE, we have successfully run advertisements on three major platforms, specifically Facebook, Instagram and Google, tailor made to a high degree of relevancy so as to be directly linked to the appropriate product or category pages. Through the Advertisements run by LOGIQUE’s Campaign, JBA Indonesia has received a significant increase, which can be seen as follows:
                                 </p>
                             </div>
-                            <div class="col-md-5 col-xs-12 mt-7">
+                            <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  

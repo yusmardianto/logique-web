@@ -102,7 +102,7 @@
         }
         </style>
 
-        <div class="portfolio-update ind">
+        <div class="portfolio-update portfolio-sumitomo ind">
 
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
@@ -222,54 +222,53 @@
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/sumitomo/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
-                            <div class="col-md-7">
+                            <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     Dengan strategi digital marketing yang diterapkan oleh LOGIQUE, kami berhasil meningkatkan kualitas dan mutu website serta posisi kata kunci potensial yang disesuaikan dengan relevansi tinggi yang ditautkan langsung ke halaman produk atau kategori. Dari proses Search Engine Optimization (SEO) yang telah kami lakukan, secara signifikan website Sumitomo Heavy Industries memperoleh peningkatan sebagai berikut:
                                 </p>
                             </div>
-                            <div class="col-md-5 col-xs-12 mt-7">
+                            <div class="col-md-7 col-xs-12 mt-7">
                               
                                 <div class="row">
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">+34%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Total Clicks</b></p>
+                                            <h5 class="card-text text-light-blue text-6xl">+34%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Total Clicks</b></p>
                                         </div>
                                           
                                     </div>                              
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center" >
-                                            <h5 class="card-text text-blue-card text-6xl">+77%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Total Impression</b></p>
+                                            <h5 class="card-text text-light-blue text-6xl">+77%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Total Impression</b></p>
                                         </div>
                                     </div>    
                                 </div>
                                 <div class="row">
                                     <div class="col-md-4 col-xs-12">                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">+20%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
+                                            <h5 class="card-text text-light-blue text-6xl">+20%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>CTR</b></p>
                                         </div>   
                                     </div>
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">+7%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Average Position</b></p>
+                                            <h5 class="card-text text-light-blue text-6xl">+7%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Average Position</b></p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">-28%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Bounce Rate</b></p>
+                                            <h5 class="card-text text-light-blue text-6xl">-28%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Bounce Rate</b></p>
                                         </div>   
                                     </div>                                                                                             
                                 </div>
                             </div>
-                        
+                        </div>
                                         
-                        <hr style="border: 1px solid white;" /> 
                         
                         <div class="row">
                             <div class="col-md-12">

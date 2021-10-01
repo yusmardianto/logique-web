@@ -220,7 +220,7 @@
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
-                            <div class="col-md-7">
+                            <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     The initial success of digital advertisements are greatly influenced by proper strategies of audience targeting. Therefore, the team at LOGIQUE has successfully conducted various in-depth analyses so as to highlight audience groups with a high level of targeting accuracy.
@@ -233,7 +233,7 @@
                                 </p>
 
                             </div>
-                            <div class="col-md-5 col-xs-12 mt-7">
+                            <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+22%</h5>                                  
