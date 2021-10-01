@@ -584,6 +584,16 @@
                                         </ul>  
                                     </a>
                                 </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="https://www.ykkap.co.id/" target="_blank" class="content__item">
+                                        <img src="/img/portfolio/update/ykkap.jpg" class="img-responsive" alt="YKKAP">
+                                        <h3>YKKAP</h3>
+                                         <ul class="list-unstyled">
+                                            <li>Web Revamp & Operation (Revamp | Social Media Operation | Digital Marketing)</li>
+                                            <li>BtoB, CMS, Manufacturer</li>
+                                        </ul>  
+                                    </a>
+                                </div>
                             </div>
 
                             <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Lainnya</h3>
