@@ -492,18 +492,18 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.jpg')">
-                                    <img src="/img/portfolio/update/dm-mirai.png" alt="" loading="lazy" >
-                                    <h4>Real Estate - Hajime</h4>
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-ykkap-bg.jpg')">
+                                    <img src="/img/portfolio/update/dm-ykkap.png" alt="" loading="lazy" >
+                                    <h4>Aluminium Window - YKKAP</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
                                 </div>
                             </div>
                             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 col-xs-12">
-                            <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')">
-                                        <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
-                                        <h4>Company Profile - Ishida</h4>
-                                        <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
-                                    </div>
+                            <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-healthy-belly-bg.jpg')">
+                                    <img src="/img/portfolio/update/dm-healthy-belly.png" alt="">
+                                    <h4>Recipe Web - The Healthy Belly</h4>
+                                    <p>SEO | Website Maintenance | FB&IG Ads</p>
+                                </div>
                             </div>
                         </div>
                     </div>
