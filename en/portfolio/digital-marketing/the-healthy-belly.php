@@ -145,9 +145,9 @@
                             <div class="col-md-8 col-sm-12" >                                
                                 <div class="title text-white"><h1>The Healthy Belly</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Answering the Needs of Business Owners for Various Production Machine Technologies Through Google Search Advertisements.
+                                    Increasing the Company’s Brand Awareness through Facebook, Instagram, and Digital Advertisement
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
+                                <p class="text-white ml-0"><b>Website Maintenance | Social Media Management | FB & IG Ads</b></p>
 
                             </div>
                         </div>
@@ -163,16 +163,19 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Ishida Indonesia is the name of the official branch of Ishida Co., Ltd. which is located in Japan. Ishida itself is a manufacturer of weighing, packing, and inspection machines (checkweighers, metal detectors, x-rays) for various industries, some of which include the snacks, meat, fresh fruit, ready meals and seafood industries, among others. Ishida also prides itself as a company that is able to meet its customers’ large-scale factory machinery needs.
+                                    The Healthy Belly is one of LOGIQUE's clients operating within the healthy food industry. Using the company motto "Healthy Eating Habits, Healthy Body and Soul!", the company believes that through the daily consumption of nutritious food, one can improve both the health of their body and soul.
                                 </p>
                                 <p class="title__description">
-                                    Ishida has had more than 125 years of experience developing highly advanced and cutting edge products. Through their extensive experience within their field, Ishida has become a trusted partner for many businesses around the world.
+                                    However, The Healthy Belly understands that nowadays people have internalized a variety of misconceptions about healthy eating, usually believing that nutritious food looks unappealing, along with being synonymous with tasting bad.
                                 </p>
                                 <p class="title__description">
-                                    To maintain this trust, Ishida consistently aims to meet their customers’ needs with regards to quality products and services through a dedicated R&D team, as well as a team of professional engineers. By leveraging high quality products and services, Ishida seeks to provide practical solutions for business owners for their needs in the area of production machine technology.
+                                    In addition, The Healthy Belly also recognizes that some dishes aren’t suitable for everyone. Therefore, The Healthy Belly aims to change any wrong conceptions about healthy food. They want more people to realize that there are many delicious recipes that are also healthy dishes.
                                 </p>
                                 <p class="title__description">
-                                    Therefore, Ishida Indonesia has collaborated with LOGIQUE in order to run appropriate Google search advertisements. Through this marketing strategy, information about Ishida's products can reach the right targeted customers, hence increasing overall sales in the process.
+                                    In order to achieve this, The Healthy Belly provides a website to share, interact, and to find suitably healthy recipes. Through this platform, people can inspire each other in adopting a healthier lifestyle through delicious, appetizing and healthy food.
+                                </p>
+                                <p class="title__description">
+                                    In order for the company's website to run optimally, The Healthy Belly decided to use the web maintenance service provided by LOGIQUE. In addition, The Healthy Belly also utilizes LOGIQUE’s digital marketing services, namely in regards to Social Media Management and FB & IG Ads so as to increase the company's brand awareness.
                                 </p>
                             
                             </div>
@@ -194,18 +197,21 @@
                             <div class="col-md-12">
                                 <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
                                 <p class="title__description" >
-                                    To ensure that Google search advertisements work well, the LOGIQUE team first conducts an in-depth analysis in order to target audience groups with a high level of accuracy. In addition, so as to ensure that the advertisements work effectively, we will also thoroughly analyze the products offered by Ishida, in terms of what unique selling points they have, as well as the available market potential.
+                                    The Healthy Belly chose LOGIQUE to assist their digital marketing endeavours, namely through the use of digital advertisements.
                                 </p>
                                 <p class="title__description" >
-                                        In general, here are some of the marketing strategies pertaining to Google Search Ads that have been implemented:
+                                    In running this strategy, LOGIQUE first carefully designs a marketing plan, namely by conducting an in-depth analysis of the services on offer. LOGIQUE also conducts audience profiling in order to find out the right target audience so that advertisements can be properly reached by the target audience or potential customers so as to generate quality leads.
+                                </p>
+                                <p class="title__description" >
+                                    Here is an outline of the marketing strategy:
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Suggesting keywords and advertisements covering the span of all products on the Ishida website.</li>
-                                    <li class="approach-item">Making ads with a high degree of relevance, thereby increasing the overall quality score. </li>
-                                    <li class="approach-item">Limiting the number of low quality audiences by regularly monitoring targeting information and creating controlled audience groups</li>
-                                    <li class="approach-item">Influencing the Indonesian market for production machines through advertisement campaigns by maintaining CPC bid prices and ad quality.</li>
-                                    <li class="approach-item">Working with Ishida's branding team in order to ensure that every campaign runs in accordance with the targets and objectives the company aims to achieve.</li>
+                                    <li class="approach-item">Effectively work with The Healthy Belly’s branding team to ensure that every campaign is running according to all the stated targets and objectives.</li>
+                                    <li class="approach-item">Effectively identify and define a list of relevant keywords that cover the entire range of services provided by The Healthy Belly.</li>
+                                    <li class="approach-item">Creating ads that are relevant and and can potentially increase the quality score of the ads.</li>
+                                    <li class="approach-item">Limiting the number of low-quality audiences by regularly monitoring targeting information and creating optimally controlled audience groups.</li>
+                                    <li class="approach-item">Controlling the market share in regards to several target locations through advertisement campaigns by maintaining the average CPC price and the quality of the advertisements being run.</li>
                                 </ul>
                             </div>
                         </div>
@@ -221,7 +227,7 @@
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Through LOGIQUE’s implemented strategy, we have successfully run Google search advertisements which are tailored-made to a high degree of relevance, linked directly to the appropriate product pages within Ishida's website. The following shows the results obtained from our marketing strategy:
+                                    With a variety of previously successful digital marketing strategies, LOGIQUE has been able to run digital ads on the Instagram and Facebook platforms with a high degree of relevance and being linked directly to The Healthy Belly’s main service page. Through this digital advertising strategy, The Healthy Belly has managed to receive a significant increase as follows:
                                 </p>  
                             </div>
                             <div class="col-md-7 col-xs-12 mt-7">
@@ -257,7 +263,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    In order to ensure that Ishida Indonesia's products are widely recognized and able to reach the intended target market, LOGIQUE has conducted an in-depth analysis before running any Google search advertisements. Additionally, we also provide very specifically detailed product categories so that every running campaign is able to generate a high number of conversions with the ability to reach the target audience with precision. In carrying the aforementioned marketing strategies, we ensure that every lead generated is of optimal quality.
+                                    The high level of competition within the food industry has prepared LOGIQUE in creating a marketing strategy that is optimal, unique, and designed to give a positive impression to every potential consumer. In this way, The Healthy Belly was able to increase the company's brand awareness, gaining more customer interactions than ever before in the process. 
                                 </p>
                             </div>
                         </div>
