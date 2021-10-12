@@ -217,7 +217,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div style="margin-top:30px;">
-                            <a href="#section-portofolio" class="smooth">See Our Portfolio</a>
+                            <a href="#section-portofolio" class="smooth"><b>See Our Portfolio</b></a>
                         </div>
                     </div>
                 </div>
@@ -341,6 +341,8 @@
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">PT. JBA Indonesia</h3>
                                 <p style="font-size:14px;">JBA Indonesia merupakan salah satu klien LOGIQUE yang bergerak di bidang lelang otomotif. JBA menggunakan strategi pemasaran digital seperti optimasi SEO serta menjalankan iklan digital di berbagai platform seperti Facebook, Instagram, dan Google. Dengan strategi pemasaran digital ini, JBA Indonesia dapat menghasilkan Conversions yang lebih tinggi yaitu sebesar 10% serta mampu mengembangkan brand awareness yang lebih baik sehingga dapat dikenal luas sebagai perusahaan lelang mobil terbaik di Indonesia.</p>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing/JBA-Indonesia.php"><b>Pelajari Selengkapnya</b></a>
+                                <br><br>
                             </div>     
                             <div class="col-md-3">
                                 <div class="list-circle__img">
@@ -350,6 +352,8 @@
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">Sumitomo Heavy Industries (SHI)</h3>
                                 <p style="font-size:14px;">Sumitomo Heavy Industries (SHI) adalah produsen mesin komprehensif yang mampu memproduksi berbagai jenis barang mulai dari mesin umum dan mesin presisi canggih untuk mesin konstruksi, kapal, serta fasilitas pabrik dan lingkungan. Perusahaan ini memasarkan produk dan layanannya melalui strategi pemasaran digital yang terbukti mampu menjangkau lebih banyak pelanggan. Strategi yang digunakan adalah pengoptimalan mesin pencari atau Search Engine Optimization (SEO). Hasilnya, website Sumitomo Heavy Industries berhasil mendapatkan peningkatan peringkat sebesar 7% di halaman Google sehingga website memperoleh lebih banyak kunjungan dari pelanggan potensial.</p>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing/sumitomo.php"><b>Pelajari Selengkapnya</b></a>
+                                <br><br>
                             </div>     
                             <div class="col-md-3">
                                 <div class="list-circle__img">
@@ -359,8 +363,9 @@
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">Tokoparts</h3>
                                 <p style="font-size:14px;">Tokoparts merupakan klien LOGIQUE di bidang E-Commerce B2B yang menawarkan suku cadang untuk mobil. Di tengah persaingan bisnis E-Commerce yang semakin ketat, Tokoparts memutuskan untuk menggunakan jasa SEO dari LOGIQUE agar website E-Commerce yang mereka miliki dapat bekerja dengan optimal serta lebih mudah ditemukan oleh target market bisnis. Melalui proses pengoptimalan mesin pencari yang telah dilakukan, LOGIQUE berhasil memperbaiki kualitas website Tokoparts dan meningkatkan peringkat website sebesar 66%.</p>
-                                <br>
-                                <a href="https://www.logique.co.id/en/portfolio/digital-marketing.php">Lihat Portofolio Selengkapnya...</a>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing/tokoparts.php"><b>Pelajari Selengkapnya</b></a>
+                                <br><br>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing.php" style="padding: 12px 20px;border-radius: 8px;background: #ffca13;color: #000;margin: 0;display: inline-block;"><b>Lihat Portofolio Selengkapnya</b></a>
                             </div>                                                     
                         </div>
                     </div>
