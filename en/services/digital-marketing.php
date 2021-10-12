@@ -340,8 +340,8 @@
                             </div> 
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">PT. JBA Indonesia</h3>
-                                <p style="font-size:14px;">JBA Indonesia merupakan salah satu klien LOGIQUE yang bergerak di bidang lelang otomotif. JBA menggunakan strategi pemasaran digital seperti optimasi SEO serta menjalankan iklan digital di berbagai platform seperti Facebook, Instagram, dan Google. Dengan strategi pemasaran digital ini, JBA Indonesia dapat menghasilkan Conversions yang lebih tinggi yaitu sebesar 10% serta mampu mengembangkan brand awareness yang lebih baik sehingga dapat dikenal luas sebagai perusahaan lelang mobil terbaik di Indonesia.</p>
-                                <a href="https://www.logique.co.id/portofolio/digital-marketing/JBA-Indonesia.php"><b>Pelajari Selengkapnya</b></a>
+                                <p style="font-size:14px;">JBA Indonesia is a client of LOGIQUE's that works within the automotive auction industry. Entering the Indonesian auction market in 2011, JBA Indonesia to date has more than 18 branches, hubs and pools situated within various major cities across Indonesia. As a pioneer vehicle auctioning company, JBA is committed to the expansion of its auction business through a uniquely innovative business strategy. Through the Advertisements run by LOGIQUE’s Campaign, JBA Indonesia has received a significant increase.</p>
+                                <a href="https://www.logique.co.id/en/portfolio/digital-marketing/JBA-Indonesia.php"><b>Learn More</b></a>
                                 <br><br>
                             </div>     
                             <div class="col-md-3">
@@ -351,8 +351,8 @@
                             </div> 
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">Sumitomo Heavy Industries (SHI)</h3>
-                                <p style="font-size:14px;">Sumitomo Heavy Industries (SHI) adalah produsen mesin komprehensif yang mampu memproduksi berbagai jenis barang mulai dari mesin umum dan mesin presisi canggih untuk mesin konstruksi, kapal, serta fasilitas pabrik dan lingkungan. Perusahaan ini memasarkan produk dan layanannya melalui strategi pemasaran digital yang terbukti mampu menjangkau lebih banyak pelanggan. Strategi yang digunakan adalah pengoptimalan mesin pencari atau Search Engine Optimization (SEO). Hasilnya, website Sumitomo Heavy Industries berhasil mendapatkan peningkatan peringkat sebesar 7% di halaman Google sehingga website memperoleh lebih banyak kunjungan dari pelanggan potensial.</p>
-                                <a href="https://www.logique.co.id/portofolio/digital-marketing/sumitomo.php"><b>Pelajari Selengkapnya</b></a>
+                                <p style="font-size:14px;">Sumitomo Heavy Industries is a company that specializes in machine manufacturing, producing a wide variety of goods which range from advanced precision machinery to customized machinery. Further, the manufacturing of ships, as well as factory and environmental facilities is a service also provided by Sumitomo. Through the implementation of LOGIQUE’s digital marketing strategies, we have succeeded in improving, not only the overall quality of the website, but also the position of its potential keywords which have been tailored to a high level of relevance, being linked directly to the product or category pages.</p>
+                                <a href="https://www.logique.co.id/en/portfolio/digital-marketing/sumitomo.php"><b>Learn More</b></a>
                                 <br><br>
                             </div>     
                             <div class="col-md-3">
@@ -362,10 +362,10 @@
                             </div> 
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">Tokoparts</h3>
-                                <p style="font-size:14px;">Tokoparts merupakan klien LOGIQUE di bidang E-Commerce B2B yang menawarkan suku cadang untuk mobil. Di tengah persaingan bisnis E-Commerce yang semakin ketat, Tokoparts memutuskan untuk menggunakan jasa SEO dari LOGIQUE agar website E-Commerce yang mereka miliki dapat bekerja dengan optimal serta lebih mudah ditemukan oleh target market bisnis. Melalui proses pengoptimalan mesin pencari yang telah dilakukan, LOGIQUE berhasil memperbaiki kualitas website Tokoparts dan meningkatkan peringkat website sebesar 66%.</p>
-                                <a href="https://www.logique.co.id/portofolio/digital-marketing/tokoparts.php"><b>Pelajari Selengkapnya</b></a>
+                                <p style="font-size:14px;">In order to measure up to customer demands, Tokoparts provides a wide selection of genuine auto parts from various popular car brands such as Toyota, Honda, Daihatsu, Mitsubishi, Suzuki, Hino and Fuso. In addition, Tokoparts also always guarantees that all its auto parts provided are genuine and of the highest quality.</p>
+                                <a href="https://www.logique.co.id/en/portfolio/digital-marketing/tokoparts.php"><b>Learn More</b></a>
                                 <br><br>
-                                <a href="https://www.logique.co.id/portofolio/digital-marketing.php" style="padding: 12px 20px;border-radius: 8px;background: #ffca13;color: #000;margin: 0;display: inline-block;"><b>Lihat Portofolio Selengkapnya</b></a>
+                                <a href="https://www.logique.co.id/en/portfolio/digital-marketing.php" style="padding: 12px 20px;border-radius: 8px;background: #ffca13;color: #000;margin: 0;display: inline-block;"><b>See More Portfolio</b></a>
                             </div>                                                     
                         </div>
                     </div>
