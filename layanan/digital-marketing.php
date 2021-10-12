@@ -233,7 +233,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div style="margin-top:30px;">
-                            <a href="#section-portofolio" class="smooth">Lihat Portofolio Kami</a>
+                            <a href="#section-portofolio" class="smooth"><b>Lihat Portofolio Kami</b></a>
                         </div>
                     </div>
                 </div>
@@ -246,9 +246,9 @@
                 <div class="flex__row">
                     <div class="col-md-12">
                             <h3 style=" font-size: 18px; ">Diagnosis / Media Maintenance / Media Operation</h3>
-                            <p style=" font-size: 16px; margin-bottom:10px; ">Kami akan meningkatkan performa media yang Anda miliki agar dapat dimonetisasi dan menghasilkan konversi. Namun jika Anda belum memiliki media sendiri, Logique selalu siap menjadi partner dalam pengembangan website dan aplikasi sesuai dengan kebutuhan bisnis Anda. Silahkan kunjungi Jasa Pembuatan Website atau Jasa Pembuatan Aplikasi kami.</p>
+                            <p style=" font-size: 16px; margin-bottom:10px; ">Kami akan meningkatkan performa media yang Anda miliki agar dapat dimonetisasi dan menghasilkan konversi. Namun jika Anda belum memiliki media sendiri, Logique selalu siap menjadi partner dalam pengembangan website dan aplikasi sesuai dengan kebutuhan bisnis Anda. Silahkan kunjungi <a href="https://www.logique.co.id/layanan/jasa-pembuatan-website.php"><b>Jasa Pembuatan Website</b></a> atau <a href="https://www.logique.co.id/layanan/pembuatan-aplikasi-mobile.php"><b>Jasa Pembuatan Aplikasi</b></a> kami.</p>
                             <h3 style=" font-size: 18px; ">Search Engine Optimization (SEO)</h3>
-                            <p style=" font-size: 16px; margin-bottom:10px; ">Meningkatkan traffic organic sangatlah penting dalam upaya monetisasi website Anda. Kami memiliki banyak pengalaman dalam penanggulangan proyek-proyek SEO dalam bahasa Indonesia dan Inggris, dan LOGIQUE telah terbukti sukses dalam upaya pengoptimalan mesin pencarian dengan beragam jenis kategori kata kunci mulai dari keuangan hingga otomotif. Kami juga siap memberikan konsultasi yang berkelanjutan dalam upaya peningkatan kualitas website Anda pada setiap mesin pencari, hingga memodifikasi halaman website berdasarkan tahapan dan kaedah SEO yang berlaku.</p>
+                            <p style=" font-size: 16px; margin-bottom:10px; ">Meningkatkan traffic organic sangatlah penting dalam upaya monetisasi website Anda. Kami memiliki banyak pengalaman dalam penanggulangan proyek-proyek SEO dalam bahasa Indonesia dan Inggris, dan LOGIQUE telah terbukti sukses dalam upaya pengoptimalan mesin pencarian dengan beragam jenis kategori kata kunci mulai dari keuangan hingga otomotif. Kami juga siap memberikan <a href="https://www.logique.co.id/layanan/digital-marketing/jasa-seo.php"><b>konsultasi</b></a> yang berkelanjutan dalam upaya peningkatan kualitas website Anda pada setiap mesin pencari, hingga memodifikasi halaman website berdasarkan tahapan dan kaedah SEO yang berlaku.</p>
                             <h3 style=" font-size: 18px; ">Paid Ads / Media Buying</h3>
                             <p style=" font-size: 16px; margin-bottom:10px; ">Efektifitas Ads Digital sangat dipengaruhi oleh penargetan pasar atau pemirsa. Tim berpengalaman kami akan melakukan analisa mendalam, mulai dari service atau produk yang Anda tawarkan, Unique Selling Point yang Anda miliki, Peluang atau potensi market yang tersedia, hingga profiling audience / konsumen Anda, mensinergikan setiap data yang tersedia offline maupun online hingga mendapatkan kelompok audience dengan akurasi penargetan yang tinggi. Untuk menjamin setiap sen uang yang Anda investasikan bekerja secara efektif.</p>
                             <h3 style=" font-size: 18px; ">Social Media Service / Social Network Service</h3>
@@ -343,7 +343,7 @@
                 </div>
                 <br>
                 <h2>Portofolio Performa Digital Marketing LOGIQUE</h2>
-                <p>LOGIQUE memiliki pengalaman 2alam implementasi beragam strategi Digital Marketing untuk beragam jenis Industri dan Bisnis dengan performa terbaik.</p>
+                <p>LOGIQUE memiliki pengalaman dalam implementasi beragam strategi Digital Marketing untuk beragam jenis Industri dan Bisnis dengan performa terbaik.</p>
                 <br>
                 <div class="row">
                     <div class="col-md-10 col-md-offset-1">
@@ -356,6 +356,8 @@
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">PT. JBA Indonesia</h3>
                                 <p style="font-size:14px;">JBA Indonesia merupakan salah satu klien LOGIQUE yang bergerak di bidang lelang otomotif. JBA menggunakan strategi pemasaran digital seperti optimasi SEO serta menjalankan iklan digital di berbagai platform seperti Facebook, Instagram, dan Google. Dengan strategi pemasaran digital ini, JBA Indonesia dapat menghasilkan Conversions yang lebih tinggi yaitu sebesar 10% serta mampu mengembangkan brand awareness yang lebih baik sehingga dapat dikenal luas sebagai perusahaan lelang mobil terbaik di Indonesia.</p>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing/JBA-Indonesia.php"><b>Pelajari Selengkapnya</b></a>
+                                <br><br>
                             </div>     
                             <div class="col-md-3">
                                 <div class="list-circle__img">
@@ -365,6 +367,8 @@
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">Sumitomo Heavy Industries (SHI)</h3>
                                 <p style="font-size:14px;">Sumitomo Heavy Industries (SHI) adalah produsen mesin komprehensif yang mampu memproduksi berbagai jenis barang mulai dari mesin umum dan mesin presisi canggih untuk mesin konstruksi, kapal, serta fasilitas pabrik dan lingkungan. Perusahaan ini memasarkan produk dan layanannya melalui strategi pemasaran digital yang terbukti mampu menjangkau lebih banyak pelanggan. Strategi yang digunakan adalah pengoptimalan mesin pencari atau Search Engine Optimization (SEO). Hasilnya, website Sumitomo Heavy Industries berhasil mendapatkan peningkatan peringkat sebesar 7% di halaman Google sehingga website memperoleh lebih banyak kunjungan dari pelanggan potensial.</p>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing/sumitomo.php"><b>Pelajari Selengkapnya</b></a>
+                                <br><br>
                             </div>     
                             <div class="col-md-3">
                                 <div class="list-circle__img">
@@ -374,8 +378,9 @@
                             <div class="col-md-9">
                                 <h3 style="font-size:18px;">Tokoparts</h3>
                                 <p style="font-size:14px;">Tokoparts merupakan klien LOGIQUE di bidang E-Commerce B2B yang menawarkan suku cadang untuk mobil. Di tengah persaingan bisnis E-Commerce yang semakin ketat, Tokoparts memutuskan untuk menggunakan jasa SEO dari LOGIQUE agar website E-Commerce yang mereka miliki dapat bekerja dengan optimal serta lebih mudah ditemukan oleh target market bisnis. Melalui proses pengoptimalan mesin pencari yang telah dilakukan, LOGIQUE berhasil memperbaiki kualitas website Tokoparts dan meningkatkan peringkat website sebesar 66%.</p>
-                                <br>
-                                <a href="https://www.logique.co.id/portofolio/digital-marketing.php">Lihat Portofolio Selengkapnya...</a>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing/tokoparts.php"><b>Pelajari Selengkapnya</b></a>
+                                <br><br>
+                                <a href="https://www.logique.co.id/portofolio/digital-marketing.php" style="padding: 12px 20px;border-radius: 8px;background: #ffca13;color: #000;margin: 0;display: inline-block;"><b>Lihat Portofolio Selengkapnya</b></a>
                             </div>                                                     
                         </div>
                     </div>
