@@ -13,7 +13,7 @@
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/case-study/aia-surrender/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-    <meta property="og:description" content="Sebagai perusahaan web developer terbaik, LOGIQUE memberikan layanan jasa marketing online kepada kliennya, seperti yang kami lakukan pada klien kami, yaitu apartemen Opus Park. Jika Anda ingin menggunakan jasa layanan ini, silahkan hubungi kami!">
+    <meta property="og:description" content="LOGIQUE sukses mengembangkan sistem pembatalan polis microsite AIA Surrender. Silakan hubungi kami untuk pengembangan website asuransi yang bekerja optimal!">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/case-study/aia-surrender/">
     <script>
@@ -168,9 +168,11 @@
             <div class="col-sm-7">
               <p class="cs-subtitle-top">Latar Belakang</p>
               <p class="cs-desc">
-              Sebagai salah satu perusahaan asuransi yang terkemuka dan terus berkembang, AIA ingin terus meningkatkan kepuasan pelanggannya, salah satunya adalah dengan mengubah proses pembatalan polis yang sebelumnya manual menjadi digital. Di era digital, semua orang ingin melakukan segalanya secara praktis melalui platform digital atau berbasis online. AIA menyadari hal tersebut dan memutuskan untuk mengembangkan microsite ini. Jadi melalui website ini, proses pembatalan polis dapat dilakukan dengan cara digital dan dengan adanya retention tools di microsite ini pula, ada kemungkinan customer untuk bisa retain dan tidak jadi untuk membatalkan polis. Pemegang polis cukup mengakses website dimanapun mereka berada tanpa harus datang atau menghubungi pihak perusahaan.
+              Sebagai salah satu perusahaan asuransi yang terkemuka dan terus berkembang, AIA ingin terus meningkatkan kepuasan pelanggannya, salah satunya adalah dengan mengubah proses pembatalan polis yang sebelumnya manual menjadi digital. Saat ini teknologi memang sudah semakin maju sehingga semua orang ingin melakukan segalanya secara praktis melalui platform digital atau berbasis online. AIA menyadari hal tersebut dan memutuskan untuk mengembangkan microsite ini.
               <br><br>
-              Atas dasar itulah, PT. AIA Financial merasa perlu bekerja sama dengan LOGIQUE DIGITAL INDONESIA untuk membantu mengembangkan sistem pembatalan polis berbasis website yang dapat bekerja optimal. Selain itu sistem juga harus didukung dengan desain UI/UX yang user-friendly dan mudah dimengerti agar bisa diakses oleh semua kalangan usia. Dengan pengembangan projek bernama AIA Surrender ini, PT. AIA Financial berharap dapat mendigitalisasi pembatalan polis di perusahaannya.
+              Jadi melalui microsite AIA Surrender, proses pembatalan polis dapat dilakukan secara online. Pemegang polis cukup mengakses website dimanapun mereka berada tanpa harus datang atau menghubungi pihak perusahaan. Selain itu, micorsite juga dikembangkan dengan retention tools di dalamnya. Hal ini ditujukan agar customer dapat retain dan mengurunkan niatnya untuk melakukan pembatalan polis.
+              <br><br>
+              Atas dasar itulah, PT. AIA Financial merasa perlu bekerja sama dengan LOGIQUE DIGITAL INDONESIA untuk membantu mengembangkan sistem pembatalan polis berbasis website yang dapat bekerja optimal. Selain itu sistem juga harus didukung dengan desain UI/UX yang user-friendly dan mudah dimengerti agar bisa diakses oleh semua kalangan usia. Dengan pengembangan proyek bernama AIA Surrender ini, PT. AIA Financial berharap dapat mendigitalisasi proses pembatalan polis di perusahaannya.
               <br><br><br>
               </p>
             </div>
@@ -199,7 +201,9 @@
             <div class="col-md-12">
               <p class="text-center cs-subtitle-top">Hasil AIA Surrender (Conservation Tool)</p>
               <p class="cs-desc text-center">
-              Kerjasama yang dilakukan antara PT. AIA Financial dengan LOGIQUE DIGITAL INDONESIA dalam pengembangan microsite “AIA Surrender” ini berhasil dilakukan dalam jangka waktu 1,5 bulan. Dengan adanya microsite ini, tujuan dari pihak PT. AIA Financial untuk mendigitalisasi proses pembatalan polis dapat tercapai dan dengan adanya retention tools di microsite ini para pemegang polis AIA yang ingin membatalkan polisnya dapat diarahkan agar bisa retain dan tidak jadi untuk membatalkan polisnya. Jika dibandingkan dengan sistem manual, sistem pembatalan polis yang tersedia di microsite AIA Surrender ini jauh lebih efektif dan efisien. Pemegang polis cukup mengakses microsite, mengikuti retention tools, dan apabila pemegang polis tetap ingin membatalkan polisnya, mereka hanya perlu mengisi form pembatalan polis. Selanjutnya, dalam kurun waktu maksimal 1x24 jam pihak AIA yang akan kembali menghubungi mereka.
+              Kerjasama yang dilakukan antara PT. AIA Financial dengan LOGIQUE DIGITAL INDONESIA dalam pengembangan microsite “AIA Surrender” ini berhasil dilakukan dalam jangka waktu 1,5 bulan. Dengan adanya microsite ini, tujuan dari pihak PT. AIA Financial untuk mendigitalisasi proses pembatalan polis dapat tercapai. Selain itu, dengan adanya retention tools di dalam microsite ini para pemegang polis AIA yang ingin membatalkan polisnya dapat diarahkan agar bisa retain dan tidak jadi membatalkan polisnya.
+              <br><br>
+              Jika dibandingkan dengan sistem manual, sistem pembatalan polis yang tersedia di microsite AIA Surrender ini jauh lebih efektif dan efisien. Pemegang polis cukup mengakses microsite, mengikuti retention tools, dan apabila pemegang polis tetap ingin membatalkan polisnya, mereka hanya perlu mengisi form pembatalan polis. Selanjutnya, dalam kurun waktu maksimal 1x24 jam pihak AIA yang akan kembali menghubungi mereka.
               </p>
               <br><br>
               <img src="img/5.png" alt="case study logique" class="img-responsive center-block custom3">
