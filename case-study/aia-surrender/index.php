@@ -193,7 +193,7 @@
             </div>
           </div>
         </section>
-        <section class="cs-section result-section">
+        <section class="cs-section result-section" style="margin-bottom: -2px;">
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
