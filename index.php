@@ -289,7 +289,7 @@ ini_set('display_error', 0);
               </a>
             </div>
             <div class="col-md-4 col-xs-12">
-              <a href="/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
+              <a href="/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
                 <picture>
                   <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
                   <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
