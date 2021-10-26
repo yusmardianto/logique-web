@@ -316,24 +316,26 @@
  
                     <div class="flex__row case-study__slide case-study__case-item">
                         <div class="col-md-4 col-xs-12">
-                            <a href="/en/case-study/jba-auction-system/" class="case-item" data-card-category="WEBSITE">
+                            <a href="/case-study/jba-bastk" class="case-item" data-card-category="WEBSITE">
                                 <picture>
-                                    <source srcset="/img/case-study-2.webp" type="image/webp">
-                                    <img src="/img/case-study-2.jpg" class="img-responsive case-item__img" alt="JBA Indonesia" loading="lazy">
+                                <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
+                                <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
                                 </picture>
-                                <h6>JBA Indonesia</h6>
-                                <h4>Supporting the digitization of Indonesia’s number 1 auction company</h4>                
+                                <h6>JBA EBASTK</h6>
+                                <h4>Application Development Process</h4>
+                                <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
                         <div class="col-md-4 col-xs-12">
-                            <a href="/en/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
+                            <a href="/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
                                 <picture>
-                                    <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                                    <img src="/img/case-study-klikhoreca.jpg" class="img-responsive case-item__img" alt="Klikhoreca"  loading="lazy">
+                                <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
+                                <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
                                 </picture>
-                                <h6>Klikhoreca</h6>
-                                <h4>Through Agile PWA development, LOGIQUE has ensured the speedy launch of E-Commerce Businesses</h4>                
+                                <h6>PT. AIA FINANCIAL</h6>
+                                <h4>AIA Conservation Tool</h4>
+                                <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
