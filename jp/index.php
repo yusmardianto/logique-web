@@ -251,8 +251,8 @@
                         <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
                         <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
                         </picture>
-                        <h6>JBA EBASTK</h6>
-                        <h4>Application Development Process</h4>
+                        <h6>JBA eBASTK</h6>
+                        <h4>LOGIQUE successfully developed the Vehicle Handover Report (eBASTK) application for JBA Indonesia along with a variety of excellent features. Through the eBASTK application, vehicle appreciation data from sellers, dealers and brokers can be sent to JBA’s auction locations easily, quickly and with a high rate of accuracy.</h4>
                         <br>
                         <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </a>
@@ -264,7 +264,7 @@
                         <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
                         </picture>
                         <h6>PT. AIA FINANCIAL</h6>
-                        <h4>AIA Conservation Tool</h4>
+                        <h4>In collaboration with LOGIQUE, PT. AIA Financial has developed a website-based policy system accessible to users of all ages. The project, named “AIA Surrender”, is equipped with retention tools that serve to reinforce a customer’s trust in the case of a potential policy cancellation.</h4>
                         <br>
                         <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </a>

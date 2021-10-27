@@ -282,8 +282,8 @@ ini_set('display_error', 0);
                   <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
                   <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
                 </picture>
-                <h6>JBA EBASTK</h6>
-                <h4>Proses Pengembangan Aplikasi</h4>
+                <h6>JBA eBASTK</h6>
+                <h4>LOGIQUE mengembangkan aplikasi Berita Acara Serah Terima Kendaraan (eBASTK) untuk JBA Indonesia dengan beragam fitur unggulan dengan basis seluler atau berupa mobile apps. Melalui aplikasi eBASTK, data serah terima kendaraan dari seller, dealer maupun broker dapat dikirim ke lokasi lelang JBA dengan mudah, cepat dan memiliki akurasi serta validitas yang tinggi.</h4>
                 <br>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
@@ -295,7 +295,7 @@ ini_set('display_error', 0);
                   <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
                 </picture>
                 <h6>PT. AIA FINANCIAL</h6>
-                <h4>AIA Conservation Tool</h4>
+                <h4>PT. AIA Financial bekerja sama dengan LOGIQUE mengembangkan sistem pembatalan polis berbasis website yang user-friendly, mudah dimengerti dan bisa diakses oleh semua kalangan usia. Proyek bernama "AIA Surrender" ini dilengkapi dengan fitur retention tools yang dapat menumbuhkan kembali kepercayaan nasabah sehingga akan berpikir ulang untuk melakukan pembatalan polis.</h4>
                 <br>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
@@ -307,7 +307,8 @@ ini_set('display_error', 0);
                   <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
                 </picture>
                 <h6>INTERVIEW</h6>
-                <h4>PT JBA Indonesia: Standardisasi dan DX dalam industri lelang mobil</h4>
+                <h4>PT JBA Indonesia: Standardisasi dan DX dalam industri lelang mobil. LOGIQUE mendukung pengembangan dan pemeliharaan sistem, situs web, dan berbagai aplikasi yang dimiliki oleh JBA Indonesia. Pemanfaatan teknologi informasi oleh JBA merupakan upaya penting untuk memberikan layanan yang lebih efektif dan membentuk standardisasi baru dalam industri lelang mobil. </h4>
+                <br>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
