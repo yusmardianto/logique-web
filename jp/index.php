@@ -270,7 +270,7 @@
                     </a>
                 </div>
             <div class="col-md-4 col-xs-12">
-              <a target="_blank" href="https://www.logique.co.id/blog/ja/2020/10/26/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E7%95%8C%E6%A8%99%E6%BA%96%E5%8C%96%E3%81%A8it/" class="case-item" data-card-category="">
+              <a target="_blank" href="https://www.logique.co.id/blog/ja/2020/10/26/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E7%95%8C%E6%A8%99%E6%BA%96%E5%8C%96%E3%81%A8it/" class="case-item" data-card-category="INTERVIEW">
                 <picture>
                   <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
                   <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">

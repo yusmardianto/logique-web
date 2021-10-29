@@ -301,7 +301,7 @@ ini_set('display_error', 0);
               </a>
             </div>
             <div class="col-md-4 col-xs-12">
-              <a target="_blank" href="https://www.logique.co.id/blog/2020/11/13/interview-jba-standardisasi-dan-dx-dalam-industri-lelang-mobil/" class="case-item" data-card-category="">
+              <a target="_blank" href="https://www.logique.co.id/blog/2020/11/13/interview-jba-standardisasi-dan-dx-dalam-industri-lelang-mobil/" class="case-item" data-card-category="INTERVIEW">
                 <picture>
                   <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
                   <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">

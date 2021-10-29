@@ -340,7 +340,7 @@
                             </a>
                         </div>
                         <div class="col-md-4 col-xs-12">
-                            <a target="_blank" href="https://www.logique.co.id/blog/en/2020/10/30/interview-jba-standardization-dx-automobile-auction-industry/" class="case-item" data-card-category="">
+                            <a target="_blank" href="https://www.logique.co.id/blog/en/2020/10/30/interview-jba-standardization-dx-automobile-auction-industry/" class="case-item" data-card-category="INTERVIEW">
                                 <picture>
                                     <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
                                     <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
