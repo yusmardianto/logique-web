@@ -245,30 +245,32 @@
           <p>インドネシアで多くのお客様のご支援をしてきました。自動車関連企業や金融機関など大企業から政府系期間、スタートアップ企業まで幅広く様々なサービスのご提供をしてインドネシアでプロジェクトを成功させるためのノウハウを得ました。幾つかのケーススタディをご紹介します。</p>
  
           <div class="flex__row case-study__slide case-study__case-item">
+                <div class="col-md-4 col-xs-12">
+                    <a href="/case-study/jba-bastk" class="case-item" data-card-category="WEBSITE">
+                        <picture>
+                        <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
+                        <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
+                        </picture>
+                        <h6>JBA eBASTK</h6>
+                        <h4>車両受渡管理アプリケーションをJBA向けに開発。車両のステータス、状態を複数回の受渡ポイントにおいて記録。移送中の車両状態、状態変化が可視化された。</h4>
+                        <br>
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <a href="/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
+                        <picture>
+                        <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
+                        <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
+                        </picture>
+                        <h6>PT. AIA FINANCIAL</h6>
+                        <h4>AIA Surrenderウェブの制作を行いました。解約について丁寧に説明し高いUI/UXを提供することで契約者とのエンゲージメントを高めることに成功した。</h4>
+                        <br>
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
+                </div>
             <div class="col-md-4 col-xs-12">
-              <a href="/en/case-study/jba-auction-system/" class="case-item" data-card-category="WEBSITE">
-                <picture>
-                  <source srcset="/img/case-study-2.webp" type="image/webp">
-                  <img src="/img/case-study-2.jpg" class="img-responsive case-item__img" alt="JBA Indonesia" loading="lazy">
-                </picture>
-                <h6>JBA Indonesia</h6>
-                <h4>IT / DX化でインドネシアNo.1オークション会社をトータルサポート</h4>                
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-              </a>
-            </div>
-            <div class="col-md-4 col-xs-12">
-              <a href="/en/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
-                <picture>
-                  <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                  <img src="/img/case-study-klikhoreca.jpg" class="img-responsive case-item__img" alt="Klikhoreca"  loading="lazy">
-                </picture>
-                <h6>Klikhoreca</h6>
-                <h4>アジャイルPWA開発でスピーディーに新規事業(日用品のオンライン販売)の立ち上げをサポート</h4>                
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-              </a>
-            </div>
-            <div class="col-md-4 col-xs-12">
-              <a target="_blank" href="https://www.logique.co.id/blog/ja/2020/10/26/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E7%95%8C%E6%A8%99%E6%BA%96%E5%8C%96%E3%81%A8it/" class="case-item" data-card-category="">
+              <a target="_blank" href="https://www.logique.co.id/blog/ja/2020/10/26/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E7%95%8C%E6%A8%99%E6%BA%96%E5%8C%96%E3%81%A8it/" class="case-item" data-card-category="INTERVIEW">
                 <picture>
                   <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
                   <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">

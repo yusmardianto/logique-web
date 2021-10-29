@@ -277,35 +277,38 @@ ini_set('display_error', 0);
 
           <div class="flex__row case-study__slide case-study__case-item">
             <div class="col-md-4 col-xs-12">
-              <a href="/case-study/jba-auction-system/" class="case-item" data-card-category="WEBSITE">
+              <a href="/case-study/jba-bastk" class="case-item" data-card-category="WEBSITE">
                 <picture>
-                  <source srcset="/img/case-study-2.webp" type="image/webp">
-                  <img src="/img/case-study-2.jpg" class="img-responsive case-item__img" alt="JBA Indonesia" loading="lazy">
+                  <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
+                  <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
                 </picture>
-                <h6>JBA Indonesia</h6>
-                <h4><strong>LOGIQUE</strong> mendukung penuh digitalisasi perusahaan lelang otomotif no.1 di Indonesia</h4>
+                <h6>JBA eBASTK</h6>
+                <h4>LOGIQUE mengembangkan aplikasi Berita Acara Serah Terima Kendaraan (eBASTK) untuk JBA Indonesia sehingga mampu meningkatkan akurasi data serah terima kendaraan</h4>
+                <br>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-md-4 col-xs-12">
-              <a href="/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
+              <a href="/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
                 <picture>
-                  <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                  <img src="/img/case-study-klikhoreca.jpg" class="img-responsive case-item__img" alt="Klikhoreca" loading="lazy">
+                  <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
+                  <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
                 </picture>
-                <h6>Klikhoreca</h6>
-                <h4>Pengembangan teknologi PWA pada Online Shop memberi pengalaman baru dalam berbelanja</h4>
+                <h6>PT. AIA FINANCIAL</h6>
+                <h4>PT. AIA Financial bekerja sama dengan LOGIQUE mengembangkan sistem pembatalan polis berbasis website bernama "AIA Surrender" yang mudah diakses untuk semua kalangan usia</h4>
+                <br>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-md-4 col-xs-12">
-              <a target="_blank" href="https://www.logique.co.id/blog/2020/11/13/interview-jba-standardisasi-dan-dx-dalam-industri-lelang-mobil/" class="case-item" data-card-category="">
+              <a target="_blank" href="https://www.logique.co.id/blog/2020/11/13/interview-jba-standardisasi-dan-dx-dalam-industri-lelang-mobil/" class="case-item" data-card-category="INTERVIEW">
                 <picture>
                   <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
                   <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
                 </picture>
                 <h6>INTERVIEW</h6>
-                <h4>PT JBA Indonesia: Standardisasi dan DX dalam industri lelang mobil </h4>
+                <h4>PT JBA Indonesia: Standardisasi dan DX dalam industri lelang mobil</h4>
+                <br>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
