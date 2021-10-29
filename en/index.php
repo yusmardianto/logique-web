@@ -322,7 +322,7 @@
                                 <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
                                 </picture>
                                 <h6>JBA eBASTK</h6>
-                                <h4>LOGIQUE successfully developed the Vehicle Handover Report (eBASTK) application for JBA Indonesia along with a variety of excellent features. Through the eBASTK application, vehicle appreciation data from sellers, dealers and brokers can be sent to JBA’s auction locations easily, quickly and with a high rate of accuracy.</h4>
+                                <h4>LOGIQUE has successfully developed the Vehicle Handover Report (eBASTK) app for JBA Indonesia, which precisely records vehicle statuses at multiple delivery points</h4>
                                 <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
@@ -334,7 +334,7 @@
                                 <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
                                 </picture>
                                 <h6>PT. AIA FINANCIAL</h6>
-                                <h4>In collaboration with LOGIQUE, PT. AIA Financial has developed a website-based policy system accessible to users of all ages. The project, named “AIA Surrender”, is equipped with retention tools that serve to reinforce a customer’s trust in the case of a potential policy cancellation.</h4>
+                                <h4>In collaboration with LOGIQUE, PT. AIA Financial has developed the website based policy system “AIA Surrender”, accessible to users of all ages</h4>
                                 <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
@@ -346,7 +346,7 @@
                                     <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
                                 </picture>
                                 <h6>INTERVIEW</h6>
-                                <h4>PT JBA Indonesia: Standardization and DX within the vehicle auction industry. LOGIQUE supports the development and maintenance of a variety of JBA Indonesia’s systems, websites, and applications. Such technology envisioned and designed by JBA constitutes an important effort in providing effective services and setting new standards of quality throughout the vehicle auction industry.</h4>                
+                                <h4>PT JBA Indonesia: Standardization and DX in the automobile auction industry</h4>                
                                 <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
