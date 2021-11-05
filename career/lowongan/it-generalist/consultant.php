@@ -140,34 +140,31 @@
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
+                  Memahami kebutuhan pelanggan dan tujuan bisnis.
                   </li>
                   <li>
-                    Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
+                  Memimpin perencanaan dan pelaksanaan proyek
                   </li>
                   <li>
-                    Mengelola berkolaborasi dengan tim developer.
+                  Mendefinisikan ruang lingkup proyek, tujuan dan penyampaiannya.
                   </li>
                   <li>
-                    Mendesain sistem dan IT network, serta memastikan arsitektur dan fungsionalitas yang tepat.
+                  Mengelola berkolaborasi, memberikan arahan dan dukungan untuk tim proyek.
                   </li>
                   <li>
-                    Mendukung implementasi teknologi baru.
+                  Mengelola anggaran dan alokasi sumber daya proyek
                   </li>
                   <li>
-                    Melatih pengguna dalam sistem IT baru dan yang sudah ada.
+                  Selalu memantau dan melaporkan kemajuan proyek kepada seluruh stakeholders.
                   </li>
                   <li>
-                    Memberikan bantuan untuk masalah teknis.
+                  Menyajikan laporan yang tepat dan terstruktur yang memuat kemajuan proyek, masalah dan solusi.
                   </li>
                   <li>
-                    Merevisi sistem yang ada dan menyarankan perbaikan.
+                  Bisa memberikan bantuan untuk masalah teknis.
                   </li>
                   <li>
-                    Menyajikan laporan yang tepat dan terstruktur.
-                  </li>
-                  <li>
-                    Terlibat dalam proses dan juga aktifitas sales.
+                  Terlibat dalam proses dan juga aktifitas sales.
                   </li>
                 </ul>
               </div>
@@ -175,37 +172,37 @@
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun.
+                  Memiliki pengalaman sebagai Project Manager / IT Consultant minimal 1-2 tahun.
                   </li>
                   <li>
-                    Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
+                  Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
                   </li>
                   <li>
-                    Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.
+                  Memahami teknik manajemen proyek, risiko, dan perencanaan strategi
                   </li>
                   <li>
-                    Mempunyai pengalaman dengan berbagai sistem operasi dan database.
+                  Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.
                   </li>
                   <li>
-                    Bisa bekerja dalam tim.
+                  Mempunyai pengalaman dengan berbagai sistem operasi dan database.
                   </li>
                   <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
+                  Bisa bekerja dalam tim.
                   </li>
                   <li>
-                    Memiliki kemampuan interpesonal yang luar biasa.
+                  Berorientasi pada pelayanan terhadap client/customer.
                   </li>
                   <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.
+                  Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.
                   </li>
                   <li>
-                    Memiliki kemampuan komunikasi dan presentasi yang sangat baik.
+                  Memiliki kemampuan komunikasi dan presentasi yang sangat baik.
                   </li>
                   <li>
-                    Kemampuan analisa yang baik.
+                  Kemampuan analisa yang baik.
                   </li>
                   <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
+                  Memiliki pengetahuan yang luas dengan dunia IT.
                   </li>
                 </ul>
               </div>
