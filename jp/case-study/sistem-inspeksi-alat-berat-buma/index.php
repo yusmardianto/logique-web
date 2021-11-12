@@ -148,7 +148,7 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb breadcrumb--update-design" itemscope="" itemtype="http://schema.org/BreadcrumbList">
                         <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                            <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
                             <meta itemprop="position" content="1">
                         </li>
                         <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">

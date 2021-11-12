@@ -11,11 +11,11 @@
     <meta property="og:title" content="Fleet Management System Creation | ASSA FMS | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/case-study/assa-fms/">
+    <meta property="og:url" content="https://www.logique.co.id/en/case-study/assa-fms/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
     <meta property="og:description" content="LOGIQUE has succeeded in developing the ASSA Fleet Management System, simplifying the process of managing leased vehicles. Click the link for more info!">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/case-study/assa-fms/">
+    <link rel="canonical" href="https://www.logique.co.id/en/case-study/assa-fms/">
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -148,7 +148,7 @@
                 <div class="col-sm-12">
                     <ol class="breadcrumb breadcrumb--update-design" itemscope="" itemtype="http://schema.org/BreadcrumbList">
                         <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                            <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                            <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
                             <meta itemprop="position" content="1">
                         </li>
                         <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
