@@ -29,13 +29,13 @@
     </script>
     <title>Pengembangan Sistem Klikhoreca PWA (Progressive Web App) | LOGIQUE</title>
 
-    <link href="../../../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../../../css/bootstrap.min.css" rel="stylesheet">
   
 
     <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
     <link rel="stylesheet" href="../../../css/sidebar-update.css" >
     <!-- case study style -->
-    <link href="./css/new-style.css" rel="stylesheet">    
+    <link href="./css/new-style.css" rel="stylesheet">
     <link href="../../../css/newstyle.css" rel="stylesheet">
 
     <?php 
@@ -71,8 +71,8 @@
               <ul>
                 <!-- <li><a href="/en/case-study/indonesea/">EN</a></li> -->
                 <li><a href="/en/case-study/klikhoreca/">EN</a></li>
-                <li class="active"><a href="#">ID</a></li>
-                <li><a href="/jp/case-study/klikhoreca/">JP</a></li>
+                <li ><a href="/case-study/klikhoreca">ID</a></li>
+                <li class="active"><a href="#">JP</a></li>
               </ul>
             </div>
           </div>
@@ -179,7 +179,7 @@
                 <div class="col-sm-7 text-container">
                     <h2 class="section-title">Klikhoreca</h2>
                     <p>
-                    Klikhoreca merupakan online store penyedia bahan-bahan makanan di Indonesia dan akan terus mengalami perkembangan. Online store ini menawarkan lebih dari ratusan produk bahan makanan. Bukan hanya itu saja, Klikhoreca juga menyediakan fitur upgrade akun menjadi Akun Bisnis, di mana terdapat beberapa keuntungan bila menjadi akun bisnis, salah satunya adalah memudahkan pembayaran karena sistem pembayaran Akun Bisnis memakai Limit Plafon. Selain itu, Klikhoreca juga memberikan berbagai fitur menarik yang tentunya memudahkan dan memberikan kenyamanan Anda saat berbelanja.
+                    Klikhoreca社は、「食」「食材」を提供するインドネシアのオンラインショップとして、さらなる発展を続けています。常時100種類以上の食品を提供するだけでなく、使用制限のあるビジネスアカウントの「アカウントアップグレード機能」を設けるなど、ビジネスアカウントの所有におけるさまざまな利点を有しています。インドネシアにおいてKlikhoreca社はまた、利用者の、より快適で便利なお買い物をサポートするための多種多様な機能をも提供しています。
                   </p>
                 </div>
                 <div class="col-sm-5 photo-container">
@@ -200,12 +200,11 @@
                 <div class="col-sm-6 text-container">
                     <h2 class="section-title">Latar Belakang</h2>
                     <p>
-                    Bisnis PT. Sinar Horeca Sukses sebenarnya sudah berjalan secara Offline saat ini, tetapi mereka ingin terus mengembangkan bisnis mereka di era digital ini agar dapat terus bersaing. Karena itu, mereka mempunyai keinginan untuk membuat sebuah web system sekaligus Progressive Web App (PWA) yang bernama Klikhoreca dan bertujuan untuk menarik semua kalangan untuk berbelanja bahan-bahan makanan, jadi diharapkan customer dari Klikhoreca tidak hanya sebatas pemilik Hotel, Restoran, atau Kafe, tetapi juga perorangan yang tinggal di rumah. Klikhoreca dapat diakses dari desktop dan mobile, dan karena memakai teknologi PWA, customer tidak perlu menginstall atau memasang aplikasi yang menyebabkan performa smartphone menjadi berkurang.  
+                    Sinar Horeca Sukses社は、デジタル時代における当社の競争力・優位性を発揮するために一層のデジタルビジネスの開発を進めています。その一つとして開発されたのが、「Klikhoreca」と呼ばれる「プログレッシブウェブアプリ(PWA)」です。すべての消費者、ホテルやレストラン、カフェのオーナーはもちろん個人にいたるまで誰もが、「Klikhoreca社で食品を購入したい」という思いを醸成したいと考えています。
                   </p>
-                  <p>  Untuk membuat Progressive Web App yang mereka inginkan, PT. Sinar Horeca Sukses merasa perlu bekerja sama dengan LOGIQUE DIGITAL INDONESIA untuk membantu mereka dalam mengembangkan sistem tersebut. Sistem PWA juga telah menciptakan standar baru untuk aplikasi yang dapat diinstal dan telah didukung oleh setiap platform sehingga membuat user experience yang berbeda dalam berbelanja.
-</p>
-                  
-                       
+                  <p>  
+                  この「Klikhoreca」は、パソコンやスマートフォンから利用する際、独自のPWA技術を使用しているため、利用者は別のアプリケーションをインストールが不要であることが特筆すべき点でしょう。このＰＷＡの開発を全面的に支援したのがLOGIQUE DIGITAL INDONESIAです。またこのシステムは、アプリケーションの新しい標準形態を構築すると同時に、さまざまなユーザーの購買行動を作成するために個々のプラットフォームをサポートしています。 
+                  </p>                                       
                 </div> 
                
             </div>
@@ -218,10 +217,10 @@
                 <div class="col-sm-7 text-container">
                     <h2 class="section-title">Teknologi yang diterapkan</h2>
                     <p>
-                      Dalam membuat sistem Klikhoreca PWA (Progressive Web App), teknologi yang digunakan adalah Next.JS yang berbasis React.JS. Framework ini merupakan kerangka JavaScript universal yang mampu beroperasi di browser dan server. Framework ini berasal dari sebuah start-up bernama zeit, dan menjadikan Next.js sebagai kerangka kerja pilihan universal dan terpopuler di tahun 2018. Framework ini menawarkan cara pengembangan yang mudah saat Anda menggunakan React.js sebagai template-nya.
+                    「Klikhoreca PWA (Progressive Web App)」システムを構築する際に使用された技術は、「Next.JS」と呼ばれる、次世代のJavaScriptのフレームワークを用いています。このフレームワークは、「zeit」と呼ばれるスタートアップに由来するもので、2018年以降、このNext.jsは、その普遍性などで、市場でもっとも人気のあるフレームワークとして活用されています。このフレームワークは開発が容易でもある点も考慮して今回のシステム開発に選定されたものですが、たとえば、「pagesフォルダ」内のすべての要素を自動的にサーバに取得しSEO対策に活用できるなど、PWAシステムの開発をサポートする、多くの利点もあります。
                     </p>
                     <p>
-                    Framework Next.JS ini dipilih dalam pengembangan sistem ini, karena memiliki keunggulan seperti, seluruh komponen Anda di dalam folder “pages” mendapatkan server-rendered secara otomatis, SEO Friendly, serta berbagai keuntungan lainnya yang mendukung pengembangan sistem PWA yang akan dilakukan.
+                    <!-- Framework Next.JS ini dipilih dalam pengembangan sistem ini, karena memiliki keunggulan seperti, seluruh komponen Anda di dalam folder “pages” mendapatkan server-rendered secara otomatis, SEO Friendly, serta berbagai keuntungan lainnya yang mendukung pengembangan sistem PWA yang akan dilakukan. -->
 
                     </p>
                      
@@ -243,7 +242,7 @@
                 
                     <h2 class="section-title text-center">Hasil Klikhoreca PWA</h2>
                     <p>
-                    Kerjasama yang dilakukan antara PT. Sinar Horeca Sukses dengan LOGIQUE DIGITAL INDONESIA berhasil melakukan pengembangan sistem Klikhoreca  PWA (Progressive Web App) dalam jangka waktu kurang lebih 6 bulan, dimana dengan adanya sistem ini mampu memberikan perubahan bagi bisnis yang dilakukan oleh pihak PT. Sinar Horeca Sukses dalam peningkatan jumlah visitor ke website mereka serta memberikan pengalaman yang baru bagi para pengguna mobile dalam melakukan transaksi jual-beli tanpa melakukan penginstallan aplikasi yang cukup kompleks dan memakan banyak data.
+                    Sinar Horeca Sukses社とLOGIQUE DIGITAL INDONESIAの協業体制により、約6ヶ月という短期間で、Klikhoreca PWAのシステム開発に成功しました。この新システムによって、Sinar Horeca Sukse社のWebサイトを介して売買する利用者の大幅な増加を実現するとともに、モバイルユーザーに対しては、非常に複雑で大量のデータを消費するアプリケーションをインストールする必要がないという利便性を提供しています。 
                    </p>
                 
                     <div class="  text-center">

@@ -150,7 +150,7 @@ section p{
     line-height: 30px;
 }
 .cs-bottom .cs-bottom__text {
-    background: url("../new-img/bg-bottom.png") center/cover no-repeat;
+    background: url("/case-study/img/bg-bottom.png") center/cover no-repeat;
     padding: 15px 50px 30px;
     }
 
@@ -186,7 +186,7 @@ section p{
 }
 .cs-bottom  .cs-desc, .btn--cs-bottom > p{ 
     font-family: 'Montserrat',sans-serif; 
-    line-height: 1.5;
+    line-height: normal;
 }
  .cs-bottom h2 {  
       font-family: 'Novocento Sans Wide';
@@ -262,6 +262,9 @@ margin-bottom: 30px;
 .cs-section:nth-child(4), .cs-section:nth-child(5) {
     margin-bottom: 50px;
 } 
+.cs-section.tech-info{
+    padding-bottom: 40px;
+}
 .cs-line {
     position: absolute;
     width: 100%;
@@ -343,7 +346,7 @@ a.showcase:hover{
     text-align: center;
 }
 .cs-others {
-    background: url('../new-img/bg-yellow-other-case-study.jpg');
+    background: url('../img/bg-kuning-studi-kasus-lainnya.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -456,21 +459,21 @@ position: relative;
   
   @media (min-width: 768px) {
     .cs-others > div:before {
-      content: url('../new-img/three-arrows.png');
+      content: url('../img/three-arrows.png');
       position: absolute;
       top: 15%;
       left: -25px;
     }
   
     .cs-others > div:after {
-      content: url('../new-img/three-arrows.png');
+      content: url('../img/three-arrows.png');
       position: absolute;
       top: 5%;
       right: -30px;
       transform: rotate(-45deg);
     }
     .cs-others .row {
-      background: url('../new-img/bg-grey-pattern-other-case-study.jpg');
+      background: url('../img/bg-abu-studi-kasus-lainnya.jpg');
       background-position: bottom;
       background-size: cover;
     }
@@ -589,5 +592,3 @@ position: relative;
       min-height: unset;
     }
   }
-
-  
