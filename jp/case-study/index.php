@@ -3,27 +3,27 @@
 	ini_set('display_error', 0);
 ?>
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Daftar klien Logique Digital Indonesia untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
+    content="ケーススタディ untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
  
   <meta name="keywords" content="Daftar klien logique, Klien logique untuk pembuatan website, Klien logique untuk pembuatan sistem web, Klien logique untuk pembuatan mobile app, Klien logique untuk pembuatan web app, Klien logique untuk pembuatan aplikasi web
 ">  
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
   <meta property="og:title"
-    content="Daftar Klien Logique Digital Indonesia | JBA, Caroline & Lainnya.">
+    content="ケーススタディ | JBA, Caroline & Lainnya.">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
   <meta property="og:description"
-    content="Daftar klien Logique Digital Indonesia untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
+    content="ケーススタディ untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="/case-study/assets/favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/case-study/" />  
@@ -72,7 +72,7 @@
   ga('send', 'pageview');
   </script>
   <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-  <title>Daftar Klien Logique Digital Indonesia | JBA, Caroline & Lainnya.</title>
+  <title>ケーススタディ | JBA, Caroline & Lainnya.</title>
 
   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> -->
   </noscript>
@@ -80,20 +80,20 @@
   <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
-  <link  rel="stylesheet preload" href="assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="assets/css/bootstrap.min.css"></noscript>
+  <link  rel="stylesheet preload" href="/case-study/assets/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/case-study/assets/css/bootstrap.min.css"></noscript>
 
-  <!-- <link href="assets/css/style.css" rel="stylesheet"> -->
+  <!-- <link href="/case-study/assets/css/style.css" rel="stylesheet"> -->
   <link href="/css/sidebar-update.css" rel="stylesheet">
   <link href="/css/newstyle.css" rel="stylesheet">
-  <link href="assets/css/style-custom.css" rel="stylesheet">
+  <link href="/case-study/assets/css/style-custom.css" rel="stylesheet">
   <!-- <link href="css/slick.css" rel="stylesheet">
   <link href="css/slick-theme.css" rel="stylesheet">  
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
   <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
 
-  <link rel="stylesheet preload" href="assets/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet preload" href="assets/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet preload" href="/case-study/assets/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet preload" href="/case-study/assets/css/slick-theme.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <link rel="preload" href="/fonts/font-awesome/css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <!--   <link rel="stylesheet preload" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'"> -->
   <noscript>
@@ -150,16 +150,16 @@
     <?php 
         // $active option are home, about, portfolio, services, product, career, contact
         $active = 'home';
-        include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
     ?>  
 
     <!-- header -->
     <?php 
-      $lang = 'id';
+      $lang = 'jp';
       $en_link = '/en/case-study/';
       $id_link = '/case-study/';
       $jp_link = '/jp/case-study/';
-      include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+      include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
     ?>
 
     <div class="content-wrapper__">
@@ -172,8 +172,8 @@
             <div class="container__ breadcrumb-section">
               <div class="row">
               <div class="col-md-12">
-                  <p><a href="/">Beranda</a></p>
-                  <p>> &nbsp;Studi Kasus</p>
+                  <p><a href="/">ホーム</a></p>
+                  <p>> &nbsp;ケーススタディ</p>
                 </div>
               </div>
             </div>
@@ -183,7 +183,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <h1 class="title-index">Studi Kasus</h1>
-                  <p>Selama lebih dari 7 tahun, <span class="novocentoMedium">Logique</span> telah membantu berbagai klien ternama, dari startup lokal sampai dengan perusahaan internasional untuk mengembangkan Website, Sistem, Web App dan Aplikasi Mobile.</p> 
+                  <p>Logiqueは、インドネシアで2012年から多くのクライアントにITテクノロジーを活用することで、新規事業の立ち上げや業務改善の実現を支援してきました。インドネシアでよくある問題へのソリューションと取り組みノウハウを豊富に保有しています。参考までに幾つか事例を紹介いたします。</p> 
                 </div>
               </div>
             </div>
@@ -202,13 +202,13 @@
                     <img src="/case-study/assets/img/icon-whitepaper.png" alt="download whitepaper" class="img-responsive m-r-10px">
                   </picture>
                   <div class="content__text">
-                    <b class="text-uppercase">Dapatkan white paper</b>
-                    <p>Pengembangan Website & Sistem Keamanan Website</p>
+                    <b class="text-uppercase">「ダウンロード」</b>
+                    <p>インドネシアでのIT活用に関するホワイトペーパーがダウンロードできます。</p>
                   </div>
                 </div>
               </div>
               <div class="col-xs-8 col-sm-6 col-md-3">
-                <a href="/white-paper.php" class="form-control btn btn--yellow">Download White Paper</a>
+                <a href="/white-paper.php" class="form-control btn btn--yellow">「ダウンロード」</a>
               </div>
             </div>
           </div>
@@ -218,11 +218,11 @@
       <section class="case-study bg--white">
         <div class="container__">
           <div class="pill-container">
-            <button class="btn btn--yellow filter-button activated" data-filter="all">Semua Studi Kasus</button>
-            <button class="btn btn--yellow filter-button" data-filter="website">Website</button>
-            <button class="btn btn--yellow filter-button" data-filter="websystem">Web System</button>
-            <button class="btn btn--yellow filter-button" data-filter="webapp">Web App</button>
-            <button class="btn btn--yellow filter-button" data-filter="mobileapp">Aplikasi Mobile</button>
+            <button class="btn btn--yellow filter-button activated" data-filter="all">全事例</button>
+            <button class="btn btn--yellow filter-button" data-filter="website">Web制作事例</button>
+            <button class="btn btn--yellow filter-button" data-filter="websystem">システム開発事例</button>
+            <button class="btn btn--yellow filter-button" data-filter="webapp">Webアプリ開発事例</button>
+            <button class="btn btn--yellow filter-button" data-filter="mobileapp">モバイルApp事例</button>
           </div>
 
           <div class="row flex__row card-container">
@@ -463,13 +463,13 @@
                     <img src="/case-study/assets/img/icon-management.png" alt="project management" class="img-responsive m-r-10px">
                   </picture>
                   <div class="content__text">
-                    <p>Kami siap membantu Anda untuk mengelola</p>
-                    <b class="text-uppercase">Manajemen Project secara profesional</b>
+                    <p>プロジェクトを成功させるにはプロジェクトマネジメントが重要です。</p>
+                    <b class="text-uppercase">LOGIQUEのプロジェクトマネジメントについて</b>
                   </div>
                 </div>
               </div>
               <div class="col-xs-8 col-sm-6 col-md-3">
-                <a href="/layanan/project-management.php" class="form-control btn btn--yellow">SELENGKAPNYA</a>
+                <a href="/layanan/project-management.php" class="form-control btn btn--yellow">「LOGIQUEのプロジェクト管理」</a>
               </div>
             </div>
           </div>
@@ -478,7 +478,7 @@
 
       <section class="bg--white case-study__interview">
         <div class="container__">
-          <h2 class="section-title fs--24px">Interview</h2>
+          <h2 class="section-title fs--24px">インタビュー</h2>
  
           <div class="m-t-30px flex__row case-study__slide case-study__case-item">
             <div class="col-md-4 col-sm-6 col-xs-12">
@@ -519,7 +519,7 @@
         </div>
       </section>
 
-      <?php include '../layanan/assets/components/dm-links.php' ?>
+      <?php include '../services/assets/components/dm-links.php' ?>
 
       <section class="m-t-30px m-b-30px case-study__banner-contact">
         <div class="p-0 rounded-lg container__">
@@ -541,7 +541,7 @@
 
   </div>
 
-<?php include '../footer.php'; ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/en/footer.php'); ?>
 <!-- <script src="/js/jquery-3.min.js"></script> -->
 <!-- <script src="/js/bootstrap.min.js"></script> -->
 <!-- <script src="/js/slick.min.js"></script> -->
