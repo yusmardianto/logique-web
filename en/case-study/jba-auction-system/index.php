@@ -34,8 +34,8 @@
 
   <link href="../../../css/style.css" rel="stylesheet">
 	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <!-- case study style -->
-  <link href="css/style.css" rel="stylesheet">
+  <!-- case study style -->  
+  <link href="../../../case-study/jba-auction-system/css/style.css" rel="stylesheet">    
 
     </head>
 	<body>
