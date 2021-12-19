@@ -156,9 +156,9 @@
     <!-- header -->
     <?php 
       $lang = 'id';
-      $en_link = '#';
-      $id_link = '#';
-      $jp_link = '#';
+      $en_link = '/en/case-study/';
+      $id_link = '/case-study/';
+      $jp_link = '/jp/case-study/';
       include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
     ?>
 

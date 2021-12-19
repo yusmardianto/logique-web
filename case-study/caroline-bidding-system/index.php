@@ -58,7 +58,6 @@
         }
     ?>
 </head>
-
 <body>
 	<?php 
 		if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
@@ -80,7 +79,7 @@
                         <ul>
                             <li><a href="/en/case-study/caroline-bidding-system/">EN</a></li>
                             <li class="active"><a href="#">ID</a></li>
-                            <li><a href="#">JP</a></li>
+                            <li><a href="/jp/case-study/caroline-bidding-system/">JP</a></li>
                         </ul>
                     </div>
                 </div>
