@@ -48,9 +48,9 @@
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li class="active"><a href="#">EN</a></li>
+                <li><a href="/en/case-study/caroline-bidding-system/">EN</a></li>
                 <li><a href="/case-study/caroline-bidding-system/">ID</a></li>
-                <li><a href="/jp/case-study/caroline-bidding-system/">JP</a></li>
+                <li class="active"><a href="#">JP</a></li>
               </ul>
             </div>
           </div>
@@ -156,7 +156,7 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">Background</h2>
               <p class="cs-desc">
-              Caroline is part of the PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining. Caroline wants to create a car buying and selling site with a different bidding system compared to other car buying and selling platforms that have been around for three months of development. Because Caroline doesn't have a web developer , they need help from another web development company to help them develop Caroline's site. In the end, they chose us as a companyweb developer because of the experiences Logique has.
+              Carolineは、農業系ビジネスから製造業、鉱業にいたるまで、さまざまな分野のビジネスに従事するPT Triputraグループの一員です。Carolineは自動車売買サービスにおいて、他社とは一線を画す売買の入札システムを3か月程度で構築したいと構想していました。社内にはWeb開発の人材・ノウハウがないことを考慮したCarolineは、サイト開発をサポートする専門家をリサーチ。最終的に、LOGIQUE DIGITAL INDONESIAが有する経験やスキルを高く評価いただき、パートナーとして当社を選択いただきました。
               </p>
             </div>
           </div>
@@ -170,7 +170,7 @@
             <div class="col-sm-6">
               <h2 class="cs-subtitle">Development Stage</h2>
               <p class="cs-desc">
-              LOGIQUE started developing the Caroline site in June 2018. The tight time frame was a big challenge for the team. To get around the short development time, a certain strategy is needed so that the project can be completed on time. We used the “agile” development method to develop Caroline's site. The agile development method that we implement is to quickly adapt and respond to changes, create small teams, and invite clients to collaborate in web development. Due to good team coordination and work management, in the end Caroline's site was completed on time.
+              LOGIQUE DIGITAL INDONESIAは、2018年6月にCarolineのWebサイトの開発を開始しましたが、非常にタイトな開発期間は、チームにとっても大きな挑戦で、プロジェクトを期日通りに完成させるためには一定の戦略が必要でした。そこで私たちは、「アジャイル」という開発手法を用いてWebサイトを開発しました。この「アジャイル開発手法」とは、変化やスピード感に素早く対応するための小規模なチーム構築をクライアントと協業する中で実現し、Web開発を推進するというものです。チームの高い調整力と作業管理システムがうまく機能し、結果として、Carolineのウェbサイトを、期日通りにローンチすることができました。
               <br><br>
               </p>
             </div>
@@ -190,7 +190,7 @@
             <div class="col-md-12">
               <h2 class="cs-subtitle text-center">Results and Impact</h2>
               <p class="cs-desc text-center">
-              After the site is successfully developed, users can make car transactions with the highest bidding system. Because Caroline cooperates with ACC (Astra Credit Company) which has been registered with the OJK, car transactions can be made in cash or credit. The quality of the car contained in Caroline is unquestionable. Because, Caroline's party assigned a reliable inspector to check the cars sold on the site. Caroline can help users in making car purchase transactions with the highest bidding system easily.
+              サイト開発成功後、利用者は、「最高額入札方式」で車の売買取引ができるようになりました。Carolineは、ACC（Astra Credit Company）と連携しているため、取引は、現金・クレジットの両方を利用することができます。言わずもがなですが、Carolineに掲載されている車の品質には疑いの余地はありません。自社サイトでの販売車をチェックするために、信頼性を誇る検査員を任命し、その質を常に高めているからです。もちろん、最高入札制度を利用した購入取引は非常に容易で、利用者はストレスフリーで、売買を楽しむことができるのです。
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block custom-2">
             </div>
