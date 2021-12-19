@@ -527,10 +527,10 @@
             <div class="row flex__row align-items-center justify-content-end banner-case-contact">
               <div class="col-xs-12 col-md-8">
                 <h3 class="fs--30px">Let’s Learn Together!</h3>
-                <p>Anda tertarik bekerja sama dengan kami dalam mengembangkan produk dalam bentuk website, aplikasi berbasis web, mobile app dan aplikasi mobile ?</p>
+                <p>お気軽にお問合せください インドネシアでの事例について、インドネシアでのプロジェクトの進め方について、 日本語でお問合せいただけます。経験豊富なコンサルタントがご対応いたします。</p>
               </div>
               <div class="col-xs-8 col-sm-6 col-md-2">
-                <a href="/hubungi-kami.php" class="form-control btn btn--yellow">Hubungi Kami</a>
+                <a href="/hubungi-kami.php" class="form-control btn btn--yellow">「お問い合わせ」</a>
               </div>
             </div>
           </div>
