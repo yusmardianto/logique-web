@@ -137,17 +137,17 @@
                   <div class="urgent-box">
                     <h2 class="section-title">Dibutuhkan Segera!</h2>
                     <div class="urgent-need">
+                      <a href="/career/lowongan/it-generalist/consultant.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/business-class.png" alt="Technical Consultant">
+                        <div class="urgent-need__text">Technical<br>Consultant</div>
+                      </a>
+                      <a href="/career/lowongan/specialist/devops.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/server.png" alt="DevOps Engineer">
+                        <div class="urgent-need__text">DevOps<br>Engineer</div>
+                      </a>
                       <a href="/career/lowongan/programmer/golang-developer.php" class="urgent-need__item">
                         <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Golang Developer">
-                        <div class="urgent-need__text">Golang Developer</div>
-                      </a>
-                      <a href="/career/lowongan/programmer/flutter-developer.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Flutter Developer">
-                        <div class="urgent-need__text">Flutter Developer</div>
-                      </a>
-                      <a href="/career/lowongan/specialist/quality-assurance.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/quality.png" alt="Security Specialist">
-                        <div class="urgent-need__text text-center">QA Engineer</div>
+                        <div class="urgent-need__text text-center">Golang<br>Developer</div>
                       </a>
                     </div>
                     <a href="/career/lowongan/" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px; position: relative;"

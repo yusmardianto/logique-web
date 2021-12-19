@@ -261,6 +261,8 @@
                     </picture>
                   </a>
               </div>
+              <style>.kembali-ke-index {background: #ffca13;color: #000;padding: 12px 15px;border-radius: 10px;box-shadow: 0 0 4px #afafaf;margin: 25px!important;}.kembali-ke-index:hover {opacity: .7;text-decoration: none;color: #333;}</style>
+              <div><a href="/case-study/" class="kembali-ke-index">Back To Study Case</a></div>
             </div>
           </div>
         </section>

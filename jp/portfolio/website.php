@@ -686,6 +686,35 @@
                                     </ul>  
                                 </a>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://www.ykkap.co.id/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/ykkap.jpg" class="img-responsive" alt="YKKAP">
+                                    <h3>YKKAP</h3>
+                                        <ul class="list-unstyled">
+                                        <li>Webリメイク＆運用 (Revamp | SNS運用 | 広告運用)</li>
+                                        <li>BtoBウェブ, CMS, 製造業</li>
+                                    </ul>  
+                                </a>
+                            </div>
+
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="//summitmas.l72.logique.co.id/home" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/pcr.png" class="img-responsive" alt="PCR Booking Web">
+                                    <h3>PCR Booking Web</h3>
+                                        <ul class="list-unstyled">
+                                        <li> PCRテスト予約Web開発 (デザイン | 予約機能開発 | 管理機能開発) 予約Web, テスター管理機能, テナント管理, Covid-19</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="//webapp.mmsplatform.co.id" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/mm2100.png" class="img-responsive" alt="MM2100 Web Dev & Operation">
+                                    <h3>MM2100 Web Dev & Operation</h3>
+                                        <ul class="list-unstyled">
+                                        <li>工業団地向けテナント管理Web開発 (デザイン | テナント管理機能開発 | AWS) テナント管理Web, PWA, 工業団地</li>
+                                    </ul>  
+                                </a>
+                            </div>
                         </div>
                         <!--- other -->
                         <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>

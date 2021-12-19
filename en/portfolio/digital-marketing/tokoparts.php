@@ -101,7 +101,7 @@
         }
         </style>
 
-        <div class="portfolio-update ind">
+        <div class="portfolio-update portfolio-gbt ind">
 
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
@@ -133,12 +133,12 @@
                     </div>
                 </div>               
                 
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/tokoparts/bg-header.png'); padding: 54px; background-position: center; background-repeat: no-repeat;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/tokoparts/bg-header.png'); background-size: cover; background-repeat: no-repeat; padding: 54px;">    
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/tokoparts/logo_transparent.png" 
+                                    src="/img/portfolio/digitalmarketing/tokoparts/logo.png" 
                                     alt="" 
                                     class="relative left-0 mt-12 visible-md visible-lg"
                                     style="height: 200px; width: auto; margin-left: 40px;" 
@@ -222,7 +222,7 @@
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/tokoparts/bg-footer.webp');">
                     <div class="container__ banner-detail__content" style="padding-bottom: 32px;">
                         <div class="row">
-                            <div class="col-md-7">
+                            <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     Through the implementation of optimized Digital and SEO assets, LOGIQUE has thus succeeded in the improvement of the overall quality of the Tokoparts website. Additionally, LOGIQUE has succeeded in improving the website’s overall rank as well, with the use of targeted keywords tailored to a high degree of relevance, linked directly to the product and category pages.
@@ -231,40 +231,40 @@
                                     Here are the results of the website’s organic improvement:
                                 </p>
                             </div>
-                            <div class="col-md-5 col-xs-12 mt-7">                              
+                            <div class="col-md-7 col-xs-12 mt-7">                              
                                 <div class="row">
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">+88%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Total Clicks</b></p>
+                                            <h5 class="card-text text-dark-red text-6xl">+88%</h5>                                  
+                                            <p class="text-dark-red text-xl mt-2"><b>Total Clicks</b></p>
                                         </div>
                                           
                                     </div>                              
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center" >
-                                            <h5 class="card-text text-blue-card text-6xl">+83%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Total Impression</b></p>
+                                            <h5 class="card-text text-dark-red text-6xl">+83%</h5>                                  
+                                            <p class="text-dark-red text-xl mt-2"><b>Total Impression</b></p>
                                         </div>
                                     </div>    
                                 </div>
                                 <div class="row">
                                     <div class="col-md-4 col-xs-12">                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">+3%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
+                                            <h5 class="card-text text-dark-red text-6xl">+3%</h5>                                  
+                                            <p class="text-dark-red text-xl mt-2"><b>CTR</b></p>
                                         </div>   
                                     </div>
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">+66%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Average Position</b></p>
+                                            <h5 class="card-text text-dark-red text-6xl">+66%</h5>                                  
+                                            <p class="text-dark-red text-xl mt-2"><b>Average Position</b></p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                            <h5 class="card-text text-blue-card text-6xl">-17%</h5>                                  
-                                            <p class="text-blue-card text-xl mt-2"><b>Bounce Rate</b></p>
+                                            <h5 class="card-text text-dark-red text-6xl">-17%</h5>                                  
+                                            <p class="text-dark-red text-xl mt-2"><b>Bounce Rate</b></p>
                                         </div>   
                                     </div>                                                                                             
                                 </div>
@@ -288,66 +288,6 @@
 
         <?php include '../../footer.php';?>
     </div>   
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
-    </script>
-    <script>
-    $('.same-height').matchHeight();
-    $('.col-md-4.col-xs-6').matchHeight();
-
-
-    $('.slider-other-client-container').slick({
-        dots: false,
-        infinite: true,
-        speed: 300,
-
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        responsive: [{
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            }
-        ]
-    });
-    $('.mobile-app-container').slick({
-        dots: true,
-        infinite: false,
-        speed: 300,
-        arrows: false,
-        arrows: false,
-        arrows: false,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        speed: 300,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        slickSetOption: true,
-    });
-    $('#PWA .btn-more-portfolio').on('click', function() {
-        $('.mobile-app-container').resize();
-    });
-    </script>
 </body>
 
 </html>

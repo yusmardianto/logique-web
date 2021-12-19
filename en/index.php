@@ -316,35 +316,38 @@
  
                     <div class="flex__row case-study__slide case-study__case-item">
                         <div class="col-md-4 col-xs-12">
-                            <a href="/en/case-study/jba-auction-system/" class="case-item" data-card-category="WEBSITE">
+                            <a href="/en/case-study/jba-bastk" class="case-item" data-card-category="WEBSITE">
                                 <picture>
-                                    <source srcset="/img/case-study-2.webp" type="image/webp">
-                                    <img src="/img/case-study-2.jpg" class="img-responsive case-item__img" alt="JBA Indonesia" loading="lazy">
+                                <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
+                                <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
                                 </picture>
-                                <h6>JBA Indonesia</h6>
-                                <h4>Supporting the digitization of Indonesia’s number 1 auction company</h4>                
+                                <h6>JBA eBASTK</h6>
+                                <h4>LOGIQUE has successfully developed the Vehicle Handover Report (eBASTK) app for JBA Indonesia, which precisely records vehicle statuses at multiple delivery points</h4>
+                                <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
                         <div class="col-md-4 col-xs-12">
-                            <a href="/en/case-study/klikhoreca/" class="case-item" data-card-category="WEB APP">
+                            <a href="/en/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
                                 <picture>
-                                    <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                                    <img src="/img/case-study-klikhoreca.jpg" class="img-responsive case-item__img" alt="Klikhoreca"  loading="lazy">
+                                <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
+                                <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
                                 </picture>
-                                <h6>Klikhoreca</h6>
-                                <h4>Through Agile PWA development, LOGIQUE has ensured the speedy launch of E-Commerce Businesses</h4>                
+                                <h6>PT. AIA FINANCIAL</h6>
+                                <h4>In collaboration with LOGIQUE, PT. AIA Financial has developed the website based policy system “AIA Surrender”, accessible to users of all ages</h4>
+                                <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
                         <div class="col-md-4 col-xs-12">
-                            <a target="_blank" href="https://www.logique.co.id/blog/en/2020/10/30/interview-jba-standardization-dx-automobile-auction-industry/" class="case-item" data-card-category="">
+                            <a target="_blank" href="https://www.logique.co.id/blog/en/2020/10/30/interview-jba-standardization-dx-automobile-auction-industry/" class="case-item" data-card-category="INTERVIEW">
                                 <picture>
                                     <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
                                     <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
                                 </picture>
                                 <h6>INTERVIEW</h6>
                                 <h4>PT JBA Indonesia: Standardization and DX in the automobile auction industry</h4>                
+                                <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>

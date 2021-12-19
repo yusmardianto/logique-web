@@ -39,6 +39,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" integrity="sha512-L/EyzxvZCddd652hKB4w2gEaZgCZSOaH0Ia6JoEGysTu27VnWvej5ipuBnru/iDhPWMO0AvwiVd0HHVUHWeDRA==" crossorigin="anonymous" />
   <!-- case study style -->
   <link href="css/new-style.css" rel="stylesheet">
+  <link href="../../css/newstyle.css" rel="stylesheet">   
 
 </head>
 
@@ -373,6 +374,8 @@
                 </picture>
               </a>
             </div>
+            <style>.kembali-ke-index {background: #ffca13;color: #000;padding: 12px 15px;border-radius: 10px;box-shadow: 0 0 4px #afafaf;margin: 25px!important;}.kembali-ke-index:hover {opacity: .7;text-decoration: none;color: #333;}</style>
+            <div><a href="/case-study/" class="kembali-ke-index">Kembali Ke Halaman Indeks Studi Kasus</a></div>
           </div>
         </div>
       </section>

@@ -1,5 +1,5 @@
 <style>
-.tahap-pemesanan-2 { background-color: #ffcd38; }
+/* .tahap-pemesanan-2 { background-color: #ffcd38; }
 #PureChatWidget.purechat.purechat-bottom-right {  right: 20px !important; bottom: 20px !important; }
 #PureChatWidget { transition: all ease-in-out 0.25s !important; }
 #PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {  min-height: 55px !important; }
@@ -18,7 +18,7 @@
 #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse { bottom: 70px !important; right: unset !important; left: 45% !important; transform: translateX(-50%) !important; }
 }
 @media (max-width: 486px) {
-}
+} */
 </style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">  
     <!-- End Twitter universal website tag code -->
@@ -172,8 +172,33 @@
         </div>
     </div>
 </footer>
+<div class="floating-wa-button" >
+    <?php 
+        if (strpos($_SERVER['REQUEST_URI'], "career") !== false){
+            $waNumber = '6282260567856';
+            }else{
+            $waNumber = '62811870321';
+            }
+    ?>
+    <a href="https://wa.me/<?=$waNumber?>" class="wa-button" target="_blank"><img src="/img/icon/icon-logique-wa.svg" width="80" height="80"></a>
+    <style>
+        .floating-wa-button{
+            border-radius: 50%;
+            position:fixed; 
+            bottom : 10%; 
+            right:10px;
+            transition: all 0.15s ease-in-out;
+            z-index: 9999;
+            }
+            .floating-wa-button:hover{
+            box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -webkit-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -moz-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            }
+    </style> 
+</div>
   <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
-<script type='text/javascript' data-cfasync='false'>
+<!-- <script type='text/javascript' data-cfasync='false'>
     window.purechatApi = {  l: [],  t: [],  on: function() {   this.l.push(arguments); }  };
     (function() {
         var done = false;
@@ -189,7 +214,7 @@
                     f: true
                 });
                 done = true; } };  })();
-    </script>
+    </script> -->
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -217,6 +242,7 @@
     twq('init', 'o0xru');
     twq('track', 'PageView');
     </script>
+
 <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
@@ -269,7 +295,7 @@ $('.map-container')
 </script>
 
 <!-- override purechat styling -->
-<script>
+<!-- <script>
     $(function() {
         purechatApi.on('chatbox:ready', function (args) {
             $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
@@ -288,7 +314,7 @@ $('.map-container')
             }, 50);
         });
     })
-</script>
+</script> -->
 
 <!-- AD POPUP -->
 <!-- <script>

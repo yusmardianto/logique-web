@@ -375,6 +375,56 @@
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
+              <a href="/case-study/aia-surrender" class="links__item">
+                    <div class="img-container" style=" border: solid 1px #f1f1f1; ">
+                      <picture>
+                        <source srcset="./assets/img/card/10.webp" type="image/webp">
+                        <img src="./assets/img/card/10.png" class="img-responsive" alt="">
+                      </picture>
+                    </div>
+                    <div class="text-container">
+                      <p>Web System</p>
+                    </div>
+                    <p class="card-title">PT. AIA FINANCIAL</p>
+                    <p class="card-content">AIA Conservation Tool</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
+                <a href="/case-study/assa-fms" class="links__item">
+                    <div class="img-container" style=" border: solid 1px #f1f1f1; ">
+                      <picture>
+                        <source srcset="./assets/img/card/11.webp" type="image/webp">
+                        <img src="./assets/img/card/11.png" class="img-responsive" alt="">
+                      </picture>
+                    </div>
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">ASSA</p>
+                    <p class="card-content">Fleet Management System</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
+                <a href="/case-study/sistem-inspeksi-alat-berat-buma" class="links__item">
+                    <div class="img-container" style=" border: solid 1px #f1f1f1; ">
+                      <picture>
+                        <source srcset="./assets/img/card/12.webp" type="image/webp">
+                        <img src="./assets/img/card/12.png" class="img-responsive" alt="">
+                      </picture>
+                    </div>
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">BUMA</p>
+                    <p class="card-content">Digital Maintenance</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                </a>
+            </div>
+
           </div>
 
           <!-- <div class="row contact-container">

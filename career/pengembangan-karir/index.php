@@ -88,6 +88,19 @@
     <!-- Header -->
     <?php include '../layout-career/header-career.php'; ?>
 
+    <style>
+    .case-study__img> picture img, .message-from__img> picture img {
+        max-width: 100%;
+        object-fit: cover;
+        object-position: center;
+        max-height: 330px;
+        height: 100%;
+        border-radius: 15px;
+        position: relative;
+        right: 25px;
+    }
+    </style>
+
     <div class="career-update content-wrapper__">
       <section class="container-fluid --top bg--career-dev">
         <div class="container--max-width --no-padding">
@@ -327,7 +340,6 @@
                               <source srcset="/img/career/bg-img/case-study-nico.webp" type="image/webp">
                               <img src="/img/career/bg-img/case-study-nico.jpg" alt="Nico - Project Manager">
                             </picture>
-                            
                           </div>
                         </div>
                       </div>
