@@ -49,9 +49,9 @@
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li class="active"><a href="#">EN</a></li>
+                <li ><a href="/en/case-study/indonesea/">EN</a></li>
                 <li><a href="/case-study/indonesea/">ID</a></li>
-                <li><a href="/jp/case-study/indonesea/">JP</a></li>
+                <li class="active"><a href="#">JP</a></li>
               </ul>
             </div>
           </div>
@@ -158,7 +158,7 @@
                 <div class="col-sm-7 text-container">
                     <h2 class="section-title">Indonesea.id</h2>
                     <p>
-                    Indonesea has become among the various start-ups or marketplaces to have developed within the diving tourism industry. Indonesea, which functions as a Dive Booking System, aims to help integrate divers both professional and non-professional with Dive Centers and Liveaboards operating out of Indonesia. The Indonesea website can be used both within Indonesia and abroad. Customers can place orders and payments through the Indonesea website and start exploring the world of Indonesian diving tourism. There is no doubt that Indonesia possesses a wide away of diving hotspots defined by their captivating underwater beauty, known to places such as Bali, Labuan Bajo, Bunaken, Raja Ampat and much more. Indonesia.id aims to assist its divers in regards to a wide array of important services, such as information about diving locations, dive masters, safety and facilities; even for those of you who don't own scuba diving / snorkeling equipment, there’s no need to worry as you can also rent them through the Indonesea.id website.
+                    Indonesea.id社は、ダイビングツーリズム産業に従事するスタートアップ企業として市場をけん引しています。独自の予約システムを用いて、プロとアマチュアのダイバーを、国中のダイビングセンターなどと連携させるサービスを展開しています。このWebサイトは、インドネシアの国内外で利用できるのはもちろん、利用者はオンライン上で、注文・支払処理までを容易に行うことができる設計になっています。このサービスを通してIndonesia.id社は、インドネシアでの魅力的なダイビングの旅をサポートしています。ご存知の通りインドネシアには、バリ、ラジャアンバド、ブナケン、ラジャアンパットなど、水中の美しさを堪能できるダイビングスポットが数多く存在します。Indonesia.id社のWebサイトは、ダイビングスポットの詳細な説明やダイブマスターの検索、そのほかダイビングに関連するさまざまな施設情報など、お役立ち情報を数多く提供しています。
                   </p>
                 </div>
                 <div class="col-sm-4 photo-container">
@@ -181,7 +181,7 @@
                 <div class="col-sm-6 text-container">
                     <h2 class="section-title">Background</h2>
                     <p>
-                    Indonesea.id is managed by PT. Exploration Bahari Indonesia, which consists of a group of young Indonesians who, through their love of traveling and diving, sought to create a credible Dive Booking System which would be able to open up opportunities for marine tourism and water sports activities, similar to that of a Diving Center and Liveaboard, so as to make it easy and accessible to customers in their search for the best diving destinations throughout Indonesia.  
+                    Indonesea.id社は、旅とダイビングを愛するスタートアップ企業・Jelajah Bahari Indonesia社のサポートを受けています。Jelajah Bahari Indonesia社は、顧客それぞれが、ダイビングセンターなど海のレジャーやウォータースポーツを楽しむ機会を得ることができるよう、また、それぞれの「最高の目的地」を見つけるためのサポートを行いたいと、信頼性の高い予約システムを構築したいと考えていました。
                   </p>
                 </div>
                
@@ -195,10 +195,10 @@
                 <div class="col-sm-7 text-container">
                     <h2 class="section-title">Applied Technology </h2>
                     <p>
-                      Indonesea was built using the Laravel PHP 7 framework, developed by Taylor Otwell, the first version of which was released in 2011. The PHP framework / library is a type of open source web development technology which utilizes the concept of MVC. It is known as a framework which incorporates expressive & beautiful syntax, as it uses components that are not monotone, with its syntax being specifically relevant to the various functions it performs, such as illuminate, artisan and migrate. Laravel’s concept of the Model is known for its friendly team collaboration, an example of which is it’s migrate function / component. With this component, the team can design the database directly from the Laravel composer so as to run mysql queries. Therefore, there is no need to manually create tables via phpmyadmin and to share mysql database files.
+                    Indonesea.id社は2011年に、テイラー・オトエル氏によって開発された「Laravel PHP 7 framework」の初期タイプをリリースしました。この「PHP Framework/Library」とは、MVCコンセプトを用いたオープンソースのWeb開発技術で、その多様で複雑な機能は、優れたプログラミング言語として知られています。また、「Laravel Model Concept」のコラボレーション“移行機能”や「Laravel Composser」など開発者を支援する機能が豊富です。Terminal/Git Bashでコマンドを実行できるため、非常に使いやすくなっています。PHP Artisan config cache、PHP Artisan View Clearなどのコマンドは、configや表示設定のキャッシュをクリアするものです。また、
                     </p>
                     <p>
-                    Laravel’s Composer is used to pull and run packages through its easy-to-understand syntax. It is very user friendly because the commands can be run through Terminal / Git Bash, and it can also use commands such as the PHP Artisan config cache, and the PHP Artisan View Clear to clear the cache on config and display settings. In addition, Laravel’s user interface also supports the entire system / website maintenance mode automatically. One just needs to run the PHP Artisan Down. These commands can be executed easily via Terminal / Git Bash. The Laravel View Concept is supported by a templating engine known as a Blade Template capable of carrying out Front End Technology functions such as CSS, React, Javascript and Vue, all of which will be stored in 1 Laravel / ui package.
+                    Laravelのユーザーインターフェースは、システムやウェブサイト全体のメンテナンスを自動的にサポートしており、PHP Artisan Downを実行するだけで、それを復元するにはPHP Artisan Upを実行するだけで、これらのコマンドはTerminal/Git Bashで簡単に実行できます。また、LaravelのView Conceptは、Blade Templateと呼ばれるテンプレートエンジンによってサポートされており、CSSやReact.NETなどのフロントエンド技術を実行することができます。
                 </p>              
                 </div>
                 <div class="col-sm-5 vertical-align  photo-container">
@@ -217,7 +217,7 @@
                 
                     <h2 class="section-title text-center">Indonesea.id results</h2>
                     <p>
-                    Indonesea has put their trust in LOGIQUE to determine the design and development needs of an website appropriate for their requirements. The purpose of the website and their business is to make it easier for domestic and foreign visitors / customers to facilitate their diving tourism needs in Indonesia, namely through offering search and filtering features regarding diving destinations based on price and location. This feature has also been integrated with a payment gateway so that customers can make payments in real time and so that all reservation data will be recorded on the Indonesea.id Administration Panel Booking System.
+                    Indonesea.id社は、「インドネシアでダイビングを楽しみたい国内外の観光客が、より手軽に旅行を楽しむことができるように」という目標を達成するために、より効果と信頼性の高いWebサイトの設計・開発を、LOGIQUE DIGITAL INDONESIAに託しました。この開発においては、価格と位置に基づいたダイビングスポットの検索とフィルタリング機能ほか、リアルタイムでの支払システムと全予約データの一括管理システムなどを組み込んでいます。
                     </p>
                 
                     <div class="  text-center">
