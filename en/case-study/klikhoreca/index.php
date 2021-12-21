@@ -34,7 +34,9 @@
   <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
    <link rel="stylesheet" href="../../../css/sidebar-update.css" >
   <!-- case study style -->
-  <link href="css/new-style.css" rel="stylesheet">
+  <!-- <link href="./css/new-style.css" rel="stylesheet"> -->
+  <link href="../../../case-study/klikhoreca/css/new-style.css" rel="stylesheet">    
+  <link href="../../../css/newstyle.css" rel="stylesheet">
 
     </head>
 	<body>
@@ -50,7 +52,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/klikhoreca/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/klikhoreca/">JP</a></li>
               </ul>
             </div>
           </div>
@@ -157,7 +159,7 @@
                 <div class="col-sm-7 text-container">
                     <h2 class="section-title">Klikhoreca</h2>
                     <p>
-                    Klikhoreca is an Indonesian based online store that provides food products and further aims to continuously improve itself. Klikhoreca offers a wide variety of grocery products and also provides a Business Account upgrade feature, which itself offers various advantages, including the ability to make payments easier through a Business Account payment system that utilizes a Ceiling Limit. Apart from that, Klikhoreca also provides a variety of interesting features that will certainly facilitate an easier and more comfortable shopping experience.
+                      Klikhoreca is an online store that provides food ingredients in Indonesia and will continue to develop. This online store offers more than hundreds of grocery products. Not only that, Klikhoreca also provides an account upgrade feature to a Business Account, where there are several advantages to becoming a business account, one of which is facilitating payments because the Business Account payment system uses a Ceiling Limit. In addition, Klikhoreca also provides a variety of interesting features that will certainly make it easier and provide your convenience when shopping.
                   </p>
                 </div>
                 <div class="col-sm-5 photo-container">
@@ -178,12 +180,11 @@
                 <div class="col-sm-6 text-container">
                     <h2 class="section-title">Background</h2>
                     <p>
-                    PT. Sinar Horeca Sukses currently functions on an offline basis. However, they aim to continuously develop and adapt their business in order to continue thriving within the current digital era. 
-In this regard, they have aimed to create a web system as well as a Progressive Web App (PWA) called Klikhoreca that assists people with their grocery related needs, so that Klikhoreca’s customers will not simply be limited to hotel, restaurant or cafe owners, but also individuals who are living and working from their homes. 
-Klikhoreca can be accessed from both desktop and mobile, and because it uses PWA technology, customers don't need to install applications that could potentially cause a decrease in their smartphone’s overall functionality.
- </p>
- <p> In order to make the Progressive Web App that they require, PT. Sinar Horeca Sukses has felt it necessary to work with LOGIQUE DIGITAL INDONESIA in assisting them with developing the system. The PWA system has also created a new standard for installable applications and is further supported by all major platforms, thus creating a different user experience when shopping through each respective platform.
-</p>
+                      PT. Sinar Horeca Sukses is actually already running Offline at this time, but they want to continue to develop their business in this digital era so that they can continue to compete. Therefore, they have the desire to create a web system as well as a Progressive Web App (PWA) called Klikhoreca and aims to attract all people to shop for food ingredients, so it is hoped that customers from Klikhoreca are not only hotel, restaurant or cafe owners, but also individuals living at home. Klikhoreca can be accessed from desktop and mobile, and because it uses PWA technology, customers do not need to install or install applications that cause smartphone performance to decrease.
+                    </p>
+                    <p> 
+                      To make the Progressive Web App they want, PT. Sinar Horeca Sukses felt the need to work with LOGIQUE DIGITAL INDONESIA to assist them in developing the system. The PWA system has also created a new standard for applications that can be installed and has been supported by each platform so as to create a different user experience in shopping.
+                    </p>
                 <?php /*  <div class=" ">
                     <div class="morecs">
                                       </div>
@@ -209,8 +210,10 @@ Klikhoreca can be accessed from both desktop and mobile, and because it uses PWA
                 <div class="col-sm-7 text-container">
                     <h2 class="section-title">Applied Technology </h2>
                     <p>
-                    framework, which is based on React.JS. Next.JS is a universal JavaScript framework capable of operating on browsers and servers. It originates from a start-up called Zeit, and has made Next.js the universal and most popular framework of choice in 2018. It allows for an easy way to create and develop when using React.js as a template.
-                    </p><p>The Next.JS framework was implemented in the development of this system, specifically for its advantages which include automatic server-rendering for all components in the “pages” folder, its compatibility with SEO and various other benefits that support the development of a PWA system.
+                      In making the Klikhoreca PWA (Progressive Web App) system, the technology used is Next.JS which is based on React.JS. This framework is a universal JavaScript framework capable of operating in browsers and servers. This framework comes from a start-up called zeit, and makes Next.js the universal and most popular framework of choice in 2018. It offers an easy way of development when you use React.js as its template.
+                    </p>
+                    <p>
+                      The Next.JS framework was chosen in the development of this system, because it has advantages such as, all your components in the "pages" folder get server-rendered automatically, SEO Friendly, and various other advantages that support the development of the PWA system that will be carried out.
                     </p>
                        
                         
@@ -231,10 +234,10 @@ Klikhoreca can be accessed from both desktop and mobile, and because it uses PWA
                 
                     <h2 class="section-title text-center">Klikhoreca PWA (Progressive Web App) Results</h2>
                     <p>
-                    The cooperation between PT. Sinar Horeca Sukses and LOGIQUE DIGITAL INDONESIA has resulted in the successful development of the Klikhoreca PWA (Progressive Web App) system within a period of approximately 6 months. The system was able to progress notable improvements to PT. Sinar Horeca Sukses’s business through increasing the number of visitors to their website and by providing a new experience for mobile users through allowing the process of buying and selling to be conducted without installing complex and data consuming applications.
-                  </p>
+                      The collaboration between PT. Sinar Horeca Sukses with LOGIQUE DIGITAL INDONESIA has succeeded in developing the Klikhoreca PWA (Progressive Web App) system in approximately 6 months, where this system is able to provide changes to the business carried out by PT. Sinar Horeca Success in increasing the number of visitors to their website and providing a new experience for mobile users in conducting buying and selling transactions without installing applications that are quite complex and consume a lot of data.
+                    </p>
                 
-                    <div class="  text-center">
+                    <div class="text-center">
                         <img src="new-img/result-img.png"  style="width: 100%;">
                         </div>  
             </div>

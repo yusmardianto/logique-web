@@ -34,8 +34,8 @@
 
   <link href="../../../css/style.css" rel="stylesheet">
 	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <!-- case study style -->
-  <link href="css/style.css" rel="stylesheet">
+  <!-- case study style -->  
+  <link href="../../../case-study/jba-auction-system/css/style.css" rel="stylesheet">    
 
     </head>
 	<body>
@@ -51,7 +51,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/jba-auction-system/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/jba-auction-system/">JP</a></li>
               </ul>
             </div>
           </div>
@@ -156,7 +156,7 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">JBA Indonesia</h2>
               <p class="cs-desc">
-              JBA Indonesia is a company engaged in large scale auction and headquartered in Japan. This company specifically auctioned various automotive products, such as cars and motorbikes. JBA itself won the award as the most innovative auction hall in 2013 and 2014 in Indonesia. With a motto of trustworthy, safe, practical, and comfortable, JBA is able to provide professional services to make partners and customers satisfied.
+              JBA Indonesia is one of the foreign companies engaged in large-scale auctions and is headquartered in Japan. This company specializes in auctioning various automotive products, such as cars and motorcycles. JBA itself has won an award as an auction house with the best level of innovation during 2013 and 2014 in Indonesia. With the motto, reliable, safe, practical and comfortable, JBA is able to provide professional services so as to make business partners and customers satisfied.
               </p>
             </div>
           </div>
@@ -170,9 +170,9 @@
             <div class="col-sm-6">
               <h2 class="cs-subtitle">Background</h2>
               <p class="cs-desc">
-              SAs one of the best auction companies in Indonesia, of course we have many customers that we must serve. In addition, there are more and more vehicles that we have to auction off every month. This certainly makes us difficult if we do it manually. Therefore, we need a system that is able to help us deal with these problems in order to increase company profits.
+              As one of the best auction companies in Indonesia, of course we have many customers that we must serve. In addition, the number of vehicles that we have to auction every month is increasing. This of course makes it difficult for us if we do it manually. Therefore, we need a system that is able to assist us in dealing with these problems in order to increase the company's profit.
               <br><br>
-              In order for such a system to be realized, we collaborated with LOGIQUE DIGITAL INDONESIA to create the web system. LOGIQUE was chosen because they have a good reputation in the field of web development. In addition, LOGIQUE has also been trusted by various national and international companies to deal with various problems in the digital world.
+              In order for the system we want to be realized, we also cooperate with LOGIQUE DIGITAL INDONESIA to create the web system. LOGIQUE was chosen because it already has a good reputation in the web developer field. In addition, LOGIQUE has also been trusted by various national and international companies to handle various problems in the digital world.
               <br><br>
               </p>
             </div>
@@ -188,38 +188,23 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">The Technology Applied</h2>
               <p class="cs-desc">
-              To create JBA auction system, LOGIQUE uses the latest web technology that is used by professional web developers, local and abroad, namely NodeJS, SocketIO, and Android Native.
+              To create a JBA auction system, LOGIQUE DIGITAL INDONESIA uses the latest and latest web technologies that are usually used by professional web developers, both at home and abroad, namely NodeJS, SocketIO and Android Native.
               <br><br>
-              These three technologies have been widely recognized by programmers and professional web developers as the latest technology development systems that can help users to send data quickly and accurately.
+              These three technologies have been widely recognized by programmers and professional web developers as the latest system development technology that can help users to send data quickly and accurately.
               <br><br>
-              NodeJS was chosen because LOGIQUE felt that in making an online auction system, a machine that is able to execute Javascript is needed to run quickly and has good performance. This is because the online JBA auction system involves many users and data so that a high-tech engine system is needed as a solution.<br><br>
-              <!-- <a class="btn btn-cs" data-toggle="modal" href='#modal-id'>Detail</a>
-              <div class="modal fade" id="modal-id">
-                <div class="modal-dialog">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                      <h4 class="modal-title">The Technology Applied</h4>
-                    </div>
-                    <div class="modal-body">
-                    To create JBA auction system, LOGIQUE uses the latest web technology that is used by professional web developers, local and abroad, namely NodeJS, SocketIO, and Android Native.<br><br>
-                    These three technologies have been widely recognized by programmers and professional web developers as the latest technology development systems that can help users to send data quickly and accurately.<br><br>
-                    NodeJS was chosen because LOGIQUE felt that in making an online auction system, a machine that is able to execute Javascript is needed to run quickly and has good performance. This is because the online JBA auction system involves many users and data so that a high-tech engine system is needed as a solution.<br><br>
-                    SocketIO is also chosen as an intermediary media to accommodate all data shipments in real time so that the data obtained by users who are conducting online auctions in JBA is the actual real data.<br><br>
-                    In order for users to conduct online auctions at JBA anytime and anywhere, LOGIQUE finally uses Android Native technology so that the online auction system can be used on smartphone users with better and faster performance so that the data obtained is also the actual real time data.
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                    </div>
-                  </div>
-                </div>
-              </div> -->
+              NodeJS was chosen because LOGIQUE feels that in making an online auction system, it takes an engine that is able to execute Javascript quickly and has good performance. This happens because the online JBA auction system involves a lot of users and data, so a high-tech engine system is needed as a solution.
+             
               </p>
             </div>
             <div class="col-sm-6 col-sm-offset-6 col-md-12 col-md-offset-0">
-              SocketIO is also chosen as an intermediary media to accommodate all data shipments in real time so that the data obtained by users who are conducting online auctions in JBA is the actual real data.<br><br>
-              In order for users to conduct online auctions at JBA anytime and anywhere, LOGIQUE finally uses Android Native technology so that the online auction system can be used on smartphone users with better and faster performance so that the data obtained is also the actual real time data. <br><br>
-              All of these technologies are combined with Amazon Web Services (AWS) to provide scalable and reliable infrastructure that host all the important systems. AWS offers a broad set of services including compute, storage, database, analytics, and deployment services that can help businesses apply digital systems and applications faster with optimised costs. JBA and other LOGIQUE customers trust the scalability, security, or dependability of AWS to ensure their applications and digital businesses run smoothly. <br><br><br class="visible-md-visible-lg"><br class="visible-md-visible-lg">
+            <br>
+            Socket IO is also chosen as an intermediary medium to accommodate all data transmissions in real time so that the data obtained by users who are conducting online auctions at JBA is real data.
+              
+              <br><br>
+              So that users can conduct online auctions at JBA anytime and anywhere, LOGIQUE finally uses Android Native technology so that the online auction system can be used on the user's smartphone but with better and faster performance so that the data obtained is real time data.
+              
+              All of these technologies are combined with Amazon Web Services (AWS) as a reliable, highly scalable infrastructure for all critical systems. AWS offers a broad range of services including compute, storage, database, analytics, and deployment services that can help businesses deploy digital systems and applications more quickly at optimal cost. JBA and other LOGIQUE clients trust AWS' scalability, security, and reliability to ensure their applications and digital businesses run smoothly.
+              <br><br><br class="visible-md-visible-lg"><br class="visible-md-visible-lg">
             </div>
           </div>
         </section>
@@ -229,7 +214,7 @@
             <div class="col-md-12">
               <h2 class="cs-subtitle text-center">JBA Auction System</h2>
               <p class="cs-desc text-center">
-              Before creating an online auction system, we had difficulty in accommodating the needs of customers who wanted to conduct an auction. Not to mention if the number of vehicles auctioned is quite a lot, which of course will make our staff unable to focus so the potential for the occurrence of lost data and errors in the auction process is quite large. However, after carrying out the JBA Auction System made by LOGIQUE and all of our services made well-automated, we feel that our work is far more effective and efficient without worrying about customer data being lost or damaged.
+              Prior to establishing an online auction system, JBA had difficulties in accommodating the needs of customers who wished to conduct auctions. Not to mention if the number of vehicles being auctioned is quite large, which of course will make our staff not focus so that the potential for missing data and errors in the auction process is quite large. However, after implementing the JBA Auction System created by LOGIQUE and all of our services have been well automated, we feel that our work has become much more effective and efficient without worrying about losing customer data or being damaged.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block">
             </div>

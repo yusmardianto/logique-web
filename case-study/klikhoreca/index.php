@@ -35,9 +35,8 @@
     <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
     <link rel="stylesheet" href="../../../css/sidebar-update.css" >
     <!-- case study style -->
-    <link href="css/new-style.css" rel="stylesheet">
-    <link href="../../css/newstyle.css" rel="stylesheet">
-
+    <link href="./css/new-style.css" rel="stylesheet">    
+    <link href="../../../css/newstyle.css" rel="stylesheet">
 
     <?php 
       if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
@@ -73,7 +72,7 @@
                 <!-- <li><a href="/en/case-study/indonesea/">EN</a></li> -->
                 <li><a href="/en/case-study/klikhoreca/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/klikhoreca/">JP</a></li>
               </ul>
             </div>
           </div>

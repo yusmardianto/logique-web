@@ -33,7 +33,7 @@
 
   <link href="../../../css/style.css" rel="stylesheet">
 	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <!-- case study style -->
+  <!-- case study style -->  
   <link href="css/style.css" rel="stylesheet">
 
     </head>
@@ -50,7 +50,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/caroline-bidding-system/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/caroline-bidding-system/">JP</a></li>
               </ul>
             </div>
           </div>
@@ -156,7 +156,7 @@
             <div class="col-sm-6 col-md-pull-6">
               <h2 class="cs-subtitle">Background</h2>
               <p class="cs-desc">
-                Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining. Caroline wants to create a car e-commerce site with a different bidding system compared to other car e-commerce platforms that have existed in the development period of three months. Because Caroline doesn’t have a web developer, they need help from another web developer company to help them develop the Caroline site. So, they chose us as the best option because they saw the experiences LOGIQUE had.
+              Caroline is part of the PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining. Caroline wants to create a car buying and selling site with a different bidding system compared to other car buying and selling platforms that have been around for three months of development. Because Caroline doesn't have a web developer , they need help from another web development company to help them develop Caroline's site. In the end, they chose us as a companyweb developer because of the experiences Logique has.
               </p>
             </div>
           </div>
@@ -170,7 +170,7 @@
             <div class="col-sm-6">
               <h2 class="cs-subtitle">Development Stage</h2>
               <p class="cs-desc">
-              LOGIQUE started developing the Caroline site in June 2018. A fairly short time is a big challenge for the team. To deal with such a short time, a certain strategy is needed so that the project can be completed on time. We use the &quot;agile&quot; development method to develop Caroline&#39;s website. The agile development method that we implement is to quickly adapt and respond to changes, create small teams, and invite clients to collaborate in the web development. Due to good team coordination and work management, Caroline site is finally finished on time. The Caroline site can be used by all users in Indonesia within three months of development.
+              LOGIQUE started developing the Caroline site in June 2018. The tight time frame was a big challenge for the team. To get around the short development time, a certain strategy is needed so that the project can be completed on time. We used the “agile” development method to develop Caroline's site. The agile development method that we implement is to quickly adapt and respond to changes, create small teams, and invite clients to collaborate in web development. Due to good team coordination and work management, in the end Caroline's site was completed on time.
               <br><br>
               </p>
             </div>
@@ -190,7 +190,7 @@
             <div class="col-md-12">
               <h2 class="cs-subtitle text-center">Results and Impact</h2>
               <p class="cs-desc text-center">
-              After the site has been successfully developed, users can make car transactions with the highest bidding system. Because Caroline collaborates with ACC (Astra Credit Company) that has been registered with OJK, car transactions can be made in cash or credit. The quality of the cars on Caroline is no doubt. Because, the Caroline commissioned a reliable inspector to check the cars sold on the site. Caroline can help users in making car purchase transactions with the highest bidding system easily.
+              After the site is successfully developed, users can make car transactions with the highest bidding system. Because Caroline cooperates with ACC (Astra Credit Company) which has been registered with the OJK, car transactions can be made in cash or credit. The quality of the car contained in Caroline is unquestionable. Because, Caroline's party assigned a reliable inspector to check the cars sold on the site. Caroline can help users in making car purchase transactions with the highest bidding system easily.
               </p>
               <img src="img/img-4.png" alt="case study logique" class="img-responsive center-block custom-2">
             </div>

@@ -215,7 +215,7 @@ $('.map-container').click(function(){$(this).find('iframe').addClass('clicked')}
     var updatedYear = new Date().getFullYear();
     $('.copyrightYear').html(updatedYear);
 </script>
-
+<?php /*
 <!-- override purechat styling -->
 <!-- <script>
     $(function() {
