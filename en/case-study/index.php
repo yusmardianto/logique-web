@@ -227,7 +227,7 @@
 
           <div class="row flex__row card-container">
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem">
-                <a href="/case-study/caroline-bidding-system" class="links__item">
+                <a href="/en/case-study/caroline-bidding-system" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/1.webp" type="image/webp">
@@ -244,7 +244,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website mobileapp websystem">
-              <a href="/case-study/jba-auction-system" class="links__item">
+              <a href="/en/case-study/jba-auction-system" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/2.webp" type="image/webp">
@@ -261,7 +261,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website">
-              <a href="/case-study/opuspark" class="links__item">
+              <a href="/en/case-study/opuspark" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/3.webp" type="image/webp">
@@ -277,7 +277,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter websystem">
-                <a href="/case-study/zuttoride-customer-management-system" class="links__item">
+                <a href="/en/case-study/zuttoride-customer-management-system" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/4.webp" type="image/webp">
@@ -294,7 +294,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter webapp">
-              <a href="/case-study/vip-plaza-progressive-web-app" class="links__item">
+              <a href="/en/case-study/vip-plaza-progressive-web-app" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/5.webp" type="image/webp">
@@ -311,7 +311,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter webapp">
-              <a href="/case-study/klikhoreca" class="links__item">
+              <a href="/en/case-study/klikhoreca" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/6.webp" type="image/webp">
@@ -328,7 +328,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website">
-              <a href="/case-study/indonesea" class="links__item">
+              <a href="/en/case-study/indonesea" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/7.webp" type="image/webp">
@@ -344,7 +344,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter websystem">
-              <a href="/case-study/pan-pacific" class="links__item">
+              <a href="/en/case-study/pan-pacific" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/8.webp" type="image/webp">
@@ -360,7 +360,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
-              <a href="/case-study/jba-bastk" class="links__item">
+              <a href="/en/case-study/jba-bastk" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/9.webp" type="image/webp">
@@ -376,7 +376,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
-              <a href="/case-study/aia-surrender" class="links__item">
+              <a href="/en/case-study/aia-surrender" class="links__item">
                     <div class="img-container" style=" border: solid 1px #f1f1f1; ">
                       <picture>
                         <source srcset="./assets/img/card/10.webp" type="image/webp">
@@ -393,7 +393,7 @@
             </div>
 
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
-                <a href="/case-study/assa-fms" class="links__item">
+                <a href="/en/case-study/assa-fms" class="links__item">
                     <div class="img-container" style=" border: solid 1px #f1f1f1; ">
                       <picture>
                         <source srcset="./assets/img/card/11.webp" type="image/webp">
@@ -409,7 +409,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
-                <a href="/case-study/sistem-inspeksi-alat-berat-buma" class="links__item">
+                <a href="/en/case-study/sistem-inspeksi-alat-berat-buma" class="links__item">
                     <div class="img-container" style=" border: solid 1px #f1f1f1; ">
                       <picture>
                         <source srcset="./assets/img/card/12.webp" type="image/webp">
