@@ -182,7 +182,7 @@
               </div>
               <div class="row">
                 <div class="col-md-6">
-                  <h1 class="title-index">Studi Kasus</h1>
+                  <h1 class="title-index">Case Study</h1>
                   <p>For over 9 years, Logique has proudly assisted a variety of well-known Indonesian clients, from local startups to international companies, aiming to realize their endeavors in developing professional digital systems, including Websites, Web Apps and Mobile Applications.</p> 
                 </div>
               </div>
@@ -238,7 +238,7 @@
                       <p>Website & Web System</p>
                     </div>
                     <p class="card-title">Caroline</p>
-                    <p class="card-content">Situs Jual Beli dengan Sistem Penawaran Online</p>
+                    <p class="card-content">A Website for Buying & Selling cars through an Online Bidding System</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 
                 </a>
@@ -256,7 +256,7 @@
                       <p>Website & Web System & Aplikasi Mobile</p>
                     </div>
                     <p class="card-title">JBA Indonesia</p>
-                    <p class="card-content"><strong>LOGIQUE</strong> mendukung penuh digitalisasi perusahaan lelang otomotif no.1 di Indonesia</p>
+                    <p class="card-content"><strong>LOGIQUE :</strong> Supporting the No. 1 Indonesian Automotive Auction Company</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
@@ -272,7 +272,7 @@
                       <p>Website</p>
                     </div>
                     <p class="card-title">Opus Park</p>
-                    <p class="card-content">Properti Berkelas Dunia di Sentul City</p>
+                    <p class="card-content">World Class Real Estate & Properties in Sentul City</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
@@ -289,7 +289,7 @@
                         <p>Web System</p>
                       </div>
                       <p class="card-title">Zutto Ride CRM</p>
-                      <p class="card-content">Sistem Management Pelanggan</p>
+                      <p class="card-content">A Customer Management System</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
@@ -323,7 +323,7 @@
                         <p>Web App</p>
                       </div>
                       <p class="card-title">Klikhoreca</p>
-                      <p class="card-content">Pengembangan teknologi PWA pada Online Shop memberi pengalaman baru dalam berbelanja</p>
+                      <p class="card-content">Supporting the Growth of Online Store PWA Technologies; a Better Shopping Experience</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
@@ -355,7 +355,7 @@
                       <p>Web System</p>
                     </div>
                     <p class="card-title">Pan Pacific</p>
-                    <p class="card-content">Hasil Sistem Investasi Pan Pacific Insurance</p>
+                    <p class="card-content">Results of developing Pan Pacific’s Professional Insurance Investment System</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
@@ -371,7 +371,7 @@
                       <p>Website & Web System & Aplikasi Mobile</p>
                     </div>
                     <p class="card-title">JBA eBASTK</p>
-                    <p class="card-content">Proses Pengembangan Aplikasi</p>
+                    <p class="card-content">The Application Development Process</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
             </div>
