@@ -50,6 +50,9 @@
                                     <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram" class='instagram-icon'> </a></li>
                                     <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"  aria-label="LinkedIn" class="linkedin-icon"> </a></li>
                                 </ul>
+
+                                <img class="rounded" src="./img/img-footer-googlepartner-withborder.png" width="72" height="auto" style="margin-top: 1rem;"/> 
+                                
                             </div>  
                         </div>
                     </div>
