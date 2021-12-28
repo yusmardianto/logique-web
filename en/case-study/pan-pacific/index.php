@@ -46,7 +46,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/pan-pacific/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/pan-pacific/">JP</a></li>
               </ul>
             </div>
           </div>

@@ -261,7 +261,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website">
-              <a href="/en/case-study/opuspark" class="links__item">
+              <a href="/jp/case-study/opuspark" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/3.webp" type="image/webp">
@@ -277,7 +277,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter websystem">
-                <a href="/en/case-study/zuttoride-customer-management-system" class="links__item">
+                <a href="/jp/case-study/zuttoride-customer-management-system" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/4.webp" type="image/webp">
@@ -294,7 +294,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter webapp">
-              <a href="/en/case-study/vip-plaza-progressive-web-app" class="links__item">
+              <a href="/jp/case-study/vip-plaza-progressive-web-app" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/5.webp" type="image/webp">
@@ -344,7 +344,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter websystem">
-              <a href="/en/case-study/pan-pacific" class="links__item">
+              <a href="/jp/case-study/pan-pacific" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/8.webp" type="image/webp">
@@ -360,7 +360,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
-              <a href="/en/case-study/jba-bastk" class="links__item">
+              <a href="/jp/case-study/jba-bastk" class="links__item">
                     <div class="img-container">
                       <picture>
                         <source srcset="./assets/img/card/9.webp" type="image/webp">

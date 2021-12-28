@@ -52,7 +52,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/opuspark/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/opuspark/">JP</a></li>
               </ul>
             </div>
           </div>

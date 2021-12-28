@@ -10,8 +10,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Case Study untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
- 
+    content="Case Study untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App)."> 
   <meta name="keywords" content="Daftar klien logique, Klien logique untuk pembuatan website, Klien logique untuk pembuatan sistem web, Klien logique untuk pembuatan mobile app, Klien logique untuk pembuatan web app, Klien logique untuk pembuatan aplikasi web
 ">  
   <meta name="author" content="PT. Logique Digital Indonesia">

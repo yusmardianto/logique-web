@@ -65,9 +65,9 @@
             </div>
             <div class="col-xs-6 text-right">
               <ul>
-                <li class="active"><a href="/en/case-study/aia-surrender/">EN</a></li>
+                <li ><a href="/en/case-study/aia-surrender/">EN</a></li>
                 <li><a href="/case-study/aia-surrender/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li class="active"><a href="#">JP</a></li>
               </ul>
             </div>
           </div>
