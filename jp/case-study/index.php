@@ -376,7 +376,7 @@
                 </a>
             </div>
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
-              <a href="/en/case-study/aia-surrender" class="links__item">
+              <a href="/jp/case-study/aia-surrender" class="links__item">
                     <div class="img-container" style=" border: solid 1px #f1f1f1; ">
                       <picture>
                         <source srcset="./assets/img/card/10.webp" type="image/webp">
