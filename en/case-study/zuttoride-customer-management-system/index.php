@@ -51,7 +51,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/zuttoride-customer-management-system/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/zuttoride-customer-management-system/">JP</a></li>
               </ul>
             </div>
           </div>

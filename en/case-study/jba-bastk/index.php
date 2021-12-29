@@ -55,7 +55,7 @@
             <ul>
               <li class="active"><a href="#">EN</a></li>
               <li><a href="/case-study/jba-bastk/">ID</a></li>
-              <li><a href="#">JP</a></li>
+              <li><a href="/jp/case-study/jba-bastk/">JP</a></li>
             </ul>
           </div>
         </div>

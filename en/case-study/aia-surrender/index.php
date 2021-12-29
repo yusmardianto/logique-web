@@ -67,7 +67,7 @@
               <ul>
                 <li class="active"><a href="/en/case-study/aia-surrender/">EN</a></li>
                 <li><a href="/case-study/aia-surrender/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/aia-surrender/">JP</a></li>
               </ul>
             </div>
           </div>
