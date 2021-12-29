@@ -715,6 +715,15 @@
                                     </ul>  
                                 </a>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://southgate.id/prime/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/southgate-prime.png" class="img-responsive" alt="Southgate Prime">
+                                    <h3>Southgate Prime</h3>
+                                        <ul class="list-unstyled">
+                                        <li>Webリデザイン＆運用 (デザイン｜制作開発｜運用）BtoCウェブ, CMS, 不動産</li>
+                                    </ul>  
+                                </a>
+                            </div>
                         </div>
                         <!--- other -->
                         <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
