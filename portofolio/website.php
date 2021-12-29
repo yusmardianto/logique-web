@@ -622,6 +622,24 @@
                                         </ul>  
                                     </a>
                                 </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="https://ehime-sctv.com/" target="_blank" class="content__item">
+                                        <img src="/img/portfolio/update/ehime.png" class="img-responsive" alt="Beauty of Ehime Japan">
+                                        <h3>Beauty of Ehime Japan</h3>
+                                         <ul class="list-unstyled">
+                                            <li>Web Dev & Survey (Design | Survey Feature Dev | AWS) Survey, Japan Tourism, SCTV.</li>
+                                        </ul>  
+                                    </a>
+                                </div>
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="" target="_blank" class="content__item">
+                                        <img src="/img/portfolio/update/btpn.png" class="img-responsive" alt="BTPN Web Dev & Operation">
+                                        <h3>BTPN</h3>
+                                         <ul class="list-unstyled">
+                                            <li>Web Dev & Operation (Design | Develop | Operation) BtoB, CMS, Finance, Bank</li>
+                                        </ul>  
+                                    </a>
+                                </div>
                             </div>
 
                             <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Lainnya</h3>
