@@ -724,6 +724,24 @@
                                     </ul>  
                                 </a>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://ehime-sctv.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/ehime.png" class="img-responsive" alt="Beauty of Ehime Japan">
+                                    <h3>Beauty of Ehime Japan</h3>
+                                        <ul class="list-unstyled">
+                                        <li>アンケートWeb制作 (デザイン｜アンケート機能開発｜インフラ運用）アンケート調査実施, 日本旅行, 放送事業</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/btpn.png" class="img-responsive" alt="BTPN Web Dev & Operation">
+                                    <h3>BTPN</h3>
+                                        <ul class="list-unstyled">
+                                        <li>Web開発＆運用 (デザイン｜制作開発｜運用）BtoBウェブ, CMS, 金融, 銀行</li>
+                                    </ul>  
+                                </a>
+                            </div>
                         </div>
                         <!--- other -->
                         <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
