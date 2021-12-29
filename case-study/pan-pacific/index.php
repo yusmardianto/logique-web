@@ -67,7 +67,7 @@
                 <!-- <li><a href="/en/case-study/indonesea/">EN</a></li> -->
                 <li><a href="/en/case-study/pan-pacific/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/pan-pacific/">JP</a></li>
               </ul>
             </div>
           </div>

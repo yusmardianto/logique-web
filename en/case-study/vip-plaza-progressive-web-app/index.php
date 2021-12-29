@@ -52,7 +52,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/vip-plaza-progressive-web-app/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/vip-plaza-progressive-web-app/">JP</a></li>
               </ul>
             </div>
           </div>
