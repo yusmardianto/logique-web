@@ -134,11 +134,11 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/jp"><span itemprop="name">Home</span></a>
+                        <a itemprop="item" href="/jp"><span itemprop="name"> ホーム</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/jp/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                        <a itemprop="item" href="/jp/case-study/index.php"><span itemprop="name">&nbsp; 事例紹介</span></a>
                         <meta itemprop="position" content="2" />
                       </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
