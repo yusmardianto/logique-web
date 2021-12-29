@@ -143,6 +143,26 @@
           <h1 class="cs-title">AIA Surrender</h1>
           <h2 class="cs-title-2 hidden-xs">(Conservation Tool)</h2>
         </section>
+        <section class="breadcrumb-container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <ol class="breadcrumb breadcrumb--update-design" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                        <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/jp"><span itemprop="name"> ホーム</span></a>
+                            <meta itemprop="position" content="1">
+                        </li>
+                        <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="/jp/case-study/index.php"><span itemprop="name">&nbsp; 事例紹介</span></a>
+                            <meta itemprop="position" content="2">
+                        </li>
+                        <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item"><span itemprop="name">&nbsp;AIA Surrender</span></a>
+                            <meta itemprop="position" content="3">
+                        </li>
+                    </ol>
+                </div>
+            </div>
+        </section>
        
         <section class="cs-section">
           <img src="img/line-1.png" alt="case study logique" class="cs-line cs-line-1">

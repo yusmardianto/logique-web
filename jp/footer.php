@@ -180,7 +180,7 @@ footer {
                                             <li><a href="/jp/portfolio/digital-marketing.php">デジタルマーケティングの実績</a></li>
                                         </ul> 
                                     </li> 
-                                    <li><a href="/case-study/">事例紹介</a></li>  
+                                    <li><a href="/jp/case-study/">事例紹介</a></li>  
                                     <li><a href="/blog/category/interview/">インタビュー</a></li> 
                                     <li><a href="/white-paper.php"> ホワイトペーパー</a></li> 
                                     <li class="have-submenu" ><a href="/jp/product.php">プロダクト</a> 
