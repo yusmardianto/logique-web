@@ -353,7 +353,7 @@
           display:block;
         }
         </style>
-     <?php include '../../footer.php';?>
+     <?php include './footer.php';?>
 		</div>
 		<script>
         $('.showmore').click(function(){
