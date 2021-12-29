@@ -541,7 +541,7 @@
 
   </div>
 
-<?php include($_SERVER['DOCUMENT_ROOT'].'/en/footer.php'); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'].'/jp/footer.php'); ?>
 <!-- <script src="/js/jquery-3.min.js"></script> -->
 <!-- <script src="/js/bootstrap.min.js"></script> -->
 <!-- <script src="/js/slick.min.js"></script> -->
