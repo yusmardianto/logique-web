@@ -157,58 +157,60 @@
                 </div>
             </section>
 
-            <!-- CLIENT'S BACKGROUND -->
-            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
-                <div class="content-wrapper__">
-                    <div class="container__ ">
-                        <div class="row">
-                            <div class="col-md-8">
-                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
-                                <p class="title__description">
-                                JCB Indonesia is a leading global payment company originating from Japan, and remains the only credit card issuer and acquirer hailing from that country. JCB had launched its card business within its home country of Japan starting in 1961 and has since experienced a worldwide expansion from 1981 onwards. JCB cards are now issued primarily within Asia, with over 140 million card members. One of JCB's international growth strategies entails forming alliances with hundreds of the world's leading banks and financial institutions in order to increase its merchant coverage and its card member base. In Indonesia, JCB has issued credit cards through the six largest bank partners, namely BCA, BNI, CIMB Niaga, Bank Mandiri, and Maybank Indonesia, which offer various benefits and cross-border services, especially within Japan.
-                                </p>
-                                <p class="title__description">
-                                The global pandemic and its effect on Indonesia has since prompted JCB Indonesia to distribute educational funds worth IDR 50 million through a program entitled “JCB Peduli Anak - Semua Bisa Belajar", or the JCB Childcare - All Can Learn Program. This program’s mission is to properly facilitate equitable access to quality education. In order to realize this, JCB has collaborated with LOGIQUE so as to assist in drafting and digital marketing campaign planning, as well as functioning as an intermediary between the BenihBaik donation platform.
-                                </p>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/jcb/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+            <div style="background: url('/img/portfolio/digitalmarketing/jcb/bg-client-background.png') no-repeat; background-size: cover;">
+                <!-- CLIENT'S BACKGROUND -->
+                <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
+                    <div class="content-wrapper__">
+                        <div class="container__ ">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
+                                    <p class="title__description">
+                                    JCB Indonesia is a leading global payment company originating from Japan, and remains the only credit card issuer and acquirer hailing from that country. JCB had launched its card business within its home country of Japan starting in 1961 and has since experienced a worldwide expansion from 1981 onwards. JCB cards are now issued primarily within Asia, with over 140 million card members. One of JCB's international growth strategies entails forming alliances with hundreds of the world's leading banks and financial institutions in order to increase its merchant coverage and its card member base. In Indonesia, JCB has issued credit cards through the six largest bank partners, namely BCA, BNI, CIMB Niaga, Bank Mandiri, and Maybank Indonesia, which offer various benefits and cross-border services, especially within Japan.
+                                    </p>
+                                    <p class="title__description">
+                                    The global pandemic and its effect on Indonesia has since prompted JCB Indonesia to distribute educational funds worth IDR 50 million through a program entitled “JCB Peduli Anak - Semua Bisa Belajar", or the JCB Childcare - All Can Learn Program. This program’s mission is to properly facilitate equitable access to quality education. In order to realize this, JCB has collaborated with LOGIQUE so as to assist in drafting and digital marketing campaign planning, as well as functioning as an intermediary between the BenihBaik donation platform.
+                                    </p>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="flex justify-center">                                    
+                                        <img src="/img/portfolio/digitalmarketing/jcb/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
 
-            <!-- APPROACHING STRATEGY -->
-            <section class="portfolio__banner portfolio__banner-detail " style="background-image: none;">
-                <div class="content-wrapper__">
-                    <div class="container__ banner-detail__content">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
-                                <p class="title__description" >
-                                JCB has selected LOGIQUE to assist in the conceptualization process, as well as with the coordination with donation platforms, further helping with marketing endeavors for the JCB Peduli Anak program on JCB Indonesia’s accounts through digital advertisements.
-                                </p>
-                                <p class="title__description" >
-                                Among the various steps taken by LOGIQUE includes coordinating and collaborating with donation platforms that are able to provide certain services desired by JCB Indonesia. In addition, LOGIQUE also designs the appropriate marketing strategy of the donation program through analyzing JCB’s wider audience via its social media presence in order to receive high quality target audiences or potential JCB customers.
-                                </p>
-                                <p class="title__description" >
-                                Here are some strategies we have applied:
-                                </p>
-                                <ul class="approach-items">
-                                    <li class="approach-item">Effective coordination with JCB Indonesia so as to ensure that the details of the donation program run in accordance with any existing targets and objectives.</li>
-                                    <li class="approach-item">Working closely with the BenihBaik donation platform so as to adjust any appropriate details, as well as to actively provide feedback on the conditions for the donation recipient.</li>
-                                    <li class="approach-item">Identifying and profiling JCB Indonesia's audience in order to conduct effective digital marketing.</li>
-                                    <li class="approach-item">Creating content for JCB Indonesia's social media campaign.</li>
-                                    <li class="approach-item">Optimization of advertisement campaigns in order to provide good engagement results and to increase JCB Indonesia's brand awareness and engagement rate.</li>
-                                </ul>
+                <!-- APPROACHING STRATEGY -->
+                <section class="portfolio__banner portfolio__banner-detail " style="background-image: none;">
+                    <div class="content-wrapper__">
+                        <div class="container__ banner-detail__content">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                    <p class="title__description" >
+                                    JCB has selected LOGIQUE to assist in the conceptualization process, as well as with the coordination with donation platforms, further helping with marketing endeavors for the JCB Peduli Anak program on JCB Indonesia’s accounts through digital advertisements.
+                                    </p>
+                                    <p class="title__description" >
+                                    Among the various steps taken by LOGIQUE includes coordinating and collaborating with donation platforms that are able to provide certain services desired by JCB Indonesia. In addition, LOGIQUE also designs the appropriate marketing strategy of the donation program through analyzing JCB’s wider audience via its social media presence in order to receive high quality target audiences or potential JCB customers.
+                                    </p>
+                                    <p class="title__description" >
+                                    Here are some strategies we have applied:
+                                    </p>
+                                    <ul class="approach-items">
+                                        <li class="approach-item">Effective coordination with JCB Indonesia so as to ensure that the details of the donation program run in accordance with any existing targets and objectives.</li>
+                                        <li class="approach-item">Working closely with the BenihBaik donation platform so as to adjust any appropriate details, as well as to actively provide feedback on the conditions for the donation recipient.</li>
+                                        <li class="approach-item">Identifying and profiling JCB Indonesia's audience in order to conduct effective digital marketing.</li>
+                                        <li class="approach-item">Creating content for JCB Indonesia's social media campaign.</li>
+                                        <li class="approach-item">Optimization of advertisement campaigns in order to provide good engagement results and to increase JCB Indonesia's brand awareness and engagement rate.</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
+            </div>
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
