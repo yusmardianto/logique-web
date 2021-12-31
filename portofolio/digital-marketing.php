@@ -225,6 +225,15 @@
                                             <p>SEO | Website Maintenance | FB&IG Ads</p>
                                         </div>
                                     </a>                                
+                                </div> 
+                                <div class="col-md-4 col-sm-6 col-xs-12">
+                                    <a href="/portofolio/digital-marketing/jcb-indonesia.php">                                                             
+                                        <div class="content__item content__item--dm box-thumbnail" style="background-image: url('/img/portfolio/update/dm-jcb-bg.jpg')" data-toggle="modal" data-target="#modal-jcb">
+                                            <img src="/img/portfolio/update/dm-jcb.png" alt="">
+                                            <h4>Kampanye Program Donasi - JCB</h4>
+                                            <p>Conceptor & Cooperation with Donation Platform, Content Making, Instagram Campaign</p>
+                                        </div>
+                                    </a>                                
                                 </div>                                
                             </div>
                         </div>
