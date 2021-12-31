@@ -157,7 +157,7 @@
                 </div>
             </section>
 
-            <div style="background: url('/img/portfolio/digitalmarketing/jcb/bg-client-background.png') no-repeat; background-size: cover;">
+            <div style="background: url('/img/portfolio/digitalmarketing/jcb/bg-client-background.jpg') no-repeat; background-size: cover;">
                 <!-- CLIENT'S BACKGROUND -->
                 <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                     <div class="content-wrapper__">
@@ -183,7 +183,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <div class="flex justify-center">                                    
-                                        <img src="/img/portfolio/digitalmarketing/jcb/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                        <img src="/img/portfolio/digitalmarketing/jcb/pict-client-background.jpg" alt="" class="mt-20 visible-md visible-lg">                                    
                                     </div>
                                 </div>
                             </div>
@@ -222,7 +222,7 @@
             </div>
 
             <!-- THE RESULT -->
-            <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
+            <section class="portfolio__banner portfolio__banner-detail" style="background-image: none;">
                 <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/jcb/bg-footer.png'); background-size: cover;">
                     <div class="container__ banner-detail__content">
                         <div class="row">
