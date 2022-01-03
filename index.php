@@ -132,8 +132,6 @@ ini_set('display_error', 0);
 
       </div>
 
-
-
       <div class="bg-white-opacity"></div>
 
       <div id="bgImg" style="height: auto; margin-left: auto; margin-right: auto; overflow: visible">
