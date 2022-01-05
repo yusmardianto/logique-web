@@ -1,0 +1,643 @@
+@font-face {
+  font-family: 'Avenir Next Condensed';
+  src: url('../fonts/AvenirNextCondensed-Regular.woff2') format('woff2'),
+      url('../fonts/AvenirNextCondensed-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Avenir Next Condensed';
+  src: url('../fonts/AvenirNextCondensed-Medium.woff2') format('woff2'),
+      url('../fonts/AvenirNextCondensed-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Novocento Sans Wide";
+  src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Novocento Sans Wide Medium";
+  src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  font-family: 'Raleway', 'sans-serif';
+  line-height: 1.7;
+  font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Avenir Next Condensed', sans-serif;
+}
+
+.ff--novocento {
+  font-family: 'Novocento Sans Wide';
+}
+
+.logofont {  
+  font-family: 'Novocento Sans Wide Medium' !important;
+}
+
+.relative {
+  position: relative;
+}
+
+.img-fluid {
+  width: 100%;
+}
+
+.cs-wrap {
+  margin-left: 90px;
+}
+
+.cs-top {
+  position: relative;
+}
+
+.cs-bottom {
+  position: relative;
+  /* background-image: url(../img/bg-bottom.png); */
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* padding: 30px 50px; */
+  text-align: center;
+}
+
+.cs-bottom .cs-bottom__text {
+  background: url("/case-study/img/bg-bottom.png") center/cover no-repeat;
+  padding: 15px 50px 30px;
+}
+
+.cs-bottom .cs-bottom__btn {
+  background-color: #F4F4F4;
+  overflow: hidden;
+}
+.cs-bottom .cs-bottom__btn .btn-wrapper {
+  padding: 30px 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+.cs-bottom__btn .btn-wrapper > div {
+  flex-basis: 20%;
+  padding: 0 15px 20px;
+  min-width: 185px;
+}
+
+.cs-bottom__btn .btn-wrapper .btn--cs-bottom {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  color: #000;
+  margin: 0 10px;
+  padding: 20px 15px;
+  text-align: left;
+  height: 100%;
+  min-height: 270px;
+}
+
+.btn--cs-bottom > picture > img {
+  width: 50px;
+  margin-bottom: 20px;
+}
+
+.btn--cs-bottom > h5 {  
+  font-family: 'Novocento Sans Wide';
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+.btn--cs-bottom > p {
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.btn--cs-bottom > .arrow--cs-bottom {
+  align-self: baseline;
+  margin-top: auto;
+  height: 10px;
+  width: auto;
+}
+
+@media (max-width: 991.98px) {
+  .cs-bottom .cs-bottom__btn .btn-wrapper {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .cs-bottom .cs-bottom__text,
+  .cs-bottom .cs-bottom__btn .btn-wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .cs-bottom__btn .btn-wrapper > div {
+    flex-basis: 50%;
+    min-width: unset;
+  }
+  .cs-bottom__btn .btn-wrapper .btn--cs-bottom {
+    min-height: unset;
+    margin: 0;
+  }
+}
+
+@media (max-width: 320px) {
+  .cs-bottom__btn .btn-wrapper > div {
+    flex-basis: 100%;
+  }
+  .cs-bottom__btn .btn-wrapper .btn--cs-bottom {
+    min-height: unset;
+  }
+}
+
+.cs-logo-bottom {
+  max-height: 40px;
+}
+
+.cs-title {
+  position: absolute;
+  content: '';
+  display: inline-block;
+  top: 33%;
+  right: 21%;
+  font-size: 48px;
+  font-weight: 500;
+}
+.cs-title-2 {
+  position: absolute;
+  content: '';
+  display: inline-block;
+  top: 43%;
+  right: 15%;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+  font-style: italic;
+}
+
+.cs-subtitle {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.cs-subtitle-top {
+  font-size: 42px;
+  font-weight: bold;
+  font-family: 'Avenir Next Condensed', sans-serif;
+}
+
+.cs-desc {
+  font-size: 15px;
+}
+
+.cs-section {
+  position: relative;
+  padding: 25px 50px;
+}
+
+.cs-section:nth-child(2) {
+  margin-bottom: 30px;
+}
+
+.cs-section:nth-child(3) {
+  margin-bottom: 40px;
+}
+
+.cs-section:nth-child(4), .cs-section:nth-child(5) {
+  margin-bottom: 50px;
+}
+.cs-section.result-section{
+  padding-bottom:0;
+}
+.cs-line {
+  position: absolute;
+  z-index: -1;
+}
+
+.cs-line-1 {
+  left: 0;
+  right: 0;
+  top: -203px;
+  margin: auto;
+  z-index: 1;
+}
+
+.cs-line-2 {
+  left: 35%;
+  top: -230px;
+}
+
+.cs-line-3 {
+  left: 0;
+  right: 0;
+  top: -170px;
+  margin: auto;
+}
+
+/* .cs-line-4 {
+  left: 33%;
+  top: -120px;
+  margin: auto;
+} */
+
+.cs-line-section-7-result{
+  left: 10%;
+  top: -92px;
+  margin: auto;
+}
+
+.cs-line-5 {
+  left: 20%;
+  top: -140px;
+}
+
+.ula li {list-style-type: number;font-weight: bold;font-family: 'Avenir Next Condensed';}
+.ula li .normal- {font-weight: normal;}
+.ula li .normal- span {
+  background: #0a69af;
+  height: 10px;
+  width: 10px;
+  display: inline-block;
+  margin-right: 10px;
+  border-radius: 50%;
+}
+.ula li .mb-2- {
+  margin-bottom: 10px;
+}
+
+.custom-arrow-line {
+    top: 317px;
+    position: absolute;
+    margin: auto;
+    left: 219px;
+    width: 14px;
+    z-index: -1;
+}
+
+.cs-orm {
+  position: absolute;
+}
+
+.cs-orm-1 {
+  z-index: -1;
+  right: 0;
+  bottom: -130px;
+}
+
+.cs-orm-2 {
+  z-index: -1;
+  left: 0;
+  top: -50px;
+}
+
+.cs-img {
+  position: absolute;
+}
+
+.cs-img-1 {
+  top: -135px;
+}
+
+.cs-img-3 {
+  top: -50px;
+  left: 70px;
+}
+
+.cs-others {
+  background: url('../img/bg-kuning-studi-kasus-lainnya.jpg');
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+@media (min-width: 992px) {
+  .cs-others {
+    background-position: right;
+  }
+}
+
+.cs-others h2 {
+  color: black;
+}
+
+.cs-others:before {
+  content: '';
+  background-color: black;
+  height: 7px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+}
+
+.cs-others > div {
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .cs-others > div:before {
+    content: url('../img/three-arrows.png');
+    position: absolute;
+    top: 15%;
+    left: -25px;
+  }
+
+  .cs-others > div:after {
+    content: url('../img/three-arrows.png');
+    position: absolute;
+    top: 5%;
+    right: -30px;
+    transform: rotate(-45deg);
+  }
+}
+
+@media (min-width: 992px) {
+  .cs-others > div:before {
+    top: 20%;
+  }
+
+  .cs-others > div:after {
+    top: 0;
+  }
+}
+
+.cs-others .row {
+  padding: 25px;
+  margin-bottom: -25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .cs-others .row {
+    background: url('../img/bg-abu-studi-kasus-lainnya.jpg');
+    background-position: bottom;
+    background-size: cover;
+  }
+}
+
+.cs-others .row a {
+  display: inline-block;
+  margin: 5px 0;
+}
+
+.btn-cs {
+  font-size: 20px;
+  font-weight: 400;
+  color: #807f7f;
+  background-color: #f5f6f8;
+  padding: 10px 50px;
+  border: 1px solid #eaebf0;
+  border-radius: 30px;
+}
+
+.btn-cs-bottom {
+  font-size: 18px;
+  font-weight: 400;
+  color: #000;
+  background-color: #dde0ee;
+  width: 260px;
+  padding: 15px;
+  margin: 30px 40px;
+  border-radius: 30px;
+}
+
+header {
+  position: relative;
+  background-color: #000;
+  height: 40px;
+  font-size: 16px;
+  color: #fff;
+  z-index: 2;
+  padding: 7px 0;
+}
+
+header img {
+  max-height: 16px;
+  margin-right: 10px;
+}
+
+header span {
+  font-family: 'Avenir Next Condensed', serif;
+}
+
+header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+header ul li {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+header ul li a {
+  font-family: 'Avenir Next Condensed', serif;
+  font-weight: 500;
+  padding: 2.5px 17px;
+  border-radius: 15px;
+  color: #fff;
+}
+
+header ul li a:hover {
+  color: #ffc914;
+}
+
+header ul li.active a {
+  background-color: #ffc914;
+  color: #000;
+}
+
+footer {
+  display: none;
+}
+
+.cs-wrap footer {
+  display: block;
+  margin-left: 0;
+  padding: 50px;
+  background-color: #000;
+}
+.cs-wrap footer h2 {
+  font-family: 'Lato', "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.cs-wrap footer img {
+  max-height: 30px;
+  width: auto;
+  margin-bottom: 20px;
+}
+.cs-wrap .copyright {
+  padding: 20px 0;
+  text-align: center;
+  color: #ffc914;
+  font-size: 16px;
+  background-color: #000;
+  border-top: 1px solid #fff;
+}
+
+/* overwrite */
+.margin-for-nav {
+  top: 40px;
+  transform: none;
+}
+
+.custom1 {
+  max-width: 90%;
+}
+
+@media (max-width: 1199px) {
+  .margin-for-nav {
+    margin-top: 40px;
+  }
+  .cs-line {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .cs-img {
+    position: static;
+    max-width: 100%;
+  }
+  .cs-section {
+    margin-bottom: 20px !important;
+  }
+  .cs-subtitle {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .wrapper .navbar-toggle {
+    left: 110px;
+    top: 45px;
+  }
+  .cs-wrap {
+    background-color: #fff;
+    margin-left: 0;
+  }
+  .cs-img {
+    display: block;
+    margin: 0 auto;
+  }
+  .cs-orm {
+    z-index: -1;
+  }
+  .wrapper .navbar-toggle.collapsed {
+    position: absolute !important;
+  }
+  header {
+    font-size: 12px;
+    padding: 10px 0;
+  }
+  header ul li {
+    padding: 0;
+  }
+  .cs-top {
+    text-align: center;
+  }
+  .cs-title {
+    position: static;
+    font-size: 30px;
+  }
+  .cs-title > p{
+    line-height: normal;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  .cs-section {
+    padding: 15px;
+  }
+  .cs-subtitle {
+    font-size: 30px;
+  }
+  .cs-desc {
+    font-size: 15px;
+  }
+  .cs-wrap footer {
+    padding: 15px;
+  }
+  .cs-bottom {
+    padding: 15px;
+  }
+  .btn-cs-bottom {
+    margin: 5px;
+    padding: 10px;
+    width: 160px;
+    font-size: 12px;
+  }
+  .custom1 {margin-top: -2em;}
+  .custom2 {margin-top: -1.5em;margin-bottom: 1.5em}
+  .custom3 {margin-bottom: -20px;}
+  .custom4 {text-align: center;}
+  ul.ula {padding: 15px;}
+}
+
+/* breadcrumb */
+.cs-wrap .breadcrumb-container {
+  background-color: #000;
+  padding: 0 50px;
+}
+.cs-wrap .breadcrumb--update-design {
+  padding: 0;
+}
+
+.cs-wrap .breadcrumb--update-design li a {
+  font-size: 13px;
+}
+
+.cs-wrap .breadcrumb--update-design li.active a {
+  color: #fff;
+}
+
+.cs-wrap .breadcrumb--update-design li.active a:hover {
+  text-decoration: none;
+  pointer-events: none;
+  cursor: none;
+}
+
+@media (max-width: 767.98px) {  
+  .cs-wrap .breadcrumb-container {
+    padding: 0 15px;
+  }
+}
+/* end breadcrumb */
+
+/* Reference expressive css : https://tailwindcss.com/ */
+.mb-1{
+
+  margin-bottom: 0.25rem;
+}
+
+.mb-3{
+
+  margin-bottom: 1rem;
+}
+
+.text-black{
+
+  color: black;
+}
+
+.font-weight-bold{
+  font-weight: bold;
+}
+
