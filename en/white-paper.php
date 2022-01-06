@@ -274,7 +274,8 @@
         </div>
 
     </div>
-    <?php include($_SERVER['DOCUMENT_ROOT'].'/footer.php');?>
+    
+    <?php include 'footer.php';?>
 
 </body>
 
