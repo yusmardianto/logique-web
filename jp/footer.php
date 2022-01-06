@@ -137,7 +137,7 @@ footer {
                                 <li><a href="/jp/portfolio.php">制作開発実績</a></li>
                                 <li><a href="/case-study/">事例紹介</a></li> 
                                 <li><a href="/blog/category/interview/">Interviews</a></li> 
-                                <li><a href="/en/white-paper.php">White Paper Download</a></li>     
+                                <li><a href="/jp/white-paper.php">White Paper Download</a></li>     
                             </ul>
                             <ul>
                                 <li ><a href="/jp/product.php">プロダクト</a> 
@@ -183,7 +183,7 @@ footer {
                                     </li> 
                                     <li><a href="/jp/case-study/">事例紹介</a></li>  
                                     <li><a href="/blog/category/interview/">インタビュー</a></li> 
-                                    <li><a href="/white-paper.php"> ホワイトペーパー</a></li> 
+                                    <li><a href="/jp/white-paper.php"> ホワイトペーパー</a></li> 
                                     <li class="have-submenu" ><a href="/jp/product.php">プロダクト</a> 
                                         <ul>
                                         <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>

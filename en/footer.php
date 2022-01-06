@@ -90,7 +90,7 @@ footer{margin-left:0;background-color:transparent}@media only screen and (max-wi
                                     </li> 
                                     <li><a href="/case-study/">Case Study</a></li> 
                                     <li><a href="/blog/category/interview/">Interviews</a></li> 
-                                    <li><a href="/white-paper.php">White Paper Download</a></li> 
+                                    <li><a href="/en/white-paper.php">White Paper Download</a></li> 
                                     <li class="have-submenu">  <a href="/produk.php">Our Product</a>
                                         <ul>
                                             <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja  <span style="font-size: 11px;">(Remote Working Tool) </span> </a> </li>
