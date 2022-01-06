@@ -85,26 +85,24 @@
         <!-- HEADER -->
         <?php 
             $lang = 'id';
-            $en_link = '/en/';
+            $en_link = '/en/white-paper.php';
             $id_link = '#';
-            $jp_link = '/jp/';
+            $jp_link = '/jp/white-paper.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 
         <div class="whitepaper">
-
             <section class="whitepaper__banner">
                 <div class="content-wrapper__">
-
                     <div class="container__">
                         <ol class="breadcrumb breadcrumb--update-design" itemscope itemtype="http://schema.org/BreadcrumbList">
                             <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
                                     href="/"><span itemprop="name">Beranda</span></a>
-                                <meta itemprop="position" content="1" />
+                                    <meta itemprop="position" content="1" />
                             </li>
                             <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
                                     itemprop="item"><span itemprop="name">&nbsp; White Paper</span></a>
-                                <meta itemprop="position" content="2" />
+                                    <meta itemprop="position" content="2" />
                             </li>
                         </ol>
                     </div>

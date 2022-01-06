@@ -425,29 +425,46 @@
                 </a>
             </div>
 
-          </div>
-
-          <!-- <div class="row contact-container">
-            <div class="col-md-12">
-              <picture>
-                <source srcset="./assets/img/bg-content.webp" type="image/webp">
-                <img src="./assets/img/bg-content.png" alt="">
-              </picture>
-              <div class="contact-us-section">
-                <p class="contact-title">Our experience is also applicable to you</p>
-                <div class="row">
-                  <div class="col-md-9">
-                    <p class="contact-content">Anda tertarik bekerja sama dengan kami dalam mengembangkan produk dalam bentuk website, aplikasi berbasis web, mobile app dan aplikasi mobile ?</p>
-                  </div>
-                  <div class="col-md-3">
-                    <a class="btn btn-default contact-button" href="/hubungi-kami.php">
-                      Hubungi Kami            
-                    </a>
-                  </div>
-                </div>
+              <!-- #5 row of cards -->
+              <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
+                <a href="/case-study/pentest-web-Yamaha" class="links__item">
+                    <div class="img-container" style=" border: solid 1px #f1f1f1; ">
+                      <picture>
+                        <!-- <source srcset="./assets/img/card/13.webp" type="image/webp"> -->
+                        <img src="./assets/img/card/13.jpg" class="img-responsive" alt="">
+                      </picture>
+                    </div>
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">PT Yamaha Indonesia Motor</p>
+                    <p class="card-content">Digital Maintenance</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                </a>
               </div>
-            </div>
-          </div> -->
+
+              <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
+                <a href="/case-study/pentest-API-Alodokter" class="links__item">
+                      <div class="img-container" style=" border: solid 1px #f1f1f1; ">
+                        <picture>
+                          <!-- <source srcset="./assets/img/card/12.webp" type="image/webp"> -->
+                          <img src="./assets/img/card/14.jpg" class="img-responsive" alt="Alodokter">
+                        </picture>
+                      </div>
+                      <div class="text-container">
+                        <p>Website</p>
+                      </div>
+                      <p class="card-title">Alodokter</p>
+                      <p class="card-content">Digital Maintenance</p>
+                      <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                  </a>
+              </div>
+
+              <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
+                <!-- WAITING NEW CONTENT -->
+              </div>
+
+          </div>           
 
         </div>
       </section>
