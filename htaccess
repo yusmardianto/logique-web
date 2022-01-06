@@ -74,6 +74,9 @@ redirectMatch 302 ^/layanan/?$ /layanan.php
 
 Redirect 301 /produk/nippo.php https://nippo.id/ina
 Redirect 301 /en/product/nippo.php https://nippo.id
+Redirect 301 /white-paper.php
+
+
 
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^logique.co.id [NC]
