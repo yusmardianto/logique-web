@@ -229,6 +229,10 @@
                                 <source srcset="/img/portfolio/client-list/webp/btpn.webp" type="image/webp">
                                 <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/btpn.png" alt="btpn">
                             </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/yamaha.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/yamaha.png" alt="yamaha">
+                            </picture>
                         </div>
                     </div>
                 </div>
