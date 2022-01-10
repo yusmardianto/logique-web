@@ -461,6 +461,23 @@
             </div>
 
             <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
+              <a href="/en/case-study/pentest-infrastruktur-GASI" class="links__item">
+                    <div class="img-container" style=" border: solid 1px #f1f1f1; ">
+                      <picture>
+                        <!-- <source srcset="./assets/img/card/12.webp" type="image/webp"> -->
+                        <img src="./assets/img/card/15.jpg" class="img-responsive" alt="PT Gunatronikatama Cipta">
+                      </picture>
+                    </div>
+                    <div class="text-container">
+                      <p>Website</p>
+                    </div>
+                    <p class="card-title">PT Gunatronikatama Cipta</p>
+                    <p class="card-content">Digital Maintenance</p>
+                    <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
+                </a>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12 filter website websystem mobileapp">
               <!-- WAITING NEW CONTENT -->
             </div>
 
