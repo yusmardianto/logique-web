@@ -42,21 +42,23 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
-    <meta name="keywords" content="website karir, karir perusahaan, jasa website karir, logique">
+        content="LOGIQUE can develop a recruitment website to make online recruitment easier for your company, utilizing an easy-to-navigate & attractive design.">
+    <meta name="keywords" content="Develop Recruitment website, Logique recruitment services, Logique Recruitment Jakarta, HR services Jakarta">
     <meta name="author" content="Logique Digital Indonesia">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Develop Your Recruitment Website | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/recruitment-web-dev.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="Have trouble hiring the right employee your company needs? LOGIQUE can help you create an effective recruitment web to ease you with online recruitment, with a built-in inquiry form, also easy-to-navigate and attractive design that appeal to all of your potential target candidates. Contact us to create yours now.">
+        content="LOGIQUE can develop a recruitment website to make online recruitment easier for your company, utilizing an easy-to-navigate & attractive design.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Recruitment Web Creation | Online Recruitment | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Develop Your Recruitment Website | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet">
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style-recruitment-website.css" rel="stylesheet">
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -105,95 +107,22 @@ footer {
 </style>
 
 <body class="careerpage">
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <div>
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-                data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
 
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/en/index.php">
-                                <div class="img-home"></div>
-                                Home
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/en/logique.php">
-                                <div class="img-about"></div>
-                                About Us
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/en/portfolio.php">
-                                <div class="img-portfolio"></div>
-                                Portfolio
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/en/services.php">
-                                <div class="img-services"></div>
-                                Services
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/en/product.php">
-                                <div class="img-product"></div>
-                                Product
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/en/career/">
-                                <div class="img-career"></div>
-                                Career
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/en/contact.php">
-                                <div class="img-contact"></div>
-                                Contact Us
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
-
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li class="active"><a href="">EN</a></li>
-                                    <li><a href="/layanan/pembuatan-web-karir.php">ID</a></li>
-                                    <li><a href="/jp/services/recruitment-web-dev.php">JP</a></li>
-                                </ul>
-                                <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan/pembuatan-web-karir.php';
+            $jp_link = '/jp/services/recruitment-web-dev.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 

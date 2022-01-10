@@ -15,7 +15,9 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
 	<meta property="og:description" content="LOGIQUE Digital Indonesia helped VIP Plaza Indonesia in Progressive Web Apps (PWA) development for their e-commerce site. Highly stable, secured, fast, with great UI and UX for users. Learn the case study in creating 'an app without install' here.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/en/case-study/vip-plaza-progressive-web-app/">
+
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -41,7 +43,7 @@
 		<div class="wrapper o-wrapper top-only">
 
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -50,7 +52,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/vip-plaza-progressive-web-app/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/vip-plaza-progressive-web-app/">JP</a></li>
               </ul>
             </div>
           </div>
@@ -122,7 +124,7 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
+          <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
           <h1 class="cs-title">VIP Plaza</h1>
           <h2 class="cs-title-2">Progressive Web App</h2>
         </section>
@@ -132,12 +134,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
+                        <a itemprop="item" href="/en"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
-                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - VIP Plaza</span></a>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
                         <meta itemprop="position" content="2" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item"><span itemprop="name">&nbsp; VIP Plaza</span></a>
+                        <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>
@@ -187,7 +193,7 @@
             </div>
           </div>
         </section>
-        <section class="cs-section">
+        <section class="cs-section result-section">
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
@@ -248,6 +254,16 @@
                     </picture>
                   </a>
               </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                  <a href="/en/case-study/jba-bastk/">
+                    <picture>
+                        <source srcset="img/btn-jba-bastk.webp" type="image/webp">
+                        <img class="img-responsive center-block" src="img/btn-jba-bastk.png" alt="Studi Kasus Lainnya">
+                    </picture>
+                  </a>
+              </div>
+              <style>.kembali-ke-index {background: #ffca13;color: #000;padding: 12px 15px;border-radius: 10px;box-shadow: 0 0 4px #afafaf;margin: 25px!important;}.kembali-ke-index:hover {opacity: .7;text-decoration: none;color: #333;}</style>
+              <div><a href="/case-study/" class="kembali-ke-index">Back To Study Case</a></div>
             </div>
           </div>
         </section>

@@ -6,44 +6,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Business Analyst. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja Business Analyst terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung bersama LOGIQUE. Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, business analyst, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Business Analyst | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja Business Analyst Terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Business Analyst. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja Business Analyst terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung bersama LOGIQUE. Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Business Analyst | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/it-generalist/business-analyst.php" />
+  <title>Lowongan Kerja Business Analyst Terbaru Jakarta | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
+
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -71,13 +55,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -148,39 +139,39 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>Business Analyst berperan untuk memastikan semua kebutuhan klien secara bisnis maupun teknis dapat terkonversi dengan baik ke dalam sistem. Seorang Business Analyst memiliki kemampuan analisa yang sangat kuat dan mampu menuangkan semua hasil analisa dan rancangan yang telah dibuat ke dalam dokumen terstruktur untuk selanjutnya dapat dijadikan acuan (Blueprint) dalam pengembangan sistem.</p>
+                <p>Business Analyst berperan dalam proses analisa dan merumuskan kebutuhan bisnis klien. Dengan kemampuan analisa yang baik, seorang bisnis analyst mampu membuat rumusan dan pemodelan bisnis yang akurat serta mendokumentasikannya ke dalam dokumen yang terstruktur dan komprehensif.</p>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
-                  <li>Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.</li>
-                  <li>Melakukan analisa dan membuat rancangan sistem berdasarkan proses bisnis.</li>
-                  <li>Mendokumentasikan business requirements dalam bentuk SDD/BRD/FSD, ERD, dan API spec.</li>
-                  <li>Berkolaborasi dengan Project Manager dan Tim Developer untuk memastikan pengembangan sistem sesuai dengan rancangan.</li>
+                  <li>Menggali dan melakukan analisa kebutuhan bisnis klien</li>
+                  <li>Membuat pemodelan (menggunakan BPMN, DFD, UML, ERD, dan screen modelling/wireframe), untuk memudahkan <i>stakeholder</i> dalam memahami rumusan kebutuhan bisnis.</li>
+                  <li>Mendokumentasikan <i>business requirements</i> dalam bentuk dokumen SDD/BRD/FSD.</li>
+                  <li>Berkolaborasi dengan Project Manager dan tim development dan tester untuk memastikan aplikasi yang dikembangkan sesuai dengan <i>business requirements</i>.</li>
                   <li>Menyajikan laporan yang tepat dan terstruktur.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Have Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>Memiliki kemampuan yang sangat baik dalam menganalisa kebutuhan sistem/aplikasi, memecahkan masalah secara sistematis, dan memberikan solusi yang relevan terkait kebutuhan sistem/aplikasi.</li>
-                  <li>Memiliki kemampuan mendokumentasikan business requirements, system requirement, dan technical documentation.</li>
-                  <li>Memiliki keahian berkomunikasi verbal dan nonverbal yang baik.</li>
-                  <li>Berorientasi pada pelayanan terhadap client/customer.</li>
-                  <li>Memiliki kemampuan interpesonal yang baik.</li>
-                  <li>Memiliki pengetahuan yang luas dengan dunia IT.</li>
                   <li>Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.</li>
                   <li>Memiliki pengalaman sebagai Business Analyst / System Analyst minimal 2 tahun.</li>
                   <li>Dapat bekerja dalam tim.</li>
+                  <li>Memiliki pengetahuan yang luas dalam dunia IT</li>
+                  <li>Berorientasi pada pelayanan terhadap client/customer </li>
+                  <li>Memiliki kemampuan interpesonal yang baik.</li>
+                  <li>Memiliki kemampuan yang sangat baik dalam menganalisa kebutuhan sistem/aplikasi, memecahkan masalah secara sistematis, dan memberikan solusi yang relevan terkait kebutuhan sistem/aplikasi.</li>
+                  <li>Memiliki kemampuan pemodelan dan mendokumentasikan business requirements</li>
+                  <li>Memiliki keahlian berkomunikasi verbal dan nonverbal dengan baik.</li>
+                  <li>Memiliki kemampuan Bahasa Inggris yang baik.</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
-                <li>Berpengalaman sebagai Business Analyst atau System Analyst dalam proyek Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, khususnya dalam industri otomotif.</li>
-                <li>Memiliki kemampuan atau pengalaman sebagai pemimpin tim BA / SA.</li>
-                <li>Memiliki kemampuan Bahasa Inggris yang baik.</li>
+                  <li>Berpengalaman sebagai Business Analyst atau System Analyst dalam proyek pengembangan website, pengembangan aplikasi berbasis web dan aplikasi mobile, khususnya dalam industry otomotif.</li>
+                  <li>Memiliki kemampuan atau pengalaman sebagai pemimpin tim BA / SA.</li>
+                  <li>Menguasai dasar-dasar algoritma pemrograman.</li>
                 </ul>
               </div>
             </div>
@@ -190,7 +181,14 @@
                 <ul class="career-list">
                   <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
                   <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
-                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
+                  <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
               <div class="career-requirement">

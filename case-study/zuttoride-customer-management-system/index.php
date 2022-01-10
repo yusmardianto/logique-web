@@ -1,47 +1,65 @@
 <!DOCTYPE html>
 <html lang="id">
   <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
-	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
-	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
+    <meta name="description" itemprop="description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
+    <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+    <meta name="author" content="PT. Logique Digital Indonesia">
+    <meta itemprop="name" content="PT. Logique Digital Indonesia">
+    <meta property="og:title" content="Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Logique">
+    <meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
+    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
+    <meta property="og:description" content="Zuttoride Indonesia adalah klien LOGIQUE, kerja sama yang kami lakukan adalah untuk pembuatan aplikasi Customer Management System (CRM). Jika Anda tertarik mendapatkan layanan ini dan berbagai layanan kami lainnya, segera hubungi kami.">
+    <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/zuttoride-customer-management-system/"/>
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
+    ga('create', 'UA-105878648-1', 'auto');
+    ga('send', 'pageview');
 
-	</script>
-  <title>Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE</title>
+    </script>
+    <title>Pembuatan Aplikasi Customer Management System (CRM) | Zuttoride | LOGIQUE</title>
 
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
-	</noscript>
+    <link href="../../../css/bootstrap.min.css" rel="stylesheet">
+    </noscript>
 
-  <link href="../../../css/style.css" rel="stylesheet">
-	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <!-- case study style -->
-  <link href="css/style.css" rel="stylesheet">
+    <link href="../../../css/style.css" rel="stylesheet">
+    <link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- case study style -->
+    <link href="css/style.css" rel="stylesheet">
+    
+    <?php 
+      if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo '<!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->';
+      }
+    ?>
+  </head>
 
-    </head>
 	<body>
+    <?php 
+      if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+        echo '<!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->';
+      }
+    ?>
 		<div class="wrapper o-wrapper top-only">
 
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>STUDI KASUS</span>
@@ -50,7 +68,7 @@
               <ul>
                 <li><a href="/en/case-study/zuttoride-customer-management-system/">EN</a></li>
                 <li class="active"><a href="#">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/zuttoride-customer-management-system/">JP</a></li>
               </ul>
             </div>
           </div>
@@ -122,7 +140,7 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
+          <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
           <h1 class="cs-title">ZuttoRide CRM</h1>
           <h2 class="cs-title-2">Sistem Management Pelanggan</h2>
         </section>
@@ -132,12 +150,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
+                        <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
+                      </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Zuttoride</span></a>
-                        <meta itemprop="position" content="2" />
+                          <a itemprop="item"><span itemprop="name">&nbsp; ZuttoRide</span></a>
+                          <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>
@@ -191,7 +213,7 @@
             </div>
           </div>
         </section>
-        <section class="cs-section">
+        <section class="cs-section result-section">
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
@@ -252,6 +274,16 @@
                   </picture>
                 </a>
               </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                <a href="/case-study/jba-bastk/">
+                  <picture>
+                    <source srcset="img/btn-jba-bastk.webp" type="image/webp">
+                    <img class="img-responsive center-block" src="img/btn-jba-bastk.png" alt="Studi Kasus Lainnya">
+                  </picture>
+                </a>
+              </div>
+              <style>.kembali-ke-index {background: #ffca13;color: #000;padding: 12px 15px;border-radius: 10px;box-shadow: 0 0 4px #afafaf;margin: 25px!important;}.kembali-ke-index:hover {opacity: .7;text-decoration: none;color: #333;}</style>
+              <div><a href="/case-study/" class="kembali-ke-index">Kembali Ke Halaman Indeks Studi Kasus</a></div>
             </div>
           </div>
         </section>
@@ -298,7 +330,7 @@
                 </a>
               </div>
               <div>
-                <a href="/layanan/web-dev.php" class="btn--cs-bottom">
+                <a href="/layanan/jasa-pembuatan-website.php" class="btn--cs-bottom">
                   <picture>
                     <source srcset="/case-study/img/icon/btn-web-dev.svg">
                     <img src="/case-study/img/icon/btn-web-dev.png" alt="">

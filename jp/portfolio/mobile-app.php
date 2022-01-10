@@ -16,15 +16,25 @@
     <meta property="og:description"
         content="LOGIQUEのモバイルアプリ開発実績を紹介。ホームページ制作、Webシステム構築、モバイルアプリ開発、Digitalマーケティングで豊富な実績があります。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/mobile-app.php"/>
     <title>モバイルアプリ開発実績 | LOGIQUEデジタルインドネシア</title>
 
-    <!-- Bootstrap -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://app.purechat.com">
+    <link rel="preconnect" href="https://prod.purechatcdn.com">
+    <link rel="preconnect" href="https://ajax.googleapis.com">
 
-    <link href="/css/style.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet"> 
+    
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-portfolio.css" rel="stylesheet">
+
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -32,68 +42,11 @@
     <div class="wrapper wrapper--update-design wrapper--update-design-font --jp">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-            data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="/jp/">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/logique.php">
-                            <div class="img-about"></div>
-                            会社概要
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="/jp/portfolio.php">
-                            <div class="img-portfolio"></div>
-                            制作実績
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/services.php">
-                            <div class="img-services"></div>
-                            サービス
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/product.php">
-                            <div class="img-product"></div>
-                            プロダクト
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            採用/<br>パートナー
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/contact.php">
-                            <div class="img-contact"></div>
-                            お問い合わせ
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'portfolio';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -103,24 +56,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/portfolio/mobile-app.php">EN</a></li>
-                                    <li><a href="/portofolio/mobile-app.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/mobile-app.php';
+            $id_link = '/portofolio/mobile-app.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <style>
         html {
@@ -196,7 +138,7 @@
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
                                     <div>
                                         <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Weeo Hino Connect</h3>
+                                        <h3>Weeo Gazelle App</h3>
                                     </div>
                                 </div>
                             </div>
@@ -209,33 +151,45 @@
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-midaz-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
-                                        <h3>NLEC Nihongo E-Learning PWA</h3>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-midaz.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-midaz.png" alt="Midazpay">
+                                        </picture>
+                                        <h3>Midazpay</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-jba.webp">
+                                            <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        </picture>                                        
                                         <h3>JBA Indonesia Auction Bidding App</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
-                                        <h3>Otomart - Used Car on Sale Finder App</h3>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
+                                        </picture>
+                                        <h3>Marubeni - UCO Collection Mobile App</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-frangipani-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-frangipani.webp">
+                                            <img src="/img/portfolio/update/mobile-frangipani.png" alt="">
+                                        </picture>
                                         <h3>Frangipani Esthetics Guest Comment App</h3>
                                     </div>
                                 </div>
@@ -251,7 +205,10 @@
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/caroline-bg.png')">
                                     <div>
-                                        <img src="/img/portfolio/update/caroline.png" alt="">
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/caroline.webp">
+                                            <img src="/img/portfolio/update/caroline.png" alt="">
+                                        </picture>
                                         <h3>Caroline Inspection App</h3>
                                     </div>
                                 </div>
@@ -277,6 +234,28 @@
                                     <div>
                                         <img src="/img/portfolio/update/mobile-sinarmas.png" alt="">
                                         <h3>Sinarmas Career</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                    <div>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-nlec.webp">
+                                            <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
+                                        </picture> 
+                                        <h3>NLEC Nihongo E-Learning PWA</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                    <div>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-otomart.webp">
+                                            <img src="/img/portfolio/update/mobile-otomart.png" alt="">
+                                        </picture>
+                                        <h3>Otomart - Used Car on Sale Finder App</h3>
                                     </div>
                                 </div>
                             </div>

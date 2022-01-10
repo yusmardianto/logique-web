@@ -6,123 +6,77 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Designer, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
+        content="Perusahaan Web Developer, Designer & Konsultan IT terbaik di Jakarta. LOGIQUE Digital Indonesia, Solusi untuk pengembangan Website, Web Sistem & Mobile App">
     <meta name="keywords"
         content="jasa pembuatan website, digital marketing, web developer, pengembangan aplikasi mobile, sistem aplikasi">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web / Mobile App Developer, Konsultan IT, Digital Marketing Jakarta | LOGIQUE">
+    <meta property="og:title" content="Web / Mobile App Developer & Konsultan IT Terbaik di Jakarta">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/logique.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia, perusahaan Web Developer, Konsultan IT, dan Digital Marketing di Jakarta yang berikan solusi terbaik untuk bisnis seperti pengembangan website, web sistem, dan mobile app.">
+        content="Perusahaan Web Developer, Designer & Konsultan IT terbaik di Jakarta. LOGIQUE Digital Indonesia, Solusi untuk pengembangan Website, Web Sistem & Mobile App">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Web / Mobile App Developer, Konsultan IT, Digital Marketing Jakarta | LOGIQUE</title>
+    <title>Web / Mobile App Developer & Konsultan IT Terbaik di Jakarta</title>
+
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <link href="css/style.css" rel="stylesheet">
+    
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
+    <link rel="stylesheet" href="/css/style-logique.css">
+    
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="canonical" href="https://www.logique.co.id/logique.php"/>  
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+
 
 </head>
 
 <body>
-    <div class="wrapper wrapper--update-design">
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
+        }
+    ?>
+    
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Beranda
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="#">
-                            <div class="img-about"></div>
-                            Tentang Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portofolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="layanan.php">
-                            <div class="img-services"></div>
-                            Layanan
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="produk.php">
-                            <div class="img-product"></div>
-                            Produk
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Karir
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="hubungi-kami.php">
-                            <div class="img-contact"></div>
-                            Hubungi Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'about';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
-        <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
-        <!-- <div class="contain-video">
-            <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
-                <source src="img/12377093.mp4" type="video/mp4">
-            </video>
-        </div>
-        <div class="bg-white-opacity"></div> -->
-
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/logique.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/logique.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/logique.php';
+            $id_link = '#';
+            $jp_link = '/jp/logique.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 
@@ -262,18 +216,11 @@
                     <hr class="title__yellow-line"><br>
                     <div class="row">
                         <div class="col-sm-6">
-                            <!-- <h4 class="title-index--bold">PERKEMBANGAN</h4><br> -->
-                            <p>Mndukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</p>
+                            <p>Mendukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</p>
                         </div>
                         <div class="col-sm-6">
-                            <!-- <h4 class="title-index--bold">INOVASI</h4><br> -->
                             <p>Berkontribusi pada pertumbuhan industri pembuatan dan pengembangan web / aplikasi mobile di Indonesia, serta memberikan peluang yang lebih baik bagi para pengembang web / aplikasi di Indonesia.</p>
                         </div>
-                        <!-- <div class="col-sm-4">
-                            <h4 class="title-index--bold">PELUANG</h4><br>
-                            <p>Untuk memberikan peluang yang lebih baik bagi Pencipta dan Pengembang di Indonesia dengan membantu memaksimalkan potensi mereka untuk masa depan yang lebih baik.
-                            </p>
-                        </div> -->
                     </div>
                 </div>
             </section>
@@ -307,7 +254,7 @@
                                 <hr class="company__divider">
 
                                 <li>Jumlah Karyawan</li>
-                                <li class="company__bold">58 (hingga Nov 2019)</li>
+                                <li class="company__bold">80 (hingga Nov 2020)</li>
                                 <hr class="company__divider">
 
                                 <li>Alamat Kantor Pusat</li>
@@ -396,35 +343,6 @@
                     </div>
                 </div>
             </section>
-
-            <!-- <section id="contact">
-                <div class="container__">
-                    <div class="row">
-                        <div class="col-sm-5">
-                            <h1 class="title-index" style="margin-bottom:0">Hubungi Logique</h1>
-                            <p>LOGIQUE siap membantu Anda.</p>
-                            <br>
-                            <hr class="title__yellow-line">
-                            <img src="../img/contact.png" style="width:100%" alt="contact">
-                        </div>
-                        <div class="col-sm-7">
-                            <ul class="lgq-does__list">
-                                <li>Mengembangkan situs web / sistem web / aplikasi mobile</li>
-                                <li>Mengganti agen outsourcing / vendor IT / Pemasaran Digital</li>
-                                <li>Mengelola pengoperasian situs web / sistem.</li>
-                                <li>Meningkatkan akses ke situs web Anda dengan SEO.</li>
-                                <li>Mengorganisir dan menjalankan strategi promosi online.</li>
-                                <li>Mencari penyewaan server web dan perusahaan untuk mengelolanya.</li>
-                                <li>Menerapkan sistem manajemen SDM/HR berbasis cloud</li>
-                                <li>Merencanakan strategi digital untuk bisnis Anda</li>
-                            </ul>
-                            <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
-                                LOGIQUE</a>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-
             <?php include "./contact-logique-section.php"; ?>
 
         </div>

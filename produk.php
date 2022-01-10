@@ -19,78 +19,54 @@
         content="LOGIQUE menawarkan berbagai produk digital untuk meningkatkan profit bisnis Anda, mulai dari software kerja remote, sistem laporan kerja karyawan, hingga sistem rekrutmen karyawan untuk HR. Hubungi sekarang juga jika Anda tertarik untuk mendapatkan layanan kami.">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>Produk Digital | Sistem Rekrutmen, Kerja Remote, Laporan Kerja | LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+
+    <!-- <link href="css/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css">
+    <link rel="stylesheet" href="/css/style-product.css">
+
+    <link rel="canonical" href="https://www.logique.co.id/produk.php"/>
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
+    
 </head>
 
 <body>
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
+        }
+    ?>
+
     <?//php include './popup.php'; ?>
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Beranda
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            Tentang Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portofolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="layanan.php">
-                            <div class="img-services"></div>
-                            Layanan
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="#">
-                            <div class="img-product"></div>
-                            Produk
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Karir
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="hubungi-kami.php">
-                            <div class="img-contact"></div>
-                            Hubungi Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'product';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
         <!-- <div class="contain-video">
             <video poster="img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -99,26 +75,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/product.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="/jp/product.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> <!-- END HEADER -->
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/product.php';
+            $id_link = '#';
+            $jp_link = '/jp/product.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
 
         <!-- CONTENT -->
         <div class="content-wrapper__">
@@ -151,8 +114,8 @@
                         <p class="title__description">Untuk membantu perusahaan tumbuh dan beradaptasi dalam era digital, LOGIQUE mengembangkan dan menyediakan produk digital, seperti sistem manajemen SDM, untuk meningkatkan operasi SDM, produktivitas, dan potensi keuntungan dalam organisasi.</p>
                         <div class="product-list">
                             <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
-                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
+                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                         </div>
                         <p class="title__description">Kami menyediakan solusi yang bertujuan untuk meningkatkan kinerja melalui jam kerja yang fleksibel dan peningkatan manajemen biaya melalui laporan harian, hingga sistem rekrutmen yang sangat membantu dalam menemukan karyawan yang paling berkualitas dengan cara yang seefisien mungkin.</p>
                     </div>
@@ -181,20 +144,30 @@
                         produktivitas karyawan dengan melihat bagaimana karyawan menghabiskan jam kerja mereka melalui fitur
                         auto-screencapture yang tersedia.</p>
 
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_1.png" alt="dokodemo_1">
+                    <div class="product-snap-shot dokodemo-ss">
+                        <div class="product-snap-shot__item mb10">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_1.jpg" alt="dokodemo_1">
                             <p class="product-snap-shot__text">Analisa waktu kerja berdasarkan project </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_2.png" alt="dokodemo_2">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_2.jpg" alt="dokodemo_2">
                             <p class="product-snap-shot__text">Melacak kegiatan dengan screenshot</p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_3.png" alt="dokodemo_3">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/dokodemo_3.jpg" alt="dokodemo_3">
                             <p class="product-snap-shot__text">Melacak jam kerja dan jam istirahat</p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
+                            <p class="product-snap-shot__text">Lihat Riwayat Absensi, Cuti, dan Liburan</p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
+                            <p class="product-snap-shot__text">Lacak Lokasi Karyawan dengan GPS</p>
                         </div>
                     </div>
 
@@ -206,7 +179,46 @@
                 </div>
             </section>
 
-            <section class="bg--gray">
+            <section  class="bg--gray">
+                <div class="container__">
+                    <h1 class="title-index">NIPPO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">Sistem laporan kerja karyawan dan Sistem Manajemen Jam Kerja</h4>
+                    <p class="title__description--full">Nippo adalah alat manajemen cloud laporan harian. Melalui Nippo, manajer SDM dan supervisor di setiap departemen dapat memeriksa bagaimana karyawan menghabiskan jam kerjanya. Mengizinkan rekan kerja untuk saling menandai dan mengevaluasi pekerjaan satu sama lain, sehingga membuat komunikasi internal menjadi lebih aktif.</p>
+
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_1.jpg" alt="nippo 1">
+                            <p class="product-snap-shot__text">Daily reporting semua karyawan </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
+                            <p class="product-snap-shot__text">Statistik kerja per proyek</p>
+                        </div>
+                    </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_3.jpg" alt="nippo 3">
+                            <p class="product-snap-shot__text">Statistik kerja secara keseluruhan </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_4.jpg" alt="nippo 4">
+                            <p class="product-snap-shot__text">Laporan individual </p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">
+                    Alat ini berguna untuk SDM untuk menghitung biaya jam kerja dari setiap tugas yang dilakukan oleh setiap karyawan. Melalui Nippo, evaluasi dan penilaian mandiri dapat dilakukan secara metodis setiap hari.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="produk/nippo.php"  target="_blank">Learn More</a>
+                    </div>
+                </div>
+            </section>
+
+            <section>
                 <div class="container__">
                     <h1 class="title-index">SUGOI SAIYO</h1>
                     <hr class="title__yellow-line">
@@ -231,52 +243,15 @@
                                 alt="sugoi saiyo 3">
                             <p class="product-snap-shot__text">Upload CV, sertifikat, dan dokumen-dokumen penting</p>
                         </div>
+                        
                     </div>
+                    
 
                     <p class="title__description--full">Sistem ini mencakup semua proses perekrutan dasar. Dari resepsi CV, penyaringan, pengujian dan penjadwalan wawancara, hingga mengirim surat penawaran; semua kegiatan ini bisa dilakukan melalui Sugoi Saiyo.
                     </p><br>
 
                     <div class="text-center">
                         <a class="btn--yellow" href="produk/sugoi-saiyo.php">Learn More</a>
-                    </div>
-                </div>
-            </section>
-
-            <section>
-                <div class="container__">
-                    <h1 class="title-index">NIPPO</h1>
-                    <hr class="title__yellow-line">
-                    <h4 class="title-index__sub">Sistem laporan kerja karyawan dan Sistem Manajemen Jam Kerja</h4>
-                    <p class="title__description--full">Nippo adalah alat manajemen cloud laporan harian. Melalui Nippo, manajer SDM dan supervisor di setiap departemen dapat memeriksa bagaimana karyawan menghabiskan jam kerjanya. Mengizinkan rekan kerja untuk saling menandai dan mengevaluasi pekerjaan satu sama lain, sehingga membuat komunikasi internal menjadi lebih aktif.</p>
-
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_1.png" alt="nippo 1">
-                            <p class="product-snap-shot__text">Daily reporting semua karyawan </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_2.png" alt="nippo 2">
-                            <p class="product-snap-shot__text">Statistik kerja per proyek</p>
-                        </div>
-                    </div>
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_3.png" alt="nippo 3">
-                            <p class="product-snap-shot__text">Statistik kerja secara keseluruhan </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="img/product/nippo/nippo_4.png" alt="nippo 4">
-                            <p class="product-snap-shot__text">Laporan individual </p>
-                        </div>
-                    </div>
-
-                    <p class="title__description--full">
-                    Alat ini berguna untuk SDM untuk menghitung biaya jam kerja dari setiap tugas yang dilakukan oleh setiap karyawan. Melalui Nippo, evaluasi dan penilaian mandiri dapat dilakukan secara metodis setiap hari.</p><br>
-
-                    <div class="text-center">
-                        <a class="btn--yellow" href="produk/nippo.php"  target="_blank">Learn More</a>
                     </div>
                 </div>
             </section>

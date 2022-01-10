@@ -5,25 +5,25 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-	<meta name="description" content="Logique offers professional seo optimization services, which include seo marketing, seo auditing and seo analysis, led by digital marketing consultants">
-	<meta name="keywords" content="logique, seo maintenance, search rank report, analytic report, SEO consultation, search console service, web maintenance, content writing, creative content, seo service provider, seo service jakarta, seo service indonesia, digital marketing, website marketing, white hat marketing, whitehat, white hat SEO, brand recognition, multilanguage content, website portfolio, SEO strategy">
+	<meta name="description" content="Logique is a professional SEO service agency in Jakarta, optimizing your website, Increasing your organic traffic & gaining more conversions.">
+	<meta name="keywords" content="SEO service jakarta, SEO content writer, SEO service provider">
 	<meta name="title" content="Logique provides Jakarta based Search Engine Optimization services">
 	<meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="LOGIQUE: Jakarta Based SEO Services & Consulting Available">
+	<meta property="og:title" content="LOGIQUE | A Professional SEO Service Agency In Jakarta">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/digital-marketing/seo-service.php">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
-	<meta property="og:description" content="Advance your website through high quality SEO Services to get you started. Rise through Google’s Ranks and improve your site’s on page SEO.">
+	<meta property="og:description" content="Logique is a professional SEO service agency in Jakarta, optimizing your website, Increasing your organic traffic & gaining more conversions.">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<title>Logique Digital Marketing - SEO Service Page</title>
+	<title>LOGIQUE | A Professional SEO Service Agency In Jakarta</title>
+	<link rel="canonical" href="https://www.logique.co.id/en/services/digital-marketing/seo-service.php"/>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+	<!-- <link href="/css/style.css" rel="stylesheet"> -->	
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 	<script>
 		(function(i, s, o, g, r, a, m) {
 			i['GoogleAnalyticsObject'] = r;
@@ -40,8 +40,8 @@
 		ga('create', 'UA-105878648-1', 'auto');
 		ga('send', 'pageview');
 	</script>
-	<!-- Twitter universal website tag code <-->
-	</-->
+	
+	<!-- Twitter universal website tag code -->
 	<script>
 		! function(e, t, n, s, u, a) {
 			e.twq || (s = e.twq = function() {
@@ -58,89 +58,20 @@
 
 <body>
 	<div class="wrapper wrapper--update-design wrapper--update-design-font">
-		<div class="nav-lp">
-			<button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar first"></span>
-				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="myNavbar">
-				<div class="backdrop-test"></div>
-				<div class="logique-nav logique-nav--update">
-					<div class="margin-for-nav">
-						<div class="text-center">
-							<a href="/en/index.php">
-								<div class="img-home"></div>
-								Home
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/logique.php">
-								<div class="img-about"></div>
-								About Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/portfolio.php">
-								<div class="img-portfolio"></div>
-								Portfolio
-							</a>
-						</div>
-						<div class="text-center active">
-							<a href="/en/services.php">
-								<div class="img-services"></div>
-								Services
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/product.php">
-								<div class="img-product"></div>
-								Product
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/career/">
-								<div class="img-career"></div>
-								Career
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/contact.php">
-								<div class="img-contact"></div>
-								Contact Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/en" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		<!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
 
-		<!-- HEADER -->
-		<div class="container-fluid">
-			<div class="row lang-logo--update-design">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-offset-1 col-sm-11">
-							<div class="container">
-								<a href="/en/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-								<ul class="list-inline">
-									<li class="active"><a href="#">EN</a></li>
-									<li><a href="/../layanan/digital-marketing/jasa-seo.php">ID</a></li>
-									<li><a href="/jp/services/digital-marketing/seo-service.php">JP</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- END HEADER -->
+		<?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan/digital-marketing/jasa-seo.php';
+            $jp_link = '/jp/services/digital-marketing/seo-service.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
 		<div class="content-area content-area__seo">
 
@@ -193,7 +124,10 @@
 							<br class="visible-lg">
 							<div class="row">
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-1.jpg" alt="team effort" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-1.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-1.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 								<div class="col-md-6 col-xs-12">
 									<p>Our team will always be ready to dedicate its efforts in improving the performance of your website that is supported by the experience of experts who have been experts in their respective fields for years.</p>
@@ -204,12 +138,18 @@
 									<p>Many website development companies are able to create and design websites that look very professional and modern, but unfortunately, most of these companies fail to optimize website functions to make them more friendly with the Search Engine Robot.</p>
 								</div>
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-2.jpg" alt="optimize website function" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-2.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-2.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 							</div>
 							<div class="row">
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-3.jpg" alt="web development understanding" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-3.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-3.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 								<div class="col-md-6 col-xs-12">
 									<p>And many SEO service providers know and understand how to optimize a website, however, it is often constrained because of the limitations of experts who understand website development.</p>
@@ -220,7 +160,10 @@
 									<p>In the end, making the process of optimizing the performance of a website takes a long time, whereas you want the company's growth to continue to increase over time.</p>
 								</div>
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-4.jpg" alt="teamwork" class="img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/solution-4.webp" type="image/webp"/>
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/solution-4.jpg" alt="team effort" class="img-responsive" loading="lazy">
+									</picture>
 								</div>
 							</div>
 							<p class="text-center">This is what <strong>LOGIQUE</strong> is trying to avoid. Every division involved in optimizing a website will work based on corridors and SEO methods while still paying attention to the aesthetics and functions of a website.</p>
@@ -434,7 +377,10 @@
 							</ul>
 							<div class="row">
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="" class=" contribution__img img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.webp" type="image/webp">
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="Our Contribution" class=" contribution__img img-responsive" loading="lazy">
+									</picture>
 								</div>
 								<div class="tab-content tab-content__text col-md-6 col-xs-12">
 									<div id="contribution_1" class="tab-pane fade in active">

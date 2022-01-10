@@ -14,7 +14,7 @@
 
 html,
 body {
-  font-family: Raleway;
+  /* font-family: Raleway; */
   background-color: #fff;
   overflow-x: hidden;
 }
@@ -22,9 +22,9 @@ body {
 @-ms-viewport {width: device-width}
 @-o-viewport {width: device-width}
 @viewport {width: device-width}
-* {
+/* * {
     font-family: Raleway;
-}
+} */
 header {
   background-image: url(../img/img-devops/main-banner-devops.jpg);
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@ header h1 {
   line-height: 22px;
 }
 header h1 span{
-  font-family: Raleway;
+  /* font-family: Raleway; */
   font-size: 18px;
   font-weight: bold;
   color: #ffca00;
@@ -468,13 +468,12 @@ footer {
   }
   header h1 { 
     font-size: 24px;
-    height: 36px;
     letter-spacing: -0.35px;
     color: #ffffff
   }
   header h1 span{
     color: #ffca00;
-    font-family: Raleway;
+    /* font-family: Raleway; */
     font-size: 18px;
     font-weight: bold;
   }
@@ -568,7 +567,7 @@ footer {
   }
   header h1 {
     font-size: 30px;
-    padding-top: 30px;
+    line-height: 1.2;
   }
   header .subtitle-header br {
     display: none;

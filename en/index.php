@@ -6,64 +6,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
+        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <meta name="keywords"
-        content="website creation, web-system development, internet marketing, SEO, designing, pamphlet, mobile application">
+        content="web system development company indonesia, web system development services indonesia, web system development jakarta, web system developer indonesia">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Web System Development Company in Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://logique.co.id/en">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is the leading Web Development / Design, Digital Marketing and IT consultancy in Jakarta. With experience in growing local and international businesses all across ASEAN, specifically in Indonesia and Japan, the company has assisted many enterprises in creating high quality websites, systems and developments within the digital world.">
+        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/en/" />  
     <!-- Facebook Pixel Code -->
     <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
-    <script>
-    ! function(f, b, e, v, n, t, s) {
-        if (f.fbq) return;
-        n = f.fbq = function() {
-            n.callMethod ?
-                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-        };
-        if (!f._fbq) f._fbq = n;
-        n.push = n;
-        n.loaded = !0;
-        n.version = '2.0';
-        n.queue = [];
-        t = b.createElement(e);
-        t.async = !0;
-        t.src = v;
-        s = b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t, s)
-    }(window, document, 'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '713777762291663');
-    fbq('track', 'PageView');
-    </script>
+    <script>!function(e,t,n,c,o,a){e.fbq||(c=e.fbq=function(){c.callMethod?c.callMethod.apply(c,arguments):c.queue.push(arguments)},e._fbq||(e._fbq=c),(c.push=c).loaded=!0,c.version="2.0",c.queue=[],(o=t.createElement(n)).async=!0,o.src="https://connect.facebook.net/en_US/fbevents.js",(a=t.getElementsByTagName(n)[0]).parentNode.insertBefore(o,a))}(window,document,"script"),fbq("init","713777762291663"),fbq("track","PageView");</script>
     <noscript><img height="1" width="1" style="display:none"
             src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
     <!-- End Facebook Pixel Code -->
-    <script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-105878648-1', 'auto');
-    ga('send', 'pageview');
-    </script>
+    <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview"); </script>
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-    <title>Web Developer / Design, Digital Marketing, IT Consultant | LOGIQUE DIGITAL INDONESIA</title>
+    <title>Web System Development Company in Jakarta | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
@@ -83,110 +48,25 @@
 
 <body>
     <style>
-    .bg--white {
-        position: relative;
-    }
-    section.visible-xs.visible-sm.--top {
-        position: relative;
-        z-index: 5;
-    }
-    @media (max-width: 768px) and (min-width: 415px) {
-        .custombox__product-wrapper {
-            margin-bottom: 2em;
-        }
-    }
-    @media (max-width: 768px) {
-        .col-sm-8 .custombox__btn-product {
-            font-size: 11px;
-        }
-    }
+    .bg--white{position:relative}section.visible-xs.visible-sm.--top{position:relative;z-index:5}@media (min-width:1200px){.title-index{white-space:nowrap}}@media (max-width:768px) and (min-width:415px){.custombox__product-wrapper{margin-bottom:2em}}@media (max-width:768px){.col-sm-8 .custombox__btn-product{font-size:11px}}
     </style>
 
     <?//php include '../popup.php'; ?>
     <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only">
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'home';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
 
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center active">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            About Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portfolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="services.php">
-                            <div class="img-services"></div>
-                            Services
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="product.php">
-                            <div class="img-product"></div>
-                            Product
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Career
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="contact.php">
-                            <div class="img-contact"></div>
-                            Contact Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END NAVIGATION -->
-
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li class="active"><a href="#">EN</a></li>
-                                    <li><a href="../index.php">ID</a></li>
-                                    <li><a href="../jp/index.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/';
+            $jp_link = '/jp/';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <div class="content-wrapper__"> 
             <div class="contain-video wrapper--update-design">
@@ -198,58 +78,72 @@
 
             <div id="bgImg" style="height: auto; margin-left:auto; margin-right: auto; overflow: visible;">
                 <div class="img homepage-hero">
-                    <div class="title-container  ">
-                         
-                            <div class="container__">
-                                <div class="row">
-                                    <div class="col-md-offset-1 col-md-10 text-center">
-                                        <h1 class="title-index" style="margin-top: 100px;">The Top Web System Developer in Jakarta, <br>Providing Digital
-                                            Solutions for Your Business</h1>
-                                        <p><strong>LOGIQUE DIGITAL INDONESIA</strong> is a professional Web Application / Mobile App Developer that
-                                            specializes in creating and designing WebApps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits.
-                                            <br>
-                                            Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
-                                    </div>
-                                </div>
-                                <div class="row  homepage-hero__card flex__row ">
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/web-dev.php" class="div-service-cat">
-                                            <img src="/img/top/i-top1.svg" alt="Website Production Service"
-                                                class="img-responsive" />
-                                            <h2>Website Production Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
-                                            <img src="/img/top/i-top2.svg" alt="Apps Development Service"
-                                                class="img-responsive" />
-                                            <h2>Apps Development Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/system-dev.php" class="div-service-cat">
-                                            <img src="/img/top/i-top3.svg" alt="Web System Development Service"
-                                                class="img-responsive" />
-                                            <h2>Web System Development Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
-                                    <div class="col-md-3 col-xs-6">
-                                        <a href="/en/services/penetration-test.php" class="div-service-cat">
-                                            <img src="/img/top/i-top4.svg" alt="Penetration Testing Service"
-                                                class="img-responsive" />
-                                            <h2>Penetration Testing Service</h2>
-                                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                        </a>
-                                    </div>
+                    <div class="title-container">                         
+                        <div class="container__">
+                            <div class="row">
+                                <div class="col-md-offset-1 col-md-10 text-center">
+                                    <h1 class="title-index" style="margin-top: 100px; ">The Top Web System Development Company in Jakarta, <br>Providing Digital Solutions for Your Business</h1>
+                                    <p><strong>LOGIQUE DIGITAL INDONESIA</strong> is a professional Web Application / Mobile App Developer that
+                                        specializes in creating and designing WebApps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits.
+                                        <br>
+                                        Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
                                 </div>
                             </div>
-                         
+                            <div class="row  homepage-hero__card flex__row ">
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/progressive-web-app-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top1.svg" alt="Website Production Service"
+                                            class="img-responsive" />
+                                        <h2>Web App (PWA) Development</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top2.svg" alt="Apps Development Service"
+                                            class="img-responsive" />
+                                        <h2>Apps Development Service</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/system-dev.php" class="div-service-cat">
+                                        <img src="/img/top/i-top3.svg" alt="Web System Development Service"
+                                            class="img-responsive" />
+                                        <h2>Web System Development Service</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                                <div class="col-md-3 col-xs-6">
+                                    <a href="/en/services/penetration-test.php" class="div-service-cat">
+                                        <img src="/img/top/i-top4.svg" alt="Penetration Testing Service"
+                                            class="img-responsive" />
+                                        <h2>Penetration Testing Service</h2>
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
+
+            <section class="bg--white">
+                <div class="container__">
+                    <a href="/en/services/dx-dm-service.php">
+                        <picture>
+                            <!-- webp -->
+                            <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.webp" type="image/webp">
+                            <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.webp" type="webp">
+
+                            <!-- jpeg -->
+                            <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.jpg" type="image/jpeg">
+                            <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.jpg" type="image/jpeg">
+                            <img srcset="/img/dx-dm-banner-en-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-en.jpg" alt="" class="img-responsive" style="width: 100%;">
+                        </picture>
+                    </a>
+                </div>
+            </section>
 
             <section class="portfolio bg--white">
                 <div class="container__">
@@ -262,7 +156,11 @@
                             <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
                         </div>
                         <div class="col-md-6">
-                            <img class="portfolio__img img-responsive" src="/img/our-portfolio.png" alt="portfolio">
+                            <picture>
+                                <source srcset="/img/our-portfolio-min.webp" type="image/webp">
+                                <source srcset="/img/our-portfolio-min.jpg">
+                                <img loading="lazy"  src="/img/our-portfolio-min.jpg" class="portfolio__img img-responsive" alt="">
+                            </picture>
                         </div>
                     </div>
                     <!-- <div class="row">
@@ -312,7 +210,10 @@
                         </div> -->
                         <div class="col-md-4 row__item">
                             <div class="item__img nippo">
-                                <img src="/img/top/i-nippo-update.png" alt="" class="img-responsive">
+                                <picture>
+                                    <source srcset="/img/top/i-nippo-update.webp" type="image/webp">
+                                    <img src="/img/top/i-nippo-update.png" alt="" loading="lazy" class="img-responsive">
+                                </picture> 
                             </div>
                             <div class="item__text">
                                 <h4>Nippo</h4>
@@ -322,7 +223,10 @@
                         </div>
                         <div class="col-md-4 row__item">
                             <div class="item__img">
-                                <img src="/img/top/i-sugoi-saiyo-update.png" alt="">
+                                <picture>
+                                    <source srcset="/img/top/i-sugoi-saiyo-update.webp" type="image/webp">
+                                    <img src="/img/top/i-sugoi-saiyo-update.png" alt="" loading="lazy">
+                                </picture>  
                             </div>
                             <div class="item__text">
                                 <h4>Sugoi Saiyo</h4>
@@ -410,161 +314,51 @@
                     <p>For more than 7 years, <strong>LOGIQUE</strong> has helped many high-end clients, ranging from the local startups to international enterprise, by developing various Websites, System, Web Apps and Mobile Apps.</p>
 
  
-                    <div class="flex__row case-study__slide">
-                        <div class=" row__item --sm top-2">
-                        <picture>
-                            <source srcset="/img/case-study-1.webp" type="image/webp">
-                            <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/caroline-bidding-system/">
-                                <div class="item__hover">
+                    <div class="flex__row case-study__slide case-study__case-item">
+                        <div class="col-md-4 col-xs-12">
+                            <a href="/en/case-study/jba-bastk" class="case-item" data-card-category="WEBSITE">
                                 <picture>
-                                    <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
-                                    <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
+                                <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
+                                <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
                                 </picture>
-                                <h4>Cars Selling Site with Online Bidding System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                                <p>Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.</p>
+                                <h6>JBA eBASTK</h6>
+                                <h4>LOGIQUE has successfully developed the Vehicle Handover Report (eBASTK) app for JBA Indonesia, which precisely records vehicle statuses at multiple delivery points</h4>
+                                <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                </div>
                             </a>
                         </div>
-                        <div class=" row__item --sm top-2">
-                        <picture>
-                            <source srcset="/img/case-study-2.webp" type="image/webp">
-                            <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/jba-auction-system">
-                                <div class="item__hover">
+                        <div class="col-md-4 col-xs-12">
+                            <a href="/en/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
                                 <picture>
-                                        <source srcset="/img/top/i-jba-update.webp" type="image/webp">
-                                        <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
-                                    </picture>
-                             
-                                <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                                <p>JBA is the largest car and motorcycle auction company in Indonesia. For JBA, we have been trusted in developing almost all systems used which include the main systems. 
-                                    </p>
-                              
+                                <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
+                                <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
+                                </picture>
+                                <h6>PT. AIA FINANCIAL</h6>
+                                <h4>In collaboration with LOGIQUE, PT. AIA Financial has developed the website based policy system “AIA Surrender”, accessible to users of all ages</h4>
+                                <br>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                </div>
                             </a>
                         </div>
-                        <div class="row__item --sm">
-                        <picture>
-                            <source srcset="/img/case-study-3.webp" type="image/webp">
-                            <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/opuspark/">
-                                <div class="item__hover">
-                                    
-                                    <picture>
-                                    <source srcset="/img/top/i-opus-park.webp" type="image/webp">
-                                    <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
-                                    </picture>  
-                                    <div>
-                                        <h4>Opus Park Sentul</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="row__item --sm">
-                        <picture>
-                            <source srcset="/img/case-study-4.webp" type="image/webp">
-                            <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/zuttoride-customer-management-system/">
-                                <div class="item__hover">
+                        <div class="col-md-4 col-xs-12">
+                            <a target="_blank" href="https://www.logique.co.id/blog/en/2020/10/30/interview-jba-standardization-dx-automobile-auction-industry/" class="case-item" data-card-category="INTERVIEW">
                                 <picture>
-                                <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp">
-                                <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
-                                </picture> 
-                                    <div>
-                                        <h4>Zutto Ride Indonesia</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
+                                    <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
+                                    <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
+                                </picture>
+                                <h6>INTERVIEW</h6>
+                                <h4>PT JBA Indonesia: Standardization and DX in the automobile auction industry</h4>                
+                                <br>
+                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
-                        <div class="row__item --sm">
-                        <picture>
-                            <source srcset="/img/case-study-5.webp" type="image/webp">
-                            <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
-                        </picture>
-                            <a href="/en/case-study/vip-plaza-progressive-web-app/">
-                                <div class="item__hover">
-                                <picture>
-                                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
-                                    <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
-                                </picture> 
-                                    <div>
-                                        <h4>VIP Plaza</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="  row__item --sm morecs">
-                            <picture>
-                                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                                <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt="">
-                            </picture>
-                            <a href="/en/case-study/klikhoreca/">
-                                <div class="item__hover">
-                                    <picture>
-                                        <source srcset="/img/top/klikhoreca.svg">
-                                        <img src="/img/top/klikhoreca.png" alt="">
-                                    </picture>
-                                    <div>
-                                        <h4>Klikhoreca</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="c row__item --sm morecs">
-                            <picture>
-                                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
-                                <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt="">
-                            </picture>
-                            <a href="/en/case-study/indonesea/">
-                                <div class="item__hover">
-                                    <picture>
-                                        <source srcset="/img/top/indonesea-min.webp" >
-                                        <img src="/img/top/indonesea.png" alt=""  class="img-responsive" >
-                                    </picture>
-                                    <div>
-                                        <h4>Indonesea</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class=" row__item --sm morecs">
-                            <picture>
-                                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
-                                <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt="">
-                            </picture>
-                            <a href="/en/case-study/pan-pacific/">
-                                <div class="item__hover">
-                                    <picture>
-                                        <source srcset="/img/top/pan-pacific.svg">
-                                        <img src="/img/top/pan-pacific.png" alt="">
-                                    </picture>
-                                    <div>
-                                        <h4>Pan Pacific</h4>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                    </div>
-                                </div>
-                            </a>
-                        </div>  
                     </div>
                     <div class="case-study-btn-container text-center ">
-                        <a href="javascript:void(0)" class=" showcase showmore">
-                           view more
+                        <a href="/case-study/" class="showcase showmore">
+                            View More 
                         </a>
-                         <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
+                         <!-- <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
                            view less
-                        </a>
+                        </a> -->
                     </div>
                     <div class="casestudy-text">
                         <p><strong>LOGIQUE</strong> commits to providing the best solutions to our clients; having worked
@@ -607,23 +401,29 @@
                     <div class="flex__row">
                         <div class="col-sm-6 col-xs-12 row__item">
                             <a href="services.php" class="item item--service">
-                                <img src="/img/service.png" alt="">
+                                <picture>
+                                    <source srcset="/img/service.webp" type="image/webp">
+                                    <img src="/img/service.png" alt="service"  loading="lazy">
+                                </picture>
                                 <h3>See Service List</h3>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>                           
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
                             <a href="product.php" class="item item--product">
-                                <img src="/img/product.png" alt="">
+                                <picture>
+                                    <source srcset="/img/product.webp" type="image/webp">
+                                    <img src="/img/product.png" alt="product"  loading="lazy">
+                                </picture>
                                 <h3>See Product List</h3>
                                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                             </a>
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
-                        <a href="contact-us.php" class="item item--contact">
-                        <picture>
-                            <source srcset="/img/smartphone.webp" type="image/webp">
-                            <img src="/img/smartphone.png"   alt=""  loading="lazy">
+                        <a href="contact.php" class="item item--contact">
+                            <picture>
+                                <source srcset="/img/smartphone.webp" type="image/webp">
+                                <img src="/img/smartphone.png"   alt=""  loading="lazy">
                             </picture>
                             
                             <h3>Contact Us</h3>
@@ -632,9 +432,9 @@
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
                         <a href="../career/" class="item item--career">
-                        <picture>
-                            <source srcset="/img/businessman.webp" type="image/webp">
-                            <img src="/img/businessman.png"   alt=""  loading="lazy">
+                            <picture>
+                                <source srcset="/img/businessman.webp" type="image/webp">
+                                <img src="/img/businessman.png"   alt=""  loading="lazy">
                             </picture> 
                             <h3>Career</h3>
                             <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
@@ -798,65 +598,64 @@
 
     <?php include 'footer.php';?>
 
-    <script>
-  
-  $slick_slider = $('.case-study__slide');
-  settings_slider = {
-    slidesToShow: 2,
-    slidesToScroll: 2,
-     arrow:true,
-    infinite: true,
-    responsive: [{ 
-        breakpoint: 768,
-        settings: {
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          arrow:true
+    <script>  
+        $slick_slider = $('.case-study__slide');
+        settings_slider = {
+            slidesToShow: 2,
+            slidesToScroll: 2,
+            arrow:true,
+            infinite: true,
+            responsive: [{ 
+                breakpoint: 768,
+                settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrow:true
+                }
+            },
+            ]
+            // more settings
         }
-      },
-    ]
-    // more settings
-  }
-  slick_on_mobile( $slick_slider, settings_slider);
+        slick_on_mobile( $slick_slider, settings_slider);
 
-// slick on mobile
-  function slick_on_mobile(slider, settings){
-    $(window).on('load resize', function() {
-      if ($(window).width() > 1100) {
-        if (slider.hasClass('slick-initialized')) {
-          slider.slick('unslick');
-        }
-        return
-      }
-      if (!slider.hasClass('slick-initialized')) {
-        return slider.slick(settings);
-      }
-    });
-  };
+        // slick on mobile
+        function slick_on_mobile(slider, settings){
+            $(window).on('load resize', function() {
+            if ($(window).width() > 1100) {
+                if (slider.hasClass('slick-initialized')) {
+                slider.slick('unslick');
+                }
+                return
+            }
+            if (!slider.hasClass('slick-initialized')) {
+                return slider.slick(settings);
+            }
+            });
+        };
 
-    $('.showmore').click(function(){
-         $('.morecs').css('display','inline-block');
-         $('.showmore').css('display','none'); 
-         $('.showless').css('display','inline-block');   
-        })
+        // $('.showmore').click(function(){
+        //      $('.morecs').css('display','inline-block');
+        //      $('.showmore').css('display','none'); 
+        //      $('.showless').css('display','inline-block');   
+        //     })
 
-    $('.showless').click(function(){
-         $('.morecs').css('display','none');
-         $('.showless').css('display','none'); 
-         $('.showmore').css('display','inline-block');  
-        })
+        // $('.showless').click(function(){
+        //      $('.morecs').css('display','none');
+        //      $('.showless').css('display','none'); 
+        //      $('.showmore').css('display','inline-block');  
+        //     })
         $('.multi-item-carousel .item').each(function(){
-        var next = $(this).next();
-        if (!next.length) {
-            next = $(this).siblings(':first');
-        }
-        next.children(':first-child').clone().appendTo($(this));
-        
-        // if (next.next().length>0) {
-        //     next.next().children(':first-child').clone().appendTo($(this));
-        // } else {
-        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
-        // }
+            var next = $(this).next();
+            if (!next.length) {
+                next = $(this).siblings(':first');
+            }
+            next.children(':first-child').clone().appendTo($(this));
+            
+            // if (next.next().length>0) {
+            //     next.next().children(':first-child').clone().appendTo($(this));
+            // } else {
+            //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+            // }
         });
   </script>
 

@@ -6,45 +6,38 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Protect your website, web app, & e-commerce from any cyber attack. Logique Digital Indonesia provides penetration test, security assessment, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
+        content="Protect and improve your company’s cyber security through penetration testing and the latest pentest tools, with a vulnerability assessment to root out risks.">
     <meta name="keywords"
         content="penetration test, penetration testing, logique, pen test Jakarta, penetration test Indonesia, security assessment Indonesia">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Cyber Security & Pentesting via Penetration testing services">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services/penetration-test.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="Protect your website, web app, & e-commerce from any cyber attack. Logique Digital Indonesia provides penetration test, security assessment, vulnerability assessment service, to secure your confidential data against today's most advanced threats. Solve the risks now. Contact us.">
+        content="Protect and improve your company’s cyber security through penetration testing and the latest pentest tools, with a vulnerability assessment to root out risks.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Web Security | Penetration Test | Vulnerability Assessment | LOGIQUE DIGITAL INDONESIA</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/../css/style.css" rel="stylesheet">
+    <title>Cyber Security & Pentesting via Penetration testing services</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet">  
+
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
+    <link rel="stylesheet" href="/css/style-revamp.css" >
+    <!-- <link rel="stylesheet" href="../css/style.css" > -->
     <link href="assets/css/style-pentest.css" rel="stylesheet">
+    <link href="/css/animate.min.css" rel="stylesheet">
+
+    
+    <link rel="canonical" href="https://www.logique.co.id/en/services/penetration-test.php"/>  
     <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet" type="text/css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
-    <script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-    ga('create', 'UA-105878648-1', 'auto');
-    ga('send', 'pageview');
-    </script>
+    <script> (function(i, s, o, g, r, a, m){ i['GoogleAnalyticsObject']=r; i[r]=i[r] || function(){ (i[r].q=i[r].q || []).push(arguments)}, i[r].l=1 * new Date(); a=s.createElement(o), m=s.getElementsByTagName(o)[0]; a.async=1; a.src=g; m.parentNode.insertBefore(a, m)})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-105878648-1', 'auto'); ga('send', 'pageview');</script>
 </head>
 
-<body class="wrapper wrapper--update-design">
+<body class="wrapper wrapper--update-design wrapper--update-design-font" style="overflow-y: auto;">
     <style>
     .container__ {
         padding-top: 0;
@@ -73,92 +66,78 @@
             margin-bottom: 2.5em
         }
     }
+
+      /* 
+        ``````````````````````````````````````````````````````````````````````
+        Reference for below class : https://tailwindcss.com/docs/utility-first
+
+        ``````````````````````````````````````````````````````````````````````
+    */   
+    
+    .absolute {
+        position: absolute;
+    }
+
+    .border-white {
+        border-color: white;
+    }
+
+    .border-1{
+        border-width: 1px;
+    }
+
+    .border-solid {
+        border-style: solid;
+    }
+
+    .bg-transparent{
+        background-color: transparent;
+    }
+
+    .pt-4{
+        padding-top: 1rem;
+    }
+
+    .pb-4{
+        padding-bottom: 1rem;
+    }
+
+    .pb-8{
+        padding-bottom: 2rem;
+    }
+    .rounded-2xl{
+        border-radius: 1rem;
+    }
+
+
+    @media (max-width: 640px) {
+        .sm-relative {
+            position: relative;
+        }
+
+        .mt-4-sm {
+            margin-top: 1rem;
+        }
+        .mt-8-sm {
+            margin-top: 2rem;
+        }
+    }
     </style>
-
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-        data-target="#myNavbar">
-        <span class="icon-bar first"></span>
-        <span class="icon-bar second"></span>
-        <span class="icon-bar third"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="myNavbar">
-        <div class="backdrop-test"></div>
-        <div class="logique-nav logique-nav--update">
-            <div class="margin-for-nav">
-                <div class="text-center">
-                    <a href="/en/index.php">
-                        <div class="img-home"></div>
-                        Home
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/logique.php">
-                        <div class="img-about"></div>
-                        About Us
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/portfolio.php">
-                        <div class="img-portfolio"></div>
-                        Portfolio
-                    </a>
-                </div>
-                <div class="text-center active">
-                    <a href="/en/services.php">
-                        <div class="img-services"></div>
-                        Services
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/product.php">
-                        <div class="img-product"></div>
-                        Product
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/career/">
-                        <div class="img-career"></div>
-                        Career
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/en/contact.php">
-                        <div class="img-contact"></div>
-                        Contact Us
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                        <div class="img-blog"></div>
-                        Blog
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
+    
     <!-- NAVIGATION -->
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+    ?>
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="row lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
-                        <div class="container">
-                            <a href="/en/"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li class="active"><a href="">EN</a></li>
-                                <li><a href="/layanan/penetration-test.php">ID</a></li>
-                                <li><a href="/jp/services/penetration-test.php">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'en';
+        $en_link = '#';
+        $id_link = '/layanan/penetration-test.php';
+        $jp_link = '/jp/services/penetration-test.php';
+        include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+    ?>
 
     <div class="content-wrapper__">
         <div class="header-top">
@@ -176,8 +155,7 @@
                                     <meta itemprop="position" content="2" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"><span
-                                            itemprop="name">&nbsp;WEB Security Assesment (Vulnerability Scanning
-                                            / Test)</span></a>
+                                            itemprop="name">&nbsp; Penetration Testing (Pentest)</span></a>
                                     <meta itemprop="position" content="3" />
                                 </li>
                             </ol>
@@ -186,29 +164,58 @@
                 </div>
             </section>
             <div class="container__">
-                <div class="row">
-                    <div class="col-md-12">
-                        <img class="img-responsive center-block top-banner" src="assets/img/img-pentest/top-banner.png" alt="Top Banner" />
-                        <div class="what-is">
-                            <h1 class="title" style="margin-bottom: 0;">Website security assessment service | WEB
-                                vulnerability assessment</h1>
-                            <div class="row">
-                                <div class="col-md-offset-1 col-md-11">
-                                    <p><br />
-                                        In Indonesia, it’s a fact that most of corporates still have very low awareness of
-                                        website security. On the other hand, many skillful attackers are causing many
-                                        security incidents in Indonesia at international level. It is extremely important
-                                        for you to make sure that your website’s security is checked by a professional with
-                                        the viewpoint of cyber attacking/software vulnerability since attackers have various
-                                        ways to penetrate the security hole of your website. If the attackers break your
-                                        security holes, the risk is not only your website will be jacked or edited, but your
-                                        website/business can be used for a crime. That is why it is extremely important to
-                                        strengthen your website’s security even if it’s a very simple website.
-                                    </p>
-                                </div>
+            <div class="row">
+                    <div class="col-md-12">                                            
+                        <h1 class="text-center">
+                            The Most Reliable Penetration Testing (Pentest) & Website Security Services currently available in Indonesia
+                        </h1>
+                        <div class="absolute sm-relative" style="bottom: 5%; background-color: white; padding : 28px; border-radius: 10px; opacity: 0.9;">
+                            <p style="color: black">
+                                <b>LOGIQUE Digital Indonesia Offers World Class Pentest Services of an International Standard.</b>                                 
+                            </p>
+                            <p style="color: black">
+                                Our penetration testing (pentest) process is supported by experienced Pentesters, all of whom have already received their CEH (Certified Ethical Hacker) & CSCU (Certified Secure Computer User) certifications from the EC-Council; indeed, our proven abilities & expertise within this area are clear.
+                            </p>
+                            <p style="color: black">
+                                <b>Why Is It Important to Pentest Your System?</b>
+                            </p>
+                            <p style="color: black">
+                                By conducting penetration testing (pentest) for your digital assets, you will have a better understanding of how prepared your website, application or network defense system is when dealing with serious instances of cybercrime.
+                            </p>
+                            <p style="color: black">
+                                One’s Cyber security needs to be regularly improved, especially if you have a business that incorporates digital media. Cyber attacks have become a serious threat to companies throughout the world. A study conducted by the University of Maryland stated that an average cyber attack occurs every 39 seconds.
+                            </p>
+                            <p style="color: black">
+                                Don't delay the safeguarding of your website and/or application’s security system; avoid the potential risk of highly damaging cyber attacks. 
+                                <a href="/en/contact.php">Contact Us Now!</a>
+                            </p>
+                        </div>
+                        <picture> 
+                            <source media="(max-width: 468px)" srcset="assets/img/img-pentest/top-banner-mobile.png" type="image/png">
+                            <source media="(min-width: 469px)" srcset="assets/img/img-pentest/top-banner.png" type="image/png">
+                            <img src="assets/img/img-pentest/top-banner-mobile.png"  loading="lazy"  class="img-responsive center-block top-banner" alt="Top Banner">
+                        </picture>                       
+                    </div>
+                </div>  
+                <div class="row">                                                                                         
+                    <div class="what-is">
+                        <h2 class="title" style="margin-bottom: 0;">Website security assessment service | WEB
+                            vulnerability assessment</h2>
+                        <div class="row">
+                            <div class="col-md-offset-1 col-md-11">
+                                <p><br />
+                                In Indonesia, the fact is that most corporations are still relatively unaware of the importance of website security. This has seen an increase in many skilled hackers causing a variety of security incidents throughout Indonesia, 
+                                as well as on an international level. It is extremely important to make sure that your website's security is thoroughly up to date, 
+                                as revealed by a professional with a deep understanding of how cyber hacking/software vulnerability works. This is due to hackers 
+                                having a similar mindset in regards to finding security holes to exploit. If hackers do succeed in breaking through your security systems, 
+                                there could be a variety of risks other than your website being hacked into; additionally, your website/business could be used to conduct
+                                 criminal activities, thereby covering the perpetrators tracks in the process. This is one of many reasons why improving your website’s 
+                                 security is a must, even for relatively simple websites.
+                                </p>
                             </div>
                         </div>
-                        <br /><br />
+                    </div>
+                    <br /><br />
                     </div>
                 </div>
             </div>
@@ -277,16 +284,11 @@
                         <div class="title fw-300"><span class="yellow">Website security assessment</span> contents</div>
                         <br />
                         <ul>
-                            <li>We check and report on 12 crucial items of the assessment. It is a website vulnerability
-                                assessment service that can quickly scan the security level of your website.</li>
-                            <li>The scope of assessment may be limited by the scale of the website security (number of
-                                pages, search function, presence/absence, and number of forms) that will be tested.</li>
-                            <li>We conduct an assessment by using a security assessment tool that enable us to implement a
-                                comprehensive testing.</li>
-                            <li>We also perform a manual test to identify the critical and potential risk by analysing
-                                source code.</li>
-                            <li>We will provide some advises to solve the risks and show you the priorities of those risks
-                                to be solved.</li>
+                            <li>We check and report on 12 crucial items of assessment. Through these items, the website vulnerability assessment service can swiftly scan your website’s security level.</li>
+                            <li>The scope of the assessment may be limited due to the overall level of website security being tested (number of pages, search function, presence/absence, and number of forms).</li>
+                            <li>We conduct an assessment through the use of a security assessment tool that enables us to implement comprehensive testing procedures.</li>
+                            <li>We also perform a manual test in order to identify any critical & potential risks through analyzing the source code.</li>
+                            <li>We will provide advice in regards to risk management and further explain the steps needed in order for any remaining problems to be fixed.</li>
                         </ul>
                     </div>
                 </div>
@@ -299,16 +301,13 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="text-left lh-30">
-                            <div class="text-center"><span class="title fw-300">Why <b>website security assessment</b> is
-                                    necessary?</span></div>
-                            Websites owned by financial institutions are not the only ones who need security assessment and
-                            countermeasures. The ones who are not handling important and personal information also have a
-                            chance to get cyber-attacked.<br /><br />
-                            Also in Indonesia, attacks such as unauthorized access and falsification of data are frequently
-                            carried out against websites. As a result, it can cause severe damages, such as personal
-                            information leakage, system down, access trouble, up to falsification of identity.<br /><br />
-                            It is important to know how a weak security system can result in financial, reputational, and
-                            legal consequences.
+                            <!-- <div class="text-center"><span class="title fw-300">Why <b>website security assessment</b> is
+                                    necessary?</span></div> -->
+                            <div class="text-center"><span class="title fw-300">On the Importance of <b>Website Security Assessments</b></span></div>
+                            Websites owned by financial institutions are not the only sites that require thorough security assessments and countermeasures. 
+                            Websites that do not necessarily contain important and personal information also remain targets of potential cyber hacking activities.<br /><br />
+                            In Indonesia, cyber-attacks, some of which include the unauthorized access and falsification of data, are frequently carried out against a multitude of websites. As a result, this can cause severe damages, such as personal information leakage, system down, access trouble, and identity theft as well.
+
                             <ol>
                                 <li><b>1. Financial Impact.</b><br>
                                     Cyber Attacks can often result in financial losses arising from:
@@ -342,7 +341,7 @@
                             In order to eliminate these risks so as to continue maintaining a secure website, conducting a
                             security vulnerability assessment is highly recommended. Through a primary security assessment,
                             we can properly grasp the extent to which a website is vulnerable to cyber-attacks.<br /><br />
-                            LOGIQUE will flexibly perform various security assessment according to the scale of the website.
+                            <b>LOGIQUE</b> will flexibly perform various security assessment according to the scale of the website.
                             We also have a primary vulnerability assessment that can be easy and cheaper to start
                             with.<br /><br />
 
@@ -353,10 +352,10 @@
         </section>
 
         <section class="tahapan-title">
-            <div class="question">The steps taken by LOGIQUE in conducting a Website Security Assessment</div>
+            <div class="question"><b>LOGIQUE</b> takes various steps when conducting a Website Security Assessment</div>
             <div class="answer">
-                <b>In conducting a website security assessment, Logique Digital Indonesia uses international standards as
-                    the reference, including:</b>
+                <b>In conducting a website security assessment, <b>LOGIQUE</b> Digital Indonesia adheres to an internationally practiced standard as a reference. 
+                These include:</b>
             </div>
         </section>
         <br /><br />
@@ -371,10 +370,9 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>1</span> <b>Reconnaissance</b></div>
-                                The stage where we will collect initial data or any other things needed for the client.
-                                After data is collected, we will be able to plan attacks more easily. Reconnaissance can be
-                                done in two ways, which are actively (directly touching the specified target) and passively
-                                (surveillance is done through intermediaries).<br /><br />
+                                During this initial stage, we collect data or any other things in regards to the client. After all the necessary data is collected, we will be able to plan our security breach more easily.<br>
+                                 Reconnaissance can be done in two ways; these include actively (directly moving against the specified target) and passively (surveillance is done through intermediaries).
+                                <br /><br />
                             </div>
                         </div>
                     </div>
@@ -385,9 +383,7 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>2</span> <b>Scanning</b></div>
-                                At this stage, an application is needed as a technical tool to collect various advanced data
-                                on the target that we have set. The data sought is more general, which is about the system
-                                they have.<br /><br />
+                                At this stage, we require an application that functions as a technical tool so as to collect data on the specified target. Currently, the data that is sought after is more general in nature.<br /><br />
                             </div>
                         </div>
                     </div>
@@ -401,8 +397,7 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>3</span> <b>Gaining Access</b></div>
-                                We will gain access to take control of one or more network devices to further extract data
-                                from the target, then use the device to launch attacks on other targets.
+                                We will then gain access so as to take control of one or more network devices to further the extraction of data from the set target, after which we will then use the device in order to launch attacks on other targets where necessary.
                                 <br /><br />
                             </div>
                         </div>
@@ -414,9 +409,7 @@
                             </div>
                             <div class="col-sm-8 text-justify">
                                 <div class="title"><span>4</span> <b>Maintaining Access</b></div>
-                                That is the stage where we will make several steps needed to remain in the target
-                                environment with the aim of collecting as much data as possible. In this phase, the attacker
-                                must remain idle so that they cannot be caught while using the host environment.<br /><br />
+                                That is the stage where we will make several steps needed to remain in the target environment with the aim of collecting as much data as possible. In this phase, the attacker must remain idle so that they cannot be caught while using the host environment.<br /><br />
                             </div>
                         </div>
                     </div>
@@ -430,10 +423,7 @@
                             </div>
                             <div class="col-sm-10 text-justify">
                                 <div class="title"><span>5</span> <b>Covering Tracks</b></div>
-                                The last stage where we will cover the track, forcing the attacker to take the steps needed
-                                to remove all the similarities during detection. Any changes that have been made, improved
-                                authorization, etc. All must return in a non-recognition state (not recognized) by a network
-                                administrator host.
+                                The last stage where we will cover the track, forcing the attacker to take the steps needed to remove all the similarities during detection. Any changes that have been made, improved authorization, etc. All must return in a non-recognition state (not recognized) by a network administrator host.
                             </div>
                         </div>
                     </div>
@@ -443,7 +433,7 @@
         </section>
         <br />
 
-        <div class="mengapa-harus">LOGIQUE provides a variety of Cyber Security services.</div>
+        <div class="mengapa-harus"><b>LOGIQUE</b> provides a variety of Cyber Security services.</div>
         <br><br>
 
         <section class="metode">
@@ -472,7 +462,7 @@
                                     For those of you who might be wondering if desktop applications are still a thing, yes,
                                     of course. Most enterprise applications are installation-based and use hardware
                                     resources to run them. Also, many real-time systems are still desktop-based because of
-                                    their performance capabilities. In this case, LOGIQUE can also do testing to ensure the
+                                    their performance capabilities. In this case, <b>LOGIQUE</b> can also do testing to ensure the
                                     security of the software.
                                 </div>
                             </div>
@@ -508,7 +498,7 @@
                                 <div>
                                     Choosing a weak password or clicking a bad link is the example of personal decisions
                                     that even the best cyber security cannot help. This is the reason why cyber security
-                                    awareness is vital especially among end users and programmers, and LOGIQUE can provide
+                                    awareness is vital especially among end users and programmers, and <b>LOGIQUE</b> can provide
                                     the training for you.
                                 </div>
                             </div>
@@ -518,7 +508,7 @@
                             <div class="col-sm-12">
                                 <div class="subtitle fs-18 f-s-22"><b>E. Cyber Security Consulting</b></div>
                                 <div>
-                                    LOGIQUE is ready to help your IT team to solve security problems and provide the best
+                                <b>LOGIQUE</b> is ready to help your IT team to solve security problems and provide the best
                                     solutions. We can give technical advices to your IT team and strategic advices to your
                                     management team.
                                 </div>
@@ -533,7 +523,7 @@
 
         <!-- <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> can help you.</div> -->
         <div class="mengapa-harus"><a href="/en/" target="_blank"><b>Logique Digital Indonesia</b></a> is experienced in
-            conducting security assessments</div>
+            conducting security assessments within Indonesia </div>
         <br />
 
         <section class="metode">
@@ -541,14 +531,13 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         <p>
-                            In Indonesia, we have performed security assessments on websites of a governmental organization,
-                            financial institution, e-commerce, up to a car manufacturer. Most of the cases, you will be
-                            shocked with the test result, but it is better at least you can notify the risk and make an
-                            appropriate strategy against it. <b>LOGIQUE</b> will help you lessen the risks until the risk
-                            gets
-                            almost none by monitoring its security constantly. While conducting penetration tests for
-                            various companies, we had subsequently discovered several security holes that required immediate
-                            patching up. Some examples of the bugs we had encountered are as follows:
+                            We have performed security assessments on the websites of government organizations, financial institutions, 
+                            e-commerce businesses as well as car manufacturers. In most cases, you will be shocked with the test results; 
+                            however this will allow you to make note of the risk and thereby make an appropriate strategy against it. 
+                            <b>LOGIQUE</b> will assist you in preventing such risks through the constant monitoring of security.
+                            While conducting penetration tests for various companies, we had subsequently discovered several security 
+                            holes that required immediate patching up. Some examples of the bugs we had encountered are as follows:
+
                             <ol>
                                 <li>1. Injection</li>
                                 <li>2. Cross-Site Scripting (XSS)</li>
@@ -575,8 +564,7 @@
             <div class="container__">
                 <div class="row">
                     <div class="col-md-offset-2 col-md-8">
-                        <div class="title">We are offering a special price for trial of our vulnerability assessment
-                            service.</div>
+                        <div class="title">What exactly is the full price being offered by <b>LOGIQUE</b> to perform a thorough Pentest?</div>
                     </div>
                 </div>
                 <div class="row">
@@ -587,11 +575,8 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         <div class="subtitle text-left">
-                            Although it is a simple assessment, we recommend that you know the status of your website’s
-                            security and how critical they are. Feel free to contact us for consultation. We would be
-                            pleased to respond to your questions in English, in Indonesian, or in Japanese about the details
-                            related to website security assessment service, such as assessment detail, report items, cost,
-                            duration, etc. </div>
+                            Through conducting the appropriate pentest activities, starting from the initial stage (preparation), testing to finally the reporting stage, <b>LOGIQUE</b> Digital Indonesia is offering prices starting from Rp. 15 Million depending on the type of application or system required for testing.
+                        </div>
                     </div>
                 </div>
             </div>
@@ -613,7 +598,7 @@
 
         <section>
             <br />
-            <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> Works 2019</div>
+            <div class="mengapa-harus"><a href="/en/" target="_blank"><b class="logo-font">LOGIQUE</b></a> Works 2019 - 2020</div>
             <div class="container__">
                 <div class="row">
 
@@ -770,6 +755,142 @@
                                         <td><span class="table__round --middle">4</span></td>
                                         <td><span class="table__round --low">3</span></td>
                                     </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Mobile App</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">8</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">3</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Automotive</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Service</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Mobilephone Provider</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">10</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Airline</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Financial Planner</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Travel</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Apr 2020</td>
+                                        <td>Service</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Apr 2020</td>
+                                        <td>Service</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 2020</td>
+                                        <td>Insurance</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 2020</td>
+                                        <td>Insurance</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jun 2020</td>
+                                        <td>Pharmacies</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jun 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct 2020</td>
+                                        <td>Agriculture</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">5</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -823,12 +944,130 @@
                 </div>
             </div>
         </section>
+ <section class="content-article" style="margin-bottom:20px;"> 
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <p class="title">Cyber Security Related Article</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="carousel slide multi-item-carousel" id="theCarousel">
+                    <div class="carousel-inner">
+                            
+                            <?php  
+                                function shorten_string($string, $wordsreturned)
+                            {
+                                $retval = $string;
+                                $string = preg_replace('/(?<=\S,)(?=\S)/', ' ', $string);
+                                $string = str_replace("\n", " ", $string);
+                                $array = explode(" ", $string);
+                                if (count($array)<=$wordsreturned)
+                                {
+                                $retval = $string;
+                                }
+                                else
+                                {
+                                array_splice($array, $wordsreturned);
+                                $retval = implode(" ", $array)." ...";
+                                }
+                                return $retval;
+                            }
+                            function tgl_indo($tanggal){
+                                $bulan = array (
+                                    1 =>   'Januari',
+                                    'Februari',
+                                    'Maret',
+                                    'April',
+                                    'Mei',
+                                    'Juni',
+                                    'Juli',
+                                    'Agustus',
+                                    'September',
+                                    'Oktober',
+                                    'November',
+                                    'Desember'
+                                );
+                                $pecahkan = explode('-', $tanggal);
+                                
+                                // variabel pecahkan 0 = tanggal
+                                // variabel pecahkan 1 = bulan
+                                // variabel pecahkan 2 = tahun
+                                
+                                return $pecahkan[2] . ' ' . $bulan[ (int)$pecahkan[1] ] . ' ' . $pecahkan[0];
+                            }
+                                $url = file_get_contents('https://www.logique.co.id/blog/wp-json/wp/v2/posts/?categories=1314&per_page=5&_embed');
+                            
+                                    $x = 0;
 
+                                    $remote_posts = json_decode( $url ); 
+                                    // printf('<pre>'); 
+                                    //  var_dump($url);
+                                    // printf('</pre>');
+                                    foreach( $remote_posts as $remote_post ) { 
+                                        $thumb_full_url = '';
+                                        $thumb_url = '';
+
+                                        if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
+                                            $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
+                                            $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                        }
+                                        if($x==0) { 
+                                        ?>
+                                        <div class="item active ">
+                                            <?php } else{
+                                            echo ' <div class="item ">';
+                                            }
+
+                                            ?> 
+                                                <div class="col-xs-12 col-sm-6 col-md-6 article-container">
+                                                    <div class="img-container">
+                                                        <img loading="lazy" src="<?=$thumb_full_url?>" class="img-responsive">
+                                                    </div>
+                                                    <div class="content-container">
+                                                        <a href="<?=$remote_post->link?>" target="_blank">
+                                                            <p class="title"><?=$remote_post->title->rendered?></p>
+                                                        </a>
+                                                        <p class="content"><?php 
+                                                        $array = preg_replace("/<.+>/sU", "", $remote_post->excerpt->rendered);
+                                                            $array =  shorten_string($array, 25); 
+                                                        echo $array;
+                                                            ?></p>
+                                                        <p class="date"><?php 
+                                                        $tanggal = date(' Y-m-d', strtotime($remote_post->date));
+                                                        $idtanggal = tgl_indo($tanggal);
+                                                        echo $idtanggal  ;  ?> | By <?php 
+                                                            echo $remote_post->_embedded->author[0]->name;
+                                                        ?></p>
+                                                    </div>
+                                                </div>
+                                            
+                                        </div>
+                                            
+                                    <?php  $x++;
+                                }
+                                    
+                            ?> 
+                    
+                    <!--  Example item end -->
+                    </div>
+                    <ol class="carousel-indicators article-indicators">
+                        <li data-target="#theCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#theCarousel" data-slide-to="1"></li>
+                        <li data-target="#theCarousel" data-slide-to="2"></li>
+                        <li data-target="#theCarousel" data-slide-to="3"></li>
+                    </ol>
+                </div>
+            </div>
+        </div> 
+    </div>
+</section>
         <section class="gallery content-article">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p class="title">White Paper Tentang Pengetesan Keamanan Website</p>
+                        <p class="title">Website Security Testing White Paper</p>
                     </div>
                 </div>
                 <div class="row gallery-container">
@@ -914,6 +1153,19 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
 
     <script>
+           $('.multi-item-carousel .item').each(function(){
+        var next = $(this).next();
+        if (!next.length) {
+            next = $(this).siblings(':first');
+        }
+        next.children(':first-child').clone().appendTo($(this));
+        
+        // if (next.next().length>0) {
+        //     next.next().children(':first-child').clone().appendTo($(this));
+        // } else {
+        //     $(this).siblings(':first').children(':first-child').clone().appendTo($(this));
+        // }
+        });
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();
             $(this).ekkoLightbox();

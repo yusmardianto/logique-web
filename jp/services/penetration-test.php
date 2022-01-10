@@ -6,24 +6,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
+        content="LOGIQUEデジタルインドネシアはジャカルタに本社をもつIT/DXコンサルティング会社です。Webやアプリのセキュリティ脆弱性検査サービスを提供しています。インターナショナルなセキュリティの資格をもつスペシャリストが検査しレポートします。インドネシア国内のみのサービス提供となります。">
     <meta name="keywords" content="">
     <meta name="author" content="Logique Digital Indonesia">
-    <meta property="og:title" content="Webサイト脆弱性セキュリティテスト｜LOGIQUEデジタルインドネシア">
+    <meta property="og:title" content="Webセキュリティテスト | 脆弱性検査 | LOGIQUEインドネシア">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services/penetration-test.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="LOGIQUEのWEBサイトセキュリティ診断サービスは、お客様のWEBサイト、E-Commerce、WEBアプリケーションの脆弱性を診断し、レポート、対策案を提案します。Penetrationテストを行い、Webサイトへの攻撃、乗っ取り、改ざんなどから守ります。インドネシアの首都ジャカルタのWEB制作・システム開発会社LOGIQUEにセキュリティ対策についてご相談ください。">
+        content="LOGIQUEデジタルインドネシアはジャカルタに本社をもつIT/DXコンサルティング会社です。Webやアプリのセキュリティ脆弱性検査サービスを提供しています。インターナショナルなセキュリティの資格をもつスペシャリストが検査しレポートします。インドネシア国内のみのサービス提供となります。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>Webサイト脆弱性セキュリティテスト｜LOGIQUEデジタルインドネシア</title>
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../css/style.css?v=1.1" rel="stylesheet">
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/penetration-test.php"/>
+    <title>Webセキュリティテスト | 脆弱性検査 | LOGIQUEインドネシア</title>
+
+
+    <link rel="preconnect" href="https://ajax.googleapis.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://prod.purechatcdn.com">
+    <link rel="preconnect" href="https://app.purechat.com">
+    <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+    
+    <link href="/css/bootstrap.min.css" rel="stylesheet">  
+
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
+    <link rel="stylesheet" href="/css/style-revamp.css" >
+    <!-- <link rel="stylesheet" href="../css/style.css" > -->
+
+    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin/>
+    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Medium.ttf" as="font" crossorigin/>
+    <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Bold.ttf" as="font" crossorigin/>
     <link href="assets/css/style-pentest.css" rel="stylesheet">
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="/css/animate.min.css" rel="stylesheet"> -->
+
+    <!-- <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,900" rel="stylesheet"> -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.css">
     <script>
     (function(i, s, o, g, r, a, m) {
@@ -43,128 +62,59 @@
     </script>
 </head>
 
-<body class="wrapper wrapper--update-design">
+<body class="wrapper wrapper--update-design wrapper--update-design-font --jp" style="overflow-y: auto;">
     <style>
-    .container__ {
-        padding-top: 0;
-        padding-bottom: 0;
-    }
-
-    .logique-nav {
-        left: 0;
-    }
-
-    .breadcrumb--update-design li:not(.active) span {
-        color: #f5f5f5;
-    }
-
-    .breadcrumb--update-design li:not(.active) span:hover {
-        text-decoration: underline;
-    }
-
-    .title {
-        background: transparent;
-        padding: 0;
-    }
-
-    .tahapan .title {
-        font-size: 15px;
-    }
-
-    .content-wrapper__ .--top {
-        margin-top: 4em;
-    }
-
-    @media only screen and (min-width: 1024px) {
-        .content-wrapper__ .--top {
-            margin-bottom: 2.5em
+        .container__ {
+            padding-top: 0;
+            padding-bottom: 0;
         }
-    }
+
+        .logique-nav {
+            left: 0;
+        }
+
+        .breadcrumb--update-design li:not(.active) span {
+            color: #f5f5f5;
+        }
+
+        .breadcrumb--update-design li:not(.active) span:hover {
+            text-decoration: underline;
+        }
+
+        .title {
+            background: transparent;
+            padding: 0;
+        }
+
+        .tahapan .title {
+            font-size: 15px;
+        }
+
+        .content-wrapper__ .--top {
+            margin-top: 4em;
+        }
+
+        @media only screen and (min-width: 1024px) {
+            .content-wrapper__ .--top {
+                margin-bottom: 2.5em
+            }
+        }
     </style>
 
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-        data-target="#myNavbar">
-        <span class="icon-bar first"></span>
-        <span class="icon-bar second"></span>
-        <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-        <div class="backdrop-test"></div>
-        <div class="logique-nav logique-nav--update in-jp">
-            <div class="margin-for-nav">
-                <div class="text-center">
-                    <a href="/jp/index.php">
-                        <div class="img-home"></div>
-                        Home
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/jp/logique.php">
-                        <div class="img-about"></div>
-                        会社概要
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/jp/portfolio.php">
-                        <div class="img-portfolio"></div>
-                        制作実績
-                    </a>
-                </div>
-                <div class="text-center active">
-                    <a href="/jp/services.php">
-                        <div class="img-services"></div>
-                        サービス
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/jp/product.php">
-                        <div class="img-product"></div>
-                        プロダクト
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/career/">
-                        <div class="img-career"></div>
-                        採用/<br>パートナー
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="/jp/contact.php">
-                        <div class="img-contact"></div>
-                        お問い合わせ
-                    </a>
-                </div>
-                <div class="text-center">
-                    <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                        <div class="img-blog"></div>
-                        Blog
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- NAVIGATION -->
+    <?php 
+        // $active option are home, about, portfolio, services, product, career, contact
+        $active = 'services';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+    ?>
 
-    <!-- HEADER -->
-    <div class="container-fluid">
-        <div class="row lang-logo--update-design">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
-                        <div class="container">
-                            <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                            <ul class="list-inline">
-                                <li><a href="/en/services/penetration-test.php">EN</a></li>
-                                <li><a href="/layanan/penetration-test.php">ID</a></li>
-                                <li class="active"><a href="#">JP</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- END HEADER -->
+    <?php 
+        $lang = 'jp';
+        $en_link = '/en/services/penetration-test.php';
+        $id_link = '/layanan/penetration-test.php';
+        $jp_link = '#';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+    ?>
 
     <div class="content-wrapper__">
         <div class="header-top">
@@ -233,7 +183,10 @@
             </div>
         </section>
 
-        <img src="assets/img/img-pentest/typing.png" width="100%" alt="Typing" /><br /><br />
+        <picture>
+            <source srcset="assets/img/img-pentest/typing.webp">
+            <img src="assets/img/img-pentest/typing.png" width="100%" alt="Typing" loading="lazy"/><br /><br />
+        </picture>
 
         <section class="plus-minus-bg">
             <div class="container__">
@@ -446,7 +399,10 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <img alt="15 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" />
+                        <picture>
+                            <source srcset="assets/img/img-pentest/15-juta.webp">
+                            <img alt="15 juta" src="assets/img/img-pentest/15-juta.png" class="img-responsive center-block" loading="lazy"/>
+                        </picture>
                     </div>
                 </div><br />
                 <div class="row">
@@ -465,7 +421,10 @@
                 <div class="row">
                     <div class="col-sm-12">
                         <a href="#sampleReport">
-                            <img alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/assesment-flow.webp">
+                                <img alt="Assesment Flow" src="assets/img/img-pentest/assesment-flow.jpg" class="img-responsive center-block" loading="lazy">
+                            </picture>
                         </a>
                     </div>
                 </div>
@@ -474,7 +433,7 @@
 
         <section>
             <br />
-            <div class="mengapa-harus"><a href="/en/" target="_blank"><b>LOGIQUE</b></a> Works 2019</div>
+            <div class="mengapa-harus"><a href="/en/" target="_blank"><b class="logo-font">LOGIQUE</b></a> Works 2019 - 2020</div>
             <div class="container__">
                 <div class="row">
 
@@ -631,6 +590,142 @@
                                         <td><span class="table__round --middle">4</span></td>
                                         <td><span class="table__round --low">3</span></td>
                                     </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Mobile App</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">8</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jan 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">3</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Automotive</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Service</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Feb 2020</td>
+                                        <td>Mobilephone Provider</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">1</span></td>
+                                        <td><span class="table__round --middle">10</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Airline</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Financial Planner</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Mar 2020</td>
+                                        <td>Travel</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Apr 2020</td>
+                                        <td>Service</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Apr 2020</td>
+                                        <td>Service</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">1</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 2020</td>
+                                        <td>Insurance</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">4</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>May 2020</td>
+                                        <td>Insurance</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">3</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jun 2020</td>
+                                        <td>Pharmacies</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">2</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Jun 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">5</span></td>
+                                        <td><span class="table__round --middle">0</span></td>
+                                        <td><span class="table__round --low">0</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sep 2020</td>
+                                        <td>Fintech</td>
+                                        <td>Web App</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">4</span></td>
+                                        <td><span class="table__round --low">2</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Oct 2020</td>
+                                        <td>Agriculture</td>
+                                        <td>Network Infrastructure</td>
+                                        <td><span class="table__round --high">0</span></td>
+                                        <td><span class="table__round --middle">5</span></td>
+                                        <td><span class="table__round --low">1</span></td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -646,38 +741,56 @@
                 <div class="row sample-report">
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-sql.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="SQL Injection">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/sample-report-sql.webp">
+                                <img src="assets/img/img-pentest/sample-report-sql.jpg" class="img-responsive" alt="SQL Injection" loading="lazy">
+                            </picture>
                             <div class="sample-report__text text-center">SQL Injection</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-missing.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="Missing Authorization Mechanism">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/sample-report-missing.webp">
+                                <img src="assets/img/img-pentest/sample-report-missing.jpg" class="img-responsive" alt="Missing Authorization Mechanism" loading="lazy">
+                            </picture>
                             <div class="sample-report__text text-center">Missing Authorization Mechanism</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-bypass.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="Bypassing Unrestricted File Upload">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/sample-report-bypass.webp">
+                                <img src="assets/img/img-pentest/sample-report-bypass.jpg" class="img-responsive" alt="Bypassing Unrestricted File Upload" loading="lazy">
+                            </picture>
                             <div class="sample-report__text text-center">Bypassing Unrestricted File Upload</div>
                         </a>
                     </div>
                     <div class="clearfix"></div>
                     <div class="col-sm-4" >
                         <a href="assets/img/img-pentest/sample-report-bug-finding.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-bug-finding.jpg" class="img-responsive" alt="Table Bug of Finding" style="border: solid 1px">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/sample-report-bug-finding.webp">
+                                <img src="assets/img/img-pentest/sample-report-bug-finding.jpg" class="img-responsive" alt="Table Bug of Finding" style="border: solid 1px" loading="lazy">
+                            </picture>
                             <div class="sample-report__text text-center">Table Bug of Finding</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-local-storage.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-local-storage.jpg" class="img-responsive" alt="Unencrypted Local Storage">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/sample-report-local-storage.webp">
+                                <img src="assets/img/img-pentest/sample-report-local-storage.jpg" class="img-responsive" alt="Unencrypted Local Storage" loading="lazy">
+                            </picture>
                             <div class="sample-report__text text-center">Unencrypted Local Storage</div>
                         </a>
                     </div>
                     <div class="col-sm-4">
                         <a href="assets/img/img-pentest/sample-report-telnet.jpg" data-toggle="lightbox">
-                            <img src="assets/img/img-pentest/sample-report-telnet.jpg" class="img-responsive" alt="Telnet Service Externally Available">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/sample-report-telnet.webp">
+                                <img src="assets/img/img-pentest/sample-report-telnet.jpg" class="img-responsive" alt="Telnet Service Externally Available" loading="lazy">
+                            </picture>
                             <div class="sample-report__text text-center">Telnet Service Externally Available</div>
                         </a>
                     </div>
@@ -723,8 +836,12 @@
                 <div class="row">
                     <div class="col-md-offset-1 col-md-10">
                         Webサイトセキュリティ診断サービスに関する、診断内容、レポート項目、費用、期間など詳細に関してはお気軽に日本語でお問い合わせいただければ幸いです。またSSL証明書の購入と設定に関しても良くお問い合わせいただきます。当社ではGlobalSign社のSSL証明書を扱っております。こちらまで(infoアットマークlogique.co.id）メールお送りいただくかこちらから問い合わせ送信いただきますようお願いいたします。<br /><br />
-                        <a href="/jp/contact.php" target="_blank"><img alt="Form" src="assets/img/img-pentest/form-footer.png"
-                                class="img-responsive center-block" /></a>
+                        <a href="/jp/contact.php" target="_blank">
+                            <picture>
+                                <source srcset="assets/img/img-pentest/form-footer.webp">
+                                <img alt="Form" src="assets/img/img-pentest/form-footer.png" class="img-responsive center-block" loading="lazy"/>
+                            </picture>
+                        </a>
                         <br>
                         <div class="phone-contact">
                             <div>Phone : </div>
@@ -747,21 +864,28 @@
         </div>
     </div>
 
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php'; ?>
     <script src="/js/jquery.matchHeight.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.3.0/ekko-lightbox.js"></script>
-
+    <script src="/js/modernizr-custom.js"></script>                                
     <script>
+        Modernizr.on('webp', function(result) {
+            if (result) {
+                $("body").addClass('webp');
+            }
+        });
+
         $(document).on('click', '[data-toggle="lightbox"]', function(event) {
             event.preventDefault();
             $(this).ekkoLightbox();
         });
+
+        $(function() {
+            $('.each-plus-minus').matchHeight();
+        });
     </script>
 </body>
-<script>
-$(function() {
-    $('.each-plus-minus').matchHeight();
-});
-</script>
+
 
 </html>

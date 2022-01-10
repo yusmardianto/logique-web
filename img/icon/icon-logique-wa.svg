@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4A2DC1B2-0E41-4548-9B51-7F9D25AC609C@2x</title>
+    <defs>
+        <radialGradient cx="50%" cy="0%" fx="50%" fy="0%" r="61.1104057%" id="radialGradient-1">
+            <stop stop-color="#46CE4B" offset="0%"></stop>
+            <stop stop-color="#4CAF50" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <filter x="-7.5%" y="-7.5%" width="115.0%" height="115.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter id="filter-4">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1306.000000, -4093.000000)" id="Group-16">
+            <g transform="translate(1310.000000, 4097.000000)">
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <rect stroke="#ECEFF1" stroke-width="6" stroke-linejoin="square" fill="url(#radialGradient-1)" fill-rule="evenodd" x="3" y="3" width="74" height="74" rx="37"></rect>
+                </g>
+                <g id="icon/whatsapp2" transform="translate(25.000000, 25.000000)" filter="url(#filter-4)">
+                    <g id="whatsapp-(2)" fill="#000000" fill-rule="nonzero">
+                        <path d="M15.00375,0 L14.99625,0 C6.725625,0 0,6.7275 0,15 C0,18.28125 1.0575,21.3225 2.855625,23.791875 L0.98625,29.364375 L6.751875,27.52125 C9.12375,29.0925 11.953125,30 15.00375,30 C23.274375,30 30,23.270625 30,15 C30,6.729375 23.274375,0 15.00375,0 Z M23.731875,21.181875 C23.37,22.20375 21.93375,23.05125 20.788125,23.29875 C20.004375,23.465625 18.980625,23.59875 15.534375,22.17 C11.12625,20.34375 8.2875,15.864375 8.06625,15.57375 C7.854375,15.283125 6.285,13.201875 6.285,11.049375 C6.285,8.896875 7.378125,7.84875 7.81875,7.39875 C8.180625,7.029375 8.77875,6.860625 9.3525,6.860625 C9.538125,6.860625 9.705,6.87 9.855,6.8775 C10.295625,6.89625 10.516875,6.9225 10.8075,7.618125 C11.169375,8.49 12.050625,10.6425 12.155625,10.86375 C12.2625,11.085 12.369375,11.385 12.219375,11.675625 C12.07875,11.975625 11.955,12.10875 11.73375,12.36375 C11.5125,12.61875 11.3025,12.81375 11.08125,13.0875 C10.87875,13.325625 10.65,13.580625 10.905,14.02125 C11.16,14.4525 12.04125,15.890625 13.33875,17.045625 C15.013125,18.53625 16.370625,19.0125 16.85625,19.215 C17.218125,19.365 17.649375,19.329375 17.91375,19.048125 C18.249375,18.68625 18.66375,18.08625 19.085625,17.495625 C19.385625,17.071875 19.764375,17.019375 20.161875,17.169375 C20.566875,17.31 22.71,18.369375 23.150625,18.58875 C23.59125,18.81 23.881875,18.915 23.98875,19.100625 C24.09375,19.28625 24.09375,20.158125 23.731875,21.181875 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

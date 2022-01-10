@@ -318,7 +318,7 @@ ul.medsos-new li a {
 .list-inline > li.active {
   border: solid 2px #fff;
   border-radius: 1em;
-  padding: 2px 5px;
+  /* padding: 2px 5px; */
 }
 .list-inline > li.active a {
   color: #fff;
@@ -1492,6 +1492,7 @@ ul.medsos-new li a {
 /* seo banner */
 .content-area__seo .seo__banner {
   background: url('/en/services/digital-marketing/img/img-seo-optimization/banner-seo-bg.png') left/cover no-repeat, #f8f8f8;
+  background-image: url('/en/services/digital-marketing/img/img-seo-optimization/banner-seo-bg.webp');
   margin-top: 65px;
   padding-top: 80px;
   padding-bottom: 60px;
@@ -1533,6 +1534,7 @@ ul.medsos-new li a {
   padding-top: 60px;
   padding-bottom: 40px;
   background: url('/en/services/digital-marketing/img/img-seo-optimization/solution-bg.png') bottom/contain no-repeat;
+  background-image: url('/en/services/digital-marketing/img/img-seo-optimization/solution-bg.webp');
 }
 
 .solution__wrapper > .row {
@@ -1595,6 +1597,7 @@ ul.medsos-new li a {
   padding-top: 55px;
   padding-bottom: 55px;
   background: url('/en/services/digital-marketing/img/img-seo-optimization/effort-bg.png') center/cover no-repeat;
+  background-image: url('/en/services/digital-marketing/img/img-seo-optimization/effort-bg.webp');
 }
 
 /* seo services */

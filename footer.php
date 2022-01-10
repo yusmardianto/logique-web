@@ -1,75 +1,32 @@
 <style>
- 
-.tahap-pemesanan-2 {
-    background-color: #ffcd38;
-}
-#PureChatWidget.purechat.purechat-bottom-right {
-    right: 20px !important;
-    bottom: 20px !important;
-}
-#PureChatWidget {
-    transition: all ease-in-out 0.25s !important;
-}
-#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {
-    min-height: 55px !important;
-}
-#PureChatWidget.purechat.purechat-style-classic {
-    border: none !important;
-}
-#PureChatWidget.purechat .purechat-content-wrapper {
-    background-color: #f1f1f1 !important;
-}
-#PureChatWidget.purechat .purechat-card {
-    background-color: #fff !important;
-}
-#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
-    bottom: 70px !important;
-}
+/* .tahap-pemesanan-2 { background-color: #ffcd38; }
+#PureChatWidget.purechat.purechat-bottom-right {  right: 20px !important; bottom: 20px !important; }
+#PureChatWidget { transition: all ease-in-out 0.25s !important; }
+#PureChatWidget.purechat .purechat-collapsed .purechat-widget-header {  min-height: 55px !important; }
+#PureChatWidget.purechat.purechat-style-classic { border: none !important; }
+#PureChatWidget.purechat .purechat-content-wrapper {  background-color: #f1f1f1 !important; }
+#PureChatWidget.purechat .purechat-card { background-color: #fff !important; }
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse { bottom: 70px !important; }
 #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,
-#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right {
-    bottom: -60px !important;
-}
-#PureChatWidget.purechat .purechat-widget-header .purechat-btn,
-#PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active,
-#PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {
-    box-shadow: none !important;
-}
-.purechat-widget-title__arrow.--hide {
-    display: none !important;
-}
+#PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right { bottom: -60px !important;}
+#PureChatWidget.purechat .purechat-widget-header .purechat-btn, #PureChatWidget.purechat .purechat-widget-header .purechat-btn.purechat-btn-active, #PureChatWidget.purechat .purechat-widget-header .purechat-btn:hover {box-shadow: none !important;}
+.purechat-widget-title__arrow.--hide {display: none !important;}
 @media (max-width: 991.98px) {
-    #PureChatWidget {
-        width: 200px !important;
-    }
-    #PureChatWidget.purechat.purechat-bottom-right,
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom,
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {
-        left: unset !important;
-        right: 50% !important;
-        transform: translateX(50%) !important;
-    }
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom,
-    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left,
-    #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right {
-        bottom: -65px !important;
-    }
-    #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse,
-    #PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse {
-        bottom: 70px !important;
-        right: unset !important;
-        left: 45% !important;
-        transform: translateX(-50%) !important;
-    }
+#PureChatWidget {width: 200px !important;}
+#PureChatWidget.purechat.purechat-bottom-right, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-collapsed.purechat-bottom, #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom {left: unset !important; right: 50% !important; transform: translateX(50%) !important;  }
+#PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom, #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-left, #PureChatWidget.purechat.purechat-widget-super-collapsed.purechat-style-classic.purechat-bottom-right { bottom: -65px !important;} #PureChatWidget.purechat.purechat-popped-out-widget.purechat-widget-super-collapsed.purechat-bottom .purechat-btn-collapse,
+#PureChatWidget.purechat.purechat-widget-super-collapsed .purechat-btn-collapse { bottom: 70px !important; right: unset !important; left: 45% !important; transform: translateX(-50%) !important; }
 }
+@media (max-width: 486px) {
+} */
 </style>
-<footer class="content-wrapper__ bg--footer footer-section  footer-update">
-  
+<footer class="content-wrapper__ bg--footer footer-section  footer-update">  
     <!-- End Twitter universal website tag code -->
-    <div class="container__footer">
+    <div class="container__">
         <div class="row">
-            <div class="col-md-offset-1 col-md-10 col-sm-12">
+            <div class=" col-sm-12">
                 <div class="row flex-row">
-                    <div class="col-md-4 col-sm-12 company-info">
+                    <div class="col-md-3 col-sm-12 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title "> 
                                 <span itemprop="name" class="logo-font" >LOGIQUE</span> 
@@ -77,15 +34,15 @@
                             <div itemprop="address" class='footer-address' itemscope itemtype="https://schema.org/PostalAddress">
                                 <span itemprop="streetAddress"> <strong>Ad Premier Building 19th Floor. </strong><br>Jalan Tb. Simatupang No. 5
                                     <br />
-                                    Ragunan, Ps. Minggu, Jakarta Selatan, <br>Indonesia </span><span
+                                    Ragunan, Ps. Minggu, <br>Jakarta Selatan, Indonesia </span><span
                                     itemprop="postalCode">12550</span>  
                             </div> 
                             <div class="footer-extrainfo">    
                                 <ul class="phone-info">
-                                                <li class=""><img src="/img/phone.svg" style="width:18px;">&nbsp;&nbsp;&nbsp;(021) 22708935 / 36</li>
+                                                <li class=""><img alt="Telepon Kantor" src="/img/phone.svg" style="width:18px;">(021) 22708935 / 36</li>
                                                 <li class=""><a href="https://api.whatsapp.com/send?phone=62811870321" target="_blank"
-                                                rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;">&nbsp;&nbsp;<span
-                                                    class="waNumber">0811-870-321</span></a></li> 
+                                                rel="noreferrer"> <img src="/img/wa-icon-new.svg" style="width:18px;" loading="lazyload"><span
+                                                    class="waNumber" alt="Whatapps Kantor">0811-870-321</span></a></li> 
                                             </ul> 
                                             <ul class="medsos-new">
                                     <li><a href="https://www.facebook.com/logique.id/" target="_blank" rel="noreferrer" aria-label="Facebook" class="facebook-icon"> </a></li>
@@ -93,34 +50,70 @@
                                     <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram" class='instagram-icon'> </a></li>
                                     <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"  aria-label="LinkedIn" class="linkedin-icon"> </a></li>
                                 </ul>
+
+                                <img class="rounded" src="./img/img-footer-googlepartner-withborder.png" alt="" width="72" height="auto" style="margin-top: 1rem;"/> 
+                                
                             </div>  
                         </div>
                     </div>
-                    <div class="col-md-8 col-sm-12 company-footer-nav">
-                        <div class="row">
-                            <div class="col-sm-6 link-footer-nav main-footer-nav">
+                    <div class="col-md-9 col-sm-12 company-footer-nav">
+                        <div class="mobile-menu-container">
+                            <ul>
+                                <li><a href="/index.php">Beranda</a></li>
+                                    <li><a href="/logique.php">Tentang Kami</a> </li>
+                                    <li class="have-submenu"><a href="/layanan.php">Layanan</a>
+                                    <li><a href="/portofolio.php">Portofolio</a>
+                                    <li><a href="/case-study/">Studi Kasus</a></li> 
+                                    <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                    <li><a href="/white-paper.php">White Paper Download</a></li> 
+                                    
+                            </ul>
+                            <ul>
+                            <li class="have-submenu">  <a href="/produk.php">Produk Kami</a>
+                                    <li><a href="/career/">Join  Logique (Karir)</a>
+                                    <li> <a href="/career/lowongan/"  >Lowongan Kerja </a>
+                                    <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
+                                    <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                            </ul>
+                        </div>
+                        <div class="row main-footer-container">
+                            <div class="col-sm-4 link-footer-nav main-footer-nav">
                                 <ul>
                                     <li><a href="/index.php">Beranda</a></li>
                                     <li><a href="/logique.php">Tentang Kami</a> </li>
                                     <li class="have-submenu"><a href="/layanan.php">Layanan</a>
-                                        <ul>
-                                        <li class="have-submenu"><a href="/layanan/web-dev.php" target="_blank">Jasa Pembuatan  Website</a> </li>
-                                        <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
-                                        <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>
-                                        <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan  Keamanan  Website (Pentest) </a></li>
-                                        <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a>
-                                            <ul>
-                                                <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a>
-                                                </li>
-                                            </ul>
-                                        </li>
+                                        <ul class="footer-submenu">
+                                            <li class="have-submenu"><a href="/layanan/jasa-pembuatan-website.php" target="_blank">Jasa Pembuatan  Website</a> </li>
+                                            <li><a href="/layanan/pembuatan-sistem-web.php" target="_blank">Jasa Pengembangan Sistem   Web</a> </li>
+                                            <li><a href="/layanan/pembuatan-progressive-web-app.php" target="_blank">Jasa Pembuatan PWA</a> </li>
+                                            <li><a href="/layanan/pembuatan-aplikasi-mobile.php" target="_blank">Pengembangan Aplikasi  Mobile  </a></li>
+                                            <li class="text-left"><a href="/layanan/penetration-test.php" target="_blank">Pengetesan  Keamanan  Website (Pentest) </a></li>
+                                            <li class="have-submenu"><a href="/layanan/digital-marketing.php" target="_blank">Jasa Digital Marketing </a></li>
+                                            <li><a href="/layanan/digital-marketing/jasa-seo.php" target="_blank"> Jasa SEO </a> </li> 
+                                        
+                                        </ul>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/layanan/project-management.php">Manajemen Proyek Kami</a> </li>
+                                            <li><a href="/layanan/devops.php">Layanan Manajemen Cloud Server</a> </li>
+                                            <li><a href="#">Layanan Flat-rate DX/DM Service</a> </li>
                                         </ul>
                                     </li> 
-                                    <li><a href="/portofolio.php">Portofolio</a></li> 
+                                   
                                 </ul>
                             </div> 
-                            <div class="col-sm-6 link-footer-nav">
-                                
+                            <div class="col-sm-4 link-footer-nav">
+                                <ul> 
+                                    <li><a href="/portofolio.php">Portofolio</a>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/portofolio/website.php">Website Dev Portfolio</a></li>
+                                            <li><a href="/portofolio/mobile-app.php">Mobile App Portfolio</a></li>
+                                            <li><a href="/portofolio/system-development.php">System Dev Portfolio</a></li>
+                                            <li><a href="/portofolio/system-development.php ">Digital Marketing Portfolio</a></li>
+                                        </ul> 
+                                    </li> 
+                                    <li><a href="/case-study/">Studi Kasus</a></li> 
+                                    <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                    <li><a href="/white-paper.php">White Paper Download</a></li> 
                                     <li class="have-submenu">  <a href="/produk.php">Produk Kami</a>
                                         <ul>
                                             <li><a href="https://dokodemo-kerja.com" target="_blank" rel="noreferrer">Dokodemo-Kerja  <span style="font-size: 11px;">(Sistem aplikasi bagi pekerja remote) </span> </a> </li>
@@ -128,14 +121,34 @@
                                             <li><a href="/produk/sugoi-saiyo.php" target="_blank"> Sugoi Saiyo <span style="font-size: 11px;">(Sistem aplikasi perekrutan pegawai)</span></a> </li>   
                                         </ul>
                                     </li>
+                                   
+                                </ul>
+
+                            </div>
+                            <div class="col-sm-4 link-footer-nav"> 
+                                <ul>  
                                     <li><a href="/career/">Join  Logique (Karir)</a>
-                                        <ul>
-                                                <li><a href="/career/">Kerja di LOGIQUE</a></li>
-                                                <li> <a href="/career/lowongan/"  >Lowongan Kerja </a></li>  
+                                        <ul class="footer-submenu">    
+                                            <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pengembangan Karir</a></li>
+                                            <li><a href="/career/aktivitas-kerja/">Aktivitas Kami</a></li>
+                                            <li><a href="/career/pedoman-hr/">Pendoman HR</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pesan Untuk Kandidat</a></li>
+                                            <li><a href="/career/faq/">FAQ</a></li> 
+                                               
                                             </ul>
-                                        </li>
+                                        </li>  
+                                          <li> <a href="/career/lowongan/"  >Lowongan Kerja </a>
+                                            <ul class="footer-submenu">
+                                                <li><a href="/career/lowongan/programmer/">Lowongan Programmer</a></li>
+                                                <li><a href="/career/lowongan/it-generalist/">Lowongan IT Generalist</a></li>
+                                                <li><a href="/career/lowongan/specialist/">Lowongan Other IT Specialist</a></li>
+                                                <li><a href="/career/lowongan/digitalmarketing/">Lowongan Digital Marketing</a></li> 
+                                            </ul> 
+                                          </li>  
                                     <li><a href="/hubungi-kami.php">Hubungi Kami</a></li>
-                                    <li><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                    <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                </ul>  
                             </div>
                         </div> 
                     </div> 
@@ -143,14 +156,7 @@
                                 <h3>Tentang Kami</h3>
                                 <p><span class="logo-font">LOGIQUE </span>membantu bisnis Anda tumbuh dengan transformasi digital. Kami menyediakan konsultasi IT, 
                               produksi situs web,  pengembangan aplikasi web / seluler, pengembangan sistem, dan layanan operasi 
-                              pemasaran digital</p>
-                                <!-- <p>Sebagai tim yang profesional dalam bidang jasa pembuatan website,  <strong>LOGIQUE</strong> menyediakan solusi terbaik
-                                yang teroptimasi untuk bisnis Anda. Selain <a href="/layanan/web-dev.php" target="_blank"><b>jasa
-                                        pembuatan website</b></a>, <strong>LOGIQUE</strong> juga menyediakan jasa lainnya seperti jasa konsultasi
-                                digital, jasa pembuatan aplikasi, desain web, pengembangan web system, jasa SEO dan percetakan. Kami
-                                memberikan rancangan terstruktur secara detil baik untuk pembuatan website perusahaan, aplikasi,
-                                maupun pembuatan website atau sistem berskala besar dengan kombinasi desain yang terarah dan
-                                arsitektur sistem yang baik.</p>   -->
+                              pemasaran digital</p> 
                             </div>      
                 </div>
                 <br>
@@ -169,9 +175,33 @@
         </div>
     </div>
 </footer>
+<div class="floating-wa-button" >
+    <?php 
+        if (strpos($_SERVER['REQUEST_URI'], "career") !== false){
+            $waNumber = '6282260567856';
+            }else{
+            $waNumber = '62811870321';
+            }
+    ?>
+    <a href="https://wa.me/<?=$waNumber?>" class="wa-button" target="_blank"><img src="/img/icon/icon-logique-wa.svg" width="80" height="80"></a>
+    <style>
+        .floating-wa-button{
+            border-radius: 50%;
+            position:fixed; 
+            bottom : 10%; 
+            right:10px;
+            transition: all 0.15s ease-in-out;
+            z-index: 9999;
+            }
+            .floating-wa-button:hover{
+            box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -webkit-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -moz-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            }
+    </style> 
+</div>
   <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
-
-  <script type='text/javascript' data-cfasync='false'>
+<!-- <script type='text/javascript' data-cfasync='false'>
     window.purechatApi = {  l: [],  t: [],  on: function() {   this.l.push(arguments); }  };
     (function() {
         var done = false;
@@ -187,7 +217,7 @@
                     f: true
                 });
                 done = true; } };  })();
-    </script>
+    </script> -->
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -215,10 +245,14 @@
     twq('init', 'o0xru');
     twq('track', 'PageView');
     </script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!-- <script   src="/js/jquery-3.min.js"></script> -->
-<script    src="/js/bootstrap.min.js"></script>
-<script  async src="/js/slick.min.js"></script>
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+<script src="/js/jquery-3.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+
+<?php if(!isset($slick_disabled)){ ?>
+    <script id="slick-script" src="/js/slick.min.js"></script>
+<?php }?>
 
 <!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
@@ -238,17 +272,24 @@ $('.map-container')
 </script>
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Jakarta, Indonesia",
-        "postalCode": "12550",
-        "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-    },
-    "logo": "https://www.logique.co.id/img/logo.png",
-    "email": "info(at)logique.co.id",
-    "telephone": "+62 (21) 2270 8935/36"
+  "@context": "http://www.schema.org",
+  "@type": "ProfessionalService",
+  "name": "Logique Digital Indonesia",
+  "url": "https://www.logique.co.id/",
+  "logo": "https://www.logique.co.id/img/logo.png",
+  "priceRange": "$",
+  "image": "https://www.logique.co.id/img/slider1.jpg",
+  "description": "Logique adalah perusahan jasa digital agency asal Jepang yang berkantor di Jakarta dan membantu Anda dalam pembuatan dan pengembangan website, digital marketing, dan desain.",
+  "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5",
+     "addressLocality": "Jakarta Selatan",
+     "addressRegion": "DKI Jakarta",
+     "postalCode": "12550",
+     "addressCountry": "Indonesia"
+  },
+   "openingHours": "Mo 08:00-17:30 Tu 08:00-17:30 We 08:00-17:30 Th 08:00-17:30 Fr 08:00-17:30",
+  "telephone": "(021) 22708935 / 36"
 }
 </script>
 <script type="text/JavaScript">
@@ -257,7 +298,7 @@ $('.map-container')
 </script>
 
 <!-- override purechat styling -->
-<script>
+<!-- <script>
     $(function() {
         purechatApi.on('chatbox:ready', function (args) {
             $('#PureChatWidget').attr('style', function(i,s) { return (s || '') + 'width: 200px !important; min-width: 170px !important;' });
@@ -276,7 +317,7 @@ $('.map-container')
             }, 50);
         });
     })
-</script>
+</script> -->
 
 <!-- AD POPUP -->
 <!-- <script>

@@ -1,4 +1,12 @@
 <?php 
+  if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+    echo '<!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->';
+  }
+?>
+<?php 
     $baseFileName = basename($_SERVER['PHP_SELF']);
 ?>
 <!-- NAVIGATION -->
@@ -74,8 +82,10 @@
           <div class="row">
             <div class="col-sm-8 col-md-3">
               <a href="/career/">
-                <img src="/img/career/logo-karir.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                  class="img-responsive logo--update-design" />
+                <picture>
+                  <source srcset="/img/career/logo-karir.webp" type="image/webp"/>
+                  <img src="/img/career/logo-karir.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" />
+                </picture>
               </a>
             </div>
             <div class="col-md-5 col-lg-6 hidden-xs hidden-sm">
@@ -173,16 +183,19 @@
 <div class="mega-menu">
   <div class="mega-menu__item">
     <a href="/career/lowongan/programmer/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
+      <img class="mega-menu__img" src="/img/career/icon/web-dev.png" loading="lazy" alt="Web Developer">
       <h4>Programmer</h4>
     </a>
     <ul class="mega-menu__list">
       <a href="/career/lowongan/programmer/frontend-developer.php"><li>Frontend Developer</li></a>
-      <a href="/career/lowongan/programmer/mobile-app-developer.php"><li>Mobile App Developer</li></a>
+      <a href="/career/lowongan/programmer/mobile-app-developer.php"><li>Mobile Application Developer (Android)</li></a>
       <a href="/career/lowongan/programmer/product-developer.php"><li>Product Developer</li></a>
-      <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a>
-      <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS Developer</li></a>
-      <a href="/career/lowongan/programmer/web-developer.php"><li>Web Developer</li></a>
+      <!-- <a href="/career/lowongan/programmer/react-native-developer.php"><li>React Native Developer</li></a> -->
+      <a href="/career/lowongan/programmer/reactjs-developer.php"><li>React JS / Vue JS Developer</li></a>
+      <a href="/career/lowongan/programmer/web-developer.php"><li>PHP Developer</li></a>
+      <a href="/career/lowongan/programmer/net-developer.php"><li>.NET Developer</li></a>
+      <a href="/career/lowongan/programmer/golang-developer.php"><li>Golang Developer</li></a>
+      <a href="/career/lowongan/programmer/flutter-developer.php"><li>Flutter Developer</li></a>
     </ul>
   </div>
   <div class="mega-menu__item">
@@ -195,20 +208,22 @@
       <!-- <a href="/career/lowongan/it-generalist/consultant.php"><li>Consultant</li></a> --> 
       <a href="/career/lowongan/it-generalist/project-manager.php"><li>Consultant / Project Manager</li></a>
       <a href="/career/lowongan/it-generalist/product-manager.php"><li>Product Manager</li></a>
+      <a href="/career/lowongan/it-generalist/lead-business-analyst.php"><li>Lead Business Analyst</li></a>
+      <a href="/career/lowongan/it-generalist/project-manager-lead.php"><li>Lead Consultant/PM</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/specialist/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/webmaster.png" alt="Web Master">
+      <img class="mega-menu__img" src="/img/career/icon/webmaster.png" loading="lazy" alt="Web Master">
       <h4>Others IT Specialist</h4>
     </a>
     <ul class="mega-menu__list">
-      <a href="/career/lowongan/specialist/devops.php"><li>Devops</li></a>
+      <a href="/career/lowongan/specialist/devops.php"><li>Devops Engineer</li></a>
       <a href="/career/lowongan/specialist/it-security-specialist.php"><li>IT Security Specialist</li></a>
-      <a href="/career/lowongan/specialist/quality-assurance.php"><li>Quality Assurance</li></a>
+      <a href="/career/lowongan/specialist/quality-assurance.php"><li>QA Engineer (Software)</li></a>
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/digitalmarketing/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/ux.png" alt="Designer">
+      <img class="mega-menu__img" src="/img/career/icon/ux.png" loading="lazy" alt="Designer">
       <h4>Designer / Digital Marketing</h4>
     </a>
     <ul class="mega-menu__list">
@@ -217,7 +232,7 @@
     </ul>
   </div><div class="mega-menu__item">
     <a href="/career/lowongan/backoffice/" class="mega-menu__title">
-      <img class="mega-menu__img" src="/img/career/icon/content.png" alt="Back Office">
+      <img class="mega-menu__img" src="/img/career/icon/content.png" loading="lazy" alt="Back Office">
       <h4>Back Office</h4>
     </a>
     <ul class="mega-menu__list">

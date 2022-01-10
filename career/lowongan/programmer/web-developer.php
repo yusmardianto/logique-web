@@ -6,45 +6,28 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Web Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja php developer terbaru di Jakarta. Gaji negosiable, bisa bekerja remote. Ayo bergabung bersama team programmer LOGIQUE. Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Web Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja PHP Developer Terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Web Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja php developer terbaru di Jakarta. Gaji negosiable, bisa bekerja remote. Ayo bergabung bersama team programmer LOGIQUE. Apply Sekarang!">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/programmer/web-developer.php"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Web Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
+  <title>Lowongan Kerja PHP Developer Terbaru Jakarta | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
-
+  
   <!-- Facebook Pixel Code -->
   <script>
   ! function(f, b, e, v, n, t, s) {
@@ -71,13 +54,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -107,7 +97,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Web Developer</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; PHP Developer</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -117,7 +107,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-8 col-md-9 col-sm-10">
-              <h1 class="header__title">Web Developer</h1>
+              <h1 class="header__title">PHP Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -145,165 +135,91 @@
 
       <section class="container-fluid">
         <div class="container--max-width">
+          <div class="career-requirement">
+            <div class="row">
+              <div class="col-sm-offset-1 col-md-10 col-sm-10">
+                <p><span class="fs-24 line-height-1">PHP Developer</span> bertugas untuk mengembangkan aplikasi berbasis web, termasuk merancang Database agar aplikasi berjalan sesuai dengan fungsinya, dan berkolaborasi dengan Front-end Developer dengan mengintegrasikan elemen yang di buat oleh front-end developer agar bisa di gunakan dengan baik oleh user.</p>
+              </div>
+            </div>
+          </div>
+
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
+                <h3 class="section-title">Talenta Yang Kami Cari </h3>
+                <p class="mb--15">Logique mencari seorang yang memiliki pengalaman bekerja dalam sebuah tim pengembang aplikasi berbasis web. Baik saat melakukan perancangan website atau saat melakukan debugging maupun mengatasi error yang pada aplikasi. Untuk melakukan hal tersebut di butuhkan strategi dan juga logika yang tepat agar menghasilkan aplikasi yang baik. </p>
+                <p>Jika Anda memiliki karakteristik:</p>
                 <ul class="career-list">
-                  <li>
-                    Melakukan integrasi User Interface Element yang telah didevelop oleh Front-End Developer ke
-                    Back-End.
-                  </li>
-                  <li>
-                    Membangun Modul yang efisien, reusable, testable, dan scalable.
-                  </li>
-                  <li>
-                    Memecahkan permasalahan performa dan tantangan arsitektur IT dari produk-produk /layanan perusahaan.
-                  </li>
-                  <li>
-                    Merancang, membuat, dan mengelola aplikasi web.
-                  </li>
-                  <li>
-                    Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki.
-                  </li>
-                  <li>
-                    Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi.
-                  </li>
-                  <li>
-                    Menganalisa masalah dan memberikan solusi dari sisi teknis.
-                  </li>
+                  <li>Professional</li>
+                  <li>Memiliki inisiatif tinggi </li>
+                  <li>Berkomitmen tinggi </li>
+                  <li>Mandiri </li>
+                  <li>Self-Driven </li>
+                  <li>Logis dalam berpikir</li>
                 </ul>
-              </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience</h3>
-                <ul class="career-list">
-                  <li>
-                    Berpendidikan minimal D3 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.
-                  </li>
-                  <li>
-                    Berpengalaman minimal 2 tahun di bidang IT atau programming.
-                  </li>
-                  <li>
-                    Berpengalaman dalam pembuatan WEB/Sistem WEB (PHP, MySQL, HTML, dll).
-                  </li>
-                  <li>
-                    Berpengalaman dalam menggunakan Framework PHP seperti Laravel, atau sejenisnya.
-                  </li>
-                  <li>
-                    Memahami prinsip yang mendasari Database pemrograman.
-                  </li>
-                  <li>
-                    Memahami dasar-dasar dari logika pemrograman.
-                  </li>
-                  <li>
-                    Mampu menggunakan atau membuat RESTful API
-                  </li>
-                  <li>
-                    Familiar dengan version control system (VCS) seperti Git
-                  </li>
-                </ul>
+                <p>
+                  <strong>Maka, Andalah talenta yang cocok untuk bergabung dan berkembang bersama kami. </strong>
+                </p>
               </div>
 
               <div class="career-requirement">
-                <h3 class="section-title">Required Skill</h3>
-                <ul class="career-list">
-                  <li>
-                    Memiliki kemampuan analisa dan pemecahan masalah yang baik.
-                  </li>
-                  <li>
-                    Mampu bekerja sebagai tim antar divisi.
-                  </li>
-                  <li>
-                    Dapat belajar secara cepat dan mandiri.
-                  </li>
-                  <li>
-                    Mempunyai rasa tanggung jawab yang tinggi.
-                  </li>
-                </ul>
-              </div>
-
-              <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>
-                    Mempunyai minat yang besar terhadap bisnis Internet dan Web.
-                  </li>
-                <!--   <li>
-                    Terbiasa menggunakan magento.
-                  </li> -->
-                  <li>
-                    Memiliki pengetahuan tentang Project Management.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan tentang server.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan dan pernah menggunakan framework JS.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan tentang Golang.
-                  </li>
-                </ul>
+                <h3 class="section-title">Apa yang bisa Anda dapatkan </h3>
+                <p class="mb--15">Kami mencari PHP Developer yang bisa segera bergabung bersama team Logique. Sudah menjadi bagian dari filosofi Kami untuk terus menghargai dan memberikan apresiasi terbaik terhadap setiap profesional kami, memberikan manfaat yang komprehensif, tantangan yang menarik, dan peluang untuk berkembang dalam hal pekerjaan maupun keahlian.</p>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Rewards and Worthwhile</h3>
+                <h3 class="section-title">Job Description</h3>
+                <p></p>
+                 <!-- <ul class="career-list">
+                  <li> Melakukan integrasi User Interface Element yang telah didevelop oleh Front-End Developer ke Back-End.  </li>
+                  <li> Membangun Modul yang efisien, reusable, testable, dan scalable. </li>
+                  <li> Memecahkan permasalahan performa dan tantangan arsitektur IT dari produk-produk /layanan perusahaan. </li>
+                  <li> Merancang, membuat, dan mengelola aplikasi web. </li>
+                  <li> Menyelesaikan pekerjaan yang diberikan dengan kemampuan teknikal yang dimiliki. </li>
+                  <li> Melakukan pengujian terhadap hasil yang dikerjakan, termasuk sistem pengujian terintegrasi. </li>
+                  <li> Menganalisa masalah dan memberikan solusi dari sisi teknis. </li>
+                </ul>   -->
                 <ul class="career-list">
-                  <li>
-                    Anda akan terlibat dalam projek besar dengan client perusahaan yang sudah berjaya di industri otomotif
-                  </li>
-                  <li>
-                    Jam kerja yang flexible (40 jam /minggu) dan bebas memilih start time kerja (8.00 am – 10.00 am)
-                  </li>
-                  <li>
-                    Anda juga akan mendapatkan fasilitas remote working 1 – 3 hari setiap minggunya
-                  </li>
-                  <li>
-                    Bonus kinerja bulanan (performance based)
-                  </li>
+                  <li>Melakukan integrasi frontend ke backend </li>
+                  <li>Mengembangkan fungsi dalam aplikasi Web yang efisien, reusable, testable, scalable</li>
+                  <li>Memecahkan permasalah terkait dengan performa, arsitektur aplikasi pada produk dan projek</li>
+                  <li>Merancang, membuat dan mengelola aplikasi web</li>
+                  <li>Berkontribusi dalam pengembangan aplikasi Web dengan kemampuan technical yang dimiliki</li>
+                  <li>Menganalisa masalah dan memberikan solusi technical yang efisien</li>
+                  <li>Melakukan pengujian terhadap hasil yang dikerjakan termasuk system pengujian terintegrasi</li>
+                </ul> 
+              </div>
+              <div class="career-requirement">
+                <h3 class="section-title">Required Skill</h3>
+                <ul class="career-list">
+                  <li>Berpendidikan minimal S1 dari Sistem Informasi, Teknologi Informasi atau sejenisnya.  </li>
+                  <li>Berpengalaman min. 3 tahun di bidang PHP framework/programming (Laravel atau Zend) </li>
+                  <li>Berpengalaman dalam pembuatan aplikasi berbasis WEB (PHP, MySQL) dan API (Microservice) </li>
+                  <li>Menguasai JavaScript </li>
+                  <li>Menguasai konsep OOP (Object Oriented Programming) </li>
+                  <li>Berpengalaman menggunakan Git </li>
+                  <li>Berpengalaman menggunakan Database (SQL dan NoSQL) </li>
+                  <li>Dapat bekerja di bawah tekanan  </li>
+                  <li>Memiliki minat untuk mengembangkan diri dalam teknologi terbaru </li>
+                  <li>Terbiasa dan mempunyai minat untuk berkolaborasi dan berkomunikasi dengan pihak ketiga </li>
                 </ul>
               </div>
-              <!-- <div class="career-requirement">
-                <h3 class="section-title">Cara Bekerja Web Developer Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
-                <h4 class="section-subtitle">Web Developer</h4>
-                <div class="work-schedule">
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:00 – 10:10</div>
-                    <div class="work-schedule__text">Daily Scrum Meeting</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:10 – 10:30</div>
-                    <div class="work-schedule__text">Check Trello, Git and Slack, and confirm “to do” today</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">10:30 – 12:00</div>
-                    <div class="work-schedule__text">Programming for product A</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">12:00 – 13:30</div>
-                    <div class="work-schedule__text">Istirahat makan siang</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">13:30 – 15:00</div>
-                    <div class="work-schedule__text">Internal meeting dengan product manager mengenai product Logique , laporan progress, membuat target yang baru</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">15:00 – 16:00</div>
-                    <div class="work-schedule__text">Programming / DevOps untuk product logique</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">16:00</div>
-                    <div class="work-schedule__text">Pulang</div>
-                  </div>
-                  <div class="work-schedule__item">
-                    <div class="work-schedule__time">19:00 – 21:00</div>
-                    <div class="work-schedule__text">Continue Programming for product A
-                    </div>
-                  </div>
-                </div>
-              </div> -->
+              <div class="career-requirement">
+                <h3 class="section-title">Rewards and Worthwhile</h3>
+                <ul class="career-list">
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
+                  <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
+                </ul>
+              </div>
             </div>
+              
           </div>
         </div>
       </section>

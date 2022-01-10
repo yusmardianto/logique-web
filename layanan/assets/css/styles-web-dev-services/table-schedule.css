@@ -1,0 +1,111 @@
+/* 
+RESPONSIVE TEMPLATE
+
+@media only screen and (min-width: 320px) {}
+@media only screen and (min-width: 375px) {}
+@media only screen and (min-width: 425px) {}
+@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 1024px) {}
+@media only screen and (min-width: 1440px) {}
+*/
+
+:root {
+  --yellowAlurKerja: #f8c100;
+  --bgCream: rgb(255, 244, 212);
+}
+
+@media only screen and (min-width: 320px) {
+  .plan-schedule {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin: 50px auto 0 auto;
+    padding: 0;
+  }
+
+  .schedule-cont {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    gap: 20px;
+    padding: 30px 15px 40px 15px;
+    margin: 10px 0 0 0;
+  }
+
+  .bg-cream {
+    background-color: var(--bgCream);
+  }
+
+  .bg-grey {
+    background-color: #fafafa;
+  }
+
+  .title-schedule-cont {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+  }
+
+  .desc-schedule-cont {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .schedule-title {
+    font-size: 15px;
+    line-height: 1.9;
+    font-weight: bold;
+  }
+
+  .schedule-desc {
+    font-size: 13px;
+    line-height: 1.9;
+    color: #000;
+  }
+}
+
+@media only screen and (min-width: 1020px) {
+  .plan-schedule {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1050px;
+    height: auto;
+    margin: 100px auto 0 auto;
+  }
+
+  .schedule-cont {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 35px;
+    padding: 50px;
+    margin: 0 0 0 0;
+  }
+
+  .title-schedule-cont {
+    display: flex;
+    width: 25%;
+    flex-direction: row;
+  }
+
+  .desc-schedule-cont {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+  }
+  .schedule-title {
+    font-size: 18px;
+    line-height: 1.9;
+    font-weight: bold;
+  }
+
+  .schedule-desc {
+    font-size: 15px;
+    line-height: 1.9;
+    color: #000;
+  }
+}

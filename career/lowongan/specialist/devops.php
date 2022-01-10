@@ -6,44 +6,40 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari DevOps. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan Kerja DevOps Engineer Terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negotiable, Bonus + Asuransi, dll | Ayo gabung LOGIQUE. Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="DevOps | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja DevOps Engineer Terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari DevOps. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan Kerja DevOps Engineer Terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negotiable, Bonus + Asuransi, dll | Ayo gabung LOGIQUE. Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>DevOps | Lowongan Kerja | IT Specialist | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/specialist/devops.php"/>
+  <title>Lowongan Kerja DevOps Engineer Terbaru Jakarta | LOGIQUE</title>
+
+  <link rel="preconnect" href="https://ajax.googleapis.com"/>
+  <link rel="preconnect" href="https://static.ads-twitter.com"/>
+  <link rel="preconnect" href="https://app.purechat.com"/>
+  <link rel="preconnect" href="https://connect.facebook.net"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
 
   <!-- Bootstrap -->
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/js/bootstrap.min.js " rel="preload" as="style"> 
+  <link href="/js/jquery-3.min.js" rel="preload" as="script"> 
+
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -71,13 +67,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -107,7 +110,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; DevOps</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; DevOps Engineer</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -117,7 +120,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">DevOps</h1>
+              <h1 class="header__title">DevOps Engineer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -419,7 +422,9 @@
 
     </div>
 
+    <?php $slick_disabled = true; ?>
     <?php include '../../../footer.php'; ?>
+    
   </div>
   <script type="text/JavaScript">
     $('.waNumber').html('0822-60-5678-56');

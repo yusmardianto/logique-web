@@ -1,13 +1,13 @@
-﻿@-webkit-viewport { width: device-width; }
-@-moz-viewport { width: device-width; }
-@-ms-viewport { width: device-width; }
-@-o-viewport { width: device-width; }
-@viewport { width: device-width; }
-@charset "UTF-8";
-/**
+﻿/**
 CSS Reset
 */
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+@font-face {
+	font-family: "Novocento Sans Wide Medium";
+	src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+  }
 
 html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i,dl, dt, dd, ol, ul, li,
@@ -44,36 +44,39 @@ strong{font-weight: 700!important;}
 p{margin-bottom: 20px;}
 p:last-child{margin-bottom: 0;}
 
-header{
+.no-webp header {
 	background:url('../img/img-mobileapps/bg-header.png') no-repeat;
 	background-size:cover;
 }
-
+.webp header {
+	background:url('../img/img-mobileapps/webp/bg-header.webp') no-repeat;
+	background-size:cover;
+}
 .yellow{color:#f2f511;}
 h1{font-size:50px;color:#FFF;text-transform:uppercase;font-weight:600}
 header p{font-size:18px;color:#fff}
 .hp-header {margin-bottom: -115px;}
 .hubungi-kami-top{background:#ededed;padding:50px 0;color:#000;font-size:30px;font-weight:600}
-.purple{color:#cb2bb9;}
-
+.purple{color:#cb2bb9;} 
 h2.first{font-size:36px;font-weight:300;}
 h2.first span{color:#5f1cc9;font-weight:bold;}
 .solusi {
 	color:#fff;
-	background: rgba(95,28,201,1);
+	/* background: rgba(95,28,201,1);
 	background: -moz-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(95,28,201,1)), color-stop(80%, rgba(203,43,184,1)), color-stop(100%, rgba(203,43,184,1)));
 	background: -webkit-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: -o-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: -ms-linear-gradient(left, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
 	background: linear-gradient(to right, rgba(95,28,201,1) 0%, rgba(203,43,184,1) 80%, rgba(203,43,184,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5f1cc9', endColorstr='#cb2bb8', GradientType=1 );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5f1cc9', endColorstr='#cb2bb8', GradientType=1 ); */
 }
 .solusi .title{font-size:28px;text-align:right}
 .solusi .title span{display:block}
-.solusi ul li{font-size:15px;padding:8px 0}
-.solusi ul .fa-li{top:9px}
-.div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.png') no-repeat;background-size:cover}
+.solusi ul li{ font-size: 15px; padding: 8px 0 8px 20px; padding-left: 25px; position: relative;}
+.solusi ul .fa-li{top:7px; position: absolute; left: 0; }
+.no-webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form.jpg') no-repeat;background-size:cover}
+.webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps//webp/bg-div-form.webp') no-repeat;background-size:cover}
 .div-form form{margin-top:20px;}
 .div-form form textarea{resize:none;height:170px}
 .div-form form .form-control{border-radius:0;padding:12px;font-size:18px}
@@ -114,6 +117,21 @@ footer{
 	font-size:14px;
 	padding:50px 0;
 }
+.content-wrapper__ {
+    margin-left: 90px;
+}
+.container__ {
+    width: 1075px; 
+	padding-top: 2.5em;
+	padding-bottom: 2.5em;
+	margin: 0 auto;
+}
+.link-white,
+.link-white:hover{
+	color: white;
+	text-decoration: underline;
+}
+
 footer div{font-family: 'Lato', sans-serif;}
 footer .title{font-size:24px;}
 .copyright{border-top:1px solid #fff;padding:20px 0;color:#ffc914;text-align:center;background:#000;font-family: 'Lato', sans-serif;}
@@ -140,7 +158,8 @@ footer .title{font-size:24px;}
 .div-help .title{background: #fff;padding: 0 8px;font-size:24px;margin:auto}
 .valign-center{top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);position:relative}
 .m-t-30{margin-top: 30px;}
-.solusi.revision{background:url(../img/img-mobileapps/div-solusi.png);background-size:cover;font-size:15px}
+.no-webp .solusi.revision{background:url(../img/img-mobileapps/div-solusi.jpg);background-size:cover;font-size:15px}
+.webp .solusi.revision{background:url(../img/img-mobileapps/webp/div-solusi.webp);background-size:cover;font-size:15px}
 .layanan-kami{background:rgba(255,255,255,0.1);padding:15px;margin-bottom:10px}
 .layanan-kami .title{font-size:20px;text-align:center;padding: 0 35px;}
 .bg-grey{background:#ececec;padding:50px 0}
@@ -158,14 +177,40 @@ footer .title{font-size:24px;}
 .arrow-left {width: 0;height: 0;border-top: 25px solid transparent;border-bottom: 25px solid transparent;border-right: 25px solid #e4e4e4;position: absolute;left: -18px;}
 .div-help img{margin-top:10px}
 
+.lang-logo .list-inline li.active a, .lang-logo .list-inline li:focus a, .lang-logo .list-inline li:hover a, .lang-logo--update-design .list-inline li.active a, .lang-logo--update-design .list-inline li:focus a, .lang-logo--update-design .list-inline li:hover a{
+	color: #111;
+}
+.content-wrapper__ .--top {
+    padding-top: 4.3em;
+}
+.breadcrumb--update-design {
+    font-size: 16px;
+    padding: 1.5em 15px;
+    background-color: transparent;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+ 
+.breadcrumb--update-design>li {
+    word-break: keep-all;
+}
+.breadcrumb>li {
+    display: inline-block;
+}
 
+.breadcrumb--update-design a {
+    color: #ffca13;
+}
+.breadcrumb--update-design .active a span{
+    color: #fff;
+}
 @media screen and (min-width: 992px) {
-.contain-img {
-	min-height: 215px;
-}
-.div-help .div-title {
-	min-height: 115px;
-}
+	.contain-img {
+		min-height: 215px;
+	}
+	.div-help .div-title {
+		min-height: 115px;
+	}
 }
 @media screen and (max-width: 979px) {
 	.col-md-5ths {
@@ -185,20 +230,10 @@ footer .title{font-size:24px;}
 	.solusi.revision .title {text-align: center;}
 	.form-group {margin-bottom: 0;}
 	.div-form form .form-control{margin-bottom: 15px;}
+	.container__ {
+		width: 610px;
+	}
 }
-@media (max-width:767px) {
-	.caption-portfolio .font-28{font-size:20px;margin-bottom: -15px;}
-	.caption-portfolio .font-20{font-size:16px}
-	.arrow-left{display:none}
-	.caption-portfolio{margin-top: 25px;}
-	.slick-dots{bottom: -35px;}
-	.col-md-5ths {float: none;width: 100%;}
-	h1 {font-size: 30px;}
-	.hubungi-kami-top{padding: 20px 0;font-size: 25px;}
-	.device{left: -1px;}
-	.btn-submit{margin-top:15px}
-}
-
 @media (min-width:991px) {
 	.row-center-md {
         -webkit-box-align: center;
@@ -214,3 +249,48 @@ footer .title{font-size:24px;}
         display: flex
     }
 }
+@media (max-width:767px) {
+	.caption-portfolio .font-28{font-size:20px;margin-bottom: -15px;}
+	.caption-portfolio .font-20{font-size:16px}
+	.arrow-left{display:none}
+	.caption-portfolio{margin-top: 25px;}
+	.slick-dots{bottom: -35px;}
+	.col-md-5ths {float: none;width: 100%;}
+	h1 {font-size: 30px;}
+	.hubungi-kami-top{padding: 20px 0;font-size: 25px;}
+	.device{left: -1px;}
+	.btn-submit{margin-top:15px}
+	.content-wrapper__ {
+		margin-left:0px;
+
+	}
+	.container__ {
+		width: auto;
+		padding:0 15px;
+		overflow: hidden;
+	}
+	.lang-logo--update-design a {
+		display: inline-block;
+	}
+	.content-wrapper__ .--top {
+		padding-top: 90px;
+	}
+}
+@media (max-width:460px) {
+	.no-webp header {
+		background:url('../img/img-mobileapps/bg-header-mobile.png') no-repeat;
+		background-size:cover;
+	}
+	.webp header {
+		background:url('../img/img-mobileapps/webp/bg-header-mobile.webp') no-repeat;
+		background-size:cover;
+	}
+	.solusi.revision{
+		background:#4C2E2B !important;
+	} 
+	.no-webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps/bg-div-form-mobile.jpg') no-repeat;background-size:cover}
+	.webp .div-form{padding:30px;font-size:28px;color:#000;background:url('../img/img-mobileapps//webp/bg-div-form-mobile.webp') no-repeat;background-size:cover}
+
+}
+
+

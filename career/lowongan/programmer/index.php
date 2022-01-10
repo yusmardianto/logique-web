@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Ingin meningkatkan kemampuan Anda sebagai programmer? LOGIQUE memberikan kesempatan kepada Anda yang ingin mengembangkan kemampuannya sebagai seorang programmer untuk bergabung dan berkarir di LOGIQUE. Segera kunjungi halaman karir LOGIQUE sekarang juga.">
+    content="Lowongan Kerja Programmer terbaru di Jakarta & Jogja untuk pembuatan website dan aplikasi. Diutamakan berpengalaman di dunia IT. Lamar sekarang juga!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
@@ -16,35 +16,18 @@
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Ingin meningkatkan kemampuan Anda sebagai programmer? LOGIQUE memberikan kesempatan kepada Anda yang ingin mengembangkan kemampuannya sebagai seorang programmer untuk bergabung dan berkarir di LOGIQUE. Segera kunjungi halaman karir LOGIQUE sekarang juga.">
+    content="Lowongan Kerja Programmer terbaru di Jakarta & Jogja untuk pembuatan website dan aplikasi. Diutamakan berpengalaman di dunia IT. Lamar sekarang juga!">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/programmer/"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>Lowongan Kerja Programmer | IT Specialist | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
-
+  
   <!-- Facebook Pixel Code -->
   <script>
   ! function(f, b, e, v, n, t, s) {
@@ -71,13 +54,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->

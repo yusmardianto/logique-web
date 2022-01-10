@@ -17,9 +17,12 @@
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description" content="LOGIQUEのSEO対策サービス。ジャカルタからインドネシア語、英語、日本語でのSEO対策サービスを提供しています。">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<link rel="canonical" href="https://www.logique.co.id/jp/services/digital-marketing/seo-service.php"/>
 	<title>インドネシア語SEO対策サービス | LOGIQUE Digitalインドネシア</title>
 	<link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+	<!-- <link href="/css/style.css" rel="stylesheet"> -->	
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
 	<link href="css/style-seo-service-page.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
@@ -59,89 +62,20 @@
 
 <body>
 	<div class="wrapper wrapper--update-design wrapper--update-design-font --jp o-wrapper top-only">
-		<div class="nav-lp">
-			<button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar first"></span>
-				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="/jp/">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/logique.php">
-                            <div class="img-about"></div>
-                            会社概要
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/portfolio.php">
-                            <div class="img-portfolio"></div>
-                            制作実績
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="/jp/services.php">
-                            <div class="img-services"></div>
-                            サービス
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/product.php">
-                            <div class="img-product"></div>
-                            プロダクト
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            採用/<br>パートナー
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/contact.php">
-                            <div class="img-contact"></div>
-                            お問い合わせ
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-		</div>
+		<!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
-		<!-- HEADER -->
-		<div class="container-fluid">
-			<div class="row lang-logo--update-design">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-offset-1 col-sm-11">
-							<div class="container">
-								<a href="/en/"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-								<ul class="list-inline">
-									<li><a href="/en/services/digital-marketing/seo-service.php">EN</a></li>
-									<li  ><a href="/layanan/digital-marketing/jasa-seo.php">ID</a></li>
-									<li class="active"><a href="#">JP</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- END HEADER -->
+		<?php 
+			$lang = 'jp';
+			$en_link = '/en/services/digital-marketing/seo-service.php';
+			$id_link = '/layanan/digital-marketing/jasa-seo.php';
+			$jp_link = '#';
+			include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+		?>
 
 		<div class="content-area content-area__seo">
 
@@ -435,7 +369,10 @@
 							</ul>
 							<div class="row">
 								<div class="col-md-6 col-xs-12">
-									<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="" class=" contribution__img img-responsive">
+									<picture>
+										<source srcset="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.webp" type="image/webp">
+										<img src="/en/services/digital-marketing/img/img-seo-optimization/seo-services-img.png" alt="Our Contribution" class=" contribution__img img-responsive">
+									</picture>
 								</div>
 								<div class="tab-content tab-content__text col-md-6 col-xs-12">
 									<div id="contribution_1" class="tab-pane fade in active">

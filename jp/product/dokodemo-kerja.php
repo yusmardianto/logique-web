@@ -51,11 +51,20 @@ if(isset($_POST['submitted']))
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
         content="Dokodemo-Kerjaは、LOGIQUEが提供しているリモートワーク管理ツールです。リモートワーク / テレワークにて、フレキシブルに生産性をあげることに集中して効率的に働きたい従業員にも、皆にフェアな機会を与えて、さぼりを抑止したい経営者、人事マネージャーの両者にメリットのある製品・ソリューションです。トライアル利用可能ですのでお問い合わせください。">
-    <title>リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet">
+		<title>リモートワーク・テレワーク管理｜生産性向上のための勤務管理ツール｜Dokodemo-Kerja｜LOGIQUEデジタルインドネシア</title>
+		<link rel="canonical" href="https://www.logique.co.id/jp/product/dokodemo-kerja.php"/>
+ 
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+ 		<link rel="preload" href="/fonts/glyphicons-halflings-regular.woff" as="font" crossorigin>
+		<link rel="preload" href="/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3" as="font" crossorigin>
+		<link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Medium.ttf" as="font" crossorigin>
+		<link rel="preload" href="/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin>
+		 
+		<link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style_dokodemo.css" rel="stylesheet">
-	<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	  <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+		<link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+		
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -262,11 +271,36 @@ if(isset($_POST['submitted']))
 						<div class="poster-main screenshot-slide ">
 						  <div class="poster-btn poster-prev-btn"></div>
 						  <ul class="poster-list">
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja"></li>
-							<li class="poster-item"><img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja"></li>
+							<li class="poster-item">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss1.webp">
+									<img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja">
+								</picture>
+							</li>
+							<li class="poster-item">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss2.webp">
+									<img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja">
+								</picture>
+							</li>
+							<li class="poster-item">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss3.webp">
+									<img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja">
+								</picture>
+							</li>
+							<li class="poster-item">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss4.webp">
+									<img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja">
+								</picture>
+							</li>
+							<li class="poster-item">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss5.webp">
+									<img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja">
+								</picture>
+							</li>
 						  </ul>
 						  <div class="poster-btn poster-next-btn"></div>
 						</div>
@@ -278,19 +312,34 @@ if(isset($_POST['submitted']))
 						  <!-- Wrapper for slides -->
 						  <div class="carousel-inner">
 							<div class="item active">
-							  <img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss4.webp">
+									<img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">								
+								</picture>
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss1.webp">
+									<img src="/produk/img/dokodemo-kerja/ss1.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								</picture>
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss2.webp">
+									<img src="/produk/img/dokodemo-kerja/ss2.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								</picture>
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss3.webp">
+									<img src="/produk/img/dokodemo-kerja/ss3.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								</picture>
 							</div>
 							<div class="item">
-							  <img src="/produk/img/dokodemo-kerja/ss5.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								<picture>
+									<source srcset="/produk/img/dokodemo-kerja/ss4.webp">
+									<img src="/produk/img/dokodemo-kerja/ss4.jpg" alt="Dokodemo Kerja" class="img-responsive center-block">
+								</picture>
 							</div>
 						  </div>
 						  <!-- Left and right controls -->
@@ -310,7 +359,10 @@ if(isset($_POST['submitted']))
 		</div>
 
 		<div class="bg-yellow" id="fitur">
-			<img src="img/dokodemo-kerja/image-fitur.png" alt="Fitur" class="image-fitur img-responsive"/>
+			<picture>
+				<source srcset="img/dokodemo-kerja/image-fitur.webp">
+				<img src="img/dokodemo-kerja/image-fitur.png" alt="Fitur" class="image-fitur img-responsive"/>
+			</picture>
 			<div class="container-fluid">
 				<div class="bg-old-yellow">
 					<div class="row" style="margin:0">
@@ -483,7 +535,12 @@ if(isset($_POST['submitted']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-offset-1 col-md-5">
-						<a href="/pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide"><img src="/img/manual.png" alt="Manual Guide" style="width:100%"/></a>
+						<a href="/pdf/manual-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide">
+							<picture>
+								<source srcset="/img/manual.webp">
+								<img src="/img/manual.png" alt="Manual Guide" style="width:100%"/>
+							</picture>
+						</a>
 					</div>
 					<div class="col-md-5">
 						<a href="/pdf/install-guide.pdf" target="_blank" aria-label="Manual Guide" class="dl-guide"><img src="/img/install.png" alt="Install Guide" style="width:100%"/></a>
@@ -774,47 +831,7 @@ if(isset($_POST['submitted']))
 		</div>
 
 		<a href="#" class="scrollToTop">Back to Top</a>
-<?php /*		<footer>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-md-push-6">
-						<img src="img/dokodemo-kerja/dokodemo-logo.png" alt="Logo">
-						<p>
-							Dokodemo-Kerjaは、従業員がリモートワークすることを可能にし、無駄な時間と労力を排除して生産性を向上することを助け、管理者の従業員を監視する工数も減らすことができるツールです。個社別のカスタマイズも可能ですのでお問い合わせお待ちしております。
-						</p>
-						<br/><br/>
-						<div class="cr">© 2018<a href="/" class="yellow"> PT. Logique Digital Indonesia.</a> All Rights Reserved.</div>
-					</div>
-					<div class="col-md-6 col-md-pull-6">
-						<ul class="fa-ul">
-							<li>
-								<span class="fa-li"><i class="fa fa-map-marker"></i></span>
-								Ad Premier Building 19th Floor <br/>
-								Jalan Tb. Simatupang No. 5 Ragunan, <br/>
-								Ps. Minggu, Jakarta Selatan, Indonesia 12550
-							</li>
-							<li>
-								<span class="fa-li"><i class="fa fa-phone"></i></span>
-								+62(21) 2270 8935 / 36
-							</li>
-							<li>
-								<span class="fa-li"><i class="fa fa-envelope"></i></span>
-								info@logique.co.id
-							</li>
-							<li>
-								Other Products:<br/>
-								<ul style="list-style-type:disc;padding-left: 2em;">
-									<li style="margin-bottom: 5px;margin-top: 5px;"><a href="/jp/product/nippo.php" target="_blank">Nippo</a></li>
-									<li><a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo</a></li>
-								</ul>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</footer> */ ?>
 		<footer>
-<!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
 <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
 	<div class="container">
 		<div class="row">
@@ -945,7 +962,17 @@ if(isset($_POST['submitted']))
 			$(".screenshot-slide").PicCarousel("init");
 		</script>
 		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<script src="/js/modernizr-custom.js"></script>                                    
 		<script type="text/javascript">
+			Modernizr.on('webp', function(result) {
+        if (result) {
+          $("body").addClass('webp');
+        } else {
+					$("body").addClass('no-webp');
+
+				}
+      });
+			
 			$(function() {
 				$('.smooth').click(function() {
 				  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {

@@ -148,62 +148,73 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>Front End Developer bertanggung jawab untuk mengimplementasikan elemen visual yang dilihat agak bisa berinteraksi dengan pengguna dalam aplikasi web. Secara umum, mereka didukung oleh Back End Developer dan Designer, yang bertanggung jawab atas logika aplikasi sisi system dan di integrasikan dalam bentuk visual.</p>
+                <p>Front End Developer bertanggung jawab dalam mengimplementasikan elemen visual / antar muka yang handal sebagai media interaksi bagi pengguna dalam berbagai system dan aplikasi berbasis web. Dalam peranannya seorang front end developer harus memastikan tampilan website sesuai dengan yang disepakati dengan desainer dari segi tampilan visual yang menarik dan mereka didukung oleh Back End Developer yang bertanggung jawab atas logika / fungsi.</p>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
-                <ul class="career-list">
-                  <li>Melakukan konversi dari desain ke HTML & CSS / ReactJs</li>
-                  <li>Melakukan integrasi RESTful API</li>
-                  <li>Bekerja sama dan berkolborasi dengan tim Back-End dan Desainer</li>
-                  <li>Berkomunikasi dengan penanggung jawab proyek terkait pekerjaan yang diberikan</li>
-                  <li>Mengoptimalkan performa dan skalabilitas pada website / aplikasi</li>
-                  <li>Membuat kode / library yang berkualitas dan dapat digunakan kembali</li>
-                  <li>Melakukan pengetesan pada antar muka yang dibuat untuk menjamin kualitas</li>
-                  <li>Memastikan antar muka yang dibuat mendukung lintas browser & mobile friendly</li>
-                  <li>Mengikuti perkembangan teknologi Front-End terbaru</li>
-                  <li>Mengikuti kursus / bootcamp untuk meningkatkan kemampuan</li>
-                </ul>
+                <h3 class="section-title">Talenta Yang Kami Cari</h3>
+                <p>Logique mencari seorang yang memiliki pengalaman bekerja dalam sebuah tim pengembang aplikasi berbasis web khususnya untuk posisi front End. Untuk mencapai hasil yang baik tentunya kami mencari Front End Developer dengan skill.</p>
+                <p>1.	Bahasa Pemrograman HTML/CSS</p>
+                <p>2.	Framework dan Library JavaScript</p>
+                <p>3.	Version Control System (Git)</p>
+                <p>4.	Responsive & Mobile Design</p>
+                <p>5.	Testing/Debugging</p>
+                <p>6.	Browser Developer Tools</p>
+                <p>7.	Dasar-dasar SEO</p>
+                <br>
+                <p>Jika Anda memiliki skill diatas maka Andalah talenta yang cocok untuk bergabung dan berkembang bersama kami.</p>
+                <br>
+                <div class="row">
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/1.png" alt="Logique">
+                  </div>
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/2.png" alt="Logique">
+                  </div>
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/3.png" alt="Logique">
+                  </div>
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/4.png" alt="Logique">
+                  </div>
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/5.png" alt="Logique">
+                  </div>
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/6.png" alt="Logique" style=" margin-top: 6px; ">
+                  </div>
+                </div>
+                <br>
+                <div class="row">
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/7.png" alt="Logique" style=" margin-top: 6px; ">
+                  </div>
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/8.png" alt="Logique">
+                  </div>
+                  <div class="col-xs-2 col-sm-2">
+                    <img class="img-responsive" src="/img/career/frontend/9.png" alt="Logique">
+                  </div>
+                </div>
               </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Must Have Skill/Experience</h3>
-                <ul class="career-list">
-                  <li>Minimal 2 tahun pengalaman</li>
-                  <li>Mahir menggunakan HTML, CSS, JavaScript & JQuery</li>
-                  <li>Berpengalaman menggunakan CSS Preprocessors seperti SASS, LESS</li>
-                  <li>Berpengalaman menggunakan CSS Framework seperti Bootstrap, Foundation, Material UI</li>
-                  <li>Berpengalaman menggunakan aplikasi desain seperti Adobe Photoshop / Sketch</li>
-                  <li>Berpengalaman menggunakan JavaScript Framework seperti ReactJS</li>
-                  <li>Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau sejenisnya.</li>
-                  <li>Berpengalaman menggunakan version control system seperti GIT</li>
-                  <li>Mahir menggunakan Browser Development Tools</li>
-                  <li>Mahir dalam pengembangan website lintas browser & mobile friendly</li>
-                  <li>Memahami prinsip dasar SEO</li>
-                  <li>Memahami dasar bahasa pemograman PHP</li>
-                  <li>Mampu bekerja secara mandiri maupun dalam sebuah tim</li>
-                  <li>Memiliki kemampuan komunikasi yang baik</li>
-                </ul>
-              </div>
-
-              <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>Berpengalaman sebagai Front End Developer dalam suatu project dengan menggunakan react JS framework</li>
-                  <li>Berpengalaman untuk mengkonversi desain ke Wordpress dalam sebuah project</li>
-                  <li>Berpengalaman sebagai Front End Developer dalam suatu project dengan menggunakan Node JS framework</li>
-                </ul>
-              </div>
+            
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <h3 class="section-title">Rewards and Worthwhile</h3>
+                <h3 class="section-title">Apa yang bisa Anda dapatkan</h3>
                 <ul class="career-list">
-                  <li>Menambah pengalaman dan juga tantangan dari berbagai project terkait system yang akan menambah pengetahuan baru terhadap perkembangan system front end.</li>
-                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
+                  <li>Menambah pengalaman dan juga tantangan dari berbagai project terkait system yang akan menambah pengetahuan baru terhadap perkembangan teknologi front end.</li>
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia.</li>
+                  <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Cara Bekerja Front End Developer Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
+                <h3 class="section-title">How a Front End Developer in <strong class="logofont">LOGIQUE</strong> Works Usually</h3>
                 <!-- <h4 class="section-subtitle">Front End Developer</h4> -->
                 <div class="work-schedule">
                   <div class="work-schedule__item">
@@ -213,7 +224,7 @@
                 </div>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
-                    <div class="work-schedule__time">09:31 – 12:00</div>
+                    <div class="work-schedule__time">09.31 – 12:00</div>
                     <div class="work-schedule__text">Melakukan diskusi dengan PIC proyek maupun tim lainnya terkait pekerjaan baru atau melanjutkan pekerjaan.</div>
                   </div>
                 </div>

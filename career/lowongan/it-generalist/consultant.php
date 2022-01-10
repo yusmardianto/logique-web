@@ -22,28 +22,10 @@
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -71,13 +53,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -151,34 +140,31 @@
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
                   <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
+                  Memahami kebutuhan pelanggan dan tujuan bisnis.
                   </li>
                   <li>
-                    Memberikan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
+                  Memimpin perencanaan dan pelaksanaan proyek
                   </li>
                   <li>
-                    Mengelola berkolaborasi dengan tim developer.
+                  Mendefinisikan ruang lingkup proyek, tujuan dan penyampaiannya.
                   </li>
                   <li>
-                    Mendesain sistem dan IT network, serta memastikan arsitektur dan fungsionalitas yang tepat.
+                  Mengelola berkolaborasi, memberikan arahan dan dukungan untuk tim proyek.
                   </li>
                   <li>
-                    Mendukung implementasi teknologi baru.
+                  Mengelola anggaran dan alokasi sumber daya proyek
                   </li>
                   <li>
-                    Melatih pengguna dalam sistem IT baru dan yang sudah ada.
+                  Selalu memantau dan melaporkan kemajuan proyek kepada seluruh stakeholders.
                   </li>
                   <li>
-                    Memberikan bantuan untuk masalah teknis.
+                  Menyajikan laporan yang tepat dan terstruktur yang memuat kemajuan proyek, masalah dan solusi.
                   </li>
                   <li>
-                    Merevisi sistem yang ada dan menyarankan perbaikan.
+                  Bisa memberikan bantuan untuk masalah teknis.
                   </li>
                   <li>
-                    Menyajikan laporan yang tepat dan terstruktur.
-                  </li>
-                  <li>
-                    Terlibat dalam proses dan juga aktifitas sales.
+                  Terlibat dalam proses dan juga aktifitas sales.
                   </li>
                 </ul>
               </div>
@@ -186,37 +172,37 @@
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
                   <li>
-                    Memiliki pengalaman sebagai IT Consultant minimal 1-2 tahun.
+                  Memiliki pengalaman sebagai Project Manager / IT Consultant minimal 1-2 tahun.
                   </li>
                   <li>
-                    Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
+                  Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
                   </li>
                   <li>
-                    Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.
+                  Memahami teknik manajemen proyek, risiko, dan perencanaan strategi
                   </li>
                   <li>
-                    Mempunyai pengalaman dengan berbagai sistem operasi dan database.
+                  Memiliki kemampuan untuk memecahkan masalah pada hardware, software, dan network.
                   </li>
                   <li>
-                    Bisa bekerja dalam tim.
+                  Mempunyai pengalaman dengan berbagai sistem operasi dan database.
                   </li>
                   <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
+                  Bisa bekerja dalam tim.
                   </li>
                   <li>
-                    Memiliki kemampuan interpesonal yang luar biasa.
+                  Berorientasi pada pelayanan terhadap client/customer.
                   </li>
                   <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.
+                  Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik.
                   </li>
                   <li>
-                    Memiliki kemampuan komunikasi dan presentasi yang sangat baik.
+                  Memiliki kemampuan komunikasi dan presentasi yang sangat baik.
                   </li>
                   <li>
-                    Kemampuan analisa yang baik.
+                  Kemampuan analisa yang baik.
                   </li>
                   <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
+                  Memiliki pengetahuan yang luas dengan dunia IT.
                   </li>
                 </ul>
               </div>

@@ -34,7 +34,7 @@
 ?>
 
  <!DOCTYPE html>
- <html lang="en">
+ <html lang="ja">
 
  <head>
      <meta charset="utf-8">
@@ -52,14 +52,18 @@
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/jp/services/system-dev.php">
-     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+     <meta property="og:image" content="https://www.logique.co.id/layanan/assets/img/img-systemdev/newlayout/skemaproyek.png">
      <meta property="og:description"
-         content="As one of the top leading web developers in Indonesia, LOGIQUE has their own mechanism in terms of web systems creation, which includes the usage of latest technology, infrastructure planning, system security, and speed. Learn more about our web system development service here.">
+         content="LOGIQUEは、E-Commerceシステム、CRMシステム、会計管理システムなど各種システム開発運用やアプリ開発、システムコンサルティングをインドネシアで行っています。クライアントの新規事業をデジタル・IT面で幅広くご支援しています。お気軽に日本語でご連絡ください。">
      <title>システム開発運用・アプリ開発 | LOGIQUE デジタルインドネシア</title>
+     <link rel="canonical" href="https://www.logique.co.id/jp/services/system-dev.php"/>
+     
      <link href="/css/bootstrap.min.css" rel="stylesheet">
-     <link href="/css/slick.css" rel="stylesheet">
-     <link href="/css/style.css" rel="stylesheet">
-     <link href="assets/css/style-systemdev.css" rel="stylesheet">
+     <link href="/css/slick.css" rel="stylesheet"> 
+     <link href="/css/sidebar-update.css" rel="stylesheet">
+     <link href="/css/newstyle.css" rel="stylesheet">
+     <link href="assets/css/style-systemdev.css" rel="stylesheet">  
+
      <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
@@ -78,93 +82,22 @@
 
  <body class="systedev-page">
  
-     <div class="wrapper">
-         <!-- NAVIGATION -->
-         <div class="nav-lp">
-             <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                 data-toggle="collapse" data-target="#myNavbar">
-                 <span class="icon-bar first"></span>
-                 <span class="icon-bar second"></span>
-                 <span class="icon-bar third"></span>
-             </button>
-             <div class="collapse navbar-collapse" id="myNavbar">
-                 <div class="backdrop-test"></div>
-                 <div class="logique-nav logique-nav--update in-jp">
-                     <div class="margin-for-nav">
-                         <div class="text-center ">
-                             <a href="/jp/">
-                                 <div class="img-home"></div>
-                                 Home
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/jp/logique.php">
-                                 <div class="img-about"></div>
-                                 会社概要
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/jp/portfolio.php">
-                                 <div class="img-portfolio"></div>
-                                 制作実績
-                             </a>
-                         </div>
-                         <div class="text-center active">
-                             <a href="/jp/services.php">
-                                 <div class="img-services"></div>
-                                 サービス
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/jp/product.php">
-                                 <div class="img-product"></div>
-                                 プロダクト
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/career/">
-                                 <div class="img-career"></div>
-                                 採用/<br>パートナー
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="/jp/contact.php">
-                                 <div class="img-contact"></div>
-                                 お問い合わせ
-                             </a>
-                         </div>
-                         <div class="text-center">
-                             <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                                 <div class="img-blog"></div>
-                                 Blog
-                             </a>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- NAVIGATION -->
+     <div class="wrapper wrapper--update-design wrapper--update-design-font --jp">
+        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
-         <!-- HEADER -->
-         <div class="container-fluid">
-             <div class="row lang-logo--update-design">
-                 <div class="container">
-                     <div class="row">
-                         <div class="col-sm-offset-1 col-sm-11">
-                             <div class="container">
-                                 <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                 <ul class="list-inline">
-                                     <li><a href="/en/services/system-dev.php">EN</a></li>
-                                     <li><a href="/layanan/pembuatan-sistem-web.php">ID</a></li>
-                                     <li class="active"><a href="#">JP</a></li>
-                                 </ul>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- END HEADER -->
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/services/system-dev.php';
+            $id_link = '/layanan/pembuatan-sistem-web.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
+
      </div>
 
      <!-- <header class="content-wrapper__ header">
@@ -501,6 +434,9 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="see-more-studycase-wrapper">
+                    <a href="/case-study/" class="btn-yellow">See More Case Studies</a>
                 </div>
             </div>
             <div class="sec-content-part success-service">
@@ -1214,13 +1150,123 @@
                         <p>
                         Node.jsやExpress.jsと組み合わせて大規模システムを構築することも可能です。
                         </p>
+
+                        <!-- New Section -->
+                        <p class="class-jamstack-1">LOGIQUEはJAMstackアーキテクチャのWeb開発もできます</p>
+                        <section class="class-jamstack-3">
+                            <div class="row">
+                                <div class="col-md-offset-2 col-md-2 col-sm-4 text-center">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/Jamstackicon.webp" type="image/webp">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/Jamstackicon.png">
+                                    </picture>
+                                </div>
+                                <div class="col-md-7  col-sm-8 text-left">
+                                    JAMstack技術で開発されたWebアプリやWebサイトは高パフォーマンスでセキュアなものとなりえます。Webの運用コスト低減にも繋がります。
+                                </div>
+                            </div>
+                        </section>
+                        <p class="class-jamstack-2">
+                            JAMstackのメリット
+                        </p>
+                        <section class="class-jamstack-4">
+                            <div class="row">
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/stopwatch.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/stopwatch.png">
+                                    </picture>
+                                    <p>高いパフォーマンス</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/dollars-money.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/dollars-money.png">
+                                    </picture>
+                                    <p>低い運用コスト</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/folder.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/folder.png">
+                                    </picture>
+                                    <p>高セキュリティ</p>
+                                </div>
+                                <div class="col-xs-12 col-md-3">
+                                    <picture>
+                                        <source srcset="assets/img/img-systemdev/newlayout/idea.svg" type="image/svg">
+                                        <img loading="lazy" src="assets/img/img-systemdev/newlayout/idea.png">
+                                    </picture>
+                                    <p>高スケーラビリティ</p>
+                                </div>
+                            </div>
+                        </section>
+                        <p class="class-teknologi">
+                            JAMstackテクノロジー
+                        </p>
+                        <div class="sec-content-part success-service class-jamstack-5">
+                            <div class="page-content">
+                                <div class="success-service-list">
+                                    <div class="row rowflex col10">
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>静的サイトジェネレーター</h3>
+                                                    <p>Gatsby.js</p>
+                                                    <p>Next.js</p>
+                                                    <p>Hugo</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1 center">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>ヘッドレスCMS</h3>
+                                                    <p>Ghost</p>
+                                                    <p>Strapi</p>
+                                                    <p>Netlify cms</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 col-sm-12">
+                                            <div class="success-item scitem1">
+                                                <div class="circle--"></div>
+                                                <div class="scitem-content">
+                                                    <h3>ホスティング</h3>
+                                                    <p>Netlify</p>
+                                                    <p>Vercel</p>
+                                                    <p>AWS Amplify</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- New Section -->
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
-       <div class="content-wrapper__">
-    <?php include './assets/components/dm-links.php' ?>
+    <section class="content-section sixth-part class-jamstack-6">
+        <div class="sec-content-part contact-banner">
+            <div class="page-content">
+                <ul>
+                    <li class="text-left">インドネシアでシステム開発や運用が必要でしたらお気軽にご相談ください <li>
+                    <li>
+                        <a href="/jp/contact.php" class="btn-yellow">いますぐお問い合わせ <span class="icon"> <img src="assets/img/img-systemdev/newlayout/arrow-right.svg"></span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    
+    <div class="content-wrapper__">
+        <?php include './assets/components/dm-links.php' ?>
         <?php include './assets/components/other-services.php' ?>
     </div>
      <?php /*<section class="tahap-pemesanan-list">

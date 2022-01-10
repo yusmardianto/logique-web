@@ -21,14 +21,24 @@
   <meta property="og:description"
     content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Digitalマーケティング、モバイルアプリ開発(ハイブリッド / iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、コンテンツマーケティングなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。インドネシアで7年以上多くのお客様をご支援してきた実績があります。">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/jp/"/>
   <title>ジャカルタのWebサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
 
   <!-- Bootstrap -->  
-  <link rel="stylesheet  " href="/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
-  <link rel="stylesheet  " href="/css/slick.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <link rel="stylesheet" href="../css/sidebar-update.css" >
-  <link href="../css/newstyle.css" rel="stylesheet">
+  <link rel="preconnect" href="https://prod.purechatcdn.com">
+  <link rel="preconnect" href="https://app.purechat.com">
+  <link rel="preconnect" href="http://ajax.googleapis.com">
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+  <link rel="preload" href="../css/sidebar-update.css" as="style">
+
+  <link rel="stylesheet  " href="/css/bootstrap.min.css" as="style">
+  <link rel="stylesheet  " href="/css/slick.css" as="style">
+  <link rel="stylesheet" href="../css/sidebar-update.css">
+
+  <link rel="preload" href="../css/jpstyle.css" as="style">
+  <link rel="preload" href="../css/newstyle.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+  <noscript><link rel="stylesheet" href="../css/newstyle.css"></noscript>
   <link href="../css/jpstyle.css" rel="stylesheet"> 
   <!-- Facebook Pixel Code -->
   <link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js">
@@ -87,92 +97,22 @@
   <?//php include '../popup.php'; ?>
   <div class="wrapper wrapper--update-design wrapper--update-design-font --jp o-wrapper top-only">
     <!-- NAVIGATION -->
-    <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-      data-toggle="collapse" data-target="#myNavbar">
-      <span class="icon-bar first"></span>
-      <span class="icon-bar second"></span>
-      <span class="icon-bar third"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <div class="backdrop-test"></div>
-      <div class="logique-nav logique-nav--update in-jp">
-        <div class="margin-for-nav">
-          <div class="text-center active">
-            <a href="index.php">
-              <div class="img-home"></div>
-              Home
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="logique.php">
-              <div class="img-about"></div>
-              会社概要
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="portfolio.php">
-              <div class="img-portfolio"></div>
-              制作実績
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="services.php">
-              <div class="img-services"></div>
-              サービス
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="product.php">
-              <div class="img-product"></div>
-              プロダクト
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="/career/">
-              <div class="img-career"></div>
-              採用/<br>パートナー
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="contact.php">
-              <div class="img-contact"></div>
-              お問い合わせ
-            </a>
-          </div>
-          <div class="text-center">
-            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-              <div class="img-blog"></div>
-              Blog
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- NAVIGATION -->
+    <?php 
+      // $active option are home, about, portfolio, services, product, career, contact
+      $active = 'home';
+      include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+    ?>
 
-    <div class="container-fluid">
-      <div class="row lang-logo--update-design">
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-offset-1 col-sm-11">
-              <div class="container">
-                <a href="index.php"><img src="/img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia"
-                    class="img-responsive logo--update-design" /></a>
-                <ul class="list-inline">
-                  <li><a href="../en/index.php">EN</a></li>
-                  <li><a href="../index.php">ID</a></li>
-                  <li class="active"><a href="#">JP</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
+    <?php 
+        $lang = 'jp';
+        $en_link = '/en/';
+        $id_link = '/';
+        $jp_link = '#';
+        include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+    ?>
 
     <div class="content-wrapper__"> 
-      <div class="contain-video wrapper--update-design">
+      <div class="wrapper--update-design">
         <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
           <source src="../img/12377093.mp4" type="video/mp4">
         </video>
@@ -187,16 +127,16 @@
                 <div class="col-md-offset-1 col-md-10 text-center">
                   <h1 class="title-index" style="margin-top: 100px;">インドネシアでお客様の課題を<br class="visible-md visible-lg">Web・ITの活用で解決してきました
                   </h1>
-                  <p>Webシステム開発、Web・ホームページ制作、アプリ開発サービスをインドネシアで行っております。日系の会社としては圧倒的な実績があります。インドネシア国内のお客様のデジタル / ネットビジネスを戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWeb/システムを制作開発運用することを心がけています。
-                  <p>デジタルマーケティングコンサルティング、モバイルアプリ開発、PWA開発、E-Commerce構築、SEO対策、ソーシャルメディア運用、クラウドサーバー運用など関連サービスも幅広く提供していますのでお気軽にご相談ください。</p>
+                  <p>Webシステム開発、Web・ホームページ制作、スマホアプリ開発、IT/DXコンサルティングサービスをインドネシアで行っております。インドネシア国内のお客様のデジタル/ネットビジネスを戦略策定から制作開発、運用までサポートしています。ご予算に応じて成果のでるWeb/システムを制作開発運用することを心がけています。</p>
+                  <p>インターネット広告、ソーシャルメディアの運用、クラウドサーバー運用、Webサイトやアプリのセキュリティ脆弱性診断など関連サービスも幅広く提供していますのでお気軽にご相談ください。</p>
                 </div>
               </div>
               <div class="row homepage-hero__card flex__row ">
                 <div class="col-md-3 col-xs-6">
-                  <a href="/jp/services/web-dev.php" class="div-service-cat">
+                  <a href="/jp/services/progressive-web-app-dev.php" class="div-service-cat">
                     <img src="/img/top/i-top1.svg" alt="Website Creation Service"
                       class="center-block img-responsive" />
-                    <h2>Webサイト / ホームページ制作</h2>
+                    <h2>Webアプリ(PWA)開発</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
@@ -228,16 +168,30 @@
         </div>
       </div>
 
+      <section class="bg--white">
+        <div class="container__">
+          <a href="/jp/services/dx-dm-service.php">
+            <picture>
+              <source srcset="/img/dx-dm-banner.webp" type="image/webp">
+              <img src="/img/dx-dm-banner.jpg" alt="" class="img-responsive">
+            </picture>
+          </a>
+        </div>
+      </section>
+
       <section class="portfolio bg--white">
         <div class="container__">
           <h3 class="section-title">制作開発実績</h3>
           <div class="row">
             <div class="col-md-6">
-              <p>Web・ホームページ制作、ECサイト構築、自動車産業向けWebシステム開発、採用管理システムやCRMシステムなどインドネシア内でのWeb制作、システム開発を数多く経験しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にデジタル / ITを活用して貢献します。</p>
+              <p>Web・ホームページ制作、ECサイト構築、自動車産業向けシステム開発、スマホアプリ開発、採用管理システムやCRMシステムなどインドネシア内でのIT・DXコンサルティングから制作開発運用までワンストップでサービス提供しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にデジタル/ITを活用して貢献します。</p>
               <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
             </div>
             <div class="col-md-6">
-              <img class="portfolio__img img-responsive" src="/img/our-portfolio.png" alt="portfolio">
+              <picture>
+                <source srcset="/img/our-portfolio-min.webp">
+                <img class="portfolio__img img-responsive" src="/img/our-portfolio-min.jpg" alt="portfolio">
+              </picture>
             </div>
           </div>
         </div>
@@ -290,164 +244,50 @@
           <h3 class="section-title">ケーススタディ</h3>
           <p>インドネシアで多くのお客様のご支援をしてきました。自動車関連企業や金融機関など大企業から政府系期間、スタートアップ企業まで幅広く様々なサービスのご提供をしてインドネシアでプロジェクトを成功させるためのノウハウを得ました。幾つかのケーススタディをご紹介します。</p>
  
-          <div class="flex__row case-study__slide">
-            <div class=" row__item --sm top-2">
-              <picture>
-                <source srcset="/img/case-study-1.webp" type="image/webp">
-                <img src="/img/case-study-1.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/en/case-study/caroline-bidding-system/">
-                <div class="item__hover">
+          <div class="flex__row case-study__slide case-study__case-item">
+                <div class="col-md-4 col-xs-12">
+                    <a href="/case-study/jba-bastk" class="case-item" data-card-category="WEBSITE">
+                        <picture>
+                        <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
+                        <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
+                        </picture>
+                        <h6>JBA eBASTK</h6>
+                        <h4>車両受渡管理アプリケーションをJBA向けに開発。車両のステータス、状態を複数回の受渡ポイントにおいて記録。移送中の車両状態、状態変化が可視化された。</h4>
+                        <br>
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
+                </div>
+                <div class="col-md-4 col-xs-12">
+                    <a href="/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
+                        <picture>
+                        <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
+                        <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
+                        </picture>
+                        <h6>PT. AIA FINANCIAL</h6>
+                        <h4>AIA Surrenderウェブの制作を行いました。解約について丁寧に説明し高いUI/UXを提供することで契約者とのエンゲージメントを高めることに成功した。</h4>
+                        <br>
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </a>
+                </div>
+            <div class="col-md-4 col-xs-12">
+              <a target="_blank" href="https://www.logique.co.id/blog/ja/2020/10/26/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC-%E8%87%AA%E5%8B%95%E8%BB%8A%E3%82%AA%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E7%95%8C%E6%A8%99%E6%BA%96%E5%8C%96%E3%81%A8it/" class="case-item" data-card-category="INTERVIEW">
                 <picture>
-                  <source srcset="/img/top/i-caroline-update.webp" type="image/webp">
-                  <img src="/img/top/i-caroline-update.png" alt="" loading="lazy">
+                  <source srcset="/img/case-study-jba-interview.webp" type="image/webp">
+                  <img src="/img/case-study-jba-interview.jpg" class="img-responsive case-item__img" alt="JBA Interview" loading="lazy">
                 </picture>
-                  
-                  <h4>Cars Selling Site with Online Bidding System<img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                  <p>Caroline is a part of PT Triputra Group which is engaged in various industries such as agribusiness, manufacturing, and mining.</p>
-                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </div>
+                <h6>インタビュー</h6>
+                <h4>PT JBA Indonesia 自動車＆バイクオークション業界におけるDXの重要性と業界標準化について</h4>                
+                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
-            <div class=" row__item --sm top-2">
-            <picture>
-                <source srcset="/img/case-study-2.webp" type="image/webp">
-                <img src="/img/case-study-2.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/en/case-study/jba-auction-system/">
-                <div class="item__hover">
-                <picture>
-                  <source srcset="/img/top/i-jba-update.webp" type="image/webp">
-                  <img src="/img/top/i-jba-update.png"  alt="" loading="lazy">
-                </picture> 
-                  <h4>JBA Indonesia Auction System <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></h4>
-                  <p>JBAインドネシアはインドネシア最大の車・バイクのオークションハウスです。当社では、Webサイトの制作運用、JBAのオークションコンダクターシステム、Biddingアプリ、オンラインオークション、検査モバイルアプリ、...</p>
-                  <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </div>
-              </a>
-            </div>
-            <div class="  row__item --sm">
-            <picture>
-                <source srcset="/img/case-study-3.webp" type="image/webp">
-                <img src="/img/case-study-3.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/en/case-study/opuspark/">
-                <div class="item__hover">
-                <picture>
-                  <source srcset="/img/top/i-opus-park.webp" type="image/webp">
-                  <img src="/img/top/i-opus-park.png"  class="img-responsive" alt="" loading="lazy">
-                </picture> 
-                  <div>
-                    <h4>Opus Park Sentul</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class=" row__item --sm">
-            <picture>
-                <source srcset="/img/case-study-4.webp" type="image/webp">
-                <img src="/img/case-study-4.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              
-              <a href="/en/case-study/zuttoride-customer-management-system/">
-                <div class="item__hover"> 
-                  <picture>
-                  <source srcset="/img/top/i-zuttoride-update.webp" type="image/webp">
-                  <img src="/img/top/i-zuttoride-update.png" alt="" loading="lazy">
-                </picture> 
-                  <div>
-                    <h4>Zutto Ride Indonesia</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class="  row__item --sm">
-              <picture>
-                <source srcset="/img/case-study-5.webp" type="image/webp">
-                <img src="/img/case-study-5.jpg" class="img-responsive" alt="" loading="lazy">
-              </picture>
-              <a href="/en/case-study/vip-plaza-progressive-web-app/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/i-vipplaza-update.webp" type="image/webp">
-                    <img src="/img/top/i-vipplaza-update.png" alt="" loading="lazy">
-                  </picture> 
-                 
-                  <div>
-                    <h4>VIP Plaza</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class=" row__item --sm morecs">
-              <picture>
-                <source srcset="/img/case-study-klikhoreca.webp" type="image/webp">
-                <img src="/img/case-study-klikhoreca.jpg" class="img-responsive" alt=""  loading="lazy">
-              </picture>
-              <a href="/en/case-study/klikhoreca/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/klikhoreca-min.webp" type="image/webp">
-                    <img src="/img/top/klikhoreca-min.png" alt="" class="img-responsive"  loading="lazy">
-                  </picture>
-                  <div>
-                    <h4>Klikhoreca</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class=" row__item --sm morecs">
-              <picture>
-                <source srcset="/img/case-study-indonesea.webp" type="image/webp">
-                <img src="/img/case-study-indonesea.jpg" class="img-responsive" alt=""  loading="lazy">
-              </picture>
-              <a href="/en/case-study/indonesea/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/indonesea-min.webp" type="image/webp">
-                    <img src="/img/top/indonesea.png" alt=""  loading="lazy"  class="img-responsive" > 
-                  </picture>
-                  <div>
-                    <h4>Indonesea</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div class=" row__item --sm morecs">
-              <picture>
-                <source srcset="/img/case-study-pan-pacific.webp" type="image/webp">
-                <img src="/img/case-study-pan-pacific.jpg" class="img-responsive" alt=""  loading="lazy">
-              </picture>
-              <a href="/en/case-study/pan-pacific/">
-                <div class="item__hover">
-                  <picture>
-                    <source srcset="/img/top/pan-pacific.webp" type="image/webp">
-                    <img src="/img/top/pan-pacific.png" alt=""  loading="lazy">
-                  </picture>
-                  <div>
-                    <h4>Pan Pacific</h4>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                  </div>
-                </div>
-              </a>
-            </div>
-
           </div>
           <div class="case-study-btn-container text-center ">
-            <a href="javascript:void(0)" class=" showcase showmore">
+            <a href="/case-study/" class=" showcase showmore">
               続きを見る
             </a>
-             <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
+             <!-- <a href="javascript:void(0)" class=" showcase showless" style="display: none;">
              少なく見る 
-            </a>
+            </a> -->
           </div>
           <div class="casestudy-text">
             <p>インドネシア進出時のマーケティング支援、Webサイトやモバイルアプリのセキュリティ脆弱性診断などの実績も豊富にあります。当社の実績や経験をもっとご紹介することも可能ですのでお気軽にお問い合わせください。</p>
@@ -460,14 +300,20 @@
           <div class="flex__row">
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="services.php" class="item item--service">
-                <img src="/img/service.png" alt="">
+                <picture>
+                  <source srcset="/img/service.webp">
+                  <img src="/img/service.png" alt="" loading="lazy">
+                </picture>
                 <h3>サービスを詳しくみる</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="product.php" class="item item--product">
-                <img src="/img/product.png" alt="">
+                <picture>
+                  <source srcset="/img/product.webp">
+                  <img src="/img/product.png" alt="" loading="lazy">
+                </picture>
                 <h3>製品について確認する</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
@@ -559,7 +405,7 @@
 
                                             if ( ! empty( $remote_post->featured_media ) && isset( $remote_post->_embedded ) ) {
                                                 $thumb_full_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->source_url;
-                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->medium->source_url;
+                                                $thumb_url = $remote_post->_embedded->{'wp:featuredmedia'}[0]->media_details->sizes->thumbnail->source_url;
                                             }
                                             //echo  $thumb_url ;
                                             if($x==0) { 
@@ -619,8 +465,13 @@
     </div> -->
   </div>
     <?php include 'footer.php';?>
-
+    <script src="/js/modernizr-custom.js"></script>                                
     <script>
+      Modernizr.on('webp', function(result) {
+        if (result) {
+          $("body").addClass('webp');
+        }
+      });
     $('.product__slide').slick({
       infinite: true,
       slidesToShow: 3,
@@ -677,17 +528,17 @@
     });
   };
 
-    $('.showmore').click(function(){
-         $('.morecs').css('display','inline-block');
-         $('.showmore').css('display','none'); 
-         $('.showless').css('display','inline-block');   
-        })
+    // $('.showmore').click(function(){
+    //      $('.morecs').css('display','inline-block');
+    //      $('.showmore').css('display','none'); 
+    //      $('.showless').css('display','inline-block');   
+    //     })
 
-    $('.showless').click(function(){
-         $('.morecs').css('display','none');
-         $('.showless').css('display','none'); 
-         $('.showmore').css('display','inline-block');  
-        })
+    // $('.showless').click(function(){
+    //      $('.morecs').css('display','none');
+    //      $('.showless').css('display','none'); 
+    //      $('.showmore').css('display','inline-block');  
+    //     })
           // Instantiate the Bootstrap carousel
           $('#newsCarousel').carousel({
           interval: false

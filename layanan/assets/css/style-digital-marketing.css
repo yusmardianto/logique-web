@@ -1,11 +1,12 @@
 /* @import url(https://fonts.googleapis.com/css?family=Raleway); */
-@import url('/css/sidebar-update.css');
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
+/* @import url('/css/sidebar-update.css'); */
+/* @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap'); */
 @font-face {
     font-family: "Novocento Sans Wide";
     src: url('/fonts/Novecentosanswide-Normal.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
   }
   
   @font-face {
@@ -13,6 +14,7 @@
     src: url('/fonts/Novecentosanswide-Medium.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
   }
 html, body {
     background-color: #fff;
@@ -29,30 +31,16 @@ body {
     font-size: 15px;
     /* padding-left: 95px; */
 }
-@media (max-width: 767px) {
-    body {
-        padding:  0;
-    }
-}
+
 a:hover {text-decoration: none;}
 
-.backdrop-test {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    background-color: #000;
-    z-index: 999;
-    opacity: .7;
-    display: none;
-    top: 0;
-    left: 0;
-}
+ 
 
 .card section{margin-left:0}
 .nav-lp .navbar-toggle.collapsed {
     background-color: #ffca13!important;
     position: fixed!important;
-    right: 0 !important;
+    right: auto !important;
     /* top: 0 !important; */
     /* top: 40px; */
     /* outline: solid 2px #000; */
@@ -78,11 +66,7 @@ footer {
     text-align: justify
 }
 
-@media (max-width: 767px) {
-    section, footer {
-        margin-left: 0
-    }
-}
+
 
 footer h5,
 footer h6 {
@@ -148,11 +132,7 @@ footer a:hover {
     line-height: 30px;
     text-align: left
 }
-@media (min-width: 768px) {
-    .link-footer p {
-        margin-bottom: 45px;
-    }
-}
+
 
 .medsos-new .fa{font-size:35px;margin-top:10px}
 .medsos-new .fa-facebook-official:hover{color:#3b5999}
@@ -176,15 +156,6 @@ ul.medsos-new li a{
     margin-bottom: 10px;
 }
 
-@media (max-width:767px) {
-    .footer-title {
-        margin-top: 20px;
-        border-bottom: 2px solid #ffca13;
-        padding-bottom: 3px;
-        display: inline-block;
-    }
-}
-
 .copyright {
     font-size: 12px
 }
@@ -201,7 +172,7 @@ ul.medsos-new li a{
 .div-top .title{font-size:30px;color:#fff;padding:19.5px;background:#000;position:relative}
 .div-top .title img{position: absolute;left: 0;top: -19.5px;}
 .bg-black-title{font-size:24px;font-weight:700;color:#fff;background:#000;padding:10px 15px;text-align:center}
-.masalah-top{background:#f2c013;background-image:url('../img/img-digital-marketing/bg-masalah-top.png');background-size:100%;background-repeat:no-repeat;}
+.masalah-top{background:#f2c013;background-image:url('../img/img-digital-marketing/bg-masalah-top.jpg');background-size:100%;background-repeat:no-repeat;}
 .masalah-bottom{font-size:17px;font-weight:bold;text-align:center;background:#d4a811;padding:20px 0;color:#000}
 .one-problem{margin:20px 0;padding-left:20px;position:relative}
 .masalah-top .one-problem:first-child{margin-top: 30px;}
@@ -219,21 +190,21 @@ ul.medsos-new li a{
     margin: 0;
   padding: 15px 0;
 }
-.bg-mengapa{background: url(../img/img-digital-marketing/bg-mengapa.png) no-repeat;background-size: cover;padding: 120px 0 80px;margin: -150px auto 0;background-position: left bottom;}
+/* .bg-mengapa{background: url(../img/img-digital-marketing/bg-mengapa.jpg) no-repeat;background-size: cover;padding: 120px 0 80px;margin: -150px auto 0;background-position: left bottom;} */
 .img-mengapa{position: relative;z-index: 3;margin-top: -180px;}
 .bubble-yellow{margin-top: -60px;position: relative;z-index: 1;}
 .mengapa .bg-black-title{width:75%;margin:auto;text-align:left}
 .div-faq{background:#000;padding:50px 0 40px;margin-bottom:3px}
 .yellow-bg.bg-black-title{background:#ffca13;color:#000;}
-.one-faq{color:#fff;padding-left: 50px;background: url(../img/img-digital-marketing/question-mark.png) 0 0 no-repeat;margin-bottom:20px}
-.strategi{background:url('../img/img-digital-marketing/strategi.png') no-repeat;padding:80px 0;background-size:cover;background-position:bottom;position: relative;
-    z-index: 1;}
+/* .one-faq{color:#fff;padding-left: 50px;background: url('../img/img-digital-marketing/question-mark.jpg') 0 0 no-repeat;margin-bottom:20px} */
+/* .strategi{background:url('../img/img-digital-marketing/strategi.png') no-repeat;padding:80px 0;background-size:cover;background-position:bottom;position: relative;
+    z-index: 1;} */
 .bordered-white{border:1px solid #fff;color:#fff;padding:12.5px 40px}
 .bordered-white.one-sentence2{padding:60px 0;font-size:18px;font-weight:700;text-align:center}
 .bordered-white.one-sentence{padding:50px 0;font-size:18px;font-weight:700;text-align:center}
 .white-link , .white-link:hover{color: white;}
 .bg-grey{background:#ebebeb;padding:20px;text-align:center;position: relative;z-index: 0;}
-.bg-proses-kerja{background:url('../img/img-digital-marketing/bg-proses-kerja.png') no-repeat;background-size:cover;padding:60px 0 40px;margin-top: -25px;position: relative;z-index: 0;}
+/* .bg-proses-kerja{background:url('../img/img-digital-marketing/bg-proses-kerja.jpg') no-repeat;background-size:cover;padding:60px 0 40px;margin-top: -25px;position: relative;z-index: 0;} */
 .one-process{background:#fff;border-bottom:5px solid #000;padding:20px;min-height:319px}
 .one-process b{font-size:18px;display:block}
 .arrow1{margin-top:100px;margin-bottom:30px;margin-right:0;margin-left:auto;display: block;}
@@ -244,7 +215,7 @@ ul.medsos-new li a{
 
 .language-btn {position: absolute;right: 30px;top: 66px;z-index: 9;}
 .list-inline>li a {color:#fff;}
-.list-inline>li.active {border: solid 2px #fff;border-radius: 1em;padding: 2px 5px;}
+.list-inline>li.active {border: solid 2px #fff;border-radius: 1em;}
 .list-inline>li.active a {color:#fff;}
 
 
@@ -255,31 +226,7 @@ ul.medsos-new li a{
     font-weight: 700
 }
 
-@media (max-width:991px) {
-    .one-process{min-height:auto}
-    .img-mengapa{margin-top: 0;}
-    .bg-mengapa {padding: 30px 25px;margin: 0;background-position: center;}
-    .mengapa .bg-black-title {width: 100%;}
-    .masalah-top {background-repeat: repeat-y;padding: 0 30px;}
-    .masalah-bottom{padding: 20px;}
-    .bubble-yellow {margin-top: -15px;}
-}
 
-@media (max-width:767px) {
-    .div-top .title {font-size: 18px;color: #fff;padding: 0;background: #000;position: relative;}
-    .div-top .title .text-center {text-align:left!important}
-    .div-top .title img {position: relative;left: 0;top: 0;margin-right: 10px;width: 65px;}
-    .bg-black-title {font-size: 18px;}
-    .strategi{padding: 30px 0;}
-    .bordered-white.one-sentence,
-    .bordered-white.one-sentence2,
-    .bg-grey{margin-bottom: 20px;}
-    .language-btn {top: 6px;right: 6px;}
-}
-
-@media (max-width: 320px){
-    .div-top .title {font-size: 16px;}
-}
 
 /* new design */
 
@@ -306,20 +253,19 @@ strong {
     font-weight: 800 !important;
 }
 
-@media (max-width: 767.98px) {
-    .dm .--top[style="margin-top: 64px;"] {
-        margin-top: 106px !important;
-    }
-}
 
 /* banner */
-.dm .dm__banner {
-    background: url('../img/img-digital-marketing/dm-bg.png') center/cover no-repeat;
+.dm .dm__banner { 
     height: 565px;
     display: flex;
     align-items: center;
 }
-
+.no-webp .dm .dm__banner {
+    background: url('../img/img-digital-marketing/dm-bg.jpg') center/cover no-repeat;
+}
+.webp .dm .dm__banner {
+    background: url('../img/img-digital-marketing/webp/dm-bg.webp') center/cover no-repeat;
+}
 .dm .dm__banner h1 {
     font-size: 38px;
     font-weight: 800 !important;
@@ -379,9 +325,13 @@ strong {
 /* end dm services */
 
 /* dm trend */
-.dm .dm__trend {    
-    background: url('../img/img-digital-marketing/trend-bg.png') center/cover no-repeat;
+.no-webp .dm .dm__trend {    
+    background: url('../img/img-digital-marketing/trend-bg.jpg') center/cover no-repeat;
 }
+.webp .dm .dm__trend {    
+    background: url('../img/img-digital-marketing/webp/trend-bg.webp') center/cover no-repeat;
+}
+
 
 .dm .dm__trend img {
     max-width: 350px;
@@ -398,9 +348,13 @@ strong {
 }
 
 .dm .dm__get .get__list .list__item img {
-    margin: 10px 10px 0;
-    width: calc(100% - 20px);
+  
+    /* width: calc(100% - 20px); */
+    border-radius: 12px;
+    box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.2);
+    margin: 10px auto;
 }
+ 
 
 .dm .dm__get .get__list .list__item p {
     font-size: 16px;
@@ -487,11 +441,7 @@ strong {
     background: url('../img/img-digital-marketing/variety-content-header.png') left/cover no-repeat, #0d1c41;
 }
 
-@media (max-width: 767.98px) {
-    .dm .dm__variety .variety__list {
-        padding-left: 15px;
-    }
-}
+
 /* end dm variety */
 
 /* dm list circle*/
@@ -529,6 +479,8 @@ strong {
 
 .dm .dm__list-circle .list-circle__img img {
     margin: auto;
+    width: 64px;
+    height: auto;
 }
 /* end dm list circle*/
 
@@ -539,8 +491,11 @@ strong {
 }
 /* end dm strong */
 
-.dm .dm__material {
-    background: url('../img/img-digital-marketing/material-bg.png') center/cover no-repeat;
+.no-webp .dm .dm__material {
+    background: url('../img/img-digital-marketing/material-bg.jpg') center/cover no-repeat;
+}
+.webp .dm .dm__material {
+    background: url('../img/img-digital-marketing/webp/material-bg.webp') center/cover no-repeat;
 }
 
 .dm .dm__material .dm__list-circle {
@@ -552,11 +507,106 @@ strong {
 }
 
 /* dm teamwork */
-.dm .dm__teamwork {
-    background: url('../img/img-digital-marketing/lgq-teamwork-bg.png') center/cover no-repeat;
+.no-webp .dm .dm__teamwork {
+    background: url('../img/img-digital-marketing/lgq-teamwork-bg.jpg') center/cover no-repeat;
 }
-
+.webp .dm .dm__teamwork {
+    background: url('../img/img-digital-marketing/webp/lgq-teamwork-bg.webp') center/cover no-repeat;
+}
 .dm .dm__teamwork img {
     margin: auto;
 }
 /* end dm teamwork */
+
+@media (max-width:991px) {
+    .one-process{min-height:auto}
+    .img-mengapa{margin-top: 0;}
+    .bg-mengapa {padding: 30px 25px;margin: 0;background-position: center;}
+    .mengapa .bg-black-title {width: 100%;}
+    .masalah-top {background-repeat: repeat-y;padding: 0 30px;}
+    .masalah-bottom{padding: 20px;}
+    .bubble-yellow {margin-top: -15px;}
+}
+
+@media (min-width: 768px) {
+    .link-footer p {
+        margin-bottom: 45px;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    .dm .--top[style="margin-top: 64px;"] {
+        margin-top: 106px !important;
+    } 
+    .dm .dm__variety .variety__list {
+        padding-left: 15px;
+    } 
+    .div-top .title {font-size: 18px;color: #fff;padding: 0;background: #000;position: relative;}
+    .div-top .title .text-center {text-align:left!important}
+    .div-top .title img {position: relative;left: 0;top: 0;margin-right: 10px;width: 65px;}
+    .bg-black-title {font-size: 18px;}
+    .strategi{padding: 30px 0;}
+    .bordered-white.one-sentence,
+    .bordered-white.one-sentence2,
+    .bg-grey{margin-bottom: 20px;}
+    .language-btn {top: 6px;right: 6px;} 
+    .footer-title {
+        margin-top: 20px;
+        border-bottom: 2px solid #ffca13;
+        padding-bottom: 3px;
+        display: inline-block;
+    }
+    .logo--update-design{
+        margin-bottom: 10px;
+    } 
+    body {
+        padding:  0;
+    } 
+    section, footer {
+        margin-left: 0
+    }
+    .dm .dm__trend img{
+        max-width: none;
+        width: 100%;
+    }
+    .dm__strong .dm__list-circle > div p{
+        margin-bottom: 20px;
+    }
+    .dm .dm__variety .variety__content{
+        padding: 20px;
+    }
+    
+}
+@media (max-width: 486px) {
+    .no-webp .dm .dm__material {
+        background: url('../img/img-digital-marketing/material-bg-mobile.jpg') center/cover no-repeat;
+    }
+    .webp .dm .dm__material {
+        background: url('../img/img-digital-marketing/webp/material-bg-mobile.webp') center/cover no-repeat;
+    }
+
+    .no-webp .dm .dm__banner {
+        background: url('../img/img-digital-marketing/dm-bg-mobile.jpg') center/cover no-repeat;
+    }
+    .webp .dm .dm__banner {
+        background: url('../img/img-digital-marketing/webp/dm-bg-mobile.webp') center/cover no-repeat;
+    }
+
+    .no-webp .dm .dm__teamwork {
+        background: url('../img/img-digital-marketing/lgq-teamwork-bg-mobile.jpg') center/cover no-repeat;
+    }
+    .webp .dm .dm__teamwork {
+        
+        background: url('../img/img-digital-marketing/webp/lgq-teamwork-bg-mobile.webp') center/cover no-repeat;
+    }
+    .no-webp .dm .dm__trend {    
+        background: url('../img/img-digital-marketing/trend-bg-mobile.jpg') center/cover no-repeat;
+    }
+    .webp .dm .dm__trend {    
+        background: url('../img/img-digital-marketing/webp/trend-bg-mobile.webp') center/cover no-repeat;
+    }
+}
+@media (max-width: 320px){
+    .div-top .title {font-size: 16px;}
+}

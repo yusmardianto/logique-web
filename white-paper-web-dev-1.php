@@ -25,12 +25,14 @@ if(isset($_POST['submitted']))
 			$company_name            = $_POST['typecompany'].".".$_POST['company_name'];
 			$department_name        = $_POST['department_name'];
 			$url_social_media            = $_POST['url_social_media'];
-			$position        = $_POST['position'];
+            $position        = $_POST['position'];
+            $name        = $_POST['name'];
 			$email        = $_POST['email'];
 			$phone        = $_POST['phone'];
 			$verifikasi_code =  $_POST['verifikasi_code'];
 			$type_dokumen =  $_POST['type_dokumen'];
-			$whitepaper_regdate = date('Y-m-d H:i:s');
+            $whitepaper_regdate = date('Y-m-d H:i:s');
+            $approvalsumbit =  $_POST['approvalsumbit'];
 			//validasi data data kosong
 			if (empty($_POST['white_paper_type'])||empty($_POST['company_name'])||empty($_POST['url_social_media'])||empty($_POST['position'])||empty($_POST['email'])||empty($_POST['phone'])) {
 				if ($formproc->ProcessForm()) {
@@ -39,7 +41,8 @@ if(isset($_POST['submitted']))
 			}
 			else {
 			mysqli_select_db($mysqli,$customerDBName);
-			$input = mysqli_query($mysqli,"INSERT INTO al_white_papers VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
+            $input = mysqli_query($mysqli,"INSERT INTO al_white_papers (white_paper_id,white_paper_type,company_name,department_name,url_social_media,position,name,email,phone,verifikasi_code,verifikasi_type,whitepaper_regdate) VALUES('','$white_paper_type','$company_name','$department_name','$url_social_media','$position','$name','$email','$phone','$verifikasi_code','$type_dokumen','$whitepaper_regdate')");	
+            
 			}
 				if ($formproc->ProcessForm()) {
 						$msg = "<div class='alert alert-success' id='msg' role='alert'>Terima kasih telah melakukan pengisian formulir kami, silakan cek email Anda untuk mendapatkan link download Whitepaper. [<a href='".$base_url."layanan/web-dev.php'>Klik Disini</a>] untuk kembali ke halaman Layanan Pembuatan Website LOGIQUE.</div>";
@@ -78,19 +81,21 @@ $kodeBarang = $result;
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
+        content="Download panduan lengkap mengenai langkah-langkah pembuatan & pengembangan website yang efektif agar bisnis Anda mampu bersaing di era digital | LOGIQUE">
     <meta name="keywords"
         content="pengembangan sistem web, digital marketing, pembuatan aplikasi android, media sosial, sistem aplikasi, hubungi kami, pembuatan website, konten, pemasaran, konsultasi, seo">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Hubungi Kami | Web Developer, Designer, Digital Marketing | LOGIQUE">
+    <meta property="og:title" content="White Paper Download | Membuat Website Bisnis Yang Efektif">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/hubungi-kami.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/contact-us.png">
     <meta property="og:description"
-        content="LOGIQUE merupakan perusahaan web developer, web design, digital marketing terbaik di Jakarta yang menawarkan berbagai pelayanan serta produk digital untuk perkembangan bisnis Anda. Tertarik untuk mendapatkan layanan dan produk kami. Hubungi kami sekarang juga!">
+        content="Download panduan lengkap mengenai langkah-langkah pembuatan & pengembangan website yang efektif agar bisnis Anda mampu bersaing di era digital | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>White Paper Download | LOGIQUE</title>
+    <title>White Paper Download | Membuat Website Bisnis Yang Efektif</title>
+
+    <link rel="canonical" href="https://www.logique.co.id/white-paper-web-dev-1.php" />
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -773,7 +778,7 @@ $kodeBarang = $result;
 										</p>
                                     </div>
 									
-                                
+                                    <input type='hidden' name='approvalsumbit' id='approvalsumbit' value='1' />
                                     <input type='hidden' name='submitted' id='submitted' value='1' />
                                     <input type='hidden' name='<?php echo $formproc->GetFormIDInputName(); ?>'
                                         value='<?php echo $formproc->GetFormIDInputValue(); ?>' />

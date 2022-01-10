@@ -20,6 +20,7 @@
 }
 .our-service__btn-wrapper {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -86,10 +87,6 @@
   color: #000;
 }
 
-.service-list__list {
-  list-style: none;
-}
-
 .service-list__list a li:hover {
   color: #ffca13;
 }
@@ -134,7 +131,7 @@
   overflow: hidden;
   color: #000;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .web-solution__half-bg--round {
@@ -532,10 +529,7 @@
 
 /* MOBILE RESPONSIVE */
 @media only screen and (max-width: 414px) {
-  .web-solution__btn-wrapper,
-  .--back-top {
-    flex-wrap: wrap;
-  }
+
   .workflow__img {
     max-width: 100px;
   }
@@ -610,6 +604,7 @@
 
 b {
   font-weight: 700 !important;
+  font-size: inherit;
 }
 
 @media (max-width: 991.98px) {
@@ -622,8 +617,13 @@ b {
   .content-wrapper__.bg--footer.footer-section {
     padding-left: 15px;
   }
+  .link-footer-nav li li:last-child, .link-footer-nav li li li:last-child{
+    padding-bottom: 0;
+  }
 }
-
+.link-footer-nav li:last-child{
+  text-align: left;
+}
 /* flex row */
 .flex__row {
   display: flex;
@@ -1026,6 +1026,7 @@ b {
 }
 .footer-update a{
   color: #fff;
+  font-size: 13px;
 }
 .footer-update h3{
   font-size: 20px;
@@ -1053,12 +1054,6 @@ b {
    padding-bottom: 15px;
    list-style:none;
  } 
- .link-footer-nav li:last-child{
-   padding-bottom: 0;
- } 
-  .link-footer-nav ul{
-    padding-left: 20px;
-  }
  .link-footer-nav li li a{
    font-weight: normal !important;
  }
@@ -1134,7 +1129,15 @@ footer .medsos-new .facebook-icon:hover{
   background:url(../img/icon-facebook-hover.svg)  no-repeat;
   background-size: contain;
 }
-
+ul.footer-submenu{
+  margin-bottom: 20px;
+}
+.mobile-menu-container{
+  display: none;
+}
+.phone-info li img{
+  margin-right: 20px;
+}
 @media (max-width: 991.98px) {
   .footer-update p {
     line-height: 22px;
@@ -1142,9 +1145,9 @@ footer .medsos-new .facebook-icon:hover{
   .footer-update h4 {
     padding-bottom: 20px;
   }
-  .footer-update ul:not(.list-unstyled) > li {
+  /* .footer-update ul:not(.list-unstyled) > li {
     padding-bottom: 10px;
-  }
+  } */
 }
 /* end footer */
 
@@ -1164,13 +1167,13 @@ footer .medsos-new .facebook-icon:hover{
 
 .portfolio-update .portfolio__banner.portfolio__banner-detail .banner-detail__content img {
   position: absolute;
-  top: -20px;
+  bottom: 0px;
   left: calc(100% + 20px);
   max-width: 310px;
 }
 
 .portfolio-update h1 {
-  font-weight: bold !important;
+  font-weight: 800 !important;
 }
 
 .portfolio-update h1,
@@ -1217,13 +1220,17 @@ footer .medsos-new .facebook-icon:hover{
 }
 @media (max-width: 1199.98px) {
   .portfolio-update .portfolio__banner.portfolio__banner-detail .banner-detail__content img {
-    top: 0;
     left: 90%
-}
+  }
 }
 /* end portfolio */
 
 /* portfolio nav */
+.portfolio-update__nav .page-nav{
+  border-top: 2px solid #d8d8d8;
+  border-bottom: 2px solid #d8d8d8;
+  padding: 20px 0;
+}
 .portfolio-update__nav .page-nav .page-nav__btn {
   position: relative;
   color: #464646;
@@ -1245,6 +1252,18 @@ footer .medsos-new .facebook-icon:hover{
   width: 8px;
   border-radius: 100%;
   background-color: #000;
+}
+@media only screen and (max-width: 1199px){
+  .portfolio-update__nav .page-nav{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .portfolio-update__nav .page-nav .page-nav__btn{
+    flex: 1 1 50%;
+  }
+  .portfolio-update__nav .page-nav .page-nav__btn::before{
+    content: none !important;
+  }
 }
 @media only screen and (max-width: 1100px) {
   .case-study .row__item.morecs{
@@ -1319,20 +1338,21 @@ footer .medsos-new .facebook-icon:hover{
   }
 }
 @media (max-width: 767.98px) {
-  .portfolio-update__nav .page-nav {
-    justify-content: flex-start;
-    overflow-x: scroll;
-  }
   .portfolio-update__nav .page-nav .page-nav__btn {
-    flex-basis: auto;
-    min-width: max-content;
     padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
-  .portfolio-update__nav .page-nav .page-nav__btn:first-child {
-    padding-left: 0;
+}
+
+@media (max-width: 576px){
+  .portfolio-update__nav .page-nav .page-nav__btn{
+    flex: 1 1 100%;
   }
-  .portfolio-update__nav .page-nav .page-nav__btn:last-child {
-    padding-right: 0;
+  .web-solution__btn-wrapper,
+  .--back-top {
+    flex-direction: column;
   }
 }
 
@@ -1401,6 +1421,7 @@ footer .medsos-new .facebook-icon:hover{
   border: solid 2px #000;
   padding-top: 20px;
   padding-bottom: 20px;
+  white-space: normal;
 }
 
 /* mobile */
@@ -1425,7 +1446,8 @@ footer .medsos-new .facebook-icon:hover{
   max-width: 50%;
 }
 
-.content__item.content__item--mobile > div > img {
+.content__item.content__item--mobile > div > img,
+.content__item.content__item--mobile > div > picture > img {
   margin-bottom: 0;
   height: 100%;
   width: 100%;
@@ -1490,7 +1512,7 @@ footer .medsos-new .facebook-icon:hover{
 .portfolio-update__content .content__item.content__item--dm {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-start;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1499,6 +1521,9 @@ footer .medsos-new .facebook-icon:hover{
   width: calc(100% - 20px);
   color: #fff;
   min-height: 325px;
+}
+.portfolio-update.ind .portfolio-update__content .content__item.content__item--dm{
+  height: 100%;
 }
 
 .wrapper--update-design-font.--jp .portfolio-update__content .content__item.content__item--dm {
@@ -1511,11 +1536,12 @@ footer .medsos-new .facebook-icon:hover{
   max-width: 100%;
   display: block;
   margin: 0 auto 40px;
+  padding: 0px 30px;
 }
 
 .portfolio-update__content .content__item.content__item--dm h4 {
   margin-bottom: 15px;
-  font-weight: bold !important;
+  font-weight: 600 !important;
 }
 .portfolio-update__content .content__item.content__item--dm p {
   font-size: 14px;
@@ -1553,11 +1579,11 @@ footer .medsos-new .facebook-icon:hover{
 
 .portfolio-update__content .content__detail .detail__description {
   padding: 20px;
-  min-height: 375px;
+  min-height: 200px;
 }
 
 .wrapper--update-design-font.--jp .portfolio-update__content .content__detail .detail__description {
-  min-height: 330px;
+  min-height: 200px;
 }
 
 .portfolio-update__content .content__detail .detail__goal {
@@ -1662,12 +1688,6 @@ footer .medsos-new .facebook-icon:hover{
   }
   .case-study .row__item.morecs{
     display: inline-block !important;
-  }
-  .company-info{
-    order: 2;
-  }
-  .company-footer-nav{
-    order: 1;
   }
 }
 @media (max-width: 414px) {
@@ -1801,6 +1821,42 @@ footer .medsos-new .facebook-icon:hover{
     .portfolio__modal .modal-section .modal-content .modal-body .content-section .content-container.scope-container .content-desc:nth-child(2) {
         font-size: 12px;
     }
+    .mobile-menu-container {
+      display: flex;
+      margin-bottom: 20px;
+  }
+  .mobile-menu-container ul{
+      flex: 0 0 50%;
+  }
+  .main-footer-container{
+      display: none !important;
+  }
+    .footer-extrainfo{
+      display: flex;
+      padding-top: 20px; 
+  }
+  .footer-extrainfo ul{
+      margin: 0 !important;
+      flex: 0 0 50%; 
+  }
+  .footer-extrainfo ul.medsos-new{
+      display: flex;
+      padding-left: 10px;
+
+  }
+  .mobile-menu-container  a{
+      padding:5px 0;
+      display:block ;
+  }
+  .content-wrapper__.bg--footer.footer-section{
+    padding: 0;
+  }
+  footer .flex-row{
+    display: block;
+  }
+  footer .medsos-new li{
+    padding: 0 0 0 5px !important;
+  }
 }
 
 /* end portfolio modal section */

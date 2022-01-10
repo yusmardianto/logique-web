@@ -8,7 +8,7 @@
     <meta name="description" itemprop="description"
         content="Caroline adalah klien dari LOGIQUE untuk pembuatan dan pengembangan sistem penawaran jual beli mobil online. Anda ingin membuat dan mengembangkan website seperti mereka, segera hubungi kami. Kami siap membantu Anda!">
     <meta name="keywords"
-        content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+        content="Pengembangan sistem penawaran online, Sistem penawaran mobil online, Sistem penawaran mobil website caroline, Pembuatan sistem penawaran mobil Caroline, Contoh pengembangan sistem web otomotif, Klien otomotif logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="Sistem Penawaran Jual Beli Mobil Online | Caroline | LOGIQUE">
@@ -19,6 +19,7 @@
     <meta property="og:description"
         content="Caroline adalah klien dari LOGIQUE untuk pembuatan dan pengembangan sistem penawaran jual beli mobil online. Anda ingin membuat dan mengembangkan website seperti mereka, segera hubungi kami. Kami siap membantu Anda!">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+    <link rel="canonical" href="https://www.logique.co.id/case-study/caroline-bidding-system/">
     <script>
     (function(i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -45,13 +46,31 @@
     <!-- case study style -->
     <link href="css/style.css" rel="stylesheet">
 
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+    ?>
 </head>
-
 <body>
+	<?php 
+		if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+			echo '<!-- Google Tag Manager (noscript) -->
+			<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+			<!-- End Google Tag Manager (noscript) -->';
+		}
+	?>
     <div class="wrapper o-wrapper top-only">
 
         <header>
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row">
                     <div class="col-xs-6">
                         <img src="/img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -60,7 +79,7 @@
                         <ul>
                             <li><a href="/en/case-study/caroline-bidding-system/">EN</a></li>
                             <li class="active"><a href="#">ID</a></li>
-                            <li><a href="#">JP</a></li>
+                            <li><a href="/jp/case-study/caroline-bidding-system/">JP</a></li>
                         </ul>
                     </div>
                 </div>
@@ -133,11 +152,10 @@
 
         <div class="cs-wrap">
             <section class="cs-top">
-                <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-                <h1 class="cs-title">Caroline <p class="hidden-sm hidden-md hidden-lg"><small>Situs Jual Beli Mobil dengan Sistem
-                            Penawaran Online</small></p>
+                <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
+                <h1 class="cs-title">Caroline  
                 </h1>
-                <h2 class="cs-title-2 hidden-xs">Situs Jual Beli Mobil dengan <br>Sistem Penawaran Online</h2>
+                <h2 class="cs-title-2  ">Situs Jual Beli Mobil dengan <br>Sistem Penawaran Online</h2>
             </section>
             <section class="breadcrumb-container">
                 <div class="row">
@@ -148,9 +166,13 @@
                                 <a itemprop="item" href="/"><span itemprop="name">Beranda</span></a>
                                 <meta itemprop="position" content="1" />
                             </li>
-                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                                <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Caroline</span></a>
+                            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
                                 <meta itemprop="position" content="2" />
+                            </li>
+                            <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                                <a itemprop="item"><span itemprop="name">&nbsp; Caroline</span></a>
+                                <meta itemprop="position" content="3" />
                             </li>
                         </ol>
                     </div>
@@ -205,9 +227,9 @@
                         <img src="img/img-3.png" alt="case study logique" class="img-responsive center-block custom-1">
                     </div>
                 </div>
-                <img src="img/orm-2.png" alt="case study logique" class="cs-orm cs-orm-2">
+                
             </section>
-            <section class="cs-section">
+            <section class="cs-section result-section">
                 <div class="row">
                     <div class="col-md-12">
                         <h2 class="cs-subtitle text-center">Hasil dan Dampak</h2>
@@ -273,6 +295,16 @@
                             </picture>
                             </a>
                         </div>
+                        <div class="col-xs-12 col-sm-6 col-md-3">
+                            <a href="/case-study/jba-bastk/">
+                            <picture>
+                                <source srcset="img/btn-jba-bastk.webp" type="image/webp">
+                                <img class="img-responsive center-block" src="img/btn-jba-bastk.png" alt="Studi Kasus Lainnya">
+                            </picture>
+                            </a>
+                        </div>
+                        <style>.kembali-ke-index {background: #ffca13;color: #000;padding: 12px 15px;border-radius: 10px;box-shadow: 0 0 4px #afafaf;margin: 25px!important;}.kembali-ke-index:hover {opacity: .7;text-decoration: none;color: #333;}</style>
+                        <div><a href="/case-study/" class="kembali-ke-index">Kembali Ke Halaman Indeks Studi Kasus</a></div>
                     </div>
                 </div>
             </section>
@@ -319,7 +351,7 @@
                             </a>
                         </div>
                         <div>
-                            <a href="/layanan/web-dev.php" class="btn--cs-bottom">
+                            <a href="/layanan/jasa-pembuatan-website.php" class="btn--cs-bottom">
                             <picture>
                                 <source srcset="/case-study/img/icon/btn-web-dev.svg">
                                 <img src="/case-study/img/icon/btn-web-dev.png" alt="">

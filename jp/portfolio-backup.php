@@ -1703,13 +1703,13 @@
 
                         <div class="col-md-4 col-xs-6">
                             <div class="mobile-app-container same-height">
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-1.png" alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-1.png" alt="Weeo Gazelle App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-2.png" alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-2.png" alt="Weeo Gazelle App"
                                         class="img-responsive center-block">
                                 </div>
-                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-3.png" alt="WEEO Hino Connect"
+                                <div class="m-app-item"><img src="/img/portfolio/weeo-hino-connect-3.png" alt="Weeo Gazelle App"
                                         class="img-responsive center-block">
                                 </div>
                             </div>

@@ -6,44 +6,39 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
+    content="Kenali lebih dekat para staff profesional LOGIQUE yang dapat membantu mengembangkan kemampuan yang Anda miliki. Daftarkan diri Anda & gabung bersama kami sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Pesan Untuk Kandidat dari Staff Profesional PT LOGIQUE ">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Kenali lebih dekat para staff profesional kami yang dapat membantu Anda mengembangkan kemampuan yang Anda miliki. Berikut ini pesan dari para staff terbaik kami bagi Anda. Segera daftarkan diri Anda di LOGIQUE sekarang juga!">
+    content="Kenali lebih dekat para staff profesional LOGIQUE yang dapat membantu mengembangkan kemampuan yang Anda miliki. Daftarkan diri Anda & gabung bersama kami sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Pesan Untuk Kandidat | lowongan web programmer | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/pesan-untuk-kandidat/"/>
+  <title>Pesan Untuk Kandidat dari Staff Profesional PT LOGIQUE </title>
 
+  <link rel="preconnect" href="https://connect.facebook.net"/>
+  <link rel="preconnect" href="https://app.purechat.com"/>
+  <link rel="preconnect" href="https://analytics.twitter.com"/>
+  <link rel="preconnect" href="https://t.co"/>
+  <link rel="preconnect" href="https://api-cdn.purechat.com"/>
+  
   <!-- Bootstrap -->
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/career/style-career.css" rel="preload" as="style">
+
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -71,13 +66,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -85,7 +87,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--yoshi" style="margin-bottom: 2.5em">
+      <section class="container-fluid --top bg--yoshi">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -128,13 +130,77 @@
           </div>
         </div>
       </section>
-
+      <section class="container-fluid bg--management">
+        <div class="container--max-width" style="padding: bottom: 0;">
+        <div class="row">
+            <div class="col-sm-offset-1 col-sm-10">
+              <div class="row row__same-height">
+                <div class="col-md-6 pb--2-5em">
+                  <picture>
+                    <source srcset="/img/career/anton-message.webp" type="image/webp"/>
+                    <img class="img-responsive img-person center-block" src="/img/career/ghitta-message.png" alt="CTO Anton">
+                  </picture>
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title first-row" data-emergence="hidden">
+                      Anton
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - CTO
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “Berkarir pada bidang yang sesuai dengan passion dan berada pada perusahaan yang tepat tentu saja menjadi impian bagi setiap profesional muda di bidang Teknologi Informasi. Potensi SDM yang baik tentu saja harus didukung dengan tata kelola organisasi yang baik dan terstruktur yang telah kami design untuk memastikan roda bisnis perusahaan berjalan dengan baik. Kami juga memberi dukungan penuh kepada setiap tim kami, untuk perkembangan karir, professionnalisme, maupun kemampuan secara teknikal. Kami menyukai kandidat yang memiliki energi dinamis, cerdas, berkarakter kuat, serta berkepribadian baik. Mari bergabung dengan kami untuk masa depan yang lebih baik.”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/anton.php">
+                        <span>Interview with CTO</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 pb--2-5em">
+                  <picture>
+                    <source srcset="/img/career/ghitta-message.webp" type="image/webp"/>
+                    <img class="img-responsive img-person center-block" src="/img/career/ghitta-message.png" alt="HR Ghitta">
+                  </picture>
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title first-row" data-emergence="hidden">
+                      Ghitta
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - Senior HR & GA
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “Sangat penting untuk memahami di mana dan bagaimana Anda bekerja. Jika Anda Kreatif, Dinamis,
+                      Pekerja Keras, Profesional, memiliki rasa bertanggung jawab dan ingin berkontribusi penuh pada
+                      perusahaan, LOGIQUE akan menyambut Anda! dengan komitment yang Anda berikan dan juga hasil kerja
+                      terbaik Anda maka perusahaan akan membuka kesempatan pertumbuhan karir dengan lingkungan kerja
+                      yang baik untuk Anda Mari berkembang bersama LOGIQUE!”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/ghitta.php">
+                        <span>Interview with HRD</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       <section class="container-fluid">
         <div class="container--max-width" style="padding-bottom: 0;">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
               <div class="row row__same-height">
-                <div class="col-md-4 pb--2-5em">
+                <!-- <div class="col-md-4 pb--2-5em">
                   <img class="img-responsive center-block" src="/img/career/ghitta-message.png" alt="HR Ghitta">
                   <div class="message__text-wrapper">
                     <h4 class="message__text-title" data-emergence="hidden">
@@ -156,59 +222,12 @@
                         href="/career/interview/ghitta.php">Interview with HRD</a>
                     </div>
                   </div>
-                </div>
-                <div class="col-md-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/taufik-message.png" alt="FE Taufik">
-                  <div class="message__text-wrapper">
-                    <h4 class="message__text-title" data-emergence="hidden">
-                      Taufik
-                      <br class="visible-md hidden-lg">
-                      <span class="role--title">
-                        - Senior Frontend Dev
-                      </span>
-                    </h4>
-                    <p class="message__text-content">
-                      “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
-                      Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan
-                      juga
-                      kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja
-                      cepat,
-                      kamu bakal suka bekerja di LOGIQUE.”
-                    </p>
-                    <div class="message__footer">
-                      <a class="form-control main-btn --small-btn-bold --yellow"
-                        href="/career/interview/taufik.php">Interview with <br> Senior Frontend Dev</a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/muklis-message.png" alt="BE Muklis">
-                  <div class="message__text-wrapper">
-                    <h4 class="message__text-title" data-emergence="hidden">
-                      Muklis
-                      <br class="visible-md hidden-lg">
-                      <span class="role--title">
-                        - Senior Backend Dev
-                      </span>
-                    </h4>
-                    <p class="message__text-content">
-                      “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude.
-                      Selain
-                      itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan
-                      mempertimbangkan
-                      hal itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer
-                      terbaik, saya menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman,
-                      framework, cloud server topology AWS, dan semacamnya.”
-                    </p>
-                    <div class="message__footer">
-                      <a class="form-control main-btn --small-btn-bold --yellow"
-                        href="/career/interview/muklis.php">Interview with <br> Senior Backend Dev
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 pb--2-5em">
-                  <img class="img-responsive center-block" src="/img/career/aprillian-message.png" alt="DM Aprillian">
+                </div> -->
+                <div class="col-md-6 col-lg-4 pb--2-5em">
+                  <picture>
+                    <source srcset="/img/career/aprillian-message.webp" type="image/webp"/>
+                    <img class="img-responsive center-block" src="/img/career/aprillian-message.png" alt="DM Aprillian">
+                  </picture>
                   <div class="message__text-wrapper">
                     <h4 class="message__text-title" data-emergence="hidden">
                       Aprilian
@@ -221,8 +240,72 @@
                       “Logique perusahaan yang sangat mengerti arti sebuah apresiasi, setiap hasil diukur secara transparan dengan tolak ukur yang jelas. Logique telah menyiapkan beragam "Reward" bagi setiap individu yang mampu menjadi bagian dari team Logique yang hebat. Melalui keahlian Anda di bidang Digital Marketing dan ditunjang dengan kemampuan dalam Analysis, Planning, & Reporting yang baik, Kami percaya Anda adalah kandidat yang Kami butuhkan.”
                     </p>
                     <div class="message__footer">
-                      <a class="form-control main-btn --small-btn-bold --yellow"
-                        href="/career/interview/aprillian.php">Interview with <br/>Leader Digital Marketing
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/aprillian.php">
+                        <span>Interview with <br/>Leader Digital Marketing</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 pb--2-5em">
+                  <picture>
+                    <source srcset="/img/career/taufik-message.webp" type="image/webp"/>
+                    <img class="img-responsive center-block" src="/img/career/taufik-message.png" alt="FE Taufik">
+                  </picture>
+                  
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title" data-emergence="hidden">
+                      Taufik
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - Leader Front End Developer
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “Show your best. Pastikan kalau kamu memiliki pengalaman dan menguasai bidang yang kamu lamar.
+                      Ibaratnya mau jadi atlet renang, kamu tentu harus bisa berenang (haha). Selain itu, tunjukkan
+                      juga
+                      kalau kamu profesional dan punya minat belajar yang tinggi. Untuk kamu yang senang bekerja
+                      cepat,
+                      kamu bakal suka bekerja di LOGIQUE.”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/taufik.php">
+                        <span>Interview with <br/>Leader Front End Developer</span>
+                        <img src="/img/career/icon/caret-black.png"/>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-lg-4 pb--2-5em">
+                  <picture>
+                    <source srcset="/img/career/muklis-message.webp" type="image/webp"/>
+                    <img class="img-responsive center-block" src="/img/career/muklis-message.png" alt="BE Muklis">
+                  </picture>
+                  <div class="message__text-wrapper">
+                    <h4 class="message__text-title" data-emergence="hidden">
+                      Muklis
+                      <br class="visible-md hidden-lg">
+                      <span class="role--title">
+                        - Leader Back End Developer
+                      </span>
+                    </h4>
+                    <p class="message__text-content">
+                      “LOGIQUE tidak hanya melihat technical skill seseorang tetapi juga soft skill dan attitude.
+                      Selain
+                      itu, selama Anda merasa dapat memberikan kontribusi di bidang Anda, LOGIQUE akan
+                      mempertimbangkan
+                      hal itu baik-baik. Namun, jika Anda mempunyai target untuk menjadi yang Back-End Developer
+                      terbaik, saya menyarankan Anda untuk terbiasa dalam menggunakan berbagai bahasa pemrograman,
+                      framework, cloud server topology AWS, dan semacamnya.”
+                    </p>
+                    <div class="message__footer">
+                      <a class="form-control btn-interview main-btn --small-btn-bold --yellow"
+                        href="/career/interview/muklis.php">                        
+                        <span>Interview with <br/>Leader Back End Developer</span>
+                        <img src="/img/career/icon/caret-black.png"/>
                       </a>
                     </div>
                   </div>
@@ -237,41 +320,54 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
-              <!-- <div class="row">
-                <div class="col-sm-12">
-                  <img class="img-responsive" src="/img/career/bg-img/dummy-video.png" alt="" style="min-width:100%">
-                </div>
-              </div> -->
               <h2 class="section-title --black">Logique’s Gallery</h2>
               <div class="row message-img">
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-1.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-1.webp" type="image/webp"/>
+                      <img src="/img/career/activity-img-1.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-2.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-2.webp" type="image/webp">
+                      <img src="/img/career/activity-img-2.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-3.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-3.webp" type="image/webp">
+                      <img src="/img/career/activity-img-3.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-4.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-4.webp" type="image/webp">
+                      <img src="/img/career/activity-img-4.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-5.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-5.webp" type="image/webp">
+                      <img src="/img/career/activity-img-5.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
                   <div class="message__img-wrapper">
-                    <img src="/img/career/activity-img-6.png" alt="Foto Aktivitas Logique">
+                    <picture>
+                      <source srcset="/img/career/activity-img-6.webp" type="image/webp">
+                      <img src="/img/career/activity-img-6.png" alt="Foto Aktivitas Logique">
+                    </picture>
                   </div>
                 </div>
                 <div class="col-sm-12">
@@ -279,62 +375,98 @@
                     <div class="row">
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-7.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-7.webp" type="image/webp">
+                            <img src="/img/career/activity-img-7.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-8.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-8.webp">
+                            <img src="/img/career/activity-img-8.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-9.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-9.webp">
+                            <img src="/img/career/activity-img-9.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-10.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-10.webp">
+                            <img src="/img/career/activity-img-10.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-11.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-11.webp">
+                            <img src="/img/career/activity-img-11.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-12.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-12.webp">
+                            <img src="/img/career/activity-img-12.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-13.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-13.webp">
+                            <img src="/img/career/activity-img-13.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-14.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-14.webp">
+                            <img src="/img/career/activity-img-14.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-15.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-15.webp">
+                            <img src="/img/career/activity-img-15.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-16.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-16.webp">
+                            <img src="/img/career/activity-img-16.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-17.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-17.webp">
+                            <img src="/img/career/activity-img-17.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                       <div class="col-md-4 col-sm-6">
                         <div class="message__img-wrapper">
-                          <img src="/img/career/activity-img-18.png" alt="Foto Aktivitas Logique">
+                          <picture>
+                            <source srcset="/img/career/activity-img-18.webp">
+                            <img src="/img/career/activity-img-18.png" alt="Foto Aktivitas Logique">
+                          </picture>
                         </div>
                       </div>
                     </div>

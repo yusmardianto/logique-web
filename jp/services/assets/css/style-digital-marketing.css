@@ -1,10 +1,11 @@
 /* @import url(https://fonts.googleapis.com/css?family=Raleway); */
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700&display=swap');
+/* @import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700&display=swap'); */
 html, body {
     background-color: #fff;
     color: #000;
     font-family: 'M PLUS 1p','Raleway', sans-serif; 
+    font-display: swap;
 }
 
 @-ms-viewport {width: device-width}
@@ -30,24 +31,15 @@ body {
     }
 }
 a:hover {text-decoration: none;}
-
-.backdrop-test {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    background-color: #000;
-    z-index: 999;
-    opacity: .7;
-    display: none;
-    top: 0;
-    left: 0;
-}
-
+ 
 .card section{margin-left:0}
+.nav-lp .navbar-toggle{
+    right: auto !important; 
+}
 .nav-lp .navbar-toggle.collapsed {
     background-color: #ffca13!important;
     position: fixed!important;
-    right: 0 !important;
+    right: auto !important;
     /* top: 0 !important; */
     /* top: 40px; */
     /* outline: solid 2px #000; */
@@ -239,7 +231,7 @@ ul.medsos-new li a{
 
 .language-btn {position: absolute;right: 30px;top: 66px;z-index: 9;}
 .list-inline>li a {color:#fff;}
-.list-inline>li.active {border: solid 2px #fff;border-radius: 1em;padding: 2px 5px;}
+.list-inline>li.active {border: solid 2px #fff;border-radius: 1em;}
 .list-inline>li.active a {color:#fff;}
 
 
@@ -314,6 +306,12 @@ strong {
     display: flex;
     align-items: center;
 }
+.webp .dm .dm__banner {
+    background: url('../img/img-digital-marketing/webp/dm-bg.webp') center/cover no-repeat;
+    height: 565px;
+    display: flex;
+    align-items: center;
+}
 
 .dm .dm__banner h1 {
     font-size: 38px;
@@ -377,6 +375,9 @@ strong {
 .dm .dm__trend {    
     background: url('../img/img-digital-marketing/trend-bg.png') center/cover no-repeat;
 }
+.webp .dm .dm__trend {    
+    background: url('../img/img-digital-marketing/webp/trend-bg.webp') center/cover no-repeat;
+}
 
 .dm .dm__trend img {
     max-width: 350px;
@@ -390,11 +391,13 @@ strong {
     border-radius: 5px;
     padding: 15px;
     min-height: 295px;
-}
-
+} 
 .dm .dm__get .get__list .list__item img {
-    margin: 10px 10px 0;
-    width: calc(100% - 20px);
+  
+    /* width: calc(100% - 20px); */
+    border-radius: 12px;
+    box-shadow: 0px 0px 11px 2px rgba(0, 0, 0, 0.2);
+    margin: 10px auto;
 }
 
 .dm .dm__get .get__list .list__item p {
@@ -524,6 +527,8 @@ strong {
 
 .dm .dm__list-circle .list-circle__img img {
     margin: auto;
+    width: 64px;
+    height: auto;
 }
 /* end dm list circle*/
 
@@ -537,6 +542,9 @@ strong {
 .dm .dm__material {
     background: url('../img/img-digital-marketing/material-bg.png') center/cover no-repeat;
 }
+.webp .dm .dm__material {
+    background: url('../img/img-digital-marketing/webp/material-bg.webp') center/cover no-repeat;
+}
 
 .dm .dm__material .dm__list-circle {
     margin-bottom: 20px;
@@ -549,6 +557,9 @@ strong {
 /* dm teamwork */
 .dm .dm__teamwork {
     background: url('../img/img-digital-marketing/lgq-teamwork-bg.png') center/cover no-repeat;
+}
+.webp .dm .dm__teamwork {
+    background: url('../img/img-digital-marketing/webp/lgq-teamwork-bg.webp') center/cover no-repeat;
 }
 
 .dm .dm__teamwork img {

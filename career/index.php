@@ -5,45 +5,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Info lowongan kerja Web Developer, Web Designer, Programmer, Digital Marketing & lowongan kerja remote di bidang IT. Bersama LOGIQUE untuk karir lebih baik.">
+    content="Lowongan kerja web Developer & web Programmer terbaru di Jakarta. Bisa kerja remote, Pendidikan min.D3, Ayo Bergabung bersama LOGIQUE.">
   <meta name="keywords"
     content="lowongan web developer, lowongan kerja programmer, lowongan kerja remote programmer">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja Web Developer,  Programmer & Lainnya | LOGIQUE ">
+  <meta property="og:title" content="Lowongan Kerja Web Developer & Web Programmer Terbaru Jakarta">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Info lowongan kerja Web Developer, Web Designer, Programmer, Digital Marketing & lowongan kerja remote di bidang IT. Bersama LOGIQUE untuk karir lebih baik.">
+    content="Lowongan kerja web Developer & web Programmer terbaru di Jakarta. Bisa kerja remote, Pendidikan min.D3, Ayo Bergabung bersama LOGIQUE.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/career/" /> 
-  <title>Lowongan Kerja Web Developer,  Programmer & Lainnya | LOGIQUE </title>
+  <title>Lowongan Kerja Web Developer & Web Programmer Terbaru Jakarta</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -71,13 +53,21 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -105,7 +95,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-8 col-sm-10">
-              <h1 class="header__title">Wujudkan Mimpi Anda Dengan Berkarir Bersama LOGIQUE</h1>
+              <h1 class="header__title">Lowongan Kerja di <span class="logo-font">LOGIQUE</span></h1>
               <p>
                 Di LOGIQUE, Anda dapat mewujudkan mimpi Anda sebagai karyawan tetap dan mendapatkan peningkatan karir web developer yang cemerlang
                 tanpa batas. Segera bergabung dan kembangkan karir Anda bersama kami.
@@ -147,17 +137,17 @@
                   <div class="urgent-box">
                     <h2 class="section-title">Dibutuhkan Segera!</h2>
                     <div class="urgent-need">
-                      <a href="/career/lowongan/programmer/web-developer.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <div class="urgent-need__text">Web Developer</div>
+                      <a href="/career/lowongan/it-generalist/consultant.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/business-class.png" alt="Technical Consultant">
+                        <div class="urgent-need__text">Technical<br>Consultant</div>
                       </a>
-                      <a href="/career/lowongan/programmer/frontend-developer.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Front End Developer">
-                        <div class="urgent-need__text">Front End Dev</div>
+                      <a href="/career/lowongan/specialist/devops.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/server.png" alt="DevOps Engineer">
+                        <div class="urgent-need__text">DevOps<br>Engineer</div>
                       </a>
-                      <a href="/career/lowongan/specialist/it-security-specialist.php" class="urgent-need__item">
-                        <img class="urgent-need__img" src="/img/career/icon/password.png" alt="Security Specialist">
-                        <div class="urgent-need__text">IT Security</div>
+                      <a href="/career/lowongan/programmer/golang-developer.php" class="urgent-need__item">
+                        <img class="urgent-need__img" src="/img/career/icon/web-dev.png" alt="Golang Developer">
+                        <div class="urgent-need__text text-center">Golang<br>Developer</div>
                       </a>
                     </div>
                     <a href="/career/lowongan/" style="padding-top: 10px; padding-bottom: 10px; font-size: 20px; position: relative;"

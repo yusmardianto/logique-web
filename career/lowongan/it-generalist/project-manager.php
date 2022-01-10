@@ -6,44 +6,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Project Manager. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja Consultant / Project Manager terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, project manager, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Lowongan Kerja Consultant / Project Manager Terbaru Jakarta | LOGIQUE">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Project Manager. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="Lowongan kerja Consultant / Project Manager terbaru di Jakarta. Bisa kerja Full Remote, Gaji Negosiable, Bonus, Asuransi Sekeluarga, dll | Ayo gabung. Apply Sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Consultant / Project Manager | Lowongan Kerja | IT Generalist | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/it-generalist/project-manager.php" />
+  <title>Lowongan Kerja Consultant / Project Manager Terbaru Jakarta | LOGIQUE</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -71,13 +54,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -107,7 +97,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; Consultant / Project Manager</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp; Project Manager  / Consultant </span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -117,7 +107,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-6 col-md-9 col-sm-10">
-              <h1 class="header__title">Consultant / <br>Project Manager</h1>
+              <h1 class="header__title">Project Manager / <br>Consultant </h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -148,90 +138,42 @@
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
               <div class="career-requirement">
-                <p>Consultant merupakan lini depan LOGIQUE yang dapat berkomunikasi, memahami masalah yang dihadapi, serta mampu memberikan solusi terbaik yang dibutuhkan client dari sisi bisnis maupun teknis. <br>
-                Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
+                <p><span class="fs-24 line-height-1"> Project Manager / Consultant</span> merupakan lini depan LOGIQUE yang dapat berkomunikasi, memahami masalah yang dihadapi, serta mampu memberikan solusi terbaik yang dibutuhkan client dari sisi bisnis maupun teknis. <br>Dalam tahapan pengembangan Website, Aplikasi Berbasis Web, dan Aplikasi Mobile, Consultant juga berperan sebagai Project Manager yang memastikan bahwa proyek berjalan dengan baik, berkualitas, dan dapat diselesaikan tepat waktu.</p>
               </div>
+             
               <div class="career-requirement">
-              <h3 class="section-title">Special Requirement</h3>
-                <p>LOGIQUE membuka lowongan khusus untuk Consultant / Project Manager yang memiliki tingkat pengalaman yang baik dalam pengembangan website / sistem berbasis web / aplikasi mobile dalam industri otomotif. Mari bergabung bersama kami.</p>
-              </div>
-              <div class="career-requirement">
-                <h3 class="section-title">Job Description</h3>
-                <h4 class="section-subtitle">PreSales</h4>
+                <h3 class="section-title">JOB RESPONSIBILITIES</h3>
                 <ul class="career-list">
-                  <li>
-                    Memahami kebutuhan pelanggan dan tujuan bisnis.
-                  <li>
-                    Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan.
-                  </li>
-                  <li>
-                    Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
-                  <li>
-                    Melakukan analisa terhadap kebutuhan dan memberikan estimasi pengerjaan yang diperlukan termasuk
-                    pembuatan proposal.
-                  </li>
-                </ul>
-                <h4 class="section-subtitle">Development:</h4>
-                <ul class="career-list">
-                  <li>
-                    Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project costing.
-                  </li>
-                  <li>
-                    Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas dan tepat waktu.
-                  </li>
-                  <li>
-                    Melakukan monitoring terhadap penggunaan resource proyek.
-                  </li>
-                  <li>
-                    Berkomunikasi dengan klien selama jalannya proyek.
-                  </li>
-                  <li>
-                    Berkolaborasi dengan developer terkait pengerjaan sesuai ruang lingkup proyek.
-                  </li>
-                </ul>
-                <h4 class="section-subtitle">Post Development:</h4>
-                <ul class="career-list">
-                  <li>Menyajikan laporan yang tepat dan terstruktur.</li>
+                  <li>Memahami kebutuhan pelanggan dan tujuan bisnis.</li>
+                  <li>Memberikan konsultasi dan saran strategis mengenai penggunaan teknologi untuk mencapai tujuan terhadap klien </li>
+                  <li>Berkolaborasi dengan tim Sales untuk membantu proses penjualan.</li>
+                  <li>Analisa baik terhadap kebutuhan bisnis dan memberikan estimasi pengerjaan yang diperlukan termasuk pembuatan proposal </li>
+                  <li>Membuat inisiasi jadwal pengembangan, rancangan penggunaan resource, dan project budget terhadap proyek. </li>
+                  <li>Melakukan manajemen proyek untuk mendapatkan hasil yang berkualitas secara tepat waktu dan sesuai dengan budget </li> 
+                  <li> Berkomunikasi secara professional baik dengan klien maupun dengan tim proyek dan management selama jalannya proyek.</li>
                 </ul>
               </div>
               <div class="career-requirement">
-                <h3 class="section-title">Must Skill/Experience</h3>
+                <h3 class="section-title">REQUIREMENTS / MUST HAVE SKILL</h3>
                 <ul class="career-list">
-                  <li>
-                    Memiliki pengalaman yang sangat baik dan up to date terhadap pengaplikasian teknologi terbaru dalam
-                    bidang pembuatan website, sistem web, dan aplikasi mobile.
-                  </li>
-                  <li>
-                    Memiliki kemampuan analisa dan memecahkan masalah yang tinggi.
-                  </li>
-                  <li>
-                    Berorientasi pada pelayanan terhadap client/customer.
-                  </li>
-                  <li>
-                    Memiliki kemampuan interpesonal yang baik.
-                  </li>
-                  <li>
-                    Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik
-                  </li>
-                  <li>
-                    Memiliki kemampuan presentasi yang baik.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan yang luas dengan dunia IT.
-                  </li>
-                  <li>
-                    Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi.
-                  </li>
-                  <li>
-                    Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 2 tahun.
-                  </li>
-                  <li>
-                    Dapat bekerja dalam tim.
-                  </li>
+                  <li>Memiliki pengalaman yang baik dalam melakukan manajemen proyek dan pengaplikasian teknologi terbaru dalam bidang pembuatan website, sistem berbasis web, dan aplikasi mobile.</li>
+                  <li>Memiliki kemampuan analisa dan memecahkan masalah yang tinggi. </li>
+                  <li>Berorientasi pada pelayanan terhadap client/customer. </li>
+                  <li>Memiliki kemampuan interpersonal yang baik. </li>
+                  <li>Memiliki keahlian berkomunikasi verbal dan nonverbal yang sangat baik </li>
+                  <li>Memiliki kemampuan presentasi yang baik.  </li>
+                  <li>Memiliki pengetahuan yang luas dengan dunia IT.  </li>
+                  <li>Berpendidikan minimal S1 di bidang Teknik Informatika atau Sistem Informasi. </li>
+                  <li>Memiliki pengalaman sebagai IT Consultant atau Project Manager minimal 3 tahun.  </li>
+                  <li>Dapat bekerja dalam tim.  </li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+            <div class="career-requirement">
+              <h3 class="section-title">Special Requirement</h3>
+                <p>LOGIQUE membuka lowongan khusus untuk Consultant / Project Manager yang memiliki tingkat pengalaman yang baik dalam pengembangan website / sistem berbasis web / aplikasi mobile dalam industri otomotif. Mari bergabung bersama kami.</p>
+              </div>
               <div class="career-requirement">
                 <h3 class="section-title">Preferable</h3>
                 <ul class="career-list">
@@ -243,12 +185,19 @@
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>Pengalaman dan tantangan menarik dalam berbagai variasi proyek website, aplikasi berbasis web, dan aplikasi mobile.</li>
-                  <li>Kesempatan bertemu dan memperluas jaringan dengan berbagai klien Internasional dan Lokal dari berbagai macam bidang dan industri.</li>
-                  <li>Gaji dan bonus yang sesuai dengan hasil, kontribusi, kemampuan, dan pengalaman Anda.</li>
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia•	Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
               <div class="career-requirement">
+                <h3 style=" line-height: normal; font-size:20px;">Jika anda ingin tahu lebih banyak tentang bagaimana kami mengelola project anda bisa mengunjungi halaman<br><a href="/layanan/project-management.php" style=" text-decoration: underline;line-height: 1.5;">"Sukses dengan PROJECT MANAGEMENT PROFESSIONAL"</a></h3>
+              </div>
+              <!-- <div class="career-requirement">
                 <h3 class="section-title">Cara Bekerja Consultant / Product Manager Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <div class="work-schedule">
                   <div class="work-schedule__item">
@@ -276,7 +225,7 @@
                     <div class="work-schedule__text">Membuat laporan harian internal, project costing, dan laporan tertulis terkait pekerjaan proyek untuk klien.</div>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>

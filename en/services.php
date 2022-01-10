@@ -6,95 +6,41 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE Digital Indonesia is a company highly experienced in website creation, design and development; further specializing in web vulnerability assessment, digital marketing and the advancement of mobile app technology. We serve a single and comprehensive package deal of solutions for all your business problems. See all of our services here.">
+        content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
     <meta name="keywords"
-        content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
+        content="logique services, IT services jakarta, IT development, IT development services jakarta, web creation jakarta">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Website Creation, Mobile App, Web Vulnerabilty Assessment | LOGIQUE DIGITAL INDONESIA">
+    <meta property="og:title" content="Jakarta Based Web Creation & IT Services | LOGIQUE ">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services.php">
     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
     <meta property="og:description"
-        content="LOGIQUE Digital Indonesia is a company highly experienced in website creation, design and development; further specializing in web vulnerability assessment, digital marketing and the advancement of mobile app technology. We serve a single and comprehensive package deal of solutions for all your business problems. See all of our services here.">
+        content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Website Creation, Mobile App, Web Vulnerabilty Assessment | LOGIQUE DIGITAL INDONESIA</title>
-
+    <title>Jakarta Based Web Creation & IT Services | LOGIQUE </title>
+    
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../css/style.css" rel="stylesheet">
+    <!-- <link href="../css/style.css" rel="stylesheet">   -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-services.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 </head>
 
 <body>
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            About Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portfolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="services.php">
-                            <div class="img-services"></div>
-                            Services
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="product.php">
-                            <div class="img-product"></div>
-                            Product
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Career
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="contact.php">
-                            <div class="img-contact"></div>
-                            Contact Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -104,27 +50,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li class="active"><a href="">EN</a></li>
-                                    <li><a href="../layanan.php">ID</a></li>
-                                    <li><a href="../jp/services.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/layanan.php';
+            $jp_link = '/jp/services.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
 
@@ -168,6 +100,9 @@
                             <a href="portfolio.php">
                                 <div class="main-btn --black">See Portfolio</div>
                             </a>
+                            <a href="/en/services/project-management.php">
+                                <div class="main-btn --yellow">Our Project Management</div>
+                            </a>
                             <a href="contact.php"
                                 onclick="ga('send', 'event', 'Button-Hubungi-Logique-Layanan-1', 'Action-Click', 'Button-Hubungi-Logique-Layanan-1-Label');">
                                 <div class="main-btn --yellow">Contact Us</div>
@@ -176,6 +111,23 @@
                     </div>
                 </div>
             </section>
+
+        <section class="bg--white">
+            <div class="container__">
+                <a href="/en/services/dx-dm-service.php">
+                    <picture>
+                        <!-- webp -->
+                        <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.webp" type="image/webp">
+                        <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.webp" type="webp">
+
+                        <!-- jpeg -->
+                        <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.jpg" type="image/jpeg">
+                        <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.jpg" type="image/jpeg">
+                        <img srcset="/img/dx-dm-banner-en-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-en.jpg" alt="" class="img-responsive" style="width: 100%;">
+                    </picture>
+                </a>
+            </div>
+        </section>
 
             <section id="serviceNavigation">
                 <div class="container__">
@@ -208,6 +160,53 @@
                                     </ul>
                                 </div>
                             </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#sysDev_">
+                                        <p class="service-list__title">Web System Development / Maintenance</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#sysDev_ecommerce">
+                                            <li>E-Commerce Development</li>
+                                        </a>
+                                        <a href="#sysDev_automotive">
+                                            <li>System Development for Automotive Industry</li>
+                                        </a>
+                                        <a href="#sysDev_cms">
+                                            <li>Custom CMS Development</li>
+                                        </a>
+                                        <a href="#sysDev_crm">
+                                            <li>CRM / Accounting System Development</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <a href="#mobile_">
+                                        <p class="service-list__title">Mobile Solution</p>
+                                    </a>
+                                    <ul class="service-list__list">
+                                        <a href="#mobile_pwa">
+                                            <li>PWA (Progressive Web App) Development</li>
+                                        </a>
+                                        <a href="#mobile_appDev">
+                                            <li>Mobile Application Development</li>
+                                        </a>
+                                        <a href="#mobile_appCreate">
+                                            <li>Mobile / Responsive Web Creation</li>
+                                        </a>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
                             <div class="service-list__item">
                                 <div>
                                     <img src="../img/service/list/digital.png" alt="" class="service-list__img">
@@ -243,53 +242,6 @@
                                     <ul class="service-list__list">
                                         <a href="#webSecurity_va">
                                             <li>Security Assesment (Vulnerability Scanning / Pen-Test)</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-offset-0 col-sm-offset-1 col-md-5 col-sm-10">
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/sisweb.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#sysDev_">
-                                        <p class="service-list__title">Web System Development / Maintenance</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#sysDev_ecommerce">
-                                            <li>E-Commerce Development</li>
-                                        </a>
-                                        <a href="#sysDev_automotive">
-                                            <li>System Development for Automotive Industry</li>
-                                        </a>
-                                        <a href="#sysDev_cms">
-                                            <li>Custom CMS Development</li>
-                                        </a>
-                                        <a href="#sysDev_crm">
-                                            <li>CRM / Accounting System Development</li>
-                                        </a>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service-list__item">
-                                <div>
-                                    <img src="../img/service/list/mobi.png" alt="" class="service-list__img">
-                                </div>
-                                <div class="service-list__content">
-                                    <a href="#mobile_">
-                                        <p class="service-list__title">Mobile Solution</p>
-                                    </a>
-                                    <ul class="service-list__list">
-                                        <a href="#mobile_appCreate">
-                                            <li>Mobile / Responsive Web Creation</li>
-                                        </a>
-                                        <a href="#mobile_appDev">
-                                            <li>Mobile Application Development</li>
-                                        </a>
-                                        <a href="#mobile_pwa">
-                                            <li>PWA (Progressive Web App) Development</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -341,7 +293,7 @@
                                         Develop Mobile App
                                     </div>
                                 </a>
-                                <a href="services/mobile-app-dev.php#solusi-section">
+                                <a href="/en/services/progressive-web-app-dev.php">
                                     <div class="main-btn --ws --white">
                                         <div class="web-solution__half-bg--round"></div>
                                         <img class="web-solution__img" src="../img/service/button/pwa.png" alt="">
@@ -554,6 +506,184 @@
                 </div>
             </section>
 
+            <section class="section-divider" id="sysDev_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center">
+                            <h1 class="title-index --yellow">Web System Development / Maintenance</h1>
+                            <hr class="title__yellow-line--center">
+                        </div>
+                    </div>
+                </div>
+                <div class="container__">
+                    <section id="sysDev_ecommerce">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">E-Commerce Development</h3>
+                                <p>
+                                    We help clients build and run scalable well-designed e-commerce enterprises, which can be
+                                    customized and developed based on state of the art UI / UX trends. Having extensive experience
+                                    in MLM E-commerce development, as well as Flash-sale & Market Places, we can further develop
+                                    your E-commerce endeavors through a novel aproach, such as using PWA. Please consult with us
+                                    in regards to anything related to your E-Commerce needs.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="sysDev_automotive">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">System Development for Automotive Industry</h3>
+                                <p>
+                                    Having developed many systems, delivering them successfully to various entities in the
+                                    Automotive Industry
+                                    (such as car manufacturers, vehicle inspectors, car insurance agencies & auction houses), our
+                                    team is confident
+                                    in their abilities in understanding and working alongside automotive businesses, also being
+                                    able to effectively offer
+                                    consulting services to them. Some of our many works include working in the Second-hand car
+                                    market place, and with Online
+                                    Auction systems and Car Inspection Applications.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="sysDev_cms">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Custom CMS Development / Maintenance</h3>
+                                <p>
+                                    Our CMS development team has years of experience in developing solutions for a broad range of
+                                    companies and organizations. Our CMS development services can be tailored specifically to your
+                                    needs. All of our custom CMS platforms can enable you to edit and create content on your
+                                    website,
+                                    as well as add images and media to it. Not only are our CMS platforms quick and easy to use,
+                                    they’re also SEO friendly and benefit from integrated analytics, thereby allowing you to
+                                    monitor
+                                    and continuously improve your website’s performance.
+                                </p>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="sysDev_member">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Member Management / Contract Management system</h4>
+                                    <p>LOGIQUE serves the creation of a Customer Relationship Management system (CRM) or a large
+                                        scale membership management system, which, in its development process, we apply the
+                                        highest security measures possible, as we have done previously for the membership
+                                        managements systems we have previously created for banks.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <div class="text-center --back-top">
+                        <a href="/en/services/system-dev.php">
+                            <div class="main-btn --black">See more detail about LOGIQUE's system dev service</div>
+                        </a>
+                        <a href="#serviceNavigation">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section-divider" id="mobile_">
+                <div class="bg--black">
+                    <div class="container__">
+                        <div class="text-center">
+                            <h1 class="title-index --yellow">Mobile Solution</h1>
+                            <hr class="title__yellow-line--center">
+                        </div>
+                    </div>
+                </div>
+                <div class="container__">
+                    <section id="mobile_pwa">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">PWA (Progressive Web App) Development</h3>
+                                <p>
+                                    LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
+                                    so
+                                    that it can be accessed just like a mobile application. PWA gives numerous benefits which can
+                                    be
+                                    utilized to filfill customer's expectation, increase interaction and conversion.
+                                </p>
+                                <div class="service-detail__btn-wrapper">
+                                    <a target="_blank" class="main-btn --yellow" href="/en/services/progressive-web-app-dev.php">Learn
+                                        more <span class="hidden-xs">about our PWA (Progressive Web App) Development</span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="mobile_appDev">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Mobile Application Development</h4>
+                                    <p>
+                                        We provide comprehensive Android/iOS application development services adjusted for the
+                                        Indonesian market,
+                                        and can further facilitate the development of mobile applications as well. Further, we
+                                        are not just a
+                                        planning and IT consultancy; we can also optimize UI and UX designs, develop
+                                        applications and even help you
+                                        register your applications onto the App Store/Google Play. Get in touch with our team
+                                        to discuss mobile app
+                                        development (iOS/Android/Hybrid/PWA)
+                                    </p>
+                                    <div class="service-detail__btn-wrapper">
+                                        <a target="_blank" class="main-btn --yellow" href="/en/services/mobile-app-dev.php">Learn
+                                            more <span class="hidden-xs">about our Mobile App Developmnet service</span></a>
+                                    </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section id="mobile_appCreate">
+                        <div class="service-detail">
+                            <div class="service-detail__line-wrapper">
+                                <hr class="title__yellow-line">
+                            </div>
+                            <div class="service-detail__content">
+                                <h3 class="service-detail__title">Mobile Website Creation</h4>
+                                    <p>Responsive coding nowadays is trending, and is an important approach to navigating
+                                        online traffic, since
+                                        most of it stems from Mobile phones. Designed to fit your website directly into the
+                                        format of a smartphone
+                                        or tablet screen, we can develop a responsive website and optimize its UI depending on
+                                        the required device
+                                        screen size. We can also flexibly help you in implementing the use of new
+                                        technologies, such as PWA or AMP.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <div class="text-center --back-top">
+                        <a href="portfolio.php#PWA">
+                            <div class="main-btn --black">Portfolio</div>
+                        </a>
+                        <a href="#serviceNavigation">
+                            <div class="main-btn">Back to Top</div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
             <section class="section-divider" id="dm_">
                 <div class="bg--black">
                     <div class="container__">
@@ -675,180 +805,6 @@
 
                     <div class="text-center --back-top">
                         <a href="portfolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
-                        </a>
-                        <a href="#serviceNavigation">
-                            <div class="main-btn">Back to Top</div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-
-            <section class="section-divider" id="sysDev_">
-                <div class="bg--black">
-                    <div class="container__">
-                        <div class="text-center">
-                            <h1 class="title-index --yellow">Web System Development / Maintenance</h1>
-                            <hr class="title__yellow-line--center">
-                        </div>
-                    </div>
-                </div>
-                <div class="container__">
-                    <section id="sysDev_ecommerce">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">E-Commerce Development</h3>
-                                <p>
-                                    We help clients build and run scalable well-designed e-commerce enterprises, which can be
-                                    customized and developed based on state of the art UI / UX trends. Having extensive experience
-                                    in MLM E-commerce development, as well as Flash-sale & Market Places, we can further develop
-                                    your E-commerce endeavors through a novel aproach, such as using PWA. Please consult with us
-                                    in regards to anything related to your E-Commerce needs.
-                                </p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="sysDev_automotive">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">System Development for Automotive Industry</h3>
-                                <p>
-                                    Having developed many systems, delivering them successfully to various entities in the
-                                    Automotive Industry
-                                    (such as car manufacturers, vehicle inspectors, car insurance agencies & auction houses), our
-                                    team is confident
-                                    in their abilities in understanding and working alongside automotive businesses, also being
-                                    able to effectively offer
-                                    consulting services to them. Some of our many works include working in the Second-hand car
-                                    market place, and with Online
-                                    Auction systems and Car Inspection Applications.
-                                </p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="sysDev_cms">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Custom CMS Development / Maintenance</h3>
-                                <p>
-                                    Our CMS development team has years of experience in developing solutions for a broad range of
-                                    companies and organizations. Our CMS development services can be tailored specifically to your
-                                    needs. All of our custom CMS platforms can enable you to edit and create content on your
-                                    website,
-                                    as well as add images and media to it. Not only are our CMS platforms quick and easy to use,
-                                    they’re also SEO friendly and benefit from integrated analytics, thereby allowing you to
-                                    monitor
-                                    and continuously improve your website’s performance.
-                                </p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="sysDev_member">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Member Management / Contract Management system</h4>
-                                    <p>LOGIQUE serves the creation of a Customer Relationship Management system (CRM) or a large
-                                        scale membership management system, which, in its development process, we apply the
-                                        highest security measures possible, as we have done previously for the membership
-                                        managements systems we have previously created for banks.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <div class="text-center --back-top">
-                        <a href="/en/services/system-dev.php">
-                            <div class="main-btn --black">See more detail about LOGIQUE's system dev service</div>
-                        </a>
-                        <a href="#serviceNavigation">
-                            <div class="main-btn">Back to Top</div>
-                        </a>
-                    </div>
-                </div>
-            </section>
-
-            <section class="section-divider" id="mobile_">
-                <div class="bg--black">
-                    <div class="container__">
-                        <div class="text-center">
-                            <h1 class="title-index --yellow">Mobile Solution</h1>
-                            <hr class="title__yellow-line--center">
-                        </div>
-                    </div>
-                </div>
-                <div class="container__">
-                    <section id="mobile_appCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Mobile Website Creation</h4>
-                                    <p>Responsive coding nowadays is trending, and is an important approach to navigating
-                                        online traffic, since
-                                        most of it stems from Mobile phones. Designed to fit your website directly into the
-                                        format of a smartphone
-                                        or tablet screen, we can develop a responsive website and optimize its UI depending on
-                                        the required device
-                                        screen size. We can also flexibly help you in implementing the use of new
-                                        technologies, such as PWA or AMP.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="mobile_appDev">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Mobile Application Development</h4>
-                                    <p>
-                                        We provide comprehensive Android/iOS application development services adjusted for the
-                                        Indonesian market,
-                                        and can further facilitate the development of mobile applications as well. Further, we
-                                        are not just a
-                                        planning and IT consultancy; we can also optimize UI and UX designs, develop
-                                        applications and even help you
-                                        register your applications onto the App Store/Google Play. Get in touch with our team
-                                        to discuss mobile app
-                                        development (iOS/Android/Hybrid/PWA)
-                                    </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a target="_blank" class="main-btn --yellow" href="/en/services/mobile-app-dev.php">Learn
-                                            more <span class="hidden-xs">about our Mobile App Developmnet service</span></a>
-                                    </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="mobile_pwa">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">PWA (Progressive Web App) Development</h3>
-                                <p>
-                                    LOGIQUE provides Progressive Web App (PWA) development services to add value to your website,
-                                    so
-                                    that it can be accessed just like a mobile application. PWA gives numerous benefits which can
-                                    be
-                                    utilized to filfill customer's expectation, increase interaction and conversion.
-                                </p>
-                            </div>
-                        </div>
-                    </section>
-                    <div class="text-center --back-top">
-                        <a href="portfolio.php#PWA">
                             <div class="main-btn --black">Portfolio</div>
                         </a>
                         <a href="#serviceNavigation">

@@ -6,94 +6,68 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+        content="Portofolio jasa pembuatan & pengembangan website, aplikasi web, progressive web app (PWA), aplikasi android & iOS (mobile apps) serta penetration test (pentest) | LOGIQUE">
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE">
+    <meta property="og:title" content="Portofolio Jasa Pembuatan Website, Aplikasi Web & Mobile">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE telah membantu banyak klien Jepang, Internasional, maupun Lokal dalam pembuatan website, aplikasi berbasis web, mobile app, dan penetration test sebagai solusi atau transformasi digital. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+        content="Portofolio jasa pembuatan & pengembangan website, aplikasi web, progressive web app (PWA), aplikasi android & iOS (mobile apps) serta penetration test (pentest) | LOGIQUE">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <title>Portofolio Pembuatan Website, Aplikasi Berbasis Web, dan Mobile App | LOGIQUE</title>
+    <link rel="canonical" href="https://www.logique.co.id/portofolio.php">
+    <title>Portofolio Jasa Pembuatan Website, Aplikasi Web & Mobile</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet"> 
+    
+    <!-- <link href="css/style.css" rel="stylesheet"> -->       
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="css/portfolio.css" rel="stylesheet">
 
-    <link href="css/style.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
-    <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo "<!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+            <!-- End Google Tag Manager -->";
+        }
+
+    ?>
+
+ 
 </head>
 
 <body style="overflow-x: hidden">
+
+    <?php 
+        if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+            echo '<!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->';
+        }
+    ?>
+
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Beranda
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            Tentang Kami
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="#">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="layanan.php">
-                            <div class="img-services"></div>
-                            Layanan
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="produk.php">
-                            <div class="img-product"></div>
-                            Produk
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Karir
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="hubungi-kami.php">
-                            <div class="img-contact"></div>
-                            Hubungi Kami
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'portfolio';
+            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+        ?>
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -103,46 +77,14 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="img/logo.png" alt="Jasa Pembuatan Website Logique Digital Indonesia" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="en/portfolio.php">EN</a></li>
-                                    <li class="active"><a href="#">ID</a></li>
-                                    <li><a href="jp/portfolio.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <style>
-        html {
-            scroll-behavior: smooth;
-        }
-
-        .addition-desc {
-            font-size: 12px
-        }
-
-        .grey-clr {
-            color: grey
-        }
-
-        .circle-list>li {
-            padding-bottom: 7px
-        }
-
-        .modal-backdrop {
-            display: none !important
-        }
-        </style>
+        <?php 
+            $lang = 'id';
+            $en_link = '/en/portfolio.php';
+            $id_link = '#';
+            $jp_link = '/jp/portfolio.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+        ?>
+ 
 
         <div class="portfolio-update content-wrapper__">
 
@@ -166,7 +108,7 @@
                 </div>
                 <div class="container__">
                     <div class="text-center">
-                        <div class="title"><h1>Our Portfolio</h1></div>
+                        <div class="title"><h1>Portofolio Kami</h1></div>
                         <p class="title__description"><strong>LOGIQUE</strong> telah mengembangkan banyak Website, Aplikasi Berbasis Web dan Mobile App, serta memberikan dukungan terkait Penetration Test untuk klien dari berbagai industri seperti Asuransi, E-Commerce, dan Otomotif. Berikut adalah beberapa portofolio hasil pengembangan Website, Aplikasi Berbasis Web, Mobile App / PWA, dan Digital Marketing kami.</p>
                     </div>
                 </div>
@@ -177,32 +119,168 @@
                     <div class="client-list__wrapper">
                         <h2 class="portfolio-sec__title">Klien Kami</h2>
                         <div class="client-list">
-                            <img class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
-                            <img class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="asean">
-                            <img class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
-                            <img class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="jjc">
-                            <img class="client-list__img" src="/img/portfolio/client-list/tripatra.png" alt="tripatra">
-                            <img class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
-                            <img class="client-list__img" src="/img/portfolio/client-list/panpacific.png" alt="panpacific">
-                            <img class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="panin">
-                            <img class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
-                            <img class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya">
-                            <img class="client-list__img" src="/img/portfolio/client-list/mpm.png" alt="mpm">
-                            <img class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
-                            <img class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="pertamina">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="sinarmas">
-                            <img class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
-                            <img class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
+                            <!-- square logo -->
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/assa.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/assa.png" alt="assa">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/asean.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/asean.png" alt="asean">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/toyota.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/toyota.png" alt="toyota">
+                            </picture>
+                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/jjc.png" alt="jjc">
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/tripatra.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/tripatra.png" alt="tripatra">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/tolaram.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/tolaram.png" alt="tolaram">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/nissin.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/nissin.png" alt="nissin">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/ykkap.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/ykkap.png" alt="ykkap">
+                            </picture>
+
+                            <!-- rectangle logo -->
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/panpacific.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/panpacific.png" alt="panpacific">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/panin.png" alt="panin">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/mitsubishi.png" alt="mitsubishi">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/pasaraya.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pasaraya.png" alt="pasaraya">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/mpm.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/mpm.png" alt="mpm">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/aia.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/aia.png" alt="aia">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/pertamina.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pertamina.png" alt="pertamina">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sinarmas.png" alt="sinarmas">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/triputra.png" alt="triputra">
+                            </picture>
+                            <picture>
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sumitomo.png" alt="sumitomo">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/j-trust.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/j-trust.png" alt="j-trust">
+                            </picture>
                             <picture>
                                 <source srcset="/img/portfolio/client-list/gakken.svg">
                                 <img class="client-list__img" src="/img/portfolio/client-list/gakken.png" alt="gakken">
                             </picture>
-                            <img class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
-                            <img class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
-                            <img class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
-                            <img class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
+                            <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/pegadaian.png" alt="pegadaian">
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/sunlife.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sunlife.png" alt="sunlife">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/jba.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/jba.png" alt="jba">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/hino.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/hino.png" alt="hino">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/sumitomo-heavy.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/sumitomo-heavy.png" alt="sumitomo heavy">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/buma.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/buma.png" alt="buma">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/k-line.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/k-line.png" alt="k-line">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/benese.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/benese.png" alt="benese">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/midaz.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/midaz.png" alt="midaz">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/btpn.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/btpn.png" alt="btpn">
+                            </picture>
+                            <picture>
+                                <source srcset="/img/portfolio/client-list/webp/yamaha.webp" type="image/webp">
+                                <img loading="lazy" class="client-list__img" src="/img/portfolio/client-list/yamaha.png" alt="yamaha">
+                            </picture>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="portfolio-update__cards">
+                <div class="container__">
+                    <div class="flex__row">
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-interview">
+                                <h3>Interview</h3>
+                                <picture>
+                                    <source srcset="/img/portfolio/portfolio-interview.webp">
+                                    <img src="/img/portfolio/portfolio-interview.jpg" class="img-responsive img-card"/>
+                                </picture>
+                                <p class="card-category-text">INTERVIEW</p>
+                                <p class="card-content-text">Interview (JBA): Standardisasi dan DX dalam industri lelang mobil.</p>
+                                <a href="https://www.logique.co.id/blog/2020/11/13/interview-jba-standardisasi-dan-dx-dalam-industri-lelang-mobil/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-case-study">
+                                <h3>Studi Kasus</h3>
+                                <img src="/img/portfolio/update/sys-jba.png" class="img-responsive img-card" style="object-fit:contain; width: auto;"/>
+                                <p class="card-category-text">STUDI KASUS</p>
+                                <p class="card-content-text">JBA Indonesia - Online Auction System</p>
+                                <a href="/case-study/jba-auction-system/" target="_blank" rel="noreferrer"><img class="img-arrow-icon" src="/img/icon-arrow-right.png" width="20"/></a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-lg-4 mb-20px">
+                            <div class="card card-others">
+                                <h3>Lainnya</h3>
+                                <div class="content-list">
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">INTERVIEW</p>
+                                        <p class="card-content-text">Pesan dari Yoshi, Presiden Direktur LOGIQUE</p>
+                                        <a href="https://www.logique.co.id/blog/category/interview/" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                    </div>
+                                    <div class="content-list-item">
+                                        <p class="card-category-text">STUDI KASUS</p>
+                                        <p class="card-content-text">LOGIQUE Kelola Internet Marketing dan SEO Website Opus Park</p>
+                                        <a href="/case-study" class="btn-see-more" target="_blank" rel="noreferrer">See More</a>
+                                    </div>
+                                </div>
+
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -226,7 +304,7 @@
                         <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_aia" rel="noreferrer">
-                                    <img src="/img/portfolio/update/web-aia-premiere.png" class="img-responsive" alt="AIA Premier Academy">
+                                    <img src="/img/portfolio/update/web-aia-premiere.jpg" class="img-responsive" alt="AIA Premier Academy" loading="lazy" >
                                     <h3>AIA Premier Academy</h3>
                                     <ul class="list-unstyled">
                                         <li>Pembuatan Halaman Campaign (Design | Coding | Hosting)</li>
@@ -236,7 +314,7 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_panin" rel="noreferrer">
-                                    <img src="/img/portfolio/update/panin.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/panin.jpg" class="img-responsive" alt="" loading="lazy" >
                                     <h3>Panin Life Dai-ichi</h3>
                                     <ul class="list-unstyled">
                                         <li>Pengembangan E-Commerce (Design | Coding | CMS | Payment)</li>
@@ -246,8 +324,8 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="#" data-toggle="modal" data-target="#modal_jba" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jba.png" class="img-responsive" alt="">
-                                    <h3>JBA INDONESIA</h3>
+                                    <img src="/img/portfolio/update/jba.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    <h3>JBA Indonesia</h3>
                                     <ul class="list-unstyled">
                                         <li>Pengoperasian & Pengembangan WEB (Design | Sistem | CMS | Operation | AWS)</li>
                                         <li>Lelang online, WEB-Perusahaan, DB-WEB, Keamanan WEB, Otomotif, Finansial</li>
@@ -256,34 +334,40 @@
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://www.jtrustbank.co.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/j-trust.png" class="img-responsive" alt="">
-                                    <h3>JTrust Bank (Re-design)</h3>
+                                    <img src="/img/portfolio/update/j-trust.jpg" class="img-responsive" alt="" loading="lazy" >
+                                    <h3>JTrust Bank</h3>
                                     <ul class="list-unstyled">
-                                        <li>WEB Re-Design (Design | Coding | Integrasi CMS)</li>
-                                        <li>Optimasi Mobile, Multi-Bahasa, CMS, Bank</li>
+                                        <li>Desain Ulang Web / Growth Hack (Design | Coding | Maintenance)</li>
+                                        <li>Optimasi Seluler, Multi-bahasa, CMS, Bank</li>
                                     </ul>
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a class="content__item" href="https://kiic.co.id/" target="_blank" rel="noreferrer">
+                                    <div class="content__item">
+                                        <picture>
+                                            <source srcset="/img/portfolio/kiic.webp" type="image/webp">
+                                            <img src="/img/portfolio/kiic.jpg" class="img-responsive" alt="" loading="lazy" >
+                                        </picture>
+                                        <h3>KIIC</h3>   
+                                        <ul class="list-unstyled">
+                                            <li>Pengambangan Ulang Web (Design | Coding | Maintenance | SEO)</li>
+                                            <li>Web BtoB, Multi-bahasa, CMS, Taman Industri</li>
+                                         </ul>
+                                    </div>
                                 </a>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
                                 <a class="content__item" href="https://mobirent.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/mobirent.png" class="img-responsive" alt="">
+                                    <img src="/img/portfolio/update/mobirent.jpg" class="img-responsive" alt="" loading="lazy" >
                                     <h3>Mobirent</h3>
                                     <ul class="list-unstyled">
-                                        <li>Web Design (Design | Coding | Deployment)</li>
-                                        <li>Website Perusahaan, Optimasi Mobile, Otomotif, Rental Mobil</li>
+                                        <li>Pengembangan Web (Design | Coding)</li>
+                                        <li>Web Perusahaan, Web Layanan, Otomotif, Penyewaan Mobil</li>
                                     </ul>
                                 </a>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <a class="content__item" href="http://www.jnto.or.id/" target="_blank" rel="noreferrer">
-                                    <img src="/img/portfolio/update/jnto.png" class="img-responsive" alt="">
-                                    <h3>JNTO Indonesia</h3>
-                                    <ul class="list-unstyled">
-                                        <li>Pembaharuan & Pengoperasian WEB (Design | Coding | Operation)</li>
-                                        <li>Optimasi Mobile, Keamanan WEB, Publik, Perjalanan, Travel</li>
-                                    </ul>
-                                </a>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="text-center">
@@ -293,55 +377,61 @@
             </section>
 
             <section id="portfolio_mobile" class="portfolio-update__content">
-                <div class="container">
+                <div class="container__">
                     <h2 class="text-center">Mobile App / PWA</h2>
                     <div class="content__wrapper">
                         <div class="row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/jba-bike-mobile-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/jba-bike-mobile.png" alt="">
+                                        <img src="/img/portfolio/update/jba-bike-mobile.png" alt="" loading="lazy" >
                                         <h3>JBA Bike Inspection App</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-hino-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-hino.png" alt="">
-                                        <h3>Weeo Hino Connect</h3>
+                                        <img src="/img/portfolio/update/mobile-hino.png" alt="" loading="lazy" >
+                                        <h3>Weeo Gazelle App</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-wantjp-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-wantjp-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-wantjp.png" alt="Want.jp">
+                                        <img src="/img/portfolio/update/mobile-wantjp.png" alt="Want.jp" loading="lazy" >
                                         <h3>Want.jp</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-nlec-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-midaz-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-nlec.png" alt="NLEC Nihongo E-Learning PWA">
-                                        <h3>NLEC Nihongo E-Learning PWA</h3>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-midaz.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-midaz.png" alt="Midazpay">
+                                        </picture>
+                                        <h3>Midazpay</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-jba-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-jba.png" alt="">
+                                        <img src="/img/portfolio/update/mobile-jba.png" alt="" loading="lazy" >
                                         <h3>JBA Indonesia Auction Bidding App</h3>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-otomart-bg.png')">
+                                <div class="content__item content__item--mobile" style="background-image: url('/img/portfolio/update/mobile-marubeni-bg.jpg')">
                                     <div>
-                                        <img src="/img/portfolio/update/mobile-otomart.png" alt="">
-                                        <h3>Otomart - Used Car on Sale Finder App</h3>
+                                        <picture>
+                                            <source srcset="/img/portfolio/update/mobile-marubeni.webp" type="image/webp">
+                                            <img src="/img/portfolio/update/mobile-marubeni.png" alt="Marubeni">
+                                        </picture>
+                                        <h3>Marubeni - UCO Collection Mobile App</h3>
                                     </div>
                                 </div>
                             </div>
@@ -354,7 +444,7 @@
             </section>
 
             <section id="portfolio_sys" class="portfolio-update__content">
-                <div class="container">
+                <div class="container__">
                     <h2 class="text-center">Aplikasi Berbasis Web</h2>
                     <div class="content__wrapper">
                         <div class="flex__row">
@@ -367,20 +457,20 @@
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-assa.png" alt="">
+                                    <img src="/img/portfolio/update/sys-assa.png" alt="" loading="lazy" >
                                 </div>
                                 <h3>Assa <br>System Development</h3>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-zuttoride.png" alt="">
+                                    <img src="/img/portfolio/update/sys-zuttoride.png" alt="" loading="lazy" >
                                 </div>
                                 <h3>ZuttoRide Indonesia; CRM DevOps</h3>
                                 <p>Pengembangan sistem manajemen pelanggan ( WEB-CRM ) untuk perusahaan layanan sepeda motor di Indonesia.</p>
                             </div>
                             <div class="col-md-3 col-sm-6 col-xs-12 content__item content__item--sys">
                                 <div class="item__img">
-                                    <img src="/img/portfolio/update/sys-sinarmas.png" alt="">
+                                    <img src="/img/portfolio/update/sys-sinarmas.png" alt="" loading="lazy" >
                                 </div>
                                 <h3>Sinar Mas Land; HRS Development</h3>
                                 <p>Pengembangan Sistem Rekrutmen dan Tes Psikologi Online.</p>
@@ -399,24 +489,24 @@
                     <div class="content__wrapper">
                         <div class="flex__row">
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
-                                    <img src="/img/portfolio/update/dm-bamboo.png" alt="">
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.jpg')">
+                                    <img src="/img/portfolio/client-list/kbj-white.svg" alt="" loading="lazy" >
                                     <h4>Real Estate - Bamboo</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB& IG Ads</p>
                                 </div>
                             </div>
                             <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
-                                    <img src="/img/portfolio/update/dm-mirai.png" alt="">
-                                    <h4>Real Estate - Hajime</h4>
+                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-ykkap-bg.jpg')">
+                                    <img src="/img/portfolio/update/dm-ykkap.png" alt="" loading="lazy" >
+                                    <h4>Aluminium Window - YKKAP</h4>
                                     <p>SEO | Website Maintenance | Google Ads | FB&IG Ads</p>
                                 </div>
                             </div>
                             <div class="col-md-offset-0 col-sm-offset-3 col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
-                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="">
-                                    <h4>E Commerce - Pilipili</h4>
-                                    <p>SEO | Website Maintenance</p>
+                            <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-healthy-belly-bg.jpg')">
+                                    <img src="/img/portfolio/update/dm-healthy-belly.png" alt="">
+                                    <h4>Recipe Web - The Healthy Belly</h4>
+                                    <p>SEO | Website Maintenance | FB&IG Ads</p>
                                 </div>
                             </div>
                         </div>
@@ -428,6 +518,21 @@
             </section>
 
             <div class="container__">
+                <div class="study-case-banner" style="cursor: pointer;" onclick="window.location='/case-study'">
+                    <div class="row">
+                        <div class="col-sm-offset-3 col-sm-8 col-md-9 banner-content">
+                            <div class="banner-text-wrapper">
+                                <h3 class="">We help you go further</h3>
+                                <div class="banner-text">Membantu kebutuhan perusahaan dan menjadikan bisnis</div>
+                                <div class="banner-text">Anda semakin terdepan adalah tugas kami</div>
+                                <div class="banner-text">Mari maju bersama LOGIQUE</div>
+                            </div>
+                            <div class="banner-btn-wrapper">
+                                <a href="/case-study" class="btn">Lihat Case Study</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <div class="text-center our-portfolio">
                     <p class="title__description" style="margin-bottom: 15px; margin-top: 25px;">Anda tertarik terhadap layanan kami dan memiliki kebutuhan pembuatan website, aplikasi berbasis web, mobile app, penetration test, atau digital marketing?</p>
                     <a href="hubungi-kami.php" class="btn btn-contact-us-black"
@@ -513,40 +618,19 @@
                                         </div>
                                         <div class="content-desc">
                                             <p>Pengarah Proyek (PM)</p>
-                                            <p>
-                                            Desainer Kreatif
-                                            </p>
-                                            <p>
-                                            Implementasi HTML dan Animasi
-                                            </p>
-                                            <p>
-                                            Fungsional
-                                            </p>
-                                            <p>
-                                            Testing
-                                            </p>
-                                            <p>
-                                            Infrastruktur
-                                            </p>
-                                                
+                                            <p> Desainer Kreatif </p>
+                                            <p> Implementasi HTML dan Animasi </p>
+                                            <p> Fungsional  </p>
+                                            <p>  Testing </p>
+                                            <p> Infrastruktur </p>        
                                         </div>
                                         <div class="content-desc">
                                             <p>Nico</p>
-                                            <p>
-                                            Adit/Angel
-                                            </p>
-                                            <p>
-                                            Fahmi, Bagas
-                                            </p>
-                                            <p>
-                                            Andre
-                                            </p>
-                                            <p>
-                                            Angga
-                                            </p>
-                                            <p>
-                                            Wisya
-                                            </p>
+                                            <p>  Adit/Angel </p>
+                                            <p> Fahmi, Bagas  </p>
+                                            <p>  Andre </p>
+                                            <p> Angga </p>
+                                            <p>  Wisya </p>
                                         </div>
                                     </div>
                                 </div>
@@ -776,54 +860,6 @@
         $('.same-height').matchHeight();
         $('.col-md-4.col-xs-6').matchHeight();
 
-        $('.slider-other-client-container').slick({
-            dots: false,
-            infinite: true,
-            speed: 300,
-
-            slidesToShow: 4,
-            slidesToScroll: 1,
-            responsive: [{
-                    breakpoint: 1024,
-                    settings: {
-                        slidesToShow: 3,
-                        slidesToScroll: 1,
-                        infinite: true,
-                        // dots: true
-                    }
-                },
-                {
-                    breakpoint: 600,
-                    settings: {
-                        slidesToShow: 2,
-                        slidesToScroll: 1,
-                        adaptiveHeight: true
-                    }
-                },
-                {
-                    breakpoint: 480,
-                    settings: {
-                        slidesToShow: 1,
-                        slidesToScroll: 1,
-                        adaptiveHeight: true
-                    }
-                }
-            ]
-        });
-        $('.mobile-app-container').slick({
-            dots: true,
-            infinite: false,
-            speed: 300,
-            arrows: false,
-            arrows: false,
-            arrows: false,
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            speed: 300,
-            slidesToShow: 1,
-            slidesToScroll: 1,
-
-        });
         $('#PWA .btn-more-portfolio').on('click', function() {
             $('.mobile-app-container').resize();
         });

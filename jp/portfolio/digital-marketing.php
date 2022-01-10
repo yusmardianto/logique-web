@@ -5,26 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEの制作実績を紹介します。LOGIQUEは、ジャカルタのウェブ制作会社です。ジャカルタを中心としたインドネシア国内で、数多くのWEBサイト(ホームページ)制作/システム構築、パンフレット、カタログ等印刷物のデザインまで制作を行ってまいりました。">
+        content="PT. LOGIQUEデジタルIndonesiaはインドネシアでのデジタルマーケティング実施をご支援する会社です。ランディングページの制作、コンテンツ制作代行、OwnedメディアのSEO対策、ネット広告の運用、SNS運用などを自動車、公共団体、E-Commerce、金融、不動産業界に多く行っています。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, デザイン, 印刷, コーポレートサイト, ランディングページ">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア">
+    <meta property="og:title" content="デジタルマーケティング実績 | LOGIQUE Digital Indonesia">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUEの制作実績を紹介します。ホームページ制作、Webシステム開発、モバイルアプリ開発、SNS運用やSEO、インターネット広告などデジタルマーケティング実施の実績紹介です。LOGIQUEはジャカルタのウェブ制作会社です。インドネシアでの制作開発プロジェクトのケーススタディーも幾つか紹介します。">
+        content="PT. LOGIQUEデジタルIndonesiaはインドネシアでのデジタルマーケティング実施をご支援する会社です。ランディングページの制作、コンテンツ制作代行、OwnedメディアのSEO対策、ネット広告の運用、SNS運用などを自動車、公共団体、E-Commerce、金融、不動産業界に多く行っています。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <title>インドネシアのWebデザイン制作会社LOGIQUEの制作実績 | LOGIQUEデジタルインドネシア</title>
+    <link rel="canonical" href="https://www.logique.co.id/jp/portfolio/digital-marketing.php"/>
+    <title>デジタルマーケティング実績 | LOGIQUE Digital Indonesia</title>
 
     <!-- Bootstrap -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet"> 
+    
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->
+    <link href="/css/sidebar-update.css" rel="stylesheet"> 
+    <link href="/css/newstyle.css" rel="stylesheet">
+    <link href="/css/style-revamp.css" rel="stylesheet">
+    <link href="/css/style-portfolio.css" rel="stylesheet">
 
-    <link href="/css/style.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet"> -->
     <link href="/css/jpstyle.css" rel="stylesheet">
 </head>
 
@@ -32,68 +38,11 @@
     <div class="wrapper wrapper--update-design wrapper--update-design-font --jp">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle" data-toggle="collapse"
-            data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="/jp/">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/logique.php">
-                            <div class="img-about"></div>
-                            会社概要
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="/jp/portfolio.php">
-                            <div class="img-portfolio"></div>
-                            制作実績
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/services.php">
-                            <div class="img-services"></div>
-                            サービス
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/product.php">
-                            <div class="img-product"></div>
-                            プロダクト
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            採用/<br>パートナー
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/jp/contact.php">
-                            <div class="img-contact"></div>
-                            お問い合わせ
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'portfolio';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -103,24 +52,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="/img/logo.png" alt="Logo" class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="/en/portfolio/digital-marketing.php">EN</a></li>
-                                    <li><a href="/portofolio/digital-marketing.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing.php';
+            $id_link = '/portofolio/digital-marketing.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <style>
         html {
@@ -184,7 +122,7 @@
                     <h2 class="text-center">インドネシアでのデジタルマーケティング事例</h2>
                     <div class="content__wrapper">
                         <div class="flex__row">
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-bamboo-bg.png')">
                                     <img src="/img/portfolio/update/dm-bamboo.png" alt="">
                                     <h4>不動産開発販売 – Green Bamboo Terrace</h4>
@@ -237,7 +175,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="col-md-6 col-sm-6 col-xs-12">
                                 <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-mirai-bg.png')">
                                     <img src="/img/portfolio/update/dm-mirai.png" alt="">
                                     <h4>不動産開発販売 – 一建設インドネシア</h4>
@@ -290,59 +228,113 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 col-sm-6 col-xs-12">
-                                <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/dm-pilipili-bg.png')">
-                                    <img src="/img/portfolio/update/dm-pilipili.png" alt="" style="flex-grow: 1; object-position: top;">
-                                    <h4>E Commerce - Pilipili</h4>
-                                    <p>SEO対策 | Web最適化</p>
-                                </div>
-                                <div class="content__detail" style="background-color: #DDF0FF;">
-                                    <div class="detail__description">
-                                    バッグなどを販売するアパレルECのPilipili にてオーガニックトラフィックを増やすことを目的としてご支援しました。２ヶ月目から目に見えた成果が出ました。オーガニックトラフィックを増やした後は、直帰率の低下、滞在時間の長期化、回遊率アップ、コンバージョンRateの向上など、設定した各課題に対して、全て成果を出すことに成功しました。
+                           
+                            <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/ishida-dm-portfolio.jpg')">
+                                        <img src="/img/portfolio/update/dm-ishida-logo.png" alt="">
+                                        <h4>Company Profile - Ishida</h4>
+                                        <p>SEO | Website Maintenance</p>
                                     </div>
-                                    <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
-                                        <h4>Goals</h4>
-                                        <p>Increase website traffic with organic channels</p>
-                                    </div>
-                                    <div class="detail__achievement" style="color: #15588c;">
-                                        <h4>Achievements</h4>
-                                        <div class="row">
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +8.4%
+                                    <div class="content__detail" style="background-color: #DDF0FF;">
+                                        <div class="detail__description">
+                                        Ishida adalah produsen mesin timbang, packing, dan mesin inspeksi (checkweigher, metal detector, x-ray) yang memiliki pengalaman lebih dari 125 tahun secara global di berbagai industri seperti snacks, daging, buah segar, ready meal, seafood, dan banyak industri lainnya.
+                                        </div>
+                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
+                                            <h4>Goals</h4>
+                                            <p>Meningkatkan Leads – Dengan Google ADs</p>
+                                        </div>
+                                        <div class="detail__achievement" style="color: #15588c;">
+                                            <h4>Achievements</h4>
+                                            <div class="row">
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +67% 
+                                                        </div>
+                                                        <p>Konversi Leads</p>
                                                     </div>
-                                                    <p>Number of Sessions</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    -7.01%
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -23,7%
+                                                        </div>
+                                                        <p>Penurunan Cost Per Leads</p>
                                                     </div>
-                                                    <p>Number of Pageviews</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +2.7x
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +31,9%
+                                                        </div>
+                                                        <p>Conversions Rate</p>
                                                     </div>
-                                                    <p>Visitors Stay Longer</p>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6 col-xs-12">
-                                                <div class="achievement">
-                                                    <div class="achievement__number">
-                                                    +1.9x
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +28,6%
+                                                        </div>
+                                                        <p>ROAS (Return On Ad Spend)</p>
                                                     </div>
-                                                    <p>Percentage of Bounce Rate</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="content__item content__item--dm" style="background-image: url('/img/portfolio/update/tsubame-dm-portfolio.jpg')">
+                                        <img src="/img/portfolio/update/dm-tsubame-logo.png" alt="">
+                                        <h4>Education - Tsubame</h4>
+                                        <p>SEO | Website Maintenance</p>
+                                    </div>
+                                    <div class="content__detail" style="background-color: #DDF0FF;">
+                                        <div class="detail__description">
+                                        Tsubame merupakan situs web Lembaga Pelatihan Kerja (LPK) magang ke Jepang yang bertugas untuk mengirimkan siswa/i asal Indonesia yang ingin magang kerja ke Jepang. Logique telah berhasil memberikan dampak perkembangan yang positif bagi perkembangan LPK Tsubame.
+                                        </div>
+                                        <div class="detail__goal" style="background-color: #AEDBFF; color: #15588c;">
+                                            <h4>Goals</h4>
+                                            <p>Meningkatkan Traffic website melalui channel organic</p>
+                                        </div>
+                                        <div class="detail__achievement" style="color: #15588c;">
+                                            <h4>Achievements</h4>
+                                            <div class="row">
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +105,83%
+                                                        </div>
+                                                        <p>Jumlah Sessions</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        +90,77%
+                                                        </div>
+                                                        <p>Jumlah Pageviews</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -21,91%
+                                                        </div>
+                                                        <p>Pengunjung berada lebih lama</p>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6 col-xs-12">
+                                                    <div class="achievement">
+                                                        <div class="achievement__number">
+                                                        -4,92%
+                                                        </div>
+                                                        <p>Penurunan bounce rate dalam 1 bulan</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -390,65 +382,13 @@
         </div>
 
     </div>   
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php';?>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
     </script>
     <script>
     $('.same-height').matchHeight();
     $('.col-md-4.col-xs-6').matchHeight();
-
-
-    $('.slider-other-client-container').slick({
-        dots: false,
-        infinite: true,
-        speed: 300,
-
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        responsive: [{
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            }
-        ]
-    });
-    $('.mobile-app-container').slick({
-        dots: true,
-        infinite: false,
-        speed: 300,
-        arrows: false,
-        arrows: false,
-        arrows: false,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        speed: 300,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        slickSetOption: true,
-    });
-    $('#PWA .btn-more-portfolio').on('click', function() {
-        $('.mobile-app-container').resize();
-    });
     </script>
 </body>
 

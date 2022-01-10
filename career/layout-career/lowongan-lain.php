@@ -17,7 +17,7 @@
                 <h3 class="section-title">Programmer</h3>
               </div>
               <p>
-                PHP Programmer, Front-End Programmer, Mobile App Developer, etc.,
+                PHP Programmer, Front-End Programmer, Mobile Application Developer (Android), etc.,
               </p>
             </a>
           </div>
@@ -43,7 +43,7 @@
                 <h3 class="section-title">Others IT Specialist</h3>
               </div>
               <p>
-                Security Specialist, DevOps, QA Specialist, etc.,
+                Security Specialist, DevOps Engineer, QA Specialist, etc.,
               </p>
             </a>
           </div>

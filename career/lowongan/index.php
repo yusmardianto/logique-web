@@ -6,43 +6,27 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Sedang mencari lowongan kerja IT consultant dengan lingkungan kerja fleksibel dan nyaman di Indonesia? LOGIQUE bisa menjadi pilihan Anda. Kami mencari staff yang mempunyai keinginan untuk berkembang. Segera daftarkan diri Anda sekarang di halaman karir LOGIQUE sekarang juga!">
+    content="Info lowongan kerja IT terbaru sebagai programmer, it generalist, web designer, & digital marketing di Jakarta dan Jogja. Terbuka untuk internship / magang.">
   <meta name="keywords"
     content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Lowongan Kerja IT Consultant | Web Developer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Info Lowongan Kerja IT Terbaru | Logique Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Sedang mencari lowongan kerja IT consultant dengan lingkungan kerja fleksibel dan nyaman di Indonesia? LOGIQUE bisa menjadi pilihan Anda. Kami mencari staff yang mempunyai keinginan untuk berkembang. Segera daftarkan diri Anda sekarang di halaman karir LOGIQUE sekarang juga!">
+    content="Info lowongan kerja IT terbaru sebagai programmer, it generalist, web designer, & digital marketing di Jakarta dan Jogja. Terbuka untuk internship / magang.">
+  <link rel="canonical" href="https://www.logique.co.id/career/lowongan/"/>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Lowongan Kerja IT Consultant | Web Developer | LOGIQUE Digital Indonesia</title>
+  <title>Info Lowongan Kerja IT Terbaru | Logique Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
+
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -70,13 +54,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -129,11 +120,11 @@
                   <h2 class="heading-black mb--40">Lowongan yang dibutuhkan segera</h2>
                 </div>
                  <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/web-developer.php">
+                  <a href="/career/lowongan/programmer/golang-developer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Golang Developer">
+                        <h3 class="heading-black">Golang Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -150,11 +141,11 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                  <a href="/career/lowongan/programmer/frontend-developer.php">
+                  <a href="/career/lowongan/programmer/flutter-developer.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body ">
-                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Front End Developer">
-                        <h3 class="heading-black">Front End Developer</h3>
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Flutter Developer">
+                        <h3 class="heading-black">Flutter Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -171,12 +162,12 @@
                   </a>
                 </div>
                 <div class="col-md-4 card--layout">
-                   <a href="/career/lowongan/specialist/it-security-specialist.php">
+                   <a href="/career/lowongan/specialist/quality-assurance.php">
                     <div class="card-box card-box__urgent">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/password.png"
+                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
                           alt="Security Specialist">
-                        <h3 class="heading-black">IT Security</h3>
+                        <h3 class="heading-black">QA Engineer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -240,7 +231,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png" alt="Web Developer">
-                        <h3 class="heading-black">Web Developer</h3>
+                        <h3 class="heading-black">PHP Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -283,8 +274,8 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="React JS Developer">
-                        <h3 class="heading-black">React JS Developer</h3>
+                          alt="React JS / Vue JS Developer">
+                        <h3 class="heading-black">React JS / Vue JS Developer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -303,7 +294,7 @@
               </div>
 
               <div class="row row__same-height">
-                <div class="col-md-4 card--layout">
+                <!-- <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/programmer/react-native-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
@@ -317,21 +308,21 @@
                           <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
                           Fulltime
                         </div>
-                        <!-- <div>
+                        <div>
                           <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
                           Jakarta, Yogya
-                        </div> -->
+                        </div>
                       </div>
                     </div>
                   </a>
-                </div>
+                </div> -->
                 <div class="col-md-4 card--layout">
                   <a href="/career/lowongan/programmer/mobile-app-developer.php">
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
-                          alt="Mobile App Developer">
-                        <h3 class="heading-black">Mobile App Developer</h3>
+                          alt="Mobile Application Developer (Android)">
+                        <h3 class="heading-black">Mobile Application Developer (Android)</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -368,8 +359,56 @@
                       </div>
                     </div>
                   </a>
+                </div>                
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/golang-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Gooang Developer">
+                        <h3 class="heading-black">Golang Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                       <!--  <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div> -->
+                      </div>
+                    </div>
+                  </a>
                 </div>
               </div>
+
+              <div class="row row__same-height">
+                <div class="col-md-4 card--layout">
+                  <a href="/career/lowongan/programmer/flutter-developer.php">
+                    <div class="card-box">
+                      <div class="card-box__body">
+                        <img class="img-responsive card-icon" src="/img/career/icon/web-dev.png"
+                          alt="Gooang Developer">
+                        <h3 class="heading-black">Flutter Developer</h3>
+                        <p></p>
+                      </div>
+                      <div class="card-box__footer">
+                        <div>
+                          <img src="/img/career/icon/bag.png" alt="Type" class="img-responsive">
+                          Fulltime
+                        </div>
+                       <!--  <div>
+                          <img src="/img/career/icon/icon_placeholder.png" alt="Type" class="img-responsive">
+                          Jakarta, Yogya
+                        </div> -->
+                      </div>
+                    </div>
+                  </a>
+                </div>              
+              </div>
+
             </div>
           </div>
         </div>
@@ -387,7 +426,7 @@
                   <a href="/career/lowongan/it-generalist/project-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager">
+                        <img class="img-responsive card-icon" src="/img/career/icon/idea.png" alt="Project Manager" loading="lazy">
                         <h3 class="heading-black">Consultant / Project Manager</h3>
                         <p></p>
                       </div>
@@ -430,7 +469,7 @@
                   <a href="/career/lowongan/it-generalist/product-manager.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager">
+                        <img class="img-responsive card-icon" src="/img/career/icon/clock.png" alt="Product Manager" loading="lazy">
                         <h3 class="heading-black">Product Manager</h3>
                         <p></p>
                       </div>
@@ -511,7 +550,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/server.png" alt="DevOps">
-                        <h3 class="heading-black">DevOps</h3>
+                        <h3 class="heading-black">DevOps Engineer</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -531,9 +570,9 @@
                   <a href="/career/lowongan/specialist/quality-assurance.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/quality.png"
+                        <img class="img-responsive card-icon" loading="lazy" src="/img/career/icon/quality.png"
                           alt="Quality Assurance">
-                        <h3 class="heading-black">Quality Assurance</h3>
+                        <h3 class="heading-black">Quality Assurance Engineer (Software)</h3>
                         <p></p>
                       </div>
                       <div class="card-box__footer">
@@ -567,7 +606,7 @@
                   <a href="/career/lowongan/digitalmarketing/ui-ux-designer.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer">
+                        <img class="img-responsive card-icon" src="/img/career/icon/ux.png" alt="UI/UX Designer" loading="lazy">
                         <h3 class="heading-black">UI/UX Designer</h3>
                         <p></p>
                       </div>
@@ -589,7 +628,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/digital-ads.png"
-                          alt="Digital Marketing Specialist">
+                          alt="Digital Marketing Specialist" loading="lazy">
                         <h3 class="heading-black">Digital Marketing Specialist</h3>
                         <p></p>
                       </div>
@@ -750,7 +789,7 @@
                   <a href="/career/lowongan/backoffice/hr-recruitment.php">
                     <div class="card-box">
                       <div class="card-box__body">
-                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" alt="HR Recruitment">
+                        <img class="img-responsive card-icon" src="/img/career/icon/hr.png" loading="lazy" alt="HR Recruitment">
                         <h3 class="heading-black">HR Recruitment</h3>
                         <p></p>
                       </div>
@@ -772,7 +811,7 @@
                     <div class="card-box">
                       <div class="card-box__body">
                         <img class="img-responsive card-icon" src="/img/career/icon/budget.png"
-                          alt="Akunting & Finance">
+                          alt="Akunting & Finance" loading="lazy">
                         <h3 class="heading-black">Akunting & Finance</h3>
                         <p></p>
                       </div>
@@ -813,7 +852,7 @@
                       <div class="col-md-6 col-xl-5" style="padding-top: 8px; padding-bottom: 8px;">
                         <a href="/career/magang/">
                           <img class="img-responsive" src="/img/career/bg-img/bg-btn-black-intern.png"
-                            alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE">
+                            alt="LIHAT KESEHARIAN MAGANG DI LOGIQUE" loading="lazy">
                         </a>
                       </div>
                     </div>
@@ -839,8 +878,7 @@
                       </strong>
                     </p>
                     <a class="btn-banner-pattern" style="margin-top: 37.5px;" href="/hubungi-kami.php">
-                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png"
-                        alt="Kontak Kami">
+                      <img style="max-width: 350px;" class="img-responsive" src="/img/career/bg-img/bg-contact.png" loading="lazy" alt="Kontak Kami">
                       <span>Kontak Kami</span>
                     </a>
                   </div>

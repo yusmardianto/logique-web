@@ -4,18 +4,20 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+  <meta name="description" itemprop="description" content="PT Izumi Sentul Reality has entrusted LOGIQUE in marketing their property, increasing Opus Park’s property sales and conversions.">
+	<meta name="keywords" content="Opus Park Digital Marketing Strategy, Digital Marketing for Property, Property Marketing increase sales, Logique Property Marketing">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Online Marketing Strategy | Case Study | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Opus Park Digital Marketing Strategy | Case Study | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/opuspark/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia helped Opus Park in creating and implementing the right online marketing strategy to reach goals as they wanted across various platforms. It included targeted social media marketing, search and display network ads, also SEO for the website. Learn the case study here.">
+	<meta property="og:description" content="PT Izumi Sentul Reality has entrusted LOGIQUE in marketing their property, increasing Opus Park’s property sales and conversions.">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/en/case-study/opuspark/">
+
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -26,7 +28,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Online Marketing Strategy | Case Study | LOGIQUE Digital Indonesia</title>
+  <title>Opus Park Digital Marketing Strategy | Case Study | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -41,7 +43,7 @@
 		<div class="wrapper o-wrapper top-only">
 
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -50,7 +52,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/opuspark/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/opuspark/">JP</a></li>
               </ul>
             </div>
           </div>
@@ -122,9 +124,9 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
-          <h1 class="cs-title">Opus Park <p class="hidden-sm hidden-md hidden-lg"><small>Increasing Sales of Units Through Targeted Conversions</small></p></h1>
-          <h2 class="cs-title-2 hidden-xs">Increasing Sales of Units<br>Through Targeted Conversions</h2>
+          <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
+          <h1 class="cs-title">Opus Park  </h1>
+          <h2 class="cs-title-2  ">Increasing Sales of Units<br>Through Targeted Conversions</h2>
         </section>
         <section class="breadcrumb-container">
           <div class="row">
@@ -132,12 +134,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
+                        <a itemprop="item" href="/en"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                          <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
+                          <meta itemprop="position" content="2" />
+                      </li>
                       <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - Opus Park</span></a>
-                        <meta itemprop="position" content="2" />
+                          <a itemprop="item"><span itemprop="name">&nbsp; Opus Park</span></a>
+                          <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>
@@ -232,7 +238,7 @@
             </div>
           </div>
         </section>
-        <section class="cs-section">
+        <section class="cs-section result-section">
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
@@ -316,6 +322,16 @@
                     </picture>
                   </a>
               </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                  <a href="/en/case-study/jba-bastk/">
+                    <picture>
+                        <source srcset="img/btn-jba-bastk.webp" type="image/webp">
+                        <img class="img-responsive center-block" src="img/btn-jba-bastk.png" alt="Studi Kasus Lainnya">
+                    </picture>
+                  </a>
+              </div>
+              <style>.kembali-ke-index {background: #ffca13;color: #000;padding: 12px 15px;border-radius: 10px;box-shadow: 0 0 4px #afafaf;margin: 25px!important;}.kembali-ke-index:hover {opacity: .7;text-decoration: none;color: #333;}</style>
+              <div><a href="/case-study/" class="kembali-ke-index">Back To Study Case</a></div>
             </div>
           </div>
         </section>

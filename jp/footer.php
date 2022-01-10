@@ -18,7 +18,7 @@ footer {
     background-color: #ffcd38;
 }
 
-#PureChatWidget.purechat.purechat-bottom-right {
+/* #PureChatWidget.purechat.purechat-bottom-right {
     right: 20px !important;
     bottom: 20px !important;
 }
@@ -85,12 +85,12 @@ footer {
         left: 45% !important;
         transform: translateX(-50%) !important;
     }
-}
+} */
 </style>
 <footer class="content-wrapper__ bg--footer footer-section  footer-update">
     <!--<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"ffce07da-cb7b-4dd0-be97-171190ab7c25"});a=!0}}}(window,document);</script>-->
 
-    <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script>
+
 	<script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -101,11 +101,11 @@ footer {
 	ga('send', 'pageview');
 
     </script>
-    <div class="container__footer">
+    <div class="container__">
         <div class="row">
-            <div class="col-sm-offset-1 col-sm-10">
+            <div class=" col-sm-12">
                 <div class="row flex-row">
-                    <div class="col-sm-4 company-info">
+                    <div class="col-sm-3 company-info">
                         <div itemscope itemtype="https://schema.org/Organization">
                             <div class="footer-title"> <span itemprop="name">LOGIQUE</span></strong></div>
                                 <div itemprop="address" class='footer-address' itemscope itemtype="https://schema.org/PostalAddress">
@@ -125,46 +125,102 @@ footer {
                                     <li><a href="https://www.instagram.com/logiquedigital/" target="_blank" rel="noreferrer" aria-label="Instagram" class='instagram-icon'> </a></li>
                                     <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"  aria-label="LinkedIn" class="linkedin-icon"> </a></li>
                                 </ul>
+                                <img class="rounded" src="../img/img-footer-googlepartner-withborder.png" alt="" width="72" height="auto" style="margin-top: 1rem; margin-bottom: 2rem;" /> 
                         </div>
                     </div>
-                    <div class="col-sm-8 company-footer-nav">
-                        <div class="row">
-                            <div class="col-sm-6 link-footer-nav  main-footer-nav" >
+                    <div class="col-sm-9 company-footer-nav">
+                    <div class="mobile-menu-container">
+                            <ul>
+                                <li><a href="/jp/index.php">Home</a></li>
+                                <li><a href="/jp/logique.php">会社概要</a></li>
+                                <li ><a href="/jp/services.php">サービス</a>
+                                <li><a href="/jp/portfolio.php">制作開発実績</a></li>
+                                <li><a href="/case-study/">事例紹介</a></li> 
+                                <li><a href="/blog/category/interview/">Interviews</a></li> 
+                                <li><a href="/jp/white-paper.php">White Paper Download</a></li>     
+                            </ul>
+                            <ul>
+                                <li ><a href="/jp/product.php">プロダクト</a> 
+                                <li><a href="/career/">採用/パートナー (求人/インターン)</a></li>
+                                <li> <a href="/en/career/lowongan/"  >Lowongan Kerja </a>
+                                <li><a href="/jp/contact.php">お問い合わせ</a></li> 
+                                <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                            </ul>
+                        </div>
+                        <div class="row main-footer-container">
+                            <div class="col-sm-4 link-footer-nav main-footer-nav">
                                 <ul>
                                     <li><a href="/jp/index.php">Home</a></li>
                                     <li><a href="/jp/logique.php">会社概要</a></li>
-                                    <li class="have-submenu"><a href="/jp/services.php">サービス</a>
-                                        <ul>
-                                            <li class="have-submenu">  <a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a> </li>
+                                    <li  class="have-submenu"><a href="/jp/services.php">サービス</a>
+                                        <ul class="footer-submenu">
+                                            <li class="have-submenu"><a href="/jp/services/web-dev.php" target="_blank">Web制作サービス</a> </li>
+                                            <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
+                                            <li><a href="/jp/services/progressive-web-app-dev.php" target="_blank">Webアプリ(PWA)開発</a></li>
                                             <li><a href="/jp/services/mobile-app-dev.php" target="_blank"> モバイルApp開発</a></li>
                                             <li><a href="/jp/services/penetration-test.php" target="_blank"> Webセキュリティ診断サービス</a></li>
-                                            <li><a href="/jp/services/system-dev.php" target="_blank">Webシステム開発</a></li>
-                                            <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a>
-                                                <ul>
-                                                <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>
-                                                </ul>
-                                            </li> 
-                                        </ul> 
-                                    </li>
-                                    <li><a href="/jp/portfolio.php">制作開発実績</a></li>
-                                    
+                                            <li><a href="/jp/services/digital-marketing.php" target="_blank">デジタルマーケティング活用支援 </a> </li> 
+                                            <li><a href="/jp/services/digital-marketing/seo-service.php"  target="_blank">SEO対策</a></li>    
+                                        </ul>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/jp/services/project-management.php">プロジェクトマネジメントについて</a> </li>
+                                            <li><a href="/jp/services/devops.php">クラウドサーバー運用サービス</a> </li>
+                                            <li><a href="#"> 定額DX/DMサービス</a> </li>
+                                        </ul>
+                                    </li> 
+                                   
                                 </ul>
                             </div> 
-                            <div class="col-sm-6 link-footer-nav">
-                                <ul>
-                                    <li class="have-submenu"><a href="/jp/product.php">プロダクト</a> 
+                            <div class="col-sm-4 link-footer-nav">
+                                <ul> 
+                                    <li  class="have-submenu"><a href="/jp/portfolio.php">制作開発実績</a>
+                                        <ul class="footer-submenu">
+                                            <li><a href="/jp/portfolio/website.php">LOGIQUEのWeb制作実績</a></li>
+                                            <li><a href="/jp/portfolio/mobile-app.php">モバイルアプリの開発実績</a></li>
+                                            <li><a href="/jp/portfolio/system-development.php">システム開発実績</a></li>
+                                            <li><a href="/jp/portfolio/digital-marketing.php">デジタルマーケティングの実績</a></li>
+                                        </ul> 
+                                    </li> 
+                                    <li><a href="/jp/case-study/">事例紹介</a></li>  
+                                    <li><a href="/blog/category/interview/">インタビュー</a></li> 
+                                    <li><a href="/jp/white-paper.php"> ホワイトペーパー</a></li> 
+                                    <li class="have-submenu" ><a href="/jp/product.php">プロダクト</a> 
                                         <ul>
-                                            <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
+                                        <li><a href="https://dokodemo-kerja.com/jpn/" target="_blank" rel="noreferrer">Dokodemo-Kerja <span style="font-size: 12px;">（リモートワーク管理ツール）</span></a></li>
                                             <li><a href="/jp/product/sugoi-saiyo.php" target="_blank">Sugoi Saiyo  <span style="font-size: 12px;">（採用管理ツール）</span></a></li>
                                             <li><a href="/jp/product/nippo.php" target="_blank">Nippo  <span style="font-size: 12px;">（日報＆人事評価ツール）</span></a></li>    
                                         </ul>
                                     </li>
-                                    <li><a href="/career/">採用/パートナー (求人/インターン)</a></li>
-                                    <li><a href="/jp/contact.php">お問い合わせ</a></li>  
-                                    <li><a href="/en/privacy-policy.php" target="_blank">Privacy Policy</a></li>
+                                   
                                 </ul>
+
                             </div>
-                        </div> 
+                            <div class="col-sm-4 link-footer-nav"> 
+                                <ul>  
+                                    <li><a href="/career/">採用</a> 
+                                        <ul class="footer-submenu">    
+                                            <li><a href="/career/visi-budaya/">Visi dan Budaya Kerja</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pengembangan Karir</a></li>
+                                            <li><a href="/career/aktivitas-kerja/">Aktivitas Kami</a></li>
+                                            <li><a href="/career/pedoman-hr/">Pendoman HR</a></li>
+                                            <li><a href="/career/pengembangan-karir/">Pesan Untuk Kandidat</a></li>
+                                            <li><a href="/career/faq/">FAQ</a></li> 
+                                               
+                                            </ul>
+                                        </li>  
+                                          <li> <a href="/career/lowongan/"  >求人 </a>
+                                            <ul class="footer-submenu">
+                                                <li><a href="/career/lowongan/programmer/">Lowongan Programmer</a></li>
+                                                <li><a href="/career/lowongan/it-generalist/">Lowongan IT Generalist</a></li>
+                                                <li><a href="/career/lowongan/specialist/">Lowongan Other IT Specialist</a></li>
+                                                <li><a href="/career/lowongan/digitalmarketing/">Lowongan Digital Marketing</a></li> 
+                                            </ul> 
+                                          </li>  
+                                    <li><a href="/jp/contact.php">お問い合わせ</a></li> 
+                                    <li class=""><a href="/en/privacy-policy.php" target="_blank"><i>Privacy Policy</i></a></li>
+                                </ul>  
+                            </div>
+                        </div>  
                           
                     </div>
                     <div class="col-sm-12 link-footer"> 
@@ -190,12 +246,40 @@ footer {
         </div>
     </div>
 </footer>
- 
+<div class="floating-wa-button" >
+    <?php 
+        if (strpos($_SERVER['REQUEST_URI'], "career") !== false){
+            $waNumber = '6282260567856';
+            }else{
+            $waNumber = '62811870321';
+            }
+    ?>
+    <a href="https://wa.me/<?=$waNumber?>" class="wa-button" target="_blank"><img src="/img/icon/icon-logique-wa.svg" width="80" height="80"></a>
+    <style>
+        .floating-wa-button{
+            border-radius: 50%;
+            position:fixed; 
+            bottom : 10%; 
+            right:10px;
+            transition: all 0.15s ease-in-out;
+            z-index: 9999;
+            }
+            .floating-wa-button:hover{
+            box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -webkit-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            -moz-box-shadow: 5px 6px 28px -6px rgba(0,0,0,0.5);
+            }
+    </style> 
+</div>
+<!-- <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '4c745242-66c8-4931-9b56-3c3bdcc5cbe6', f: true }); done = true; } }; })();</script> -->
+
 <script src="/js/jquery-3.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
-<script src="/js/slick.min.js"></script>
-<script src='https://www.google.com/recaptcha/api.js'></script>
-<script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script>
+<?php if(!isset($slick_disabled)){ ?>
+<script id="slick-script" src="/js/slick.min.js"></script>
+<?php }?>
+<script defer src='https://www.google.com/recaptcha/api.js'></script>
+<!-- <script src="https://cdn.rawgit.com/tonystar/bootstrap-hover-tabs/v3.1.1/bootstrap-hover-tabs.js"></script> -->
 <script>
 $('.map-container')
     .click(function() {
@@ -225,7 +309,7 @@ $('.map-container')
     $('.copyrightYear').html(updatedYear);
 </script>
 
-<!-- override purechat styling -->
+<!-- override purechat styling
 <script>
     $(function() {
         purechatApi.on('chatbox:ready', function (args) {
@@ -245,7 +329,7 @@ $('.map-container')
             }, 50);
         });
     })
-</script>
+</script> -->
 
 <!-- AD POPUP -->
 <!-- <script>

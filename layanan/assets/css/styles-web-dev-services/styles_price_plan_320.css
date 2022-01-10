@@ -1,0 +1,194 @@
+/* 
+RESPONSIVE TEMPLATE
+
+@media only screen and (min-width: 320px) {}
+@media only screen and (min-width: 375px) {}
+@media only screen and (min-width: 425px) {}
+@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 1024px) {}
+@media only screen and (min-width: 1440px) {}
+*/
+
+:root {
+  --orangel: rgb(245, 93, 4);
+  --blackTitle: rgb(61, 61, 61);
+  --yellowl: #f8c100;
+  --bluel: rgb(4, 199, 245);
+  --skala-besar: rgb(5, 169, 71);
+  --skala-strategis: rgb(245, 10, 4);
+}
+
+@media only screen and (min-width: 320px) {
+  .plan {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 80px auto 0 auto;
+    padding: 0;
+    height: auto;
+  }
+
+  .plan-gap-100 {
+    margin: 80px auto 0 auto;
+  }
+
+  .plan-gap {
+    margin: 160px auto 0 auto;
+  }
+
+  .image-plan-cont {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .plan-image {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+    margin: 0;
+    text-align: center;
+  }
+
+  .desc-plan-cont {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 20px auto 0 auto;
+  }
+
+  .plan-title {
+    color: var(--orangel);
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px auto 0 auto;
+  }
+
+  .standar-color {
+    color: var(--bluel);
+  }
+
+  .skala-besar-color {
+    color: var(--skala-besar);
+  }
+
+  .skala-strategis-color {
+    color: var(--skala-strategis);
+  }
+
+  .plan-desc {
+    text-align: center;
+    margin: 0 auto;
+    margin: 5px 0 0 0;
+    color: var(--blackTitle);
+    font-weight: bold;
+    font-size: 13px;
+  }
+
+  /* Kontainer Desc Waktu */
+  .desc-waktu {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 20px 0 0 0;
+  }
+
+  .sub-container-desc {
+    display: flex;
+    width: 90%;
+    margin: 20px 0 0 0;
+  }
+
+  .desc-title {
+    font-weight: bold;
+    font-size: 14px;
+  }
+  .desc-value {
+    font-size: 12px;
+    margin: 5px 0 0 0;
+  }
+
+  .checklist-img {
+    margin-right: 15px;
+  }
+
+  .checklist-img img {
+    height: 17px;
+    width: auto;
+  }
+
+  /* Kontainer Desc Waktu */
+  .cakupan-pekerjaan {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 30px 0 0 0;
+  }
+
+  .sub-cakupan-pekerjaan {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .cakupan-pekerjaan-list {
+    margin: 10px 0 0 0;
+    font-size: 12px;
+  }
+
+  .cakupan-pekerjaan-list li {
+    margin: 10px 0 0 15px;
+    line-height: 1.9;
+  }
+
+  /* Biaya */
+  .desc-biaya {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 40px auto 0 auto;
+  }
+
+  .sub-container-biaya {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .biaya-title {
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .biaya-value {
+    margin: 8px auto 0 auto;
+    font-weight: bold;
+    font-size: 17px;
+    color: var(--orangel);
+  }
+
+  .button-biaya {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: var(--yellowl);
+    color: var(--blackTitle);
+    width: 200px;
+    height: 40px;
+    font-size: px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 20px auto 0 auto;
+  }
+
+  .button-biaya:hover {
+    opacity: 0.8;
+  }
+}

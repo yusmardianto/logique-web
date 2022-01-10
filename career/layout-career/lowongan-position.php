@@ -11,11 +11,27 @@
         <h2 class="section-title">Lowongan IT Generalist</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/it-generalist/project-manager-lead.php"
+              class="lowongan-position__item bg--sub-project-manager">
+              <div class="lowongan-position__overlay"></div>
+              <span class="other-position__urgent">Urgently Needed</span>
+              <h3 class="section-title">Consultant / <br>PM Lead</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/it-generalist/project-manager.php"
               class="lowongan-position__item bg--sub-project-manager">
               <div class="lowongan-position__overlay"></div>
               <span class="other-position__urgent">Urgently Needed</span>
               <h3 class="section-title">Consultant / <br>Project Manager</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/it-generalist/lead-business-analyst.php"
+              class="lowongan-position__item bg--sub-business-analyst">
+              <div class="lowongan-position__overlay"></div>
+              <span class="other-position__urgent">Urgently Needed</span>
+              <h3 class="section-title">Lead Business Analyst</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -68,7 +84,7 @@
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/specialist/quality-assurance.php" class="lowongan-position__item bg--sub-qa">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">Quality Assurance</h3>
+              <h3 class="section-title">Quality Assurance Engineer (Software)</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -81,14 +97,14 @@
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/specialist/devops.php" class="lowongan-position__item bg--sub-devops">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">DevOps</h3>
+              <h3 class="section-title">DevOps Engineer</h3>
             </a>
           </div>
         </div>
         <?php endif; ?>
 
         <?php if ($cat_vacancy === 'programmer'): ?>
-        <h2 class="section-title">Lowongan Programmer</h2>
+        <h2 class="section-title">Lowongan Kerja Programmer</h2>
         <div class="row lowongan-position">
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/product-developer.php"
@@ -100,7 +116,7 @@
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/web-developer.php" class="lowongan-position__item bg--sub-web-dev">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">Web Developer</h3>
+              <h3 class="section-title">PHP Developer</h3>
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
@@ -112,23 +128,51 @@
           </div>
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/reactjs-developer.php"
-              class="lowongan-position__item bg--sub-react-js-dev">
+              class="lowongan-position__item bg--sub-senior-react-js-dev">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">React JS Developer</h3>
+              <h3 class="section-title">React JS / Vue JS Developer</h3>
             </a>
           </div>
-          <div class="col-md-6 col-lg-4">
+          <!-- <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/react-native-developer.php"
               class="lowongan-position__item bg--sub-react-native-dev">
               <div class="lowongan-position__overlay"></div>
               <h3 class="section-title">React Native Developer</h3>
             </a>
-          </div>
+          </div> -->
           <div class="col-md-6 col-lg-4">
             <a href="/career/lowongan/programmer/mobile-app-developer.php"
               class="lowongan-position__item bg--sub-mobile-app-dev">
               <div class="lowongan-position__overlay"></div>
-              <h3 class="section-title">Mobile App Developer</h3>
+              <h3 class="section-title">Mobile Application Developer (Android)</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/net-developer.php"
+              class="lowongan-position__item bg--sub-net-dev">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">.NET Developer</h3>
+            </a>
+          </div>
+          <!-- <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/senior-reactjs-developer.php"
+              class="lowongan-position__item bg--sub-senior-react-js-dev ">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Senior React JS Developer</h3>
+            </a>
+          </div> -->
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/golang-developer.php"
+              class="lowongan-position__item bg--sub-web-dev">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Golang Developer</h3>
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a href="/career/lowongan/programmer/flutter-developer.php"
+              class="lowongan-position__item bg--sub-mobile-app-dev">
+              <div class="lowongan-position__overlay"></div>
+              <h3 class="section-title">Flutter Developer</h3>
             </a>
           </div>
         </div>

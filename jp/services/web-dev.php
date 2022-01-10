@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 
 require_once("assets/form/fgcontact_webdev.php");
 
@@ -42,25 +43,27 @@ if(isset($_POST['submitted']))
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" content="LOGIQUEがインドネシアで作るWeb / ホームページは、集客ができる、お問い合わせが増える、採用応募者が増える、などコンバージョンが増える価値のあるWebです。WEBチャネルを活用して営業を効率的に行いたい、他社と差別化したい、カスタマーサービスを効率化したい、採用を強化したい、
-場合はLOGIQUEにお任せください。LOGIQUEのWeb制作サービス詳細。">
+    <meta name="description" content="LOGIQUEのWebサイト・ホームページ制作サービスの説明。インドネシアでWebシステム、モバイルアプリ、ITコンサルティング、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのWeb制作サービスを紹介します。">
     <meta name="keywords" content="効果のある、コンバージョンのでる、意味のある、WEBサイトを予算内で、素早く、効率的に、先進テクノロジーを用い、セキュアに、作ります">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
      <meta itemprop="name" content="PT. Logique Digital Indonesia">
-     <meta property="og:title" content="Web Development Service | LOGIQUE Digital Indonesia">
+     <meta property="og:title" content="インドネシアのWeb制作会社LOGIQUEのホームページ制作サービス">
      <meta property="og:type" content="website">
      <meta property="og:site_name" content="Logique">
      <meta property="og:url" content="https://www.logique.co.id/jp/services/web-dev.php">
      <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
      <meta property="og:description"
-         content="As one of the best website developers in Indonesia, LOGIQUE Digital Indonesia has their own mechanism in providing clients with the best web development service. Here are simple explanations of each step that we take to create a website.">
-    <title>Web制作サービス詳細 | ジャカルタのWeb制作会社LOGIQUEデジタルインドネシア</title>
+         content="LOGIQUEのWebサイト・ホームページ制作サービスの説明。インドネシアでWebシステム、モバイルアプリ、ITコンサルティング、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのWeb制作サービスを紹介します。">
+    <title>インドネシアのWeb制作会社LOGIQUEのホームページ制作サービス</title>
+    <link rel="canonical" href="https://www.logique.co.id/jp/services/web-dev.php"/>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/style.css" rel="stylesheet">
+    <!-- <link href="/css/style.css" rel="stylesheet"> -->    
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link href="/css/newstyle.css" rel="stylesheet">
     <link href="assets/css/style_webdev_new.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet"> -->
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -82,104 +85,28 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div class="side-container"></div>
+    <!-- <div class="side-container"></div> -->
     <div>
 
         <!-- NAVIGATION -->
-        <div class="nav-lp">
-            <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-                data-toggle="collapse" data-target="#myNavbar">
-                <span class="icon-bar first"></span>
-                <span class="icon-bar second"></span>
-                <span class="icon-bar third"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="myNavbar">
-                <div class="backdrop-test"></div>
-                <div class="logique-nav logique-nav--update in-jp">
-                    <div class="margin-for-nav">
-                        <div class="text-center">
-                            <a href="/jp/">
-                                <div class="img-home"></div>
-                                Home
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/logique.php">
-                                <div class="img-about"></div>
-                                会社概要
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/portfolio.php">
-                                <div class="img-portfolio"></div>
-                                制作実績
-                            </a>
-                        </div>
-                        <div class="text-center active">
-                            <a href="/jp/services.php">
-                                <div class="img-services"></div>
-                                サービス
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="product.php">
-                                <div class="img-product"></div>
-                                プロダクト
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/career/">
-                                <div class="img-career"></div>
-                                採用/<br>パートナー
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="/jp/contact.php">
-                                <div class="img-contact"></div>
-                                お問い合わせ
-                            </a>
-                        </div>
-                        <div class="text-center">
-                            <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                                <div class="img-blog"></div>
-                                Blog
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'services';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <div class="container">
-                                <ul class="list-inline">
-                                    <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li><a href="/layanan/web-dev.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                                <a href="/jp/index.php"><img loading="lazy" src="/../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END HEADER -->
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/services/web-dev.php';
+            $id_link = '/layanan/jasa-pembuatan-website.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <header class="content-wrapper__">
             <div class="text-left --top">
                 <div class="container-fluid">
                     <div class="row bg-section">
-                        <div class="col-md-12">
-                            <img loading="lazy" src="assets/img/img-webdev/webdev-bg.png" alt="">
-                        </div>
                         <div class="col-sm-12 breadcrumb-section">
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
                                 itemtype="http://schema.org/BreadcrumbList">
@@ -236,8 +163,10 @@ if(isset($_POST['submitted']))
                          <!-- Wrapper for slides -->
                          <div class="carousel-inner">
                              <div class="item active">
-                                 <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja"
-                                     class="img-responsive center-block">
+                                 <picture>
+                                     <source srcset="assets/img/img-webdev/carousel.webp">
+                                     <img loading="lazy" src="assets/img/img-webdev/carousel.png" alt="Dokodemo Kerja" class="img-responsive center-block">
+                                 </picture>
                              </div>
                          </div>
                          <ol class="carousel-indicators">
@@ -252,7 +181,10 @@ if(isset($_POST['submitted']))
         <div class="container">
             <div class="row">
                 <div class="col-sm-5 col-md-5">
-                    <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
+                    <picture>
+                        <source srcset="assets/img/img-webdev/flow.webp">
+                        <img loading="lazy" src="assets/img/img-webdev/flow.png" alt="">
+                    </picture>
                 </div>
                 <div class="col-sm-7 col-md-7">
                     <p class="flow-title">Webへの期待、予算、用意できる体制によって 作るべきWebは変わってきます</p>
@@ -1318,6 +1250,7 @@ Web（Digitalマーケティング）のプロフェッショナルとして、�
         </div>
     </section>
     <section class="tahap-pemesanan-2 hidden-xs" style="padding: 2em"></section>
+    <?php $slick_disabled = true; ?>
     <?php include '../footer.php'; ?>
 
     <!-- <script src="//code.jquery.com/jquery-3.2.1.min.js"></script> -->

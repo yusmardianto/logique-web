@@ -6,95 +6,45 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
+        content="With HR management systems, report tools, & website creation & maintenance on offer, LOGIQUE can make your preferred website / application to grow your business.">
     <meta name="keywords"
         content="website creation, web-system development, internet marketing, SEO, maintenance, mobile application, design, printing">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="HR Cloud Tool | Daily Report, Recruitment Management System | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="Website Creation Services & HR Management Systems | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/product.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/product.png">
     <meta property="og:description"
-        content="LOGIQUE aims to provide you with various digital products to improve your business productivity. HR Cloud tools, daily report and evaluation tools, as well as recruitment and managements systems for HR. Try our products now! We ensure your work will be much easier and more efficient!">
-    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>HR Cloud Tool | Daily Report, Recruitment Management System | LOGIQUE Digital Indonesia</title>
+        content="With HR management systems, report tools, & website creation & maintenance on offer, LOGIQUE can make your preferred website / application to grow your business.">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <title>Website Creation Services & HR Management Systems | LOGIQUE</title>
+    
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../css/style.css" rel="stylesheet">
+    <!-- <link href="../css/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css">
+    <link rel="stylesheet" href="/css/style-product.css">
+
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 </head>
 
 <body>
 <?//php include '../popup.php'; ?>
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            About Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portfolio.php">
-                            <div class="img-portfolio"></div>
-                            Portfolio
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="services.php">
-                            <div class="img-services"></div>
-                            Services
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="product.php">
-                            <div class="img-product"></div>
-                            Product
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            Career
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="contact.php">
-                            <div class="img-contact"></div>
-                            Contact Us
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'product';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/sidebar.php'); 
+        ?>
 
         <!-- <div class="contain-video">
             <video poster="../img/video-img.png" id="bgvid" playsinline autoplay muted loop>
@@ -103,28 +53,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <!-- HEADER -->
-        <div class="container-fluid">
-
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li class="active"><a href="">EN</a></li>
-                                    <li><a href="/produk.php">ID</a></li>
-                                    <li><a href="../jp/product.php">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div> <!-- END HEADER -->
+        <?php 
+            $lang = 'en';
+            $en_link = '#';
+            $id_link = '/produk.php';
+            $jp_link = '/jp/product.php';
+            include($_SERVER['DOCUMENT_ROOT'].'/en/header.php'); 
+        ?>
 
         <!-- CONTENT -->
         <div class="content-wrapper__">
@@ -156,8 +91,8 @@
                         <p class="title__description">In order to help companies grow and adapt within the digital era, LOGIQUE develops and provides digital products, such as HR management systems, to improve HR operations, productivity, and potential for profit within an organization.</p>
                         <div class="product-list">
                             <img class="product-list__img" src="/img/top/i-dokodemo.svg" alt="dokodemo">
-                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                             <img class="product-list__img" src="/img/top/i-nippo-update.png" alt="nippo">
+                            <img class="product-list__img" src="/img/top/i-sugoi-saiyo.png" alt="sugoi saiyo">
                         </div>
                         <p class="title__description">Our products range from solutions that aim to increase worker output through flexible working hours and improved cost management through daily reports, to recruitment systems which greatly assist in finding the most qualified employees in the most efficient manner possible.</p>
                     </div>
@@ -186,23 +121,32 @@
                         keeping track of how they spend their working hours in real-time through an auto screen capturing
                         feature. </p>
 
-                    <div class="product-snap-shot">
+                    <div class="product-snap-shot  dokodemo-ss">
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.png"
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_1.jpg"
                                 alt="dokodemo_1">
                             <p class="product-snap-shot__text">Track time based projects </p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.png"
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_2.jpg"
                                 alt="dokodemo_2">
                             <p class="product-snap-shot__text">Track activity through screenshots</p>
                         </div>
 
                         <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.png"
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/dokodemo_3.jpg"
                                 alt="dokodemo_3">
                             <p class="product-snap-shot__text">Track work hour and break time</p>
+                        </div>
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/cuti-karyawan.jpg" alt="dokodemo_2">
+                            <p class="product-snap-shot__text">View Attendance records, Leave, and Holidays</p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--3-col" src="../img/product/dokodemo/employee-gps-tracker.jpg" alt="dokodemo_3">
+                            <p class="product-snap-shot__text">Track employee location by using GPS</p>
                         </div>
                     </div>
 
@@ -214,6 +158,44 @@
             </section>
 
             <section class="bg--gray">
+                <div class="container__">
+                    <h1 class="title-index">NIPPO</h1>
+                    <hr class="title__yellow-line">
+                    <h4 class="title-index__sub">A Daily Reporting and Man-Hour Cost Management System</h4>
+                    <p class="title__description--full">Nippo is a daily report cloud management tool. Through Nippo, HR managers and supervisors within each department can examine how employees spend their working hours. Allowing for co-workers to tag and evaluate each other’s work makes internal communication more active.</p>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.jpg" alt="nippo 1">
+                            <p class="product-snap-shot__text">Daily Reporting of all employees </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/man-hour-analyze.jpg" alt="nippo 2">
+                            <p class="product-snap-shot__text">Statistic for each projects</p>
+                        </div>
+                    </div>
+                    <div class="product-snap-shot">
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.jpg" alt="nippo 3">
+                            <p class="product-snap-shot__text">Task overview </p>
+                        </div>
+
+                        <div class="product-snap-shot__item">
+                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.jpg" alt="nippo 4">
+                            <p class="product-snap-shot__text">Individual report </p>
+                        </div>
+                    </div>
+
+                    <p class="title__description--full">
+                    This is a useful tool for HR to calculate the man-hour cost of each tasks conducted by every employee. Through Nippo, evaluation and self-assessment can be done methodically every day.</p><br>
+
+                    <div class="text-center">
+                        <a class="btn--yellow" href="product/nippo.php" target="_blank">Learn More</a>
+                    </div>
+                </div>
+            </section>
+
+            <section>
                 <div class="container__">
                     <h1 class="title-index">SUGOI SAIYO</h1>
                     <hr class="title__yellow-line">
@@ -247,44 +229,6 @@
                 </div>
             </section>
 
-            <section>
-                <div class="container__">
-                    <h1 class="title-index">NIPPO</h1>
-                    <hr class="title__yellow-line">
-                    <h4 class="title-index__sub">A Daily Reporting and Man-Hour Cost Management System</h4>
-                    <p class="title__description--full">Nippo is a daily report cloud management tool. Through Nippo, HR managers and supervisors within each department can examine how employees spend their working hours. Allowing for co-workers to tag and evaluate each other’s work makes internal communication more active.</p>
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_1.png" alt="nippo 1">
-                            <p class="product-snap-shot__text">Daily Reporting of all employees </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_2.png" alt="nippo 2">
-                            <p class="product-snap-shot__text">Statistic for each projects</p>
-                        </div>
-                    </div>
-                    <div class="product-snap-shot">
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_3.png" alt="nippo 3">
-                            <p class="product-snap-shot__text">Task overview </p>
-                        </div>
-
-                        <div class="product-snap-shot__item">
-                            <img class="product-snap-shot__img--2-col" src="../img/product/nippo/nippo_4.png" alt="nippo 4">
-                            <p class="product-snap-shot__text">Individual report </p>
-                        </div>
-                    </div>
-
-                    <p class="title__description--full">
-                    This is a useful tool for HR to calculate the man-hour cost of each tasks conducted by every employee. Through Nippo, evaluation and self-assessment can be done methodically every day.</p><br>
-
-                    <div class="text-center">
-                        <a class="btn--yellow" href="product/nippo.php" target="_blank">Learn More</a>
-                    </div>
-                </div>
-            </section>
-
             <section id="contact">
                 <div class="container__">
                     <div class="row">
@@ -298,16 +242,16 @@
 
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>Developing a website </li>
-                                <li>Updating your website’s system</li>
-                                <li>Developing a web system</li>
-                                <li>Creating and designing a campaign or website landing page</li>
-                                <li>Outsourcing website operations.</li>
-                                <li>Increasing access to your website with SEO.</li>
-                                <li>Organizing and running an online promotion strategy.</li>
-                                <li>Searching for leasing web servers and companies to manage them.</li>
-                                <li>Searching for a printing service catering to company profiles and brochures.</li>
-                                <li>etc.</li>
+                                <li>I want to introduce a remote work system to Indonesian corporations</li>
+                                <li>I want to increase the transparency of employee attendance</li>
+                                <li>I want to improve the productivity of employees (office workers)</li>
+                                <li>I want to track / understand the behavior of employees outside of the office</li>
+                                <li>I want to manage the daily work contents of employees in detail</li>
+                                <li>I want to analyze how much time each employees spend on each tasks</li>
+                                <li>I want to simplify the calculation of overtime hours and the number of paid holidays.</li>
+                                <li>I want to perform an objective and fair personnel evaluation</li>
+                                <li>I want an HR system that improves internal communication</li>
+                                <li>I want to streamline recruiting activities and eliminate paper resumes by using IT</li>
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
                         </div>

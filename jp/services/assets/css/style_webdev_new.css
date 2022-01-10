@@ -27,7 +27,7 @@
   font-family: "M Plus 1p Extra Bold";
   src: url("../fonts/M_PLUS_1p/MPLUS1p-ExtraBold.ttf");
 }
-@font-face {
+/* @font-face {
   font-family: "Raleway";
   src: url("../fonts/Raleway/Raleway-Regular.ttf");
 }
@@ -66,7 +66,7 @@
 @font-face {
   font-family: "Open Sans Extra Bold";
   src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf");
-}
+} */
 
 
 html,
@@ -493,6 +493,9 @@ footer p:before {
   .collapse.in .logique-nav {
     margin-right: 0;
     padding-top: 0;
+  }
+  .content-wrapper__ .bg-section{
+    background: #f0f0f0 !important;
   }
 }
 .img-about,
@@ -1275,11 +1278,11 @@ footer {
 .lang-logo--update-design {
   padding: 24px 0 24px !important; 
 }
-.lang-logo--update-design .list-inline li {
+/* .lang-logo--update-design .list-inline li {
   width: 45px;
   height: 45px;
   border-radius: 50%;
-}
+} */
 .lang-logo--update-design .list-inline {
   top: 0;
 }
@@ -1287,10 +1290,13 @@ footer {
   margin-left: 0;
 }
 .content-wrapper__ .--top {
-  margin-top: 5.3em;
+  margin-top: 6.8em;
 }
 .content-wrapper__ .bg-section {
   position: relative;
+  background: url(../img/img-webdev/webdev-bg.png) no-repeat;
+  background-size: cover;
+  background-position: 30%;
 }
 .content-wrapper__ .bg-section img {
   width: 100%;
@@ -1298,15 +1304,10 @@ footer {
   position: relative;
 }
 .content-wrapper__ .bg-section .breadcrumb-section {
-  position: absolute;
   left: 135px;
 }
 .content-wrapper__ .bg-section .breadcrumb-section .breadcrumb--update-design {
   padding: 10px 15px;
-}
-.content-wrapper__ .bg-section .main-section {
-  position: absolute;
-  margin-top: 64px;
 }
 .content-wrapper__ .bg-section .main-section .title {
   color: rgb(0, 0, 0);
@@ -1375,21 +1376,21 @@ footer {
   margin-bottom: 30px;
 }
 .flow .flow-button {
-  height: 60px;
+  height: 55px;
   background: rgb(251, 201, 53);
   border-radius: 4px;
   color: rgb(0, 0, 0);
-  font-size: 24px;
+  font-size: 18px;
   font-family: "Raleway Medium", sans-serif;
   font-weight: 600;
   text-align: left;
   padding: 13px 20px;
   letter-spacing: 0px;
-  width: 488px;
+  width: 400px;
 }
 .flow .flow-button img {
   float: right;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 .discuss {
   padding-top: 5px;
@@ -1649,6 +1650,11 @@ cursor: pointer;
   font-weight: 600;
   letter-spacing: -0.2px;
 }
+
+.content-article .article-container .img-container .img-news-thumbnail{
+  height: 150px;
+  object-fit: cover;
+}
 .content-article .article-indicators {
     position: relative;
     bottom: 0;
@@ -1848,7 +1854,7 @@ section {
       margin-left: 0;
   }
   .content-wrapper__ .--top {
-      margin-top: 4.3em;
+      margin-top: 6em;
   }
   .content-wrapper__ .--top .container-fluid{
       padding: 0;
@@ -1863,7 +1869,7 @@ section {
       padding: 0 !important;
   }
   .lang-logo--update-design .list-inline {
-      top: 10px;
+      /* top: 10px; */
       margin-top: 0;
   }
   .nav-lp .navbar-toggle.collapsed {
@@ -1892,7 +1898,6 @@ section {
       left: 10px;
   }
   .content-wrapper__ .bg-section .main-section {
-      position: absolute;
       margin-top: 20px;
       padding: 0;
   }
@@ -2177,7 +2182,7 @@ header {
     padding: 0 !important;
 }
 .lang-logo--update-design .list-inline {
-    top: 10px;
+    /* top: 10px; */
     margin-top: 0;
     right: 25px;
 }
@@ -2207,12 +2212,10 @@ header {
     margin-left: 0;
 }
 .content-wrapper__ .bg-section .breadcrumb-section {
-    position: absolute;
     left: 0;
     top: 0;
 }
 .content-wrapper__ .bg-section .main-section {
-  position: absolute;
   margin-top: 0;
   padding: 0;
   top: 0;
@@ -2617,7 +2620,7 @@ header {
     padding: 0 !important;
 }
 .lang-logo--update-design .list-inline {
-    top: 10px;
+    /* top: 10px; */
     margin-top: 0;
 }
 .nav-lp .navbar-toggle.collapsed {
@@ -2646,12 +2649,10 @@ header {
     margin-left: 0;
 }
 .content-wrapper__ .bg-section .breadcrumb-section {
-    position: absolute;
     left: 0;
     top: 0;
 }
 .content-wrapper__ .bg-section .main-section {
-  position: absolute;
   margin-top: 0;
   padding: 0;
   top: 0;
@@ -3052,9 +3053,6 @@ header {
 .content-wrapper__ .--top {
   margin-top: 4.3em;
 }
-  section, header {
-      padding-left: 100px;
-  }
   header {
       height: auto !important;
   }
@@ -3062,7 +3060,7 @@ header {
       padding: 0 !important;
   }
   .lang-logo--update-design .list-inline {
-      top: 10px;
+      /* top: 10px; */
       margin-top: 0;
   }
   .nav-lp .navbar-toggle.collapsed {
@@ -3513,7 +3511,8 @@ header {
   }
   .flow .flow-button {
       width: 100%;
-      font-size: 20px;
+      font-size: 16px;
+      text-align: center;
   }
   .flow .flow-button img {
       width: 16px; 

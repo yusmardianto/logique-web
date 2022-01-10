@@ -6,23 +6,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUEデジタルインドネシアのの会社概要ページ。LOGIQUEはインドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム開発会社です。WEBサイト制作/システム構築、WEBマーケティング、モバイルアプリ開発、SNS運用、パンフレット等の印刷物まで、WEB及びデザインに関する様々なサービスを幅広く提供しております。">
+        content="LOGIQUEはインドネシアでのデジタルマーケティングやDXをワンストップでご支援するコンサルティング会社です。ウェブサイトやITシステム、スマホアプリの制作開発、セキュリティ脆弱性検査、デジタルマーケティング運用のご支援をしています。インドネシアで10年近い経験を持ち多くのナショナルクライアントをもつ実績のある会社です。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, パンフレット">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="WEBデザイン制作 | システム開発会社 | LOGIQUE デジタルインドネシア">
+    <meta property="og:title" content="ITコンサルティング | DX | LOGIQUEデジタルINDONESIA">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/logique.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
     <meta property="og:description"
-        content="LOGIQUEデジタルインドネシアのの会社概要。インドネシアのデジタルマーケティング支援・ホームページ制作・WEBシステム/モバイルアプリ開発会社です。コーポレートWEBサイト制作から大規模なシステム構築、システムの運用保守、SNS運用、Google広告運用まで、Digital Marketingコンサルティングを実施してクライアントのインドネシアでの成功を支援します。">
+        content="LOGIQUEはインドネシアでのデジタルマーケティングやDXをワンストップでご支援するコンサルティング会社です。ウェブサイトやITシステム、スマホアプリの制作開発、セキュリティ脆弱性検査、デジタルマーケティング運用のご支援をしています。インドネシアで10年近い経験を持ち多くのナショナルクライアントをもつ実績のある会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>WEBデザイン制作 | システム開発会社 | LOGIQUE デジタルインドネシア</title>
+    <link rel="canonical" href="https://www.logique.co.id/jp/logique.php"/>
+    <title>ITコンサルティング | DX | LOGIQUEデジタルINDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="../css/style.css" rel="stylesheet">
+    <!-- <link href="../css/style.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="/css/sidebar-update.css" >
+    <link rel="stylesheet" href="/css/newstyle.css" >
+    <link rel="stylesheet" href="/css/style-logique.css">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
@@ -30,71 +34,14 @@
 </head>
 
 <body class="jp-page">
-    <div class="wrapper wrapper--update-design">
+    <div class="wrapper wrapper--update-design wrapper--update-design-font --jp">
 
         <!-- NAVIGATION -->
-        <button type="button" class="navbar-toggle collapsed navbar-toggle--update-design" aria-label="navbar-toggle"
-            data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar first"></span>
-            <span class="icon-bar second"></span>
-            <span class="icon-bar third"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="myNavbar">
-            <div class="backdrop-test"></div>
-            <div class="logique-nav logique-nav--update in-jp">
-                <div class="margin-for-nav">
-                    <div class="text-center">
-                        <a href="index.php">
-                            <div class="img-home"></div>
-                            Home
-                        </a>
-                    </div>
-                    <div class="text-center active">
-                        <a href="logique.php">
-                            <div class="img-about"></div>
-                            会社概要
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="portfolio.php">
-                            <div class="img-portfolio"></div>
-                            制作実績
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="services.php">
-                            <div class="img-services"></div>
-                            サービス
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="product.php">
-                            <div class="img-product"></div>
-                            プロダクト
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="/career/">
-                            <div class="img-career"></div>
-                            採用/<br>パートナー
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="contact.php">
-                            <div class="img-contact"></div>
-                            お問い合わせ
-                        </a>
-                    </div>
-                    <div class="text-center">
-                        <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
-                            <div class="img-blog"></div>
-                            Blog
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- NAVIGATION -->
+        <?php 
+            // $active option are home, about, portfolio, services, product, career, contact
+            $active = 'about';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
+        ?>
 
         <!-- <div id="bgImg" class="others"><div class="img"></div></div> -->
         <!-- <div class="contain-video">
@@ -104,27 +51,13 @@
         </div>
         <div class="bg-white-opacity"></div> -->
 
-        <div class="container-fluid">
-
-            <div class="row lang-logo--update-design">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-offset-1 col-sm-11">
-                            <div class="container">
-                                <a href="index.php"><img src="../img/logo.png" alt="Logo"
-                                        class="img-responsive logo--update-design" /></a>
-                                <ul class="list-inline">
-                                    <li><a href="../en/logique.php">EN</a></li>
-                                    <li><a href="/logique.php">ID</a></li>
-                                    <li class="active"><a href="#">JP</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
+        <?php 
+            $lang = 'jp';
+            $en_link = '/en/logique.php';
+            $id_link = '/logique.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
+        ?>
 
         <div class="content-wrapper__">
             <section class="--top">
@@ -153,7 +86,7 @@
                         <h1 class="title-index">LOGIQUEについて</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description">
-                            ロジック デジタル インドネシアはホームページ制作・WEBシステム開発会社です。日本人がインドネシアのジャカルタで設立しました。インドネシア国内の日系企業さま、また日本からオフショア先をお探しのお客様に対して、ウェブサイトやシステムの制作開発、運用のご支援をしています。 WEBサイト制作会社としてWEBデザイン制作やLP制作、システム開発会社としてモバイルアプリ開発、CMS構築や採用管理システム開発、PWA開発、Digital AgencyとしてSEO対策、インターネット広告運用、FacebookやInstagram等のソーシャルメディアを活用したキャンペーン実施などを行っております。
+                            ロジックはIT/DXコンサルティングからデジタルマーケティング運用までワンストップでサービス可能な会社です。Web制作、システム開発、スマホアプリ開発が主力サービスとなっています。日本人がインドネシアのジャカルタで設立したPMA（外国投資企業）です。PMAですが、80人を超えるインドネシア人社員と、インドネシアマーケットで最適なサービスを提供するためにインドネシアへの深い理解をもってお客様へサービス提供しています。インドネシア展開する際の現地パートナーとしてご検討いただけます。日系企業のほかに、インドネシアの大企業や、外資金融機関、国際的な公共団体から、10年近くの間、多くのプロジェクトを受託してきた実績をもちます。
                         </p>
                     </div>
 
@@ -299,7 +232,7 @@
                                 <hr class="company__divider">
 
                                 <li>従業員数</li>
-                                <li class="company__bold">58名 (2019年11月現在）</li>
+                                <li class="company__bold">80名（2020年11月現在）</li>
                                 <hr class="company__divider">
 
                                 <li>本社住所</li>
@@ -405,19 +338,18 @@
 
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>会社ホームページ/コーポレートWEBがまだ無い。</li>
-                                <li>運用会社を変えたい。元の制作開発会社と連絡がとれず更新できない。</li>
-                                <li>いまのウェブはスマホに対応してなくて改良が必要。</li>
-                                <li>アプリを作りたい、PWAを開発できる会社を探している。</li>
-                                <li>インドネシア語、英語、日本語でWEBを作りたい。</li>
-                                <li>社内にIT担当者、WEB担当者がいない。</li>
-                                <li>簡易なシステムが必要。CRM、販売管理システム、会計システムなど。</li>
-                                <li>インターネット、WEBを活用してブランディングしたい、集客したい、競合と差別化したい。</li>
-                                <li>インドネシア語でコンテンツを作る必要があるが翻訳会社に委託するしかないのか？</li>
-                                <li>インドネシア内でサーバーをレンタルしたい。運用保守会社も探している。</li>
+                                <li>社内システムをスクラッチ開発したい</li>
+                                <li>新規事業に必要なシステム、Webなど全て整備したい</li>
+                                <li>既存システムの運用をアウトソースして改善していきたい</li>
+                                <li>既存システムが古くて使いづらい。改修すべきか作り直すべきか分からない。</li>
+                                <li>AndroidアプリをPWAとして作り直したい</li>
+                                <li>オンプレサーバーをクラウドサーバーに移行したい</li>
+                                <li>インドネシア法人にリモートワーク制度を導入したい</li>
+                                <li>社員の勤怠をより可視化したい</li>
+                                <li>従業員（オフィスワーカー）の生産性を向上したい</li>
+                                <li>インドネシア語でSEO対策したい</li>
                                 <li>FacebookやInstagramを活用して集客したい</li>
-                                <li>インターネット広告を出稿したい</li>
-                                <li>いまのWebにセキュリティ脆弱性がないのか診断してもらいたい。</li>
+                                <li>Webサイトやアプリにセキュリティ脆弱性がないか検査したい。</li>                                
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">お問い合わせ</a>
                         </div>

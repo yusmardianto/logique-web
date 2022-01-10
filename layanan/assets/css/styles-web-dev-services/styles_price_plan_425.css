@@ -1,0 +1,61 @@
+/* 
+RESPONSIVE TEMPLATE
+
+@media only screen and (min-width: 320px) {}
+@media only screen and (min-width: 375px) {}
+@media only screen and (min-width: 425px) {}
+@media only screen and (min-width: 768px) {}
+@media only screen and (min-width: 1024px) {}
+@media only screen and (min-width: 1440px) {}
+*/
+
+:root {
+  --orangel: rgb(245, 93, 4);
+  --blackTitle: rgb(61, 61, 61);
+  --yellowl: #f8c100;
+  --skala-besar: rgb(5, 169, 71);
+  --skala-strategis: rgb(245, 10, 4);
+}
+
+@media only screen and (min-width: 425px) {
+  .plan-title {
+    color: var(--orangel);
+    font-weight: bold;
+    font-size: 18px;
+    margin: 10px auto 0 auto;
+  }
+
+  .standar-color {
+    color: var(--bluel);
+  }
+
+  .skala-besar-color {
+    color: var(--skala-besar);
+  }
+  
+  .skala-strategis-color {
+    color: var(--skala-strategis);
+  }
+
+  .plan-desc {
+    text-align: center;
+    margin: 0 auto;
+    margin: 5px 0 0 0;
+    color: var(--blackTitle);
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  .desc-title {
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .desc-value {
+    font-size: 13px;
+    margin: 5px 0 0 0;
+  }
+  .cakupan-pekerjaan-list {
+    margin: 10px 0 0 0;
+    font-size: 13px;
+  }
+}

@@ -6,45 +6,45 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="Kami membuat pedoman HR agar lingkungan kerja di LOGIQUE menjadi fleksibel dan nyaman bagi seluruh staff. Kami juga memberikan Anda beberapa benefit untuk kesejahteraan hidup Anda dan keluarga. Segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga.">
+    content="Pedoman HR yang fleksibel membuat lingkungan kerja Logique menjadi nyaman bagi para staff. Jam kerja fleksibel, kerja remote, bonus, dll. Ayo gabung sekarang!">
   <meta name="keywords"
-    content="keuntungan bekerja di logique, join us, web developer, lowongan kerja, digital marketing, seo, desain">
+    content="Lingkungan kerja Logique, pedoman HR, peraturan HR, kerja fleksibel, sistem kerja remote, remote working, peraturan kerja Logique, reward kerja, bonus kerja.
+">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="Pedoman HR | Lingkungan Kerja | karir | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="Pedoman HR & Lingkungan Kerja PT LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="Kami membuat pedoman HR agar lingkungan kerja di LOGIQUE menjadi fleksibel dan nyaman bagi seluruh staff. Kami juga memberikan Anda beberapa benefit untuk kesejahteraan hidup Anda dan keluarga. Segera daftarkan diri Anda di halaman karir LOGIQUE sekarang juga.">
+    content="Pedoman HR yang fleksibel membuat lingkungan kerja Logique menjadi nyaman bagi para staff. Jam kerja fleksibel, kerja remote, bonus, dll. Ayo gabung sekarang!">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>Pedoman HR | Lingkungan Kerja | karir | LOGIQUE Digital Indonesia</title>
+  <link rel="canonical" href="https://www.logique.co.id/career/pedoman-hr/"/>
+  <title>Pedoman HR & Lingkungan Kerja PT LOGIQUE Digital Indonesia</title>
+
+  <link rel="preconnect" href="https://connect.facebook.net"/>
+  <link rel="preconnect" href="https://www.facebook.com"/>
+  <link rel="preconnect" href="https://app.purechat.com"/>
+  <link rel="preconnect" href="https://analytics.twitter.com"/>
+  <link rel="preconnect" href="https://t.co"/>
+  <link rel="preconnect" href="https://api-cdn.purechat.com"/>
+  <link rel="preconnect" href="https://widgetapi.purechat.com"/>
+  <link rel="preconnect" href="https://prod.purechatcdn.com"/>
+  <link rel="preconnect" href="http://ajax.googleapis.com"/>
+
+  <link href="/css/bootstrap.min.css" rel="preload" as="style">
+  <link href="/css/sidebar-update.css" rel="preload" as="style">
+  <link href="/css/style-revamp.css" rel="preload" as="style">
+  <link href="/career/style-career.css" rel="preload" as="style">
 
   <!-- Bootstrap -->
+  <link href="/fonts/Novecentosanswide-Medium.otf" rel="preload" as="font" crossorigin/>
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="stylesheet">
+  <link href="/css/style-revamp.css" rel="stylesheet">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
-
+  
   <!-- Facebook Pixel Code -->
   <script>
   ! function(f, b, e, v, n, t, s) {
@@ -71,13 +71,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper hr-rule">
 
     <!-- Header -->
@@ -111,7 +118,7 @@
             <div class="col-sm-offset-1 col-xs-12 col-md-4">
               <h1 class="header__title">Working Environment and HR Rule</h1>
               <p>
-              LOGIQUE memiliki pola kerja dan juga cara bekerja yang cukup unik dibandingkan dengan perusahaan lainnya. Baik itu dari sisi jam kerja, cara evaluasi, dan juga keuntungan yang bisa didapatkan bagi setiap karyawan.
+              LOGIQUE memiliki lingkungan kerja dan peraturan HR yang cukup unik dibandingkan dengan perusahaan lain. Peraturan tersebut mencakup jam kerja, cara evaluasi, dan beragam peraturan lain yang akan menguntungkan bagi karyawan.
               </p>
             </div>
           </div>
@@ -135,7 +142,7 @@
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Jam Kerja / Fleksibel</h2>
-                    <p>Tidak terjebak dalam jam rutin konvensional yang mengharuskan karyawan menghabiskan 8 jam kerja / hari di kantor. LOGIQUE mengedepankan efektivitas dengan sistem 40 jam kerja / minggu, maka bekerja menjadi lebih fleksibel dengan sedikit jam kerja di hari tertentu dan menambah jam kerja di lain hari. Kami juga menawarkan pilihan waktu mulai bekerja (start time) dan pedoman core time yang dapat membantu memaksimalkan efektivitas kerja dalam fleksibilitas yang diberikan</p>
+                    <p>LOGIQUE memiliki jam kerja yang fleksibel. Anda tidak akan terjebak dalam jam rutin konvensional yang mengharuskan karyawan untuk bekerja 8 jam per hari di kantor. LOGIQUE mengedepankan evektivitas dengan memberikan sistem kerja dengan total 40 jam kerja per minggu, sehingga Anda dapat bekerja secara fleksibel untuk mengatur jam kerja harian sendiri. Kami juga menawarkan pilihan waktu untuk mulai bekerja (start time) dan pedoman core time yang dapat membantu memaksimalkan efektivitas serta fleksibilitas ketika bekerja.</p>
                   </div>
                 </div>            
               </div>
@@ -146,8 +153,8 @@
               <div class="box-hr-rule-1 bg-2---">
                 <div class="row">
                   <div class="col-xs-12 col-md-6 order2">
-                    <h2>Kerja Dimana Saja</h2>
-                    <p>LOGIQUE memiliki kebijakan bekerja dimana saja (remote working) untuk karyawan yang secara profesional dapat diberikan kepercayaan, memiliki kapasitas, dan kemampuan yang baik untuk menerima keuntungan ini.</p>
+                    <h2>Sistem Kerja Remote</h2>
+                    <p>LOGIQUE memiliki kebijakan bekerja dimana saja ( remote working ) untuk karyawannya yang secara profesional dapat diberi kepercayaan, memiliki kapasitas, dan bertanggung jawab dengan sistem kerja ini.</p>
                   </div>
                   <div class="col-xs-12 col-md-6 text-center order1">
                     <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner2.svg" alt="Logique HR Rule">
@@ -218,13 +225,12 @@
               </div>
             </div>
           </div>
-
           <div class="row">
             <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
-              <div class="box-hr-rule-1 bg-7---">
+              <div class="box-hr-rule-1 bg-8---">
                 <div class="row">
                   <div class="col-xs-12 col-md-6 text-center">
-                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner7.svg" alt="Logique HR Rule">
+                    <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner8.svg" alt="Logique HR Rule">
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <h2>Asuransi Kesehatan</h2>
@@ -234,7 +240,24 @@
               </div>
             </div>
           </div>
-
+          <div class="row">
+            <div class="col-xs-12 col-md-offset-1 col-md-10" data-aos="fade-up">
+              <div class="box-hr-rule-1 bg-7---">
+                <div class="row">
+                  <div class="col-xs-12 col-md-6 order2">
+                    <h2>No Unpaid Overtime</h2>
+                    <p>Jika Anda ingin lebih banyak bekerja untuk mendapatkan lebih banyak income, maka kami dapat memberikan kesempatan kerja lembur yang dibayar. Kerja lembur dilakukan berdasarkan project sehingga upah akan tergantung pada nilai project tersebut. Sesuai dengan filosofi dan konsep yang kami miliki, LOGIQUE akan memberikan apa yang dibutuhkan karyawan sesuai dengan kontribusi yang dapat karyawan berikan.</p>
+                  </div>
+                  <div class="col-xs-12 col-md-6 text-right order1">
+                    <picture>
+                      <source srcset="/career/pedoman-hr/img/banner7.webp" type="image/webp">
+                      <img data-aos="zoom-in-up" class="" src="/career/pedoman-hr/img/banner7.png" alt="Logique HR Rule">
+                    </picture>
+                  </div>
+                </div>            
+              </div>
+            </div>
+          </div>
         </div>
       </section>
 

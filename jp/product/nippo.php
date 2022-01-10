@@ -53,12 +53,26 @@ if(isset($_POST['submitted']))
     <meta property="og:description"
         content="NIPPOは日報管理ツールです。日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。月額1ジュタからのクラウドツールですがカスタマイズ導入も可能です。デモ環境の試用も可能ですのでお問い合わせください。">
      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+     <link rel="canonical" href="https://www.logique.co.id/jp/product/nippo.php"/>
      <title>日報を通じて人事評価＆原価工数管理を行うール | NIPPO | LOGIQUEデジタルインドネシア</title>
+
+     <link rel="preload" href="/fonts/Novecentosanswide-Medium.otf" as="font" crossorigin/>
+
+     <link rel="preload" href="/css/sidebar-update.css" as="style"/>
+     <link rel="preload" href="/css/style-revamp.css" as="style"/>
+     <link rel="preload" href="/css/bootstrap.min.css" as="style">
+     <link rel="preload" href="/css/style.css" as="style">
+     <link rel="preload" href="css/style_nippo.css" as="style">
+
+     <link rel="preconnect" href="https://www.google-analytics.com">
+     <link rel="preconnect" href="https://app.purechatcdn.com">
+
      <link rel="stylesheet" href="/css/bootstrap.min.css">
-     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+     <!-- <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet"> -->
+     <!-- <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@400;500;800&display=swap" rel="stylesheet"> -->
      <link rel="stylesheet" href="/css/style.css">
      <link rel="stylesheet" href="css/style_nippo.css">
-     <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700" rel="stylesheet">
+
      <style type="text/css">
      @font-face {
          font-family: HelveticaThin;
@@ -260,7 +274,7 @@ if(isset($_POST['submitted']))
                      <div class="col-md-push-3 col-md-8 col-md-pull-1">
                          <p class="Nippo-adalah-aplikas">
                              Nippoは当社にて当社の従業員の作業内容、プロジェクト毎、タスク毎の原価管理、そして従業員の評価を行うためにシステム化したものを一般向けに改訂したシステムです。
-                             <br><br>日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。
+                             <br><br>日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。
                          </p>
                      </div>
                  </section>
@@ -271,7 +285,7 @@ if(isset($_POST['submitted']))
                          <span class="NIPPO-SYSTEM">NIPPO SYSTEM</span>
                          <p class="Nippo-adalah-aplikas">
                              Nippoは当社にて当社の従業員の作業内容、プロジェクト毎、タスク毎の原価管理、そして従業員の評価を行うためにシステム化したものを一般向けに改訂したシステムです。
-                             <br><br>日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。
+                             <br><br>日々の日報を通じて、スタッフの作業内容・量・質を把握し、スタッフ間でのコミュニケーションを促進することができます。管理者は部下の評価を行います。プロジェクト毎、タスク毎の原価工数集計も可能です。
                          </p>
                      </div>
                  </section>
@@ -457,32 +471,45 @@ if(isset($_POST['submitted']))
                      </div>
                      <div class="col-md-4 col-xs-12 text-center">
                          <div class="OH1E290">
-                             <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
+                             <picture>
+                                <source srcset="img/nippo/keuntungan-1.webp">
+                                <img src="img/nippo/keuntungan-1.png" alt="San Francisco">
+                             </picture>
                              <div class="Rectangle">マネージャーや人事担当者は従業員の作業内容を簡単に把握可能です。</div>
                          </div>
                      </div>
                      <div class="col-md-4 col-xs-12 text-center">
                          <div class="OH1E290">
-                             <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
-                             <div class="Rectangle">マネージャは管理下のスタッフの評価を容易に行えます。頻度が稀だとアンフェアな評価になりがちですが、NippoではDailyで評価可能です。</div>
+                            <picture>
+                                <source srcset="img/nippo/keuntungan-2.webp">
+                                <img src="img/nippo/keuntungan-2.png" alt="San Francisco">
+                             </picture>                             <div class="Rectangle">マネージャは管理下のスタッフの評価を容易に行えます。頻度が稀だとアンフェアな評価になりがちですが、NippoではDailyで評価可能です。</div>
                          </div>
                      </div>
                      <div class="clearfix"></div>
                      <div class="col-md-4 col-xs-12 text-center">
                          <div class="OH1E290">
-                             <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
-                             <div class="Rectangle">自己評価とスーパーバイザーの評価の両方が管理されるので、評価をスタッフに伝える際に明快な説明が可能になります。</div>
+                            <picture>
+                                <source srcset="img/nippo/keuntungan-3.webp">
+                                <img src="img/nippo/keuntungan-3.png" alt="San Francisco">
+                             </picture>                               <div class="Rectangle">自己評価とスーパーバイザーの評価の両方が管理されるので、評価をスタッフに伝える際に明快な説明が可能になります。</div>
                          </div>
                      </div>
                      <div class="col-md-4 col-xs-12 text-center">
                          <div class="OH1E290">
-                             <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
+                            <picture>
+                                <source srcset="img/nippo/keuntungan-4.webp">
+                                <img src="img/nippo/keuntungan-4.png" alt="San Francisco">
+                             </picture>  
                              <div class="Rectangle">社内コミュニケーションを活性化させます。Likeやコメントを残すことで他人から見られている・評価されている緊張感を生みます。</div>
                          </div>
                      </div>
                      <div class="col-md-4 col-xs-12 text-center">
                          <div class="OH1E290">
-                             <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
+                            <picture>
+                                <source srcset="img/nippo/keuntungan-5.webp">
+                                <img src="img/nippo/keuntungan-5.png" alt="San Francisco">
+                             </picture> 
                              <div class="Rectangle">評価者と物理的に場所が離れている、リモートワークしている場合などでも、適切な管理が可能で、Nippoがコミュニケーションを生みます。</div>
                          </div>
                      </div>
@@ -658,9 +685,9 @@ if(isset($_POST['submitted']))
          </div>
      </div>
 
+     <?php $slick_disabled = true; ?>
      <?php include '../footer.php'; ?>
 
-     <script src="/js/bootstrap.min.js"></script>
      <script src='https://www.google.com/recaptcha/api.js'></script>
 
  </body>

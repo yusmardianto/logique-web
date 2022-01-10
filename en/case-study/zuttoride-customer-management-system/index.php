@@ -4,18 +4,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE Digital Indonesia helped Zuttoride Indonesia in creating and developing Customer Management System (CRM) Application with data integration system that has high customization and scalability. Learn the case study of a system that helps bike riders here.">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+  <meta name="description" itemprop="description" content="Logique develops web based system for its client including Zuttoride as part of logique's web system strategy, which includes a Customer Management System (CRM).">
+	<meta name="keywords" content="Zuttoride web system, Zuttorude web based system, Logique development strategy, Logique web system strategy, Zuttoride Web System Strategy">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Customer Management System (CRM) Application | Case Study | LOGIQUE Digital Indonesia">
+	<meta property="og:title" content="Zuttoride Web System Strategy | Case Study | LOGIQUE">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE Digital Indonesia helped Zuttoride Indonesia in creating and developing Customer Management System (CRM) Application with data integration system that has high customization and scalability. Learn the case study of a system that helps bike riders here.">
+	<meta property="og:description" content="Logique develops web based system for its client including Zuttoride as part of logique's web system strategy, which includes a Customer Management System (CRM).">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
+  <link rel="canonical" href="https://www.logique.co.id/en/case-study/zuttoride-customer-management-system/"/>
   <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -26,7 +27,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Customer Management System (CRM) Application | Case Study | LOGIQUE Digital Indonesia</title>
+  <title>Zuttoride Web System Strategy | Case Study | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
@@ -41,7 +42,7 @@
 		<div class="wrapper o-wrapper top-only">
 
       <header>
-        <div class="container-fluid">
+        <div class="container">
           <div class="row">
             <div class="col-xs-6">
               <img src="../../../img/logo.png" alt="LOGIQUE"><span>CASE STUDY</span>
@@ -50,7 +51,7 @@
               <ul>
                 <li class="active"><a href="#">EN</a></li>
                 <li><a href="/case-study/zuttoride-customer-management-system/">ID</a></li>
-                <li><a href="#">JP</a></li>
+                <li><a href="/jp/case-study/zuttoride-customer-management-system/">JP</a></li>
               </ul>
             </div>
           </div>
@@ -122,7 +123,7 @@
 
       <div class="cs-wrap">
         <section class="cs-top">
-          <img src="img/bg-top.png" alt="case study logique" class="img-fluid">
+          <img src="img/main-banner.jpg" alt="case study logique" class="img-fluid">
           <h1 class="cs-title">ZuttoRide CRM</h1>
           <h2 class="cs-title-2">Customer Management System</h2>
         </section>
@@ -132,12 +133,16 @@
                   <ol class="breadcrumb breadcrumb--update-design" itemscope
                       itemtype="http://schema.org/BreadcrumbList">
                       <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item" href="/en/"><span itemprop="name">Home</span></a>
+                        <a itemprop="item" href="/en"><span itemprop="name">Home</span></a>
                         <meta itemprop="position" content="1" />
                       </li>
-                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                        <a itemprop="item"><span itemprop="name">&nbsp;Case Study - ZuttoRide</span></a>
+                      <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/case-study/index.php"><span itemprop="name">&nbsp; Case Study</span></a>
                         <meta itemprop="position" content="2" />
+                      </li>
+                      <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item"><span itemprop="name">&nbsp; ZuttoRide</span></a>
+                        <meta itemprop="position" content="3" />
                       </li>
                   </ol>
               </div>
@@ -187,7 +192,7 @@
             </div>
           </div>
         </section>
-        <section class="cs-section">
+        <section class="cs-section result-section">
           <img src="img/line-4.png" alt="case study logique" class="cs-line cs-line-4">
           <div class="row">
             <div class="col-md-12">
@@ -248,6 +253,16 @@
                     </picture>
                   </a>
               </div>
+              <div class="col-xs-12 col-sm-6 col-md-3">
+                  <a href="/en/case-study/jba-bastk/">
+                    <picture>
+                        <source srcset="img/btn-jba-bastk.webp" type="image/webp">
+                        <img class="img-responsive center-block" src="img/btn-jba-bastk.png" alt="Studi Kasus Lainnya">
+                    </picture>
+                  </a>
+              </div>
+              <style>.kembali-ke-index {background: #ffca13;color: #000;padding: 12px 15px;border-radius: 10px;box-shadow: 0 0 4px #afafaf;margin: 25px!important;}.kembali-ke-index:hover {opacity: .7;text-decoration: none;color: #333;}</style>
+              <div><a href="/case-study/" class="kembali-ke-index">Back To Study Case</a></div>
             </div>
           </div>
         </section>

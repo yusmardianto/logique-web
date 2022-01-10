@@ -82,7 +82,7 @@ if(isset($_POST['submitted']))
         }
     }
     </style>
-    <div class="side-container"></div>
+    <!-- <div class="side-container"></div> -->
     <div>
 
         <!-- NAVIGATION -->
@@ -160,7 +160,7 @@ if(isset($_POST['submitted']))
                             <div class="container">
                                 <ul class="list-inline">
                                     <li><a href="/en/services/web-dev.php">EN</a></li>
-                                    <li><a href="/layanan/web-dev.php">ID</a></li>
+                                    <li><a href="/layanan/jasa-pembuatan-website.php">ID</a></li>
                                     <li class="active"><a href="#">JP</a></li>
                                 </ul>
                                 <a href="/jp/index.php"><img src="/../img/logo.png" alt="Logo"

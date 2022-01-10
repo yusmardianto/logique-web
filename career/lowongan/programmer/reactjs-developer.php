@@ -8,42 +8,24 @@
   <meta name="description" itemprop="description"
     content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari Web Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <meta name="keywords"
-    content="keuntungan bekerja di logique, join us, React JS Developer, lowongan kerja, digital marketing, seo, desain">
+    content="keuntungan bekerja di logique, join us, React JS Developer, Vue JS Developer, lowongan kerja, digital marketing, seo, desain">
   <meta name="author" content="PT. Logique Digital Indonesia">
-  <meta property="og:title" content="React JS Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia">
+  <meta property="og:title" content="React JS / Vue JS Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Logique">
   <meta property="og:url" content="https://www.logique.co.id/career/">
    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/karir.png">
   <meta property="og:description"
-    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari React JS Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
+    content="LOGIQUE, konsultasi IT, pengembang sistem Web dan agensi Pemasaran Digital sedang mencari React JS / Vue JS Developer. Mari bekerja bersama kami di lingkungan yang fleksibel dan menguntungkan dan tumbuh bersama.">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-  <title>React JS Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
+  <title>React JS / Vue JS Developer | Lowongan Kerja | Programmer | LOGIQUE Digital Indonesia</title>
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
+  <link href="/css/style-revamp.css" rel="preload stylesheet" as="style">
   <link href="/career/style-career.css" rel="stylesheet">
   <!-- <link href="/css/style.css" rel="stylesheet"> -->
-  <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="/css/aos.css" rel="stylesheet">
-  <!-- Google Tag Manager -->
-  <script>
-  (function(w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
-    });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true;
-    j.src =
-      'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, 'script', 'dataLayer', 'GTM-KQJRS4V');
-  </script>
-  <!-- End Google Tag Manager -->
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -71,13 +53,20 @@
   <noscript><img height="1" width="1" style="display:none"
       src="https://www.facebook.com/tr?id=713777762291663&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <?php 
+    if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
+      echo "<!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KQJRS4V');</script>
+      <!-- End Google Tag Manager -->";
+    }
+  ?>  
 </head>
 
 <body>
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQJRS4V" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   <div class="wrapper">
 
     <!-- Header -->
@@ -85,7 +74,7 @@
 
     <div class="career-update content-wrapper__">
 
-      <section class="container-fluid --top bg--main-react-js-dev">
+      <section class="container-fluid --top bg--main-senior-react-js-dev">
         <div class="container--max-width --no-padding">
           <div class="row">
             <div class="col-sm-offset-1 col-sm-10">
@@ -107,7 +96,7 @@
                   <meta itemprop="position" content="4" />
                 </li>
                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                    itemprop="item"><span itemprop="name">&nbsp; React JS Developer</span></a>
+                    itemprop="item"><span itemprop="name">&nbsp;React JS / Vue JS Developer</span></a>
                   <meta itemprop="position" content="5" />
                 </li>
               </ol>
@@ -117,7 +106,7 @@
         <div class="container--max-width header-banner">
           <div class="row">
             <div class="col-sm-offset-1 col-lg-8 col-md-9 col-sm-10">
-              <h1 class="header__title">React JS Developer</h1>
+              <h1 class="header__title">React JS / Vue JS Developer</h1>
               <div class="career-detail">
                 <div class="career-detail__item">
                   <div class="career-detail__img-wrapper">
@@ -147,104 +136,94 @@
         <div class="container--max-width">
           <div class="row">
             <div class="col-sm-offset-1 col-md-5 col-sm-10">
+            <div class="career-requirement">
+                <p>Sebagai ReactJS Frontend Developer, Anda akan memiliki kesempatan untuk berperan langsung dalam proses pengembangan UI/UX dan juga fungsionalitas di berbagai sistem dan aplikasi berbasis web. Dalam pengerjaannya Anda juga akan berkolaborasi dengan berbagai departemen seperti UI/UX Designer, Back End Developer, Project Manager.</p>
+            </div>
               <div class="career-requirement">
                 <h3 class="section-title">Job Description</h3>
                 <ul class="career-list">
-                  <li>
-                    Mengembangkan dan mengkonversi kode HTML ke React.js.
-                  </li>
-                  <li>
-                    Mengintegrasikan React.js dengan API.
-                  </li>
-                  <li>
-                    Melakukan coding HTML-CSS (responsive design and cross browser).
-                  </li>
-                  <li>
-                    Bekerja sama dan berkolaborasi dengan tim backend-developer dan designer dalam menghasilkan
-                    team-results yang optimal.
-                  </li>
-                  <li>
-                    Melakukan perbaikan performance dengan optimasi code pada sisi aplikasi.
-                  </li>
-                  <li>
-                    Melakukan analisa dan riset dalam menerapkan teknologi relevan yang update sesuai kebutuhan
-                    client/customer.
-                  </li>
+                  <li>Melakukan konversi dari desain ke ReactJS/ VueJS</li>
+                  <li>Melakukan integrasi RESTful API dengan ReactJS / VueJS</li>
+                  <li>Bekerja sama dan berkolborasi dengan tim Back-End dan Designer</li>
+                  <li>Mengoptimalkan performa dan skalabilitas pada website / aplikasi</li>
+                  <li>Membuat kode / library yang berkualitas dan dapat digunakan kembali</li>
+                  <li>Melakukan pengetesan pada antar muka yang dibuat untuk menjamin kualitas</li>
+                  <li>Memastikan antar muka yang dibuat mendukung cross-browser compatibility dan mobile friendly</li>
                 </ul>
               </div>
               <div class="career-requirement">
                 <h3 class="section-title">Must Skill/Experience</h3>
                 <ul class="career-list">
-                  <li>
-                    Pengalaman pada bidang software development minimal 2 tahun.
+                  <li>Minimal 4 tahun pengalaman dibidang dan industry yang sama</li>
+                  <li>Mahir dalam penggunaan ReactJS/VueJS</li>
+                  <li>Mahir dalam menggunakan JavaScript termasuk Document Object Model (DOM) manipulation dan JavaScript Object Model</li>
+                  <li>Memahami spesifikasi terbaru dari Ecma Script</li>
+                  <li>Terbiasa melakukan integrasi RESTful API.</li>
+                  <li>Berpengalaman minimal 3 tahun dalam menggunakan:</li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                        <li>HTML, CSS, JavaScript</li>
+                        <li>React.JS State dan Lifecycle seperti Hooks</li>
+                        <li>JavaScript Unit Testing framework seperti Jest, Mocha, dll</li>
+                        <li>React.JS workflow seperti Flux/Redux</li>
+                      </ul>
                   </li>
-                  <li>
-                    Berpendidikan minimal S1 di bidang Ilmu Komputer, IT atau bidang yang relevan.
+                  <li>Berpengalaman minimal 3 tahun dalam menggunakan:</li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                        <li>CSS Preprocessors seperti SASS, LESS</li>
+                        <li>CSS Framework seperti Bootstrap, Foundation, Material UI</li>
+                        <li>Aplikasi desain seperti Adobe Photoshop / Sketch</li>
+                        <li>Front End Development Tools seperti Babel, Webpack, NPM / Yarn, dll</li>
+                        <li>Version control system seperti GIT</li>
+                        <li>Browser Development Tools</li>
+                      </ul>
                   </li>
-                  <li>
-                    Berpengalaman menggunakan React.js setahun belakangan.
-                  </li>
-                  <li>
-                    Terbiasa menggunakan EcmaScript dengan versi terbaru.
-                  </li>
-                  <li>
-                    Terbiasa melakukan integrasi RESTful API.
-                  </li>
-                  <li>
-                    Berpengalaman menggunakan Front End Development Tools seperti Babel, Webpack, NPM / Yarn atau
-                    sejenisnya.
-                  </li>
-                  <li>
-                    Familiar dengan version control system (VCS) seperti Git.
-                  </li>
-                  <li>
-                    Berpengalaman menggunakan React.js workflow seperti Redux / Flux.
-                  </li>
-                  <li>
-                    Memiliki kemampuan analisa dan debugging yang kuat dan teliti.
-                  </li>
-                  <li>
-                    Berpengalaman dalam penggunaan HTML, CSS, JavaScript.
-                  </li>
-                </ul>
-              </div>
-
-              <div class="career-requirement">
-                <h3 class="section-title">Preferable</h3>
-                <ul class="career-list">
-                  <li>
-                    Pengetahuan tentang PWA.
-                  </li>
-                  <li>
-                    Memiliki pengetahuan dalam isomorphic React.
-                  </li>
-                  <li>
-                    Pengalaman dalam coding PSD ke HTML-CSS.
-                  </li>
-                  <li>
-                    Pengalaman menggunakan CSS framework seperti bootstrap dan foundation.
-                  </li>
-                  <li>
-                    Pengalaman dengan ExpressJS, mongoDB.
+                  <li>Memahami dasar menggunakan:</li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                        <li>SEO</li>
+                        <li>Bahasa pemrograman PHP</li>
+                      </ul>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="col-sm-offset-1 col-md-offset-0 col-md-5 col-sm-10">
+            <div class="career-requirement">
+                <h3 class="section-title">Preferable</h3>
+                <ul class="career-list">
+                  <li>Berpengalaman dalam menggunakan:</li>
+                  <li style="list-style:none;">
+                      <ul class="career-list" style="list-style: circle;">
+                          <li>GraphQL</li>
+                          <li>Progressive Web App (PWA)</li>
+                          <li>Typescript</li>
+                          <li>React Native</li>
+                          <li>Data Structure Libraries seperti Imutable.JS</li>
+                      </ul>
+                  </li>
+                  <li>Familiar dengan JAMstack</li>
+                  <li>Berpengalaman membuat custom tema Wordpress</li>
+                  <li>Memahami penggunaan plugin Wordpress</li>
+                </ul>
+              </div>
+
               <div class="career-requirement">
                 <h3 class="section-title">Rewards and Worthwhile</h3>
                 <ul class="career-list">
-                  <li>
-                    Mengembangkan dan meningkatkan skill React JS.
-                  </li>
-                  <li>
-                    Dapat meningkatkan kemampuan untuk <em>mobile app development</em>.
-                  </li>
-                  <li>
-                    Salary Negotiable (tergantung pada skill, potensi, pengalaman dan gaji sebelumnya).
-                  </li>
+                  <li>Menambah pengalaman dan juga tantangan dari berbagai project terkait system yang akan menambah pengetahuan baru terhadap perkembangan teknologi front end.</li>
+                  <li>Jam kerja yang flexible dan bebas memilih start time kerja (8.00 AM – 10.00 AM).</li>
+                  <li>Mendapatkan fasilitas remote working secara penuh atau dalam periode waktu tertentu.</li>
+                  <li>Berpeluang mendapatkan promosi jabatan kapan saja tanpa melihat masa jabatan pegawai.</li>
+                  <li>Bonus kinerja bulanan (performance based).</li>
+                  <li>Berpeluang mendapatkan bonus overtime.</li>
+                  <li>Berpeluang mendapatkan insentif tambahan dari project yang tersedia</li>
+                  <li>Berkesempatan mendapatkan pelatihan/Pendidikan seperti Seminar, Workshop, etc.</li>
+                  <li>Health Insurance untuk pegawai dan anggota keluarga.</li>
                 </ul>
               </div>
+
               <!-- <div class="career-requirement">
                 <h3 class="section-title">Cara Bekerja React JS Developer Sehari - hari di <strong class="logofont">LOGIQUE</strong></h3>
                 <h4 class="section-subtitle">React JS Developer</h4>

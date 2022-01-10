@@ -1,4 +1,3 @@
-@import url('/css/sidebar-update.css');
 body{
     font-size: 16px;
 }
@@ -332,6 +331,10 @@ section h2{
 .unsupport-desc{
     padding-top: 40px;
 }
+.see-more-studycase-wrapper{
+    padding: 2em 0 1em;
+    text-align: center;
+}
 .text-slide-content{
     background: url(../img/img-systemdev/newlayout/bg-slidertext-left.jpg) no-repeat left top, url(../img/img-systemdev/newlayout/bg-slidertext-right.jpg) no-repeat right bottom #fff;
     border-radius: 5px;
@@ -601,7 +604,7 @@ section h2{
 .whyphp .img-contianer{
     padding-top: 20px;
 }
-.othertech p ..othertech div{
+.othertech p .othertech div{
     line-height: 30px;
 }
 .jsfw-container{
@@ -788,12 +791,103 @@ section.dm__other-service  strong, section.dm__links   strong {
     display: inline !important;
     font-weight: normal !important;
 }
+/* New CSS */
+.class-jamstack-1 {
+    padding-top: 20px;  
+}
+.class-jamstack-2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+}
+.class-jamstack-3 {
+    padding: 10px 0 40px 0;
+}
+.class-jamstack-4 {
+    padding: 20px 0 40px 0;
+}
+.class-jamstack-4 p {
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: -0.08px;
+    line-height: 20px;
+    text-align: center;
+}
+.class-jamstack-4 img {
+    height: 40px;
+    margin-bottom: 20px;
+}
+.class-jamstack-5 {
+    margin-bottom: 20px;
+}
+.class-teknologi {
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+}
+.class-jamstack-5 .success-item {
+    box-shadow: none;
+    border: 1px solid rgb(239, 239, 239);
+    background: none;
+    overflow: hidden;
+    position: relative;
+} 
+.class-jamstack-5 .success-item.center {
+    border: 1px solid rgb(239, 239, 239);
+    box-shadow: 0px 23px 21px -18px rgba(0, 0, 0, 0.1);
+}
+.class-jamstack-5 .circle-- {
+    position: absolute;
+    left: -17px;
+    background: rgb(255, 244, 207);
+    height: 48px;
+    width: 48px;
+    border-radius: 50%/50%;
+}
+.class-jamstack-5 h3 {
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.18px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 19px;
+}
+.class-jamstack-5 p {
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0.18px;
+    line-height: 33px;
+    text-align: center;
+    text-transform: uppercase;
+}
+section.content-section.seventh-part {
+    padding: 0 0 15px;
+}
+.class-jamstack-6 {
+    padding-bottom: 15px;
+}
+
 @media (max-width: 1199px) {   }
 
 @media (max-width: 991px) {   }
 
-@media (max-width: 762px) { 
-  
+@media (max-width: 768px) { 
+    .breadcrumb-container{
+        margin-left: 0px !important;
+    }
     .success-service-list > .row > div:last-child {
         height: auto;
     }
@@ -951,14 +1045,31 @@ section.dm__other-service  strong, section.dm__links   strong {
         padding: 0;
         opacity: 1;
      }
+     .class-jamstack-4 .col-xs-12  {
+        margin-bottom: 20px;
+    }
+    .class-jamstack-5 .success-item.center {
+        box-shadow: none;
+    }
+    .class-jamstack-3 img {
+        margin-bottom: 20px;
+    }
+    .class-jamstack-3 .text-left {
+        text-align: center;
+    }
+    .systedev-page h1 {
+        margin-top: 30px;
+    }
+    .contact-banner ul li a {
+        margin-top: 15px;
+    }
+    .contact-banner ul li {
+        display: block;
+        text-align: center;
+    }
+    .footer-update.content-wrapper__ {
+        padding: 20px;
+    }
 }
 
 @media (max-width: 575px) {   }
-
- 
-
-
- 
-
-
- 

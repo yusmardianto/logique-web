@@ -114,7 +114,7 @@
 							<div class="language-btn">
 								<ul class="list-inline">
 									<li><a href="/en/services/webdev-price-range.php">EN</a></li>
-									<li><a href="/layanan/webdev-price-range.php">ID</a></li>
+									<li><a href="/layanan/harga-pembuatan-website.php">ID</a></li>
 									<li class="active"><a href="#">JP</a></li>
 								</ul>
 							</div>
