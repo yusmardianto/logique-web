@@ -79,7 +79,7 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'home';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <!-- HEADER -->
