@@ -455,7 +455,7 @@
                         <p>Website</p>
                       </div>
                       <p class="card-title">Alodokter</p>
-                      <p class="card-content">Penetration Testing AP</p>
+                      <p class="card-content">Penetration Testing API</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                   </a>
               </div>
