@@ -438,7 +438,7 @@
                       <p>Website</p>
                     </div>
                     <p class="card-title">PT Yamaha Indonesia Motor</p>
-                    <p class="card-content">Digital Maintenance</p>
+                    <p class="card-content">Penetration Testing Website</p>
                     <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                 </a>
               </div>
@@ -455,7 +455,7 @@
                         <p>Website</p>
                       </div>
                       <p class="card-title">Alodokter</p>
-                      <p class="card-content">Digital Maintenance</p>
+                      <p class="card-content">Penetration Testing API</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                   </a>
               </div>
@@ -472,7 +472,7 @@
                         <p>Website</p>
                       </div>
                       <p class="card-title">PT Gunatronikatama Cipta</p>
-                      <p class="card-content">Digital Maintenance</p>
+                      <p class="card-content">Penetration Testing Infrastruktur Internal</p>
                       <img src="./assets/img/top/right-arrow.svg" class="icon" alt="">
                   </a>
               </div>
