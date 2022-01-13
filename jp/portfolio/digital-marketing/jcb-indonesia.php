@@ -19,7 +19,7 @@
         content="Digital advertisement yang LOGIQUE terapkan membawa banyak dampak positif untuk JCB Indonesia. Simak bagaimana strategi marketing properti kami di sini.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/jcb-indonesia.php">
-    <title>JCBインドネシア | デジタルマーケティングパフォーマンスポートフォリオ </title>
+    <title>JCB Indonesia | Portofolio Performa Digital Marketing</title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -113,19 +113,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">家</span></a>
+                                            href="index.php"><span itemprop="name">Home</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;ポルトフォリオ</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;JCBインドネシア</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;JCB Indonesia</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -145,11 +145,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>JCBインドネシア</h1></div>
+                                <div class="title text-white"><h1>JCB Indonesia</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    チャイルドケア寄付プログラムのためのデジタルキャンペーンの最適化。 
+                                Digital Campaign Optimizations for the Child Care Donation Program.
                                 </h3>
-                                <p class="text-white ml-0"><b>コンセプトとキャンペーンプロデューサー| 寄付プラットフォームの操作（BenihBaik）| コンテンツ作成| Instagramデジタルキャンペーン </b></p>
+                                <p class="text-white ml-0"><b>Concept and Campaign Producer | Cooperation with Donation Platform (BenihBaik) | Content Making | Instagram Digital Campaign</b></p>
 
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                         <div class="container__ ">
                             <div class="row">
                                 <div class="col-md-8">
-                                    <div class="title"><h1>クライアントの背景 </h1></div>
+                                    <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                     <p class="title__description">
                                         JCBインドネシアは、日本発の世界的に有名なカード決済会社であり、現在もインドネシアにおける、日本発の唯一のクレジットカード発行会社です。JCBは1961年に日本国内でカード事業を開始。1981年以降、世界各地に展開しています。現在、JCBカードはアジアを中心に発行数を増やしており、会員数は1億4,000万人超。そんなJCBの国際的な成長戦略の一つは、世界の大手銀行や金融機関数百社と提携し、加盟店やカード会員を増加させることです。なおインドネシアでは、BCA、BNI、CIMB Niaga、Bank Mandiri、Maybank Indonesiaの6大銀行と提携。特に、日本国内では様々な特典やクロスボーダーサービスを提供しています。
                                     </p>
@@ -188,7 +188,7 @@
                         <div class="container__ banner-detail__content">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="title"><h1>アプローチ戦略 </h1></div>
+                                    <div class="title"><h1>APPROACHING STRATEGY</h1></div>
                                     <p class="title__description" >
                                         JCBはLOGIQUEを協業し、コンセプト立案からプラットフォームの調整、さらにはデジタル広告によるJCB Peduli Anakプログラムのマーケティング支援などを実行。LOGIQUEは、寄付を募るためのプラットフォームとの調整など、さまざまなステップを実行しました。
                                     </p>
@@ -218,7 +218,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>結果</h1></div>
+                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white">
                                     2021年10月から企画されたJCB Peduli Anak Programは、2021年11月末まで、正確には25日まで徹底的に実行され、それ以降はオフラインでの実施に移行しています。LOGIQUEは、Instagramを利用したデジタル広告を、高い関連性で運用することに成功しました。
                                 </p>
@@ -253,7 +253,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>重要なポイント</h1></div>
+                                <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
                                     企業のCSRキャンペーンの一環として、寄付プラットフォームとコラボレーションすることは、どの企業にとっても、より広い社会に貢献するための最も効率的な方法の一つとなっています。LOGIQUEは最適なコーポレートマーケティング戦略を実施。寄付プラットフォームを通じて、The JCB Peduli Anak Programを効果的に宣伝することで、企業全体のブランド認知度をさらに向上させ、質の高いデジタルマーケティングの恩恵を受けることに成功しました。
                                 </p>

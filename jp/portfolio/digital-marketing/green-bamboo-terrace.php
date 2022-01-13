@@ -19,7 +19,7 @@
         content="The digital ads applied by LOGIQUE have effectively promoted Green Bamboo Terrace’s real estate business. Check out our property marketing strategies here.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/green-bamboo-terrace.php">
-    <title>緑の竹テラス | デジタルマーケティングパフォーマンスポートフォリオ </title>
+    <title>Green Bamboo Terrace | Digital Marketing Performance Portfolio</title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -113,19 +113,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">家</span></a>
+                                            href="index.php"><span itemprop="name">Home</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp; ポルトフォリオ</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp; デジタルマーケティング </span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;緑の竹テラス</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Green Bamboo Terrace</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -145,11 +145,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>緑の竹テラス</h1></div>
+                                <div class="title text-white"><h1>Green Bamboo Terrace</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    デジタル広告を通じて、リードの品質を最適化し、不動産市場での競争に勝ちます 
+                                    Optimizing the Quality of Leads and Winning the Competition in the Property Market Through Digital Advertisement
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス | Google広告 | FB＆IG広告 </b></p>
+                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>クライアントの背景 </h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
                                     Green Bamboo Terraceは、モダンでミニマル、かつラグジュアリーな住宅を提供する不動産サービスで、ボゴール市の中心部という戦略的なエリアに位置しており、現在インドネシアの大手不動産開発会社であるPT.Bamboo Terraceによって運営されています。
                                 </p>
@@ -196,7 +196,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>行動計画/一般戦略 </h1></div>
+                                <div class="title"><h1>GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
                                     LOGIQUEはまず、リードの質を最適化することを目的に、デジタル広告による不動産マーケティング戦略を実施しました。提供する商品や潜在的な顧客層に応じて、チャネルや配信時期などを定めた広告キャンペーンを行うなど、綿密なマーケティング戦略を立案、実行しました。
                                 </p>
@@ -223,7 +223,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>結果 </h1></div>
+                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     このような戦略により、LOGIQUEは、商品・カテゴリページに直接リンクする、関連性の高いデジタル広告を作成することに成功しました。この戦略により、以下のような効果が得られました。
                                 </p>
@@ -232,11 +232,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-darker-green text-6xl">+8%</h5>                                  
-                                         <p class="text-darker-green text-xl mt-2"><b>変換速度 </b></p>
+                                         <p class="text-darker-green text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-darker-green text-6xl">+10%</h5>                                  
-                                         <p class="text-darker-green text-xl mt-2"><b>会話 </b></p>
+                                         <p class="text-darker-green text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
                                 
@@ -244,7 +244,7 @@
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-darker-green text-6xl">+15%</h5>                                  
-                                         <p class="text-darker-green text-xl mt-2"><b>クリック課金（CPC） </b></p>
+                                         <p class="text-darker-green text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-darker-green text-6xl">+43%</h5>                                  
@@ -259,7 +259,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>重要なポイント</h1></div>
+                                <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
                                     Green Bamboo Terrace とLOGIQUEは、不動産に対する高い需要と市場競争の激化により、継続的なイノベーションを追求する姿勢を強めています。この戦略を実行するために、LOGIQUEはユニークなアプローチを開発し、予約や交流に興味を持つ潜在的な顧客に肯定的な印象を与えることに注力しています。実際、Green Bamboo Terraceのコンバージョン数は、全体的に増加しています。
                                 </p>

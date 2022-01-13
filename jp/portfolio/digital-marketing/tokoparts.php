@@ -18,7 +18,7 @@
         content="LOGIQUE aims to improve the quality of Tokoparts’ website through web maintenance & search engine optimization, increasing user satisfaction.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/tokoparts.php">
-    <title>EコマースTokoparts | デジタルマーケティングパフォーマンスポートフォリオ</title>
+    <title>E-Commerce Tokoparts | Digital Marketing Performance Portfolio</title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -112,15 +112,15 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">家</span></a>
+                                            href="index.php"><span itemprop="name">Home</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;ポルトフォリオ</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/en/portfolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -147,9 +147,9 @@
                             <div class="col-md-8 col-sm-12"  >                                
                                 <div class="title text-white"><h1>Tokoparts </h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    厳しい市場競争の中で検索エンジンの自動車スペアパーツキーワード競争に勝つ。 
+                                    Winning the Automotive Spare Parts Keyword Competition on Search Engines Amid Tight Market Competition.
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス | Google広告 | FB＆IG広告</b></p>
+                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>クライアントの背景</h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
                                     Tokopartsは、BtoB電子商取引の分野に特化し、特に、自動車用のスペアパーツを提供することを目的としています。この種の電子商取引で同社は、信頼できるサプライヤーを厳選し、正確で質の高いデータベースを提供しているため、顧客はスペアパーツを容易に検索できます。
                                 </p>
@@ -193,7 +193,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>行動計画/一般戦略</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
                                     Eコマース市場の激しい競争の中、Webサイトのキーワード順位を向上させるために、LOGIQUEはまず、Webサイト全体の改善とより良い発展のための、包括的かつ構造的な計画を実施しました。
                                 </p>
@@ -223,7 +223,7 @@
                     <div class="container__ banner-detail__content" style="padding-bottom: 32px;">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>結果</h1></div>
+                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     最適化されたデジタル資産とSEO資産を導入することで、LOGIQUEは、TokopartsのWebサイト全体の品質を向上させることに成功しました。さらに、製品ページやカテゴリーページに直接リンクさせた関連性の高いキーワードを使用することで、Webサイト全体のランクを向上させることも達成しました。
                                 </p>
@@ -236,14 +236,14 @@
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                             <h5 class="card-text text-dark-red text-6xl">+88%</h5>                                  
-                                            <p class="text-dark-red text-xl mt-2"><b>総クリック数</b></p>
+                                            <p class="text-dark-red text-xl mt-2"><b>Total Clicks</b></p>
                                         </div>
                                           
                                     </div>                              
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center" >
                                             <h5 class="card-text text-dark-red text-6xl">+83%</h5>                                  
-                                            <p class="text-dark-red text-xl mt-2"><b>総印象</b></p>
+                                            <p class="text-dark-red text-xl mt-2"><b>Total Impression</b></p>
                                         </div>
                                     </div>    
                                 </div>
@@ -257,14 +257,14 @@
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                             <h5 class="card-text text-dark-red text-6xl">+66%</h5>                                  
-                                            <p class="text-dark-red text-xl mt-2"><b>平均ポジション</b></p>
+                                            <p class="text-dark-red text-xl mt-2"><b>Average Position</b></p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                             <h5 class="card-text text-dark-red text-6xl">-17%</h5>                                  
-                                            <p class="text-dark-red text-xl mt-2"><b>バウンス率</b></p>
+                                            <p class="text-dark-red text-xl mt-2"><b>Bounce Rate</b></p>
                                         </div>   
                                     </div>                                                                                             
                                 </div>
@@ -275,7 +275,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>重要なポイント</h1></div>
+                                <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
                                     Webサイト制作の方向性を決めるには、クライアントの商品と、その対象となるオーディエンスを理解することが重要なため、LOGIQUEでは、適切なキーワードをターゲティングするための調査も行っています。これにより、Webサイトの視認性を向上させ、潜在的なオーディエンスにリーチしやすくします。このように、サイトのパフォーマンスを最適化することは、必然的に検索エンジン内でのパフォーマンスアップにつながるのです。
                                 </p>

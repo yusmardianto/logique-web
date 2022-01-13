@@ -19,7 +19,7 @@
         content="To increase sales, Graha Mirai uses digital advertisement services from LOGIQUE. This property marketing strategy has succeeded in increasing the company's profits.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/graha-mirai.php">
-    <title>グラハミライ | デジタルマーケティングパフォーマンスポートフォリオ </title>    
+    <title>Graha Mirai | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -111,19 +111,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">家</span></a>
+                                            href="index.php"><span itemprop="name">Home</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;ポルトフォリオ </span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;グラハミライ</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Graha Mirai</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -143,11 +143,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>グラハミライ</h1></div>
+                                <div class="title text-white"><h1>Graha Mirai</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    デジタル広告を通じて工業団地の真ん中で不動産販売を増やす 
+                                    Increase Property Sales in the Middle of Industrial Estates Through Digital Advertisement 
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス  | Google広告  | FB＆IG広告 </b></p>
+                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>クライアントの背景 </h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND </h1></div>
                                 <p class="title__description" >
                                     Graha Miraiは、チカラン市の中心部に位置する高級レジデンスで、インドネシアの大手不動産開発会社であるPT. Hajime Indonesia Jayaが開発・管理を行っています。
                                 </p>
@@ -194,7 +194,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>行動計画/一般戦略 </h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
                                     当プロジェクトにおいてGraha Miraiは、デジタル広告を活用した効果的な物件マーケティング戦略を選択。その広告が効果的に機能するよう、LOGIQUEが最適化を行います。LOGIQUEは、提供する商品とターゲット層に基づいて、チャネル＆プレースメントによる広告キャンペーンを策定しています。
                                 </p>
@@ -221,7 +221,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>結果 </h1></div>
+                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     デジタル広告を成功に導くためには、閲覧者ターゲティングの適切な戦略によって大きく左右されます。これを念頭にLOGIQUEチームは、多種多様で綿密な分析を実行。高いターゲティング精度を持つ閲覧者グループを浮き彫りにすることに成功しました。
                                 </p>
@@ -264,7 +264,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>重要なポイント</h1></div>
+                                <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
                                     Graha Miraiの特殊なケース、つまり工業地帯の中心地に位置する住宅に対応するという命題に対して、効果的なデジタル広告を発信するための適切な方法を見つけることは困難を極めました。しかしLOGIQUEは、この特殊な物件マーケティング戦略を攻略することで、「職場に近い住宅」を必要とする顧客や投資手段を探している顧客など、意図したターゲットに的確にリーチするデジタル広告を提示することに成功したのです。
                                 </p>

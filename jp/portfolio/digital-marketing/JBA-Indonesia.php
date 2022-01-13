@@ -19,7 +19,7 @@
         content="The auction company JBA Indonesia’s digital marketing strategy focuses on increasing brand awareness and conversions. Check out our strategy here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/jba-indonesia.php">
-    <title>JBAインドネシア | デジタルマーケティングパフォーマンスポートフォリオ </title>
+    <title>JBA Indonesia | Digital Marketing Performance Portfolio</title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -66,7 +66,7 @@
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <?php 
+<?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
             include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
@@ -113,19 +113,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">家</span></a>
+                                            href="index.php"><span itemprop="name">Home</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;ポルトフォリオ</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/en/portfolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;JBAインドネシア </span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;JBA Indonesia</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -145,11 +145,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>PT. JBAインドネシア  </h1></div>
+                                <div class="title text-white"><h1>PT. JBA Indonesia </h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Facebook、Instagram、Google広告によるブランド認知度とコンバージョン開発。                            
+                                    Developing Brand Awareness and Conversions through Facebook, Instagram, and Google Advertisement.                                                                  
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス | Google広告 | FB＆IG広告</b></p>
+                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>クライアントの背景</h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
                                     JBA インドネシアは、インドネシアの自動車＆バイクオークション業界のNo.1企業です。2011年にインドネシアのオークション市場に参入し、現在ではインドネシア国内の主要都市に18以上の支店・各拠点ルを展開しています。JBAは、自動車オークションのパイオニアとして、独自の革新的なビジネス戦略でオークション事業の拡大に取り組んでいます。
                                 </p>
@@ -193,7 +193,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>行動計画/一般戦略</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
                                     Facebook、Instagram、Google広告の効果は、適切なターゲット設定できるかどうかに大きく影響されます。JBAという、自動車オークション企業に関する私たちLOGIQUEのデジタルマーケティング戦略は、まず、提供するサービスや商品の詳細な分析を行うことから始まります。その後、ターゲット層を決定しそれらをより深く理解するために、オーディエンスをプロファイリングする段階へと移行します。
                                 </p>
@@ -220,7 +220,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>結果</h1></div>
+                                <div class="title text-white mt-7"><h1>RESULT</h1></div>
                                 <p class="text-white" >
                                 LOGIQUEのデジタルマーケティング戦略により、Facebook、Instagram、Googleの3大プラットフォームに広告を掲載。商品ページやカテゴリーページに直接リンクするよう、高い関連性を持たせた広告を掲載することに成功しました。このLOGIQUEのキャンペーンで実施した広告により、JBA Indonesiaのアクセス数は大幅に増加。成功を収めました。
                                 </p>
@@ -229,11 +229,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+8%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>変換速度</b></p>
+                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+10%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>会話</b></p>
+                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
                                 
@@ -241,7 +241,7 @@
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>クリック課金（CPC)</b></p>
+                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+43%</h5>                                  
@@ -256,7 +256,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>重要なポイント</h1></div>
+                                <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
                                     オークション市場における競争の激化は、LOGIQUEが常に革新に努めて、最高品質でユニークなアプローチを、そしてあらゆる潜在顧客に感銘を与えることができるデジタルマーケティング戦略を開発し続けるための課題となっています。
                                     私たちが提供するソリューションを通じて、企業は、ブランドの認知度を大幅に向上させ、さらに顧客との接点を多く引き寄せ、以前よりも高いコンバージョン数を生み出すことを実現しているのです。

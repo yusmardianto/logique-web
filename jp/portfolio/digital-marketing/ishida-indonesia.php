@@ -19,7 +19,7 @@
         content="LOGIQUE's Google search advertisement campaigns have helped Ishida generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/ishida-indonesia.php">
-    <title>石田インドネシア  | デジタルマーケティングパフォーマンスポートフォリオ </title>    
+    <title>Ishida Indonesia | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -111,19 +111,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">家</span></a>
+                                            href="index.php"><span itemprop="name">Home</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp; ポルトフォリオ</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp; デジタルマーケティング</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;石田インドネシア </span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Ishida Indonesia</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -143,11 +143,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>石田インドネシア </h1></div>
+                                <div class="title text-white"><h1>Ishida Indonesia</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Google検索広告を通じて、さまざまな生産機械技術に対するビジネスオーナーのニーズに応えます。 
+                                    Answering the Needs of Business Owners for Various Production Machine Technologies Through Google Search Advertisements.
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス | Google広告 | FB＆IG広告 </b></p>
+                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>クライアントの背景 </h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
                                     Ishida Indonesiaは、日本にある株式会社イシダの正式なインドネシア支店です。イシダは、スナック菓子、食肉、果物、惣菜、水産物など、さまざまな業界向けの計量・包装・検査機（重量選別機、金属探知機、X線検査機）を製造しているメーカーとしてその名を知られており、多くのクライアント企業の、大規模な工場機械類におけるニーズにも対応できる企業としても有名です。
                                 </p>
@@ -192,7 +192,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>行動計画/一般戦略 </h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
                                 <p class="title__description" >
                                     Google検索広告を成功させるために、LOGIQUEチームはまず、精度の高い閲覧者グループのターゲティングを行うために、綿密な分析を実行。また、商品のセールスポイントや市場のポテンシャルに関して、広告の効果を確実にするための徹底的な詳細分析も行いました。
                                 </p>
@@ -219,7 +219,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>結果 </h1></div>
+                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
                                     LOGIQUEのマーケティング戦略により、Webサイト内の適切な製品ページに直接リンクする、関連性の高いカスタマイズされたGoogle検索広告の出稿に成功しました。
                                     なお、マーケティング戦略の成果は以下の通りです。
@@ -230,11 +230,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+24%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>変換速度 </b></p>
+                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+46%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>会話</b></p>
+                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
                                 
@@ -242,7 +242,7 @@
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">-27%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>クリック課金（CPC）</b></p>
+                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-blue-card text-6xl">+37%</h5>                                  
@@ -257,7 +257,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>重要なポイント</h1></div>
+                                <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
                                     Ishida Indonesiaの製品が広く認知され、意図したターゲットにリーチできるよう、LOGIQUEではGoogle検索広告を出稿する前に綿密な分析を行っています。また、商品カテゴリを細かく設定することで、ターゲットに的確にリーチし、高いコンバージョン率を実現していることも特筆すべき点でしょう。このようなマーケティング戦略により、より最適なリードを獲得しています。
                                 </p>
