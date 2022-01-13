@@ -76,7 +76,7 @@
             $lang = 'en';
             $en_link = '#';
             $id_link = '/portofolio/digital-marketing/green-bamboo-terrace.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
+            $jp_link = '/jp/portfolio/digital-marketing/green-bamboo-terrace.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 

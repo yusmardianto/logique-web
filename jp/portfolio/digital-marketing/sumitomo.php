@@ -19,7 +19,7 @@
         content="Sumitomo implements an SEO strategy improving overall website quality. LOGIQUE has succeeded in bringing about significant improvements.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/sumitomo.php">
-    <title>Sumitomo (SHI) | Digital Marketing Performance Portfolio</title>
+    <title>住友 (SHI) | デジタルマーケティングパフォーマンスポートフォリオ </title>
     
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -69,15 +69,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'en';
-            $en_link = '#';
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/sumitomo.php';
             $id_link = '/portofolio/digital-marketing/sumitomo.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -113,19 +113,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">家</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;ポルトフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/en/portfolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Sumitomo Heavy Industries</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;住友重機械</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -145,11 +145,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Sumitomo Heavy Industries (SHI) </h1></div>
+                                <div class="title text-white"><h1>住友重機械 (SHI) </h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Improve Website Quality and Quality Through Search Engine Optimization (SEO)
+                                    検索エンジン最適化（SEO）はウェブサイトの品質と品質を向上させます 
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
+                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス | Google広告 | FB＆IG広告</b></p>
 
                             </div>
                         </div>
@@ -163,7 +163,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
+                                <div class="title"><h1>クライアントの背景</h1></div>
                                 <p class="title__description" >
                                     住友重機械工業は、高度な精密機械からカスタマイズされた機械まで、幅広い製品を製造する機械製造専門企業です。また、船舶や工場・環境設備の製造も行っています。 
                                 </p>
@@ -193,7 +193,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
+                                <div class="title"><h1>行動計画/一般戦略 </h1></div>
                                 <p class="title__description" >
                                     LOGIQUEは、住友商事のWebサイトの品質を向上させるために、まずサイト全体のポテンシャルを見極める重要なステップを踏んでいます。
                                 </p>
@@ -223,7 +223,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
+                                <div class="title text-white mt-7"><h1>結果</h1></div>
                                 <p class="text-white" >
                                     LOGIQUEのデジタルマーケティング戦略の実施により、Webサイト全体の品質向上だけでなく、関連性の高いキーワードを設定し、製品やカテゴリーページに直接リンクさせることで、潜在的なキーワードのポジションを向上させることに成功しました。検索エンジン最適化（SEO）プロセスを通じて、住友商事のWebサイトは以下の指標に関して著しく向上しました。
                                 </p>
@@ -234,14 +234,14 @@
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                             <h5 class="card-text text-light-blue text-6xl">+34%</h5>                                  
-                                            <p class="text-light-blue text-xl mt-2"><b>Total Clicks</b></p>
+                                            <p class="text-light-blue text-xl mt-2"><b>総クリック数</b></p>
                                         </div>
                                           
                                     </div>                              
                                     <div class="col-md-6 col-xs-12">    
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center" >
                                             <h5 class="card-text text-light-blue text-6xl">+77%</h5>                                  
-                                            <p class="text-light-blue text-xl mt-2"><b>Total Impression</b></p>
+                                            <p class="text-light-blue text-xl mt-2"><b>総印象</b></p>
                                         </div>
                                     </div>    
                                 </div>
@@ -255,14 +255,14 @@
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                             <h5 class="card-text text-light-blue text-6xl">+7%</h5>                                  
-                                            <p class="text-light-blue text-xl mt-2"><b>Average Position</b></p>
+                                            <p class="text-light-blue text-xl mt-2"><b>平均位置</b></p>
                                         </div>
                                     </div>
 
                                     <div class="col-md-4 col-xs-12">                                                                                                                          
                                         <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                             <h5 class="card-text text-light-blue text-6xl">-28%</h5>                                  
-                                            <p class="text-light-blue text-xl mt-2"><b>Bounce Rate</b></p>
+                                            <p class="text-light-blue text-xl mt-2"><b>バウンス率</b></p>
                                         </div>   
                                     </div>                                                                                             
                                 </div>
@@ -274,7 +274,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>Key Takeaway</h1></div>
+                                <div class="title text-white"><h1>重要なポイント</h1></div>
                                 <p class="text-white" >
                                     クライアントの製品、顧客層を理解することは、Webサイト構築の方向性を決定する重要な要素です。また、検索エンジン最適化戦略を実施することで、ユーザー満足度を適切に確保し、検索エンジンアルゴリズムに準拠した最適なWebサイトの品質を維持することができます。提供されるソリューションを通じて、企業はより多くの訪問者を大幅に生み出し、Webサイトのランキングを向上させ、サイトのインプレッションを増加させることも可能です。
                                 </p>

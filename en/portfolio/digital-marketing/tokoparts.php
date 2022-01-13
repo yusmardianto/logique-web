@@ -75,7 +75,7 @@
             $lang = 'en';
             $en_link = '#';
             $id_link = '/portofolio/digital-marketing/tokoparts.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
+            $jp_link = '/jp/portfolio/digital-marketing/tokoparts.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 

@@ -19,7 +19,7 @@
         content="LOGIQUE's Google search advertisement campaigns have helped YKKAP Indonesia generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/portofolio/digital-marketing/ykkap-indonesia.php">
-    <title>YKKAP | Digital Marketing Performance Portfolio</title>    
+    <title>YKKAPインドネシア | デジタルマーケティングパフォーマンスポートフォリオ</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -67,15 +67,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'en';
-            $en_link = '#'; 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/ykkap-indonesia.php'; 
             $id_link = '/portofolio/digital-marketing/ykkap-indonesia.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -111,19 +111,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">家</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;ポルトフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;YKK AP Indonesia</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;YKKAPインドネシア </span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -143,12 +143,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>YKK AP Indonesia</h1></div>
+                                <div class="title text-white"><h1>YKKAPインドネシア</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                Strengthening the Brand’s Image and Increasing Sales through Digital Advertising
+                                    デジタル広告によるブランドイメージの強化と売り上げの増加
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
-
+                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス | Google広告 | FB＆IG広告</b></p>
                             </div>
                         </div>
                     </div>
@@ -161,7 +160,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
+                                <div class="title"><h1>クライアントの背景</h1></div>
                                 <p class="title__description" >
                                   PT. YKK AP INDONESIAは、ファスナー製品から機械エンジニアリング製品、建築製品の開発を基盤とする日本企業、YKKグループの子会社です。
                                 </p>
@@ -192,7 +191,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
+                                <div class="title"><h1>行動計画/一般戦略</h1></div>
                                 <p class="title__description" >
                                   PT. YKK AP INDONESIAは、デジタル広告キャンペーンの運営をLOGIQUEに全面的に委託することで、ブランド認知強化施策による企業利益のさらなる増大を実現しています。LOGIQUEは、同社の目標が事前に設定されたプランに従って達成されることを保証しており、そのためには、ターゲットにリーチするための適切なチャネル等を決定することが、プロジェクト成功の一つの鍵となると考えました。
                                 </p>
@@ -221,7 +220,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
+                                <div class="title text-white mt-7"><h1>結果</h1></div>
                                 <p class="text-white" >
                                   デジタル広告の成功は、最終的には、ターゲット層の適切な設定と適切な広告出稿戦略によって左右されます。そこでLOGIQUEでは、多角的かつ綿密な分析を行い、高いターゲティング精度を持つ閲覧グループやチャネルを獲得することに尽力しました
                                 </p>  
@@ -233,11 +232,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-light-blue text-6xl">180.50%</h5>                                  
-                                         <p class="text-light-blue text-xl mt-2"><b>Conversion Rate</b></p>
+                                         <p class="text-light-blue text-xl mt-2"><b>変換速度</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-light-blue text-6xl">+120%</h5>                                  
-                                         <p class="text-light-blue text-xl mt-2"><b>Conversions</b></p>
+                                         <p class="text-light-blue text-xl mt-2"><b>会話</b></p>
                                     </div>   
                                 </div>
                                 
@@ -245,7 +244,7 @@
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-light-blue text-6xl">-55.55%</h5>                                  
-                                         <p class="text-light-blue text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                         <p class="text-light-blue text-xl mt-2"><b>クリック課金（CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-light-blue text-6xl">118.35%</h5>                                  
@@ -260,7 +259,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>Key Takeaway</h1></div>
+                                <div class="title text-white"><h1>重要なポイント</h1></div>
                                 <p class="text-white" >
                                   インドネシアにおけるアルミニウム押出製品および、店舗用アルミプロファイルバーのリーディングカンパニーとして、PT. YKK AP INDONESIAは、今日のデジタル時代の中で、高い競争力を維持することを目指しています。同社の高い目標を実現するためLOGIQUEは、効果的なキャンペーンを設計・実施し続けることに挑戦しているのです。適切なターゲット層とチャネルを策定することは、最終的に、効果的かつ質の高い結果を導くと信じています。
                                 </p>

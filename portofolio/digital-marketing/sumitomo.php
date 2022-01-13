@@ -76,7 +76,7 @@
             $lang = 'id';
             $en_link = '/en/portfolio/digital-marketing/sumitomo.php';
             $id_link = '#';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
+            $jp_link = '/jp/portfolio/digital-marketing/sumitomo.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 

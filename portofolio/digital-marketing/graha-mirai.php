@@ -75,7 +75,7 @@
             $lang = 'id';
             $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
             $id_link = '#';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
+            $jp_link = '/jp/portfolio/digital-marketing/graha-mirai.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 

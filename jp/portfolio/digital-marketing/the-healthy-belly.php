@@ -19,7 +19,7 @@
         content="LOGIQUE's Google search advertisement campaigns have helped The Healthy Belly generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/the-healthy-belly.php">
-    <title>The Healthy Belly | Digital Marketing Performance Portfolio</title>    
+    <title>健康な腹 | デジタルマーケティングパフォーマンスポートフォリオ</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -67,15 +67,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'en';
-            $en_link = '#'; 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/the-healthy-belly.php'; 
             $id_link = '/portofolio/digital-marketing/the-healthy-belly.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -111,19 +111,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">家</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;ポルトフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;The Healthy Belly</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;健康な腹</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -143,11 +143,11 @@
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>The Healthy Belly</h1></div>
+                                <div class="title text-white"><h1>健康な腹</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Increasing the Company’s Brand Awareness through Facebook, Instagram, and Digital Advertisement
+                                    Facebook、Instagram、デジタル広告を通じて会社のブランド認知度を高める 
                                 </h3>
-                                <p class="text-white ml-0"><b>Website Maintenance | Social Media Management | FB & IG Ads</b></p>
+                                <p class="text-white ml-0"><b>SEO | ウェブサイトのメンテナンス | Google広告 | FB＆IG広告</b></p>
 
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
+                                <div class="title"><h1>クライアントの背景</h1></div>
                                 <p class="title__description" >
                                     The Healthy Bellyは、健康食品業界で事業を展開するLOGIQUEのクライアントの1つです。同社は、「健康な食生活で、体も心も健康に」をモットーに、栄養価の高い食品を毎日摂取することで、体も心も健康になれると考えています。
                                 </p>
@@ -195,7 +195,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
+                                <div class="title"><h1>行動計画/一般戦略 </h1></div>
                                 <p class="title__description" >
                                     The Healthy Bellyは、デジタル広告を利用したデジタルマーケティング活動を支援するためにLOGIQUEと協働したわけですが、
                                 </p>
@@ -225,7 +225,7 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
-                                <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
+                                <div class="title text-white mt-7"><h1>結果</h1></div>
                                 <p class="text-white" >
                                     LOGIQUEは、過去に成功したさまざまなデジタルマーケティング戦略により、InstagramとFacebookのプラットフォームで、The Healthy Bellyのメインサービスページに直接リンクされた、関連性の高いデジタル広告を掲載することができました。このデジタル広告戦略により、The Healthy Bellyは、以下のように大幅な収益増に成功しました。
                                 </p>  
@@ -234,11 +234,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-dark-green text-6xl">180.50%</h5>                                  
-                                         <p class="text-dark-green text-xl mt-2"><b>Conversion Rate</b></p>
+                                         <p class="text-dark-green text-xl mt-2"><b>変換速度</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-dark-green text-6xl">+120%</h5>                                  
-                                         <p class="text-dark-green text-xl mt-2"><b>Conversions</b></p>
+                                         <p class="text-dark-green text-xl mt-2"><b>会話</b></p>
                                     </div>   
                                 </div>
                                 
@@ -246,7 +246,7 @@
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-dark-green text-6xl">-55.55%</h5>                                  
-                                         <p class="text-dark-green text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                         <p class="text-dark-green text-xl mt-2"><b>クリック課金（CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
                                          <h5 class="card-text text-dark-green text-6xl">118.35%</h5>                                  
@@ -261,7 +261,7 @@
 
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title text-white"><h1>Key Takeaway</h1></div>
+                                <div class="title text-white"><h1>重要なポイント</h1></div>
                                 <p class="text-white" >
                                     食品業界における競争の激化を背景に、LOGIQUEは、最適かつユニークで、すべての潜在的消費者にポジティブな印象を与えるマーケティング戦略を構築しました。このようにして、The Healthy Bellyは、同社のブランド認知度を高め、その過程でこれまで以上に顧客との関係性を構築することができたのです。
                                 </p>
