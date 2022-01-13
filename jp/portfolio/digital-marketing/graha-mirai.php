@@ -111,15 +111,15 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">ホーム</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio/digital-marketing.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
