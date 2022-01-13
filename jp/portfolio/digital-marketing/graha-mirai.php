@@ -68,15 +68,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'en';
-            $en_link = '#';
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
             $id_link = '/portofolio/digital-marketing/graha-mirai.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -145,7 +145,7 @@
                             <div class="col-md-8 col-sm-12" >                                
                                 <div class="title text-white"><h1>Graha Mirai</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Increase Property Sales in the Middle of Industrial Estates Through Digital Advertisement
+                                    Increase Property Sales in the Middle of Industrial Estates Through Digital Advertisement 
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -161,7 +161,7 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND </h1></div>
                                 <p class="title__description" >
                                     Graha Miraiは、チカラン市の中心部に位置する高級レジデンスで、インドネシアの大手不動産開発会社であるPT. Hajime Indonesia Jayaが開発・管理を行っています。
                                 </p>

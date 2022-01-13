@@ -74,7 +74,7 @@
             $lang = 'en';
             $en_link = '#'; 
             $id_link = '/portofolio/digital-marketing/ykkap-indonesia.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
+            $jp_link = '/jp/portfolio/digital-marketing/ykkap-indonesia.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 

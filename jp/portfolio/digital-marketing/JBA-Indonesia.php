@@ -66,18 +66,18 @@
     <div class="wrapper wrapper--update-design wrapper--update-design-font">
 
         <!-- NAVIGATION -->
-        <?php 
+<?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'en';
-            $en_link = '#';
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/JBA-Indonesia.php';
             $id_link = '/portofolio/digital-marketing/JBA-Indonesia.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>

@@ -74,7 +74,7 @@
             $lang = 'en';
             $en_link = '#'; 
             $id_link = '/portofolio/digital-marketing/ishida-indonesia.php';
-            $jp_link = '/jp/portfolio/digital-marketing.php';
+            $jp_link = '/jp/portfolio/digital-marketing/ishida-indonesia.php';
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 
