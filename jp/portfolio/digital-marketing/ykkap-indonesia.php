@@ -10,16 +10,16 @@
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Performa Digital Marketing | Logique Digital Indonesia">
+    <meta property="og:title" content="YKKAP | Digital Marketing Performance Portfolio">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
+    <meta property="og:url" content="https://www.logique.co.id/en/portofolio/digital-marketing/ykkap-indonesia.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Untuk meningkatkan penjualan, Graha Mirai menggunakan layanan digital advertisement dari LOGIQUE. Strategi pemasaran properti ini berhasil meningkatkan keuntungan perusahaan.">
+        content="LOGIQUE's Google search advertisement campaigns have helped YKKAP Indonesia generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/graha-mirai.php">
-    <title>Graha Mirai | Portofolio Performa Digital Marketing</title>    
+    <link rel="canonical" href="https://www.logique.co.id/en/portofolio/digital-marketing/ykkap-indonesia.php">
+    <title>YKKAP | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -50,7 +50,6 @@
     ?>
 
 </head>
-
 <body style="overflow-x: hidden">
 
     <?php 
@@ -68,15 +67,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
-            $id_link = '#';
-            $jp_link = '/jp/portfolio/digital-marketing/graha-mirai.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/ykkap-indonesia.php'; 
+            $id_link = '/portofolio/digital-marketing/ykkap-indonesia.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -101,7 +100,8 @@
         }
         </style>
 
-        <div class="portfolio-update ind">
+        <div class="portfolio-update portfolio-ykkap ind">
+
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
                     <div class="container__ --top" style="padding:0">
@@ -111,19 +111,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">ホーム</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio/digital-marketing.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Graha Mirai</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;YKK AP Indonesia</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -132,20 +132,20 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-header.png'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/ykkap/bg-header.jpg'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/grahamirai/logo.png" 
+                                    src="/img/portfolio/digitalmarketing/ykkap/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Graha Mirai</h1></div>
+                                <div class="title text-white"><h1>YKK AP Indonesia</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Meningkatkan Penjualan Properti di Tengah Kawasan Industri Melalui Digital Advertisement
+                                Strengthening the Brand’s Image and Increasing Sales through Digital Advertising
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -163,24 +163,22 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai adalah perumahan mewah yang berada di Pusat Kota Cikarang. Perumahan ini dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Hajime Indonesia Jaya.
+                                  PT. YKK AP INDONESIAは、ファスナー製品から機械エンジニアリング製品、建築製品の開発を基盤とする日本企業、YKKグループの子会社です。
                                 </p>
                                 <p class="title__description">
-                                    Graha Mirai menghadirkan rumah hunian atau perumahan dengan konsep yang asri, minimalis, namun tetap modern. Rumah hunian di Graha Mirai ini memiliki kualitas yang terjamin karena sudah melalui pengecekan yang teliti saat proses konstruksi.
+                                  PT.YKK AP INDONESIAが生産する主な製品は、ファスナー、機械工学製品、建築製品です。
                                 </p>
                                 <p class="title__description">
-                                    Lokasinya yang strategis menjadikan Graha Mirai sebagai perumahan yang banyak diminati oleh para konsumen. Perumahan ini berada di antara dua jalan tol yaitu Jalan Tol Elevated Jakarta Cikampek dan Jalan Tol Jakarta Cikampek II Selatan. Selain itu, Graha Mirai juga terletak di kawasan dengan fasilitas umum yang lengkap seperti rumah sakit, sekolah, pusat industri Greenland International Industrial Center (GIIC) Deltamas, serta dekat ke pemerintahan daerah Bekasi.
+                                  YKK AP INDONESIAは、窓やドア、カーテンウォールのアルミ押出形材や、店舗用鉄筋のアルミ形材を生産。その製品の多くは、高級住宅から高層ビルまでさまざまな建築物に使用され、不動産業界の発展に広く貢献しています。また、インドネシアにおけるアルミ建材の開発においても、技術的な進歩に貢献の足跡を残している企業でもあります。
                                 </p>
                                 <p class="title__description">
-                                    PT. Hajime Indonesia Jaya sendiri dalam memberikan layanannya selalu menjamin kualitas rumah yang mereka sediakan. Perusahaan ini berperan aktif dalam mendorong pembangunan perumahan di Indonesia dan selalu berkomitmen untuk bisa menjadi perusahaan developer yang terpercaya.
+                                  これらの製品は、国内のニーズに合わせて販売されるだけでなく、日本やシンガポール、台湾、タイ、マレーシア、ベトナム、ブラジル、アメリカなど、さまざまな国へも広く輸出されています。
                                 </p>
-                                <p class="title__description">
-                                    Untuk mengembangkan bisnis properti yang mereka jalankan, Graha Mirai menggunakan digital advertisement dari LOGIQUE Digital Indonesia. Dengan strategi pemasaran properti ini, diharapkan Graha Mirai dapat menghasilkan lebih banyak penjualan meskipun mereka berada di tengah kawasan industri.
-                                </p>
+                            
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/grahamirai/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/ykkap/pict-client-background.jpg" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -194,20 +192,22 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai memilih strategi pemasaran properti melalui digital advertisement atau iklan digital. Untuk menjalankannya, LOGIQUE melakukan beberapa strategi agar iklan dapat bekerja secara efektif. LOGIQUE membuat advertisement campaign menggunakan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta target audience atau potential customer. 
+                                  PT. YKK AP INDONESIAは、デジタル広告キャンペーンの運営をLOGIQUEに全面的に委託することで、ブランド認知強化施策による企業利益のさらなる増大を実現しています。LOGIQUEは、同社の目標が事前に設定されたプランに従って達成されることを保証しており、そのためには、ターゲットにリーチするための適切なチャネル等を決定することが、プロジェクト成功の一つの鍵となると考えました。
                                 </p>
                                 <p class="title__description" >
-                                    Berikut adalah strategi pemasaran properti yang kami jalankan:
+                                  以下は、その戦略の概要です。
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan skor kualitas iklan</li>
-                                    <li class="approach-item">Membatasi jumlah audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat group audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bekasi dan sekitarnya melalui advertisement campaign dengan menjaga harga bid CPC serta kualitas dari iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Graha Mirai untuk memastikan setiap campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">YKK AP INDONESIAのブランディングチームと積極的に協力し、すべてのキャンペーンがターゲットと目的に沿って行われるように策定</li>
+                                    <li class="approach-item">製品のスペックと優位性を認識し、適切なターゲット層を決定する</li>
+                                    <li class="approach-item">適切なチャンネルを決定し、関連する閲覧者層を選択的に特定する</li>
+                                    <li class="approach-item">ブランド認知度を効果的に向上させるため、詳細な属性と趣味嗜好に基づいた分析を行う</li>
+                                    <li class="approach-item">最も関連性の高いキーワードを特定・決定し、Webサイトの商品とマッチする広告を作成する</li>
+                                    <li class="approach-item">ターゲティング情報を定期的にモニタリングすることで、低品質な閲覧数を制限し、高いレベルでコントロールされた閲覧グループを策定する</li>
+                                    <li class="approach-item">平均CPC価格と広告の品質維持によって、広告キャンペーンを通じた複数のターゲット層・マーケットシェアコントロール力を高める</li>
                                 </ul>
                             </div>
                         </div>
@@ -217,43 +217,39 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-footer.webp');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/ykkap/bg-footer.jpg');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Keberhasilan digital advertisement dipengaruhi oleh penargetan audience yang tepat. Oleh karena itu, tim LOGIQUE melakukan berbagai analisa mendalam untuk mendapatkan kelompok audience dengan akurasi penargetan yang tinggi.
-                                </p>
+                                  デジタル広告の成功は、最終的には、ターゲット層の適切な設定と適切な広告出稿戦略によって左右されます。そこでLOGIQUEでは、多角的かつ綿密な分析を行い、高いターゲティング精度を持つ閲覧グループやチャネルを獲得することに尽力しました
+                                </p>  
                                 <p class="text-white" >
-                                    Dengan strategi pemasaran properti dari LOGIQUE, iklan digital milik Graha Mirai dapat berjalan secara efektif. Kami membuat iklan yang disesuaikan dengan relevansi yang tinggi serta mengaitkannya ke halaman produk Graha Mirai.
-                                </p>
-                                <p class="text-white" >
-                                    Berikut ini adalah pencapaian yang diperoleh dari digital advertisement yang kami jalankan:
-                                </p>
-
+                                  LOGIQUE の戦略により、PT. YKK AP INDONESIAのデジタルマーケティングの試みは、効果的かつ計画通りに運営されています。以下は、デジタル広告から得られた結果概要です。
+                                </p>  
                             </div>
                             <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+22%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
+                                         <h5 class="card-text text-light-blue text-6xl">180.50%</h5>                                  
+                                         <p class="text-light-blue text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+30%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
+                                         <h5 class="card-text text-light-blue text-6xl">+120%</h5>                                  
+                                         <p class="text-light-blue text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
                                 
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">-28%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                         <h5 class="card-text text-light-blue text-6xl">-55.55%</h5>                                  
+                                         <p class="text-light-blue text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
+                                         <h5 class="card-text text-light-blue text-6xl">118.35%</h5>                                  
+                                         <p class="text-light-blue text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
 
@@ -266,7 +262,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Perumahan yang dibangun di tengah-tengah kawasan industri membuat LOGIQUE tertantang untuk terus mencari cara agar iklan dapat bekerja dengan efektif. Dari strategi pemasaran properti ini, LOGIQUE berhasil menghadirkan iklan digital yang mampu menjangkau target audiens dengan tepat, baik itu customer yang membutuhkan hunian agar dekat dengan tempat kerja mereka ataupun customer yang sedang mencari sarana untuk berinvestasi.
+                                  インドネシアにおけるアルミニウム押出製品および、店舗用アルミプロファイルバーのリーディングカンパニーとして、PT. YKK AP INDONESIAは、今日のデジタル時代の中で、高い競争力を維持することを目指しています。同社の高い目標を実現するためLOGIQUEは、効果的なキャンペーンを設計・実施し続けることに挑戦しているのです。適切なターゲット層とチャネルを策定することは、最終的に、効果的かつ質の高い結果を導くと信じています。
                                 </p>
                             </div>
                         </div>
@@ -277,66 +273,6 @@
 
         <?php include '../../footer.php';?>
     </div>   
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
-    </script>
-    <script>
-    $('.same-height').matchHeight();
-    $('.col-md-4.col-xs-6').matchHeight();
-
-
-    $('.slider-other-client-container').slick({
-        dots: false,
-        infinite: true,
-        speed: 300,
-
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        responsive: [{
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            }
-        ]
-    });
-    $('.mobile-app-container').slick({
-        dots: true,
-        infinite: false,
-        speed: 300,
-        arrows: false,
-        arrows: false,
-        arrows: false,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        speed: 300,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        slickSetOption: true,
-    });
-    $('#PWA .btn-more-portfolio').on('click', function() {
-        $('.mobile-app-container').resize();
-    });
-    </script>
 </body>
 
 </html>

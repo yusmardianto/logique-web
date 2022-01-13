@@ -11,7 +11,7 @@
             <div class="text-center <?php if ($active === 'home') echo 'active' ?>">
                 <a href="/jp/">
                     <div class="img-home"></div>
-                    Home
+                    ホーム
                 </a>
             </div>
             <div class="text-center <?php if ($active === 'about') echo 'active' ?>">
@@ -23,7 +23,7 @@
             <div class="text-center <?php if ($active === 'portfolio') echo 'active' ?>">
                 <a href="/jp/portfolio.php">
                     <div class="img-portfolio"></div>
-                    制作実績
+                    ポートフォリオ
                 </a>
             </div>
             <div class="text-center <?php if ($active === 'services') echo 'active' ?>">
@@ -53,7 +53,7 @@
             <div class="text-center">
                 <a href="https://www.logique.co.id/blog/ja" target="_blank" rel="noreferrer">
                     <div class="img-blog"></div>
-                    Blog
+                    ブログ
                 </a>
             </div>
         </div>

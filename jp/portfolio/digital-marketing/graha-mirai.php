@@ -16,10 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Untuk meningkatkan penjualan, Graha Mirai menggunakan layanan digital advertisement dari LOGIQUE. Strategi pemasaran properti ini berhasil meningkatkan keuntungan perusahaan.">
+        content="To increase sales, Graha Mirai uses digital advertisement services from LOGIQUE. This property marketing strategy has succeeded in increasing the company's profits.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/graha-mirai.php">
-    <title>Graha Mirai | Portofolio Performa Digital Marketing</title>    
+    <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/graha-mirai.php">
+    <title>Graha Mirai | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -68,15 +68,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'id';
+            $lang = 'jp';
             $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
-            $id_link = '#';
-            $jp_link = '/jp/portfolio/digital-marketing/graha-mirai.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $id_link = '/portofolio/digital-marketing/graha-mirai.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -111,15 +111,15 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">ホーム</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio/digital-marketing.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -145,7 +145,7 @@
                             <div class="col-md-8 col-sm-12" >                                
                                 <div class="title text-white"><h1>Graha Mirai</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Meningkatkan Penjualan Properti di Tengah Kawasan Industri Melalui Digital Advertisement
+                                    Increase Property Sales in the Middle of Industrial Estates Through Digital Advertisement 
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -161,21 +161,21 @@
                     <div class="container__ ">
                         <div class="row">
                             <div class="col-md-8">
-                                <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
+                                <div class="title"><h1>CLIENT'S BACKGROUND </h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai adalah perumahan mewah yang berada di Pusat Kota Cikarang. Perumahan ini dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Hajime Indonesia Jaya.
+                                    Graha Miraiは、チカラン市の中心部に位置する高級レジデンスで、インドネシアの大手不動産開発会社であるPT. Hajime Indonesia Jayaが開発・管理を行っています。
                                 </p>
                                 <p class="title__description">
-                                    Graha Mirai menghadirkan rumah hunian atau perumahan dengan konsep yang asri, minimalis, namun tetap modern. Rumah hunian di Graha Mirai ini memiliki kualitas yang terjamin karena sudah melalui pengecekan yang teliti saat proses konstruksi.
+                                    Graha Miraiは、美しい、モダンでミニマルなスタイルの住宅を提供しており、その建設過程で定期なチェックが行われているため、常に高い品質が保証されていることでも知られています。
                                 </p>
                                 <p class="title__description">
-                                    Lokasinya yang strategis menjadikan Graha Mirai sebagai perumahan yang banyak diminati oleh para konsumen. Perumahan ini berada di antara dua jalan tol yaitu Jalan Tol Elevated Jakarta Cikampek dan Jalan Tol Jakarta Cikampek II Selatan. Selain itu, Graha Mirai juga terletak di kawasan dengan fasilitas umum yang lengkap seperti rumah sakit, sekolah, pusat industri Greenland International Industrial Center (GIIC) Deltamas, serta dekat ke pemerintahan daerah Bekasi.
+                                    また、Graha Miraiは、病院や学校、グリーンランド国際産業センター（GIIC）デルタマスの産業センターなど、公共施設が充実しているエリア、さらには、ブカシの行政区域にも近接しているという恵まれた環境です。
                                 </p>
                                 <p class="title__description">
-                                    PT. Hajime Indonesia Jaya sendiri dalam memberikan layanannya selalu menjamin kualitas rumah yang mereka sediakan. Perusahaan ini berperan aktif dalam mendorong pembangunan perumahan di Indonesia dan selalu berkomitmen untuk bisa menjadi perusahaan developer yang terpercaya.
+                                    PT. Hajime Indonesia Jaya自体は、そのサービスを提供する上で、最高水準の品質の住宅の運営管理に特化しています。同社は、インドネシアの不動産業界の発展に積極的な役割を果たし、信頼性の高い開発会社としての地位を確立しているのです。
                                 </p>
                                 <p class="title__description">
-                                    Untuk mengembangkan bisnis properti yang mereka jalankan, Graha Mirai menggunakan digital advertisement dari LOGIQUE Digital Indonesia. Dengan strategi pemasaran properti ini, diharapkan Graha Mirai dapat menghasilkan lebih banyak penjualan meskipun mereka berada di tengah kawasan industri.
+                                    またGraha Miraiは、不動産事業を展開するにあたり、LOGIQUE DEGITAL INDONESIAが提供するデジタルマーケティングサービスを活用することを選択。このマーケティング戦略により、工業地帯の中心地に位置するGraha Miraiが、さらなる利益獲得を実現することが期待されます。
                                 </p>
                             </div>
                             <div class="col-md-4">
@@ -194,20 +194,20 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai memilih strategi pemasaran properti melalui digital advertisement atau iklan digital. Untuk menjalankannya, LOGIQUE melakukan beberapa strategi agar iklan dapat bekerja secara efektif. LOGIQUE membuat advertisement campaign menggunakan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta target audience atau potential customer. 
+                                    当プロジェクトにおいてGraha Miraiは、デジタル広告を活用した効果的な物件マーケティング戦略を選択。その広告が効果的に機能するよう、LOGIQUEが最適化を行います。LOGIQUEは、提供する商品とターゲット層に基づいて、チャネル＆プレースメントによる広告キャンペーンを策定しています。
                                 </p>
                                 <p class="title__description" >
-                                    Berikut adalah strategi pemasaran properti yang kami jalankan:
+                                   以下では現在、私たちが実践している不動産マーケティング戦略をご紹介します。
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan skor kualitas iklan</li>
-                                    <li class="approach-item">Membatasi jumlah audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat group audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bekasi dan sekitarnya melalui advertisement campaign dengan menjaga harga bid CPC serta kualitas dari iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Graha Mirai untuk memastikan setiap campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">Graha Miraiの全商品を網羅するキーワード・広告を提案</li>
+                                    <li class="approach-item">各広告の関連性を高めることで、品質スコア向上に寄与</li>
+                                    <li class="approach-item">ターゲティング情報の定期的なモニタリングと、コントロールされた閲覧グループの作成によって、低品質な閲覧者数を制限する</li>
+                                    <li class="approach-item">CPC入札価格と広告品質を維持し、広告キャンペーンを通じて、ブカシ地域の不動産市場にインパクトを与える</li>
+                                    <li class="approach-item">Graha Miraiのブランディングチームと積極的に連携し、すべてのキャンペーンがターゲットと、達成すべき目標に従って実施されるように設計しておく</li>
                                 </ul>
                             </div>
                         </div>
@@ -223,13 +223,13 @@
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Keberhasilan digital advertisement dipengaruhi oleh penargetan audience yang tepat. Oleh karena itu, tim LOGIQUE melakukan berbagai analisa mendalam untuk mendapatkan kelompok audience dengan akurasi penargetan yang tinggi.
+                                    デジタル広告を成功に導くためには、閲覧者ターゲティングの適切な戦略によって大きく左右されます。これを念頭にLOGIQUEチームは、多種多様で綿密な分析を実行。高いターゲティング精度を持つ閲覧者グループを浮き彫りにすることに成功しました。
                                 </p>
                                 <p class="text-white" >
-                                    Dengan strategi pemasaran properti dari LOGIQUE, iklan digital milik Graha Mirai dapat berjalan secara efektif. Kami membuat iklan yang disesuaikan dengan relevansi yang tinggi serta mengaitkannya ke halaman produk Graha Mirai.
+                                    LOGIQUEのプロパティマーケティング戦略により、Graha Miraiのデジタル広告は効果的に運用され、Graha Miraiの各商品ページと連動し、関連性の高い効果的な広告を作成しました。
                                 </p>
                                 <p class="text-white" >
-                                    Berikut ini adalah pencapaian yang diperoleh dari digital advertisement yang kami jalankan:
+                                    デジタル広告を出稿した際の実績は、以下の通りです。
                                 </p>
 
                             </div>
@@ -266,7 +266,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Perumahan yang dibangun di tengah-tengah kawasan industri membuat LOGIQUE tertantang untuk terus mencari cara agar iklan dapat bekerja dengan efektif. Dari strategi pemasaran properti ini, LOGIQUE berhasil menghadirkan iklan digital yang mampu menjangkau target audiens dengan tepat, baik itu customer yang membutuhkan hunian agar dekat dengan tempat kerja mereka ataupun customer yang sedang mencari sarana untuk berinvestasi.
+                                    Graha Miraiの特殊なケース、つまり工業地帯の中心地に位置する住宅に対応するという命題に対して、効果的なデジタル広告を発信するための適切な方法を見つけることは困難を極めました。しかしLOGIQUEは、この特殊な物件マーケティング戦略を攻略することで、「職場に近い住宅」を必要とする顧客や投資手段を探している顧客など、意図したターゲットに的確にリーチするデジタル広告を提示することに成功したのです。
                                 </p>
                             </div>
                         </div>

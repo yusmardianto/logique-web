@@ -16,10 +16,11 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Untuk meningkatkan penjualan, Graha Mirai menggunakan layanan digital advertisement dari LOGIQUE. Strategi pemasaran properti ini berhasil meningkatkan keuntungan perusahaan.">
+        content="Sumitomo implements an SEO strategy improving overall website quality. LOGIQUE has succeeded in bringing about significant improvements.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/graha-mirai.php">
-    <title>Graha Mirai | Portofolio Performa Digital Marketing</title>    
+    <link rel="canonical" href="https://www.logique.co.id/en/portfolio/digital-marketing/sumitomo.php">
+    <title>Sumitomo (SHI) | Digital Marketing Performance Portfolio</title>
+    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -68,15 +69,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
-            $id_link = '#';
-            $jp_link = '/jp/portfolio/digital-marketing/graha-mirai.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/sumitomo.php';
+            $id_link = '/portofolio/digital-marketing/sumitomo.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -101,7 +102,8 @@
         }
         </style>
 
-        <div class="portfolio-update ind">
+        <div class="portfolio-update portfolio-sumitomo ind">
+
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
                     <div class="container__ --top" style="padding:0">
@@ -111,19 +113,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">ホーム</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio/digital-marketing.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Graha Mirai</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Sumitomo Heavy Industries</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -131,21 +133,21 @@
                         </div>
                     </div>
                 </div>
-                <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-header.png'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/sumitomo/bg-header.png'); background-position: center; padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/grahamirai/logo.png" 
+                                    src="/img/portfolio/digitalmarketing/sumitomo/logo.png" 
                                     alt="" 
+                                    style="width: 65%; "
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Graha Mirai</h1></div>
+                                <div class="title text-white"><h1>Sumitomo Heavy Industries (SHI) </h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Meningkatkan Penjualan Properti di Tengah Kawasan Industri Melalui Digital Advertisement
+                                    Improve Website Quality and Quality Through Search Engine Optimization (SEO)
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -163,24 +165,21 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai adalah perumahan mewah yang berada di Pusat Kota Cikarang. Perumahan ini dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Hajime Indonesia Jaya.
+                                    住友重機械工業は、高度な精密機械からカスタマイズされた機械まで、幅広い製品を製造する機械製造専門企業です。また、船舶や工場・環境設備の製造も行っています。 
                                 </p>
                                 <p class="title__description">
-                                    Graha Mirai menghadirkan rumah hunian atau perumahan dengan konsep yang asri, minimalis, namun tetap modern. Rumah hunian di Graha Mirai ini memiliki kualitas yang terjamin karena sudah melalui pengecekan yang teliti saat proses konstruksi.
+                                    住友重機械工業は、高品質の製品とソリューションを提供し、世界中の顧客から高い評価を得ている技術に支えられています。そして、人々の暮らしに寄り添い、地域社会を支えていきたいと考えています。また、住友重機械工業は「世界に通用する製品・サービスを提供するメーカーになる」という企業理念の実現も高い目標としています。
                                 </p>
                                 <p class="title__description">
-                                    Lokasinya yang strategis menjadikan Graha Mirai sebagai perumahan yang banyak diminati oleh para konsumen. Perumahan ini berada di antara dua jalan tol yaitu Jalan Tol Elevated Jakarta Cikampek dan Jalan Tol Jakarta Cikampek II Selatan. Selain itu, Graha Mirai juga terletak di kawasan dengan fasilitas umum yang lengkap seperti rumah sakit, sekolah, pusat industri Greenland International Industrial Center (GIIC) Deltamas, serta dekat ke pemerintahan daerah Bekasi.
-                                </p>
-                                <p class="title__description">
-                                    PT. Hajime Indonesia Jaya sendiri dalam memberikan layanannya selalu menjamin kualitas rumah yang mereka sediakan. Perusahaan ini berperan aktif dalam mendorong pembangunan perumahan di Indonesia dan selalu berkomitmen untuk bisa menjadi perusahaan developer yang terpercaya.
-                                </p>
-                                <p class="title__description">
-                                    Untuk mengembangkan bisnis properti yang mereka jalankan, Graha Mirai menggunakan digital advertisement dari LOGIQUE Digital Indonesia. Dengan strategi pemasaran properti ini, diharapkan Graha Mirai dapat menghasilkan lebih banyak penjualan meskipun mereka berada di tengah kawasan industri.
-                                </p>
+                                    この目標を達成するために、住友重機械工業は技術革新を続け、より多くの人々に技術力を提供するー。そのための手段の一つが、デジタル、特にWebサイトの活用です。
+                                </p>        
+                                <p class="title__descri ption">
+                                    同社は、自社のサービスや製品に関連する情報をより多くの人々が簡単かつ包括的にアクセスできるよう、Webサイトのデザインやパフォーマンスの面で総合的な品質を保証するため、LOGIQUEのデジタルマーケティングサービスである検索エンジン最適化（SEO）を活用することを決定。この最適化戦略により、住友重機械工業のWebサイトは最適なパフォーマンスを発揮し、さらにGoogleの検索エンジンで上位に表示されるようになりました。
+                                </p>                    
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/grahamirai/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/sumitomo/pict-client-background.webp" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -194,20 +193,23 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai memilih strategi pemasaran properti melalui digital advertisement atau iklan digital. Untuk menjalankannya, LOGIQUE melakukan beberapa strategi agar iklan dapat bekerja secara efektif. LOGIQUE membuat advertisement campaign menggunakan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta target audience atau potential customer. 
+                                    LOGIQUEは、住友商事のWebサイトの品質を向上させるために、まずサイト全体のポテンシャルを見極める重要なステップを踏んでいます。
                                 </p>
                                 <p class="title__description" >
-                                    Berikut adalah strategi pemasaran properti yang kami jalankan:
+                                    さらに、LOGIQUEチームは、市場のニッチなターゲット領域により適したサイトにするため、コンテンツの開発も実施。Webサイトの品質向上だけでなく、当社のサイトを訪れるすべてのユーザーや顧客の満足度を高めるためのデジタルマーケティング戦略も専門的に行っています。
+                                </p>
+                                <p class="title__description" >
+                                    以下に、LOGIQUEの、一般的な検索エンジン最適化（SEO）施策についてご紹介します。
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan skor kualitas iklan</li>
-                                    <li class="approach-item">Membatasi jumlah audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat group audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bekasi dan sekitarnya melalui advertisement campaign dengan menjaga harga bid CPC serta kualitas dari iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Graha Mirai untuk memastikan setiap campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">既存の全ページを対象とした総合的なWebサイト診断の実施</li>
+                                    <li class="approach-item">全ページに存在する問題点に関して、Webサイトページの改善計画を策定する。優先順位に基づいて順次計画を実行に移していく</li>
+                                    <li class="approach-item">潜在的な訪問者の便宜のために、適切な既存のWebサイトコンテンツの質を向上させ、さらに関連情報を追加する</li>
+                                    <li class="approach-item">キーワード毎に順位をモニターし、検索エンジンのアルゴリズムの変更などを注視しつつ順位向上のための改善施策を実行し続ける</li>
+                                    <li class="approach-item">フロントエンドおよびバックエンドの開発チームと積極的に協力し、画像の最適化からWebサイトのページスピードの向上まで、サイトの全体的な品質を向上させる</li>
                                 </ul>
                             </div>
                         </div>
@@ -217,48 +219,56 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-footer.webp');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/sumitomo/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Keberhasilan digital advertisement dipengaruhi oleh penargetan audience yang tepat. Oleh karena itu, tim LOGIQUE melakukan berbagai analisa mendalam untuk mendapatkan kelompok audience dengan akurasi penargetan yang tinggi.
+                                    LOGIQUEのデジタルマーケティング戦略の実施により、Webサイト全体の品質向上だけでなく、関連性の高いキーワードを設定し、製品やカテゴリーページに直接リンクさせることで、潜在的なキーワードのポジションを向上させることに成功しました。検索エンジン最適化（SEO）プロセスを通じて、住友商事のWebサイトは以下の指標に関して著しく向上しました。
                                 </p>
-                                <p class="text-white" >
-                                    Dengan strategi pemasaran properti dari LOGIQUE, iklan digital milik Graha Mirai dapat berjalan secara efektif. Kami membuat iklan yang disesuaikan dengan relevansi yang tinggi serta mengaitkannya ke halaman produk Graha Mirai.
-                                </p>
-                                <p class="text-white" >
-                                    Berikut ini adalah pencapaian yang diperoleh dari digital advertisement yang kami jalankan:
-                                </p>
-
                             </div>
                             <div class="col-md-7 col-xs-12 mt-7">
-                                <div class="col-md-6 col-xs-12">    
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+22%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
-                                    </div>
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+30%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
-                                    </div>   
+                              
+                                <div class="row">
+                                    <div class="col-md-6 col-xs-12">    
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-light-blue text-6xl">+34%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Total Clicks</b></p>
+                                        </div>
+                                          
+                                    </div>                              
+                                    <div class="col-md-6 col-xs-12">    
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center" >
+                                            <h5 class="card-text text-light-blue text-6xl">+77%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Total Impression</b></p>
+                                        </div>
+                                    </div>    
                                 </div>
-                                
-                                <div class="col-md-6 col-xs-12">    
-                                    
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">-28%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                <div class="row">
+                                    <div class="col-md-4 col-xs-12">                                          
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-light-blue text-6xl">+20%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>CTR</b></p>
+                                        </div>   
                                     </div>
-                                    <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
-                                    </div>   
-                                </div>
+                                    <div class="col-md-4 col-xs-12">                                                                                                                          
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-light-blue text-6xl">+7%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Average Position</b></p>
+                                        </div>
+                                    </div>
 
+                                    <div class="col-md-4 col-xs-12">                                                                                                                          
+                                        <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
+                                            <h5 class="card-text text-light-blue text-6xl">-28%</h5>                                  
+                                            <p class="text-light-blue text-xl mt-2"><b>Bounce Rate</b></p>
+                                        </div>   
+                                    </div>                                                                                             
+                                </div>
                             </div>
-                        </div>
+                        
+                        </div>           
 
                         <hr class="mt-7" />
 
@@ -266,7 +276,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Perumahan yang dibangun di tengah-tengah kawasan industri membuat LOGIQUE tertantang untuk terus mencari cara agar iklan dapat bekerja dengan efektif. Dari strategi pemasaran properti ini, LOGIQUE berhasil menghadirkan iklan digital yang mampu menjangkau target audiens dengan tepat, baik itu customer yang membutuhkan hunian agar dekat dengan tempat kerja mereka ataupun customer yang sedang mencari sarana untuk berinvestasi.
+                                    クライアントの製品、顧客層を理解することは、Webサイト構築の方向性を決定する重要な要素です。また、検索エンジン最適化戦略を実施することで、ユーザー満足度を適切に確保し、検索エンジンアルゴリズムに準拠した最適なWebサイトの品質を維持することができます。提供されるソリューションを通じて、企業はより多くの訪問者を大幅に生み出し、Webサイトのランキングを向上させ、サイトのインプレッションを増加させることも可能です。
                                 </p>
                             </div>
                         </div>

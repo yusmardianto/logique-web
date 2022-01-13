@@ -10,16 +10,16 @@
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Portofolio Performa Digital Marketing | Logique Digital Indonesia">
+    <meta property="og:title" content="The Healthy Belly | Digital Marketing Performance Portfolio">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
-    <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
+    <meta property="og:url" content="https://www.logique.co.id/portofolio/digital-marketing/the-healthy-belly.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Untuk meningkatkan penjualan, Graha Mirai menggunakan layanan digital advertisement dari LOGIQUE. Strategi pemasaran properti ini berhasil meningkatkan keuntungan perusahaan.">
+        content="LOGIQUE's Google search advertisement campaigns have helped The Healthy Belly generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/graha-mirai.php">
-    <title>Graha Mirai | Portofolio Performa Digital Marketing</title>    
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/the-healthy-belly.php">
+    <title>The Healthy Belly | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -50,7 +50,6 @@
     ?>
 
 </head>
-
 <body style="overflow-x: hidden">
 
     <?php 
@@ -68,15 +67,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
-            $id_link = '#';
-            $jp_link = '/jp/portfolio/digital-marketing/graha-mirai.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/the-healthy-belly.php'; 
+            $id_link = '/portofolio/digital-marketing/the-healthy-belly.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -101,7 +100,8 @@
         }
         </style>
 
-        <div class="portfolio-update ind">
+        <div class="portfolio-update portfolio-healthybelly ind">
+
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
                     <div class="container__ --top" style="padding:0">
@@ -111,19 +111,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">ホーム</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio/digital-marketing.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Graha Mirai</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;The Healthy Belly</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -132,22 +132,22 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-header.png'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/healthybelly/bg-header.jpg'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/grahamirai/logo.png" 
+                                    src="/img/portfolio/digitalmarketing/healthybelly/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Graha Mirai</h1></div>
+                                <div class="title text-white"><h1>The Healthy Belly</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Meningkatkan Penjualan Properti di Tengah Kawasan Industri Melalui Digital Advertisement
+                                    Increasing the Company’s Brand Awareness through Facebook, Instagram, and Digital Advertisement
                                 </h3>
-                                <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
+                                <p class="text-white ml-0"><b>Website Maintenance | Social Media Management | FB & IG Ads</b></p>
 
                             </div>
                         </div>
@@ -163,24 +163,25 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai adalah perumahan mewah yang berada di Pusat Kota Cikarang. Perumahan ini dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Hajime Indonesia Jaya.
+                                    The Healthy Bellyは、健康食品業界で事業を展開するLOGIQUEのクライアントの1つです。同社は、「健康な食生活で、体も心も健康に」をモットーに、栄養価の高い食品を毎日摂取することで、体も心も健康になれると考えています。
                                 </p>
                                 <p class="title__description">
-                                    Graha Mirai menghadirkan rumah hunian atau perumahan dengan konsep yang asri, minimalis, namun tetap modern. Rumah hunian di Graha Mirai ini memiliki kualitas yang terjamin karena sudah melalui pengecekan yang teliti saat proses konstruksi.
+                                    しかし、現代人は、健康的な食事に対してさまざまな誤解をしており、栄養のある食事は見た目が良いものではなく、「おいしくないもの」と同義であると考えられていることは危惧しているところです。
                                 </p>
                                 <p class="title__description">
-                                    Lokasinya yang strategis menjadikan Graha Mirai sebagai perumahan yang banyak diminati oleh para konsumen. Perumahan ini berada di antara dua jalan tol yaitu Jalan Tol Elevated Jakarta Cikampek dan Jalan Tol Jakarta Cikampek II Selatan. Selain itu, Graha Mirai juga terletak di kawasan dengan fasilitas umum yang lengkap seperti rumah sakit, sekolah, pusat industri Greenland International Industrial Center (GIIC) Deltamas, serta dekat ke pemerintahan daerah Bekasi.
+                                    また同社は、一部の料理がすべての人に適しているわけではないことを理解しており、健康的な食事に対する間違った概念を正していくことが、同社の社会的責任だと感じています。
                                 </p>
                                 <p class="title__description">
-                                    PT. Hajime Indonesia Jaya sendiri dalam memberikan layanannya selalu menjamin kualitas rumah yang mereka sediakan. Perusahaan ini berperan aktif dalam mendorong pembangunan perumahan di Indonesia dan selalu berkomitmen untuk bisa menjadi perusahaan developer yang terpercaya.
+                                    「ヘルシーな料理にもおいしいレシピがたくさんある」―。そのことを、もっと多くの人に知ってもらいたい……。そのためThe Healthy Bellyは、より多くのレシピを多くの人に共有し、誰もが自分に合ったヘルシーなレシピを見つけることができるWebサイトを提供しています。このプラットフォームを通じて、人々は、美味しくかつ健康的な料理を通じて、よりヘルシーなライフスタイルを選択できるよう、相互に刺激し合うことができるのです。
                                 </p>
                                 <p class="title__description">
-                                    Untuk mengembangkan bisnis properti yang mereka jalankan, Graha Mirai menggunakan digital advertisement dari LOGIQUE Digital Indonesia. Dengan strategi pemasaran properti ini, diharapkan Graha Mirai dapat menghasilkan lebih banyak penjualan meskipun mereka berada di tengah kawasan industri.
+                                    このプロジェクトにおいてThe Healthy Bellyは、Webサイトを最適に運営するために、LOGIQUEのWebメンテナンスサービスを採用しました。さらに、LOGIQUEのデジタルマーケティングサービス、すなわちソーシャルメディアマネジメントとFB & IG広告を利用し、会社のブランド認知度を高めることに成功しました。
                                 </p>
+                            
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/grahamirai/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/healthybelly/pict-client-background.jpg" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -194,20 +195,23 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai memilih strategi pemasaran properti melalui digital advertisement atau iklan digital. Untuk menjalankannya, LOGIQUE melakukan beberapa strategi agar iklan dapat bekerja secara efektif. LOGIQUE membuat advertisement campaign menggunakan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta target audience atau potential customer. 
+                                    The Healthy Bellyは、デジタル広告を利用したデジタルマーケティング活動を支援するためにLOGIQUEと協働したわけですが、
                                 </p>
                                 <p class="title__description" >
-                                    Berikut adalah strategi pemasaran properti yang kami jalankan:
+                                    LOGIQUEはまず、提供するサービスの詳細な分析を実施。マーケティングプランを慎重に設計しました。また、広告がターゲット層や潜在顧客に適切に届き、質の高いリードを作成できるよう、適切なターゲット層を見つけるためのプロファイリングも実行しています。
+                                </p>
+                                <p class="title__description" >
+                                    以下、マーケティング戦略の概要です。
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan skor kualitas iklan</li>
-                                    <li class="approach-item">Membatasi jumlah audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat group audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bekasi dan sekitarnya melalui advertisement campaign dengan menjaga harga bid CPC serta kualitas dari iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Graha Mirai untuk memastikan setiap campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">The Healthy Bellyのブランディングチームと協働し、すべてのキャンペーンが定められたターゲットと目的に従って実行されるよう効果的に働きかける</li>
+                                    <li class="approach-item">サービス全体をカバーする関連キーワードのリストを効果的に特定し、定義する</li>
+                                    <li class="approach-item">関連性があり、かつ広告の品質スコアを向上させる可能性のある広告を作成する</li>
+                                    <li class="approach-item">ターゲティング情報を定期的にモニタリングし、最適にコントロールされた閲覧者グループを作成することで、低品質な閲覧数を制限する</li>
+                                    <li class="approach-item">平均CPCと広告の品質を維持することで、広告キャンペーンを通じて複数のターゲットにおけるマーケットシェアをコントロールする</li>
                                 </ul>
                             </div>
                         </div>
@@ -217,43 +221,36 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-footer.webp');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/healthybelly/bg-footer.jpg');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Keberhasilan digital advertisement dipengaruhi oleh penargetan audience yang tepat. Oleh karena itu, tim LOGIQUE melakukan berbagai analisa mendalam untuk mendapatkan kelompok audience dengan akurasi penargetan yang tinggi.
-                                </p>
-                                <p class="text-white" >
-                                    Dengan strategi pemasaran properti dari LOGIQUE, iklan digital milik Graha Mirai dapat berjalan secara efektif. Kami membuat iklan yang disesuaikan dengan relevansi yang tinggi serta mengaitkannya ke halaman produk Graha Mirai.
-                                </p>
-                                <p class="text-white" >
-                                    Berikut ini adalah pencapaian yang diperoleh dari digital advertisement yang kami jalankan:
-                                </p>
-
+                                    LOGIQUEは、過去に成功したさまざまなデジタルマーケティング戦略により、InstagramとFacebookのプラットフォームで、The Healthy Bellyのメインサービスページに直接リンクされた、関連性の高いデジタル広告を掲載することができました。このデジタル広告戦略により、The Healthy Bellyは、以下のように大幅な収益増に成功しました。
+                                </p>  
                             </div>
                             <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+22%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">180.50%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+30%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">+120%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
                                 
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">-28%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">-55.55%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
-                                         <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
+                                         <h5 class="card-text text-dark-green text-6xl">118.35%</h5>                                  
+                                         <p class="text-dark-green text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
 
@@ -266,7 +263,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Perumahan yang dibangun di tengah-tengah kawasan industri membuat LOGIQUE tertantang untuk terus mencari cara agar iklan dapat bekerja dengan efektif. Dari strategi pemasaran properti ini, LOGIQUE berhasil menghadirkan iklan digital yang mampu menjangkau target audiens dengan tepat, baik itu customer yang membutuhkan hunian agar dekat dengan tempat kerja mereka ataupun customer yang sedang mencari sarana untuk berinvestasi.
+                                    食品業界における競争の激化を背景に、LOGIQUEは、最適かつユニークで、すべての潜在的消費者にポジティブな印象を与えるマーケティング戦略を構築しました。このようにして、The Healthy Bellyは、同社のブランド認知度を高め、その過程でこれまで以上に顧客との関係性を構築することができたのです。
                                 </p>
                             </div>
                         </div>
@@ -277,66 +274,6 @@
 
         <?php include '../../footer.php';?>
     </div>   
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js">
-    </script>
-    <script>
-    $('.same-height').matchHeight();
-    $('.col-md-4.col-xs-6').matchHeight();
-
-
-    $('.slider-other-client-container').slick({
-        dots: false,
-        infinite: true,
-        speed: 300,
-
-        slidesToShow: 4,
-        slidesToScroll: 1,
-        responsive: [{
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    // dots: true
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            },
-            {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    adaptiveHeight: true
-                }
-            }
-        ]
-    });
-    $('.mobile-app-container').slick({
-        dots: true,
-        infinite: false,
-        speed: 300,
-        arrows: false,
-        arrows: false,
-        arrows: false,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        speed: 300,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        slickSetOption: true,
-    });
-    $('#PWA .btn-more-portfolio').on('click', function() {
-        $('.mobile-app-container').resize();
-    });
-    </script>
 </body>
 
 </html>

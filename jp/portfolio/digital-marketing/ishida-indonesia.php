@@ -16,10 +16,10 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Untuk meningkatkan penjualan, Graha Mirai menggunakan layanan digital advertisement dari LOGIQUE. Strategi pemasaran properti ini berhasil meningkatkan keuntungan perusahaan.">
+        content="LOGIQUE's Google search advertisement campaigns have helped Ishida generate a higher number of conversions. Check out how it's done here!">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/graha-mirai.php">
-    <title>Graha Mirai | Portofolio Performa Digital Marketing</title>    
+    <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/ishida-indonesia.php">
+    <title>Ishida Indonesia | Digital Marketing Performance Portfolio</title>    
     <!-- font -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700;800&display=swap" rel="stylesheet">
@@ -50,7 +50,6 @@
     ?>
 
 </head>
-
 <body style="overflow-x: hidden">
 
     <?php 
@@ -68,15 +67,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'id';
-            $en_link = '/en/portfolio/digital-marketing/graha-mirai.php';
-            $id_link = '#';
-            $jp_link = '/jp/portfolio/digital-marketing/graha-mirai.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/ishida-indonesia.php'; 
+            $id_link = '/portofolio/digital-marketing/ishida-indonesia.php';
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -102,6 +101,7 @@
         </style>
 
         <div class="portfolio-update ind">
+
             <section class="portfolio__banner portfolio__banner-detail">
                 <div class="content-wrapper__">
                     <div class="container__ --top" style="padding:0">
@@ -111,19 +111,19 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">ホーム</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio/digital-marketing.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
-                                            itemprop="item"><span itemprop="name">&nbsp;Graha Mirai</span></a>
+                                            itemprop="item"><span itemprop="name">&nbsp;Ishida Indonesia</span></a>
                                         <meta itemprop="position" content="4" />
                                     </li>
                                 </ol>
@@ -132,20 +132,20 @@
                     </div>
                 </div>
                 <!-- /img/portfolio/digitalmarketing/bg-portfolio-jba-header.png -->
-                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-header.png'); padding: 54px;">   
+                <div class="content-wrapper__" style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-header.png'); padding: 54px;">   
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-4">  
                                 <img                                     
-                                    src="/img/portfolio/digitalmarketing/grahamirai/logo.png" 
+                                    src="/img/portfolio/digitalmarketing/ishida/logo.png" 
                                     alt="" 
                                     class="relative left-0 bottom-0 mt-12 visible-md visible-lg" 
                                 />                                
                             </div>
                             <div class="col-md-8 col-sm-12" >                                
-                                <div class="title text-white"><h1>Graha Mirai</h1></div>
+                                <div class="title text-white"><h1>Ishida Indonesia</h1></div>
                                 <h3 class="title__description text-white" style="margin-left: 0; width: 100%">
-                                    Meningkatkan Penjualan Properti di Tengah Kawasan Industri Melalui Digital Advertisement
+                                    Answering the Needs of Business Owners for Various Production Machine Technologies Through Google Search Advertisements.
                                 </h3>
                                 <p class="text-white ml-0"><b>SEO | Website Maintenance | Google Ads | FB& IG Ads</b></p>
 
@@ -163,24 +163,22 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai adalah perumahan mewah yang berada di Pusat Kota Cikarang. Perumahan ini dikelola oleh pengembang properti terkemuka di Indonesia yaitu PT. Hajime Indonesia Jaya.
+                                    Ishida Indonesiaは、日本にある株式会社イシダの正式なインドネシア支店です。イシダは、スナック菓子、食肉、果物、惣菜、水産物など、さまざまな業界向けの計量・包装・検査機（重量選別機、金属探知機、X線検査機）を製造しているメーカーとしてその名を知られており、多くのクライアント企業の、大規模な工場機械類におけるニーズにも対応できる企業としても有名です。
                                 </p>
                                 <p class="title__description">
-                                    Graha Mirai menghadirkan rumah hunian atau perumahan dengan konsep yang asri, minimalis, namun tetap modern. Rumah hunian di Graha Mirai ini memiliki kualitas yang terjamin karena sudah melalui pengecekan yang teliti saat proses konstruksi.
+                                    イシダは125年以上にわたって、高度で最先端の製品を開発してきました。その豊富な経験により、イシダは、世界中の多くの企業から信頼されるパートナーとなっています。
                                 </p>
                                 <p class="title__description">
-                                    Lokasinya yang strategis menjadikan Graha Mirai sebagai perumahan yang banyak diminati oleh para konsumen. Perumahan ini berada di antara dua jalan tol yaitu Jalan Tol Elevated Jakarta Cikampek dan Jalan Tol Jakarta Cikampek II Selatan. Selain itu, Graha Mirai juga terletak di kawasan dengan fasilitas umum yang lengkap seperti rumah sakit, sekolah, pusat industri Greenland International Industrial Center (GIIC) Deltamas, serta dekat ke pemerintahan daerah Bekasi.
+                                    この信頼を維持するために、同社は、専門の研究開発チームとプロのエンジニアチームを通じて、高品質の製品とサービスに関して顧客のニーズに応えることを、一貫して第一の目標としています。高品質の製品とサービスを活用することで、生産機械技術の分野において、企業オーナーのニーズに応える実用的なソリューションを提供し続けるためには、さらなる進化を図る必要がありました。
                                 </p>
                                 <p class="title__description">
-                                    PT. Hajime Indonesia Jaya sendiri dalam memberikan layanannya selalu menjamin kualitas rumah yang mereka sediakan. Perusahaan ini berperan aktif dalam mendorong pembangunan perumahan di Indonesia dan selalu berkomitmen untuk bisa menjadi perusahaan developer yang terpercaya.
+                                    そこで、Ishida IndonesiaはLOGIQUEと協業し、適切な Google 検索広告を実施する戦略を策定。このマーケティング戦略により、製品情報などを適切なターゲット層に届けることができ、結果、全体の売上増加を実現しました。
                                 </p>
-                                <p class="title__description">
-                                    Untuk mengembangkan bisnis properti yang mereka jalankan, Graha Mirai menggunakan digital advertisement dari LOGIQUE Digital Indonesia. Dengan strategi pemasaran properti ini, diharapkan Graha Mirai dapat menghasilkan lebih banyak penjualan meskipun mereka berada di tengah kawasan industri.
-                                </p>
+                            
                             </div>
                             <div class="col-md-4">
                                 <div class="flex justify-center">                                    
-                                    <img src="/img/portfolio/digitalmarketing/grahamirai/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
+                                    <img src="/img/portfolio/digitalmarketing/ishida/pict-client-background.png" alt="" class="mt-20 visible-md visible-lg">                                    
                                 </div>
                             </div>
                         </div>
@@ -194,20 +192,20 @@
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="title"><h1>APPROACHING STRATEGY</h1></div>
+                                <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY </h1></div>
                                 <p class="title__description" >
-                                    Graha Mirai memilih strategi pemasaran properti melalui digital advertisement atau iklan digital. Untuk menjalankannya, LOGIQUE melakukan beberapa strategi agar iklan dapat bekerja secara efektif. LOGIQUE membuat advertisement campaign menggunakan channels & placements yang ditetapkan berdasarkan produk yang ditawarkan serta target audience atau potential customer. 
+                                    Google検索広告を成功させるために、LOGIQUEチームはまず、精度の高い閲覧者グループのターゲティングを行うために、綿密な分析を実行。また、商品のセールスポイントや市場のポテンシャルに関して、広告の効果を確実にするための徹底的な詳細分析も行いました。
                                 </p>
                                 <p class="title__description" >
-                                    Berikut adalah strategi pemasaran properti yang kami jalankan:
+                                    一般的に、Google検索広告に関わるマーケティング戦略として、以下のようなものがあります。
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Secara efektif membuat kata kunci dan iklan yang mencakup keseluruhan produk pada website.</li>
-                                    <li class="approach-item">Membuat iklan yang lebih relevan yang memungkinkan meningkatkan skor kualitas iklan</li>
-                                    <li class="approach-item">Membatasi jumlah audience dengan kualitas yang rendah dengan memantau secara berkala informasi penargetan dan membuat group audience yang terkontrol.</li>
-                                    <li class="approach-item">Mengendalikan penguasaan market properti di wilayah Bekasi dan sekitarnya melalui advertisement campaign dengan menjaga harga bid CPC serta kualitas dari iklan yang dijalankan.</li>
-                                    <li class="approach-item">Secara aktif bekerja sama dengan team branding dari Graha Mirai untuk memastikan setiap campaign berjalan sesuai dengan target dan objektif yang ingin dicapai.</li>
+                                    <li class="approach-item">ホームページの全商品を網羅するキーワードと広告提案</li>
+                                    <li class="approach-item">関連性の高い広告を作成し、全体の品質スコアを向上させる</li>
+                                    <li class="approach-item">ターゲティング情報の定期的なモニタリングと管理された閲覧者グループの作成により、低品質な閲覧者数を制限する</li>
+                                    <li class="approach-item">CPC入札価格と広告品質を維持し、広告キャンペーンを通じて、インドネシアの生産機械市場にインパクトを与える</li>
+                                    <li class="approach-item">イシダのブランディングチームと協業し、すべてのキャンペーンが会社の目指すターゲットと目的に沿って実施されるように設計する</li>
                                 </ul>
                             </div>
                         </div>
@@ -217,30 +215,25 @@
 
             <!-- THE RESULT -->
             <section class="portfolio__banner portfolio__banner-detail mt-7" style="background-image: none;">
-                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/grahamirai/bg-footer.webp');">
+                <div class="content-wrapper__ " style="background-image: url('/img/portfolio/digitalmarketing/ishida/bg-footer.webp');">
                     <div class="container__ banner-detail__content">
                         <div class="row">
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Keberhasilan digital advertisement dipengaruhi oleh penargetan audience yang tepat. Oleh karena itu, tim LOGIQUE melakukan berbagai analisa mendalam untuk mendapatkan kelompok audience dengan akurasi penargetan yang tinggi.
-                                </p>
-                                <p class="text-white" >
-                                    Dengan strategi pemasaran properti dari LOGIQUE, iklan digital milik Graha Mirai dapat berjalan secara efektif. Kami membuat iklan yang disesuaikan dengan relevansi yang tinggi serta mengaitkannya ke halaman produk Graha Mirai.
-                                </p>
-                                <p class="text-white" >
-                                    Berikut ini adalah pencapaian yang diperoleh dari digital advertisement yang kami jalankan:
-                                </p>
+                                    LOGIQUEのマーケティング戦略により、Webサイト内の適切な製品ページに直接リンクする、関連性の高いカスタマイズされたGoogle検索広告の出稿に成功しました。
+                                    なお、マーケティング戦略の成果は以下の通りです。
 
+                                </p>  
                             </div>
                             <div class="col-md-7 col-xs-12 mt-7">
                                 <div class="col-md-6 col-xs-12">    
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+22%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+24%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversion Rate</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+30%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+46%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Conversions</b></p>
                                     </div>   
                                 </div>
@@ -248,11 +241,11 @@
                                 <div class="col-md-6 col-xs-12">    
                                     
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">-28%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">-27%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>Cost Per-click (CPC)</b></p>
                                     </div>
                                     <div class="card-result m-2 ml-0 text-center flex flex-col justify-center">
-                                         <h5 class="card-text text-blue-card text-6xl">+15%</h5>                                  
+                                         <h5 class="card-text text-blue-card text-6xl">+37%</h5>                                  
                                          <p class="text-blue-card text-xl mt-2"><b>CTR</b></p>
                                     </div>   
                                 </div>
@@ -266,7 +259,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Perumahan yang dibangun di tengah-tengah kawasan industri membuat LOGIQUE tertantang untuk terus mencari cara agar iklan dapat bekerja dengan efektif. Dari strategi pemasaran properti ini, LOGIQUE berhasil menghadirkan iklan digital yang mampu menjangkau target audiens dengan tepat, baik itu customer yang membutuhkan hunian agar dekat dengan tempat kerja mereka ataupun customer yang sedang mencari sarana untuk berinvestasi.
+                                    Ishida Indonesiaの製品が広く認知され、意図したターゲットにリーチできるよう、LOGIQUEではGoogle検索広告を出稿する前に綿密な分析を行っています。また、商品カテゴリを細かく設定することで、ターゲットに的確にリーチし、高いコンバージョン率を実現していることも特筆すべき点でしょう。このようなマーケティング戦略により、より最適なリードを獲得しています。
                                 </p>
                             </div>
                         </div>

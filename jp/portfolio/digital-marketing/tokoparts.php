@@ -68,15 +68,15 @@
         <?php 
             // $active option are home, about, portfolio, services, product, career, contact
             $active = 'portfolio';
-            include($_SERVER['DOCUMENT_ROOT'].'/sidebar.php'); 
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/sidebar.php'); 
         ?>
 
         <?php 
-            $lang = 'en';
-            $en_link = '#';
+            $lang = 'jp';
+            $en_link = '/en/portfolio/digital-marketing/tokoparts.php';
             $id_link = '/portofolio/digital-marketing/tokoparts.php';
-            $jp_link = '/jp/portfolio/digital-marketing/tokoparts.php';
-            include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
+            $jp_link = '#';
+            include($_SERVER['DOCUMENT_ROOT'].'/jp/header.php'); 
         ?>
 
         <style>
@@ -112,15 +112,15 @@
                                     itemtype="http://schema.org/BreadcrumbList">
                                     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
                                         <a itemprop="item"
-                                            href="index.php"><span itemprop="name">Home</span></a>
+                                            href="index.php"><span itemprop="name">ホーム</span></a>
                                         <meta itemprop="position" content="1" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/portofolio.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Portofolio</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;ポートフォリオ</span></a>
                                         <meta itemprop="position" content="2" />
                                     </li>
-                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/en/portfolio/digital-marketing.php"
-                                            itemprop="item"><span itemprop="name">&nbsp;Digital Marketing</span></a>
+                                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/jp/portfolio/digital-marketing.php"
+                                            itemprop="item"><span itemprop="name">&nbsp;デジタルマーケティング</span></a>
                                         <meta itemprop="position" content="3" />
                                     </li>
                                     <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -165,16 +165,16 @@
                             <div class="col-md-8">
                                 <div class="title"><h1>CLIENT'S BACKGROUND</h1></div>
                                 <p class="title__description" >
-                                    Tokoparts is specialized in the area of B2B E-Commerce, specifically with the aim of providing spare parts for cars. This type of e-commerce offers a complete and high quality database based on a carefully selected group of trusted suppliers, enabling customers to easily search for spare parts. 
+                                    Tokopartsは、BtoB電子商取引の分野に特化し、特に、自動車用のスペアパーツを提供することを目的としています。この種の電子商取引で同社は、信頼できるサプライヤーを厳選し、正確で質の高いデータベースを提供しているため、顧客はスペアパーツを容易に検索できます。
                                 </p>
                                 <p class="title__description">
-                                    In order to measure up to customer demands, Tokoparts provides a wide selection of genuine auto parts from various popular car brands such as Toyota, Honda, Daihatsu, Mitsubishi, Suzuki, Hino and Fuso. In addition, Tokoparts also always guarantees that all its auto parts provided are genuine and of the highest quality. 
+                                    さらなるお客様の要望に応えていくため、Tokopartsは、トヨタ、ホンダ、ダイハツ、三菱、スズキ、日野、ふそうなど、さまざまな人気自動車ブランドの純正自動車部品の幅広い選択肢を提供しています。
                                 </p>
                                 <p class="title__description">
-                                    Through these services, Tokoparts has continuously met the needs of its customers, utilizing a high-performance E-Commerce website in the process, letting its customers purchase spare parts in a quick and efficient manner.
+                                    さらに、Tokopartsは、提供するすべての自動車部品が本物でかつ、最高品質であることを常に保証しています。これらのサービスを通じて、Tokoparts は継続的にお客様のニーズに応え、その過程で、高性能な E コマースとしてのWebサイトを活用し、お客様に迅速かつ効率的な方法でスペアパーツを購入していただいています。
                                 </p>
                                 <p class="title__description">
-                                    In managing its business, Tokoparts also wants to ensure that the E-Commerce website they have leveraged can be found easily throughout the search engine. To achieve this, Tokoparts has decided to use the digital marketing services provided for by LOGIQUE, namely in the field of search engine optimization (SEO).
+                                    そんな中、Tokoparts 社は、自社のWebサイトが検索エンジンで容易に見つかるようにしたいと考えています。これを実現するために、Tokoparts社はLOGIQUEが提供するデジタルマーケティングサービス、すなわち検索エンジン最適化（SEO）の分野を利用することを決定しました。
                                 </p>
                             </div>
                             <div class="col-md-4">
@@ -195,21 +195,21 @@
                             <div class="col-md-12">
                                 <div class="title"><h1>PLAN OF ACTION / GENERAL STRATEGY</h1></div>
                                 <p class="title__description" >
-                                    To improve the website’s keyword rankings against the fierce competition of the E-Commerce market, LOGIQUE first conducts a comprehensive and structured plan for the improvement and development of the overall website.
+                                    Eコマース市場の激しい競争の中、Webサイトのキーワード順位を向上させるために、LOGIQUEはまず、Webサイト全体の改善とより良い発展のための、包括的かつ構造的な計画を実施しました。
                                 </p>
                                 <p class="title__description" >
-                                    We proceed by analyzing how the website performs within the search engine pages, after which we then provide suggestions to the best of our abilities, thereby maximizing the website’s potential. Additionally, LOGIQUE also specializes in developing high quality website content for its clients so as to increase the genuine satisfaction of the website’s visitors. Improving the actual content also further helps search engines better understand the substance of the material being presented, and thereby increases the ranking of the webpages as a whole. 
+                                    コンテンツを充実させることで、検索エンジンがその内容をより理解しやすくなり、ページ全体のランキングを向上させることができるのです。 
                                 </p>
                                 <p class="title__description" >
-                                    The following list details the SEO strategies regarding Tokoparts’ E-Commerce activities:
+                                    以下のリストは、トコパーツのEコマース活動に関するSEO戦略の詳細です。
                                 </p>
 
                                 <ul class="approach-items">
-                                    <li class="approach-item">Conduct a comprehensive and structured website audit for every existing webpage.</li>
-                                    <li class="approach-item">Develop a webpage repair plan by dividing all the site’s problems into classifications based on levels of priority.</li>
-                                    <li class="approach-item">Improve the quality of all existing website content through the addition of extra information, while utilizing appropriate and relevant keywords.</li>
-                                    <li class="approach-item">Regularly monitor the position of keywords and actively follow the development and updates of the Search Engine Algorithm so that any changes made are based on the parameters set by the search engine.</li>
-                                    <li class="approach-item">Actively collaborate with both the Front End and Back End developer teams so as to improve the overall quality of the website, from image optimization to website page speed.</li>
+                                    <li class="approach-item">既存のすべてのWebページについて、包括的かつ構造的なウェブサイト監査を実施する</li>
+                                    <li class="approach-item">サイトのすべての問題を優先順位に基づいて分類し、Webサイトの修復計画を策定する</li>
+                                    <li class="approach-item">適切なキーワードを使用し、情報を追加することによって、すべての既存サイトのコンテンツの品質を向上させる</li>
+                                    <li class="approach-item">キーワードの位置を定期的に監視し、検索エンジンのアルゴリズムの開発と更新を積極的にフォローし、変更があれば検索エンジンが設定したパラメータに基づくように設定</li>
+                                    <li class="approach-item">フロントエンド～バックエンドの開発チームと積極的に協力し、画像の最適化からウェブサイトのページ速度まで、ウェブサイトの全体的な品質を向上させる</li>
                                 </ul>
                             </div>
                         </div>
@@ -225,10 +225,10 @@
                             <div class="col-md-5">
                                 <div class="title text-white mt-7"><h1>THE RESULT</h1></div>
                                 <p class="text-white" >
-                                    Through the implementation of optimized Digital and SEO assets, LOGIQUE has thus succeeded in the improvement of the overall quality of the Tokoparts website. Additionally, LOGIQUE has succeeded in improving the website’s overall rank as well, with the use of targeted keywords tailored to a high degree of relevance, linked directly to the product and category pages.
+                                    最適化されたデジタル資産とSEO資産を導入することで、LOGIQUEは、TokopartsのWebサイト全体の品質を向上させることに成功しました。さらに、製品ページやカテゴリーページに直接リンクさせた関連性の高いキーワードを使用することで、Webサイト全体のランクを向上させることも達成しました。
                                 </p>
                                 <p class="text-white" >
-                                    Here are the results of the website’s organic improvement:
+                                    以下は、同サイトのオーガニック改善結果です。
                                 </p>
                             </div>
                             <div class="col-md-7 col-xs-12 mt-7">                              
@@ -277,7 +277,7 @@
                             <div class="col-md-12">
                                 <div class="title text-white"><h1>Key Takeaway</h1></div>
                                 <p class="text-white" >
-                                    Understanding the client’s Products as well as the Intents Audiences are important factors in determining the direction of website’s development. LOGIQUE also conducts research in the targeting of appropriate keywords. This improves the website’s visibility, making it easier to reach in regards to potential audiences. This way, optimizing the performance of the site inevitably leads to an increase in its performance within the search engine.
+                                    Webサイト制作の方向性を決めるには、クライアントの商品と、その対象となるオーディエンスを理解することが重要なため、LOGIQUEでは、適切なキーワードをターゲティングするための調査も行っています。これにより、Webサイトの視認性を向上させ、潜在的なオーディエンスにリーチしやすくします。このように、サイトのパフォーマンスを最適化することは、必然的に検索エンジン内でのパフォーマンスアップにつながるのです。
                                 </p>
                             </div>
                         </div>
