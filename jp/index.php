@@ -246,7 +246,7 @@
  
           <div class="flex__row case-study__slide case-study__case-item">
                 <div class="col-md-4 col-xs-12">
-                    <a href="/case-study/jba-bastk" class="case-item" data-card-category="WEBSITE">
+                    <a href="/jp/case-study/jba-bastk/" class="case-item" data-card-category="WEBSITE">
                         <picture>
                         <source srcset="/case-study/assets/img/card/9.webp" type="image/webp">
                         <img src="/case-study/assets/img/card/9.png" class="img-responsive case-item__img" alt="JBA EBASTK" loading="lazy">
@@ -258,7 +258,7 @@
                     </a>
                 </div>
                 <div class="col-md-4 col-xs-12">
-                    <a href="/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
+                    <a href="/jp/case-study/aia-surrender/" class="case-item" data-card-category="WEB APP">
                         <picture>
                         <source srcset="/case-study/assets/img/card/10.webp" type="image/webp" style=" filter: contrast(0.9); "> 
                         <img src="/case-study/assets/img/card/10.png" class="img-responsive case-item__img" alt="AIA FINANCIAL" loading="lazy" style=" filter: contrast(0.9); ">
