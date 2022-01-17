@@ -165,7 +165,7 @@ footer {
                                         <ul class="footer-submenu">
                                             <li><a href="/jp/services/project-management.php">プロジェクトマネジメントについて</a> </li>
                                             <li><a href="/jp/services/devops.php">クラウドサーバー運用サービス</a> </li>
-                                            <li><a href="#"> 定額DX/DMサービス</a> </li>
+                                            <li><a href="/jp/services/dx-dm-service.php"> 定額DX/DMサービス</a> </li>
                                         </ul>
                                     </li> 
                                    
