@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="インドネシアでWebシステム、モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのサービス紹介ページ。ジャカルタに本社をもちジョグジャカルタに制作運用センターをもつ10年近いインドネシアでの経験をもつ制作開発会社です。">
+        content="インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのサービス紹介ページ。ジャカルタに本社を構える受託制作会社でありIT/DXコンサルティング会社です。">
     <meta name="keywords" content="WEBサイト制作, ホームページ制作, ウェブシステム構築, マーケティング, SEO, メンテナンス, モバイルアプリ, デザイン, 印刷">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta property="og:title" content="インドネシアのITコンサルティング会社LOGIQUEのサービス紹介">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/services.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
+    <meta property="og:image" content="/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="インドネシアでWebシステム、モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのサービス紹介ページ。ジャカルタに本社をもちジョグジャカルタに制作運用センターをもつ10年近いインドネシアでの経験をもつ制作開発会社です。">
+        content="インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしているLOGIQUEのサービス紹介ページ。ジャカルタに本社を構える受託制作会社でありIT/DXコンサルティング会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/services.php" />
-    <title>インドネシアのITコンサルティング会社LOGIQUEのサービス紹介</title>
+    <title>インドネシアのITコンサルティング会社LOGIQUEのサービス紹介 | システム開発</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

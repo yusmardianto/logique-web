@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="LOGQUE社はインドネシアの大手マイニング会社BUMA社向けに重機車両検査システムを開発しました。保有重機の状態を適切に詳細に管理することを可能にしました。">
+    <meta name="description" itemprop="description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 (BUMA社向け)プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
     <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -13,7 +13,7 @@
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/case-study/sistem-inspeksi-alat-berat-buma/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-    <meta property="og:description" content="LOGQUE社はインドネシアの大手マイニング会社BUMA社向けに重機車両検査システムを開発しました。保有重機の状態を適切に詳細に管理することを可能にしました。">
+    <meta property="og:description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 (BUMA社向け) プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/case-study/sistem-inspeksi-alat-berat-buma/">
     <script>
@@ -26,7 +26,7 @@
     ga('send', 'pageview');
 
     </script>
-    <title>重機検査システム開発（BUMA社向け）</title>
+    <title>(BUMA社向け) | ケーススタディ | インドネシアのWebシステム開発実績 | LOGIQUE</title>
 
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     </noscript>
@@ -46,7 +46,7 @@
     ?>
   </head>
   
-	<body>
+  <body>
     <?php 
       if ($_SERVER['HTTP_HOST'] === 'www.logique.co.id') {
         echo '<!-- Google Tag Manager (noscript) -->
@@ -55,7 +55,7 @@
         <!-- End Google Tag Manager (noscript) -->';
       }
     ?>
-		<div class="wrapper o-wrapper top-only">
+    <div class="wrapper o-wrapper top-only">
 
       <header>
         <div class="container">
@@ -74,67 +74,67 @@
         </div>
       </header>
 
-			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar first"></span>
-				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="myNavbar">
-			<div class="backdrop-test"></div>
-				<div class="logique-nav logique-nav--update">
-					<div class="margin-for-nav">
-						<div class="text-center">
-							<a href="/">
-								<div class="img-home"></div>
-								Beranda
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/logique.php">
-								<div class="img-about"></div>
-								Tentang Kami
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/portofolio.php">
-								<div class="img-portfolio"></div>
-								Portfolio
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/layanan.php">
-								<div class="img-services"></div>
-								Layanan
-							</a>
-						</div>
+      <!-- NAVIGATION -->
+      <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar first"></span>
+        <span class="icon-bar second"></span>
+        <span class="icon-bar third"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="myNavbar">
+      <div class="backdrop-test"></div>
+        <div class="logique-nav logique-nav--update">
+          <div class="margin-for-nav">
+            <div class="text-center">
+              <a href="/">
+                <div class="img-home"></div>
+                Beranda
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/logique.php">
+                <div class="img-about"></div>
+                Tentang Kami
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/portofolio.php">
+                <div class="img-portfolio"></div>
+                Portfolio
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/layanan.php">
+                <div class="img-services"></div>
+                Layanan
+              </a>
+            </div>
             <div class="text-center">
               <a href="/produk.php">
                 <div class="img-product"></div>
                 Produk
               </a>
             </div>
-						<div class="text-center">
-							<a href="/career/">
-								<div class="img-career"></div>
-								Karir
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/hubungi-kami.php">
-								<div class="img-contact"></div>
-								Hubungi Kami
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
+            <div class="text-center">
+              <a href="/career/">
+                <div class="img-career"></div>
+                Karir
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/hubungi-kami.php">
+                <div class="img-contact"></div>
+                Hubungi Kami
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+                <div class="img-blog"></div>
+                Blog
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
       <!-- NAVIGATION -->
 
       <div class="cs-wrap">
@@ -417,21 +417,21 @@
         }
         </style>
       <?php include '../../footer.php';?>
-		</div>
-		<script type="application/ld+json">
-			{
-			  "@context": "http://schema.org",
-			  "@type": "Organization",
-			  "address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Jakarta, Indonesia",
-					"postalCode": "12550",
-					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-			  },
-			  "logo": "https://www.logique.co.id/img/logo.png",
-			  "email": "info(at)logique.co.id",
-			  "telephone": "+62 (21) 2270 8935/36"
-			}
-		</script>
-	</body>
+    </div>
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Jakarta, Indonesia",
+          "postalCode": "12550",
+          "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+        },
+        "logo": "https://www.logique.co.id/img/logo.png",
+        "email": "info(at)logique.co.id",
+        "telephone": "+62 (21) 2270 8935/36"
+      }
+    </script>
+  </body>
 </html>

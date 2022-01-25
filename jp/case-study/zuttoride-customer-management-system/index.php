@@ -4,42 +4,42 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="Logique develops web based system for its client including Zuttoride as part of logique's web system strategy, which includes a Customer Management System (CRM).">
-	<meta name="keywords" content="Zuttoride web system, Zuttorude web based system, Logique development strategy, Logique web system strategy, Zuttoride Web System Strategy">
-	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Zuttoride Web System Strategy | Case Study | LOGIQUE">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
-	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="Logique develops web based system for its client including Zuttoride as part of logique's web system strategy, which includes a Customer Management System (CRM).">
-	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
+  <meta name="description" itemprop="description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Zuttoride Web System Strategy プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
+  <meta name="keywords" content="Zuttoride web system, Zuttorude web based system, Logique development strategy, Logique web system strategy, Zuttoride Web System Strategy">
+  <meta name="author" content="PT. Logique Digital Indonesia">
+  <meta itemprop="name" content="PT. Logique Digital Indonesia">
+  <meta property="og:title" content="Zuttoride Web System Strategy | Case Study | LOGIQUE">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Logique">
+  <meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
+  <meta property="og:description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Zuttoride Web System Strategy プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
+  <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/en/case-study/zuttoride-customer-management-system/"/>
   <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview');
+  ga('create', 'UA-105878648-1', 'auto');
+  ga('send', 'pageview');
 
-	</script>
-  <title>Zuttoride Web System Strategy | Case Study | LOGIQUE</title>
+  </script>
+  <title>Zuttoride Web System Strategy | ケーススタディ | インドネシアのWebシステム開発実績 | LOGIQUE</title>
 
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
-	</noscript>
+  <link href="../../../css/bootstrap.min.css" rel="stylesheet">
+  </noscript>
 
   <link href="../../../css/style.css" rel="stylesheet">
-	<link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="../../../fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
   <!-- case study style -->
   <link href="css/style.css" rel="stylesheet">
 
     </head>
-	<body>
-		<div class="wrapper o-wrapper top-only">
+  <body>
+    <div class="wrapper o-wrapper top-only">
 
       <header>
         <div class="container">
@@ -58,67 +58,67 @@
         </div>
       </header>
 
-			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar first"></span>
-				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="myNavbar">
-			<div class="backdrop-test"></div>
-				<div class="logique-nav logique-nav--update">
-					<div class="margin-for-nav">
-						<div class="text-center">
-							<a href="/en">
-								<div class="img-home"></div>
-								Home
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/logique.php">
-								<div class="img-about"></div>
-								About Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/portfolio.php">
-								<div class="img-portfolio"></div>
-								Portfolio
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/services.php">
-								<div class="img-services"></div>
-								Services
-							</a>
-						</div>
+      <!-- NAVIGATION -->
+      <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar first"></span>
+        <span class="icon-bar second"></span>
+        <span class="icon-bar third"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="myNavbar">
+      <div class="backdrop-test"></div>
+        <div class="logique-nav logique-nav--update">
+          <div class="margin-for-nav">
             <div class="text-center">
-							<a href="/en/product.php">
-								<div class="img-product"></div>
-								Product
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/career/">
-								<div class="img-career"></div>
-								Career
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/contact.php">
-								<div class="img-contact"></div>
-								Contact Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
+              <a href="/en">
+                <div class="img-home"></div>
+                Home
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/logique.php">
+                <div class="img-about"></div>
+                About Us
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/portfolio.php">
+                <div class="img-portfolio"></div>
+                Portfolio
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/services.php">
+                <div class="img-services"></div>
+                Services
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/product.php">
+                <div class="img-product"></div>
+                Product
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/career/">
+                <div class="img-career"></div>
+                Career
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/contact.php">
+                <div class="img-contact"></div>
+                Contact Us
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+                <div class="img-blog"></div>
+                Blog
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
       <!-- NAVIGATION -->
 
       <div class="cs-wrap">
@@ -345,21 +345,21 @@
         }
         </style>
       <?php include '../../footer.php';?>
-		</div>
-		<script type="application/ld+json">
-			{
-			  "@context": "http://schema.org",
-			  "@type": "Organization",
-			  "address": {
-					"@type": "PostalAddress",
-					"addressLocality": "Jakarta, Indonesia",
-					"postalCode": "12550",
-					"streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
-			  },
-			  "logo": "https://www.logique.co.id/img/logo.png",
-			  "email": "info(at)logique.co.id",
-			  "telephone": "+62 (21) 2270 8935/36"
-			}
-		</script>
-	</body>
+    </div>
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Jakarta, Indonesia",
+          "postalCode": "12550",
+          "streetAddress": "Ad Premier Building 19th Floor. Jalan Tb. Simatupang No. 5, Ragunan, Ps. Minggu,  Jakarta Selatan"
+        },
+        "logo": "https://www.logique.co.id/img/logo.png",
+        "email": "info(at)logique.co.id",
+        "telephone": "+62 (21) 2270 8935/36"
+      }
+    </script>
+  </body>
 </html>
