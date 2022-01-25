@@ -9,7 +9,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Webマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、カタログ・パンフレット等のデザインなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
+    content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Webマーケティング、モバイルアプリ開発(iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、ネット広告などをワンストップでサービス提供しています。日本人オーナー運営、日系企業への実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
   <meta name="keywords" content="Webサイト制作, ホームページ制作, ウェブシステム構築, インターネットマーケティング, SEO, デザイン, パンフレット, モバイルアプリ">
   <meta name="author" content="PT. Logique Digital Indonesia">
   <meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -19,10 +19,10 @@
   <meta property="og:url" content="https://logique.co.id/jp">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
   <meta property="og:description"
-    content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Digitalマーケティング、モバイルアプリ開発(ハイブリッド / iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、コンテンツマーケティングなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。インドネシアで7年以上多くのお客様をご支援してきた実績があります。">
+    content="インドネシア、ジャカルタでのWebサイト(ホームページ)制作、システム構築、Digitalマーケティング、モバイルアプリ開発(ハイブリッド / iOS / Andorid)、SNS運用(Facebook/Instagram/Twitter等)、コンテンツマーケティングなら日系実績No.1のLOGIQUEデジタルインドネシアにお任せください。">
   <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/jp/"/>
-  <title>ジャカルタのWebサイト/ホームページ制作会社 | LOGIQUE デジタルインドネシア</title>
+  <title>DX/ITコンサルティング会社 | Webシステム開発会社 | LOGIQUE デジタルインドネシア</title>
 
   <!-- Bootstrap -->  
   <link rel="preconnect" href="https://prod.purechatcdn.com">
