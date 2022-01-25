@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="LOGIQUE has assisted JBA Indonesia through web development & auction system development to create a reliable auction system, in Jakarta.">
+  <meta name="description" itemprop="description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 JBA Auction System Development プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
 	<meta name="keywords" content="Auction system development service, Auction system development company, Auction system development Jakarta, Logique Auction system, Logique JBA case study, JBA case study">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -13,7 +13,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/case-study/jba-auction-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="Want to create your own Web System? LOGIQUE has assisted JBA Indonesia in web & system development, & to create a web based auction system. Click to find out how LOGIQUE can help your company.">
+	<meta property="og:description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 JBA Auction System Development プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
 	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/en/case-study/jba-auction-system/">
@@ -27,7 +27,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>JBA Auction System Development | Case Study | LOGIQUE</title>
+  <title>JBA Auction System Development | ケーススタディ | インドネシアのWebシステム開発実績 | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>

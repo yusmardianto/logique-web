@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-    <meta name="description" itemprop="description" content="LOGIQUE has successfully developed the AIA Surrender microsite policy cancellation system. Please contact us for the development of an insurance website that works optimally!">
+    <meta name="description" itemprop="description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Creating a Policy Cancellation System | Microsite AIA Surrender プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
     <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -13,7 +13,7 @@
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/case-study/aia-surrender/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-    <meta property="og:description" content="LOGIQUE has successfully developed the AIA Surrender microsite policy cancellation system. Please contact us for the development of an insurance website that works optimally!">
+    <meta property="og:description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Creating a Policy Cancellation System | Microsite AIA Surrender プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/case-study/aia-surrender/">
     <script>
@@ -26,7 +26,7 @@
     ga('send', 'pageview');
 
     </script>
-    <title>Creating a Policy Cancellation System | Microsite AIA Surrender | LOGIQUE</title>
+    <title>Creating a Policy Cancellation System | Microsite AIA Surrender | ケーススタディ | インドネシアのWebシステム開発実績 | LOGIQUE</title>
 
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     </noscript>

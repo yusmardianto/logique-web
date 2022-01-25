@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="Working with Caroline, LOGIQUE has assisted in developing a car trading system with an online bidding system, creating a quality car selling site center.">
+  <meta name="description" itemprop="description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Caroline Car Bidding System プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
 	<meta name="keywords" content="Caroline Car Online Bidding System, Car Online Bidding System Jakarta, Car Online Bidding System company, Car Online Bidding System service, Bidding System for Car Website, Logique Bidding System, Caroline Case Study, Logique Case Study">
 	<meta name="author" content="PT. Logique Digital Indonesia">
 	<meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -13,7 +13,7 @@
 	<meta property="og:site_name" content="Logique">
 	<meta property="og:url" content="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
 	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="LOGIQUE developed a quality car trading system & online bidding system for Caroline. Create a System for Your Business with LOGIQUE.">
+	<meta property="og:description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Caroline Car Bidding System プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
   <link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/en/case-study/caroline-bidding-system/">
   <script>
@@ -26,7 +26,7 @@
 	ga('send', 'pageview');
 
 	</script>
-  <title>Caroline Car Bidding System | Case Study | LOGIQUE</title>
+  <title>Caroline Car Bidding System | ケーススタディ | インドネシアのWebシステム開発実績 | LOGIQUE</title>
 
 	<link href="../../../css/bootstrap.min.css" rel="stylesheet">
 	</noscript>
