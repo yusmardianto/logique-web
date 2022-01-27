@@ -293,7 +293,6 @@
     $('.same-height').matchHeight();
     $('.col-md-4.col-xs-6').matchHeight();
 
-
     $('.slider-other-client-container').slick({
         dots: false,
         infinite: true,
