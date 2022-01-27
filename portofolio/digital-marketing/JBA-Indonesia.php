@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Strategi digital marketing di perusahaan lelang JBA Indonesia dijalankan untuk meningkatkan brand awareness dan conversions. Simak strategi kami di sini!">
+        content="JBA Indonesia merupakan portofolio digital marketing terbaik yang dimiliki LOGIQUE untuk optimasi Brand Awareness & Conversions melalui Social Media & Google Ads.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/JBA-Indonesia.php">
     <title>JBA Indonesia | Portofolio Performa Digital Marketing</title>

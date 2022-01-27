@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="Sumitomo menjalankan proses SEO untuk meningkatkan kualitas dan mutu website. Dengan strategi yang dijalankan, LOGIQUE berhasil membawa peningkatan signifikan.">
+        content="LOGIQUE mampu meningkatkan mutu dan kualitas website melalui optimasi mesin pencari (SEO) sehingga relevansi antara konten dengan target audience menjadi lebih baik.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/sumitomo.php">
     <title>Sumitomo (SHI) | Portofolio Performa Digital Marketing</title>

@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE melakukan peningkatan mutu website Tokoparts melalui web maintenance secara komprehensif untuk optimasi pada search engine & tingkat kepuasan user.">
+        content="Tokoparts merupakan salah satu portofolio kami terkait layanan digital marketing. LOGIQUE berhasil meningkatkan performa website secara kuantitas dan kualitas.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/tokoparts.php">
     <title>E-Commerce Tokoparts | Portofolio Performa Digital Marketing</title>
