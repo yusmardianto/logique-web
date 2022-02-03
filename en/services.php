@@ -24,6 +24,7 @@
     <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- <link href="../css/style.css" rel="stylesheet">   -->
+    <link rel="canonical" href="https://www.logique.co.id/en/services.php" />
     <link href="/css/sidebar-update.css" rel="stylesheet"> 
     <link href="/css/newstyle.css" rel="stylesheet">
     <link href="/css/style-revamp.css" rel="stylesheet">

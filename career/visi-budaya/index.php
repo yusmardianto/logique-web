@@ -20,6 +20,7 @@
   <!-- fitVIds Lib -->
   <!-- <script src="path/to/jquery.fitvids.js"></script> -->
 
+  <link rel="canonical" href="https://www.logique.co.id/career/visi-budaya" />
 
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
