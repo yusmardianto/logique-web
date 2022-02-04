@@ -83,10 +83,17 @@
                             <div class="row">
                                 <div class="col-md-offset-1 col-md-10 text-center">
                                     <h1 class="title-index" style="margin-top: 100px; ">The Top Web System Development Company in Jakarta, <br>Providing Digital Solutions for Your Business</h1>
-                                    <p><strong>LOGIQUE DIGITAL INDONESIA</strong> is a professional Web Application / Mobile App Developer that
-                                        specializes in creating and designing WebApps, with an emphasis on Digital Marketing operations with the end goal of improving your business and maximizing profits.
+                                    <p>
+                                        <strong>LOGIQUE</strong> 
+                                        is a name derived from the Bahasa term “logika-ku”. Through upholding a highly logical standard in everything we do, we aim to provide the best services to our clients, while not hesitating to evolve from outdated practises.
                                         <br>
-                                        Having worked with many high-end clients ranging from the local to international levels, our company has catered to various requests, such as creating online auction systems, E-Commerce, employee recruitment systems and digital ads operations.</p>
+                                        We are professional Agile Developers and DX Consultants and, since 2012, have assisted many of our clients with their goal of going digital.
+                                        <br>
+                                        <strong>LOGIQUE</strong> 
+                                        is a Consulting Firm & Digital Marketing Agency with a deep understanding of the Indonesian market, while having experience with International projects
+                                        <br>
+                                        We also have a group company, <strong>KAZOKKU</strong>, which provides special IT staffing services.
+                                    </p>
                                 </div>
                             </div>
                             <div class="row  homepage-hero__card flex__row ">
