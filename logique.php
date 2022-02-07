@@ -106,8 +106,14 @@
                         <div class="text-center">
                             <h1 class="title-index">Tentang Kami</h1>
                             <hr class="title__yellow-line--center">
-                            <p class="title__description">LOGIQUE Digital Indonesia adalah konsultan IT dan perusahaan pengembang sistem terkemuka yang dipimpin oleh seorang pengusaha Jepang di Jakarta. <br><br>
-                            Sebagai client-oriented developer, kami melayani klien yang percaya pada efektivitas pemasaran digital berkualitas tinggi; berkontribusi pada perkembangan teknologi informasi terdepan dengan memberdayakan perusahaan Anda melalui berbagai layanan web dan apapun yang berkaitan dengan teknologi informasi, seperti pengembangan aplikasi mobile, Aplikasi Web Progresif (PWA), pengembangan web dan sistem, SEO, dan berbagai layanan digital lainnya.</p>
+                            <p class="title__description">
+                                LOGIQUE adalah nama yang berasal dari istilah Bahasa Indonesia “logika-ku”. Dengan menjunjung tinggi standar yang sangat logis dalam segala hal yang kami lakukan kami memberikan layanan terbaik kepada klien kami dan tanpa ragu-ragu beralih dari cara atau metode yang sudah ketinggalan zaman.<br>
+                                Kami adalah Agile Developer dan Konsultan DX profesional yang sejak tahun 2012 telah membantu banyak klien  mendigitalisasikan ide dan bisnis mereka.<br>
+                                LOGIQUE adalah Konsultan, Pengembang Sistem, dan Agen Pemasaran Digital dengan pemahaman yang mendalam tentang pasar Indonesia serta memiliki banyak pengalaman dengan proyek-proyek Internasional.<br><br>
+
+                                Kami memiliki grup perusahaan yakni KAZOKKU yang menyediakan layanan rekrutmen untuk spesialis di bidang IT.<br><br>
+                                <a href="https://www.kazokku.com/" target="_blank"><img src="/img/kazokku-logo.PNG" alt="kazokku"></a>
+                            </p>
                         </div>
 
                         <div class="row">
@@ -239,41 +245,44 @@
                             <h1 class="title-index">Profil Perusahaan</h1>
                             <hr class="title__yellow-line">
                             <ul class="company__content">
-                                <li>Nama Perusahaan</li>
+                                <li>Nama</li>
                                 <li class="company__bold">PT. LOGIQUE Digital Indonesia</li>
                                 <hr class="company__divider">
 
-                                <li>Bidang Usaha</li>
-                                <li class="company__bold">Konsultasi IT, Pembuatan Website, Pembuatan Desain,
-                                    Pengembangan
-                                    Sistem, Pengembangan Aplikasi Mobile, Digital Marketing Consulting</li>
-                                <hr class="company__divider">
-
-                                <li>Direktur</li>
+                                <li>Pendiri & CEO</li>
                                 <li class="company__bold">Takashi Yoshitsugu</li>
                                 <hr class="company__divider">
 
                                 <li>Jumlah Karyawan</li>
-                                <li class="company__bold">80 (hingga Nov 2020)</li>
+                                <li class="company__bold">80 (Jan 2022)</li>
                                 <hr class="company__divider">
 
-                                <li>Alamat Kantor Pusat</li>
+                                <li>Alamat</li>
                                 <li class="company__bold">Ad Premier Building 19th Floor, Jalan Tb. Simatupang No. 5,
                                     Pasar Minggu, Jakarta
                                     12550,
                                     INDONESIA</li>
                                 <hr class="company__divider">
 
-                                <li>Phone</li>
+                                <li>Telepon</li>
                                 <li class="company__bold">
                                     <i class="fa fa-phone"></i>&nbsp; +62(21) 2270 8935 / 36 <br>
                                     <i class="fa fa-whatsapp"></i>&nbsp; +62 811 870 321
                                 </li>
                                 <hr class="company__divider">
 
-                                <li>Development Center</li>
-                                <li class="company__bold">Yogyakarta ( Kledokan, Kota Yogyakarta )</li>
+                                <li>Email</li>
+                                <li class="company__bold">info@logique.co.id</li>
                                 <hr class="company__divider">
+
+                                <li>Cabang</li>
+                                <li class="company__bold">Yogyakarta</li>
+                                <hr class="company__divider">
+
+                                <li class="company__bold">Konsultasi IT, NPWP: 82.225.621.0-071.000</li>
+                                <li class="company__bold">NIB: 8120202742466 ( 26<sup>th</sup>,Jul,2018)</li>
+                                <hr class="company__divider">
+
                             </ul>
                         </div>
                     </div>

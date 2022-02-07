@@ -51,8 +51,11 @@
                                     <li><a href="https://www.linkedin.com/company/13420656" target="_blank" rel="noreferrer"  aria-label="LinkedIn" class="linkedin-icon"> </a></li>
                                 </ul>
 
-                                <img class="rounded" src="./img/img-footer-googlepartner-withborder.png" alt="" width="72" height="auto" style="margin-top: 1rem;"/> 
-                                
+                                <img class="rounded" src="./img/aws.jpg" alt="" width="80" height="auto" style="margin-top: 1rem;"/>
+                                <picture>
+                                    <source srcset="img/google-badge.webp" type="image/webp">
+                                    <img class="rounded" src="img/google-badge.png" alt="" width="120" height="auto" style="margin-top: 1rem;">
+                                </picture>
                             </div>  
                         </div>
                     </div>
