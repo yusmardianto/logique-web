@@ -10,7 +10,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
   <meta name="description" itemprop="description"
-    content="ケーススタディ untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
+    content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。インドネシアのジャカルタでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシア。インドネシアの受託制作会社でありIT/DXコンサルティング会社です。">
  
   <meta name="keywords" content="Daftar klien logique, Klien logique untuk pembuatan website, Klien logique untuk pembuatan sistem web, Klien logique untuk pembuatan mobile app, Klien logique untuk pembuatan web app, Klien logique untuk pembuatan aplikasi web
 ">  
@@ -23,7 +23,7 @@
   <meta property="og:url" content="https://www.logique.co.id/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
   <meta property="og:description"
-    content="ケーススタディ untuk Pembuatan & Pengembangan Website, Sistem & Aplikasi berbasis Web (Web App) serta Aplikasi Seluler (Mobile App).">
+    content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。インドネシアのジャカルタでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシア。インドネシアの受託制作会社でありIT/DXコンサルティング会社です。">
   <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
   <link rel="shortcut icon" type="image/x-icon" href="/case-study/assets/favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/case-study/" />  
@@ -72,7 +72,7 @@
   ga('send', 'pageview');
   </script>
   <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-  <title>ケーススタディ | JBA, Caroline & Lainnya.</title>
+  <title>ケーススタディ | インドネシアのWebシステム開発実績 | ITコンサルティング会社LOGIQUE</title>
 
   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" /> -->
   </noscript>

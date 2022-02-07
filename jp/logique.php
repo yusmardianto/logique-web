@@ -13,12 +13,12 @@
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/jp/logique.php">
-    <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
+    <meta property="og:image" content="/img/ogimg/logique-about.png">
     <meta property="og:description"
         content="LOGIQUEはインドネシアでのデジタルマーケティングやDXをワンストップでご支援するコンサルティング会社です。ウェブサイトやITシステム、スマホアプリの制作開発、セキュリティ脆弱性検査、デジタルマーケティング運用のご支援をしています。インドネシアで10年近い経験を持ち多くのナショナルクライアントをもつ実績のある会社です。">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/jp/logique.php"/>
-    <title>ITコンサルティング | DX | LOGIQUEデジタルINDONESIA</title>
+    <title>ITコンサルティング | インドネシアDX | LOGIQUEデジタルINDONESIA</title>
 
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">

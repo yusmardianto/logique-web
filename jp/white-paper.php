@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="Download dokumen white paper terkait pengembangan website & aplikasi web yang efektif untuk e-commerce, sistem keamanan web, penetration testing dan dokumen lainnya.">
+        content="インドネシアのWeb制作事情、DXトレンドなどのホワイトペーパーをダウンロードできます。LOGIQUEはインドネシアでのデジタルマーケティングやDXをワンストップでご支援するコンサルティング会社です。ウェブサイトやITシステム、スマホアプリの制作開発、セキュリティ脆弱性検査、デジタルマーケティング運用のご支援をしています。">
     <meta name="keywords" content="web system development, web system development jakarta, web system development jakarta selatan">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://www.logique.co.id/">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
     <meta property="og:description"
-        content="Download dokumen white paper terkait pengembangan website & aplikasi web yang efektif untuk e-commerce, sistem keamanan web, penetration testing dan dokumen lainnya.">
+        content="インドネシアのWeb制作事情、DXトレンドなどのホワイトペーパーをダウンロードできます。LOGIQUEはインドネシアでのデジタルマーケティングやDXをワンストップでご支援するコンサルティング会社です。ウェブサイトやITシステム、スマホアプリの制作開発、セキュリティ脆弱性検査、デジタルマーケティング運用のご支援をしています。">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">    
     <link rel="canonical" href="https://www.logique.co.id/white-paper.php" />  
     <!-- Facebook Pixel Code -->
@@ -42,7 +42,7 @@
   ga('send', 'pageview');
   </script> -->
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-    <title>White Paper Pengembangan & Sistem Keamanan Web | LOGIQUE</title>
+    <title>ホワイトペーパー | インドネシアのIT/DXコンサルティング会社LOGIQUE</title>
 
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;800&display=swap" rel="stylesheet">

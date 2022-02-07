@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE telah membantu banyak klien dalam meningkatkan kunjungan website melalui layanan performa Digital Marketing. Portofolio terkait layanan kami dapat Anda lihat di sini.">
+        content="Tokoparts merupakan salah satu portofolio kami terkait layanan digital marketing. LOGIQUE berhasil meningkatkan performa website secara kuantitas dan kualitas.">
     <meta name="keywords"
         content="web design, design coding, pengembangan web, jasa pembuatan website, pengembangan aplikasi mobile, database mysql, node js, sistem crm, payment gateway, mobile optimization, page creation, sistem lelang online">
     <meta name="author" content="PT. Logique Digital Indonesia">
@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://www.logique.co.id/portfolio.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/portfolio.png">
     <meta property="og:description"
-        content="LOGIQUE melakukan peningkatan mutu website Tokoparts melalui web maintenance secara komprehensif untuk optimasi pada search engine & tingkat kepuasan user.">
+        content="Tokoparts merupakan salah satu portofolio kami terkait layanan digital marketing. LOGIQUE berhasil meningkatkan performa website secara kuantitas dan kualitas.">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/portofolio/digital-marketing/tokoparts.php">
     <title>E-Commerce Tokoparts | Portofolio Performa Digital Marketing</title>
@@ -292,7 +292,6 @@
     <script>
     $('.same-height').matchHeight();
     $('.col-md-4.col-xs-6').matchHeight();
-
 
     $('.slider-other-client-container').slick({
         dots: false,

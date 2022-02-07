@@ -4,37 +4,37 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
-  <meta name="description" itemprop="description" content="Pan Pacific Investment System Development make it easier to monitor investments in detail and comprehensively | LOGIQUE Digital Indonesia">
-	<meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
-	<meta name="author" content="PT. Logique Digital Indonesia">
-	<meta itemprop="name" content="PT. Logique Digital Indonesia">
-	<meta property="og:title" content="Pan Pacific Investment System Creation & Development | LOGIQUE">
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Logique">
-	<meta property="og:url" content="https://www.logique.co.id/en/case-study/pan-pacific/">
-	<meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
-	<meta property="og:description" content="Pan Pacific Investment System Development make it easier to monitor investments in detail and comprehensively | LOGIQUE Digital Indonesia">
-	<link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+  <meta name="description" itemprop="description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Pan Pacific Investment System Creation & Development プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
+  <meta name="keywords" content="jasa pembuatan website, jasa pembuatan aplikasi, jasa seo, jasa promosi online, digital marketing, web developer, desain web, logique">
+  <meta name="author" content="PT. Logique Digital Indonesia">
+  <meta itemprop="name" content="PT. Logique Digital Indonesia">
+  <meta property="og:title" content="Pan Pacific Investment System Creation & Development | LOGIQUE">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Logique">
+  <meta property="og:url" content="https://www.logique.co.id/en/case-study/pan-pacific/">
+  <meta property="og:image" content="https://www.logique.co.id/img/ogimg/case-study.png">
+  <meta property="og:description" content="インドネシアのIT/DXコンサルティング会社LOGIQUEの実績紹介。 Pan Pacific Investment System Creation & Development プロジェクトのご紹介。インドネシアでWebシステム、Web・モバイルアプリ、デジタルマーケティング運用、Webセキュリティ検査などのサービス提供をしています。LOGIQUEデジタルインドネシアは受託制作会社でありIT/DXコンサルティング会社です。">
+  <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-105878648-1', 'auto');
-	ga('send', 'pageview'); 
-	</script>
-  <title>Pan Pacific Investment System Creation & Development | LOGIQUE</title> 
-	<link href="../../../css/bootstrap.min.css" rel="stylesheet"> 
+  ga('create', 'UA-105878648-1', 'auto');
+  ga('send', 'pageview'); 
+  </script>
+  <title>Pan Pacific Investment System Creation & Development | ケーススタディ | インドネシアのWebシステム開発実績 | LOGIQUE</title> 
+  <link href="../../../css/bootstrap.min.css" rel="stylesheet"> 
   <!-- <link href="../../../css/style.css" rel="stylesheet">  -->
    <link rel="stylesheet" href="../../../css/sidebar-update.css" >
   <!-- case study style -->
   <link href="../../../case-study/pan-pacific/css/new-style.css" rel="stylesheet">
   <link href="../../../css/newstyle.css" rel="stylesheet">
     </head>
-	<body>
-	 
+  <body>
+   
         <div class="wrapper wrapper--update-design wrapper--update-design-font o-wrapper top-only ">
       <header>
         <div class="container">
@@ -53,67 +53,67 @@
         </div>
       </header>
 
-			<!-- NAVIGATION -->
-			<button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-				<span class="icon-bar first"></span>
-				<span class="icon-bar second"></span>
-				<span class="icon-bar third"></span>
-			</button>
-			<div class="collapse navbar-collapse" id="myNavbar">
-			<div class="backdrop-test"></div>
-				<div class="logique-nav logique-nav--update">
-					<div class="margin-for-nav">
-						<div class="text-center">
-							<a href="/en">
-								<div class="img-home"></div>
-								Home
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/logique.php">
-								<div class="img-about"></div>
-								About Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/portfolio.php">
-								<div class="img-portfolio"></div>
-								Portfolio
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/services.php">
-								<div class="img-services"></div>
-								Services
-							</a>
-						</div>
+      <!-- NAVIGATION -->
+      <button type="button" class="navbar-toggle collapsed" aria-label="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar first"></span>
+        <span class="icon-bar second"></span>
+        <span class="icon-bar third"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="myNavbar">
+      <div class="backdrop-test"></div>
+        <div class="logique-nav logique-nav--update">
+          <div class="margin-for-nav">
             <div class="text-center">
-							<a href="/en/product.php">
-								<div class="img-product"></div>
-								Product
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/career/">
-								<div class="img-career"></div>
-								Career
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="/en/contact.php">
-								<div class="img-contact"></div>
-								Contact Us
-							</a>
-						</div>
-						<div class="text-center">
-							<a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
-								<div class="img-blog"></div>
-								Blog
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
+              <a href="/en">
+                <div class="img-home"></div>
+                Home
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/logique.php">
+                <div class="img-about"></div>
+                About Us
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/portfolio.php">
+                <div class="img-portfolio"></div>
+                Portfolio
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/services.php">
+                <div class="img-services"></div>
+                Services
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/product.php">
+                <div class="img-product"></div>
+                Product
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/career/">
+                <div class="img-career"></div>
+                Career
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="/en/contact.php">
+                <div class="img-contact"></div>
+                Contact Us
+              </a>
+            </div>
+            <div class="text-center">
+              <a href="https://www.logique.co.id/blog/" target="_blank" rel="noreferrer">
+                <div class="img-blog"></div>
+                Blog
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
       <!-- NAVIGATION -->
 
 
@@ -354,8 +354,8 @@
         }
         </style>
      <?php include './footer.php';?>
-		</div>
-		<script>
+    </div>
+    <script>
         $('.showmore').click(function(){
             $(this).parent('.case-study-btn-container').siblings('.morecs').css('display','inline-block');
             $(this).css('display','none'); 
@@ -368,5 +368,5 @@
             $(this).siblings('.showmore').css('display','inline-block');  
             })
         </script>
-	</body>
+  </body>
 </html>

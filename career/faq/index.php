@@ -20,6 +20,8 @@
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <title>FAQ | lowongan IT Developer | LOGIQUE Digital Indonesia</title>
 
+  <link rel="canonical" href="https://www.logique.co.id/career/faq/" />
+
   <!-- Bootstrap -->
   <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/sidebar-update.css" rel="preload stylesheet" as="style">
