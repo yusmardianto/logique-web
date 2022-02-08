@@ -376,16 +376,16 @@
 								</div>
 								<div class="tab-content tab-content__text col-md-6 col-xs-12">
 									<div id="contribution_1" class="tab-pane fade in active">
-										<p>Some of our clients who have businesses in property also see the digital online world as the biggest market potential from their unit sales. From search engines, they want their property sites to be found immediately when users need them. By implementing the right SEO strategy, <strong>LOGIQUE</strong> has succeeded in helping clients reach their targets to find potential buyers and increase engagement with them. We continue to optimize from keyword improvisation, meta tags, schema installation, to website display optimization to be mobile-friendly. We managed to get high organic traffic and our clients were quite satisfied with the number of conversions generated.</p>
+										<p>不動産事業を展開するクライアントの中には、その実績（販売戸数等）から鑑みて、デジタル・オンラインの世界が、最大の市場ポテンシャルであると考える方もいらっしゃいます。つまり、ユーザーが必要とするときに、検索エンジンサイトから自社の不動産サイトがすぐに見つかる、ということを望んでいるのです。LOGIQUE DESITAL INDONESIAは、適切な SEO戦略を実施することで、クライアントが潜在的な顧客を見つけ、その層とのエンゲージメントを高めるという目標達成の支援に成功しています。キーワードの適正な設定、メタタグの付与はもちろん、モバイルとの親和性が高いWebサイト表示の最適化まで、あらゆる手段を用いて、Webサイトの精度を向上させ続けています。弊社サービス全般においては、クライアントの多くに、消費者行動のデータを獲得の成功、また、コンバージョン数等に、高い評価を得ています。</p>
 									</div>
 									<div id="contribution_2" class="tab-pane fade">
-										<p>Travelling now can be anywhere with just a few steps online. That is what our clients realize, and we have helped them get as many customers as possible through SEO, by analyzing popular keywords that can be used on their website to increase traffic based on each competition value and average monthly search. We also analyze the technical SEO of the website and provide recommendations for improving it. With regular analysis, implementation and evaluation, our strategy has been proven to increase the number of bookings/reservations directly through the website with low Customer Acquisition Costs (CAC).</p>
+										<p>今や旅行は、デジタルの進化によって、どこにいても簡単に予約できる時代になりました。そう実感しているクライアントのために、競合他社の月間平均検索数から、Webサイト上の人気キーワード分析～トラフィック数増加施策の展開ほか、SEO対策などで、一人でも多くの顧客を獲得するお手伝いをしてまいりました。また、Webサイトの技術的なSEO分析を実施。改善のための提案も行っています。定期的な分析、実施、評価により、当社の戦略は、低い顧客獲得コスト（CAC）で、「Webサイトを通じた直接予約・宿泊数」を増加させることが実証されています。</p>
 									</div>
 									<div id="contribution_3" class="tab-pane fade">
-										<p>With the application of the right digital marketing strategy, we have succeeded in helping a number of clients in the automotive sector to get more visitors than before. We continue to analyze the automotive industry trends that are happening, convert these trends to a keyword, and include related keywords in articles and websites. We also conduct an analysis of the SEO strategies carried out by competitors and compete fairly.</p>
+										<p>自動車業界の多くのクライアントは、適切なデジタルマーケティング戦略の適用によって、以前より多くのWebサイト訪問者を獲得することに成功しています。弊社のクライアントにおいても、現在の自動車業界のトレンドを分析・キーワード化し、関連キーワードとともに、サイト内の記事などに盛り込むなどの工夫を続けています。また、競合他社が行っているSEO対策の分析も実施。業界全体の、活発で弾力ある競争関係の維持に貢献しています。</p>
 									</div>
 									<div id="contribution_4" class="tab-pane fade">
-										<p>We have succeeded in helping to achieve our targets with SEO strategies and tactics that we have implemented for one of the largest financial institutions in Indonesia that serves credit. We are able to get traffic on websites from targeted keywords, improve keyword rankings, improve website ranking by doing SEO On-Page optimization, increase keyword visibility, and analyze indications of problems related to SEO and optimize based on problems and in-depth analysis. By doing so, our client site has managed to get twice as many visitors as before.</p>
+										<p>LOGIQUE DESITAL INDONESIAは、インドネシアにおいて、クレジットサービス最大手の金融機関に導入したSEO対策とさまざまな施策で、目標達成を支援。成功をおさめ、高い評価を得ました。実施施策としては、目的となるキーワードからのWebサイトへの流入施策、キーワードの順位向上、SEO最適化と、それによるWebサイトの順位向上、キーワードの視認性向上、SEOの課題分析など。詳細な分析に基づいて、全体最適することが可能になり、結果として、以前の2倍の訪問数を獲得することに成功しました。</p>
 									</div>
 								</div>
 							</div>
