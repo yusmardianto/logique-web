@@ -90,8 +90,7 @@
                                 <h1 class="title-index">About Us</h1>
                                 <hr class="title__yellow-line--center">
                                 <p class="title__description">
-                                LOGIQUE DIGITAL INDONESIA is a top Indonesian IT developer that aims to design, develop & manage a variety of high quality digital assets for your company, specialising in creating web-apps, digital systems, mobile applications and much more, catering to both a local and international clientele. We also provide digital marketing and SEO services for clients, among other IT / DX services and products.<br><br>
-                                Our extensive experience & operations within the Indonesian IT market has established LOGIQUE as one of the foremost and respected digital  IT companies throughout the country, having provided our products & services to a wide range of notable businesses, some of which include creating online auction systems, E-Commerce websites, employee recruitment systems and digital ads operations for entities such as JBA, Toyota, ASEAN, Mitsubishi and many more.
+                                LOGIQUE DIGITAL INDONESIA is a top Indonesian IT developer that aims to design, develop & manage a variety of high quality digital assets for your company, specialising in creating web-apps, digital systems, mobile applications and much more, catering to both a local and international clientele. We also provide digital marketing and SEO services for clients, among other IT / DX services and products.<br>
                                 </p>
                             </div>
 
