@@ -6,18 +6,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
+        content="LOGIQUE | Offering the best systems & web development services in Jakarta, Indonesia, we aim to provide top tier IT consulting services for your business.">
     <meta name="keywords"
         content="web system development company indonesia, web system development services indonesia, web system development jakarta, web system developer indonesia">
     <meta name="author" content="PT. Logique Digital Indonesia">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Web System Development Company in Jakarta | LOGIQUE">
+    <meta property="og:title" content="Digital Systems & Website Development in Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://logique.co.id/en">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
     <meta property="og:description"
-        content="LOGIQUE | A leading web system development company in Jakarta - Indonesia: Top IT consultant services for your business.">
+        content="LOGIQUE | Offering the best systems & web development services in Jakarta, Indonesia, we aim to provide top tier IT consulting services for your business.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/" />  
     <!-- Facebook Pixel Code -->
@@ -28,7 +28,7 @@
     <!-- End Facebook Pixel Code -->
     <script>!function(e,a,t,n,g,c){e.GoogleAnalyticsObject=n,e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=+new Date,g=a.createElement(t),c=a.getElementsByTagName(t)[0],g.async=1,g.src="https://www.google-analytics.com/analytics.js",c.parentNode.insertBefore(g,c)}(window,document,"script","ga"),ga("create","UA-105878648-1","auto"),ga("send","pageview"); </script>
     <meta name="google-site-verification" content="dE5cRf5TFJueiDoWgkLj40B58g95oZXRn84Ol1Fr1hc" />
-    <title>Web System Development Company in Jakarta | LOGIQUE</title>
+    <title>Digital Systems & Website Development in Jakarta | LOGIQUE</title>
 
     <!-- Bootstrap -->
     <!-- <link href="../css/bootstrap.min.css" rel="stylesheet"> -->
