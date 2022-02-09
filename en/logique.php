@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE is an IT developer based in Jakarta, providing app/website creation & Digital Marketing services, providing digital solutions for your business.">
+        content="About Us | A Jakarta based IT development company, offering digital services such as systems & website dev, digital marketing & SEO services.">
     <meta name="keywords"
         content="Logique About Us, IT developer Jakarta, IT developer Indonesia, IT development company">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="About Us | LOGIQUE Digital Indonesia">
+    <meta property="og:title" content="About Us | We Offer IT Development & Digital Services">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/logique.php">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/logique-about.png">
     <meta property="og:description"
-        content="LOGIQUE is an IT developer based in Jakarta, providing app/website creation & Digital Marketing services, providing digital solutions for your business.">
+        content="About Us | A Jakarta based IT development company, offering digital services such as systems & website dev, digital marketing & SEO services.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>About Us | LOGIQUE Digital Indonesia</title>
+    <title>About Us | We Offer IT Development & Digital Services</title>
 
     <link rel="canonical" href="https://www.logique.co.id/en/logique.php" />  
 

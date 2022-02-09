@@ -43,21 +43,21 @@ if(isset($_POST['submitted']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description"
-        content="Logique is a professional web development company in Jakarta - Indonesia. Our professional web developers & designers aim to assist you in your web development goals.">
+        content="LOGIQUE has been developing, creating and designing websites for a variety of clients, with professional Web creators and designers in many successful projects.">
     <meta name="keywords"
         content="web developer jakarta, web development service, web developer company">
     <meta name="author" content="PT LOGIQUE DIGITAL INDONESIA ">
     <meta itemprop="name" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="A Jakarta Based Web Developer Service Company | LOGIQUE">
+    <meta property="og:title" content="Top IT Web Creation & Design in Jakarta | LOGIQUE">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:image" content="https://www.logique.co.id/img/ogimg/layanan.png">
     <meta property="og:description"
-        content="Logique is a professional web development company in Jakarta - Indonesia. Our professional web developers & designers aim to assist you in your web development goals.">
+        content="LOGIQUE has been developing, creating and designing websites for a variety of clients, with professional Web creators and designers in many successful projects.">
 
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <link rel="canonical" href="https://www.logique.co.id/en/services/web-dev.php" />  
-    <title>A Jakarta Based Web Developer Service Company | LOGIQUE</title>
+    <title>Top IT Web Creation & Design in Jakarta | LOGIQUE</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link href="/css/newstyle.css" rel="stylesheet">
