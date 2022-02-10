@@ -192,27 +192,27 @@
 								<div id="service_1" class="tab-pane fade in active">
 									<div class="row">
 										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>We will analyze every potential and gap that exists in your digital assets, and we will summarize it into a detailed report, giving the best advice & strategy to optimize the greatest potential of your digital assets.</p>
+											<p>デジタル資産が有するあらゆる可能性とギャップを分析。詳細にレポーティングした上で、その組織が有するデジタル資産の、最大限の可能性を最適化するためのアドバイス＆戦略を提供します。</p>
 											<ul>
-												<li><a href="#service_1_1" data-toggle="pill">Supported by a variety of the latest tools<span>i</span></a></a></li>
-												<li><a href="#service_1_2" data-toggle="pill">Gathering every problem to the smallest<span>i</span></a></li>
-												<li><a href="#service_1_3" data-toggle="pill">Summarize it into a report and translate<span>i</span></a></li>
-												<li><a href="#service_1_4" data-toggle="pill">Invite each of the stakeholders<span>i</span></a></li>
+												<li><a href="#service_1_1" data-toggle="pill">多種多様かつ最新のツールでサポートする<span>i</span></a></a></li>
+												<li><a href="#service_1_2" data-toggle="pill">微小な課題点まで収集する<span>i</span></a></li>
+												<li><a href="#service_1_3" data-toggle="pill">報告書にまとめ、適宜翻訳も行う<span>i</span></a></li>
+												<li><a href="#service_1_4" data-toggle="pill">各ステークホルダーを招聘する<span>i</span></a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_1_1" class="tab-pane fade in active">
-												such as SEMRush, Screaming Frog, SEO power suite tools, Ubersuggest, etc. We do an in-depth analysis of the smallest gaps in your website
+												SEMRushやScreaming Frog、SEO系ツール、Ubersuggestなど、多様なツールを活用して、お客様のWebサイトの小さな問題まで、徹底的に分析する。
 												</div>
 												<div id="service_1_2" class="tab-pane fade">
-												that can have an impact on the performance of your website
+												Webサイトのパフォーマンスに影響を与える可能性があるものはすべて。
 												</div>
 												<div id="service_1_3" class="tab-pane fade">
-												every detail into a form and language that is easy to understand
+												細部に至るまで、クライアントがもっとも理解しやすい形式・言葉でレポーティングする。
 												</div>
 												<div id="service_1_4" class="tab-pane fade">
-												to brainstorm and find the best solutions that are most effective and efficient
+												ブレインストーミングを行い、最も効果的・効率的な解決策を見出す。
 												</div>
 											</div>
 										</div>
@@ -221,27 +221,27 @@
 								<div id="service_2" class="tab-pane fade">
 									<div class="row">
 										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>We will analyze your brand position against the market, competitors, channels or media that have been controlled by competitors, and find the best strategy to beat every competitor who has mastered potential keywords.</p>
+											<p>市場や競合他社などのあらゆるチャネルや、クライアントのブランドのポジションを分析。あらゆる競合に打ち勝つための最適な戦略を提案します。同時に、市場分析は、最新のツールも活用して積極的に精度を向上させます。</p>
 											<ul>
-												<li><a href="#service_2_1" data-toggle="pill">We also complement market analysis capabilities with the latest tools<span>i</span></a></a></li>
-												<li><a href="#service_2_2" data-toggle="pill">Analyze each keyword, media and channel<span>i</span></a></li>
-												<li><a href="#service_2_3" data-toggle="pill" disabled>Study market habits, market interests, and how markets are formed</a></li>
-												<li><a href="#service_2_4" data-toggle="pill">All data will be summarized into a detailed report <span>i</span></a></li>
+												<li><a href="#service_2_1" data-toggle="pill">市場分析は、最新のツールも活用して積極的に精度を向上させる<span>i</span></a></a></li>
+												<li><a href="#service_2_2" data-toggle="pill">各キーワード、メディア、チャネルの徹底分析する<span>i</span></a></li>
+												<li><a href="#service_2_3" data-toggle="pill" disabled>市場の慣習や関心、形成のされ方などを研究する</a></li>
+												<li><a href="#service_2_4" data-toggle="pill">すべてのデータを詳細にレポーティングする<span>i</span></a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_2_1" class="tab-pane fade in active">
-												such as SimilarWeb, Ahrefs, MOZ, etc.
+												SimilarWeb、Ahrefs、MOZなど。
 												</div>
 												<div id="service_2_2" class="tab-pane fade">
-												which has the potential to bring in traffic
+												トラフィックを呼び込む可能性のあるものはすべて。
 												</div>
 												<!-- <div id="service_2_3" class="tab-pane fade">
 													Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas odit cupiditate iste! Dolor earum quos consequatur similique asperiores esse excepturi?
 												</div> -->
 												<div id="service_2_4" class="tab-pane fade">
-												complete with steps for approach and strategy for different types of markets and objectives
+												市場・目的別のアプローチや戦略のステップをすべてサポート。
 												</div>
 											</div>
 										</div>
@@ -250,20 +250,20 @@
 								<div id="service_3" class="tab-pane fade">
 									<div class="row">
 										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Increase the potential of your Digital Asset by improving every loophole, updating every content, and maintaining interaction with every visitor who interacts with your Website.</p>
+											<p>あらゆる問題を改善すると同時にコンテンツを適宜更新するー。Webサイトにアクセスする全ユーザーとの関係性を維持することで、デジタルの潜在能力を向上させます。</p>
 											<ul>
-												<li><a href="#service_3_1" data-toggle="pill">We will divide the priority scale of each problem that has been indicated<span>i</span></a></a></li>
-												<li><a href="#service_3_2" data-toggle="pill">Every work will be closely monitored and periodically tested<span>i</span></a></li>
-												<li><a href="#service_3_3" data-toggle="pill">We will periodically report on the progress of work and the results of every improvement made.</a></li>
+												<li><a href="#service_3_1" data-toggle="pill">抽出された問題について、それぞれの優先順位を分ける<span>i</span></a></a></li>
+												<li><a href="#service_3_2" data-toggle="pill">どの作業も厳重な監視下にあり、定期的なテストも実施される<span>i</span></a></li>
+												<li><a href="#service_3_3" data-toggle="pill">定期的に作業の進捗状況や改善結果を報告する</a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_3_1" class="tab-pane fade in active">
-												and divide the stages of the work in a structured and systematic manner
+												体系的かつ段階的に、作業手順を整理できる。
 												</div>
 												<div id="service_3_2" class="tab-pane fade">
-												to minimize errors that may occur
+												発生しうるエラーを最小限に抑えるために。
 												</div>
 											</div>
 										</div>
@@ -272,25 +272,25 @@
 								<div id="service_4" class="tab-pane fade">
 									<div class="row">
 										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Improve Website Authority by building a strong and voluntary community who want to share the benefits of your Website organically, through social media, blogs, or videos.</p>
+											<p>ソーシャルメディアやブログ、ビデオなどを通じて、特定のWebサイトの有効性を共有しようとする、強力で自発的なコミュニティを構築することで、Webサイトのオーソリティを向上させることができます。</p>
 											<ul>
-												<li><a href="#service_4_1" data-toggle="pill">Our content creator will receive a brief<span>i</span></a></a></li>
-												<li><a href="#service_4_2" data-toggle="pill">Then it will be made into content<span>i</span></a></a></li>
-												<li><a href="#service_4_3" data-toggle="pill">Using a Viral Content strategy<span>i</span></a></a></li>
-												<li><a href="#service_4_4" data-toggle="pill">We will share the content to media that have the potential to generate traffic.</a></a></li>
-												<li><a href="#service_4_4" data-toggle="pill">Viewer interaction can be in the form of Like, Share, & Comment</a></a></li>
+												<li><a href="#service_4_1" data-toggle="pill">コンテンツクリエイターは<span>i</span></a></a></li>
+												<li><a href="#service_4_2" data-toggle="pill">それらをコンテンツ化する<span>i</span></a></a></li>
+												<li><a href="#service_4_3" data-toggle="pill">バイラルコンテンツ戦略<span>i</span></a></a></li>
+												<li><a href="#service_4_4" data-toggle="pill">トラフィックを生成させる要素を持つメディアに、コンテンツをシェアする</a></a></li>
+												<li><a href="#service_4_4" data-toggle="pill">いいね」「シェア」「コメント」など、視聴者とのインタラクションを促進する</a></a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_4_1" class="tab-pane fade in active">
-												and an objective from a website optimization project
+												Webサイト最適化プロジェクトが目的。
 												</div>
 												<div id="service_4_2" class="tab-pane fade">
-												that can be articles, banners, infographics, videos, etc.
+												記事、バナー、インフォグラフィックス、ビデオなど。
 												</div>
 												<div id="service_4_3" class="tab-pane fade">
-												we will increase engagement on every content displayed on your Website.
+												Webサイト内のすべてのコンテンツのエンゲージメントを向上させる。
 												</div>
 											</div>
 										</div>
@@ -299,7 +299,7 @@
 								<div id="service_5" class="tab-pane fade">
 									<div class="row">
 										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Is a method that we apply in every process, to guarantee the quality and quality of engagement that occurs entirely Organic and in accordance with the provisions of the search engine algorithm.</p>
+											<p>検索エンジンのアルゴリズムに従い、オーガニックエンゲージメントの品質と質を保証するために適用している方法はこちら。</p>
 											<ul>
 												<li><a href="#service_5_1" data-toggle="pill">We never stop following the trends and updates<span>i</span></a></a></li>
 												<li><a href="#service_5_2" data-toggle="pill">Every stage of optimization we carry out<span>i</span></a></a></li>
@@ -325,24 +325,24 @@
 								<div id="service_6" class="tab-pane fade">
 									<div class="row">
 										<div class="tab-content__text col-md-6 col-xs-12">
-											<p>Our professional team is able to handle SEO projects in 3 languages, namely Indonesian, English and Japanese.</p>
+											<p>私たちのプロフェッショナルチームは、インドネシア語、英語、日本語の、3ヶ国語のSEOプロジェクトに対応することができます。</p>
 											<ul>
-												<li><a href="#service_6_1" data-toggle="pill">We have experts who are native to foreign languages<span>i</span></a></a></li>
-												<li><a href="#service_6_2" data-toggle="pill">With years of experience serving many foreign and local companies.</a></a></li>
-												<li><a href="#service_6_3" data-toggle="pill">Competence of experts who continue to be improved<span>i</span></a></a></li>
-												<li><a href="#service_6_4" data-toggle="pill">Making <strong>LOGIQUE</strong> a provider of SEO services<span>i</span></a></a></li>
+												<li><a href="#service_6_1" data-toggle="pill">外国語を母国語とする専門家が在籍<span>i</span></a></a></li>
+												<li><a href="#service_6_2" data-toggle="pill">多くの外資系・現地企業にサービスを提供してきた、長年にわたる豊富な経験を有する</a></a></li>
+												<li><a href="#service_6_3" data-toggle="pill">常に向上し続けるプロフェッショナル集団<span>i</span></a></a></li>
+												<li><a href="#service_6_4" data-toggle="pill">LOGIQUE DESITAL INDONESIは、インドネシアにおけるSEOサービスプロバイダーとして高く評価されている<span>i</span></a></a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_6_1" class="tab-pane fade in active">
-												ranging from Japanese, English, and Indonesian. Making <strong>LOGIQUE</strong> a provider of SEO services that can drive your business to Go International
+												日本語、英語、インドネシア語に対応。LOGIQUE DESITAL INDONESIAは、あなたのビジネスを新しい場所に導く、SEOサービスプロバイダーとなりうる。
 												</div>
 												<div id="service_6_3" class="tab-pane fade">
-												following the development of SEO techniques that occur globally
+												グローバルに展開しているSEO技術に対応するため。
 												</div>
 												<div id="service_6_4" class="tab-pane fade">
-												that can drive your business to Go International
+												あなたのビジネスを次のステージに導く。
 												</div>
 											</div>
 										</div>
