@@ -6,19 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0">
     <meta name="description" itemprop="description"
-        content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
+        content="LOGIQUE is a Jakarta based tech developer providing digital marketing & IT services like website, mobile & app development & design; improve your IT systems now.">
     <meta name="keywords"
         content="logique services, IT services jakarta, IT development, IT development services jakarta, web creation jakarta">
     <meta name="author" content="PT. Logique Digital Indonesia">
-    <meta property="og:title" content="Jakarta Based Web Creation & IT Services | LOGIQUE ">
+    <meta property="og:title" content="Services | Top IT Services; Mobile System & Web Dev in Jakarta">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Logique">
     <meta property="og:url" content="https://www.logique.co.id/en/services.php">
     <meta property="og:image" content="https://www.logique.co.id/img/og-image.png">
     <meta property="og:description"
-        content="LOGIQUE is an IT company experienced in website creation, IT development & design, providing IT services such as developing mobile app technology.">
+        content="LOGIQUE is a Jakarta based tech developer providing digital marketing & IT services like website, mobile & app development & design; improve your IT systems now.">
     <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
-    <title>Jakarta Based Web Creation & IT Services | LOGIQUE </title>
+    <title>Services | Top IT Services; Mobile System & Web Dev in Jakarta</title>
     
     <!-- Bootstrap -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
