@@ -301,22 +301,22 @@
 										<div class="tab-content__text col-md-6 col-xs-12">
 											<p>検索エンジンのアルゴリズムに従い、オーガニックエンゲージメントの品質と質を保証するために適用している方法はこちら。</p>
 											<ul>
-												<li><a href="#service_5_1" data-toggle="pill">We never stop following the trends and updates<span>i</span></a></a></li>
-												<li><a href="#service_5_2" data-toggle="pill">Every stage of optimization we carry out<span>i</span></a></a></li>
-												<li><a href="#service_5_3" data-toggle="pill">Ensure that every netted traffic comes from real users<span>i</span></a></a></li>
-												<li><a href="#service_5_4" data-toggle="pill">Implement a long-term strategy for sustainable results.</a></a></li>
+												<li><a href="#service_5_1" data-toggle="pill">あらゆる検索エンジンアルゴリズムのトレンドをリサーチし続ける<span>i</span></a></a></li>
+												<li><a href="#service_5_2" data-toggle="pill">私たちが実施する最適化における各段階は<span>i</span></a></a></li>
+												<li><a href="#service_5_3" data-toggle="pill">実ユーザーからのトラフィックを確保する<span>i</span></a></a></li>
+												<li><a href="#service_5_4" data-toggle="pill">持続的な成果を得るための、長期的な戦略を実施する</a></a></li>
 											</ul>
 										</div>
 										<div class="tab-content__img col-md-6 col-xs-12">
 											<div class="tab-content text-center">
 												<div id="service_5_1" class="tab-pane fade in active">
-												of every search engine algorithm
+												全検索エンジンのアルゴリズムを調査する。
 												</div>
 												<div id="service_5_2" class="tab-pane fade">
-												will be closely monitored and periodically tested
+												厳密に監視されると同時に定期的にテストされている。
 												</div>
 												<div id="service_5_3" class="tab-pane fade">
-												not robots like most SEO service providers
+												多くのSEOサービスプロバイダーのように“ロボット”は活用しない。
 												</div>
 											</div>
 										</div>
