@@ -193,19 +193,16 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <h1 class="title-index">Mission Statement</h1>
+                            <h1 class="title-index">Individual Support Leads to Overall Growth</h1>
                             <hr class="title__yellow-line"><br>
                             <div class="row">
-                                <div class="col-sm-4">
-                                    <h4 class="title-index--bold">GROWTH</h4><br>
-                                    <p>To support as many companies in Indonesia in accomplishing their goals through providing high quality IT / digital solutions.</p><br>
+                                <div class="col-sm-6">
+                                    <h4 class="title-index--bold">Individual Support</h4><br>
+                                    <p>LOGIQUE aims to assist the growth & digitization of our valued clientele. We do this by providing top quality IT & Digital Solutions, such as Web Development & Digital Marketing Services, for a variety of different businesses operating within Indonesia, both start-ups & successful well established companies.</p>
                                 </div>
-                                <div class="col-sm-4">
-                                    <h4 class="title-index--bold">INNOVATION</h4><br>
-                                    <p>To contribute to the growth of Indonesia’s Web Development and Digital Marketing industries through bringing forth new ideas and innovations, changing and improving upon old conventions. </p><br>
-                                </div>
-                                <div class="col-sm-4">
-                                    <h4 class="title-index--bold">OPPORTUNITY</h4><br>
-                                    <p>To provide better opportunities to Indonesian Developers and Creators by helping them maximize their potential for a better future.</p><br>
+                                <div class="col-sm-6">
+                                    <h4 class="title-index--bold">Overall Growth</h4><br>
+                                    <p>We emphasise the individual success of our clients, and by doing so, seek to raise the overall growth of Indonesia’s expanding IT/DX development industry. By cultivating an IT friendly environment & through offering opportunities for entrepreneurial web & app developers to maximise their potential, we will succeed in contributing to Indonesia’s upward digital growth.</p>
                                 </div>
                             </div>
                         </div>
