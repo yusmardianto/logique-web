@@ -1280,7 +1280,19 @@
             </div>
         </div>
     </section>
-    <div>
+    <section class="content-section fifth-part">
+        <div class="container__">
+            <div class="sec-content-part important-point">
+                <h2 class="sub-section-title text-center">Layanan LOQIUE Lainnya</h2>
+                <p class="text-center">Selain menyediakan layanan pengembangan sistem website, LOGIQUE juga menyediakan <a href="/layanan/jasa-pembuatan-website.php">jasa pembuatan website</a> dan <a href="/layanan/digital-marketing.php">jasa digital marketing</a> seperti Search Engine Marketing (SEM), Content Marketing, Search Engine Optimization (SEO), atau optimasi Social Media. Jadi, kami tidak hanya akan membantu mengembangkan website profesional namun juga dapat mengembangkan website yang mampu menjangkau lebih banyak pelanggan potensial secara organik melalui <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a> yang kami miliki.</p><br>
+                <p class="text-center">Silakan hubungi LOGIQUE dan konsultasikan kebutuhan bisnis Anda di era digital ini. Tim ahli kami akan merancang strategi terbaik agar bisnis Anda bisa memperoleh kehadiran online (online presence) yang optimal.</p><br><br>
+                <div class="text-center">
+                    <a class="btn--yellow" href="/layanan/digital-marketing.php">Pelajari Lebih Lanjut</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div style="margin-top:-80px">
         <div class="content-wrapper__">
             <?php include './assets/components/dm-links.php' ?>
             <?php include './assets/components/other-services.php' ?>

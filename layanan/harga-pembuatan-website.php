@@ -692,6 +692,20 @@ if (isset($_POST['submitted'])) {
                 </section>
             </a>
 
+            <!-- SEO -->
+            <section class="content-section fifth-part">
+                <div class="container__">
+                    <div class="sec-content-part important-point">
+                        <h2 class="sub-section-title text-center">Tingkatkan Web Traffic Perusahaan dan Dapatkan Keuntungan yang Lebih Tinggi dengan Jasa SEO LOGIQUE</h2><br>
+                        <p class="text-center">Tahukah Anda bahwa sebagian besar konsumen saat ini akan melakukan riset online sebelum membeli suatu produk? Oleh karena itulah, Anda perlu menjalankan strategi <a href="/layanan/digital-marketing.php">digital marketing</a> untuk memastikan bahwa website yang Anda kelola memiliki visibilitas yang baik sehingga ketika pelanggan potensial melakukan pencarian terhadap kata kunci yang relevan dengan bisnis Anda maka website dapat ditemukan dengan mudah.</p><br>
+                        <p class="text-center">Untuk memastikan hal tersebut, LOGIQUE menawarkan <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a>. Tim SEO specialist kami dapat melakukan berbagai strategi optimasi agar website perusahaan Anda bisa memiliki peringkat yang tinggi pada hasil pencarian Google. Dengan proses analisis yang mendalam dan penentuan target audience yang tepat, website perusahaan Anda akan memperoleh visibilitas yang baik untuk hasil pencarian yang relevan, mampu menjangkau target audience yang tepat, serta mendorong lebih banyak penjualan.</p><br>
+                        <p class="text-center">Percayakan proses optimasi SEO website Anda pada LOGIQUE</p><br><br>
+                        <div class="text-center">
+                            <a class="btn--yellow" href="/layanan/digital-marketing.php">Pelajari Lebih Lanjut</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <!-- Table Price -->
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/sosmed-section.css" media="all">

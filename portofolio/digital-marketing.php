@@ -240,24 +240,26 @@
                     </div>
                 </div>
             </section>
-            <section class="solution bg--white" style="margin-top:-50px">
-                <div class="container__">
-                    <h2 class="section-title">Apakah Anda membutuhkan strategi Digital Marketing yang dapat menghasilkan lebih banyak pelanggan?</h2>
-                    <p>
-                        Sejauh ini, LOGIQUE telah bekerjasama dengan banyak klien dari berbagai bidang industri mulai dari E-commerce, Otomotif, Pariwisata, Properti, Perbankan, dan masih banyak lagi. Melalui pengalaman dan tenaga spesialis yang kami miliki, LOGIQUE berhasil membantu setiap klien dalam meningkatkan dan mencapai performa digital sesuai dengan yang ditargetkan dan mampu menghasilkan lebih banyak keuntungan.<br><br>
-                        Efektifitas setiap kampanye digital yang kami lakukan sangat dipengaruhi oleh proses identifikasi dan penentuan target audience yang tepat. Strategi digital marketing pada setiap perusahaan selalu kami mulai dengan melakukan analisa yang mendalam terhadap layanan atau produk yang ditawarkan oleh masing-masing klien. Setelah itu, kami melakukan audience profiling yaitu menentukan dan mengetahui siapa target audience yang paling sesuai untuk kampanye digital yang akan dilakukan.<br><br>
-                        Dari hasil analisis tersebut, LOGIQUE kemudian menjalankan kampanye berdasarkan layanan atau produk yang ditawarkan dan target audience (potential customer) yang dituju. Solusi dan strategi yang diterapkan pada setiap kampanye untuk masing-masing perusahaan pun berbeda satu sama lain berdasarkan pada digital channel yang akan digunakan. LOGIQUE sendiri memiliki layanan untuk setiap Digital Channel yang dibutuhkan, seperti layanan Search Engine Marketing, Content Marketing, <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a>, optimasi Social Media dan yang lainnya.<br><br>
-                        Percayakan kampanye Digital Marketing Anda pada LOGIQUE!<br><br>
-                    </p>
-                    <div class="row row--flex justify-content-center">
-                        <div class="col-md-3">
-                            <a href="/layanan/digital-marketing.php" class="form-control btn btn--yellow">Pelajari Lebih Lanjut</a>
+
+            <section id="portfolio_dm" class="portfolio-update__content" style="margin-top:-130px">
+                <div class="content-wrapper__">
+                    <div class="container__">
+                        <div class="content__wrapper">
+                            <div align="center">
+                                <h2>Apakah Anda membutuhkan strategi Digital Marketing yang dapat menghasilkan lebih banyak pelanggan?</h2><br>
+                                <p>Sejauh ini, LOGIQUE telah bekerjasama dengan banyak klien dari berbagai bidang industri mulai dari E-commerce, Otomotif, Pariwisata, Properti, Perbankan, dan masih banyak lagi. Melalui pengalaman dan tenaga spesialis yang kami miliki, LOGIQUE berhasil membantu setiap klien dalam meningkatkan dan mencapai performa digital sesuai dengan yang ditargetkan dan mampu menghasilkan lebih banyak keuntungan.</p><br>
+                                <p>Efektifitas setiap kampanye digital yang kami lakukan sangat dipengaruhi oleh proses identifikasi dan penentuan target audience yang tepat. Strategi digital marketing pada setiap perusahaan selalu kami mulai dengan melakukan analisa yang mendalam terhadap layanan atau produk yang ditawarkan oleh masing-masing klien. Setelah itu, kami melakukan audience profiling yaitu menentukan dan mengetahui siapa target audience yang paling sesuai untuk kampanye digital yang akan dilakukan.</p><br>
+                                <p>Dari hasil analisis tersebut, LOGIQUE kemudian menjalankan kampanye berdasarkan layanan atau produk yang ditawarkan dan target audience (potential customer) yang dituju. Solusi dan strategi yang diterapkan pada setiap kampanye untuk masing-masing perusahaan pun berbeda satu sama lain berdasarkan pada digital channel yang akan digunakan. LOGIQUE sendiri memiliki layanan untuk setiap Digital Channel yang dibutuhkan, seperti layanan Search Engine Marketing, Content Marketing, <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a>, optimasi Social Media dan yang lainnya.</p><br>
+                                <p>Percayakan kampanye <a href="/layanan/digital-marketing.php">Digital Marketing</a> Anda pada LOGIQUE!</p>               
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
             
-            <?php include './portfolio-links.php';?>
+            <div style="margin-top:-50px">
+                <?php include './portfolio-links.php';?>
+            </div>
 
         </div>
 

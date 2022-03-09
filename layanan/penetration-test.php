@@ -1365,27 +1365,6 @@
                 </div> 
             </div>
         </section><br/><br/>
-
-        <section>
-            <div class="container__">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h2 class="tahukah-title">Layanan LOGIQUE Lainnya </h2>
-                        <p>
-                            Disamping memiliki tenaga spesialis yang bersertifikasi dan berpengalaman dalam bidang Penetration Testing (Pentest) dan Security Assessment, kami juga memiliki tenaga spesialis yang tak kalah handal untuk layanan lain seperti Digital Marketing. LOGIQUE dapat membantu perusahaan Anda yang ingin melakukan kampanye digital seperti Search Engine Marketing (SEM), Content Marketing, Search Engine Optimization (SEO), optimasi Social Media dan yang lainnya.
-                        </p>
-                        <p>
-                            Tim kami dapat membantu setiap perusahaan untuk mencapai performa maksimal pada setiap channel yang digunakan dalam kampanye digital yang dilakukan. Kami dapat memaksimalkan angka konversi yang diinginkan melalui layanan SEM, meningkatkan kunjungan organik melalui <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a> atau mencapai engagement yang optimal melalui optimasi media sosial. Jadi, tunggu apa lagi? Segera konsultasikan kebutuhan bisnis Anda dan tim digital marketing kami akan merancang strategi terbaik untuk Anda.
-                        </p>
-                        <div class="row row--flex justify-content-center">
-                            <div class="col-md-3">
-                                <a href="/layanan/digital-marketing.php" class="form-control btn btn--yellow">Pelajari Lebih Lanjut</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section><br/><br/>
  
         <section class="gallery content-article">
             <div class="container__">
@@ -1464,12 +1443,24 @@
                         <img class="mt-8-sm " src="assets/img/img-pentest/yamaha.png" width="124px" height="auto" alt="yamaha"/>                                              
                     </div>
                 </div>
-
-
             </div>                       
-        </section>            
+        </section>     
 
-
+        <hr/><br>
+        <section>            
+            <div class="container__">                               
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 text-center">
+                        <h2 class="text-center" >Layanan LOGIQUE Lainnya</h2>
+                        <p class="text-center">Disamping memiliki tenaga spesialis yang bersertifikasi dan berpengalaman dalam bidang Penetration Testing (Pentest) dan Security Assessment, kami juga memiliki tenaga spesialis yang tak kalah handal untuk layanan lain seperti Digital Marketing. LOGIQUE dapat membantu perusahaan Anda yang ingin melakukan kampanye digital seperti Search Engine Marketing (SEM), Content Marketing, Search Engine Optimization (SEO), optimasi Social Media dan yang lainnya.</p>
+                        <p class="text-center">Tim kami dapat membantu setiap perusahaan untuk mencapai performa maksimal pada setiap channel yang digunakan dalam kampanye digital yang dilakukan. Kami dapat memaksimalkan angka konversi yang diinginkan melalui layanan SEM, meningkatkan kunjungan organik melalui <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a> atau mencapai engagement yang optimal melalui optimasi media sosial. Jadi, tunggu apa lagi? Segera konsultasikan kebutuhan bisnis Anda dan tim digital marketing kami akan merancang strategi terbaik untuk Anda.</p><br>
+                        <div class="text-center">
+                            <a class="btn--yellow" href="/layanan/digital-marketing.php">Pelajari Lebih Lanjut</a>
+                        </div>
+                    </div> 
+                </div>  
+            </div>                       
+        </section><br><br>
 
         <section class="faq">
             <div class="container-fluid" style="max-width: 1345px">
