@@ -383,7 +383,7 @@
                         </p><br/><br/>
                         <div class="row row--flex justify-content-center">
                             <div class="col-md-3">
-                                <a href="/layanan/digital-marketing.php" class="form-control btn btn--yellow">Pelajari Lebih Lanjut</a>
+                                <a href="/layanan/digital-marketing/jasa-seo.php" class="form-control btn btn--yellow">Pelajari Lebih Lanjut</a>
                             </div>
                         </div>
                 </div>

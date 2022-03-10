@@ -701,7 +701,7 @@ if (isset($_POST['submitted'])) {
                         <p class="text-center">Untuk memastikan hal tersebut, LOGIQUE menawarkan <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a>. Tim SEO specialist kami dapat melakukan berbagai strategi optimasi agar website perusahaan Anda bisa memiliki peringkat yang tinggi pada hasil pencarian Google. Dengan proses analisis yang mendalam dan penentuan target audience yang tepat, website perusahaan Anda akan memperoleh visibilitas yang baik untuk hasil pencarian yang relevan, mampu menjangkau target audience yang tepat, serta mendorong lebih banyak penjualan.</p><br>
                         <p class="text-center">Percayakan proses optimasi SEO website Anda pada LOGIQUE</p><br><br>
                         <div class="text-center">
-                            <a class="btn--yellow" href="/layanan/digital-marketing.php">Pelajari Lebih Lanjut</a>
+                            <a class="btn--yellow" href="/layanan/digital-marketing/jasa-seo.php">Pelajari Lebih Lanjut</a>
                         </div>
                     </div>
                 </div>
