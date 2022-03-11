@@ -141,7 +141,7 @@
                         <div class="row">
                             <div class="col-md-offset-1 col-md-8">
                                 <div class="title"><h1>Portofolio Performa Digital Marketing</h1></div>
-                                <p class="title__description" style="margin-left: 0;"><strong>LOGIQUE</strong> selalu berkomitmen dalam memberikan pencapaian performa Digital Marketing Campaign yang terbaik bagi semua klien dan mitra bisnis kami. Dengan menerapkan standar operasional yang tinggi untuk memastikan setiap proses optimisasi dilakukan dengan perencanaan yang tepat berdasarkan data aktual yang kami analisa, semua keputusan yang dibuat dalam proses optimisasi kampanye iklan dilakukan berdasarkan data yang objektif dan dapat divalidasi.</p>
+                                <p class="title__description" style="margin-left: 0;">LOGIQUE</strong> selalu berkomitmen dalam memberikan pencapaian performa Digital Marketing Campaign yang terbaik bagi semua klien dan mitra bisnis kami. Dengan menerapkan standar operasional yang tinggi untuk memastikan setiap proses optimisasi dilakukan dengan perencanaan yang tepat berdasarkan data aktual yang kami analisa, semua keputusan yang dibuat dalam proses optimisasi kampanye iklan dilakukan berdasarkan data yang objektif dan dapat divalidasi.</p>
                                 <img src="/img/portfolio/bg-portfolio-detail-mobile.png" alt="" class="img-responsive visible-md visible-lg">
                             </div>
                         </div>
@@ -240,18 +240,26 @@
                     </div>
                 </div>
             </section>
-            <section>
+
+            <section id="portfolio_dm" class="portfolio-update__content" style="margin-top:-130px">
                 <div class="content-wrapper__">
-                    <div class="container__" style="padding-top: 0;">
-                        <div class="wording__box">
-                            <p>Do you need a Web which brings many customer to your company?</p>
+                    <div class="container__">
+                        <div class="content__wrapper">
+                            <div align="center">
+                                <h2>Apakah Anda membutuhkan strategi Digital Marketing yang dapat menghasilkan lebih banyak pelanggan?</h2><br>
+                                <p>Sejauh ini, LOGIQUE telah bekerjasama dengan banyak klien dari berbagai bidang industri mulai dari E-commerce, Otomotif, Pariwisata, Properti, Perbankan, dan masih banyak lagi. Melalui pengalaman dan tenaga spesialis yang kami miliki, LOGIQUE berhasil membantu setiap klien dalam meningkatkan dan mencapai performa digital sesuai dengan yang ditargetkan dan mampu menghasilkan lebih banyak keuntungan.</p><br>
+                                <p>Efektifitas setiap kampanye digital yang kami lakukan sangat dipengaruhi oleh proses identifikasi dan penentuan target audience yang tepat. Strategi digital marketing pada setiap perusahaan selalu kami mulai dengan melakukan analisa yang mendalam terhadap layanan atau produk yang ditawarkan oleh masing-masing klien. Setelah itu, kami melakukan audience profiling yaitu menentukan dan mengetahui siapa target audience yang paling sesuai untuk kampanye digital yang akan dilakukan.</p><br>
+                                <p>Dari hasil analisis tersebut, LOGIQUE kemudian menjalankan kampanye berdasarkan layanan atau produk yang ditawarkan dan target audience (potential customer) yang dituju. Solusi dan strategi yang diterapkan pada setiap kampanye untuk masing-masing perusahaan pun berbeda satu sama lain berdasarkan pada digital channel yang akan digunakan. LOGIQUE sendiri memiliki layanan untuk setiap Digital Channel yang dibutuhkan, seperti layanan Search Engine Marketing, Content Marketing, <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a>, optimasi Social Media dan yang lainnya.</p><br>
+                                <p>Percayakan kampanye <a href="/layanan/digital-marketing.php">Digital Marketing</a> Anda pada LOGIQUE!</p>               
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
-
-
-            <?php include './portfolio-links.php';?>
+            
+            <div style="margin-top:-50px">
+                <?php include './portfolio-links.php';?>
+            </div>
 
         </div>
 

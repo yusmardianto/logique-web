@@ -368,6 +368,31 @@
         <section class="mb--60px service-pwa__other">
             <div class="content-wrapper__">
                 <div class="container__">
+                    <div class="main-title main-title--with-border-line">
+                        <h2>Ingin Website Anda Bisa Lebih Mudah Ditemukan oleh Banyak Pelanggan Potensial di Google?</h2>
+                    </div>
+                        <h3>Optimalkan performa Progressive Web App Anda dengan Jasa SEO LOGIQUE!</h3><br/>
+                        <p>
+                            Sangat penting untuk memastikan bahwa PWA yang Anda kembangkan mudah ditemukan di halaman pencarian Google agar website dapat menghasilkan lebih banyak pelanggan potensial dan mendorong lebih banyak keuntungan. Oleh karena itu, kami menawarkan <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a> komprehensif untuk website perusahaan Anda.
+                        </p><br/>
+                        <p>
+                            Dengan tim berpengalaman, kami dapat membantu Anda memastikan bahwa website dapat diindeks oleh mesin pencari. Tim SEO kami dapat melakukan berbagai strategi technical SEO dan di sisi lain kami juga akan menerapkan strategi on-page SEO serta off-page SEO.
+                        </p><br/>
+                        <p>        
+                            Selain berpengalaman dalam pengembangan PWA, LOGIQUE juga sudah memiliki banyak pengalaman dalam menjalankan kampanye <a href="/layanan/digital-marketing.php">digital marketing</a> termasuk SEO. Silakan konsultasikan tujuan bisnis Anda dan kami akan merancang proses optimasi terbaik untuk website Anda.
+                        </p><br/><br/>
+                        <div class="row row--flex justify-content-center">
+                            <div class="col-md-3">
+                                <a href="/layanan/digital-marketing/jasa-seo.php" class="form-control btn btn--yellow">Pelajari Lebih Lanjut</a>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb--60px service-pwa__other">
+            <div class="content-wrapper__">
+                <div class="container__">
                     <h3 class="main-title main-title--with-border-line">Layanan Lain</h3>
 
                     <div class="row row--flex justify-content-center other__service">

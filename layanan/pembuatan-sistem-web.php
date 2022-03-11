@@ -1286,6 +1286,17 @@
             <?php include './assets/components/other-services.php' ?>
         </div>
     </div>
+    <section class="content-section fifth-part" style="margin-top:-80px">
+        <div class="container__">
+            <div class="sec-content-part important-point">
+                <p class="text-center">Selain menyediakan layanan pengembangan sistem website dan beberapa layanan lain di atas, LOGIQUE juga menyediakan <a href="/layanan/digital-marketing.php">jasa digital marketing</a> seperti Search Engine Marketing (SEM), Content Marketing, Search Engine Optimization (SEO), atau optimasi Social Media. Jadi, kami tidak hanya dapat membantu mengembangkan website dan sistem web yang profesional saja, namun juga dapat mengembangkan website yang mampu menjangkau lebih banyak pelanggan potensial dengan efektif, salah satunya melalui <a href="/layanan/digital-marketing/jasa-seo.php">jasa SEO</a> yang kami miliki.</p><br>
+                <p class="text-center">Silakan hubungi LOGIQUE dan konsultasikan kebutuhan bisnis Anda di era digital ini. Tim ahli kami akan merancang strategi terbaik agar bisnis Anda bisa memperoleh kehadiran online (online presence) yang optimal.</p><br><br>
+                <div class="text-center">
+                    <a class="btn--yellow" href="/layanan/digital-marketing.php">Pelajari Lebih Lanjut</a>
+                </div>
+            </div>
+        </div>
+    </section>
     <?php include '../footer.php'; ?>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;600;900&display=swap" rel="stylesheet">
     <script src="/js/bootstrap.min.js"></script>

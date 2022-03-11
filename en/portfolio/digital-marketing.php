@@ -205,8 +205,25 @@
                 </div>
             </section>
 
-         
-            <?php include './portfolio-links.php';?>
+            <section id="portfolio_dm" class="portfolio-update__content" style="margin-top:-130px">
+                <div class="content-wrapper__">
+                    <div class="container__">
+                        <div class="content__wrapper">
+                            <div align="center">
+                                <h2>Do you require a Digital Marketing strategy capable of generating more customers?</h2><br>
+                                <p>So far, LOGIQUE has collaborated with a variety of clients from varying industrial fields, ranging from the E-commerce, Automotive, Tourism, Property and Banking industries to name a few. By applying the extensive experience of our highly qualified team of specialists, LOGIQUE has thus been able to succeed in assisting the needs of every one of our clients, with the end goal of achieving our required targeted digital performance level, resulting in an overall increase in profits.</p><br>
+                                <p>The effectiveness of every digital campaign that we have conducted has been strongly influenced by the process of identifying and determining the right target audience. We always start by laying out a thorough digital marketing strategy for each company by conducting an in-depth analysis of the client’s services and products. After that, we engage in audience profiling so as to determine the most suitable target audience for the digital campaign.</p><br>
+                                <p>Through the results yielded from the analysis, LOGIQUE then proceeds to run a campaign based on both the services and products offered, as well as the intended target audience (potential customers). Further, based on the digital channel being used, such campaign strategies will differ on a case by case basis. LOGIQUE itself provides services for every Digital Channel, such as Search Engine Marketing services, Content Marketing, <a href="/en/services/digital-marketing/seo-service.php">SEO Services</a>, Social Media optimization and many others.</p><br>
+                                <p>Trust LOGIQUE to improve your <a href="/en/services/digital-marketing.php">Digital Marketing</a> campaign today!</p>               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <div style="margin-top:-50px">
+                <?php include './portfolio-links.php';?>
+            </div>
 
         </div>
 
