@@ -214,7 +214,10 @@
                                 <p>So far, LOGIQUE has collaborated with a variety of clients from varying industrial fields, ranging from the E-commerce, Automotive, Tourism, Property and Banking industries to name a few. By applying the extensive experience of our highly qualified team of specialists, LOGIQUE has thus been able to succeed in assisting the needs of every one of our clients, with the end goal of achieving our required targeted digital performance level, resulting in an overall increase in profits.</p><br>
                                 <p>The effectiveness of every digital campaign that we have conducted has been strongly influenced by the process of identifying and determining the right target audience. We always start by laying out a thorough digital marketing strategy for each company by conducting an in-depth analysis of the client’s services and products. After that, we engage in audience profiling so as to determine the most suitable target audience for the digital campaign.</p><br>
                                 <p>Through the results yielded from the analysis, LOGIQUE then proceeds to run a campaign based on both the services and products offered, as well as the intended target audience (potential customers). Further, based on the digital channel being used, such campaign strategies will differ on a case by case basis. LOGIQUE itself provides services for every Digital Channel, such as Search Engine Marketing services, Content Marketing, <a href="/en/services/digital-marketing/seo-service.php">SEO Services</a>, Social Media optimization and many others.</p><br>
-                                <p>Trust LOGIQUE to improve your <a href="/en/services/digital-marketing.php">Digital Marketing</a> campaign today!</p>               
+                                <p>Trust LOGIQUE to improve your <a href="/en/services/digital-marketing.php">Digital Marketing</a> campaign today!</p><br>
+                                <div class="text-center">
+                                    <a class="btn--yellow" href="/en/services/digital-marketing.php">Learn More</a>
+                                </div>               
                             </div>
                         </div>
                     </div>
