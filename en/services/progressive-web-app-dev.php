@@ -358,6 +358,31 @@
         <section class="mb--60px service-pwa__other">
             <div class="content-wrapper__">
                 <div class="container__">
+                    <div class="main-title main-title--with-border-line">
+                        <h2>Do You Want Your Website to be Found by Many Potential Customers on Google?</h2>
+                    </div>
+                        <h3>Optimise the performance of your Progressive Web Apps through LOGIQUE’s SEO Services!</h3><br/>
+                        <p>
+                            It is very important to make sure that any PWA you develop will be easy to find via Google’s search pages; this is so that your website will be able to generate more potential customers and hence inevitably generate more profits. Therefore, we offer comprehensive <a href="/en/services/digital-marketing/seo-service.php">SEO services</a> for your company’s website.
+                        </p><br/>
+                        <p>
+                            Through the hard work of our experienced team, we will be able help ensure that your website is indexed by Google’s search engines. Our SEO team can further carry out various technical SEO strategies and will also implement both on-page and off-page SEO strategies.
+                        </p><br/>
+                        <p>        
+                            Apart from being experienced in PWA development, LOGIQUE also has a lot of experience in running <a href="/en/services/digital-marketing.php">digital marketing</a> campaigns, which includes SEO. Please evaluate your business goals and let us design the best optimization process for your website.                        
+                        </p><br/><br/>
+                        <div class="row row--flex justify-content-center">
+                            <div class="col-md-3">
+                                <a href="/en/services/digital-marketing/seo-service.php" class="form-control btn btn--yellow">Learn More</a>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="mb--60px service-pwa__other">
+            <div class="content-wrapper__">
+                <div class="container__">
                     <h3 class="main-title main-title--with-border-line">Other Services</h3>
 
                     <div class="row row--flex justify-content-center other__service">

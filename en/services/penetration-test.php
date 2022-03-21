@@ -1063,6 +1063,21 @@
         </div> 
     </div>
 </section>
+        <br/>
+        <section>            
+            <div class="container__">                               
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 text-center">
+                        <h2 class="text-center" >Other Services Offered by LOGIQUE</h2>
+                        <p class="text-center">Besides leveraging the skills of specialists who are certified and experienced in conducting Penetration Testing (Pentest) and Security Assessments, we also have specialists who are no less reliable in providing a variety of other services, such as Digital Marketing. LOGIQUE aims to assist your company in carrying out digital campaigns in regards to Search Engine Marketing (SEM), Content Marketing, Search Engine Optimization (SEO), Social Media optimization and others.</p>
+                        <p class="text-center">Our team can help your company maximise its performance within every channel used in the digital campaign being carried out. We can maximise your desired conversion rates through SEM services, as well as increase your overall organic traffic through applying various <a href="/layanan/digital-marketing/jasa-seo.php">SEO improvements</a> and achieve peak engagement through a variety of social media optimizations. So what are you waiting for? Immediately consult your business needs with us and our digital marketing team will strive to design the best strategy for you.</p><br>
+                        <div class="text-center">
+                            <a class="btn--yellow" href="/en/services/digital-marketing.php">Learn More</a>
+                        </div>
+                    </div> 
+                </div>  
+            </div>                       
+        </section><br><br>
         <section class="gallery content-article">
             <div class="container">
                 <div class="row">
