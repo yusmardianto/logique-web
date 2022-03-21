@@ -675,6 +675,19 @@ if (isset($_POST['submitted'])) {
                 </section>
             </a>
 
+            <section class="content-section fifth-part">
+                <div class="container__">
+                    <div class="sec-content-part important-point">
+                        <h2 class="sub-section-title text-center">Increase Your Company’s Overall Website Traffic & Raise Profits through LOGIQUE’s SEO Services</h2><br>
+                        <p class="text-center">Did you know that the vast majority of consumers today conduct at least some online research before buying a product? Therefore, it is recommended to implement a professionally designed <a href="/en/services/digital-marketing.php" target="_blank">digital marketing</a> strategy in order to ensure that your website will maintain a good level of visibility so that when potential customers search for keywords relevant to your business, the website will appear promptly.</p><br>
+                        <p class="text-center">In ensuring this, LOGIQUE offers high quality professional <a href="/en/services/digital-marketing/seo-service.php" target="_blank">SEO services</a>. Our team of SEO specialists aim to carry out a variety of optimization strategies so that your company's website may rank highly within the Google search results. Through an in-depth process of analysis, as well as through determining the right target audience, your company’s website will receive good visibility levels for any relevant search results, further allowing you to reach your appropriate target audiences and drive more sales.</p><br>
+                        <p class="text-center">Entrust your website's SEO optimization process to LOGIQUE</p><br><br>
+                        <div class="text-center">
+                            <a class="btn--yellow" href="/en/services/digital-marketing/seo-service.php">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <!-- Table Price -->
             <link rel="stylesheet" href="/layanan/assets/css/styles-web-dev-services/sosmed-section.css" media="all">

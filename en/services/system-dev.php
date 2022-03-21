@@ -1299,7 +1299,22 @@
      <div class="content-wrapper__">
          <?php include './assets/components/dm-links.php' ?>
          <?php include './assets/components/other-services.php' ?>
-     </div>
+     </div><br>
+    <section class="content-section fifth-part" style="margin-top:-80px">
+        <div class="container__">
+            <div class="sec-content-part important-point">
+                <p class="text-center">
+                    In addition to providing website system development services, as well as a variety of other offerings mentioned above, LOGIQUE also provides a range of <a href="/en/services/digital-marketing.php" target="_blank" >digital marketing improvements</a> pertaining to services such as Search Engine Marketing (SEM), Content Marketing, Search Engine Optimization (SEO), as well as Social Media optimizations. Essentially, not only can we assist in the development of professional websites and web systems, but we are also engaged in the professional development of websites designed to effectively reach more potential customers, a technique of which is conducted through our <a href="/en/services/digital-marketing/seo-service.php" target="_blank"> SEO services</a>.
+                </p><br>
+                <p class="text-center">
+                    Please contact LOGIQUE and assess your business needs within this digital era. Our team of experts will design the most successful strategy in helping your business receive an optimal online presence.
+                </p><br><br>
+                <div class="text-center">
+                    <a class="btn--yellow" href="/en/services/digital-marketing.php">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
      <!--         <section class="content-section sixth-part">
         <div class="sec-content-part contact-banner">
             <div class="page-content">

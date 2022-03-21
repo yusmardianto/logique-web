@@ -19,7 +19,7 @@ ini_set('display_error', 0);
   <meta property="og:url" content="https://www.logique.co.id/">
   <meta property="og:image" content="https://www.logique.co.id/img/ogimg/web-system.png">
   <meta property="og:description" content="LOGIQUE Digital Indonesia | Agensi Jasa Pengembangan Sistem Web (Web System Development) untuk e-commerce & lainnya | Lokasi: Jl.Simatupang Jakarta Selatan">
-  <link rel="amphtml" href="https://www.logique.co.id/amp/index.html">
+  <!-- <link rel="amphtml" href="https://www.logique.co.id/amp/index.html"> -->
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   <link rel="canonical" href="https://www.logique.co.id/" />
   <!-- Facebook Pixel Code -->
