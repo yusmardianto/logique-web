@@ -610,6 +610,24 @@
                                     </ul>  
                                 </a>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://intidatautama.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/IDU.jpg" class="img-responsive" alt="Inti Data Utama">
+                                    <h3>Inti Data Utama</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web Dev (Design | Develop)  BtoB, IT Service</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://jvsc.co.ke/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/jvsc.jpg" class="img-responsive" alt="Japan Vehicle Service Centre">
+                                    <h3>Japan Vehicle Service Centre</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web Dev & Operation (Design | Develop | Operation) BtoC, Content Marketing, Automotive, Car Repair, Kenya</li>
+                                    </ul>  
+                                </a>
+                            </div>
                         </div>
                         <!--- other -->
                         <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>

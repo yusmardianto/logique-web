@@ -742,6 +742,24 @@
                                     </ul>  
                                 </a>
                             </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://intidatautama.com/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/IDU.jpg" class="img-responsive" alt="Inti Data Utama">
+                                    <h3>Inti Data Utama</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作（デザイン｜制作）BtoB, ITサービス</li>
+                                    </ul>  
+                                </a>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <a href="https://jvsc.co.ke/" target="_blank" class="content__item">
+                                    <img src="/img/portfolio/update/jvsc.jpg" class="img-responsive" alt="Japan Vehicle Service Centre">
+                                    <h3>Japan Vehicle Service Centre</h3>
+                                    <ul class="list-unstyled">
+                                        <li>Web制作&運用 (デザイン｜制作｜運用)  BtoC, コンテンツマーケティング, 自動車, 車修理サービス, ケニア</li>
+                                    </ul>  
+                                </a>
+                            </div>
                         </div>
                         <!--- other -->
                         <h3 style="margin-bottom:20px; font-size:20px; font-weight:bold; border-top:1px solid #ececec;padding-top:20px">Others</h3>
