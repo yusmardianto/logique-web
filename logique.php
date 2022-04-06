@@ -111,7 +111,7 @@
                                 Kami adalah Agile Developer dan Konsultan DX profesional yang sejak tahun 2012 telah membantu banyak klien  mendigitalisasikan ide dan bisnis mereka.<br>
                                 LOGIQUE adalah Konsultan, Pengembang Sistem, dan Agen Pemasaran Digital dengan pemahaman yang mendalam tentang pasar Indonesia serta memiliki banyak pengalaman dengan proyek-proyek Internasional.<br><br>
 
-                                Kami memiliki grup perusahaan yakni <a href="https://www.kazokku.com/"><b>KAZOKKU</b></a> yang menyediakan layanan rekrutmen untuk spesialis di bidang IT.<br><br>
+                                Kami memiliki grup perusahaan yakni <a href="https://www.kazokku.com/"><b>KAZOKKU</b></a> yang menyediakan layanan outsourcing IT untuk memenuhi tenaga IT profesional bagi perusahaan yang membutuhkan.<br><br>
                             </p>
                         </div>
 
