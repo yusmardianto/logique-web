@@ -82,15 +82,41 @@
 
             <section id="about">
                 <div class="container__">
-                    <div class="text-center">
-                        <h1 class="title-index">LOGIQUEについて</h1>
-                        <hr class="title__yellow-line--center">
-                        <p class="title__description">
-                        LOGIQUE（ロジックと呼んでいます）という名前は、インドネシア語のLogika-kuに由来します。 慣習に囚われることなく常にロジカルに、私たちの考えに沿ったやり方で、最高のサービスを提供します。LOGIQUEはIT/DXコンサルティングから受託開発、デジタルマーケティング運用までワンストップでサービス可能な会社です。Web制作、システム開発、スマホアプリ開発が主力サービスとなっています。日本人がインドネシアのジャカルタで設立したPMA（外国資本法人) です。PMAですが、80人を超えるインドネシア人社員と、インドネシアへの深い理解をもってお客様へサービス提供しています。インドネシア展開する際の現地パートナーとしてご検討いただけます。<br><br>
-                        ITスペシャリストの人材派遣サービスを提供する<a href="https://www.kazokku.com/"><b>KAZOKKU</b></a>というグループ会社があります。
-                        </p>
+                    <h1 class="title-index">LOGIQUEについて</h1>
+                    <hr class="title__yellow-line"><br>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <p>LOGIQUE（ロジックと呼んでいます）という名前は、インドネシア語のLogika-kuに由来します。 慣習に囚われることなく常にロジカルに、私たちの考えに沿ったやり方で、最高のサービスを提供します。LOGIQUEはIT/DXコンサルティングから受託開発、デジタルマーケティング運用までワンストップでサービス可能な会社です。Web制作、システム開発、スマホアプリ開発が主力サービスとなっています。日本人がインドネシアのジャカルタで設立したPMA（外国資本法人) です。PMAですが、80人を超えるインドネシア人社員と、インドネシアへの深い理解をもってお客様へサービス提供しています。インドネシア展開する際の現地パートナーとしてご検討いただけます。</p><br>
+                            <p>ITスペシャリストの人材派遣サービスを提供する<a href="https://www.kazokku.com/"><b>KAZOKKU</b></a>というグループ会社があります。</p><br>
+                        </div>
                     </div>
+                </div>
+            </section>
 
+            <section id="principle">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h1 class="title-index">Kenali LOGIQUE Lebih Dekat</h1>
+                            <hr class="title__yellow-line">
+                            <br>
+                            <a class="career-section__btn" href="portofolio.php">会社概要のダウンロード</a>
+                        </div>
+
+                        <div class="col-md-8">
+                            <div class="principle">
+                                <div class="principle__content">
+                                    <p>
+                                        こちらから英語のLOGIQUE会社概要をダウンロードいただけます。フォームに必要事項をご記入いただきリクエストいただきますようお願いいたします。                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about">
+                <div class="container__">
                     <div class="row">
                         <div class="col-md-offset-2 col-md-8">
                             <!-- SLIDER -->

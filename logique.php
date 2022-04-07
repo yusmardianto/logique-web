@@ -102,19 +102,44 @@
 
             <section id="about">
                 <div class="container__">
-                    <div class="text-center">
-                        <div class="text-center">
-                            <h1 class="title-index">Tentang Kami</h1>
-                            <hr class="title__yellow-line--center">
-                            <p class="title__description">
-                                LOGIQUE adalah nama yang berasal dari istilah Bahasa Indonesia “logika-ku”. Dengan menjunjung tinggi standar yang sangat logis dalam segala hal yang kami lakukan kami memberikan layanan terbaik kepada klien kami dan tanpa ragu-ragu beralih dari cara atau metode yang sudah ketinggalan zaman.<br>
-                                Kami adalah Agile Developer dan Konsultan DX profesional yang sejak tahun 2012 telah membantu banyak klien  mendigitalisasikan ide dan bisnis mereka.<br>
-                                LOGIQUE adalah Konsultan, Pengembang Sistem, dan Agen Pemasaran Digital dengan pemahaman yang mendalam tentang pasar Indonesia serta memiliki banyak pengalaman dengan proyek-proyek Internasional.<br><br>
+                    <h1 class="title-index">Tentang Kami</h1>
+                    <hr class="title__yellow-line"><br>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <p>LOGIQUE adalah nama yang berasal dari istilah Bahasa Indonesia “logika-ku”. Dengan menjunjung tinggi standar yang sangat logis dalam segala hal yang kami lakukan kami memberikan layanan terbaik kepada klien kami dan tanpa ragu-ragu beralih dari cara atau metode yang sudah ketinggalan zaman.</p><br>
+                            <p>Kami adalah Agile Developer dan Konsultan DX profesional yang sejak tahun 2012 telah membantu banyak klien mendigitalisasikan ide dan bisnis mereka.</p><br>
+                            <p>LOGIQUE adalah Konsultan, Pengembang Sistem, dan Agen Pemasaran Digital dengan pemahaman yang mendalam tentang pasar Indonesia serta memiliki banyak pengalaman dengan proyek-proyek Internasional.</p><br>
+                            <p>Kami memiliki grup perusahaan yakni <a href="https://www.kazokku.com/"><b>KAZOKKU</b></a> yang menyediakan layanan outsourcing IT untuk memenuhi tenaga IT profesional bagi perusahaan yang membutuhkan.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-                                Kami memiliki grup perusahaan yakni <a href="https://www.kazokku.com/"><b>KAZOKKU</b></a> yang menyediakan layanan outsourcing IT untuk memenuhi tenaga IT profesional bagi perusahaan yang membutuhkan.<br><br>
-                            </p>
+            <section id="principle">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h1 class="title-index">Kenali LOGIQUE Lebih Dekat</h1>
+                            <hr class="title__yellow-line">
+                            <br>
+                            <a class="career-section__btn" href="portofolio.php">Unduh Profil Perusahaan</a>
                         </div>
 
+                        <div class="col-md-8">
+                            <div class="principle">
+                                <div class="principle__content">
+                                    <p>
+                                        LOGIQUE merupakan pengembang web dan sistem web berkualitas yang didukung oleh tim developer terbaik dan profesional dibidangnya masing-masing. Hadir di Indonesia sejak tahun 2012, kami telah memiliki banyak pengalaman dalam menyelesaikan proyek-proyek besar dibidang IT untuk perusahaan berskala nasional maupun internasional. Misi kami adalah untuk mendukung sebanyak mungkin perusahaan di Indonesia dengan solusi IT dan pemasaran digital terbaik. Download Company Profile kami dan dapatkan informasi lebih lengkap mengenai LOGIQUE.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about">
+                <div class="container__">
                         <div class="row">
                             <div class="col-md-offset-2 col-md-8">
                                 <!-- SLIDER -->
@@ -178,7 +203,6 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
                 </div>
             </section>
 
