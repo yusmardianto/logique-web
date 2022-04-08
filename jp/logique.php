@@ -97,7 +97,7 @@
                 <div class="container__">
                     <div class="row">
                         <div class="col-md-4">
-                            <h1 class="title-index">Kenali LOGIQUE Lebih Dekat</h1>
+                            <h1 class="title-index">LOGIQUE会社概要をダウンロード</h1>
                             <hr class="title__yellow-line">
                             <br>
                             <a class="career-section__btn" href="portofolio.php">会社概要のダウンロード</a>
