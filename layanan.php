@@ -140,6 +140,60 @@
                 </div>
             </section>
 
+            <section>
+                <div class="container__">
+                    <div class="text-center">
+                        <p class="title-index--bold"><b>LOGIQUE menyediakan Satu Solusi IT yang lengkap dengan produk dan layanan mulai dari konsultasi DX,<br>pengembangan sistem hingga pemasaran digital</b></p>
+                    </div><br><br>
+                    <div class="row">
+                        <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="img/service/specialist/scrum-svgrepo-com.png" alt="">
+                                </div>
+                            </div>
+                            <p class="text-center"><b>Agile</b></p>
+                        </div>
+                        <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="img/service/specialist/Group2.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <h3><b>Tailor-made</b></h3>
+                                    <p><b>Dibuat khusus sebagai solusi untuk permasalahan Anda.</b></p>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="img/service/specialist/users-svgrepo-com.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <h3><b>Unique Project Management Method</b></h3>
+                                    <p><b>Pengelolaan proyek dengan sistem squad serta pencatatan akurat dengan produk yang kami miliki.</b></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div><br><br><br>
+                    <div class="text-center">
+                        <h1 class="title-index">Spesialisasi Kami</h1>
+                        <hr class="title__yellow-line--center" style="margin-bottom:10px">
+                        <br><br>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img src="img/service/specialist/users-svgrepo-com.png" alt="" class="service-list__img">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="img/service/specialist/users-svgrepo-com.png" alt="" class="service-list__img">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="img/service/specialist/users-svgrepo-com.png" alt="" class="service-list__img">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section id="serviceNavigation">
                 <div class="container__">
                     <div class="row">
