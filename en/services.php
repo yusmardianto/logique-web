@@ -139,7 +139,7 @@
                         <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
                             <div class="service-list__item">
                                 <div>
-                                    <img src="/img/service/specialist/scrum-svgrepo-com.png" alt="">
+                                    <img src="/img/service/specialist/scrum-svgrepo-com-en.png" alt="">
                                 </div>
                             </div>
                             <p class="text-center"><b>Agile</b></p>
@@ -166,13 +166,13 @@
                         </div>
                     </div><br><br><br>
                     <div class="text-center">
-                        <h1 class="title-index"><b>Spesialisasi Kami</b></h1>
+                        <h1 class="title-index"><b>Our Specialization</b></h1>
                         <hr class="title__yellow-line--center" style="margin-bottom:10px">
                         <br><br>
                         <div class="row">
                             <div class="col-md-4">
                                 <img src="/img/service/specialist/ecommerce-svgrepo-com.png" alt="" width="83px" height="auto"><br><br>
-                                <h4><b>E-Commerce & E-Learning (Dengan berbagai Payment Gateaway)</b></h4 class="md-2">
+                                <h4><b>E-Commerce & E-Learning (With Various Payment Gateways)</b></h4 class="md-2">
                             </div>
                             <div class="col-md-4">
                                 <img src="/img/service/specialist/Group3.png" alt="" width="73px" height="auto"><br><br>
@@ -180,17 +180,17 @@
                             </div>
                             <div class="col-md-4">
                                 <img src="/img/service/specialist/PengembanganIT.png" alt="" width="92px" height="auto"><br><br>
-                                <h4><b>Pengembangan Sistem IT Untuk Industri Otomotif</b></h4 class="md-2">
+                                <h4><b>The Development of IT Systems for the Automotive Industry</b></h4 class="md-2">
                             </div>
                         </div><br><br>
                         <div class="row">
                             <div class="col-md-4">
                                 <img src="/img/service/specialist/video-promotion-advertising-marketing-svgrepo-com.png" alt="" width="110px" height="auto"><br><br>
-                                <h4><b>Pemasaran Digital Untuk Perusahaan Finansial &  Real Estate</b></h4 class="md-2">
+                                <h4><b>Digital Marketing Services for Financial & Real Estate Companies</b></h4 class="md-2">
                             </div>
                             <div class="col-md-4">
                                 <img src="/img/service/specialist/website-svgrepo-com.png" alt="" width="72px" height="auto"><br><br>
-                                <h4><b>Pembuatan Website Yang Aman</b></h4 class="md-2">
+                                <h4><b>Creating Safe Websites</b></h4 class="md-2">
                             </div>
                         </div>
                     </div>

@@ -130,7 +130,7 @@
                         <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
                             <div class="service-list__item">
                                 <div>
-                                    <img src="/img/service/specialist/scrum-svgrepo-com.png" alt="">
+                                    <img src="/img/service/specialist/scrum-svgrepo-com-en.png" alt="">
                                 </div>
                             </div>
                             <p class="text-center"><b>Agile</b></p>
