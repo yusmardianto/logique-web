@@ -121,6 +121,73 @@
                 </div>
             </section>
 
+            <section>
+                <div class="container__">
+                    <div class="text-center">
+                        <p class="title-index--bold"><b>インドネシアでのDX実現のため、ワンストップソリューションを提供しています。Agile開発を得意としており新規事業立ち上げの際のDX/DM支援を一括でお請けするプロジェクトなど得意です。</b></p>
+                    </div><br><br>
+                    <div class="row">
+                        <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="/img/service/specialist/scrum-svgrepo-com.png" alt="">
+                                </div>
+                            </div>
+                            <p class="text-center"><b>Agile</b></p>
+                        </div>
+                        <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="/img/service/specialist/Group2.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <h3><b>テイラーメイド</b></h3>
+                                    <p><b> 顧客のニーズに合致したソリューションをスクラッチで、しかし迅速にリーズナブルなコストで開発することを得意としています。</b></p>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="/img/service/specialist/users-svgrepo-com.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <h3><b>ユニークなプロジェクト管理</b></h3>
+                                    <p><b>Squadの管理下にプロジェクトがあり、各プロジェクトマネージャは十分な支援をSquadから得られるようにしています。社内独自プロジェクト管理ツールを使用して失敗しないプロジェクト管理をしています。</b></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div><br><br><br>
+                    <div class="text-center">
+                        <h1 class="title-index"><b>LOGIQUEの得意領域</b></h1>
+                        <hr class="title__yellow-line--center" style="margin-bottom:10px">
+                        <br><br>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/ecommerce-svgrepo-com.png" alt="" width="83px" height="auto"><br><br>
+                                <h4><b>EC & Eラーニング (インドネシアの決済代行サービスと連携）</b></h4 class="md-2">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/Group3.png" alt="" width="72px" height="auto"><br><br>
+                                <h4><b>PWA開発</b></h4 class="md-2">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/PengembanganIT.png" alt="" width="92px" height="auto"><br><br>
+                                <h4><b>Automotive産業向けシステム開発</b></h4 class="md-2">
+                            </div>
+                        </div><br><br>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/video-promotion-advertising-marketing-svgrepo-com.png" alt="" width="110px" height="auto"><br><br>
+                                <h4><b>金融・保険、不動産業界向けデジタルマーケティング運用</b></h4 class="md-2">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/website-svgrepo-com.png" alt="" width="72px" height="auto"><br><br>
+                                <h4><b>セキュアなWeb制作 (公開前Penテスト可能）</b></h4 class="md-2">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section id="serviceNavigation">
                 <div class="container__">
                     <div class="row">
