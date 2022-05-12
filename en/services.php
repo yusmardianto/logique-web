@@ -160,7 +160,7 @@
                                 </div>
                                 <div class="service-list__content">
                                     <h3><b>Unique Project Management Method</b></h3>
-                                    <p><b>Projects Are Run via High Quality Team Organization Systems, With Accurate Product Management & Recording.</b></p>
+                                    <p><b>Projects Are Run via High Quality Team Organization Systems, With Our Own Project Management Framework.</b></p>
                                 </div>
                             </div>
                         </div>
