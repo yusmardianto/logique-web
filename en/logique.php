@@ -84,16 +84,43 @@
 
             <section id="about">
                 <div class="container__">
+                    <h1 class="title-index">About Us</h1>
+                    <hr class="title__yellow-line"><br>
                     <div class="row">
                         <div class="col-sm-12">
-                            <div class="text-center">
-                                <h1 class="title-index">About Us</h1>
-                                <hr class="title__yellow-line--center">
-                                <p class="title__description">
-                                LOGIQUE DIGITAL INDONESIA is a top Indonesian IT developer that aims to design, develop & manage a variety of high quality digital assets for your company, specialising in creating web-apps, digital systems, mobile applications and much more, catering to both a local and international clientele. We also provide digital marketing and SEO services for clients, among other IT / DX services and products.<br>
-                                </p>
-                            </div>
+                            <p>LOGIQUE DIGITAL INDONESIA is a top Indonesian IT developer that aims to design, develop & manage a variety of high quality digital assets for your company, specialising in creating web-apps, digital systems, mobile applications and much more, catering to both a local and international clientele. We also provide digital marketing and SEO services for clients, among other IT / DX services and products.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
+            <section id="principle">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h1 class="title-index">A Closer Look at LOGIQUE’s Professional Profile</h1>
+                            <hr class="title__yellow-line">
+                            <br>
+                            <a class="career-section__btn" href="portofolio.php">Download Company Profile</a>
+                        </div>
+
+                        <div class="col-md-8">
+                            <div class="principle">
+                                <div class="principle__content">
+                                    <p>
+                                        LOGIQUE is a highly qualified website & systems development company supported by a professional team of specialists within their respective fields. Operating out of Indonesia since 2012, we have had plenty of experience working on major IT projects for key national organizations as well as international companies. Our mission is to support as many companies within Indonesia as possible through providing the highest caliber of IT and digital marketing solutions. Please download our Company Profile in order to get a more detailed understanding of the many services offered by LOGIQUE.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="about">
+                <div class="container__">
+                    <div class="row">
+                        <div class="col-sm-12">
                             <div class="row">
                                 <div class="col-md-offset-2 col-md-8">
                                     <!-- SLIDER -->

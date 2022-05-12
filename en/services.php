@@ -113,22 +113,89 @@
                 </div>
             </section>
 
-        <section class="bg--white">
-            <div class="container__">
-                <a href="/en/services/dx-dm-service.php">
-                    <picture>
-                        <!-- webp -->
-                        <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.webp" type="image/webp">
-                        <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.webp" type="webp">
+            <section class="bg--white">
+                <div class="container__">
+                    <a href="/en/services/dx-dm-service.php">
+                        <picture>
+                            <!-- webp -->
+                            <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.webp" type="image/webp">
+                            <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.webp" type="webp">
 
-                        <!-- jpeg -->
-                        <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.jpg" type="image/jpeg">
-                        <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.jpg" type="image/jpeg">
-                        <img srcset="/img/dx-dm-banner-en-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-en.jpg" alt="" class="img-responsive" style="width: 100%;">
-                    </picture>
-                </a>
-            </div>
-        </section>
+                            <!-- jpeg -->
+                            <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-en-small.jpg" type="image/jpeg">
+                            <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-en.jpg" type="image/jpeg">
+                            <img srcset="/img/dx-dm-banner-en-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-en.jpg" alt="" class="img-responsive" style="width: 100%;">
+                        </picture>
+                    </a>
+                </div>
+            </section>
+
+            <section>
+                <div class="container__">
+                    <div class="text-center">
+                        <p class="title-index--bold"><b>LOGIQUE Provides Comprehensive IT Solutions Via its Products & Services That Range From DX Consulting, System Development Services to Digital Marketing.</b></p>
+                    </div><br><br>
+                    <div class="row">
+                        <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="/img/service/specialist/scrum-svgrepo-com-en.png" alt="">
+                                </div>
+                            </div>
+                            <p class="text-center"><b>Agile</b></p>
+                        </div>
+                        <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="/img/service/specialist/Group2.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <h3><b>Tailor-Made</b></h3>
+                                    <p><b>A Tailor-Made Professional Solution to Your Problems.</b></p>
+                                </div>
+                            </div>
+                            <div class="service-list__item">
+                                <div>
+                                    <img src="/img/service/specialist/users-svgrepo-com.png" alt="" class="service-list__img">
+                                </div>
+                                <div class="service-list__content">
+                                    <h3><b>Unique Project Management Method</b></h3>
+                                    <p><b>Projects Are Run via High Quality Team Organization Systems, With Accurate Product Management & Recording.</b></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div><br><br><br>
+                    <div class="text-center">
+                        <h1 class="title-index"><b>Our Specialization</b></h1>
+                        <hr class="title__yellow-line--center" style="margin-bottom:10px">
+                        <br><br>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/ecommerce-svgrepo-com.png" alt="" width="83px" height="auto"><br><br>
+                                <h4><b>E-Commerce & E-Learning (With Various Payment Gateways)</b></h4 class="md-2">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/Group3.png" alt="" width="73px" height="auto"><br><br>
+                                <h4><b>PWA Development</b></h4 class="md-2">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/PengembanganIT.png" alt="" width="92px" height="auto"><br><br>
+                                <h4><b>The Development of IT Systems for the Automotive Industry</b></h4 class="md-2">
+                            </div>
+                        </div><br><br>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/video-promotion-advertising-marketing-svgrepo-com.png" alt="" width="110px" height="auto"><br><br>
+                                <h4><b>Digital Marketing Services for Financial & Real Estate Companies</b></h4 class="md-2">
+                            </div>
+                            <div class="col-md-4">
+                                <img src="/img/service/specialist/website-svgrepo-com.png" alt="" width="72px" height="auto"><br><br>
+                                <h4><b>Creating Safe Websites</b></h4 class="md-2">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <section id="serviceNavigation">
                 <div class="container__">
