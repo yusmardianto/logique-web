@@ -133,7 +133,7 @@
             <section>
                 <div class="container__">
                     <div class="text-center">
-                        <p class="title-index--bold"><b>LOGIQUE menyediakan Satu Solusi IT yang lengkap dengan produk dan layanan mulai dari konsultasi DX,<br>pengembangan sistem hingga pemasaran digital</b></p>
+                        <p class="title-index--bold"><b>LOGIQUE Provides Comprehensive IT Solutions Via its Products & Services That Range From DX Consulting, System Development Services to Digital Marketing.</b></p>
                     </div><br><br>
                     <div class="row">
                         <div class="col-md-offset-1 col-sm-offset-1 col-md-5 col-sm-10">
@@ -150,8 +150,8 @@
                                     <img src="/img/service/specialist/Group2.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
-                                    <h3><b>Tailor-made</b></h3>
-                                    <p><b>Dibuat khusus sebagai solusi untuk permasalahan Anda.</b></p>
+                                    <h3><b>Tailor-Made</b></h3>
+                                    <p><b>A Tailor-Made Professional Solution to Your Problems.</b></p>
                                 </div>
                             </div>
                             <div class="service-list__item">
@@ -160,7 +160,7 @@
                                 </div>
                                 <div class="service-list__content">
                                     <h3><b>Unique Project Management Method</b></h3>
-                                    <p><b>Pengelolaan proyek dengan sistem squad serta pencatatan akurat dengan produk yang kami miliki.</b></p>
+                                    <p><b>Projects Are Run via High Quality Team Organization Systems, With Accurate Product Management & Recording.</b></p>
                                 </div>
                             </div>
                         </div>
