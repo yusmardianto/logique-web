@@ -122,7 +122,7 @@
                             <h1 class="title-index">Kenali LOGIQUE Lebih Dekat</h1>
                             <hr class="title__yellow-line">
                             <br>
-                            <a class="career-section__btn" href="portofolio.php">Unduh Profil Perusahaan</a>
+                            <a class="career-section__btn" href="download/Company_Profile_ID.pdf">Unduh Profil Perusahaan</a>
                         </div>
 
                         <div class="col-md-8">

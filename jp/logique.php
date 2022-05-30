@@ -100,7 +100,7 @@
                             <h1 class="title-index">LOGIQUE会社概要をダウンロード</h1>
                             <hr class="title__yellow-line">
                             <br>
-                            <a class="career-section__btn" href="portofolio.php">会社概要のダウンロード</a>
+                            <a class="career-section__btn" href="../download/Company_Profile_-_EN-Version.pdf">会社概要のダウンロード</a>
                         </div>
 
                         <div class="col-md-8">

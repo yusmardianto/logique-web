@@ -101,7 +101,7 @@
                             <h1 class="title-index">A Closer Look at LOGIQUE’s Professional Profile</h1>
                             <hr class="title__yellow-line">
                             <br>
-                            <a class="career-section__btn" href="portofolio.php">Download Company Profile</a>
+                            <a class="career-section__btn" href="../download/Company_Profile_-_EN-Version.pdf">Download Company Profile</a>
                         </div>
 
                         <div class="col-md-8">
