@@ -147,30 +147,30 @@ ini_set('display_error', 0);
                 </div>
               </div>
               <div class="row flex__row homepage-hero__card">
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/pembuatan-progressive-web-app.php" class="div-service-cat">
-                    <img src="img/top/i-top1.svg" alt="Jasa Pembuatan Website" class="img-responsive" />
+                    <img src="img/home/apk-web.png" alt="Jasa Pembuatan Website" class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Aplikasi Web</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
-                    <img src="img/top/i-top2.svg" alt="Jasa Pembuatan Aplikasi" class="img-responsive" />
+                    <img src="img/home/apk.png" alt="Jasa Pembuatan Aplikasi" class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Aplikasi</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
-                    <img src="img/top/i-top3.svg" alt="Jasa Pembuatan Sistem Web" class="img-responsive" />
+                    <img src="img/home/sistem-web.png" alt="Jasa Pembuatan Sistem Web" class="img-responsive" />
                     <h2>Jasa Pembuatan<br />Sistem Web</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/penetration-test.php" class="div-service-cat">
-                    <img src="img/top/i-top4.svg" alt="Jasa Penetration Testing" class="img-responsive" />
+                    <img src="img/home/pentest.png" alt="Jasa Penetration Testing" class="img-responsive" />
                     <h2>Jasa Penetration<br />Testing</h2>
                     <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
@@ -186,13 +186,13 @@ ini_set('display_error', 0);
           <a href="/layanan/dx-dm-service.php">
             <picture>
               <!-- webp -->
-              <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.webp" type="image/webp">
-              <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.webp" type="webp">
+              <source media="(max-width: 576px)" srcset="/img/bannerID.webp" type="image/webp">
+              <source media="(min-width: 576px)" srcset="/img/bannerID.webp" type="webp">
 
               <!-- jpeg -->
-              <source media="(max-width: 576px)" srcset="/img/dx-dm-banner-id-small.jpg" type="image/jpeg">
-              <source media="(min-width: 576px)" srcset="/img/dx-dm-banner-id.jpg" type="image/jpeg">
-              <img srcset="/img/dx-dm-banner-id-small.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive" style="width: 100%;">
+              <source media="(max-width: 576px)" srcset="/img/bannerID.png" type="image/jpeg">
+              <source media="(min-width: 576px)" srcset="/img/bannerID.png" type="image/jpeg">
+              <img srcset="/img/bannerID.png 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive" style="width: 100%;">
             </picture>
           </a>
         </div>
@@ -223,10 +223,9 @@ ini_set('display_error', 0);
 
       <section class="solution bg--white">
         <div class="container__">
-          <h3 class="section-title">Kami Menyediakan <b>Solusi HR-Tech</b> di Indonesia</h3>
-          <p><strong>LOGIQUE</strong> berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web, pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu meningkatkan produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini</p>
+          <!-- <p><strong>LOGIQUE</strong> berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web, pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu meningkatkan produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini</p> -->
 
-          <div class="flex__row">
+          <!-- <div class="flex__row">
             <div class="col-md-4 row__item">
               <div class="item__img">
                 <img src="/img/top/i-dokodemo.svg" alt="" loading="lazy">
@@ -264,7 +263,34 @@ ini_set('display_error', 0);
                 <a href="/produk/sugoi-saiyo.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
               </div>
             </div>
-          </div>
+          </div> -->
+
+          <section class="see-list bg--white">
+            <div class="container__">
+              <div class="flex__row">
+                <div class="col-sm-6 col-xs-12 row__item">
+                  <h3 class="section-title">Kami Menyediakan <b>Solusi HR-Tech</b> di Indonesia</h3><br><br>
+                  <a href="layanan.php">
+                    <picture>
+                      <source srcset="/img/home/HRProvide.webp" width="100%" type="image/webp">
+                      <img src="/img/home/HRProvide.jpg" alt="" width="100%" loading="lazy">
+                    </picture>
+                  </a><br><br>
+                  <p>LOGIQUE berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web, pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu meningkatkan produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini</p>
+                </div>
+                <div class="col-sm-6 col-xs-12 row__item">
+                  <h3 class="section-title">Kami Menyediakan <b>Solusi DX</b> yang Komprehensif</h3><br><br>
+                  <a href="produk.php">
+                    <picture>
+                      <source srcset="/img/home/DXProvide.webp" width="100%" type="image/webp">
+                      <img src="/img/home/DXProvide.jpg" alt="" width="100%" loading="lazy">
+                    </picture>
+                  </a><br><br>
+                  <p>LOGIQUE adalah perusahaan konsultan transformasi digital. Kami akan mendukung Anda dalam meningkatkan layanan yang ada dan menciptakan layanan baru dengan mengubah bisnis Anda menjadi bisnis yang terdigitalisasi dan produktif. Kami dapat mendukung Anda dalam konsultasi, pengembangan, operasi dan pemeliharaan, dan juga menyediakan sumber daya manusia digital. Kami juga memiliki solusi agar Anda dapat memiliki tenaga kerja DX internal.</p>
+                </div>
+              </div>
+            </div>
+          </section>
         </div>
       </section>
 
@@ -333,43 +359,43 @@ ini_set('display_error', 0);
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="layanan.php" class="item item--service">
                 <picture>
-                  <source srcset="/img/service.webp" type="image/webp">
-                  <img src="/img/service.png" alt="" loading="lazy">
+                  <source srcset="/img/home/service.webp" width="25%" type="image/webp">
+                  <img src="/img/home/service.png" alt="" width="25%" loading="lazy">
                 </picture>
 
-                <h3>See Service List</h3>
+                <h3 style="margin-top:20px">See Service List</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="produk.php" class="item item--product">
                 <picture>
-                  <source srcset="/img/product.webp" type="image/webp">
-                  <img src="/img/product.png" alt="" loading="lazy">
+                  <source srcset="/img/home/product.webp" width="25%" type="image/webp">
+                  <img src="/img/home/product.png" alt="" width="25%" loading="lazy">
                 </picture>
 
-                <h3>See Product List</h3>
+                <h3 style="margin-top:20px">See Product List</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="hubungi-kami.php" class="item item--contact">
                 <picture>
-                  <source srcset="/img/smartphone.webp" type="image/webp">
-                  <img src="/img/smartphone.png" alt="" loading="lazy">
+                  <source srcset="/img/home/texting.webp" width="25%" type="image/webp">
+                  <img src="/img/home/texting.png" alt="" width="25%" loading="lazy">
                 </picture>
 
-                <h3>Contact Us</h3>
+                <h3 style="margin-top:20px">Contact Us</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="career/" class="item item--career">
                 <picture>
-                  <source srcset="/img/businessman.webp" type="image/webp">
-                  <img src="/img/businessman.png" alt="" loading="lazy">
+                  <source srcset="/img/home/career.webp" width="25%" type="image/webp">
+                  <img src="/img/home/career.png" alt="" width="25%" loading="lazy">
                 </picture>
-                <h3>Career</h3>
+                <h3 style="margin-top:20px">Career</h3>
                 <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
               </a>
             </div>
