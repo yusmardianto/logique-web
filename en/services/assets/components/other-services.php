@@ -22,28 +22,28 @@
                 <a href="/en/services/web-dev.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive"> -->
                     <h4>Website Production Service</h4>
-                    <p><strong>LOGIQUE</strong> is a website development company that strives to raise your business.</p>
+                    <p><strong>LOGIQUE</strong> has developed over 200 websites spanning various fields throughout Indonesia; from government organizations to financial institutions.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="/en/services/mobile-app-dev.php" class="list__item">
+                <a href="/en/services/digital-marketing.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive"> -->
-                    <h4>Apps Development Service</h4>
-                    <p><strong>LOGIQUE</strong> provide efficient solutions to your Mobile App for iOS & Android.</p>
+                    <h4>Digital Marketing Service</h4>
+                    <p><strong>LOGIQUE Digital Indonesia</strong> provides the best digital marketing consulting services that aim to provide for all your company's digital marketing needs.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="/en/services/system-dev.php" class="list__item">
+                <a href="/en/services/digital-marketing/seo-service.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>Web System Development Service</h4>
-                    <p><strong>LOGIQUE</strong> assist business goals through latest advance in web base technology.</p>
+                    <h4>SEO Service</h4>
+                    <p><strong>LOGIQUE</strong> provides white hat SEO services solution to optimize your website and drive more organic traffic.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="/en/services/penetration-test.php" class="list__item">
+                <a href="/en/services/devops.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive"> -->
-                    <h4>Penetration Testing Service</h4>
-                    <p><strong>LOGIQUE</strong> will perform various security assessment to your website.</p>
+                    <h4>Cloud Server Management Service</h4>
+                    <p><strong>LOGIQUE</strong> provides a complete range of DevOps services for managing Indonesian cloud servers in order to facilitate and increase business agility.</p>
                 </a>
             </div>
         </div>

@@ -69,22 +69,22 @@
             <div class="col-sm-3">
                 <a href="/layanan/pembuatan-aplikasi-mobile.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive"> -->
-                    <h4>Jasa Pembuatan Aplikasi</h4>
-                    <p><strong>LOGIQUE</strong> memberikan solusi yang efisien dalam pengembangan Mobile App untuk iOS & Android.</p>
+                    <h4>Jasa Digital Marketing</h4>
+                    <p><strong>LOGIQUE Digital Indonesia</strong> menyediakan jasa konsultan digital marketing terbaik yang memberikan layanan untuk seluruh kebutuhan pemasaran digital perusahaan Anda.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="/layanan/pembuatan-sistem-web.php" class="list__item">
+                <a href="/layanan/digital-marketing/jasa-seo.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>Jasa Pembuatan Sistem Web</h4>
-                    <p><strong>LOGIQUE</strong> membantu mencapai tujuan bisnis Anda melalui kemajuan terbaru dalam teknologi berbasis web.</p>
+                    <h4>Jasa SEO Website</h4>
+                    <p><strong>LOGIQUE Digital Indonesia</strong> menyediakan jasa SEO profesional yang siap membantu Anda melakukan optimasi website melalui audit & analisis yang komprehensif.</p>
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="/layanan/penetration-test.php" class="list__item">
+                <a href="/layanan/devops.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive"> -->
-                    <h4>Jasa Penetration Testing</h4>
-                    <p><strong>LOGIQUE</strong> akan melakukan berbagai uji coba keamanan di situs web Anda.</p>
+                    <h4>Layanan Manajemen Cloud Server</h4>
+                    <p><strong>LOGIQUE</strong> menyediakan layanan lengkap DevOps pada manajemen cloud server Indonesia untuk memudahkan dan meningkatkan ketangkasan bisnis Anda secara digital.</p>
                 </a>
             </div>
         </div>
