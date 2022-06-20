@@ -76,7 +76,7 @@
             <div class="col-sm-3">
                 <a href="/layanan/digital-marketing/jasa-seo.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>Jasa SEO Website</h4>
+                    <h4>Jasa SEO Profesional</h4>
                     <p><strong>LOGIQUE Digital Indonesia</strong> menyediakan jasa SEO profesional yang siap membantu Anda melakukan optimasi website melalui audit & analisis yang komprehensif.</p>
                 </a>
             </div>

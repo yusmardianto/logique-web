@@ -97,36 +97,44 @@
                                 </div>
                             </div>
                             <div class="row  homepage-hero__card flex__row ">
-                                <div class="col-md-3 col-xs-6" align="left">
+                                <div class="col-md-3 col-xs-6" align="center">
                                     <a href="/en/services/progressive-web-app-dev.php" class="div-service-cat">
                                         <img src="../img/home/apk-web.png" alt="Website Production Service"
                                             class="img-responsive" />
-                                        <h2>Web App (PWA) Development</h2>
-                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <h2>Web App (PWA) Development</h2><br>
+                                        <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
+                                            <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </div>
                                     </a>
                                 </div>
-                                <div class="col-md-3 col-xs-6" align="left">
+                                <div class="col-md-3 col-xs-6" align="center">
                                     <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
                                         <img src="../img/home/apk.png" alt="Apps Development Service"
                                             class="img-responsive" />
-                                        <h2>Apps Development Service</h2>
-                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <h2>Apps Development Service</h2><br>
+                                        <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
+                                            <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </div>
                                     </a>
                                 </div>
-                                <div class="col-md-3 col-xs-6" align="left">
+                                <div class="col-md-3 col-xs-6" align="center">
                                     <a href="/en/services/system-dev.php" class="div-service-cat">
                                         <img src="../img/home/sistem-web.png" alt="Web System Development Service"
                                             class="img-responsive" />
-                                        <h2>Web System Development Service</h2>
-                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <h2>Web System Development Service</h2><br>
+                                        <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
+                                            <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </div>
                                     </a>
                                 </div>
-                                <div class="col-md-3 col-xs-6" align="left">
+                                <div class="col-md-3 col-xs-6" align="center">
                                     <a href="/en/services/penetration-test.php" class="div-service-cat">
                                         <img src="../img/home/pentest.png" alt="Penetration Testing Service"
                                             class="img-responsive" />
-                                        <h2>Penetration Testing Service</h2>
-                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <h2>Penetration Testing Service</h2><br>
+                                        <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
+                                            <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        </div>
                                     </a>
                                 </div>
                             </div>
@@ -160,7 +168,11 @@
                             <p>We are committed to producing a variety of high quality digital products for our clients which conform to an international standard of excellence.
                             <br><br>
                             We are trustworthy experts and can work flexibly according to your specific requests. Working with us and utilizing the best solutions provided by our team is an opportunity to grow and improve your business’s overall profits in a digitalized age.</p>
-                            <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+                            <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; height:50px; color: #111;">
+                                <a href="portfolio.php">  
+                                <p style="margin-top:-0px; margin-left:10px; color:black">Detail</p> <img style="margin-top:-38px; margin-left:80px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                </a>
+                            </div>
                         </div>
                         <div class="col-md-6">
                             <picture>
@@ -326,12 +338,12 @@
                                 <p>LOGIQUE is committed to contributing to Indonesia's rapidly growing IT industry (SI, Web system development, digital marketing, etc.), having developed three internal systems to assist with increasing employee productivity & efficiency, and to simplify the recruitment process in regards to potential candidate evaluation. Upon integrating these products within our own company, we have found a very apparent & significant improvement, resulting in our decision to put these products up for sale</p>
                                 <br><br>
                                 <div class="flex__row">
-                                    <div class="col-sm-3 col-xs-12 row__item">
-                                    <p>See More</p>
+                                    <div style="margin-left:15px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; color: #111;" class="col-sm-3 col-xs-12 row__item">
+                                        <p>See More</p>
                                     </div><br><br>
                                     <div class="col-sm-9 col-xs-12 row__item">
                                     <a href="layanan.php">
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:-28px; margin-left:110px" class="img-responsive right-arrow">
                                     </a>
                                     </div>
                                 </div>
@@ -347,12 +359,12 @@
                                 <p>LOGIQUE  is a Digital transformation consulting firm. We will support you in improving your existing service and creating new services by transforming your business into a digitalized and productive business. We can support you in consulting, development, operation and maintenance, and also provide digital human resources. We also have a solution that you can have in-house DX work force.</p>
                                 <br><br><br><br>
                                 <div class="flex__row">
-                                    <div class="col-sm-3 col-xs-12 row__item">
-                                    <p>See More</p>
+                                    <div style="margin-left:15px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; color: #111;" class="col-sm-3 col-xs-12 row__item">
+                                        <p>See More</p>
                                     </div><br><br>
                                     <div class="col-sm-9 col-xs-12 row__item">
                                     <a href="product.php">
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:-28px; margin-left:110px" class="img-responsive right-arrow">
                                     </a>
                                     </div>
                                 </div>
@@ -457,42 +469,50 @@
                         <div class="col-sm-6 col-xs-12 row__item">
                             <a href="services.php" class="item item--service">
                                 <picture>
-                                    <source srcset="/img/home/service.webp" width="25%" type="image/webp">
-                                    <img src="/img/home/service.png" alt="" width="25%" loading="lazy">
+                                    <source srcset="/img/home/service.webp" width="20%" type="image/webp">
+                                    <img src="/img/home/service.png" alt="" width="20%" loading="lazy">
                                 </picture>
                                 <h3 style="margin-top:20px">See Service List</h3>
-                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                                    <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                </div>
                             </a>                           
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
                             <a href="product.php" class="item item--product">
                                 <picture>
-                                    <source srcset="/img/home/product.webp" width="25%" type="image/webp">
-                                    <img src="/img/home/product.png" alt="" width="25%" loading="lazy">
+                                    <source srcset="/img/home/product.webp" width="20%" type="image/webp">
+                                    <img src="/img/home/product.png" alt="" width="20%" loading="lazy">
                                 </picture>
                                 <h3 style="margin-top:20px">See Product List</h3>
-                                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                                    <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                </div>
                             </a>
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
                         <a href="contact.php" class="item item--contact">
                             <picture>
-                                <source srcset="/img/home/texting.webp" width="25%" type="image/webp">
-                                <img src="/img/home/texting.png" alt="" width="25%" loading="lazy">
+                                <source srcset="/img/home/texting.webp" width="20%" type="image/webp">
+                                <img src="/img/home/texting.png" alt="" width="20%" loading="lazy">
                             </picture>
                             
                             <h3 style="margin-top:20px">Contact Us</h3>
-                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                            <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                                <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                            </div>
                         </a>
                         </div>
                         <div class="col-sm-6 col-xs-12 row__item">
                         <a href="../career/" class="item item--career">
                             <picture>
-                                <source srcset="/img/home/career.webp" width="25%" type="image/webp">
-                                <img src="/img/home/career.png" alt="" width="25%" loading="lazy">
+                                <source srcset="/img/home/career.webp" width="20%" type="image/webp">
+                                <img src="/img/home/career.png" alt="" width="20%" loading="lazy">
                             </picture> 
                             <h3 style="margin-top:20px">Career</h3>
-                            <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                            <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                                <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                            </div>
                         </a>
                         </div>
                     </div>

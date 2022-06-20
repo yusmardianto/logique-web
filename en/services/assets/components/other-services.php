@@ -35,7 +35,7 @@
             <div class="col-sm-3">
                 <a href="/en/services/digital-marketing/seo-service.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>SEO Service</h4>
+                    <h4>Professional SEO Services</h4>
                     <p><strong>LOGIQUE</strong> provides white hat SEO services solution to optimize your website and drive more organic traffic.</p>
                 </a>
             </div>

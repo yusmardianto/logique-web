@@ -151,7 +151,7 @@ ini_set('display_error', 0);
                   <a href="/layanan/pembuatan-progressive-web-app.php" class="div-service-cat">
                     <img src="img/home/apk-web.png" alt="Jasa Pembuatan Website" class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Aplikasi Web</h2><br>
-                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
                       <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
                   </a>
@@ -160,7 +160,7 @@ ini_set('display_error', 0);
                   <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
                     <img src="img/home/apk.png" alt="Jasa Pembuatan Aplikasi" class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Aplikasi</h2><br>
-                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
                       <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
                   </a>
@@ -169,7 +169,7 @@ ini_set('display_error', 0);
                   <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
                     <img src="img/home/sistem-web.png" alt="Jasa Pembuatan Sistem Web" class="img-responsive" />
                     <h2>Jasa Pembuatan<br />Sistem Web</h2><br>
-                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
                       <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
                   </a>
@@ -178,7 +178,7 @@ ini_set('display_error', 0);
                   <a href="/layanan/penetration-test.php" class="div-service-cat">
                     <img src="img/home/pentest.png" alt="Jasa Penetration Testing" class="img-responsive" />
                     <h2>Jasa Penetration<br />Testing</h2><br>
-                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; color: #111;">
                       <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
                   </a>
@@ -215,7 +215,11 @@ ini_set('display_error', 0);
                 <br><br>
                 Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama, memenuhi berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.
               </p>
-              <a href="portofolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+              <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; height:50px; color: #111;">
+                <a href="portofolio.php">  
+                  <p style="margin-top:-0px; margin-left:10px; color:black">Detail</p> <img style="margin-top:-38px; margin-left:80px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </a>
+              </div>
             </div>
             <div class="col-md-6">
               <picture>
@@ -286,13 +290,13 @@ ini_set('display_error', 0);
                   </a><br><br>
                   <p>LOGIQUE berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web, pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu meningkatkan produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini</p>
                   <br><br>
-                  <div class="flex__row">
+                  <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:160px; color: #111;" class="flex__row">
                     <div class="col-sm-3 col-xs-12 row__item">
                       <p>Detail</p>
                     </div><br><br>
                     <div class="col-sm-9 col-xs-12 row__item">
                       <a href="layanan.php">
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:40px" class="img-responsive right-arrow">
                       </a>
                     </div>
                   </div>
@@ -307,13 +311,13 @@ ini_set('display_error', 0);
                   </a><br><br>
                   <p>LOGIQUE adalah perusahaan konsultan transformasi Digital. Kami akan mendukung Anda untuk meningkatkan layanan yang Anda miliki saat ini serta mengembangkan layanan baru dengan mengubah Bisnis Anda menjadi bisnis yang terdigitalisasi dan produktif. Kami dapat mendukung Anda mulai dari konsultasi, pengembangan, pengelolaan dan pemeliharaan, hingga menyediakan sumber daya manusia dalam bidang digital yang profesional. Kami juga memiliki solusi agar Anda bisa memiliki tenaga kerja DX internal yang handal.</p>
                   <br><br>
-                  <div class="flex__row">
+                  <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:160px; color: #111;" class="flex__row">
                     <div class="col-sm-3 col-xs-12 row__item">
                       <p>Detail</p>
                     </div><br><br>
                     <div class="col-sm-9 col-xs-12 row__item">
-                      <a href="produk.php">
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                      <a href="layanan.php">
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:40px"class="img-responsive right-arrow">
                       </a>
                     </div>
                   </div>
@@ -389,44 +393,52 @@ ini_set('display_error', 0);
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="layanan.php" class="item item--service">
                 <picture>
-                  <source srcset="/img/home/service.webp" width="25%" type="image/webp">
-                  <img src="/img/home/service.png" alt="" width="25%" loading="lazy">
+                  <source srcset="/img/home/service.webp" width="20%" type="image/webp">
+                  <img src="/img/home/service.png" alt="" width="20%" loading="lazy">
                 </picture>
 
                 <h3 style="margin-top:20px">See Service List</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:120px; color: #111;">
+                  <p style="margin-top:-10px; color:black">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="produk.php" class="item item--product">
                 <picture>
-                  <source srcset="/img/home/product.webp" width="25%" type="image/webp">
-                  <img src="/img/home/product.png" alt="" width="25%" loading="lazy">
+                  <source srcset="/img/home/product.webp" width="20%" type="image/webp">
+                  <img src="/img/home/product.png" alt="" width="20%" loading="lazy">
                 </picture>
 
                 <h3 style="margin-top:20px">See Product List</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:120px; color: #111;">
+                  <p style="margin-top:-10px; color:black">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="hubungi-kami.php" class="item item--contact">
                 <picture>
-                  <source srcset="/img/home/texting.webp" width="25%" type="image/webp">
-                  <img src="/img/home/texting.png" alt="" width="25%" loading="lazy">
+                  <source srcset="/img/home/texting.webp" width="20%" type="image/webp">
+                  <img src="/img/home/texting.png" alt="" width="20%" loading="lazy">
                 </picture>
 
                 <h3 style="margin-top:20px">Contact Us</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:120px; color: #111;">
+                  <p style="margin-top:-10px; color:black">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="career/" class="item item--career">
                 <picture>
-                  <source srcset="/img/home/career.webp" width="25%" type="image/webp">
-                  <img src="/img/home/career.png" alt="" width="25%" loading="lazy">
+                  <source srcset="/img/home/career.webp" width="20%" type="image/webp">
+                  <img src="/img/home/career.png" alt="" width="20%" loading="lazy">
                 </picture>
                 <h3 style="margin-top:20px">Career</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:120px; color: #111;">
+                  <p style="margin-top:-10px; color:black">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div>
           </div>

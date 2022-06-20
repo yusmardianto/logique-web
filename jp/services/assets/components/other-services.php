@@ -62,7 +62,7 @@
             <div class="col-sm-3">
                 <a href="/jp/services/web-dev.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>Web制作運用サービス</h4>
+                    <h4>Web制作運用サービス</h4><br>
                     <p>LOGIQUEは、インドネシアにてBtoBからBtoCサイトまで200超のWebを制作運用してきました。</p>
                 </a>
             </div>
@@ -76,14 +76,14 @@
             <div class="col-sm-3">
                 <a href="/jp/services/system-dev.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>SEO対策</h4>
+                    <h4>SEO対策</h4><br>
                     <p>インドネシア語でのSEO対策の豊富な実績をもって、オーガニックトラフィックを増加させます。</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/jp/services/penetration-test.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive"> -->
-                    <h4>クラウドサーバー管理運用</h4>
+                    <h4>クラウドサーバー管理運用</h4><br>
                     <p>DevOpsサービスを提供しています。インドネシアリージョンをもつAWS、GCPなどクラウド環境の運用管理を行います。</p>
                 </a>
             </div>
