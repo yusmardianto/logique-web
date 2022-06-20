@@ -147,32 +147,40 @@ ini_set('display_error', 0);
                 </div>
               </div>
               <div class="row flex__row homepage-hero__card">
-                <div class="col-md-3 col-xs-6" align="left">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/pembuatan-progressive-web-app.php" class="div-service-cat">
                     <img src="img/home/apk-web.png" alt="Jasa Pembuatan Website" class="img-responsive" />
-                    <h2>Jasa Pembuatan <br />Aplikasi Web</h2>
-                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Jasa Pembuatan <br />Aplikasi Web</h2><br>
+                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                      <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="left">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
                     <img src="img/home/apk.png" alt="Jasa Pembuatan Aplikasi" class="img-responsive" />
-                    <h2>Jasa Pembuatan <br />Aplikasi</h2>
-                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Jasa Pembuatan <br />Aplikasi</h2><br>
+                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                      <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="left">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
                     <img src="img/home/sistem-web.png" alt="Jasa Pembuatan Sistem Web" class="img-responsive" />
-                    <h2>Jasa Pembuatan<br />Sistem Web</h2>
-                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Jasa Pembuatan<br />Sistem Web</h2><br>
+                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                      <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="left">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/layanan/penetration-test.php" class="div-service-cat">
                     <img src="img/home/pentest.png" alt="Jasa Penetration Testing" class="img-responsive" />
-                    <h2>Jasa Penetration<br />Testing</h2>
-                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Jasa Penetration<br />Testing</h2><br>
+                    <div style="background: #fbb03b; border-radius: 15px; padding: 7px 20px; width:120px; color: #111;">
+                      <p style="color:black; margin-left:-30px">Detail</p> <img style="margin-top:-20px; margin-left:60px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
               </div>
@@ -280,7 +288,7 @@ ini_set('display_error', 0);
                   <br><br>
                   <div class="flex__row">
                     <div class="col-sm-3 col-xs-12 row__item">
-                      <p>See More</p>
+                      <p>Detail</p>
                     </div><br><br>
                     <div class="col-sm-9 col-xs-12 row__item">
                       <a href="layanan.php">
@@ -301,7 +309,7 @@ ini_set('display_error', 0);
                   <br><br>
                   <div class="flex__row">
                     <div class="col-sm-3 col-xs-12 row__item">
-                      <p>See More</p>
+                      <p>Detail</p>
                     </div><br><br>
                     <div class="col-sm-9 col-xs-12 row__item">
                       <a href="produk.php">
