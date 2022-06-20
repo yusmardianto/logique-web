@@ -147,32 +147,32 @@ ini_set('display_error', 0);
                 </div>
               </div>
               <div class="row flex__row homepage-hero__card">
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/layanan/pembuatan-progressive-web-app.php" class="div-service-cat">
                     <img src="img/home/apk-web.png" alt="Jasa Pembuatan Website" class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Aplikasi Web</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/layanan/pembuatan-aplikasi-mobile.php" class="div-service-cat">
                     <img src="img/home/apk.png" alt="Jasa Pembuatan Aplikasi" class="img-responsive" />
                     <h2>Jasa Pembuatan <br />Aplikasi</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/layanan/pembuatan-sistem-web.php" class="div-service-cat">
                     <img src="img/home/sistem-web.png" alt="Jasa Pembuatan Sistem Web" class="img-responsive" />
                     <h2>Jasa Pembuatan<br />Sistem Web</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/layanan/penetration-test.php" class="div-service-cat">
                     <img src="img/home/pentest.png" alt="Jasa Penetration Testing" class="img-responsive" />
                     <h2>Jasa Penetration<br />Testing</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
               </div>
@@ -277,6 +277,17 @@ ini_set('display_error', 0);
                     </picture>
                   </a><br><br>
                   <p>LOGIQUE berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web, pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu meningkatkan produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini</p>
+                  <br><br>
+                  <div class="flex__row">
+                    <div class="col-sm-3 col-xs-12 row__item">
+                      <p>See More</p>
+                    </div><br><br>
+                    <div class="col-sm-9 col-xs-12 row__item">
+                      <a href="layanan.php">
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                      </a>
+                    </div>
+                  </div>
                 </div>
                 <div class="col-sm-6 col-xs-12 row__item">
                   <h3 class="section-title">Kami Menyediakan <b>Solusi DX</b> yang Komprehensif</h3><br><br>
@@ -286,7 +297,18 @@ ini_set('display_error', 0);
                       <img src="/img/home/DXProvide.jpg" alt="" width="100%" loading="lazy">
                     </picture>
                   </a><br><br>
-                  <p>LOGIQUE adalah perusahaan konsultan transformasi digital. Kami akan mendukung Anda dalam meningkatkan layanan yang ada dan menciptakan layanan baru dengan mengubah bisnis Anda menjadi bisnis yang terdigitalisasi dan produktif. Kami dapat mendukung Anda dalam konsultasi, pengembangan, operasi dan pemeliharaan, dan juga menyediakan sumber daya manusia digital. Kami juga memiliki solusi agar Anda dapat memiliki tenaga kerja DX internal.</p>
+                  <p>LOGIQUE adalah perusahaan konsultan transformasi Digital. Kami akan mendukung Anda untuk meningkatkan layanan yang Anda miliki saat ini serta mengembangkan layanan baru dengan mengubah Bisnis Anda menjadi bisnis yang terdigitalisasi dan produktif. Kami dapat mendukung Anda mulai dari konsultasi, pengembangan, pengelolaan dan pemeliharaan, hingga menyediakan sumber daya manusia dalam bidang digital yang profesional. Kami juga memiliki solusi agar Anda bisa memiliki tenaga kerja DX internal yang handal.</p>
+                  <br><br>
+                  <div class="flex__row">
+                    <div class="col-sm-3 col-xs-12 row__item">
+                      <p>See More</p>
+                    </div><br><br>
+                    <div class="col-sm-9 col-xs-12 row__item">
+                      <a href="produk.php">
+                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                      </a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

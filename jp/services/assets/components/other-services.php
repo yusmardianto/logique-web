@@ -62,29 +62,29 @@
             <div class="col-sm-3">
                 <a href="/jp/services/web-dev.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-web-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>Webサイト制作</h4>
-                    <p>インドネシア市場でコンバージョンの出る効果的なWebサイトを制作運用しています。</p>
+                    <h4>Web制作運用サービス</h4>
+                    <p>LOGIQUEは、インドネシアにてBtoBからBtoCサイトまで200超のWebを制作運用してきました。</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/jp/services/mobile-app-dev.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-mobile.jpg" alt="" class="img-responsive"> -->
-                    <h4>スマホアプリ開発</h4>
-                    <p>iOS、Androidアプリの開発の他にPWAの開発も得意にしています。</p>
+                    <h4>デジタルマーケティング運用</h4>
+                    <p>インドネシア市場への深い理解をもって、インターネット広告運用、ソーシャルメディア運用など行います。</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/jp/services/system-dev.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-system-dev.jpg" alt="" class="img-responsive"> -->
-                    <h4>システム構築運用</h4>
-                    <p>CRM、予約管理システム、ECサイト構築など様々なWebシステム開発が可能です。</p>
+                    <h4>SEO対策</h4>
+                    <p>インドネシア語でのSEO対策の豊富な実績をもって、オーガニックトラフィックを増加させます。</p>
                 </a>
             </div>
             <div class="col-sm-3">
                 <a href="/jp/services/penetration-test.php" class="list__item">
                     <!-- <img src="/en/services/assets/img/img-digital-marketing/other-pentest.jpg" alt="" class="img-responsive"> -->
-                    <h4>セキュリティ脆弱性検査</h4>
-                    <p>WebサイトやWeb・モバイルAppのセキュリティテストを行い、脆弱性をレポートします。</p>
+                    <h4>クラウドサーバー管理運用</h4>
+                    <p>DevOpsサービスを提供しています。インドネシアリージョンをもつAWS、GCPなどクラウド環境の運用管理を行います。</p>
                 </a>
             </div>
         </div>

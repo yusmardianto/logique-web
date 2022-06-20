@@ -97,36 +97,36 @@
                                 </div>
                             </div>
                             <div class="row  homepage-hero__card flex__row ">
-                                <div class="col-md-3 col-xs-6" align="center">
+                                <div class="col-md-3 col-xs-6" align="left">
                                     <a href="/en/services/progressive-web-app-dev.php" class="div-service-cat">
                                         <img src="../img/home/apk-web.png" alt="Website Production Service"
                                             class="img-responsive" />
                                         <h2>Web App (PWA) Development</h2>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                     </a>
                                 </div>
-                                <div class="col-md-3 col-xs-6" align="center">
+                                <div class="col-md-3 col-xs-6" align="left">
                                     <a href="/en/services/mobile-app-dev.php" class="div-service-cat">
                                         <img src="../img/home/apk.png" alt="Apps Development Service"
                                             class="img-responsive" />
                                         <h2>Apps Development Service</h2>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                     </a>
                                 </div>
-                                <div class="col-md-3 col-xs-6" align="center">
+                                <div class="col-md-3 col-xs-6" align="left">
                                     <a href="/en/services/system-dev.php" class="div-service-cat">
                                         <img src="../img/home/sistem-web.png" alt="Web System Development Service"
                                             class="img-responsive" />
                                         <h2>Web System Development Service</h2>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                     </a>
                                 </div>
-                                <div class="col-md-3 col-xs-6" align="center">
+                                <div class="col-md-3 col-xs-6" align="left">
                                     <a href="/en/services/penetration-test.php" class="div-service-cat">
                                         <img src="../img/home/pentest.png" alt="Penetration Testing Service"
                                             class="img-responsive" />
                                         <h2>Penetration Testing Service</h2>
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                        <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                     </a>
                                 </div>
                             </div>
@@ -317,23 +317,45 @@
                         <div class="flex__row">
                             <div class="col-sm-6 col-xs-12 row__item">
                                 <h3 class="section-title">We Provide <b>HR-Tech Solutions</b> In Indonesia</h3><br><br>
-                                <a href="layanan.php">
+                                <a href="services.php">
                                     <picture>
                                     <source srcset="/img/home/HRProvide.webp" width="100%" type="image/webp">
                                     <img src="/img/home/HRProvide.jpg" alt="" width="100%" loading="lazy">
                                     </picture>
                                 </a><br><br>
                                 <p>LOGIQUE is committed to contributing to Indonesia's rapidly growing IT industry (SI, Web system development, digital marketing, etc.), having developed three internal systems to assist with increasing employee productivity & efficiency, and to simplify the recruitment process in regards to potential candidate evaluation. Upon integrating these products within our own company, we have found a very apparent & significant improvement, resulting in our decision to put these products up for sale</p>
+                                <br><br>
+                                <div class="flex__row">
+                                    <div class="col-sm-3 col-xs-12 row__item">
+                                    <p>See More</p>
+                                    </div><br><br>
+                                    <div class="col-sm-9 col-xs-12 row__item">
+                                    <a href="layanan.php">
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                                    </a>
+                                    </div>
+                                </div>
                             </div>
                             <div class="col-sm-6 col-xs-12 row__item">
-                            <h3 class="section-title">We Provide a Comprehensive <b>DX solution</b></h3><br><br><br>
-                            <a href="produk.php">
-                                <picture>
-                                <source srcset="/img/home/DXProvide.webp" width="100%" type="image/webp">
-                                <img style="margin-top:12px" src="/img/home/DXProvide.jpg" alt="" width="100%" loading="lazy">
-                                </picture>
-                            </a><br><br>
-                            <p>LOGIQUE  is a Digital transformation consulting firm. We will support you in improving your existing service and creating new services by transforming your business into a digitalized and productive business. We can support you in consulting, development, operation and maintenance, and also provide digital human resources. We also have a solution that you can have in-house DX work force.</p>
+                                <h3 class="section-title">We Provide a Comprehensive <b>DX solution</b></h3><br><br><br>
+                                <a href="produk.php">
+                                    <picture>
+                                    <source srcset="/img/home/DXProvide.webp" width="100%" type="image/webp">
+                                    <img style="margin-top:12px" src="/img/home/DXProvide.jpg" alt="" width="100%" loading="lazy">
+                                    </picture>
+                                </a><br><br>
+                                <p>LOGIQUE  is a Digital transformation consulting firm. We will support you in improving your existing service and creating new services by transforming your business into a digitalized and productive business. We can support you in consulting, development, operation and maintenance, and also provide digital human resources. We also have a solution that you can have in-house DX work force.</p>
+                                <br><br><br><br>
+                                <div class="flex__row">
+                                    <div class="col-sm-3 col-xs-12 row__item">
+                                    <p>See More</p>
+                                    </div><br><br>
+                                    <div class="col-sm-9 col-xs-12 row__item">
+                                    <a href="product.php">
+                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                                    </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         </div>

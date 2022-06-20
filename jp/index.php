@@ -132,34 +132,34 @@
                 </div>
               </div>
               <div class="row homepage-hero__card flex__row ">
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/jp/services/progressive-web-app-dev.php" class="div-service-cat">
                     <img src="../img/home/apk-web.png" alt="Website Creation Service"
                       class="center-block img-responsive" />
-                    <h2>Webアプリ(PWA)開発</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Webアプリ(PWA)開発</h2><br>
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/jp/services/mobile-app-dev.php" class="div-service-cat">
                     <img src="../img/home/apk.png" alt="Mobile App Service" class="center-block img-responsive" />
                     <h2>スマホ / モバイルApp開発 </h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/jp/services/system-dev.php" class="div-service-cat">
                     <img src="../img/home/sistem-web.png" alt="Web System" class="center-block img-responsive" />
-                    <h2>Webシステム開発</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Webシステム開発</h2><br>
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6" align="center">
+                <div class="col-md-3 col-xs-6" align="left">
                   <a href="/jp/services/penetration-test.php" class="div-service-cat">
                     <img src="../img/home/pentest.png" alt="Security and Penetration Testing Service"
                       class="center-block img-responsive" />
                     <h2>Webセキュリティ脆弱性テスト</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <p style="margin-top:15px; color:black">See More</p> <img style="margin-top:-18px; margin-left:100px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                   </a>
                 </div>
               </div>
@@ -255,6 +255,17 @@
                     </picture>
                   </a><br><br>
                   <p>HRをインドネシアで現代風にDigitalに運用するためのDigitalソリューションを提供しています。3プロダクトとも元々は当社の内部管理用に独自に開発したツールです。大きな効果を出すことに成功しましたので、この3つのシステムツールを製品として販売することにしました。Dokodemo-Kerjaは在インドネシアの日系企業にも多くご利用いただいています。</p>
+                  <br><br>
+                    <div class="flex__row">
+                      <div class="col-sm-3 col-xs-12 row__item">
+                        <p>See More</p>
+                        </div><br><br>
+                        <div class="col-sm-9 col-xs-12 row__item">
+                          <a href="layanan.php">
+                            <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                        </a>
+                      </div>
+                    </div>
                 </div>
                 <div class="col-sm-6 col-xs-12 row__item">
                   <h3 class="section-title">包括的な<b>DXソ</b>リューションを提供します。</h3><br><br>
@@ -265,6 +276,17 @@
                     </picture>
                   </a><br><br>
                   <p>インドネシアで10年以上、IT/DXコンサルティングサービスを提供してきました。80名以上の各種スペシャリストを抱えているのでコンサルティングから実装・運用までワンストップでご提供できます。豊富な経験を活かしてクライアントのDigital化課題を解決していきます。</p>
+                  <br><br><br><br>
+                    <div class="flex__row">
+                      <div class="col-sm-3 col-xs-12 row__item">
+                        <p>See More</p>
+                        </div><br><br>
+                        <div class="col-sm-9 col-xs-12 row__item">
+                          <a href="layanan.php">
+                            <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:-50px"class="img-responsive right-arrow">
+                        </a>
+                      </div>
+                    </div>
                 </div>
               </div>
             </div>
@@ -489,12 +511,12 @@
       </section>
     
     </div>
-    <!-- <div class="content-wrapper__"> 
+    <div class="content-wrapper__"> 
       <section class="content-article  bg--white"  >
           <?php //include 'services/assets/components/dm-links.php' ?>
-          <?php //include 'services/assets/components/other-services.php' ?>
+          <?php include 'services/assets/components/other-services.php' ?>
         </section>
-    </div> -->
+    </div>
   </div>
     <?php include 'footer.php';?>
     <script src="/js/modernizr-custom.js"></script>                                
