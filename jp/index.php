@@ -181,13 +181,13 @@
           <a href="/jp/services/dx-dm-service.php">
             <picture>
               <!-- webp -->
-              <source media="(max-width: 576px)" srcset="/img/home/JPbanner.webp" type="image/webp">
-              <source media="(min-width: 576px)" srcset="/img/home/JPbanner.webp" type="webp">
+              <source media="(max-width: 576px)" srcset="/img/home/JPBanner.webp" type="image/webp">
+              <source media="(min-width: 576px)" srcset="/img/home/JPBanner.webp" type="webp">
 
               <!-- jpeg -->
-              <source media="(max-width: 576px)" srcset="/img/home/JPbanner.png" type="image/jpeg">
-              <source media="(min-width: 576px)" srcset="/img/home/JPbanner.png" type="image/jpeg">
-              <img srcset="/img/home/JPbanner.png 576w" sizes="(max-width: 576px) 576px" src="/img/home/JPbanner.png" alt="" class="img-responsive" style="width: 100%;">
+              <source media="(max-width: 576px)" srcset="/img/home/JPBanner.png" type="image/jpeg">
+              <source media="(min-width: 576px)" srcset="/img/home/JPBanner.png" type="image/jpeg">
+              <img srcset="/img/home/JPBanner.png 576w" sizes="(max-width: 576px) 576px" src="/img/home/JPBanner.png" alt="" class="img-responsive" style="width: 100%;">
             </picture>
           </a>
         </div>
