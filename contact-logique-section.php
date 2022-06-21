@@ -6,9 +6,14 @@
                 <p>LOGIQUE siap membantu Anda.</p>
                 <br>
                 <hr class="title__yellow-line">
-                <img src="../img/contact.png" style="width:100%" alt="contact">
+                <div align="center">
+                    <img src="../img/logique/Saly-19Rev.png" style="width:60%" alt="contact"><br><br>
+                    <p><b>LOGIQUE siap membantu Anda.</b></p>
+                    <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
+                        LOGIQUE</a>
+                </div>
             </div>
-            <div class="col-sm-7">
+            <div class="col-sm-7"><br><br><br><br>
                 <ul class="lgq-does__list">
                     <li>Saya ingin memperkenalkan sistem kerja jarak jauh untuk perusahaan Indonesia</li>
                     <li>Saya ingin meningkatkan transparansi sistem absensi karyawan</li>
@@ -21,8 +26,6 @@
                     <li>Saya ingin sistem SDM yang meningkatkan komunikasi internal</li>
                     <li>Saya ingin menyederhanakan aktivitas perekrutan dan menghilangkan resume kertas dengan menggunakan TI</li>
                 </ul>
-                <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
-                    LOGIQUE</a>
             </div>
         </div>
     </div>

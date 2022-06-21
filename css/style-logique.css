@@ -171,25 +171,10 @@
 
 .director__message {
     padding: 8%;
-    border: solid 1px #fff;
     height: 730px;
     overflow-y: auto;
-    overflow-x: hidden;
-}
-
-.director__message::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-    background-color: #000;
-    border: solid 1px #fff;
-}
-
-.director__message::-webkit-scrollbar {
-    width: 20px;
-    background-color: #000;
-}
-
-.director__message::-webkit-scrollbar-thumb {
-    background-color: #464646;
+    scrollbar-color: #ffca00 #2e2e2e;
+    scrollbar-width: thin;
 }
 
 @media (max-width: 991.98px) {
@@ -269,4 +254,28 @@
     .custombox__slider-text {
         font-size: 10px;
     }
+}
+
+@media (max-width: 468px) {
+    .portfolio-update .portfolio__banner {
+        background: url(../img/logique/bg-banner.jpg) center/cover no-repeat;
+    }
+}
+
+.bg--grey{
+    background-color: #f6f6f6;
+     padding: 20px;
+   border-radius: 10px;
+}
+
+.bg--dark{
+    background-color: #000000;
+    padding: 10px;
+    color: #fff;
+}
+
+.bg--orange{
+    background-color: #ffe700;
+    padding: 5px;
+    border-radius: 10px;
 }
