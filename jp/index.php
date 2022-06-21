@@ -199,11 +199,11 @@
           <div class="row">
             <div class="col-md-6">
               <p>Web・ホームページ制作、ECサイト構築、自動車産業向けシステム開発、スマホアプリ開発、採用管理システムやCRMシステムなどインドネシア内でのIT・DXコンサルティングから制作開発運用までワンストップでサービス提供しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にデジタル/ITを活用して貢献します。</p>
-              <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; height:50px; color: #111;">
-                <a href="portfolio.php">  
-                  <p style="margin-top:-0px; margin-left:10px; color:black">See More</p> <img style="margin-top:-38px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </a>
-              </div>
+              <a href="porfolio.php">
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                  <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-40px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
+              </a>
             </div>
             <div class="col-md-6">
               <picture>
@@ -260,7 +260,7 @@
               <div class="flex__row">
                 <div class="col-sm-6 col-xs-12 row__item">
                   <h3 class="section-title">インドネシアで<b>HRテック</b>ソリューションを提供しています。</h3><br><br>
-                  <a href="layanan.php">
+                  <a href="services.php">
                     <picture>
                       <source srcset="/img/home/HRProvide.webp" width="100%" type="image/webp">
                       <img src="/img/home/HRProvide.jpg" alt="" width="100%" loading="lazy">
@@ -268,20 +268,15 @@
                   </a><br><br>
                   <p>HRをインドネシアで現代風にDigitalに運用するためのDigitalソリューションを提供しています。3プロダクトとも元々は当社の内部管理用に独自に開発したツールです。大きな効果を出すことに成功しましたので、この3つのシステムツールを製品として販売することにしました。Dokodemo-Kerjaは在インドネシアの日系企業にも多くご利用いただいています。</p>
                   <br><br>
-                    <div class="flex__row">
-                      <div style="margin-left:15px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; color: #111;" class="col-sm-3 col-xs-12 row__item">
-                        <p>See More</p>
-                      </div><br><br>
-                      <div class="col-sm-9 col-xs-12 row__item">
-                        <a href="layanan.php">
-                          <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:-28px; margin-left:110px" class="img-responsive right-arrow">
-                        </a>
-                      </div>
+                  <a href="services.php">
+                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                      <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
-                  </div>
+                  </a>
+                </div>
                 <div class="col-sm-6 col-xs-12 row__item">
                   <h3 class="section-title">包括的な<b>DXソ</b>リューションを提供します。</h3><br><br>
-                  <a href="produk.php">
+                  <a href="product.php">
                     <picture>
                       <source srcset="/img/home/DXProvide.webp" width="100%" type="image/webp">
                       <img style="margin-top:40px"src="/img/home/DXProvide.jpg" alt="" width="100%" loading="lazy">
@@ -289,16 +284,11 @@
                   </a><br><br>
                   <p>インドネシアで10年以上、IT/DXコンサルティングサービスを提供してきました。80名以上の各種スペシャリストを抱えているのでコンサルティングから実装・運用までワンストップでご提供できます。豊富な経験を活かしてクライアントのDigital化課題を解決していきます。</p>
                   <br><br><br><br>
-                  <div class="flex__row">
-                    <div style="margin-left:15px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; color: #111;" class="col-sm-3 col-xs-12 row__item">
-                      <p>See More</p>
-                    </div><br><br>
-                    <div class="col-sm-9 col-xs-12 row__item">
-                      <a href="layanan.php">
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:-28px; margin-left:110px" class="img-responsive right-arrow">
-                      </a>
+                  <a href="product.php">
+                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                      <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
-                  </div>
+                  </a>
                 </div>
               </div>
             </div>

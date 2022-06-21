@@ -168,11 +168,11 @@
                             <p>We are committed to producing a variety of high quality digital products for our clients which conform to an international standard of excellence.
                             <br><br>
                             We are trustworthy experts and can work flexibly according to your specific requests. Working with us and utilizing the best solutions provided by our team is an opportunity to grow and improve your business’s overall profits in a digitalized age.</p>
-                            <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; height:50px; color: #111;">
-                                <a href="portfolio.php">  
-                                <p style="margin-top:-0px; margin-left:10px; color:black">Detail</p> <img style="margin-top:-38px; margin-left:80px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                                </a>
-                            </div>
+                            <a href="porfolio.php">
+                                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                                <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-40px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
                             <picture>
@@ -337,16 +337,11 @@
                                 </a><br><br>
                                 <p>LOGIQUE is committed to contributing to Indonesia's rapidly growing IT industry (SI, Web system development, digital marketing, etc.), having developed three internal systems to assist with increasing employee productivity & efficiency, and to simplify the recruitment process in regards to potential candidate evaluation. Upon integrating these products within our own company, we have found a very apparent & significant improvement, resulting in our decision to put these products up for sale</p>
                                 <br><br>
-                                <div class="flex__row">
-                                    <div style="margin-left:15px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; color: #111;" class="col-sm-3 col-xs-12 row__item">
-                                        <p>See More</p>
-                                    </div><br><br>
-                                    <div class="col-sm-9 col-xs-12 row__item">
-                                    <a href="layanan.php">
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:-28px; margin-left:110px" class="img-responsive right-arrow">
-                                    </a>
+                                <a href="services.php">
+                                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                                    <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                     </div>
-                                </div>
+                                </a>
                             </div>
                             <div class="col-sm-6 col-xs-12 row__item">
                                 <h3 class="section-title">We Provide a Comprehensive <b>DX solution</b></h3><br><br><br>
@@ -358,16 +353,11 @@
                                 </a><br><br>
                                 <p>LOGIQUE  is a Digital transformation consulting firm. We will support you in improving your existing service and creating new services by transforming your business into a digitalized and productive business. We can support you in consulting, development, operation and maintenance, and also provide digital human resources. We also have a solution that you can have in-house DX work force.</p>
                                 <br><br><br><br>
-                                <div class="flex__row">
-                                    <div style="margin-left:15px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; color: #111;" class="col-sm-3 col-xs-12 row__item">
-                                        <p>See More</p>
-                                    </div><br><br>
-                                    <div class="col-sm-9 col-xs-12 row__item">
-                                    <a href="product.php">
-                                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:-28px; margin-left:110px" class="img-responsive right-arrow">
-                                    </a>
+                                <a href="product.php">
+                                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                                    <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                                     </div>
-                                </div>
+                                </a>
                             </div>
                         </div>
                         </div>

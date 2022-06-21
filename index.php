@@ -215,11 +215,11 @@ ini_set('display_error', 0);
                 <br><br>
                 Kami telah bekerja dengan banyak perusahaan internasional maupun lokal ternama, memenuhi berbagai permintaan, seperti pembuatan sistem lelang online, E-commerce, sistem rekrutmen karyawan, e-money, berbagai aplikasi internal perusahaan, dan pengoperasian iklan digital.
               </p>
-              <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:150px; height:50px; color: #111;">
-                <a href="portofolio.php">  
-                  <p style="margin-top:-0px; margin-left:10px; color:black">Detail</p> <img style="margin-top:-38px; margin-left:80px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
-                </a>
-              </div>
+              <a href="porofolio.php">
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                  <p style="margin-top:-10px; color:black">Detail</p> <img style="margin-top:-40px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
+              </a>
             </div>
             <div class="col-md-6">
               <picture>
@@ -290,16 +290,11 @@ ini_set('display_error', 0);
                   </a><br><br>
                   <p>LOGIQUE berkomitmen untuk berkontribusi pada industri TI di Indonesia (SI, pengembangan sistem Web, pemasaran digital, dll.). Kami telah mengembangkan tiga sistem internal untuk membantu meningkatkan produktivitas dan efisiensi karyawan, serta untuk menyederhanakan proses rekrutmen dan memudahkan evaluasi kandidat. Kami telah mengaplikasikan produk-produk ini di perusahaan kami sendiri, hasilnya terjadi peningkatan yang sangat nyata dan drastis sehingga kami memutuskan untuk menjual produk-produk ini</p>
                   <br><br>
-                  <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:160px; color: #111;" class="flex__row">
-                    <div class="col-sm-3 col-xs-12 row__item">
-                      <p>Detail</p>
-                    </div><br><br>
-                    <div class="col-sm-9 col-xs-12 row__item">
-                      <a href="layanan.php">
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:40px" class="img-responsive right-arrow">
-                      </a>
+                  <a href="layanan.php">
+                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                      <p style="margin-top:-10px; color:black">Detail</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
-                  </div>
+                  </a>
                 </div>
                 <div class="col-sm-6 col-xs-12 row__item">
                   <h3 class="section-title">Kami Menyediakan <b>Solusi DX</b> yang Komprehensif</h3><br><br>
@@ -311,16 +306,11 @@ ini_set('display_error', 0);
                   </a><br><br>
                   <p>LOGIQUE adalah perusahaan konsultan transformasi Digital. Kami akan mendukung Anda untuk meningkatkan layanan yang Anda miliki saat ini serta mengembangkan layanan baru dengan mengubah Bisnis Anda menjadi bisnis yang terdigitalisasi dan produktif. Kami dapat mendukung Anda mulai dari konsultasi, pengembangan, pengelolaan dan pemeliharaan, hingga menyediakan sumber daya manusia dalam bidang digital yang profesional. Kami juga memiliki solusi agar Anda bisa memiliki tenaga kerja DX internal yang handal.</p>
                   <br><br>
-                  <div style="margin-left:2px; background: #ffca13; border-radius: 8px; padding: 7px 20px; width:160px; color: #111;" class="flex__row">
-                    <div class="col-sm-3 col-xs-12 row__item">
-                      <p>Detail</p>
-                    </div><br><br>
-                    <div class="col-sm-9 col-xs-12 row__item">
-                      <a href="layanan.php">
-                        <img src="/img/top/right-arrow.svg" width="18px" alt="" style="margin-top:7px; margin-left:40px"class="img-responsive right-arrow">
-                      </a>
+                  <a href="produk.php">
+                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                      <p style="margin-top:-10px; color:black">Detail</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
                     </div>
-                  </div>
+                  </a>
                 </div>
               </div>
             </div>
