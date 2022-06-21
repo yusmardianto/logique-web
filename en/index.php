@@ -146,16 +146,7 @@
             <section class="bg--white">
                 <div class="container__">
                     <a href="/en/services/dx-dm-service.php">
-                        <picture>
-                            <!-- webp -->
-                            <source media="(max-width: 576px)" srcset="/img/bannerID.webp" type="image/webp">
-                            <source media="(min-width: 576px)" srcset="/img/bannerID.webp" type="webp">
-
-                            <!-- jpeg -->
-                            <source media="(max-width: 576px)" srcset="/img/bannerID.png" type="image/jpeg">
-                            <source media="(min-width: 576px)" srcset="/img/bannerID.png" type="image/jpeg">
-                            <img srcset="/img/bannerID.png 576w" sizes="(max-width: 576px) 576px" src="/img/dx-dm-banner-id.jpg" alt="" class="img-responsive" style="width: 100%;">
-                        </picture>
+                        <img srcset="/img/home/ENBanner.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/home/ENBanner.jpg" alt="" class="img-responsive" style="width: 100%;">
                     </a>
                 </div>
             </section>

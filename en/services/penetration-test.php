@@ -1114,7 +1114,7 @@
         <section class="layanan-lain">
         <div class="container__">
             <div class="title">
-            <h4 class="section-title"><b>Optional Services</b></h4>
+            <h4 class="section-title"><b>Optional Web Security Services</b></h4>
             <img src="/img/dtech.png" /><br>
             <p>
                 LOGIQUE has collaborated with PT Dtechcorp Konsultindo Prima (Dtechcorp Consulting), an experienced consulting agency registered with the BSSN (National Cyber ​​& Crypto Agency) and KOMINFO (Ministry of Communication and Information Technology), so as to meet the needs & standards of the POJK-based information technology (IT) security auditing services. We also provide consultation services for any clients aiming to obtain an ISO certification.
