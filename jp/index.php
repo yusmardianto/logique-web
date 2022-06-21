@@ -132,34 +132,42 @@
                 </div>
               </div>
               <div class="row homepage-hero__card flex__row ">
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/jp/services/progressive-web-app-dev.php" class="div-service-cat">
-                    <img src="/img/top/i-top1.svg" alt="Website Creation Service"
+                    <img src="../img/home/apk-web.png" alt="Website Creation Service"
                       class="center-block img-responsive" />
-                    <h2>Webアプリ(PWA)開発</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Webアプリ(PWA)開発</h2><br><br>
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; height:40px; color: #111;">
+                      <p style="color:black; margin-left:-30px">See More</p> <img style="margin-top:-20px; margin-left:70px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/jp/services/mobile-app-dev.php" class="div-service-cat">
-                    <img src="/img/top/i-top2.svg" alt="Mobile App Service" class="center-block img-responsive" />
-                    <h2>スマホ / モバイルApp開発 </h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <img src="../img/home/apk.png" alt="Mobile App Service" class="center-block img-responsive" />
+                    <h2>スマホ / モバイルApp開発 </h2><br>
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; height:40px; color: #111;">
+                      <p style="color:black; margin-left:-30px">See More</p> <img style="margin-top:-20px; margin-left:70px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/jp/services/system-dev.php" class="div-service-cat">
-                    <img src="/img/top/i-top3.svg" alt="Web System" class="center-block img-responsive" />
-                    <h2>Webシステム開発</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <img src="../img/home/sistem-web.png" alt="Web System" class="center-block img-responsive" />
+                    <h2>Webシステム開発</h2><br><br>
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; height:40px; color: #111;">
+                      <p style="color:black; margin-left:-30px">See More</p> <img style="margin-top:-20px; margin-left:70px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
-                <div class="col-md-3 col-xs-6">
+                <div class="col-md-3 col-xs-6" align="center">
                   <a href="/jp/services/penetration-test.php" class="div-service-cat">
-                    <img src="/img/top/i-top4.svg" alt="Security and Penetration Testing Service"
+                    <img src="../img/home/pentest.png" alt="Security and Penetration Testing Service"
                       class="center-block img-responsive" />
-                    <h2>Webセキュリティ脆弱性テスト</h2>
-                    <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    <h2>Webセキュリティ脆弱性テスト</h2><br>
+                    <div style="background: #ffca13; border-radius: 8px; padding: 7px 20px; width:120px; height:40px; color: #111;">
+                      <p style="color:black; margin-left:-30px">See More</p> <img style="margin-top:-20px; margin-left:70px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
                   </a>
                 </div>
               </div>
@@ -172,8 +180,14 @@
         <div class="container__">
           <a href="/jp/services/dx-dm-service.php">
             <picture>
-              <source srcset="/img/dx-dm-banner.webp" type="image/webp">
-              <img src="/img/dx-dm-banner.jpg" alt="" class="img-responsive">
+              <!-- webp -->
+              <source media="(max-width: 576px)" srcset="/img/home/JPBanner.webp" type="image/webp">
+              <source media="(min-width: 576px)" srcset="/img/home/JPBanner.webp" type="webp">
+
+              <!-- jpeg -->
+              <source media="(max-width: 576px)" srcset="/img/home/JPBanner.png" type="image/jpeg">
+              <source media="(min-width: 576px)" srcset="/img/home/JPBanner.png" type="image/jpeg">
+              <img srcset="/img/home/JPBanner.png 576w" sizes="(max-width: 576px) 576px" src="/img/home/JPBanner.png" alt="" class="img-responsive" style="width: 100%;">
             </picture>
           </a>
         </div>
@@ -185,7 +199,11 @@
           <div class="row">
             <div class="col-md-6">
               <p>Web・ホームページ制作、ECサイト構築、自動車産業向けシステム開発、スマホアプリ開発、採用管理システムやCRMシステムなどインドネシア内でのIT・DXコンサルティングから制作開発運用までワンストップでサービス提供しています。今後もインドネシア、ASEAN諸国や日本のお客様のビジネス発展にデジタル/ITを活用して貢献します。</p>
-              <a href="portfolio.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
+              <a href="porfolio.php">
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                  <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-40px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
+              </a>
             </div>
             <div class="col-md-6">
               <picture>
@@ -199,7 +217,7 @@
 
       <section class="solution bg--white">
         <div class="container__">
-          <h3 class="section-title">インドネシアで<span class="title-index--bold">HRテック</span>ソリューションを提供しています。</h3>
+          <!-- <h3 class="section-title">インドネシアで<span class="title-index--bold">HRテック</span>ソリューションを提供しています。</h3>
           <p>インドネシアのIT（SI、Web制作開発 · デジタルマーケティ ング）業界の発展に貢献したいと考えています。 当社で働くデザイナー, プラグラマー, デジタルマーケッターが気持ちよく, 効率的に働けるように, また当社HR部門が効果的な採用活動と人事評価ができように、社内向けに3つのシステムツールの開発をして, 実際に使ってきました. 大きな効果を出すことに成功しましたので この3つのシステムツールを製品として販売することにいたしました。</p>
 
           <div class="flex__row">
@@ -236,9 +254,56 @@
                 <a href="product/sugoi-saiyo.php"><img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow"></a>
               </div>
             </div>
-          </div>
+          </div> -->
+          <section class="see-list bg--white">
+            <div class="container__">
+              <div class="flex__row">
+                <div class="col-sm-6 col-xs-12 row__item">
+                  <h3 class="section-title">インドネシアで<b>HRテック</b>ソリューションを提供しています。</h3><br><br>
+                  <a href="services.php">
+                    <picture>
+                      <source srcset="/img/home/HRProvide.webp" width="100%" type="image/webp">
+                      <img src="/img/home/HRProvide.jpg" alt="" width="100%" loading="lazy">
+                    </picture>
+                  </a><br><br>
+                  <p>HRをインドネシアで現代風にDigitalに運用するためのDigitalソリューションを提供しています。3プロダクトとも元々は当社の内部管理用に独自に開発したツールです。大きな効果を出すことに成功しましたので、この3つのシステムツールを製品として販売することにしました。Dokodemo-Kerjaは在インドネシアの日系企業にも多くご利用いただいています。</p>
+                  <br><br>
+                  <a href="services.php">
+                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                      <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-sm-6 col-xs-12 row__item">
+                  <h3 class="section-title">包括的な<b>DXソ</b>リューションを提供します。</h3><br><br>
+                  <a href="product.php">
+                    <picture>
+                      <source srcset="/img/home/DXProvide.webp" width="100%" type="image/webp">
+                      <img style="margin-top:40px"src="/img/home/DXProvide.jpg" alt="" width="100%" loading="lazy">
+                    </picture>
+                  </a><br><br>
+                  <p>インドネシアで10年以上、IT/DXコンサルティングサービスを提供してきました。80名以上の各種スペシャリストを抱えているのでコンサルティングから実装・運用までワンストップでご提供できます。豊富な経験を活かしてクライアントのDigital化課題を解決していきます。</p>
+                  <br><br><br><br>
+                  <a href="product.php">
+                    <div class="col-sm-4" style="background: #ffca13; border-radius: 8px; padding: 15px 20px; color: #111;">
+                      <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </section>
         </div>
       </section>
+
+      <section class="bg--white">
+        <div class="container__">
+          <a href="https://dokodemo-kerja.com/">
+            <img srcset="/img/home/DokodemoBannerJP.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/home/DokodemoBannerJP.jpg" alt="" class="img-responsive" style="width: 100%;">
+          </a>
+        </div>
+      </section>
+
       <section class="case-study bg--white">
         <div class="container__">
           <h3 class="section-title">ケーススタディ</h3>
@@ -301,42 +366,50 @@
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="services.php" class="item item--service">
                 <picture>
-                  <source srcset="/img/service.webp">
-                  <img src="/img/service.png" alt="" loading="lazy">
+                  <source srcset="/img/home/service.webp" width="20%" type="image/webp">
+                  <img src="/img/home/service.png" alt="" width="20%" loading="lazy">
                 </picture>
-                <h3>サービスを詳しくみる</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <h3 style="margin-top:20px">サービスを詳しくみる</h3>
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                  <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="product.php" class="item item--product">
                 <picture>
-                  <source srcset="/img/product.webp">
-                  <img src="/img/product.png" alt="" loading="lazy">
+                  <source srcset="/img/home/product.webp" width="20%" type="image/webp">
+                  <img src="/img/home/product.png" alt="" width="20%" loading="lazy">
                 </picture>
-                <h3>製品について確認する</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <h3 style="margin-top:20px">製品について確認する</h3>
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                  <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div> 
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="/jp/contact.php" class="item item--contact">
-              <picture>
-                  <source srcset="/img/smartphone.webp" type="image/webp">
-                  <img src="/img/smartphone.png"   alt=""  loading="lazy">
+                <picture>
+                  <source srcset="/img/home/texting.webp" width="20%" type="image/webp">
+                  <img src="/img/home/texting.png" alt="" width="20%" loading="lazy">
                 </picture>
                  
-                <h3>お問い合わせ</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <h3 style="margin-top:20px">お問い合わせ</h3>
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                  <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div>
             <div class="col-sm-6 col-xs-12 row__item">
               <a href="/career/" class="item item--career">
-              <picture>
-                  <source srcset="/img/businessman.webp" type="image/webp">
-                  <img src="/img/businessman.png"   alt=""  loading="lazy">
-                </picture> 
-                <h3>採用/パートナー</h3>
-                <img src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                <picture>
+                  <source srcset="/img/home/career.webp" width="20%" type="image/webp">
+                  <img src="/img/home/career.png" alt="" width="20%" loading="lazy">
+                </picture>
+                <h3 style="margin-top:20px">採用/パートナー</h3>
+                <div style="background: #ffca13; border-radius: 8px; padding: 15px 20px; width:150px; color: #111;">
+                  <p style="margin-top:-10px; color:black">See More</p> <img style="margin-top:-20px; margin-left:90px" src="/img/top/right-arrow.svg" width="18px" alt="" class="img-responsive right-arrow">
+                </div>
               </a>
             </div>           
           </div>
@@ -457,12 +530,12 @@
       </section>
     
     </div>
-    <!-- <div class="content-wrapper__"> 
+    <div class="content-wrapper__"> 
       <section class="content-article  bg--white"  >
           <?php //include 'services/assets/components/dm-links.php' ?>
-          <?php //include 'services/assets/components/other-services.php' ?>
+          <?php include 'services/assets/components/other-services.php' ?>
         </section>
-    </div> -->
+    </div>
   </div>
     <?php include 'footer.php';?>
     <script src="/js/modernizr-custom.js"></script>                                

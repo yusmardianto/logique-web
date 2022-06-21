@@ -32,6 +32,7 @@
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link rel="stylesheet" href="/css/newstyle.css" >
     <link rel="stylesheet" href="/css/style-revamp.css" >
+    <link href="assets/css/style-pentest.css" rel="stylesheet">
     <!-- <link rel="stylesheet" href="../css/style.css" > -->
 
     <link rel="preload" href="assets/fonts/M_PLUS_1p/MPLUS1p-Regular.ttf" as="font" crossorigin/>
@@ -827,6 +828,18 @@
                             </a>
                         </div>
                     </div>  
+                </div>
+            </div>
+        </section><br><br>
+
+        <section class="layanan-lain">
+            <div class="container__">
+                <div class="title">
+                    <h4 class="section-title" style="color:white"><b>セキュリティ関連オプショナルサービス</b></h4>
+                    <img src="/img/dtech.png" /><br>
+                    <p style="color:white">
+                        LOGIQUEは、BSSN（National Cyber＆Crypto Agency）およびKOMINFO（Ministry of Communication and Information Technology）に登録された経験豊富なコンサルティングエージェンシーであるPT Dtechcorp Konsultindo Prima（Dtechcorp Consulting）と協力して、 POJKベースの情報技術（IT）セキュリティ監査サービスとISO認証取得支援コンサルティングサービスも提供しています。
+                    </p>
                 </div>
             </div>
         </section>

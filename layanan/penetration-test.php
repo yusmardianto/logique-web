@@ -1538,6 +1538,19 @@
             </div>
         </section>
 
+        <section class="layanan-lain">
+        <div class="container__">
+            <div class="title">
+            <h4 class="section-title"><b>Layanan Keamanan Web lainnya</b></h4>
+            <img src="/img/dtech.png" /><br>
+            <p>
+                LOGIQUE bekerjasama dengan PT Dtechcorp Konsultindo Prima (Dtechcorp Consulting), sebuah lembaga konsultan berpengalaman yang telah terdaftar di BSSN (Badan Siber & Sandi Negara) dan KOMINFO (Kementrian Komunikasi dan Informatika), untuk memenuhi kebutuhan layanan audit keamanan teknologi informasi (TI) berbasis POJK. Kami juga menyediakan jasa konsultasi persiapan dan pendampingan Sertifikasi ISO bagi setiap perusahaan yang membutuhkan. 
+            </p>
+            </div>
+        </div>
+        </section>
+        <br /><br />
+
         <section class="footer">
             <div class="container__">
                 <div class="row">
