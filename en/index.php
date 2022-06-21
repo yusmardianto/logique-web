@@ -356,6 +356,14 @@
                 </div>
             </section>
 
+            <section class="bg--white">
+                <div class="container__">
+                    <a href="https://dokodemo-kerja.com/">
+                        <img srcset="/img/home/DokodemoBannerEN.jpg 576w" sizes="(max-width: 576px) 576px" src="/img/home/DokodemoBannerEN.jpg" alt="" class="img-responsive" style="width: 100%;">
+                    </a>
+                </div>
+            </section>
+
             <section class="case-study bg--white">
                 <div class="container__">
                     <h3 class="section-title">Case Study</h3>
