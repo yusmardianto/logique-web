@@ -318,6 +318,23 @@ ini_set('display_error', 0);
         </div>
       </section>
 
+      <section class="bg--white">
+        <div class="container__">
+          <a href="https://dokodemo-kerja.com/">
+            <picture>
+              <!-- webp -->
+              <source media="(max-width: 576px)" srcset="/img/home/DokodemoBanner.webp" type="image/webp">
+              <source media="(min-width: 576px)" srcset="/img/home/DokodemoBanner.webp" type="webp">
+
+              <!-- jpeg -->
+              <source media="(max-width: 576px)" srcset="/img/home/DokodemoBanner.png" type="image/jpeg">
+              <source media="(min-width: 576px)" srcset="/img/home/DokodemoBanner.png" type="image/jpeg">
+              <img srcset="/img/home/DokodemoBanner.png 576w" sizes="(max-width: 576px) 576px" src="/img/home/DokodemoBanner.png" alt="" class="img-responsive" style="width: 100%;">
+            </picture>
+          </a>
+        </div>
+      </section>
+
       <section class="case-study bg--white">
         <div class="container__">
           <h3 class="section-title">Studi Kasus</h3>
