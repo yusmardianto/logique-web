@@ -146,7 +146,7 @@
                         <div id="profile" class="carousel slide" data-ride="carousel" data-interval="false">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <div class="carousel-inner">
+                                    <div id="imgCarousel" class="carousel-inner">
                                         <div class="item active">
                                             <img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
                                         </div>
@@ -166,28 +166,24 @@
                                         <p align="center">Menyediakan layanan IT dan Digital Marketing</p>
                                     </div><br>
                                     <div>
-                                        <div class="custombox__custom-slider">
-                                            <div id="profile" class="carousel slide" data-ride="carousel" data-interval="false">
-                                                <div class="carousel-inner">
-                                                    <div class="item active">
-                                                        <p><b>Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.</b></p>
-                                                    </div>
-                                                    <div class="item">
-                                                        <p><b>Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan berbagai permasalahan IT Anda.</b></p>
-                                                    </div>
-                                                    <div class="item">
-                                                        <p><b>Kami menyediakan software monitoring sebagai solusi untuk meningkatkan produktivitas.</b></p>
-                                                    </div>
-                                                    <div class="item">
-                                                        <p><b>Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional, untuk memenuhi permintaan klien secara global.</b></p>
-                                                    </div>
-                                                </div>
+                                        <div id="txtCarousel" class="carousel-inner">
+                                            <div class="item active">
+                                                <p><b>Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.</b></p>
+                                            </div>
+                                            <div class="item">
+                                                <p><b>Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan berbagai permasalahan IT Anda.</b></p>
+                                            </div>
+                                            <div class="item">
+                                                <p><b>Kami menyediakan software monitoring sebagai solusi untuk meningkatkan produktivitas.</b></p>
+                                            </div>
+                                            <div class="item">
+                                                <p><b>Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional, untuk memenuhi permintaan klien secara global.</b></p>
                                             </div>
                                         </div>
-                                        <div class="row" style="margin-top:105px">
+                                        <!-- <div class="row" style="margin-top:105px">
                                             <div class="col-md-1">
                                                 <div class="bg--button">
-                                                    <a class="left" href="#profile" data-slide="prev">
+                                                    <a class="left" href="[id^=profile]" data-slide="prev">
                                                         <div class="col-md-2">
                                                             <img src="/img/logique/download.png"/>
                                                         </div>
@@ -197,7 +193,7 @@
                                             <div class="col-md-1">
                                                 <div class="col-md-2">
                                                     <div class="bg--button">
-                                                        <a class="right" href="#profile" data-slide="next">
+                                                        <a class="right" href="[id^=profile]" data-slide="next">
                                                             <div class="col-md-2">
                                                                 <span><img src="/img/logique/download.png"/></span>
                                                             </div>
@@ -205,7 +201,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                         <!-- Left and right controls -->
                                         <!-- <div style="margin-top:160px">
                                             <a class="left" href="#profile" data-slide="prev">
@@ -227,7 +223,7 @@
                 </div>
             </section>
 
-            <section id="principle" style="margin-top:-500px">
+            <section id="principle">
                 <div class="container__">
                     <h1 class="title-index"><b>Karakteristik LOGIQUE</b></h1>
                     <hr class="title__yellow-line">
@@ -274,7 +270,7 @@
                 </div>
             </section>
 
-            <section class="career-section">
+            <section class="career-section" style="margin-top:-40px">
                 <a class="career-section__btn" href="career/">Lihat Lowongan di Logique</a>
             </section>
 
@@ -287,11 +283,11 @@
                             <ul class="company__content">
                                 <li><b>Nama Perusahaan</b></li>
                                 <li class="company__bold">PT. LOGIQUE Digital Indonesia</li>
-                                <hr class="company__divider" style="margin-top:20px; margin-bottom:20px">
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
                                 
                                 <li><b>Bidang Usaha</b></li>
                                 <li class="company__bold">Konsultasi IT/DX, Pembuatan Website, Pembuatan Desain, Pengembangan Sistem, Pengembangan Aplikasi Mobile, Konsultasi Digital Marketing</li>
-                                <hr class="company__divider" style="margin-top:20px; margin-bottom:20px">
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                                 <div class="row">
                                     <div class="col-sm-6">
@@ -303,11 +299,11 @@
                                         <li class="company__bold">83 (hingga Mei 2022)</li>
                                     </div>
                                 </div>
-                                <hr class="company__divider" style="margin-top:20px; margin-bottom:20px">
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                                 <li><b>Alamat Kantor Pusat</b></li>
                                 <li class="company__bold">Ad Premier Building 19th Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</li>
-                                <hr class="company__divider" style="margin-top:20px; margin-bottom:20px">
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                                 <div class="row">
                                     <div class="col-sm-6">
@@ -320,12 +316,12 @@
                                         <li class="company__bold"><img src="/img/logique/email.png"/> info@logique.co.id</li>
                                     </div>
                                 </div>
-                                <hr class="company__divider" style="margin-top:20px; margin-bottom:20px">
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                                 <li><b>Development Center</b></li>
                                 <li class="company__bold">Tadeus Coworking Space - 3rd floor, room 12</li>
                                 <li class="company__bold">Jl. Colombo No.105B, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281</li>
-                                <hr class="company__divider" style="margin-top:20px; margin-bottom:20px">
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                             </ul>
                         </div>
@@ -376,62 +372,63 @@
                             <p>Kami menyediakan beragam layanan seputar website dan Internet, mulai dari desain dan pembuatan website, pengembangan sistem / aplikasi, hingga pemasaran digital. Kami juga telah menciptakan berbagai sistem HR berbasis cloud untuk menyelesaikan masalah perusahaan di Indonesia. Jangan ragu untuk menghubungi kami jika Anda tertarik dengan layanan dan produk kami. </p><br><br>
                         </div>
                         <div class="col-md-7">
-                            <div class="row">
-                                <div class="bg--grey col-md-5" align="center">
-                                    <img src="/img/logique/tentangkami1.png"/>
-                                    <a class="career-section__btn" href="portofolio.php"><b>See Service List</b></a>
-                                </div>
-                                <div class="bg--grey col-md-5" align="center" style="margin-left:40px">
-                                    <img src="/img/logique/tentangkami2.png" width="84%"/>
-                                    <a class="career-section__btn" href="portofolio.php"><b>See Service List</b></a>
-                                </div>
+                            <div class="col-md-5 bg--grey" align="center">
+                                <img src="/img/logique/TentangKami1.png"/>
+                                <a class="career-section__btn" href="portofolio.php"><b>See Service List</b></a>
+                            </div>
+                            <div class="col-md-1"></div>
+                            <div class="col-md-5 bg--grey" align="center">
+                                <img src="/img/logique/TentangKami2.png" width="88%"/>
+                                <a class="career-section__btn" href="portofolio.php"><b>See Service List</b></a>
                             </div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="bg--orange col-md-5">
+                    <div class="row" style="padding:10px; margin-right:-50px">
+                        <div class="bg--gradient col-md-5">
                             <div class="row">
                                 <div class="col-md-2">
                                     <img src="/img/logique/Group311.png"/>
                                 </div>
                                 <div class="col-md-10">
-                                    <p style="font-size:15px"><b>Web App Development Service</b></p>
-                                    <p style="font-size:15px"><b>Optimize Your Website on Every Search Engine</b></p>
+                                    <p style="font-size:16px; margin-left:0px"><b>Web App Development Service</b></p>
+                                    <p style="font-size:14px; margin-left:0px">Optimize Your Website on Every Search Engine</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-1"></div>
-                        <div class="bg--orange col-md-5">
+                        <div class="bg--gradient col-md-5">
                             <div class="row">
                                 <div class="col-md-2">
                                     <img src="/img/logique/Group333.png"/>
                                 </div>
                                 <div class="col-md-10">
-                                    <p style="font-size:15px"><b>SEO Service</b></p>
-                                    <p style="font-size:15px"><b>Optimize Your Website on Every Search Engine</b></p>
+                                    <p style="font-size:16px; margin-left:0px"><b>SEO Service</b></p>
+                                    <p style="font-size:14px; margin-left:0px">Optimize Your Website on Every Search Engine</p>
                                 </div>
                             </div>
-                        </div><br><br><br><br>
-                        <div class="bg--orange col-md-5">
+                        </div>
+                    </div>
+                    <div class="row" style="padding:10px; margin-right:-50px">
+                        <div class="bg--gradient col-md-5">
                             <div class="row">
                                 <div class="col-md-2">
                                     <img src="/img/logique/Group301@2x.png"/>
                                 </div>
                                 <div class="col-md-10">
-                                    <p style="font-size:15px"><b>IT Security Vulnerability Assessment Service</b></p>
-                                    <p style="font-size:15px"><b>Optimize Your Website on Every Search Engine</b></p>
+                                    <p style="font-size:16pxl; margin-left:-5px"><b> IT Security Vulnerability Assessment Service</b></p>
+                                    <p style="font-size:14px; margin-left:-5px"> Optimize Your Website on Every Search Engine</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-1"></div>
-                        <div class="bg--orange col-md-5">
+                        <div class="bg--gradient col-md-5">
                             <div class="row">
                                 <div class="col-md-2">
                                     <img src="/img/logique/Group125@2x.png"/>
                                 </div>
                                 <div class="col-md-10">
-                                    <p style="font-size:15px"><b>IT Professional Staffing Service (by KAZOKKU)</b></p>
-                                    <p style="font-size:15px"><b>Outsource IT professional Resource</b></p>
+                                    <p style="font-size:16px; margin-left:-5px"><b>IT Professional Staffing Service (by KAZOKKU)</b></p>
+                                    <p style="font-size:14px; margin-left:-5px">Outsource IT professional Resource</p>
                                 </div>
                             </div>
                         </div>
@@ -480,4 +477,7 @@
     </div>
 </body>
 
+<scipt>
+
+</scipt>
 </html>
