@@ -309,7 +309,7 @@
 
                                 <li><b>Development Center</b></li>
                                 <li class="company__bold">Tadeus Coworking Space - 3rd floor, room 12</li>
-                                <li class="company__bold">Jl. Colombo No.105B, Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281</li>
+                                <li class="company__bold">Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta</li>
                                 <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                             </ul>
@@ -363,12 +363,12 @@
                         <div class="col-md-7">
                             <div class="col-md-5 bg--grey" align="center">
                                 <img src="/img/logique/TentangKami1.png"/>
-                                <a class="career-section__btn" href="portofolio.php"><b>See Service List</b></a>
+                                <a class="career-section__btn" href="/layanan.php"><b>See Service List</b></a>
                             </div>
                             <div class="col-md-1"></div>
                             <div class="col-md-5 bg--grey" align="center">
                                 <img src="/img/logique/TentangKami2.png" width="88%"/>
-                                <a class="career-section__btn" href="portofolio.php"><b>See Service List</b></a>
+                                <a class="career-section__btn" href="/produk.php"><b>See Product List</b></a>
                             </div>
                         </div>
                     </div>
