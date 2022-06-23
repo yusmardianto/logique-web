@@ -29,6 +29,7 @@
     <!-- <link href="/css/style.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link rel="stylesheet" href="/css/newstyle.css" >
+    <link href="/css/style-revamp.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/style-logique.css">
     
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
@@ -78,9 +79,9 @@
             include($_SERVER['DOCUMENT_ROOT'].'/header.php'); 
         ?>
 
-        <div class="content-wrapper__">
+        <div class="logique-update content-wrapper__">
 
-            <section class="--top">
+            <section class="logique__banner --top">
                 <div class="container__" style="padding:0">
                     <div class="row">
                         <div class="col-sm-12">
@@ -97,21 +98,20 @@
                             </ol>
                         </div>
                     </div>
-                </div>
-            </section>
-
-            <section id="about">
-                <div class="container__">
-                    <h1 class="title-index">Tentang Kami</h1>
-                    <hr class="title__yellow-line"><br>
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <p>LOGIQUE adalah nama yang berasal dari istilah Bahasa Indonesia “logika-ku”. Dengan menjunjung tinggi standar yang sangat logis dalam segala hal yang kami lakukan kami memberikan layanan terbaik kepada klien kami dan tanpa ragu-ragu beralih dari cara atau metode yang sudah ketinggalan zaman.</p><br>
-                            <p>Kami adalah Agile Developer dan Konsultan DX profesional yang sejak tahun 2012 telah membantu banyak klien mendigitalisasikan ide dan bisnis mereka.</p><br>
-                            <p>LOGIQUE adalah Konsultan, Pengembang Sistem, dan Agen Pemasaran Digital dengan pemahaman yang mendalam tentang pasar Indonesia serta memiliki banyak pengalaman dengan proyek-proyek Internasional.</p><br>
-                            <p>Kami memiliki grup perusahaan yakni <a href="https://www.kazokku.com/"><b>KAZOKKU</b></a> yang menyediakan layanan outsourcing IT untuk memenuhi tenaga IT profesional bagi perusahaan yang membutuhkan.</p>
+                    <section id="about">
+                        <div class="container__" align="center">
+                            <h1 class="title-index">Tentang Kami</h1>
+                            <hr class="title__yellow-line--center">
+                            <div class="row" align="left">
+                                <div class="col-sm-12">
+                                    <p><b>LOGIQUE</b> adalah nama yang berasal dari istilah Bahasa Indonesia “logika-ku”. Dengan menjunjung tinggi standar yang sangat logis dalam segala hal yang kami lakukan kami memberikan layanan terbaik kepada klien kami dan tanpa ragu-ragu beralih dari cara atau metode yang sudah ketinggalan zaman.</p><br>
+                                    <p>Kami adalah Agile Developer dan Konsultan DX profesional yang sejak tahun 2012 telah membantu banyak klien mendigitalisasikan ide dan bisnis mereka.</p><br>
+                                    <p>LOGIQUE adalah Konsultan, Pengembang Sistem, dan Agen Pemasaran Digital dengan pemahaman yang mendalam tentang pasar Indonesia serta memiliki banyak pengalaman dengan proyek-proyek Internasional.</p><br>
+                                    <p>Kami memiliki grup perusahaan yakni <a href="https://www.kazokku.com/"><b>KAZOKKU</b></a> yang menyediakan layanan outsourcing IT untuk memenuhi tenaga IT profesional bagi perusahaan yang membutuhkan.</p>
+                                </div>
+                            </div>
                         </div>
-                    </div>
+                    </section>
                 </div>
             </section>
 
@@ -119,119 +119,92 @@
                 <div class="container__">
                     <div class="row">
                         <div class="col-md-4">
-                            <h1 class="title-index">Kenali LOGIQUE Lebih Dekat</h1>
+                            <h1 class="title-index"><b>Kenali LOGIQUE Lebih Dekat</b></h1>
                             <hr class="title__yellow-line">
                             <br>
-                            <a class="career-section__btn" href="download/Company_Profile_ID.pdf">Unduh Profil Perusahaan</a>
+                            <div class="row">
+                                <a style="margin-left:15px" class="career-section__btn" href="download/Company_Profile_ID.pdf"><img src="/img/logique/download.png"/>Unduh Profil Perusahaan</a>
+                            </div>
                         </div>
 
                         <div class="col-md-8">
                             <div class="principle">
                                 <div class="principle__content">
                                     <p>
-                                        LOGIQUE merupakan pengembang web dan sistem web berkualitas yang didukung oleh tim developer terbaik dan profesional dibidangnya masing-masing. Hadir di Indonesia sejak tahun 2012, kami telah memiliki banyak pengalaman dalam menyelesaikan proyek-proyek besar dibidang IT untuk perusahaan berskala nasional maupun internasional. Misi kami adalah untuk mendukung sebanyak mungkin perusahaan di Indonesia dengan solusi IT dan pemasaran digital terbaik. Download Company Profile kami dan dapatkan informasi lebih lengkap mengenai LOGIQUE.
+                                        <b>LOGIQUE merupakan pengembang web dan sistem web berkualitas yang didukung oleh tim developer terbaik dan profesional dibidangnya masing-masing. Hadir di Indonesia sejak tahun 2012, kami telah memiliki banyak pengalaman dalam menyelesaikan proyek-proyek besar dibidang IT untuk perusahaan berskala nasional maupun internasional. Misi kami adalah untuk mendukung sebanyak mungkin perusahaan di Indonesia dengan solusi IT dan pemasaran digital terbaik. Download Company Profile kami dan dapatkan informasi lebih lengkap mengenai LOGIQUE.</b>
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
-
-            <section id="about">
-                <div class="container__">
-                        <div class="row">
-                            <div class="col-md-offset-2 col-md-8">
-                                <!-- SLIDER -->
-                                <div class="custombox__slider">
-                                    <div class="custombox__custom-slider">
-                                        <div id="profile" class="carousel slide" data-ride="carousel" data-interval="3000">
-                                            <div class="carousel-inner">
-                                                <!-- <div class="item ">
-                                                    <img src="/img/banner-logo-logique.jpg" alt="Web Developer LOGIQUE 5">
-                                                    <div class="custombox__slider-text-wrapper">
-                                                        <p class="custombox__slider-text">Dengan pengalaman lebih dari 7
-                                                            tahun
-                                                            di Indonesia, kami dapat memecahkan masalah yang pada umumnya
-                                                            terjadi di Indonesia.</p>
-                                                    </div>
-                                                </div> -->
-                                                <div class="item active">
-                                                    <img style="object-position:0 0" src="/img/slider1.jpg"
-                                                        alt="Web Developer LOGIQUE 1">
-                                                    <div class="custombox__slider-text-wrapper">
-                                                        <p class="custombox__slider-text">Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
-                                                    <div class="custombox__slider-text-wrapper">
-                                                        <p class="custombox__slider-text">Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan berbagai permasalahan IT Anda.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <img style="object-position:0 0" src="/img/banner-all-member.jpg"
-                                                        alt="logique member">
-                                                    <div class="custombox__slider-text-wrapper">
-                                                        <p class="custombox__slider-text">Kami menyediakan software monitoring sebagai solusi untuk meningkatkan produktivitas.</p>
-                                                    </div>
-                                                </div>
-                                                <div class="item">
-                                                    <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
-                                                    <div class="custombox__slider-text-wrapper">
-                                                        <p class="custombox__slider-text">Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional, untuk memenuhi permintaan klien secara global. 
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- Left and right controls -->
-                                            <a class="left carousel-control" href="#profile" data-slide="prev">
-                                                <span class="glyphicon glyphicon-chevron-left"></span>
-                                                <span class="sr-only">Previous</span>
-                                            </a>
-                                            <a class="right carousel-control" href="#profile" data-slide="next">
-                                                <span class="glyphicon glyphicon-chevron-right"></span>
-                                                <span class="sr-only">Next</span>
-                                            </a>
-                                        </div>
-                                    </div>
-
-                                    <p class="custombox__slider-btn">
-                                        Menyediakan layanan IT dan Digital Marketing
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
                 </div>
             </section>
 
             <section id="principle">
                 <div class="container__">
                     <div class="row">
-                        <div class="col-md-3">
-                            <h1 class="title-index">Karakteristik LOGIQUE</h1>
-                            <hr class="title__yellow-line">
-                            <br>
-                            <a class="career-section__btn" href="portofolio.php">Lihat Portofolio</a>
-                        </div>
-
-                        <div class="col-md-9">
-                            <div class="principle">
-                                <div class="principle__illus">
-                                    <img src="../img/principle/bullseye.png" alt="bullseye">
-                                    <img src="../img/principle/gear.png" alt="gear">
-                                    <img src="../img/principle/shield.png" alt="shield">
-                                    <img src="../img/principle/idea.png" alt="idea">
-                                    <img src="../img/principle/maintenance.png" alt="maintenance">
+                        <div class="col-md-6">
+                            <div class="custombox__custom-slider">
+                                <div id="profile" class="carousel slide" data-ride="carousel" data-interval="false">
+                                    <div id="imgCarousel" class="carousel-inner">
+                                        <div class="item active">
+                                            <img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
+                                        </div>
+                                        <div class="item">
+                                            <img src="/img/slider5.jpg" alt="Web Developer LOGIQUE 5">
+                                        </div>
+                                        <div class="item">
+                                            <img style="object-position:0 0" src="/img/banner-all-member.jpg" alt="logique member">
+                                        </div>
+                                        <div class="item">
+                                            <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
+                                        </div>
+                                    </div>
                                 </div>
-
-                                <div class="principle__content">
-                                    <p>LOGIQUE adalah pengembang sistem / web berkualitas di Jakarta dan Yogyakarta, yang didirikan oleh pengusaha Jepang. Dengan pengalaman kami melayani perusahaan besar, kami menjamin solusi IT terbaik. LOGIQUE berupaya memberikan layanan berkualitas tinggi untuk memenuhi kebutuhan pelanggan.<br><br>
-                                    Pada era di mana kecepatan sangat penting, LOGIQUE menghargai efisiensi dan ketangkasan terutama di Indonesia di mana segala sesuatu selalu berubah dan berkembang pesat. Kami akan mendukung pelanggan kami untuk memenuhi deadline proyek dan mencapai tujuan bisnis mereka.<br><br>
-                                    LOGIQUE menyediakan layanan terpadu di bidang IT / Pemasaran Digital mulai dari perancangan situs web hingga pengembangan sistem perusahaan yang kompleks dan aplikasi mobile. LOGIQUE sering menghadapi tantangan baru tanpa takut akan perubahan.<br><br>
-                                    Tim developer kami fleksibel dalam menggunakan berbagai metode terbaik untuk mengembangkan sistem / aplikasi berdasarkan kebutuhan klien. Karena itu, kami dapat menyesuaikan metode kami untuk memberi Anda yang terbaik.
-                                    </p>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="custombox__custom-slider">
+                                <div id="profile" class="carousel slide" data-ride="carousel" data-interval="false">
+                                    <div class="bg--dark">
+                                        <p align="center">Menyediakan layanan IT dan Digital Marketing</p>
+                                    </div><br>
+                                    <div>
+                                        <div id="txtCarousel" class="carousel-inner">
+                                            <div class="item active">
+                                                <p><b>Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.</b></p>
+                                            </div>
+                                            <div class="item">
+                                                <p><b>Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan
+                                                        berbagai permasalahan IT Anda.</b></p>
+                                            </div>
+                                            <div class="item">
+                                                <p><b>Kami menyediakan software monitoring sebagai solusi untuk meningkatkan
+                                                        produktivitas.</b></p>
+                                            </div>
+                                            <div class="item">
+                                                <p><b>Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional,
+                                                        untuk memenuhi permintaan klien secara global.</b></p>
+                                            </div>
+                                        </div>
+                                        <div class="row" style="margin-top:173px">
+                                            <div class="col-md-1">
+                                                <div class="bg--button">
+                                                    <a href="[id^=profile]" data-slide="prev">
+                                                        <img src="/img/logique/arrowleft.png"/>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-1"></div>
+                                            <div class="col-md-1">
+                                                <div class="bg--button">
+                                                    <a href="[id^=profile]" data-slide="next">
+                                                        <img src="/img/logique/arrowright.png"/>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -239,75 +212,111 @@
                 </div>
             </section>
 
-            <section class="bg--gray" id="missionStatement">
+            <section id="principle">
                 <div class="container__">
-                    <h1 class="title-index">Misi LOGIQUE</h1>
-                    <hr class="title__yellow-line"><br>
+                    <h1 class="title-index"><b>Karakteristik LOGIQUE</b></h1>
+                    <hr class="title__yellow-line">
+                    <br>
                     <div class="row">
+                        <div class="col-md-6">
+                            <img src="/img/logique/Karakteristik1.png"/>
+                            <p>LOGIQUE adalah pengembang sistem / web berkualitas di Jakarta dan Yogyakarta, yang didirikan oleh pengusaha Jepang. Dengan pengalaman kami melayani perusahaan besar, kami menjamin solusi IT terbaik. LOGIQUE berupaya memberikan layanan berkualitas tinggi untuk memenuhi kebutuhan pelanggan.</p><br><br>
+                        </div>
+                        <div class="col-md-6">
+                            <img src="/img/logique/Karakteristik2.png"/>
+                            <p>Pada era di mana kecepatan sangat penting, LOGIQUE menghargai efisiensi dan ketangkasan terutama di Indonesia di mana segala sesuatu selalu berubah dan berkembang pesat. Kami akan mendukung pelanggan kami untuk memenuhi deadline proyek dan mencapai tujuan bisnis mereka.</p><br><br>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <img src="/img/logique/Karakteristik3.png"/>
+                            <p>LOGIQUE menyediakan layanan terpadu di bidang IT / Pemasaran Digital mulai dari perancangan situs web hingga pengembangan sistem perusahaan yang kompleks dan aplikasi mobile. LOGIQUE sering menghadapi tantangan baru tanpa takut akan perubahan.</p><br><br>
+                        </div>
+                        <div class="col-md-6">
+                            <img src="/img/logique/Karakteristik4.png" width="14%"/>
+                            <p>Tim developer kami fleksibel dalam menggunakan berbagai metode terbaik untuk mengembangkan sistem / aplikasi berdasarkan kebutuhan klien. Karena itu, kami dapat menyesuaikan metode kami untuk memberi Anda yang terbaik.</p><br><br>
+                        </div>
+                    </div>
+                    <div align="center">
+                        <a class="career-section__btn" href="portofolio.php"><b>Lihat Portofolio</b></a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="bg--black" id="missionStatement">
+                <div class="container__">
+                    <h1 class="title-index" style="color:white"><b>Misi LOGIQUE</b></h1>
+                    <hr class="title__yellow-line"><br>
+                    <div class="row" style="margin-top:-100px">
                         <div class="col-sm-6">
-                            <p>Mendukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</p>
+                            <img src="/img/logique/misi.png"/>
                         </div>
                         <div class="col-sm-6">
+                            <p><b>Mendukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</b></p><br>
                             <p>Berkontribusi pada pertumbuhan industri pembuatan dan pengembangan web / aplikasi mobile di Indonesia, serta memberikan peluang yang lebih baik bagi para pengembang web / aplikasi di Indonesia.</p>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="career-section">
+            <section class="career-section" style="margin-top:-40px">
                 <a class="career-section__btn" href="career/">Lihat Lowongan di Logique</a>
             </section>
 
             <section id="companyOverview">
                 <div class="container__">
+                    <h1 class="title-index" align="center"><b>Profil Perusahaan</b></h1>
+                    <hr class="title__yellow-line--center">
                     <div class="row">
-                        <div class="col-sm-4">
-                            <img src="../img/company-overview.png" alt="company overview" style="width: 100%">
-                        </div>
-                        <div class="col-sm-8">
-                            <h1 class="title-index">Profil Perusahaan</h1>
-                            <hr class="title__yellow-line">
+                        <div class="col-sm-6">
                             <ul class="company__content">
-                                <li>Nama</li>
+                                <li><b>Nama Perusahaan</b></li>
                                 <li class="company__bold">PT. LOGIQUE Digital Indonesia</li>
-                                <hr class="company__divider">
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
+                                
+                                <li><b>Bidang Usaha</b></li>
+                                <li class="company__bold">Konsultasi IT/DX, Pembuatan Website, Pembuatan Desain, Pengembangan Sistem, Pengembangan Aplikasi Mobile, Konsultasi Digital Marketing</li>
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
-                                <li>Pendiri & CEO</li>
-                                <li class="company__bold">Takashi Yoshitsugu</li>
-                                <hr class="company__divider">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <li><b>Direktur</b></li>
+                                        <li class="company__bold">Takashi Yoshitsugu</li>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <li><b>Jumlah Karyawan</b></li>
+                                        <li class="company__bold">83 (hingga Mei 2022)</li>
+                                    </div>
+                                </div>
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
-                                <li>Jumlah Karyawan</li>
-                                <li class="company__bold">80 (Jan 2022)</li>
-                                <hr class="company__divider">
+                                <li><b>Alamat Kantor Pusat</b></li>
+                                <li class="company__bold">Ad Premier Building 19th Floor, Jalan Tb. Simatupang No. 5, Pasar Minggu, Jakarta 12550, INDONESIA</li>
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
-                                <li>Alamat</li>
-                                <li class="company__bold">Ad Premier Building 19th Floor, Jalan Tb. Simatupang No. 5,
-                                    Pasar Minggu, Jakarta
-                                    12550,
-                                    INDONESIA</li>
-                                <hr class="company__divider">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <li><b>Phone</b></li>
+                                        <li class="company__bold"><img src="/img/logique/phone.png"/> +62(21) 2270 8935 / 36</li>
+                                        <li class="company__bold"><img src="/img/logique/wa.png"/> +62 811 870 321</li>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <li><b>Email</b></li>
+                                        <li class="company__bold"><img src="/img/logique/email.png"/> info@logique.co.id</li>
+                                    </div>
+                                </div>
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
-                                <li>Telepon</li>
-                                <li class="company__bold">
-                                    <i class="fa fa-phone"></i>&nbsp; +62(21) 2270 8935 / 36 <br>
-                                    <i class="fa fa-whatsapp"></i>&nbsp; +62 811 870 321
-                                </li>
-                                <hr class="company__divider">
-
-                                <li>Email</li>
-                                <li class="company__bold">info@logique.co.id</li>
-                                <hr class="company__divider">
-
-                                <li>Cabang</li>
-                                <li class="company__bold">Yogyakarta</li>
-                                <hr class="company__divider">
-
-                                <li class="company__bold">Konsultasi IT, NPWP: 82.225.621.0-071.000</li>
-                                <li class="company__bold">NIB: 8120202742466 ( 26<sup>th</sup>,Jul,2018)</li>
-                                <hr class="company__divider">
+                                <li><b>Development Center</b></li>
+                                <li class="company__bold">Tadeus Coworking Space - 3rd floor, room 12</li>
+                                <li class="company__bold">Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta</li>
+                                <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                             </ul>
                         </div>
+                        <div class="col-sm-6">
+                            <img src="/img/logique/company.png"/>
+                        </div> 
                     </div>
                 </div>
             </section>
@@ -320,14 +329,13 @@
                             <hr class="title__yellow-line">
                             <div class="director">
                                 <div class="director__img">
-                                    <img src="/img/yoshi-2020.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
+                                    <br><br><img src="/img/logique/direktur.jpg" alt="Takashi Yoshitsugu" class="img-responsive" />
                                 </div>
                                 <div class="director__content">
                                     <hr class="title__white-line">
                                     <div>
-                                        <h5>TAKASHI YOSHITSUGU, <span class="yellow">Direktur</span></h5><br>
-                                        <p style="text-align: justify"> Takashi Yoshitsugu lahir di Tokyo pada tahun 1976. Pada tahun 1999, Ia lulus dari Departemen Teknik Sistem Manajemen, Waseda University di Tokyo. Ia memiliki cukup banyak pengalaman wirausaha dimulai dari Japan Research Institute, Inc., perusahaan konsultan CRM, dll. <br><br>
-                                        Hingga pada tahun 2005, Ia mulai mendirikan bisnis e-commerce, perusahaan perdagangan impor, dan perusahaan konsultan sendiri di Jepang. Ia mendirikan dan mengelola LOGIQUE di Indonesia sejak tahun 2012.</p>
+                                        <p>Takashi Yoshitsugu lahir di Tokyo pada tahun 1976. Pada tahun 1999, Ia lulus dari Departemen Teknik Sistem Manajemen, Waseda University di Tokyo. Ia memiliki cukup banyak pengalaman wirausaha dimulai dari Japan Research Institute, Inc., perusahaan konsultan CRM, dll.</p><br>
+                                        <p>Hingga pada tahun 2005, Ia mulai mendirikan bisnis e-commerce, perusahaan perdagangan impor, dan perusahaan konsultan sendiri di Jepang. Ia mendirikan dan mengelola LOGIQUE di Indonesia sejak tahun 2012.</p>
                                     </div>
                                 </div>
                             </div>
@@ -338,6 +346,86 @@
                             <p class="director__message" style="text-align: justify">Nama LOGIQUE berasal dari bahasa Indonesia yaitu “logika-ku”, yang artinya adalah “logika saya”. Ide dibalik pemilihan nama itu adalah prinsip pencapaian tujuan dengan kuatnya keyakinan, kepercayaan, dan yang paling utama adalah logika. Melalui prinsip dasar ini, kami berupaya untuk memaksimalkan manfaat jangka menengah dan panjang dari kedua belah pihak, dengan mempertimbangkan lingkungan TI yang berkembang secara dramatis di Asia Tenggara. <br><br>
                             Sejak tahun 2012, kami telah membimbing klien kami di bidang web, SI, dan digital marketing di Indonesia dengan memaksimalkan teknologi IT dan web. Untuk berkontribusi lebih banyak ke pasar IT / Digital Indonesia, kami terus berupaya untuk menggabungkan gaya kerja yang fleksibel, seperti kerja jarak jauh dan jam kerja yang lebih pendek, karena kebahagiaan dan efisiensi karyawan kami. <br><br>
                             Kami menyediakan langganan untuk layanan dan produk internal kami, yang telah dikembangkan dan diuji, yang kami gunakan untuk mengoperasikan bisnis kami secara efisien. Kami akan terus tumbuh dan berkontribusi pada pengembangan teknologi di Indonesia, kepuasan klien kami, dan peningkatan kualitas tim kami.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="principle">
+                <div class="container__">
+                    <h1 class="title-index"><b>Layanan Konsultasi IT / DX LOGIQUE</b></h1>
+                    <hr class="title__yellow-line">
+                    <br>
+                    <div class="row">
+                        <div class="col-md-5">
+                            <p>Selain pengembangan sistem web, aplikasi web dan seluler, manajemen server cloud, konsultasi transformasi digital (DX), inspeksi kerentanan keamanan website, optimasi SEO, media sosial, periklanan internet dan lainnya, kami juga menyediakan layanan pengiriman tenaga TI profesional untuk mendukung kebutuhan tenaga internal DX perusahaan Anda melalui perusahaan Outsorcing IT yang kami miliki. Kami telah memiliki portofolio terbaik dari berbagai perusahaan di Indonesia. Jadi, jangan ragu untuk menghubungi kami.</p><br><br>
+                        </div>
+                        <div class="col-md-7">
+                            <div class="col-md-5 bg--grey" align="center">
+                                <img src="/img/logique/TentangKami1.png"/>
+                                <a class="career-section__btn" href="/layanan.php"><b>See Service List</b></a>
+                            </div>
+                            <div class="col-md-1"></div>
+                            <div class="col-md-5 bg--grey" align="center">
+                                <img src="/img/logique/TentangKami2.png" width="88%"/>
+                                <a class="career-section__btn" href="/produk.php"><b>See Product List</b></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="padding:10px; margin-right:-50px">
+                        <div class="bg--gradient col-md-5">
+                            <div class="row">
+                                <a href="/layanan/pembuatan-sistem-web.php">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group311.png" style="margin-left:15px; margin-top:55px"/>
+                                    </div>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:0px; color:black"><b>Layanan Pengembangan Sistem/Aplikasi Website</b></p>
+                                        <p style="font-size:14px; margin-left:0px; color:black">Pengembangan dengan metode Agile untuk sistem yang fleksibel dan berkualitas</p><br>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="bg--gradient col-md-5" style="margin-left:20px">
+                            <div class="row">
+                                <a href="/layanan/digital-marketing/jasa-seo.php">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group333.png" style="margin-left:15px; margin-top:55px"/>
+                                    </div>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:0px; color:black; margin-top:5px"><b>Layanan Optimasi SEO</b></p>
+                                        <p style="font-size:14px; margin-left:0px; color:black; margin-top:22px">Berpengalaman lebih dari 10 tahun dalam optimasi website bahasa Indonesia, Inggris & Jepang</p><br>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="padding:10px; margin-right:-50px">
+                        <div class="bg--gradient col-md-5">
+                            <div class="row">
+                                <a href="/layanan/penetration-test.php">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group301@2x.png" style="margin-left:5px; margin-top:35px"/>
+                                    </div>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Layanan Inspeksi Keamanan Website/Aplikasi</b></p>
+                                        <p style="font-size:14px; margin-left:-5px; color:black">Layanan bersertifikasi CEH untuk memeriksa dan melaporkan kerentanan keamanan website / aplikasi</p><br>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="bg--gradient col-md-5" style="margin-left:20px">
+                                <div class="row">
+                                    <a href="https://kazokku.com/" target="_blank">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group125@2x.png" style="margin-left:15px; margin-top:40px"/>
+                                    </div>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Layanan Outsourcing IT Profesional</b></p>
+                                        <p style="font-size:14px; margin-left:-5px; color:black">Layanan Outsourcing tenaga IT profesional oleh KAZOKKU</p><br>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -384,4 +472,7 @@
     </div>
 </body>
 
+<scipt>
+
+</scipt>
 </html>
