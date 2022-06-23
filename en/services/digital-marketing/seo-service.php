@@ -79,10 +79,11 @@
 				<div class="container__ text-center">
 					<div class="row">
 						<div class="col-md-offset-1 col-md-10">
-							<h1>Optimize Your Website on Every Search Engine</h1>
-							<p>Many obstacles are often faced by business people who decide to bring their business Go Digital with a website, but after having a website they feel confused.</p>
+							<h1>Jakarta Based SEO Services</h1>
+							<p>LOGIQUE Digital Indonesia aims to provide professional SEO services, better assisting our clients with the comprehensive optimization, auditing and analysis of their websites. This is so as to ensure each website receives an optimal ranking position according to the targeted audience by way of utilizing the most relevant keywords.</p>
 							<img src="/en/services/digital-marketing/img/img-seo-optimization/banner-seo.svg" alt="seo" class="img-responsive">
-							<h3>"Where Can I Get Visitors???"</h3>
+							<h3>“Why Does Your Company Require SEO?”</h3>
+							<p>Through the application of various strategies, such as SEO content writing, search engine marketing, Google SEO and backlinks (among others), the overall website optimization process gives your website an edge that your competitors might lack. Logique employs a wide range of competent and experienced professionals, ranging from content writers, UI/UX designers, to SEO specialists who are ready to raise your website to the position it surely deserves on the main page of Google’s search results and other search engines.</p>
 						</div>
 					</div>
 				</div>
@@ -117,8 +118,19 @@
 						<div class="solution__wrapper col-md-offset-1 col-md-10">
 							<div class="solution__main text-center">
 								<h2 class="main__cloud">SEO</h2>
-								<h2>Search Engine is one solution</h2>
-								<p>Search engines become a platform where users look for an answer or solution, in this situation your website must be able to be present as a solution for every User who has the potential to become your customer.</p>
+								<h2>What Are Some Advantages of SEO Optimization?</h2>
+								<p align="justify">Optimizing your website for SEO (Search Engine Optimization) can provide a wide variety of both minor and major key advantages over your competitors. As we know, search engines, especially Google, present the central platform with which users locate any information and solutions they might be seeking.</p>
+								<p align="justify">Based on this, Logique aims to maximize your website’s capabilities in garnering more users from the pool of Google’s potential customer base. Indeed, this is the main purpose of the SEO optimization process; some other important advantages that can be developed include:</p>
+								<ul>
+									<li><p align="left">Optimize your webpages so that they rank higher on the search engine.</p></li>
+									<li><p align="left">Increase Organic Visitors.</p></li>
+									<li><p align="left">Increase Conversion Rates.</p></li>
+									<li><p align="left">Increase Competitiveness.</p></li>
+									<li><p align="left">Increasing Brand Awareness.</p></li>
+									<li><p align="left">And Others.</p></li>
+								</ul>
+
+								<h2>Why Choose Logique as Your SEO Consultant?</h2>
 								<p>Supported by<span> more than 50 professionals </span>in the field of Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, and Cloud Server Engineer make <strong>LOGIQUE</strong> as the only company that is able to synergize every aspect of optimizing a website in one roof and mechanism of action.</p>
 							</div>
 							<br class="visible-lg">

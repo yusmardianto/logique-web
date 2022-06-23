@@ -12,7 +12,6 @@
 }
 
 #profile.carousel img {
-    height: 285px;
     width: 100%;
     border-bottom: 3px solid #ffca13;
     object-fit: cover;
@@ -265,6 +264,7 @@
 }
 
 .bg--button{
+    padding: 10px;
     background-color: #ffe700;
     border-radius: 2px;
     width: 50px;

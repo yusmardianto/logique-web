@@ -187,18 +187,19 @@
                                                         untuk memenuhi permintaan klien secara global.</b></p>
                                             </div>
                                         </div>
-                                        <div class="row">
+                                        <div class="row" style="margin-top:173px">
                                             <div class="col-md-1">
                                                 <div class="bg--button">
                                                     <a href="[id^=profile]" data-slide="prev">
-                                                        <img src="/img/logique/download.png"/>
+                                                        <img src="/img/logique/arrowleft.png"/>
                                                     </a>
                                                 </div>
                                             </div>
+                                            <div class="col-md-1"></div>
                                             <div class="col-md-1">
                                                 <div class="bg--button">
                                                     <a href="[id^=profile]" data-slide="next">
-                                                        <img src="/img/logique/download.png"/>
+                                                        <img src="/img/logique/arrowright.png"/>
                                                     </a>
                                                 </div>
                                             </div>
@@ -352,12 +353,12 @@
 
             <section id="principle">
                 <div class="container__">
-                    <h1 class="title-index"><b>Tentang Kami</b></h1>
+                    <h1 class="title-index"><b>Layanan Konsultasi IT / DX LOGIQUE</b></h1>
                     <hr class="title__yellow-line">
                     <br>
                     <div class="row">
                         <div class="col-md-5">
-                            <p>Kami menyediakan beragam layanan seputar website dan Internet, mulai dari desain dan pembuatan website, pengembangan sistem / aplikasi, hingga pemasaran digital. Kami juga telah menciptakan berbagai sistem HR berbasis cloud untuk menyelesaikan masalah perusahaan di Indonesia. Jangan ragu untuk menghubungi kami jika Anda tertarik dengan layanan dan produk kami. </p><br><br>
+                            <p>Selain pengembangan sistem web, aplikasi web dan seluler, manajemen server cloud, konsultasi transformasi digital (DX), inspeksi kerentanan keamanan website, optimasi SEO, media sosial, periklanan internet dan lainnya, kami juga menyediakan layanan pengiriman tenaga TI profesional untuk mendukung kebutuhan tenaga internal DX perusahaan Anda melalui perusahaan Outsorcing IT yang kami miliki. Kami telah memiliki portofolio terbaik dari berbagai perusahaan di Indonesia. Jadi, jangan ragu untuk menghubungi kami.</p><br><br>
                         </div>
                         <div class="col-md-7">
                             <div class="col-md-5 bg--grey" align="center">
@@ -374,27 +375,26 @@
                     <div class="row" style="padding:10px; margin-right:-50px">
                         <div class="bg--gradient col-md-5">
                             <div class="row">
-                                <a href="#" target="_blank">
+                                <a href="/layanan/pembuatan-sistem-web.php">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group311.png"/>
+                                        <img src="/img/logique/Group311.png" style="margin-left:15px; margin-top:55px"/>
                                     </div>
-                                    <div class="col-md-10">
-                                        <p style="font-size:16px; margin-left:0px; color:black"><b>Web App Development Service</b></p>
-                                        <p style="font-size:14px; margin-left:0px; color:black">Optimize Your Website on Every Search Engine</p>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:0px; color:black"><b>Layanan Pengembangan Sistem/Aplikasi Website</b></p>
+                                        <p style="font-size:14px; margin-left:0px; color:black">Pengembangan dengan metode Agile untuk sistem yang fleksibel dan berkualitas</p><br>
                                     </div>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-1"></div>
-                        <div class="bg--gradient col-md-5">
+                        <div class="bg--gradient col-md-5" style="margin-left:20px">
                             <div class="row">
-                                <a href="#" target="_blank">
+                                <a href="/layanan/digital-marketing/jasa-seo.php">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group333.png"/>
+                                        <img src="/img/logique/Group333.png" style="margin-left:15px; margin-top:55px"/>
                                     </div>
-                                    <div class="col-md-10">
-                                        <p style="font-size:16px; margin-left:0px; color:black"><b>SEO Service</b></p>
-                                        <p style="font-size:14px; margin-left:0px; color:black">Optimize Your Website on Every Search Engine</p>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:0px; color:black; margin-top:5px"><b>Layanan Optimasi SEO</b></p>
+                                        <p style="font-size:14px; margin-left:0px; color:black; margin-top:22px">Berpengalaman lebih dari 10 tahun dalam optimasi website bahasa Indonesia, Inggris & Jepang</p><br>
                                     </div>
                                 </a>
                             </div>
@@ -403,27 +403,26 @@
                     <div class="row" style="padding:10px; margin-right:-50px">
                         <div class="bg--gradient col-md-5">
                             <div class="row">
-                                <a href="#" target="_blank">
+                                <a href="/layanan/penetration-test.php">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group301@2x.png"/>
+                                        <img src="/img/logique/Group301@2x.png" style="margin-left:5px; margin-top:35px"/>
                                     </div>
-                                    <div class="col-md-10">
-                                        <p style="font-size:16px; margin-left:-5px; color:black"><b> IT Security Vulnerability Assessment Service</b></p>
-                                        <p style="font-size:14px; margin-left:-5px; color:black"> Optimize Your Website on Every Search Engine</p>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Layanan Inspeksi Keamanan Website/Aplikasi</b></p>
+                                        <p style="font-size:14px; margin-left:-5px; color:black">Layanan bersertifikasi CEH untuk memeriksa dan melaporkan kerentanan keamanan website / aplikasi</p><br>
                                     </div>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-1"></div>
-                        <div class="bg--gradient col-md-5">
+                        <div class="bg--gradient col-md-5" style="margin-left:20px">
                                 <div class="row">
-                                    <a href="#" target="_blank">
+                                    <a href="https://kazokku.com/" target="_blank">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group125@2x.png"/>
+                                        <img src="/img/logique/Group125@2x.png" style="margin-left:15px; margin-top:40px"/>
                                     </div>
-                                    <div class="col-md-10">
-                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>IT Professional Staffing Service (by KAZOKKU)</b></p>
-                                        <p style="font-size:14px; margin-left:-5px; color:black">Outsource IT professional Resource</p>
+                                    <div class="col-md-10"><br>
+                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Layanan Outsourcing IT Profesional</b></p>
+                                        <p style="font-size:14px; margin-left:-5px; color:black">Layanan Outsourcing tenaga IT profesional oleh KAZOKKU</p><br>
                                     </div>
                                 </a>
                             </div>
