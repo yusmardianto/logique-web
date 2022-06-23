@@ -142,10 +142,10 @@
 
             <section id="principle">
                 <div class="container__">
-                    <div class="custombox__custom-slider">
-                        <div id="profile" class="carousel slide" data-ride="carousel" data-interval="false">
-                            <div class="row">
-                                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="custombox__custom-slider">
+                                <div id="profile" class="carousel slide" data-ride="carousel" data-interval="false">
                                     <div id="imgCarousel" class="carousel-inner">
                                         <div class="item active">
                                             <img style="object-position:0 0" src="/img/slider1.jpg" alt="Web Developer LOGIQUE 1">
@@ -161,7 +161,11 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="custombox__custom-slider">
+                                <div id="profile" class="carousel slide" data-ride="carousel" data-interval="false">
                                     <div class="bg--dark">
                                         <p align="center">Menyediakan layanan IT dan Digital Marketing</p>
                                     </div><br>
@@ -171,50 +175,34 @@
                                                 <p><b>Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.</b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan berbagai permasalahan IT Anda.</b></p>
+                                                <p><b>Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan
+                                                        berbagai permasalahan IT Anda.</b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>Kami menyediakan software monitoring sebagai solusi untuk meningkatkan produktivitas.</b></p>
+                                                <p><b>Kami menyediakan software monitoring sebagai solusi untuk meningkatkan
+                                                        produktivitas.</b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional, untuk memenuhi permintaan klien secara global.</b></p>
+                                                <p><b>Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional,
+                                                        untuk memenuhi permintaan klien secara global.</b></p>
                                             </div>
                                         </div>
-                                        <!-- <div class="row" style="margin-top:105px">
+                                        <div class="row">
                                             <div class="col-md-1">
                                                 <div class="bg--button">
-                                                    <a class="left" href="[id^=profile]" data-slide="prev">
-                                                        <div class="col-md-2">
-                                                            <img src="/img/logique/download.png"/>
-                                                        </div>
+                                                    <a href="[id^=profile]" data-slide="prev">
+                                                        <img src="/img/logique/download.png"/>
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="col-md-1">
-                                                <div class="col-md-2">
-                                                    <div class="bg--button">
-                                                        <a class="right" href="[id^=profile]" data-slide="next">
-                                                            <div class="col-md-2">
-                                                                <span><img src="/img/logique/download.png"/></span>
-                                                            </div>
-                                                        </a>
-                                                    </div>
+                                                <div class="bg--button">
+                                                    <a href="[id^=profile]" data-slide="next">
+                                                        <img src="/img/logique/download.png"/>
+                                                    </a>
                                                 </div>
                                             </div>
-                                        </div> -->
-                                        <!-- Left and right controls -->
-                                        <!-- <div style="margin-top:160px">
-                                            <a class="left" href="#profile" data-slide="prev">
-                                                <div class="col-md-2">
-                                                    <img src="/img/logique/arrow.png" />
-                                                </div>
-                                            </a>
-                                            <a class="right" href="#profile" data-slide="next">
-                                                <div class="col-md-2">
-                                                    <img src="/img/logique/arrow.png" />
-                                                </div>
-                                            </a>
-                                        </div> -->
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -386,50 +374,58 @@
                     <div class="row" style="padding:10px; margin-right:-50px">
                         <div class="bg--gradient col-md-5">
                             <div class="row">
-                                <div class="col-md-2">
-                                    <img src="/img/logique/Group311.png"/>
-                                </div>
-                                <div class="col-md-10">
-                                    <p style="font-size:16px; margin-left:0px"><b>Web App Development Service</b></p>
-                                    <p style="font-size:14px; margin-left:0px">Optimize Your Website on Every Search Engine</p>
-                                </div>
+                                <a href="#" target="_blank">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group311.png"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; margin-left:0px; color:black"><b>Web App Development Service</b></p>
+                                        <p style="font-size:14px; margin-left:0px; color:black">Optimize Your Website on Every Search Engine</p>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                         <div class="col-md-1"></div>
                         <div class="bg--gradient col-md-5">
                             <div class="row">
-                                <div class="col-md-2">
-                                    <img src="/img/logique/Group333.png"/>
-                                </div>
-                                <div class="col-md-10">
-                                    <p style="font-size:16px; margin-left:0px"><b>SEO Service</b></p>
-                                    <p style="font-size:14px; margin-left:0px">Optimize Your Website on Every Search Engine</p>
-                                </div>
+                                <a href="#" target="_blank">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group333.png"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; margin-left:0px; color:black"><b>SEO Service</b></p>
+                                        <p style="font-size:14px; margin-left:0px; color:black">Optimize Your Website on Every Search Engine</p>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
                     <div class="row" style="padding:10px; margin-right:-50px">
                         <div class="bg--gradient col-md-5">
                             <div class="row">
-                                <div class="col-md-2">
-                                    <img src="/img/logique/Group301@2x.png"/>
-                                </div>
-                                <div class="col-md-10">
-                                    <p style="font-size:16pxl; margin-left:-5px"><b> IT Security Vulnerability Assessment Service</b></p>
-                                    <p style="font-size:14px; margin-left:-5px"> Optimize Your Website on Every Search Engine</p>
-                                </div>
+                                <a href="#" target="_blank">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group301@2x.png"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; margin-left:-5px; color:black"><b> IT Security Vulnerability Assessment Service</b></p>
+                                        <p style="font-size:14px; margin-left:-5px; color:black"> Optimize Your Website on Every Search Engine</p>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                         <div class="col-md-1"></div>
                         <div class="bg--gradient col-md-5">
-                            <div class="row">
-                                <div class="col-md-2">
-                                    <img src="/img/logique/Group125@2x.png"/>
-                                </div>
-                                <div class="col-md-10">
-                                    <p style="font-size:16px; margin-left:-5px"><b>IT Professional Staffing Service (by KAZOKKU)</b></p>
-                                    <p style="font-size:14px; margin-left:-5px">Outsource IT professional Resource</p>
-                                </div>
+                                <div class="row">
+                                    <a href="#" target="_blank">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group125@2x.png"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>IT Professional Staffing Service (by KAZOKKU)</b></p>
+                                        <p style="font-size:14px; margin-left:-5px; color:black">Outsource IT professional Resource</p>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>

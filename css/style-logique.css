@@ -10,16 +10,7 @@
     border: solid 1px black;
     opacity: 1;
 }
-#about #profile .carousel-control.right,
-#about #profile .carousel-control.left {
-    background-image: none;
-}
-#about #profile .carousel-control.left {
-    left: -65px;
-}
-#about #profile .carousel-control.right {
-    right: -65px;
-}
+
 #profile.carousel img {
     height: 285px;
     width: 100%;
@@ -221,12 +212,6 @@
     #about #profile .carousel-control {
         height: 35px !important;
         width: 35px !important;
-    }
-    #about #profile .carousel-control.left {
-        left: -40px;
-    }
-    #about #profile .carousel-control.right {
-        right: -40px;
     }
     #about #profile.carousel img {
         height: 195px !important;
