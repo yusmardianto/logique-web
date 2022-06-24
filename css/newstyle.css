@@ -1488,3 +1488,22 @@ ul.footer-submenu{
         margin: auto;
     }
 }
+
+.ul-list-cfa {
+    margin: 15px auto 50px auto;
+  }
+
+  .li-list-cfa {
+    margin-top: 8px;
+  }
+
+  .list-cfa {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+  }
+  .list-cfa:hover {
+    color: black;
+  }

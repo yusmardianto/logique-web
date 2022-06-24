@@ -119,15 +119,33 @@
 							<div class="solution__main text-center">
 								<h2 class="main__cloud">SEO</h2>
 								<h2>What Are Some Advantages of SEO Optimization?</h2>
-								<p align="justify">Optimizing your website for SEO (Search Engine Optimization) can provide a wide variety of both minor and major key advantages over your competitors. As we know, search engines, especially Google, present the central platform with which users locate any information and solutions they might be seeking.</p>
-								<p align="justify">Based on this, Logique aims to maximize your website’s capabilities in garnering more users from the pool of Google’s potential customer base. Indeed, this is the main purpose of the SEO optimization process; some other important advantages that can be developed include:</p><br>
-								<ul>
-									<li class="listSEO"><p align="left">Optimize your webpages so that they rank higher on the search engine.</p></li>
-									<li class="listSEO"><p align="left">Increase Organic Visitors.</p></li>
-									<li class="listSEO"><p align="left">Increase Conversion Rates.</p></li>
-									<li class="listSEO"><p align="left">Increase Competitiveness.</p></li>
-									<li class="listSEO"><p align="left">Increasing Brand Awareness.</p></li>
-									<li class="listSEO"><p align="left">And Others.</p></li>
+								<p>Optimizing your website for SEO (Search Engine Optimization) can provide a wide variety of both minor and major key advantages over your competitors. As we know, search engines, especially Google, present the central platform with which users locate any information and solutions they might be seeking.</p>
+								<p>Based on this, Logique aims to maximize your website’s capabilities in garnering more users from the pool of Google’s potential customer base. Indeed, this is the main purpose of the SEO optimization process; some other important advantages that can be developed include:</p>
+								<ul class="ul-list-cfa">
+									<li class="li-list-cfa">
+										<a class="list-cfa">Optimize your webpages so that they rank higher on the search engine.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">Increase Organic Visitors.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">Increase Conversion Rates.</a>
+									</li>
+
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">Increase Competitiveness.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">Increasing Brand Awareness.</a>
+									</li>
+
+									<li class="li-list-cfa">
+										<a class="list-cfa">And Others.</a>
+									</li>
 								</ul>
 
 								<h2>Why Choose Logique as Your SEO Consultant?</h2>
