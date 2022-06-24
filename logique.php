@@ -219,21 +219,21 @@
                     <br>
                     <div class="row">
                         <div class="col-md-6">
-                            <img src="/img/logique/Karakteristik1.png"/>
+                            <img src="/img/logique/Karakteristik1.png"/><br><br>
                             <p>LOGIQUE adalah pengembang sistem / web berkualitas di Jakarta dan Yogyakarta, yang didirikan oleh pengusaha Jepang. Dengan pengalaman kami melayani perusahaan besar, kami menjamin solusi IT terbaik. LOGIQUE berupaya memberikan layanan berkualitas tinggi untuk memenuhi kebutuhan pelanggan.</p><br><br>
                         </div>
                         <div class="col-md-6">
-                            <img src="/img/logique/Karakteristik2.png"/>
+                            <img src="/img/logique/Karakteristik2.png"/><br><br>
                             <p>Pada era di mana kecepatan sangat penting, LOGIQUE menghargai efisiensi dan ketangkasan terutama di Indonesia di mana segala sesuatu selalu berubah dan berkembang pesat. Kami akan mendukung pelanggan kami untuk memenuhi deadline proyek dan mencapai tujuan bisnis mereka.</p><br><br>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <img src="/img/logique/Karakteristik3.png"/>
+                            <img src="/img/logique/Karakteristik3.png"/><br><br>
                             <p>LOGIQUE menyediakan layanan terpadu di bidang IT / Pemasaran Digital mulai dari perancangan situs web hingga pengembangan sistem perusahaan yang kompleks dan aplikasi mobile. LOGIQUE sering menghadapi tantangan baru tanpa takut akan perubahan.</p><br><br>
                         </div>
                         <div class="col-md-6">
-                            <img src="/img/logique/Karakteristik4.png" width="14%"/>
+                            <img src="/img/logique/Karakteristik4.png" width="14%"/><br><br>
                             <p>Tim developer kami fleksibel dalam menggunakan berbagai metode terbaik untuk mengembangkan sistem / aplikasi berdasarkan kebutuhan klien. Karena itu, kami dapat menyesuaikan metode kami untuk memberi Anda yang terbaik.</p><br><br>
                         </div>
                     </div>
@@ -431,38 +431,6 @@
                 </div>
             </section>
 
-            <section id="lgqDoes">
-                <div class="container__">
-                    <div class="text-center">
-                        <h1 class="title-index">Layanan LOGIQUE</h1>
-                        <hr class="title__yellow-line--center">
-                        <p class="title__description">Kami menyediakan beragam layanan seputar website dan Internet, mulai dari desain dan pembuatan website, pengembangan sistem / aplikasi, hingga pemasaran digital. Kami juga telah menciptakan berbagai sistem HR berbasis cloud untuk menyelesaikan masalah perusahaan di Indonesia. Jangan ragu untuk menghubungi kami jika Anda tertarik dengan layanan dan produk kami.
-                        </p>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="custombox__product-wrapper">
-                                <div class="custombox__product-list">
-                                    <img class="custombox__product-list-img" src="/img/servicelist.png" alt="servicelist">
-                                    <a href="layanan.php" class="custombox__btn-product">See Service
-                                        List</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <div class="custombox__product-wrapper">
-                                <div class="custombox__product-list">
-                                    <img class="custombox__product-list-img" src="/img/productlist.png" alt="productlist">
-                                    <a href="produk.php" class="custombox__btn-product">See Product
-                                        List</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <?php include "./contact-logique-section.php"; ?>
 
         </div>
