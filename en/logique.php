@@ -70,7 +70,7 @@
                             <ol class="breadcrumb breadcrumb--update-design" itemscope
                                 itemtype="http://schema.org/BreadcrumbList">
                                 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item"
-                                        href="index.php"><span itemprop="name">Beranda</span></a>
+                                        href="/en/index.php"><span itemprop="name">Beranda</span></a>
                                     <meta itemprop="position" content="1" />
                                 </li>
                                 <li class="active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a
@@ -420,7 +420,7 @@
                             <div align="center">
                                 <img src="../img/logique/Saly-19Rev.png" style="width:60%" alt="contact"><br><br>
                                 <p><b>LOGIQUE Ready to Help</b></p>
-                                <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
+                                <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
                             </div>
                         </div>
                         <div class="col-sm-7">
