@@ -230,14 +230,14 @@
                             <img src="/img/logique/misi.png"/>
                         </div>
                         <div class="col-sm-6">
-                            <p><b>LOGIQUE aims to assist the growth & digitization of our valued clientele. We do this by providing top quality IT & Digital Solutions, such as Web Development & Digital Marketing Services, for a variety of different businesses operating within Indonesia, both start-ups & successful well established companies.</b></p><br>
-                            <p>We emphasise the individual success of our clients, and by doing so, seek to raise the overall growth of Indonesia’s expanding IT/DX development industry. By cultivating an IT friendly environment & through offering opportunities for entrepreneurial web & app developers to maximise their potential, we will succeed in contributing to Indonesia’s upward digital growth.</p>
+                            <p><b>Support as many Indonesian companies as possible in achieving their business goals through providing the best IT / digital marketing solutions.</b></p><br>
+                            <p>Contribute to the overall growth of the web & mobile application development industry within Indonesia, as well as provide better opportunities for web & application developers operating within Indonesia.</p>
                         </div>
                     </div>
                 </div>
             </section>
 
-            <section class="career-section" id="careerOpportunity">
+            <section class="career-section" id="careerOpportunity" style="margin-top:-40px">
                 <a class="career-section__btn" href="../career/">See Career Opportunity</a>
             </section>
 
