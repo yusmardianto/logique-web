@@ -121,33 +121,14 @@
 								<h2>What Are Some Advantages of SEO Optimization?</h2>
 								<p>Optimizing your website for SEO (Search Engine Optimization) can provide a wide variety of both minor and major key advantages over your competitors. As we know, search engines, especially Google, present the central platform with which users locate any information and solutions they might be seeking.</p>
 								<p>Based on this, Logique aims to maximize your website’s capabilities in garnering more users from the pool of Google’s potential customer base. Indeed, this is the main purpose of the SEO optimization process; some other important advantages that can be developed include:</p>
-								<ul class="ul-list-cfa">
-									<li class="li-list-cfa">
-										<a class="list-cfa">Optimize your webpages so that they rank higher on the search engine.</a>
-									</li>
-
-									<li class="li-list-cfa">
-										<a class="list-cfa">Increase Organic Visitors.</a>
-									</li>
-
-									<li class="li-list-cfa">
-										<a class="list-cfa">Increase Conversion Rates.</a>
-									</li>
-
-
-									<li class="li-list-cfa">
-										<a class="list-cfa">Increase Competitiveness.</a>
-									</li>
-
-									<li class="li-list-cfa">
-										<a class="list-cfa">Increasing Brand Awareness.</a>
-									</li>
-
-									<li class="li-list-cfa">
-										<a class="list-cfa">And Others.</a>
-									</li>
-								</ul>
-
+								<div>
+									<p style="margin-top:-30px">Optimize your webpages so that they rank higher on the search engine.</p>
+									<p style="margin-top:-30px">Increase Organic Visitors.</p>
+									<p style="margin-top:-30px">Increase Conversion Rates.</p>
+									<p style="margin-top:-30px">Increase Competitiveness.</p>
+									<p style="margin-top:-30px">Increasing Brand Awareness.</p>
+									<p style="margin-top:-30px">And Others.</p>
+								</div>
 								<h2>Why Choose Logique as Your SEO Consultant?</h2>
 								<p>Supported by<span> more than 50 professionals </span>in the field of Digital Marketing, Website Developer, Website Designer, Creative Designer, Content Writer, Copywriter, and Cloud Server Engineer make <strong>LOGIQUE</strong> as the only company that is able to synergize every aspect of optimizing a website in one roof and mechanism of action.</p>
 							</div>

@@ -322,8 +322,7 @@
                                 <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                                 <li><b>開発センター</b></li>
-                                <li>Tadeus Coworking Space - 3rd floor, room 12</li>
-                                <li>Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta</li>
+                                <li>Yogyakarta</li>
                                 <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                             </ul>
