@@ -714,7 +714,7 @@ if(isset($_POST['submitted']))
                     <hr class="title__yellow-line--center" style="border-color: #f4ce58; border-width: 12px; width:35%">
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">
-                            <span class="yellow"><strong>Web</strong></span>を営業の重要な１チャネルとして、集客力のあるWebBに改良したい。<br>
+                            <span class="yellow"><strong>Web</strong></span>を営業の重要な１チャネルとして、集客力のあるWebに改良したい。<br>
                             インターネットテクノロジーやAIなど先進技術を活用した新ビジネスを立ち上げたい<br>
                             社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい<br>
                             インドネシアで成長するためにデジタルマーケティングの実施が必要<br>
@@ -732,13 +732,14 @@ if(isset($_POST['submitted']))
                         </div>
                         <div class="col-md-6 col-sm-6 clearfix" style="padding: 32px 0;">
                             <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
-                                LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、
-                                Webシステム開発、モバイルアプリ・PWA開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、
-                                まずはお気軽にご相談ください。
+                                LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、 Webシステム開発、モバイルアプリ・PWA開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、 まずはお気軽にご相談ください。関連会社KAZOKKUよりITエンジニアの派遣サービスも提供しています。
                             </dt>
                             <br>
                             <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                                お問い合わせ
+                                LOGIQUEにお問い合わせ
+                            </a>
+                            <a class="btn btn-hubungi smooth" href="https://kazokku.com/" target="_blank" style="font-size: medium; font-weight: 600;">
+                            派遣サービスお問い合わせ
                             </a>
                         </div>
                     </div>
@@ -1096,8 +1097,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse1" class="panel-collapse collapse in">
                                         <div class="panel-body d-title-2">
-                                            案件の内容によりますが、可能です。インドネシアでのプロジェクトを日本の部署の日本人担当者さまと、弊社日本人がやり取りさせていただきながらの進行も可能です。
-                                            オフショア案件のご相談も受け付けております。現在、日本人が2人と、日本語が堪能なインドネシア人も1人おります。
+                                            案件の規模・内容によりますが、可能です。インドネシアでのプロジェクトを日本の部署の日本人担当者さまと、弊社日本人がやり取りさせていただきながらの進行も可能です。 オフショア案件のご相談も受け付けております。
                                         </div>
                                     </div>
                                 </div>
@@ -1111,7 +1111,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse2" class="panel-collapse collapse">
                                         <div class="panel-body d-title-2">
-                                            まずはご相談ください。原則、SKYPEミーティングなどをお願いしておりますが、ご相談内容により検討いたします。
+                                            まずはご相談ください。原則、Zoomなどを利用したオンラインミーティングをお願いしておりますが、ご相談内容により検討いたします。
                                         </div>
                                     </div>
                                 </div>
@@ -1127,8 +1127,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse3" class="panel-collapse collapse">
                                         <div class="panel-body d-title-2">
-                                            ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎがなくても一般的なテクノロジーで作られたWEB/システムであれば、
-                                            引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。
+                                            ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎ情報がなくても一般的なテクノロジーで作られたWeb/システムであれば、 引継ぎ、修正、運用が可能なケースがほとんどです。まずはお気軽にご相談ください。
                                         </div>
                                     </div>
                                 </div>
@@ -1149,7 +1148,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                 </div>
 
-                                <div class="panel panel-default">
+                                <!-- <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
                                             data-target="#collapse5">
@@ -1164,7 +1163,7 @@ if(isset($_POST['submitted']))
                                             引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
@@ -1177,7 +1176,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse6" class="panel-collapse collapse">
                                         <div class="panel-body d-title-2">
-                                            PHPフレームワークを使った開発が件数としては一番多いです。Laravel、Symfony、CakePHPなどを使用することが多いですが、お客様の環境やご要望に応じて柔軟に対応します。
+                                            PHPフレームワークを使った開発が件数としては一番多く得意にしていますが、他のテクノロジーでも豊富な開発経験をもっています。Golang、Flutter、JAVA、.Netなど。PHPだと、Laravel、Symfony、CakePHPを使用することが多いですが、お客様の環境やご要望に応じて柔軟に対応します。
                                         </div>
                                     </div>
                                 </div>
@@ -1300,6 +1299,24 @@ if(isset($_POST['submitted']))
 
                             </div>
 
+                            <div class="col-sm-12 text-center mt-12">
+                                <br>
+                                <dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5; font-size:19px">
+                                    本社からWeb、インドネシア法人で保有しているITアセット（Web、アプリ、システムなど）のITセキュリティについて管理＆レポートを求められているのだが<br>
+                                    →CEH認定資格保有者（セキュリティ検査スペシャリスト）によるITセキュリティ脆弱性検査を行い、発見された脆弱性についてレポートするサービスをご提供しています。<a style="font-size:19px" class="d-title" href="/jp/services/penetration-test.php">詳しくはこちらから。</a>お気軽にお問い合わせください。
+                                </dt>
+                                <!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
+                            </div>
+
+                            <div class="col-sm-12 text-center mt-12">
+                                <br>
+                                <dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5;; font-size:19px">
+                                    インドネシアでのITシステム運営を内製化したい<br><br>
+                                    <a style="font-size:19px" class="d-title" href="/jp/services/dx-dm-service.php">定額制のDX/DMスペシャリスト提供サービス</a>を活用いただくことでスムーズな内製化を実現できると考えています。詳細はお気軽にお問い合わせください。また、関連会社KAZOKKUKより<a style="font-size:19px" class="d-title" href="https://kazokku.com/outsourcing-it.php" target="_blank">ITエンジニアの派遣サービス</a>もご提供しています。
+                                </dt><br><br><br><br>
+                                <!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
+                            </div>
+                            
                             <div class="map-container">
                                 <iframe title="Office Map"
                                     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid"

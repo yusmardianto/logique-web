@@ -664,18 +664,17 @@ if(isset($_POST['submitted']))
 
             <section style="background-color: #f4f4f4;">
                 <div class="container__ text-center" style="padding-bottom:0">
-                    <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
+                    <h1 class="title-index">
                         Contact Us
                     </h1>
-                    <!-- <hr class="title__yellow-line--center"> -->
+                    <hr class="title__yellow-line--center" style="border-color: #f4ce58; border-width: 12px; width:35%">
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">
-                            Thank you for showing interest in our products. If you wish to obtain further information about
-                            our
-                            services in regards to web creation/development,
-                            SEO optimization and in other IT related matters, please contact us and ask us about anything by
-                            clicking
-                            the button below
+                            <span class="yellow">Our aim is to improve the overall quality of our clients’ websites, resulting in higher sales through more customers.<br>
+                            Logique has succeeded  in launching new businesses, utilizing the latest technologies in internet based tech & AI.<br>
+                            Internal management systems are a key factor, and thus we always seek to build in-house systems that meet our specific requirements, instead of relying on outsourced services/packages.<br>
+                            Digital marketing operations need to be implemented efficiently to improve the Indonesian marketplace’s overall state of business.<br>
+                            We aim to hand over the operation & maintenance of any existing networks & systems to suppliers in Indonesia.
                         </div>
                     </div>
                 </div>
@@ -683,17 +682,20 @@ if(isset($_POST['submitted']))
 
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
-                    <div class="row" style="height: fit-content;">
-                        <div class="col-sm-6 col-xs-4">
+                    <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
+                        <div class="col-md-5 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;">
                             <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
                         </div>
-                        <div class="col-md-4 col-sm-5" style="padding: 32px 0;">
-                            <dt class="d-title" style="color: #fff; text-align: left;">
-                                Offers solutions for your digital business problems, anytime and anywhere
+                        <div class="col-md-7 col-sm-6 clearfix" style="padding: 32px 0;">
+                            <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
+                                LOGIQUE has succeeded in leading many clients in Indonesia and ASEAN countries. We provide one-stop IT/DX solutions such as website development, system development, mobile application / PWA development, SEO optimization, Security Assessment and digital advertising operations. Please don’t hesitate to contact us & get to know more about our services. KAZOKKU, our affiliated company, provides IT specialist & engineer outsourcing services.
                             </dt>
                             <br>
                             <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                                Contact Us Now
+                                Contact LOGIQUE
+                            </a>
+                            <a class="btn btn-hubungi smooth" href="https://kazokku.com/" target="_blank" style="font-size: medium; font-weight: 600;">
+                                Inquire About IT Outsourcing Services
                             </a>
                         </div>
                     </div>
@@ -1060,6 +1062,24 @@ if(isset($_POST['submitted']))
                         <div class="mt-12" id="accordion" style="width:100%;">
 
                             <?php include 'FAQ.php';?>
+
+                            <div class="col-sm-12 text-center mt-12">
+                                <br>
+                                <dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5; font-size:15px">
+                                    We are asked to check and report in regards to IT/Cyber security matters (Web, apps, systems, etc.) owned by the Indonesian corporation by the Head Quarter.<br>
+                                    → Thus, we aim to provide services that inspect any IT security vulnerabilities through the use of CEH qualified specialists (security inspection specialists) and then report on any security risks found. <a style="font-size:15px" class="d-title" href="/en/services/penetration-test.php">For any further information, </a>please feel free to contact us.
+                                </dt>
+                                <!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
+                            </div>
+
+                            <div class="col-sm-12 text-center mt-12">
+                                <br>
+                                <dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5;; font-size:15px">
+                                    We aim to have an efficient in-house IT operational team, instead of constantly deferring to IT vendors.<br><br>
+                                    We believe that smooth in-house based production and operations can be achieved through utilizing the services provided by well trained <a style="font-size:15px" class="d-title" href="/en/services/dx-dm-service.php">DX / DM specialists working via a flat rate system.</a>Please feel free to contact us for any details. We also provide an <a style="font-size:19px" class="d-title" href="https://kazokku.com/outsourcing-it.php" target="_blank">IT specialist/engineer staffing service </a>through our affiliated company KAZOKKU.
+                                </dt><br><br><br><br>
+                                <!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
+                            </div>
 
                             <div class="map-container">
                                 <iframe title="Office Map"

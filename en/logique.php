@@ -101,14 +101,14 @@
             <section id="principle">
                 <div class="container__">
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-4"><br><br>
                             <h1 class="title-index">A Closer Look at LOGIQUE’s Professional Profile</h1>
                             <hr class="title__yellow-line">
                             <br>
                             <a class="career-section__btn" href="../download/Company_Profile_-_EN-Version.pdf">Download Company Profile</a>
                         </div>
 
-                        <div class="col-md-8">
+                        <div class="col-md-8"><br><br>
                             <div class="principle">
                                 <div class="principle__content">
                                     <p>
@@ -153,28 +153,28 @@
                                     <div>
                                         <div id="txtCarousel" class="carousel-inner">
                                             <div class="item active">
-                                                <p><b>Consult with us, we can be your partner and digital specialist to help improve your business. </b></p>
+                                                <p style="margin-left:20px"><b>Consult with us, we can be your partner and digital specialist to help improve your business. </b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>With over 7 years of experience in Indonesia, our team is ready to solve your IT problems.</b></p>
+                                                <p style="margin-left:20px"><b>With over 7 years of experience in Indonesia, our team is ready to solve your IT problems.</b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>We provide employee monitoring software so as to improve productivity.</b></p>
+                                                <p style="margin-left:20px"><b>We provide employee monitoring software so as to improve productivity.</b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>Our software conforms to a Japanese / International standard of quality, and services a wide range of global clients. </b></p>
+                                                <p style="margin-left:20px"><b>Our software conforms to a Japanese / International standard of quality, and services a wide range of global clients. </b></p>
                                             </div>
                                         </div>
-                                        <div class="row" style="margin-top:173px">
-                                            <div class="col-md-1">
+                                        <div class="row" style="margin-top:170px">
+                                            <div class="col-xs-1">
                                                 <div class="bg--button">
                                                     <a href="[id^=profile]" data-slide="prev">
                                                         <img src="/img/logique/arrowleft.png"/>
                                                     </a>
                                                 </div>
                                             </div>
-                                            <div class="col-md-1"></div>
-                                            <div class="col-md-1">
+                                            <div class="col-xs-1"></div>
+                                            <div class="col-xs-1">
                                                 <div class="bg--button">
                                                     <a href="[id^=profile]" data-slide="next">
                                                         <img src="/img/logique/arrowright.png"/>
@@ -226,12 +226,12 @@
                     <h1 class="title-index" style="color:white"><b>Mission Statement</b></h1>
                     <hr class="title__yellow-line"><br>
                     <div class="row" style="margin-top:-100px">
-                        <div class="col-sm-6">
-                            <img src="/img/logique/misi.png"/>
+                        <div class="col-sm-6"><br>
+                            <img src="/img/logique/misi.png" class="img-responsive"/>
                         </div>
                         <div class="col-sm-6">
                             <p><b>Support as many Indonesian companies as possible in achieving their business goals through providing the best IT / digital marketing solutions.</b></p><br>
-                            <p>Contribute to the overall growth of the web & mobile application development industry within Indonesia, as well as provide better opportunities for web & application developers operating within Indonesia.</p>
+                            <p>Contribute to the overall growth of the web & mobile application development industry within Indonesia, as well as provide better opportunities for web & application developers operating within Indonesia.</p><br><br>
                         </div>
                     </div>
                 </div>
@@ -292,7 +292,7 @@
                             </ul>
                         </div>
                         <div class="col-sm-6">
-                            <img src="/img/logique/company.png"/>
+                            <img src="/img/logique/company.png" class="img-responsive"/>
                         </div> 
                     </div>
                 </div>
@@ -334,72 +334,74 @@
                     <hr class="title__yellow-line">
                     <br>
                     <div class="row">
-                        <div class="col-md-5">
+                        <div class="col-md-6">
                             <p>In addition to providing a variety of services, including (but not limited to) website, mobile & web systems development, cloud server operations, digital transformation (DX) consultation, IT security vulnerability inspection, SEO optimization, social media management and internet advertising, we also aim to provide professional IT staffing services so as to support any of your internal workforce requirements. Additionally, you may seek to improve your company’s digital marketing assets through our IT outsourcing company; we currently possess a top quality portfolio among a wide variety of Indonesian firms. Feel free to contact us.</p><br><br>
                         </div>
-                        <div class="col-md-7">
+                        <div class="col-md-6">
                             <div class="col-md-5 bg--grey" align="center">
-                                <img src="/img/logique/TentangKami1.png"/>
-                                <a class="career-section__btn" href="/en/services.php"><b>See Service List</b></a>
+                                <img src="/img/logique/TentangKami1.png" width="112px" class="img-responsive"/>
+                                <a class="career-section__btn" href="/en/services.php" style="padding:10px; font-size:16px;"><b>See Service List</b></a>
                             </div>
                             <div class="col-md-1"></div>
                             <div class="col-md-5 bg--grey" align="center">
-                                <img src="/img/logique/TentangKami2.png" width="88%"/>
-                                <a class="career-section__btn" href="/en/product.php"><b>See Product List</b></a>
+                                <img src="/img/logique/TentangKami2.png" width="138px" class="img-responsive"/>
+                                <a class="career-section__btn" href="/en/product.php" style="padding:10px; font-size:16px;"><b>See Product List</b></a>
                             </div>
                         </div>
                     </div>
-                    <div class="row" style="padding:10px; margin-right:-50px">
+                    <div class="row" style="padding:10px"><br>
                         <div class="bg--gradient col-md-5">
-                            <div class="row">
-                                <a href="/en/services/system-dev.php">
-                                    <div class="col-md-2">
-                                        <img src="/img/logique/Group311.png" style="margin-left:15px; margin-top:55px"/>
-                                    </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:0px; color:black"><b>Web Application / System Development Services</b></p>
-                                        <p style="font-size:14px; margin-left:0px; color:black">Agile development methods make for flexible and high quality systems.</p><br>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="bg--gradient col-md-5" style="margin-left:20px">
-                            <div class="row">
-                                <a href="/en/services/digital-marketing/seo-service.php">
-                                    <div class="col-md-2">
-                                        <img src="/img/logique/Group333.png" style="margin-left:15px; margin-top:55px"/>
-                                    </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:0px; color:black; margin-top:5px"><b>SEO Optimization Services</b></p>
-                                        <p style="font-size:14px; margin-left:0px; color:black">10+ years of experience in professional website optimization in a variety of languages, including Indonesian, English & Japanese.</p><br>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row" style="padding:10px; margin-right:-50px">
-                        <div class="bg--gradient col-md-5">
-                            <div class="row">
+                            <div class="row" style="margin-top:15px; margin-bottom:15px">
                                 <a href="/en/services/penetration-test.php">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group301@2x.png" style="margin-left:5px; margin-top:35px"/>
+                                        <img src="/img/logique/Group301@2x.png" style="margin-top:25px; margin-left:5px"/>
                                     </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Web / App Security & Vulnerability Inspection Services</b></p>
-                                        <p style="font-size:14px; margin-left:-5px; color:black">CEH certified experts will report upon any existing security vulnerabilities.</p><br>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black"><b>Web / App Security & Vulnerability Inspection Services</b></p>
+                                        <p style="font-size:14px; color:black">CEH certified experts will report upon any existing security vulnerabilities.</p>
                                     </div>
                                 </a>
                             </div>
                         </div>
-                        <div class="bg--gradient col-md-5" style="margin-left:20px">
-                                <div class="row">
+                        <div class="col-md-1"></div>
+                        <div class="bg--gradient col-md-5">
+                            <div class="row" style="margin-top:15px; margin-bottom:15px">
+                                <a href="/en/services/digital-marketing/seo-service.php">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group333.png" style="margin-left:10px; margin-top:30px;"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black;"><b>SEO Optimization Services</b></p>
+                                        <p style="font-size:14px; color:black;">10+ years of experience in professional website optimization in a variety of languages, including Indonesian, English & Japanese.</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="padding:10px"><br>
+                        <div class="bg--gradient col-md-5" style="margin-top:-10px">
+                            <div class="row" style="margin-top:15px; margin-bottom:15px">
+                                <a href="/en/services/system-dev.php">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group311.png" style="margin-top:25px; margin-left:10px"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black;"><b>Web Application / System Development Services</b></p>
+                                        <p style="font-size:14px; color:black;">Agile development methods make for flexible and high quality systems.</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-1"></div>
+                            <div class="bg--gradient col-md-5" style="margin-top:-10px">
+                                <div class="row" style="margin-top:15px; margin-bottom:15px">
                                     <a href="https://kazokku.com/" target="_blank">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group125@2x.png" style="margin-left:15px; margin-top:40px"/>
+                                        <img src="/img/logique/Group125@2x.png" style="margin-top:25px; margin-left:15px"/>
                                     </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Indonesian Based IT Specialist Outsourcing Services</b></p>
-                                        <p style="font-size:14px; margin-left:-5px; color:black">A Professional IT dispatching service provided by Logique’s affiliated company KAZOKKU</p><br>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black"><b>Indonesian Based IT Specialist Outsourcing Services</b></p>
+                                        <p style="font-size:14px; color:black">A Professional IT dispatching service provided by Logique’s affiliated company KAZOKKU</p>
                                     </div>
                                 </a>
                             </div>
