@@ -140,6 +140,16 @@
                                             <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
                                         </div>
                                     </div>
+                                    <div class="mobile-wrapper-carousel">
+                                        <div class="left carousel-control" href="[id^=profile]" data-slide="prev">
+                                            <span class="glyphicon glyphicon-chevron-left"></span>
+                                            <span class="sr-only">Previous</span>
+                                        </div>
+                                        <div class="right carousel-control" href="[id^=profile]" data-slide="next">
+                                            <span class="glyphicon glyphicon-chevron-right"></span>
+                                            <span class="sr-only">Next</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -164,20 +174,22 @@
                                                 <p style="margin-left:20px"><b>インドネシアにて10年を超える豊富な経験をもっています。プロジェクト数は300を超えました。インドネシアの大企業からスタートアップまで幅広くご支援してきた経験を活かします。</b></p>
                                             </div>
                                         </div>
-                                        <div class="row" style="margin-top:115px">
-                                            <div class="col-md-1">
-                                                <div class="bg--button">
-                                                    <a href="[id^=profile]" data-slide="prev">
-                                                        <img src="/img/logique/arrowleft.png"/>
-                                                    </a>
+                                        <div class="desktop-wrapper-carousel">
+                                            <div class="row" style="margin-top:115px">
+                                                <div class="col-xs-1">
+                                                    <div class="bg--button">
+                                                        <a href="[id^=profile]" data-slide="prev">
+                                                            <img src="/img/logique/arrowleft.png"/>
+                                                        </a>
+                                                    </div>
                                                 </div>
-                                            </div>
-                                            <div class="col-md-1"></div>
-                                            <div class="col-md-1">
-                                                <div class="bg--button">
-                                                    <a href="[id^=profile]" data-slide="next">
-                                                        <img src="/img/logique/arrowright.png"/>
-                                                    </a>
+                                                <div class="col-xs-1"></div>
+                                                <div class="col-xs-1">
+                                                    <div class="bg--button">
+                                                        <a href="[id^=profile]" data-slide="next">
+                                                            <img src="/img/logique/arrowright.png"/>
+                                                        </a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

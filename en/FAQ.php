@@ -153,4 +153,35 @@
     </div>
 </div>
 
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+            data-target="#collapse9">
+            <i class="fa fa-question-circle">&nbsp;</i><a>
+                We are asked to check and report in regards to IT/Cyber security matters (Web, apps, systems, etc.) owned by the Indonesian corporation by the Head Quarter.
+            </a>
+        </dt>
+    </div>
+    <div id="collapse9" class="panel-collapse collapse">
+        <div class="panel-body">
+            Thus, we aim to provide services that inspect any IT security vulnerabilities through the use of CEH qualified specialists (security inspection specialists) and then report on any security risks found. <a href="/en/services/penetration-test.php">For any further information, </a>please feel free to contact us.
+        </div>
+    </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+            data-target="#collapse10">
+            <i class="fa fa-question-circle">&nbsp;</i><a>
+                We aim to have an efficient in-house IT operational team, instead of constantly deferring to IT vendors.
+            </a>
+        </dt>
+    </div>
+    <div id="collapse10" class="panel-collapse collapse">
+        <div class="panel-body">
+        We believe that smooth in-house based production and operations can be achieved through utilizing the services provided by well trained <a href="/en/services/dx-dm-service.php">DX / DM specialists working via a flat rate system.</a>Please feel free to contact us for any details. We also provide an <a href="https://kazokku.com/outsourcing-it.php" target="_blank">IT specialist/engineer staffing service </a>through our affiliated company KAZOKKU.        </div>
+    </div>
+</div>
+
 </div>

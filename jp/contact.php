@@ -71,6 +71,7 @@ if(isset($_POST['submitted']))
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link rel="stylesheet" href="/css/newstyle.css" >
     <link rel="stylesheet" href="/css/style-contact.css" >
+    <link href="/css/style-revamp.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
@@ -715,10 +716,10 @@ if(isset($_POST['submitted']))
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">
                             <span class="yellow"><strong>Web</strong></span>を営業の重要な１チャネルとして、集客力のあるWebに改良したい。<br>
-                            インターネットテクノロジーやAIなど先進技術を活用した新ビジネスを立ち上げたい<br>
-                            社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい<br>
-                            インドネシアで成長するためにデジタルマーケティングの実施が必要<br>
-                            既存のWeb・システムの運用保守をインドネシア国内の業者にまかせたい
+                            インターネットテクノロジーやAIなど先進技術を活用した新ビジネスを立ち上げたい。<br>
+                            社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい。<br>
+                            インドネシアで成長するためにデジタルマーケティングの実施が必要。<br>
+                            既存のWeb・システムの運用保守をインドネシア国内の業者にまかせたい。
                         </div>
                     </div>
                 </div>
@@ -727,7 +728,7 @@ if(isset($_POST['submitted']))
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
                     <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
-                        <div class="col-md-5 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;">
+                        <div class="col-md-5 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;"><br>
                             <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
                         </div>
                         <div class="col-md-6 col-sm-6 clearfix" style="padding: 32px 0;">
@@ -735,12 +736,14 @@ if(isset($_POST['submitted']))
                                 LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、 Webシステム開発、モバイルアプリ・PWA開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、 まずはお気軽にご相談ください。関連会社KAZOKKUよりITエンジニアの派遣サービスも提供しています。
                             </dt>
                             <br>
-                            <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                                LOGIQUEにお問い合わせ
-                            </a>
-                            <a class="btn btn-hubungi smooth" href="https://kazokku.com/" target="_blank" style="font-size: medium; font-weight: 600;">
-                            派遣サービスお問い合わせ
-                            </a>
+                            <div class="contact__btn-wrapper">
+                                <a href="#anchorForm" style="font-size: medium; font-weight: 600; padding:10px">
+                                    <div class="main-btn --yellow">LOGIQUEにお問い合わせ</div>
+                                </a>
+                                <a href="https://kazokku.com/" target="_blank" style="font-size: medium; font-weight: 600; padding:10px">
+                                    <div class="main-btn --yellow">派遣サービスお問い合わせ</div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1297,26 +1300,39 @@ if(isset($_POST['submitted']))
                                     </div>
                                 </div>
 
-                            </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse14">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                本社からWeb、インドネシア法人で保有しているITアセット（Web、アプリ、システムなど）のITセキュリティについて管理＆レポートを求められているのだが
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse14" class="panel-collapse collapse">
+                                        <div class="panel-body d-title-2">
+                                            CEH認定資格保有者（セキュリティ検査スペシャリスト）によるITセキュリティ脆弱性検査を行い、発見された脆弱性についてレポートするサービスをご提供しています。<a href="/jp/services/penetration-test.php">詳しくはこちらから。</a>お気軽にお問い合わせください。
+                                        </div>
+                                    </div>
+                                </div>
 
-                            <div class="col-sm-12 text-center mt-12">
-                                <br>
-                                <dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5; font-size:19px">
-                                    本社からWeb、インドネシア法人で保有しているITアセット（Web、アプリ、システムなど）のITセキュリティについて管理＆レポートを求められているのだが<br>
-                                    →CEH認定資格保有者（セキュリティ検査スペシャリスト）によるITセキュリティ脆弱性検査を行い、発見された脆弱性についてレポートするサービスをご提供しています。<a style="font-size:19px" class="d-title" href="/jp/services/penetration-test.php">詳しくはこちらから。</a>お気軽にお問い合わせください。
-                                </dt>
-                                <!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse15">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                インドネシアでのITシステム運営を内製化したい
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse15" class="panel-collapse collapse">
+                                        <div class="panel-body d-title-2">
+                                        <a href="/jp/services/dx-dm-service.php">定額制のDX/DMスペシャリスト提供サービス</a>を活用いただくことでスムーズな内製化を実現できると考えています。詳細はお気軽にお問い合わせください。また、関連会社KAZOKKUKより<a href="https://kazokku.com/outsourcing-it.php" target="_blank">ITエンジニアの派遣サービス</a>もご提供しています。
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-
-                            <div class="col-sm-12 text-center mt-12">
-                                <br>
-                                <dt class="d-title" style="margin-top: 3%;text-align: left; line-height: 1.5;; font-size:19px">
-                                    インドネシアでのITシステム運営を内製化したい<br><br>
-                                    <a style="font-size:19px" class="d-title" href="/jp/services/dx-dm-service.php">定額制のDX/DMスペシャリスト提供サービス</a>を活用いただくことでスムーズな内製化を実現できると考えています。詳細はお気軽にお問い合わせください。また、関連会社KAZOKKUKより<a style="font-size:19px" class="d-title" href="https://kazokku.com/outsourcing-it.php" target="_blank">ITエンジニアの派遣サービス</a>もご提供しています。
-                                </dt><br><br><br><br>
-                                <!-- <hr class="col-sm-4 col-sm-offset-4 bar-yellow" style="padding: 5px 0; border: none;"> -->
-                            </div>
-                            
+                            <br><br><br>
                             <div class="map-container">
                                 <iframe title="Office Map"
                                     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid"
