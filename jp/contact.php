@@ -71,6 +71,7 @@ if(isset($_POST['submitted']))
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link rel="stylesheet" href="/css/newstyle.css" >
     <link rel="stylesheet" href="/css/style-contact.css" >
+    <link href="/css/style-revamp.css" rel="stylesheet">
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" /> -->
@@ -714,11 +715,11 @@ if(isset($_POST['submitted']))
                     <hr class="title__yellow-line--center" style="border-color: #f4ce58; border-width: 12px; width:35%">
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">
-                            <span class="yellow"><strong>Web</strong></span>を営業の重要な１チャネルとして、集客力のあるWebBに改良したい。<br>
-                            インターネットテクノロジーやAIなど先進技術を活用した新ビジネスを立ち上げたい<br>
-                            社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい<br>
-                            インドネシアで成長するためにデジタルマーケティングの実施が必要<br>
-                            既存のWeb・システムの運用保守をインドネシア国内の業者にまかせたい
+                            <span class="yellow"><strong>Web</strong></span>を営業の重要な１チャネルとして、集客力のあるWebに改良したい。<br>
+                            インターネットテクノロジーやAIなど先進技術を活用した新ビジネスを立ち上げたい。<br>
+                            社内管理システムが必要、パッケージ導入ではなく、要件にあったシステムを構築したい。<br>
+                            インドネシアで成長するためにデジタルマーケティングの実施が必要。<br>
+                            既存のWeb・システムの運用保守をインドネシア国内の業者にまかせたい。
                         </div>
                     </div>
                 </div>
@@ -727,19 +728,22 @@ if(isset($_POST['submitted']))
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
                     <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
-                        <div class="col-md-5 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;">
+                        <div class="col-md-5 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;"><br>
                             <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
                         </div>
                         <div class="col-md-6 col-sm-6 clearfix" style="padding: 32px 0;">
                             <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
-                                LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、
-                                Webシステム開発、モバイルアプリ・PWA開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、
-                                まずはお気軽にご相談ください。
+                                LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、 Webシステム開発、モバイルアプリ・PWA開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、 まずはお気軽にご相談ください。関連会社KAZOKKUよりITエンジニアの派遣サービスも提供しています。
                             </dt>
                             <br>
-                            <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                                お問い合わせ
-                            </a>
+                            <div class="contact__btn-wrapper">
+                                <a href="#anchorForm" style="font-size: medium; font-weight: 600; padding:10px">
+                                    <div class="main-btn --yellow">LOGIQUEにお問い合わせ</div>
+                                </a>
+                                <a href="https://kazokku.com/" target="_blank" style="font-size: medium; font-weight: 600; padding:10px">
+                                    <div class="main-btn --yellow">派遣サービスお問い合わせ</div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -794,9 +798,7 @@ if(isset($_POST['submitted']))
                                         infoアットマークlogique.co.id</span>
                                 </dt>
                                 <p class="d-description">
-                                    コンサルティング会社出身者がジャカルタに設立したデジタルマーケティング支援会社です。
-                                    常に質の高い、価値の高いサービス提供を心がけています。お客様の課題をお聞かせいただいたらIT・デジタルの力を活用してそれを解決するソリューションを提案いたします。
-                                    インドネシア語、英語、日本語のいずれでもお気軽にお問合せください。
+                                    日本人のコンサルティング会社出身者がジャカルタに設立したDXコンサル・デジタルマーケティング会社です。 常に価値の高いサービス提供を心がけています。お客様の課題をお聞かせいただいたらIT・デジタルの力を活用してそれを解決するソリューションを提案いたします。 インドネシア語、英語、日本語のいずれでもお気軽にお問合せください。
                                 </p>
                             </div>
                             <br>
@@ -1096,8 +1098,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse1" class="panel-collapse collapse in">
                                         <div class="panel-body d-title-2">
-                                            案件の内容によりますが、可能です。インドネシアでのプロジェクトを日本の部署の日本人担当者さまと、弊社日本人がやり取りさせていただきながらの進行も可能です。
-                                            オフショア案件のご相談も受け付けております。現在、日本人が2人と、日本語が堪能なインドネシア人も1人おります。
+                                            案件の規模・内容によりますが、可能です。インドネシアでのプロジェクトを日本の部署の日本人担当者さまと、弊社日本人がやり取りさせていただきながらの進行も可能です。 オフショア案件のご相談も受け付けております。
                                         </div>
                                     </div>
                                 </div>
@@ -1111,7 +1112,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse2" class="panel-collapse collapse">
                                         <div class="panel-body d-title-2">
-                                            まずはご相談ください。原則、SKYPEミーティングなどをお願いしておりますが、ご相談内容により検討いたします。
+                                            まずはご相談ください。原則、Zoomなどを利用したオンラインミーティングをお願いしておりますが、ご相談内容により検討いたします。
                                         </div>
                                     </div>
                                 </div>
@@ -1127,8 +1128,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse3" class="panel-collapse collapse">
                                         <div class="panel-body d-title-2">
-                                            ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎがなくても一般的なテクノロジーで作られたWEB/システムであれば、
-                                            引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。
+                                            ドキュメントが無いなどで運用会社の変更を躊躇されるお客様が多いのですが、十分な引継ぎ情報がなくても一般的なテクノロジーで作られたWeb/システムであれば、 引継ぎ、修正、運用が可能なケースがほとんどです。まずはお気軽にご相談ください。
                                         </div>
                                     </div>
                                 </div>
@@ -1149,7 +1149,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                 </div>
 
-                                <div class="panel panel-default">
+                                <!-- <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
                                             data-target="#collapse5">
@@ -1164,7 +1164,7 @@ if(isset($_POST['submitted']))
                                             引継ぎ、修正、運用が可能なケースがほとんどです。お気軽にご相談ください。
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
 
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
@@ -1177,7 +1177,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse6" class="panel-collapse collapse">
                                         <div class="panel-body d-title-2">
-                                            PHPフレームワークを使った開発が件数としては一番多いです。Laravel、Symfony、CakePHPなどを使用することが多いですが、お客様の環境やご要望に応じて柔軟に対応します。
+                                            PHPフレームワークを使った開発が件数としては一番多く得意にしていますが、他のテクノロジーでも豊富な開発経験をもっています。Golang、Flutter、JAVA、.Netなど。PHPだと、Laravel、Symfony、CakePHPを使用することが多いですが、お客様の環境やご要望に応じて柔軟に対応します。
                                         </div>
                                     </div>
                                 </div>
@@ -1298,8 +1298,39 @@ if(isset($_POST['submitted']))
                                     </div>
                                 </div>
 
-                            </div>
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse14">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                本社からWeb、インドネシア法人で保有しているITアセット（Web、アプリ、システムなど）のITセキュリティについて管理＆レポートを求められているのだが
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse14" class="panel-collapse collapse">
+                                        <div class="panel-body d-title-2">
+                                            CEH認定資格保有者（セキュリティ検査スペシャリスト）によるITセキュリティ脆弱性検査を行い、発見された脆弱性についてレポートするサービスをご提供しています。<a href="/jp/services/penetration-test.php">詳しくはこちらから。</a>お気軽にお問い合わせください。
+                                        </div>
+                                    </div>
+                                </div>
 
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+                                            data-target="#collapse15">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                インドネシアでのITシステム運営を内製化したい
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse15" class="panel-collapse collapse">
+                                        <div class="panel-body d-title-2">
+                                        <a href="/jp/services/dx-dm-service.php">定額制のDX/DMスペシャリスト提供サービス</a>を活用いただくことでスムーズな内製化を実現できると考えています。詳細はお気軽にお問い合わせください。また、関連会社KAZOKKUKより<a href="https://kazokku.com/outsourcing-it.php" target="_blank">ITエンジニアの派遣サービス</a>もご提供しています。
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br><br><br>
                             <div class="map-container">
                                 <iframe title="Office Map"
                                     src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7931.5295224445435!2d106.81845993380738!3d-6.294614997607123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x941fcbe3ecc8c368!2sPT.%20LOGIQUE%20DIGITAL%20INDONESIA!5e0!3m2!1sen!2sid!4v1575185803719!5m2!1sen!2sid"

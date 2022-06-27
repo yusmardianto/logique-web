@@ -67,6 +67,7 @@ if(isset($_POST['submitted']))
     <link rel="stylesheet" href="/css/sidebar-update.css" >
     <link rel="stylesheet" href="/css/newstyle.css" >
     <link rel="stylesheet" href="/css/style-contact.css" >
+    <link href="/css/style-revamp.css" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
@@ -664,18 +665,17 @@ if(isset($_POST['submitted']))
 
             <section style="background-color: #f4f4f4;">
                 <div class="container__ text-center" style="padding-bottom:0">
-                    <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
+                    <h1 class="title-index">
                         Contact Us
                     </h1>
-                    <!-- <hr class="title__yellow-line--center"> -->
+                    <hr class="title__yellow-line--center" style="border-color: #f4ce58; border-width: 12px; width:35%">
                     <div class="bg-grey" style="padding-top: 10px;">
                         <div class="contact-us-cont">
-                            Thank you for showing interest in our products. If you wish to obtain further information about
-                            our
-                            services in regards to web creation/development,
-                            SEO optimization and in other IT related matters, please contact us and ask us about anything by
-                            clicking
-                            the button below
+                            <span class="yellow">Our aim is to improve the overall quality of our clients’ websites, resulting in higher sales through more customers.<br>
+                            Logique has succeeded  in launching new businesses, utilizing the latest technologies in internet based tech & AI.<br>
+                            Internal management systems are a key factor, and thus we always seek to build in-house systems that meet our specific requirements, instead of relying on outsourced services/packages.<br>
+                            Digital marketing operations need to be implemented efficiently to improve the Indonesian marketplace’s overall state of business.<br>
+                            We aim to hand over the operation & maintenance of any existing networks & systems to suppliers in Indonesia.
                         </div>
                     </div>
                 </div>
@@ -683,18 +683,28 @@ if(isset($_POST['submitted']))
 
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
-                    <div class="row" style="height: fit-content;">
-                        <div class="col-sm-6 col-xs-4">
+                    <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
+                        <div class="col-md-4 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;">
                             <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
                         </div>
-                        <div class="col-md-4 col-sm-5" style="padding: 32px 0;">
-                            <dt class="d-title" style="color: #fff; text-align: left;">
-                                Offers solutions for your digital business problems, anytime and anywhere
+                        <div class="col-md-8 col-sm-6 clearfix" style="padding: 32px 0;">
+                            <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
+                                LOGIQUE has succeeded in leading many clients in Indonesia and ASEAN countries. We provide one-stop IT/DX solutions such as website development, system development, mobile application / PWA development, SEO optimization, Security Assessment and digital advertising operations. Please don’t hesitate to contact us & get to know more about our services. KAZOKKU, our affiliated company, provides IT specialist & engineer outsourcing services.
                             </dt>
                             <br>
-                            <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                                Contact Us Now
-                            </a>
+                            <div class="contact__btn-wrapper">
+                                <div class="row">
+                                    <div class="col-md-5">
+                                    <a href="#anchorForm">
+                                        <div class="main-btn --yellow"><p>Contact LOGIQUE</div>
+                                    </a>
+                                    </div>
+                                    <div class="col-md-7">
+                                    <a href="https://kazokku.com/" target="_blank">
+                                        <div class="main-btn --yellow">Inquire About IT Outsourcing Services</div>
+                                    </a></div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1059,7 +1069,7 @@ if(isset($_POST['submitted']))
                         </div>
                         <div class="mt-12" id="accordion" style="width:100%;">
 
-                            <?php include 'FAQ.php';?>
+                            <?php include 'FAQ.php';?><br><br>
 
                             <div class="map-container">
                                 <iframe title="Office Map"
@@ -1070,10 +1080,6 @@ if(isset($_POST['submitted']))
                     </div>
                 </div>
             </section>
-
-        
-
-
         </div>
 
         <?php include 'footer.php';?>

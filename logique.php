@@ -118,7 +118,7 @@
             <section id="principle">
                 <div class="container__">
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-4"><br><br>
                             <h1 class="title-index"><b>Kenali LOGIQUE Lebih Dekat</b></h1>
                             <hr class="title__yellow-line">
                             <br>
@@ -127,7 +127,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-8">
+                        <div class="col-md-8"><br><br>
                             <div class="principle">
                                 <div class="principle__content">
                                     <p>
@@ -160,6 +160,16 @@
                                             <img src="/img/slider4.jpg" alt="Web Developer LOGIQUE 4">
                                         </div>
                                     </div>
+                                    <div class="mobile-wrapper-carousel">
+                                        <div class="left carousel-control" href="[id^=profile]" data-slide="prev">
+                                            <span class="glyphicon glyphicon-chevron-left"></span>
+                                            <span class="sr-only">Previous</span>
+                                        </div>
+                                        <div class="right carousel-control" href="[id^=profile]" data-slide="next">
+                                            <span class="glyphicon glyphicon-chevron-right"></span>
+                                            <span class="sr-only">Next</span>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -169,38 +179,39 @@
                                     <div class="bg--dark">
                                         <p align="center">Menyediakan layanan IT dan Digital Marketing</p>
                                     </div><br>
-                                    <div>
                                         <div id="txtCarousel" class="carousel-inner">
                                             <div class="item active">
-                                                <p><b>Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.</b></p>
+                                                <p style="margin-left:20px"><b>Konsultasi dengan kami agar kami dapat membantu mengembangkan bisnis Anda.<div style="color: rgba(0, 0, 0, 0.001); -moz-user-select: none;">kami dapat membantu </div></b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan
+                                                <p style="margin-left:20px"><b>Dengan lebih dari 7 tahun pengalaman di Indonesia, tim kami siap untuk menyelesaikan
                                                         berbagai permasalahan IT Anda.</b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>Kami menyediakan software monitoring sebagai solusi untuk meningkatkan
-                                                        produktivitas.</b></p>
+                                                <p style="margin-left:20px"><b>Kami menyediakan software monitoring sebagai solusi untuk meningkatkan
+                                                        produktivitas.<div style="color: rgba(0, 0, 0, 0.001); -moz-user-select: none;">kami dapat membantu </div></b></p>
                                             </div>
                                             <div class="item">
-                                                <p><b>Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional,
+                                                <p style="margin-left:20px"><b>Kami menghasilkan software berkualitas yang mengikuti standar jepang / internasional,
                                                         untuk memenuhi permintaan klien secara global.</b></p>
                                             </div>
                                         </div>
-                                        <div class="row" style="margin-top:173px">
-                                            <div class="col-md-1">
-                                                <div class="bg--button">
-                                                    <a href="[id^=profile]" data-slide="prev">
-                                                        <img src="/img/logique/arrowleft.png"/>
-                                                    </a>
+                                        <div class="desktop-wrapper-carousel">
+                                            <div class="row" style="margin-top:145px">
+                                                <div class="col-xs-1">
+                                                    <div class="bg--button">
+                                                        <a href="[id^=profile]" data-slide="prev">
+                                                            <img src="/img/logique/arrowleft.png"/>
+                                                        </a>
+                                                    </div>
                                                 </div>
-                                            </div>
-                                            <div class="col-md-1"></div>
-                                            <div class="col-md-1">
-                                                <div class="bg--button">
-                                                    <a href="[id^=profile]" data-slide="next">
-                                                        <img src="/img/logique/arrowright.png"/>
-                                                    </a>
+                                                <div class="col-xs-1"></div>
+                                                <div class="col-xs-1">
+                                                    <div class="bg--button">
+                                                        <a href="[id^=profile]" data-slide="next">
+                                                            <img src="/img/logique/arrowright.png"/>
+                                                        </a>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -248,12 +259,12 @@
                     <h1 class="title-index" style="color:white"><b>Misi LOGIQUE</b></h1>
                     <hr class="title__yellow-line"><br>
                     <div class="row" style="margin-top:-100px">
-                        <div class="col-sm-6">
-                            <img src="/img/logique/misi.png"/>
+                        <div class="col-sm-6"><br>
+                            <img src="/img/logique/misi.png" class="img-responsive"/>
                         </div>
                         <div class="col-sm-6">
                             <p><b>Mendukung sebanyak mungkin perusahaan di Indonesia dalam mencapai tujuannya dengan memberikan solusi IT / pemasaran digital terbaik</b></p><br>
-                            <p>Berkontribusi pada pertumbuhan industri pembuatan dan pengembangan web / aplikasi mobile di Indonesia, serta memberikan peluang yang lebih baik bagi para pengembang web / aplikasi di Indonesia.</p>
+                            <p>Berkontribusi pada pertumbuhan industri pembuatan dan pengembangan web / aplikasi mobile di Indonesia, serta memberikan peluang yang lebih baik bagi para pengembang web / aplikasi di Indonesia.</p><br><br>
                         </div>
                     </div>
                 </div>
@@ -308,14 +319,13 @@
                                 <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                                 <li><b>Development Center</b></li>
-                                <li class="company__bold">Tadeus Coworking Space - 3rd floor, room 12</li>
-                                <li class="company__bold">Karang Malang, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta</li>
+                                <li class="company__bold">Yogyakarta</li>
                                 <hr class="company__divider" style="margin-top:12px; margin-bottom:12px">
 
                             </ul>
                         </div>
                         <div class="col-sm-6">
-                            <img src="/img/logique/company.png"/>
+                            <img src="/img/logique/company.png" class="img-responsive"/>
                         </div> 
                     </div>
                 </div>
@@ -357,72 +367,74 @@
                     <hr class="title__yellow-line">
                     <br>
                     <div class="row">
-                        <div class="col-md-5">
+                        <div class="col-md-6">
                             <p>Selain pengembangan sistem web, aplikasi web dan seluler, manajemen server cloud, konsultasi transformasi digital (DX), inspeksi kerentanan keamanan website, optimasi SEO, media sosial, periklanan internet dan lainnya, kami juga menyediakan layanan pengiriman tenaga TI profesional untuk mendukung kebutuhan tenaga internal DX perusahaan Anda melalui perusahaan Outsorcing IT yang kami miliki. Kami telah memiliki portofolio terbaik dari berbagai perusahaan di Indonesia. Jadi, jangan ragu untuk menghubungi kami.</p><br><br>
                         </div>
-                        <div class="col-md-7">
+                        <div class="col-md-6">
                             <div class="col-md-5 bg--grey" align="center">
-                                <img src="/img/logique/TentangKami1.png"/>
-                                <a class="career-section__btn" href="/layanan.php"><b>See Service List</b></a>
+                                <img src="/img/logique/TentangKami1.png" width="112px" class="img-responsive"/><br>
+                                <a class="career-section__btn" href="/layanan.php" style="padding:10px; font-size:16px;"><b>See Service List</b></a>
                             </div>
                             <div class="col-md-1"></div>
                             <div class="col-md-5 bg--grey" align="center">
-                                <img src="/img/logique/TentangKami2.png" width="88%"/>
-                                <a class="career-section__btn" href="/produk.php"><b>See Product List</b></a>
+                                <img src="/img/logique/TentangKami2.png" width="138px" class="img-responsive"/><br>
+                                <a class="career-section__btn" href="/produk.php" style="padding:10px; font-size:16px;"><b>See Product List</b></a>
                             </div>
                         </div>
                     </div>
-                    <div class="row" style="padding:10px; margin-right:-50px">
-                        <div class="bg--gradient col-md-5">
-                            <div class="row">
-                                <a href="/layanan/pembuatan-sistem-web.php">
-                                    <div class="col-md-2">
-                                        <img src="/img/logique/Group311.png" style="margin-left:15px; margin-top:55px"/>
-                                    </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:0px; color:black"><b>Layanan Pengembangan Sistem/Aplikasi Website</b></p>
-                                        <p style="font-size:14px; margin-left:0px; color:black">Pengembangan dengan metode Agile untuk sistem yang fleksibel dan berkualitas</p><br>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="bg--gradient col-md-5" style="margin-left:20px">
-                            <div class="row">
-                                <a href="/layanan/digital-marketing/jasa-seo.php">
-                                    <div class="col-md-2">
-                                        <img src="/img/logique/Group333.png" style="margin-left:15px; margin-top:55px"/>
-                                    </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:0px; color:black; margin-top:5px"><b>Layanan Optimasi SEO</b></p>
-                                        <p style="font-size:14px; margin-left:0px; color:black; margin-top:22px">Berpengalaman lebih dari 10 tahun dalam optimasi website bahasa Indonesia, Inggris & Jepang</p><br>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row" style="padding:10px; margin-right:-50px">
+                    <div class="row" style="padding:10px"><br>
                         <div class="bg--gradient col-md-5">
                             <div class="row">
                                 <a href="/layanan/penetration-test.php">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group301@2x.png" style="margin-left:5px; margin-top:35px"/>
+                                        <img src="/img/logique/Group301@2x.png" style="margin-top:25px; margin-left:5px"/>
                                     </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Layanan Inspeksi Keamanan Website/Aplikasi</b></p>
-                                        <p style="font-size:14px; margin-left:-5px; color:black">Layanan bersertifikasi CEH untuk memeriksa dan melaporkan kerentanan keamanan website / aplikasi</p><br>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black"><b>Layanan Inspeksi Keamanan Website/Aplikasi</b></p>
+                                        <p style="font-size:14px; color:black">Layanan bersertifikasi CEH untuk memeriksa dan melaporkan kerentanan keamanan website/aplikasi</p>
                                     </div>
                                 </a>
                             </div>
                         </div>
-                        <div class="bg--gradient col-md-5" style="margin-left:20px">
-                                <div class="row">
+                        <div class="col-md-1"></div>
+                        <div class="bg--gradient col-md-5">
+                            <div class="row" style="margin-top:15px; margin-bottom:15px">
+                                <a href="/layanan/digital-marketing/jasa-seo.php">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group333.png" style="margin-left:10px; margin-top:15px;"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black;"><b>Layanan Optimasi SEO</b></p>
+                                        <p style="font-size:14px; color:black;">Berpengalaman lebih dari 10 tahun dalam optimasi website bahasa Indonesia, Inggris & Jepang</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="padding:10px"><br>
+                        <div class="bg--gradient col-md-5" style="margin-top:-10px">
+                            <div class="row">
+                                <a href="/layanan/pembuatan-sistem-web.php">
+                                    <div class="col-md-2">
+                                        <img src="/img/logique/Group311.png" style="margin-top:25px; margin-left:10px"/>
+                                    </div>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black;"><b>Layanan Pengembangan Sistem/Aplikasi Website</b></p>
+                                        <p style="font-size:14px; color:black;">Pengembangan dengan metode Agile untuk sistem yang fleksibel dan berkualitas</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-1"></div>
+                        <div class="bg--gradient col-md-5" style="margin-top:-10px">
+                                <div class="row" style="margin-top:15px; margin-bottom:15px">
                                     <a href="https://kazokku.com/" target="_blank">
                                     <div class="col-md-2">
-                                        <img src="/img/logique/Group125@2x.png" style="margin-left:15px; margin-top:40px"/>
+                                        <img src="/img/logique/Group125@2x.png" style="margin-left:15px"/>
                                     </div>
-                                    <div class="col-md-10"><br>
-                                        <p style="font-size:16px; margin-left:-5px; color:black"><b>Layanan Outsourcing IT Profesional</b></p>
-                                        <p style="font-size:14px; margin-left:-5px; color:black">Layanan Outsourcing tenaga IT profesional oleh KAZOKKU</p><br>
+                                    <div class="col-md-10">
+                                        <p style="font-size:16px; color:black"><b>Layanan Outsourcing IT Profesional</b></p>
+                                        <p style="font-size:14px; color:black">Layanan Outsourcing tenaga IT profesional oleh KAZOKKU</p>
                                     </div>
                                 </a>
                             </div>

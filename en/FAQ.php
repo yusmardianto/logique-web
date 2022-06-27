@@ -11,10 +11,7 @@
     </div>
     <div id="collapse1" class="panel-collapse collapse in">
         <div class="panel-body">
-            It is possible, though there may be some difficulties.
-            Most of our staff is able to communicate in English at a practical level. We have
-            also
-            ventured to start projects with overseas companies.
+            It mostly depends on the overall scale of the project, but it is possible. It is also possible to proceed with an Indonesian based project while communicating with the Japanese person in charge within the department. We also accept consultations in regards to offshore projects.
         </div>
     </div>
 </div>
@@ -30,10 +27,7 @@
     </div>
     <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">
-            Let us discuss the matter with you first. Mostly, we offer video conference calls,
-            but
-            we
-            might be able to be flexible depending on the case.
+            Please feel free to contact us. Usually, we ask to have an online meeting first by using conferencing tools such as “Zoom”. However, we will consider offline meetings depending on the case.
         </div>
     </div>
 </div>
@@ -51,23 +45,7 @@
     </div>
     <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body">
-            Please contact us without any further hesitation. There is no need to worry too
-            much
-            about
-            documentation, etc.
-            In most cases, We are able to develop a wide range of digital products through
-            years
-            of
-            experience in the field
-            of customer management systems development. We are also capable of developing
-            systems
-            to
-            improve recruitment, e-commerce,
-            pointing, and content and loan management, among many other things. We are experts
-            in
-            systems development, further utilizing
-            open web technologies to their highest utility. Please contact us for further
-            details.
+            Many customers tend to hesitate in changing outsourcers simply due to a lack of documentation. However, even if hand-over information is lacking, if a system is developed through the use of standard technology, we can take over and operate in most cases. Please feel free to contact us.
         </div>
     </div>
 </div>
@@ -83,16 +61,7 @@
     </div>
     <div id="collapse4" class="panel-collapse collapse">
         <div class="panel-body">
-            We are capable of developing various kinds of systems through previous experience
-            in
-            the
-            field of customer management systems development,
-            as well as developing systems for improved recruitment, e-commerce, pointing, and
-            content
-            and loan management, among many others. We are experts
-            in system development, utilizing open web technologies. Please contact us for
-            further
-            details.
+            We develop most of our systems and apps through the PHP Framework so far, but we also have plenty of development experience with other technologies, such as Golang, Flutter, JAVA, .Net, etc. Regarding PHP, we often utilize Laravel, Symfony, CakePHP; however, we can also flexibly respond to your specific requests.
         </div>
     </div>
 </div>
@@ -181,6 +150,37 @@
             you with the best SEO results.
             We are also able to implement SEO in the English and Japanese languages, as well.
         </div>
+    </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+            data-target="#collapse9">
+            <i class="fa fa-question-circle">&nbsp;</i><a>
+                We are asked to check and report in regards to IT/Cyber security matters (Web, apps, systems, etc.) owned by the Indonesian corporation by the Head Quarter.
+            </a>
+        </dt>
+    </div>
+    <div id="collapse9" class="panel-collapse collapse">
+        <div class="panel-body">
+            Thus, we aim to provide services that inspect any IT security vulnerabilities through the use of CEH qualified specialists (security inspection specialists) and then report on any security risks found. <a href="/en/services/penetration-test.php">For any further information, </a>please feel free to contact us.
+        </div>
+    </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion"
+            data-target="#collapse10">
+            <i class="fa fa-question-circle">&nbsp;</i><a>
+                We aim to have an efficient in-house IT operational team, instead of constantly deferring to IT vendors.
+            </a>
+        </dt>
+    </div>
+    <div id="collapse10" class="panel-collapse collapse">
+        <div class="panel-body">
+        We believe that smooth in-house based production and operations can be achieved through utilizing the services provided by well trained <a href="/en/services/dx-dm-service.php">DX / DM specialists working via a flat rate system.</a>Please feel free to contact us for any details. We also provide an <a href="https://kazokku.com/outsourcing-it.php" target="_blank">IT specialist/engineer staffing service </a>through our affiliated company KAZOKKU.        </div>
     </div>
 </div>
 
