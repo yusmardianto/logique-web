@@ -728,21 +728,27 @@ if(isset($_POST['submitted']))
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
                     <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
-                        <div class="col-md-5 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;"><br>
+                        <div class="col-md-4 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;"><br>
                             <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
                         </div>
-                        <div class="col-md-6 col-sm-6 clearfix" style="padding: 32px 0;">
+                        <div class="col-md-8 col-sm-6 clearfix" style="padding: 32px 0;">
                             <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
                                 LOGIQUEはインドネシアをはじめとした東南アジアの国々でクライアントのWebマーケティングを成功に導いてきました。Webサイト制作（ホームページ制作）、 Webシステム開発、モバイルアプリ・PWA開発、SEO対策、アクセス解析、デジタル広告運用などデジタルマーケティング関連ソリューションをワンストップで対応可能ですので、 まずはお気軽にご相談ください。関連会社KAZOKKUよりITエンジニアの派遣サービスも提供しています。
                             </dt>
                             <br>
-                            <div class="contact__btn-wrapper">
-                                <a href="#anchorForm" style="font-size: medium; font-weight: 600; padding:10px">
-                                    <div class="main-btn --yellow">LOGIQUEにお問い合わせ</div>
-                                </a>
-                                <a href="https://kazokku.com/" target="_blank" style="font-size: medium; font-weight: 600; padding:10px">
-                                    <div class="main-btn --yellow">派遣サービスお問い合わせ</div>
-                                </a>
+                            <div>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <a href="#anchorForm" style="font-weight: 600; padding:10px">
+                                            <div class="main-btn --yellow" align="center">LOGIQUEにお問い合わせ</div>
+                                        </a>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <a href="https://kazokku.com/" target="_blank" style="font-weight: 600; padding:10px">
+                                            <div class="main-btn --yellow" align="center">派遣サービスお問い合わせ</div>
+                                        </a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

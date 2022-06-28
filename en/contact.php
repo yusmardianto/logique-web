@@ -684,25 +684,26 @@ if(isset($_POST['submitted']))
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
                     <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
-                        <div class="col-md-4 col-sm-6 col-xs-12 clearfix" style="margin-bottom: 1em;">
+                        <div class="col-md-4 col-sm-4 col-xs-12 clearfix" style="margin-bottom: 1em;"><br>
                             <img class="img-vector" src="../img/vector_smart_object.png" alt="" style="">
                         </div>
-                        <div class="col-md-8 col-sm-6 clearfix" style="padding: 32px 0;">
+                        <div class="col-md-8 col-sm-8 clearfix" style="padding: 32px 0;">
                             <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
                                 LOGIQUE has succeeded in leading many clients in Indonesia and ASEAN countries. We provide one-stop IT/DX solutions such as website development, system development, mobile application / PWA development, SEO optimization, Security Assessment and digital advertising operations. Please don’t hesitate to contact us & get to know more about our services. KAZOKKU, our affiliated company, provides IT specialist & engineer outsourcing services.
                             </dt>
                             <br>
-                            <div class="contact__btn-wrapper">
+                            <div>
                                 <div class="row">
-                                    <div class="col-md-5">
-                                    <a href="#anchorForm">
-                                        <div class="main-btn --yellow"><p>Contact LOGIQUE</div>
-                                    </a>
+                                    <div class="col-md-4">
+                                        <a href="#anchorForm" style="font-weight: 600; padding:10px">
+                                            <div class="main-btn --yellow" align="center">Contact LOGIQUE</div>
+                                        </a>
                                     </div>
-                                    <div class="col-md-7">
-                                    <a href="https://kazokku.com/" target="_blank">
-                                        <div class="main-btn --yellow">Inquire About IT Outsourcing Services</div>
-                                    </a></div>
+                                    <div class="col-md-8">
+                                        <a href="https://kazokku.com/" target="_blank" style="font-weight: 600; padding:10px">
+                                            <div class="main-btn --yellow" align="center">Inquire About IT Outsourcing Services</div>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
