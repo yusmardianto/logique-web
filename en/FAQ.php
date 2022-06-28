@@ -180,7 +180,7 @@
     </div>
     <div id="collapse10" class="panel-collapse collapse">
         <div class="panel-body">
-        We believe that smooth in-house based production and operations can be achieved through utilizing the services provided by well trained <a href="/en/services/dx-dm-service.php">DX / DM specialists working via a flat rate system.</a>Please feel free to contact us for any details. We also provide an <a href="https://kazokku.com/outsourcing-it.php" target="_blank">IT specialist/engineer staffing service </a>through our affiliated company KAZOKKU.        </div>
+        We believe that smooth in-house based production and operations can be achieved through utilizing the services provided by well trained <a href="/en/services/dx-dm-service.php">DX / DM specialists working via a flat rate system.</a>Please feel free to contact us for any details. We also provide an <a href="https://kazokku.com/outsourcing-it/" target="_blank">IT specialist/engineer staffing service </a>through our affiliated company KAZOKKU.        </div>
     </div>
 </div>
 

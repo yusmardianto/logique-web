@@ -1331,7 +1331,7 @@ if(isset($_POST['submitted']))
                                     </div>
                                     <div id="collapse15" class="panel-collapse collapse">
                                         <div class="panel-body d-title-2">
-                                        <a href="/jp/services/dx-dm-service.php">定額制のDX/DMスペシャリスト提供サービス</a>を活用いただくことでスムーズな内製化を実現できると考えています。詳細はお気軽にお問い合わせください。また、関連会社KAZOKKUKより<a href="https://kazokku.com/outsourcing-it.php" target="_blank">ITエンジニアの派遣サービス</a>もご提供しています。
+                                        <a href="/jp/services/dx-dm-service.php">定額制のDX/DMスペシャリスト提供サービス</a>を活用いただくことでスムーズな内製化を実現できると考えています。詳細はお気軽にお問い合わせください。また、関連会社KAZOKKUKより<a href="https://kazokku.com/outsourcing-it/" target="_blank">ITエンジニアの派遣サービス</a>もご提供しています。
                                         </div>
                                     </div>
                                 </div>
