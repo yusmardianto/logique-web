@@ -62,6 +62,7 @@ if (isset($_POST['submitted'])) {
     <link rel="stylesheet" href="/css/sidebar-update.css">
     <link rel="stylesheet" href="/css/newstyle.css">
     <link rel="stylesheet" href="/css/style-contact.css">
+    <link href="/css/style-revamp.css" rel="stylesheet">
 
     <link href="/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" />
@@ -672,15 +673,12 @@ if (isset($_POST['submitted'])) {
                     <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
                         Hubungi Kami
                     </h1>
-                    <div class="bg-grey" style="padding-top: 10px;">
+                    <div class="bg-grey">
                         <div class="contact-us-cont">
-                            Terima kasih Anda telah tertarik dengan seluruh layanan yang kami tawarkan. Jika Anda ingin
-                            mendapatkan
-                            informasi lebih lanjut dengan seluruh layanan kami,
-                            seperti pembuatan web, pengembangan sistem web, seo dan berbagai permasalahan di dunia digital
-                            lainnya,
-                            Kalian dapat menghubungi dan bertanya apapun kepada
-                            kami melalui tombol di bawah ini
+                            <p>LOGIQUE berupaya meningkatkan kualitas setiap website agar dapat menjadi channel pemasaran yang mampu memikat pelanggan dan meningkatkan penjualan.</p>
+                            <p style="margin-top:15px">Kami telah memiliki keberhasilan dalam meluncurkan bisnis baru dengan memanfaatkan teknologi terkini berbasis internet & AI. Sistem manajemen internal menjadi faktor kunci dan kami selalu berusaha untuk membangun sistem internal yang memenuhi standar kualifikasi yang dibutuhkan.</p>
+                            <p style="margin-top:15px">Disamping itu, optimasi digital marketing yang efisien pun kami lakukan guna meningkatkan daya saing pada semua bidang bisnis di Indonesia.</p>
+                            <p style="margin-top:15px">Kami ingin menerapkan setiap pengelolaan dan pemeliharaan sistem web yang kami miliki pada setiap perusahaan di Indonesia.</p>
                         </div>
                     </div>
                 </div>
@@ -688,18 +686,27 @@ if (isset($_POST['submitted'])) {
 
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
-                    <div class="row" style="height: fit-content;">
-                        <div class="col-sm-6 col-xs-4">
+                    <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
+                        <div class="col-md-4 col-sm-4 col-xs-12 clearfix" style="margin-bottom: 1em;"><br>
                             <img class="img-vector" src="img/vector_smart_object.png" alt="">
                         </div>
-                        <div class="col-md-4 col-sm-5" style="padding: 32px 0;">
-                            <dt class="d-title" style="color: #fff; text-align: left;">
-                                Menawarkan Anda solusi dari permasalahan bisnis Anda di dunia digital kapan pun dan dimana pun
-                            </dt>
+                        <div class="col-md-8 col-sm-8 clearfix" style="padding: 32px 0;">
+                            <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
+                                LOGIQUE telah membawa banyak keberhasilan dalam mengelola pemasaran web perusahaan-perusahaan di Indonesia maupun di negara-negara ASEAN. Kami menyediakan layanan IT/DX terpadu untuk pengembangan web dan sistem web, aplikasi seluler dan PWA, optimasi digital marketing dan SEO, serta layanan keamanan website. Kami juga memiliki layanan outsourcing tenaga spesialis IT melalui anak perusahaan KAZOKKU.<br><br>
+                                Jangan ragu untuk menghubungi kami dan dapatkan informsi layanan yang lebih lengkap. 
                             <br>
-                            <a class="btn btn-hubungi smooth" href="#anchorForm" style="font-size: medium; font-weight: 600;">
-                                Hubungi Kami Sekarang
-                            </a>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <a href="#anchorForm" style="font-weight: bold; padding:10px">
+                                        <div class="main-btn --yellow" align="center"><b>Hubungi LOGIQUE</b></div>
+                                    </a>
+                                </div>
+                                <div class="col-md-7">
+                                    <a href="https://kazokku.com/" target="_blank" style="font-weight: bold; padding:10px">
+                                        <div class="main-btn --yellow" align="center"><b>Dapatkan Layanan Outsourcing IT</b></div>
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

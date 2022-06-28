@@ -205,3 +205,33 @@
                                         </div>
                                     </div>
                                 </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse12">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                Apakah LOGIQUE dapat mengelola dan membuat laporan keamanan aset IT yang kami miliki (Web, Aplikasi, Sistem Web, dan lainnya) di Indonesia?
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse12" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Kami memiliki layanan yang mempu memeriksa keamanan IT dengan tenaga spesialis bersertifikat CEH (Certified Ethical Hacker) dan dapat membuat laporan kerentanan yang kami temukan secara lengkap. Silahkan hubungi kami untuk <a href="/layanan/penetration-test.php">informasi lebih detail.</a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <dt class="panel-title" type="button" data-toggle="collapse" data-parent="#accordion" data-target="#collapse13">
+                                            <i class="fa fa-question-circle">&nbsp;</i><a>
+                                                Kami ingin memiliki tenaga IT in-house yang efektif di Indonesia
+                                            </a>
+                                        </dt>
+                                    </div>
+                                    <div id="collapse13" class="panel-collapse collapse">
+                                        <div class="panel-body">
+                                            Kami percaya bahwa efektivitas produksi yang Anda butuhkan dapat dicapai dengan memanfaatkan layanan yang kami miliki terkait penyediaan <a href="/layanan/dx-dm-service.php">tenaga spesialis DX/DM dengan tarif tetap</a>. Jangan ragu untuk menghubungi kami dan dapatkan informasi detailnya. Kami juga menyediakan <a href="https://kazokku.com/outsourcing-it/" target="_blank">layanan pengiriman tenaga outsourcing IT profesional</a> dari anak perusahaan kami, KAZOKKU.
+                                        </div>
+                                    </div>
+                                </div>
