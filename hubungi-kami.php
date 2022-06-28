@@ -673,12 +673,12 @@ if (isset($_POST['submitted'])) {
                     <h1 class="title-index" style="border-bottom: 12px solid #f4ce58; padding-bottom: 3px; width: max-content; margin: auto;">
                         Hubungi Kami
                     </h1>
-                    <div class="bg-grey" style="padding-top: 10px;">
+                    <div class="bg-grey">
                         <div class="contact-us-cont">
-                            Kami berupaya meningkatkan kualitas setiap website agar dapat menjadi channel pemasaran yang mampu memikat pelanggan dan meningkatkan penjualan.<br>
-                            Kami telah memiliki keberhasilan dalam meluncurkan bisnis baru dengan memanfaatkan teknologi terkini berbasis internet & AI. Sistem manajemen internal menjadi faktor kunci dan kami selalu berusaha untuk membangun sistem internal yang memenuhi standar kualifikasi yang dibutuhkan.<br>
-                            Disamping itu, optimasi digital marketing yang efisien pun kami lakukan guna meningkatkan daya saing pada semua bidang bisnis di Indonesia.<br>
-                            Kami ingin menerapkan setiap pengelolaan dan pemeliharaan sistem web yang kami miliki pada setiap perusahaan di Indonesia.<br>
+                            <p>LOGIQUE berupaya meningkatkan kualitas setiap website agar dapat menjadi channel pemasaran yang mampu memikat pelanggan dan meningkatkan penjualan.</p>
+                            <p style="margin-top:15px">Kami telah memiliki keberhasilan dalam meluncurkan bisnis baru dengan memanfaatkan teknologi terkini berbasis internet & AI. Sistem manajemen internal menjadi faktor kunci dan kami selalu berusaha untuk membangun sistem internal yang memenuhi standar kualifikasi yang dibutuhkan.</p>
+                            <p style="margin-top:15px">Disamping itu, optimasi digital marketing yang efisien pun kami lakukan guna meningkatkan daya saing pada semua bidang bisnis di Indonesia.</p>
+                            <p style="margin-top:15px">Kami ingin menerapkan setiap pengelolaan dan pemeliharaan sistem web yang kami miliki pada setiap perusahaan di Indonesia.</p>
                         </div>
                     </div>
                 </div>
