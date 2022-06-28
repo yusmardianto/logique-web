@@ -686,12 +686,12 @@ if (isset($_POST['submitted'])) {
 
             <section class="bg--black">
                 <div class="container__" style="padding-top:0;padding-bottom:0">
-                    <div class="row" style="height: fit-content;">
-                        <div class="col-sm-4 col-xs-4"><br>
+                    <div class="row" style="height: fit-content; background: #000; padding: 0 15px 30px">
+                        <div class="col-md-4 col-sm-4 col-xs-12 clearfix" style="margin-bottom: 1em;"><br>
                             <img class="img-vector" src="img/vector_smart_object.png" alt="">
                         </div>
-                        <div class="col-md-8 col-sm-5" style="padding: 32px 0;">
-                            <dt class="d-title-2" style="color: #fff; text-align: left;">
+                        <div class="col-md-8 col-sm-8 clearfix" style="padding: 32px 0;">
+                            <dt class="d-title-2" style="color: #fff; text-align: left; padding-top: 1em;">
                                 LOGIQUE telah membawa banyak keberhasilan dalam mengelola pemasaran web perusahaan-perusahaan di Indonesia maupun di negara-negara ASEAN. Kami menyediakan layanan IT/DX terpadu untuk pengembangan web dan sistem web, aplikasi seluler dan PWA, optimasi digital marketing dan SEO, serta layanan keamanan website. Kami juga memiliki layanan outsourcing tenaga spesialis IT melalui anak perusahaan KAZOKKU.<br><br>
                                 Jangan ragu untuk menghubungi kami dan dapatkan informsi layanan yang lebih lengkap. 
                             <br>
