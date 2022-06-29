@@ -694,14 +694,14 @@ if(isset($_POST['submitted']))
                             <br>
                             <div>
                                 <div class="row">
-                                    <div class="col-md-4">
+                                    <div class="col-md-5">
                                         <a href="#anchorForm" style="font-weight: 600; padding:10px">
-                                            <div class="main-btn --yellow" align="center">Contact LOGIQUE</div>
+                                            <div class="contact-btn --yellow" align="center"><b>Contact LOGIQUE</b></div>
                                         </a>
                                     </div>
-                                    <div class="col-md-8">
+                                    <div class="col-md-7">
                                         <a href="https://kazokku.com/" target="_blank" style="font-weight: 600; padding:10px">
-                                            <div class="main-btn --yellow" align="center">Inquire About IT Outsourcing Services</div>
+                                            <div class="contact-btn --yellow" align="center"><b>Inquire About IT Outsourcing Services</b></div>
                                         </a>
                                     </div>
                                 </div>

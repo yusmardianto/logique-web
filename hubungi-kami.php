@@ -696,14 +696,14 @@ if (isset($_POST['submitted'])) {
                                 Jangan ragu untuk menghubungi kami dan dapatkan informsi layanan yang lebih lengkap. 
                             <br>
                             <div class="row">
-                                <div class="col-md-4">
+                                <div class="col-md-5">
                                     <a href="#anchorForm" style="font-weight: bold; padding:10px">
-                                        <div class="main-btn --yellow" align="center"><b>Hubungi LOGIQUE</b></div>
+                                        <div class="contact-btn --yellow" align="center"><b>Hubungi LOGIQUE</b></div>
                                     </a>
                                 </div>
                                 <div class="col-md-7">
                                     <a href="https://kazokku.com/" target="_blank" style="font-weight: bold; padding:10px">
-                                        <div class="main-btn --yellow" align="center"><b>Dapatkan Layanan Outsourcing IT</b></div>
+                                        <div class="contact-btn --yellow" align="center"><b>Dapatkan Layanan Outsourcing IT</b></div>
                                     </a>
                                 </div>
                             </div>
