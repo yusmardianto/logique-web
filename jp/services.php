@@ -89,14 +89,14 @@
                         <h1 class="title-index">LOGIQUEのサービス</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description" style="">
-                            世の中の変化のスピードは非常に速く、そのスピードは益々上がってきているように思います。スピードは現代においてはビジネスの成否を分ける最も重要なキーポイントと言っても良いと考えています。
+                            LOGIQUEはDXコンサルティングから実装、運用までをワンストップでご支援しています。インドネシアのお客様のご支援をメインに行なっておりますが、周辺国のプロジェクトも運用しています。お客様のビジネスを成功に導くため、制作開発もスピーディーにまた柔軟に対応すべきと考えていることから、当社ではアジャイル型の開発体制を敷いています。変化を受け入れ、目に見えるものを早く作ります。
                         </p>
                         <p class="title__description" style="margin-bottom:20px">
-                            お客様のビジネスを成功に導くため、制作開発もスピーディーにまた柔軟に対応できる体制でありたいと考えていることから、当社ではアジャイル型の開発体制を敷いています。変化を受け入れ、目に見えるものを早く作ります。クライアントと当社プロジェクトメンバーは１つのTeamです。細かくリリースし改善していくことが肝要だと考えます。
+                            クライアントと当社プロジェクトメンバーは１つのTeamです。細かくリリースし改善していくことが肝要だと考えます。LOGIQUEはインドネシアでのPoC実施時のベストパートナーです。
                         </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portfolio.php">
-                                <div class="main-btn --black">See Portfolio</div>
+                                <div class="main-btn --yellow">ポートフォリオをみる</div>
                             </a>
                             <a href="/jp/services/project-management.php">
                                 <div class="main-btn --yellow">Our Project Management</div>
@@ -208,7 +208,7 @@
                                             <li>多言語サイト制作</li>
                                         </a>
                                         <a href="#webCreate_webService">
-                                            <li>サービスWEB構築</li>
+                                            <li>Web運用、最適化</li>
                                         </a>
                                         <a href="#webCreate_recruit">
                                             <li>採用サイト制作</li>
@@ -258,9 +258,6 @@
                                         <a href="#mobile_appDev">
                                             <li>モバイル（スマホ）アプリ開発</li>
                                         </a>
-                                        <a href="#mobile_appCreate">
-                                            <li>モバイル（レスポンシブ）WEB制作</li>
-                                        </a>
                                     </ul>
                                 </div>
                             </div>
@@ -279,13 +276,10 @@
                                             <li>SEO対策 / SEM</li>
                                         </a>
                                         <a href="#dm_digiMarket">
-                                            <li>インターネット広告 / デジタルマーケティング支援</li>
+                                            <li>ネット広告運用 / デジタルマーケティング支援</li>
                                         </a>
                                         <a href="#dm_contentCreate">
                                             <li>コンテンツ制作</li>
-                                        </a>
-                                        <a href="#dm_itConsult">
-                                            <li>ランディングページ最適化</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -310,7 +304,7 @@
                                     <img src="../img/service/list/lain.png" alt="" class="service-list__img">
                                 </div>
                                 <div class="service-list__content">
-                                    <a href="#othersService_">
+                                    <a href="#othersService_graphic">
                                         <p class="service-list__title">その他のサービス</p>
                                     </a>
                                     <ul class="service-list__list">
@@ -322,6 +316,9 @@
                                         </a>
                                         <a href="#otherService_itConsultant">
                                             <li>IT/DXコンサルティング</li>
+                                        </a>
+                                        <a href="#">
+                                            <li>ITエンジニア派遣サービス</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -424,10 +421,9 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="title__description">世の中の変化のスピードは非常に速く、そのスピードは益々上がってきている ように思います。スピードは現代においてはビジネスの成否を分ける最も重要
-                            なキーポイントと言っても良いと考えています。 <br><br>
-                            お客様のビジネスを成功に導 くため、制作開発もスピーディーにまた柔軟に対応できる体制でありたいと考 えていることから、当社ではアジャイル型の開発体制を敷いています。変化を
-                            受け入れ、目に見えるものを早く作ります。クライアントと当社プロジェクト メンバーは１つの Team です。細かくリリースし改善していくことが肝要だと 考えます。</p>
+                        <p class="title__description">
+                            世の中の変化のスピードは非常に速く、そのスピードは益々上がってきているように思います。スピードは現代においてはビジネスの成否を分ける最も重要なキーポイントと言っても良いと考えています。<br><br>
+                            お客様のビジネスを成功に導くため、制作開発もスピーディーにまた柔軟に対応できる体制でありたいと考えていることから、当社ではアジャイル型の開発体制を敷いています。変化を受け入れ、目に見えるものを早く作ります。クライアントと当社プロジェクト メンバーは１つのTeam です。細かくリリースし改善していくことが肝要だと考えます。</p>
                     </div>
                 </div>
             </section>
@@ -479,8 +475,8 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">サービスWEB構築</h4>
-                                            <p>中古車売買マーケットプレイス、ポイント管理サイト、人材マッチングサイト、E-Commerce、クローズドコミュニティ、会員管理CRMウェブなど、インターネットを活用した新ビジネス/新サービスを開始される際、ビジネス企画からデザイン制作、システム・サイト構築、運用、デジタルマーケティングの実行までトータルでご支援可能です。適切なPhase分けや柔軟なスコープ調整などでサービスが軌道に乗るまでご支援します。
+                                        <h3 class="service-detail__title">Web運用・最適化</h4>
+                                            <p>中古車売買マーケットプレイス、ポイント管理サイト、人材マッチングサイト、E-Commerce、クローズドコミュニティ、会員管理CRMウェブなど、インターネットを活用した新ビジネス/新サービスを開始される際、ビジネス企画からデザイン制作、システム・サイト構築、運用、デジタルマーケティングの運用までトータルでご支援可能です。適切なPhase分けや柔軟なスコープ調整などでサービスが軌道に乗るまでご支援します。
                                             </p>
                                     </div>
                                 </div>
@@ -546,7 +542,7 @@
                     </section>
                     <div class="text-center --back-top">
                         <a href="portfolio.php#webDev">
-                            <div class="main-btn --black">See Portfolio</div>
+                            <div class="main-btn --black">ポートフォリオをみる</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
@@ -665,8 +661,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">モバイルアプリケーション制作</h4>
-                                    <p>アンドロイドApp、iOSアプリをインドネシアマーケットに合わせて開発できます。
-                                        企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。PWA開発も豊富にあります。
+                                    <p>アンドロイドApp、iOSアプリ、ハイブリッドアプリをインドネシアマーケットに合わせて開発できます。 企画や技術だけでなく、企画をUI、UXに落とし込み、デザイン制作からアプリケーション開発までワンストップで行い、申請登録、運用までしっかりご支援します。Flutterによる開発経験も豊富です。PWA開発も豊富にあります。
                                     </p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow" href="/jp/services/mobile-app-dev.php">もっと見る</a>
@@ -674,23 +669,9 @@
                             </div>
                         </div>
                     </section>
-                    <section id="mobile_appCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">モバイルWEB制作</h4>
-                                    <p>
-                                        インドネシアはモバイルからの閲覧比率が高くモバイル利用ユーザーに適切な対応をすることが重要です。
-                                        スマートフォン、タブレットで閲覧されたときにも最適化されたUIで表示するレスポンシブWEBを制作します。AMP制作やモバイルSEOの実績も豊富です。
-                                    </p>
-                            </div>
-                        </div>
-                    </section>
                     <div class="text-center --back-top">
                         <a href="portfolio.php#PWA">
-                            <div class="main-btn --black">Portfolio</div>
+                            <div class="main-btn --black">ポートフォリオをみる</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
@@ -739,8 +720,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">インターネット広告 / デジタルマーケティング支援</h4>
-                                    <p>インターネット広告、オンラインPR施策、SNSを活用したマーケティングなど、ネットを活用した集客やコンバージョン増のための施策、OtoOなどご相談ください。
-                                        パートナーと協業して効果の高いソリューションをご提供します。</p>
+                                    <p>インターネット広告、オンラインPR施策、ソーシャルメディアを活用したマーケティングや広告運用など、ネットを活用した集客やコンバージョン増のための施策を運用します。インドネシアで運用しますのでVAT納税証明をお送りすることが可能です。</p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow" href="/jp/services/digital-marketing.php">もっと見る</a>
                                     </div>
@@ -754,8 +734,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">コンテンツ制作</h4>
-                                    <p>WEBに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。
-                                        コンテンツ制作は企画からSEOを考慮したライティングまで日本人、インドネシア人の制作チームが行います。</p>
+                                    <p>Webに必要な写真・動画・テキストコンテンツの制作を行います。 翻訳もお請けすることが可能です。 外部パートナーと協業した写真撮影やドローン撮影も可能です。 コンテンツ制作は企画からSEOを考慮したライティングまでネイティブ制作チームが行います。</p>
                             </div>
                         </div>
                     </section>
@@ -779,7 +758,7 @@
 
                     <div class="text-center --back-top">
                         <a href="portfolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
+                            <div class="main-btn --black">ポートフォリオをみる</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
@@ -806,8 +785,7 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Webセキュリティ診断（脆弱性診断・検査）</h3>
                                 <p>
-                                    Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃による被害の発生を未然に防ぐことができます。診断ツール、経験豊富な担当者による診断の両方を併用して診断します。診断項目などによりますが15,000,000
-                                    IDRから診断可能です。
+                                    Webサイトやアプリケーションの脆弱性を診断・レポートします。SQLインジェクション、クロスサイトスクリプティング、セッションハイジャックなどの攻撃への脆弱性を発見することができます。CEH認定資格保有者が診断＆レポートします。他社よりリーズナブルな価格で素早い診断をご提供しています。
                                 </p>
                                 <div class="service-detail__btn-wrapper">
                                     <a class="main-btn --yellow" href="/jp/services/penetration-test.php"><span
@@ -847,9 +825,6 @@
                                         またパートナー印刷事業者をコントロールして印刷物の納品まで行うことも可能です。
                                         会社案内、各種チラシ、展示会配布物、その他販促物など、まずはご相談ください。
                                     </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a class="main-btn --yellow" href="portfolio.php#others">もっと見る</a>
-                                    </div>
                             </div>
                         </div>
                     </section>
@@ -877,21 +852,16 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">IT/DXコンサルティング</h4>
+                                <h3 class="service-detail__title">ITエンジニア/プロフェッショナル派遣サービス</h4>
                                     <p>
-                                        ITの導入による業務改善コンサルティング、ITツール選定アドバイザリー、ITセキュリティ診断、DX推進支援、インターネットビジネスの新規事業立ち上げ支援など ”インドネシア × IT”
-                                        領域で様々なコンサルティングやアドバイザリーサービスを行っています。
-                                    </p>
-                                    <br>
-                                    <p>
-                                        インターネットを活用した新規事業の立ち上げ支援、既存ビジネスをDXにより強化するための戦略策定など、お客様のアドバイザーとなり一緒にビジネスを作っていきます。
+                                        派遣ライセンスを保有するグループ会社KAZOKKUよりITリソースの派遣サービスを提供しています。特定のITスキルをもったリソースが短期で必要になった場合などにご利用いただきたいサービスです。詳細は<a href="https://kazokku.com/outsourcing-it/" target="_blank">KAZOKKUの派遣サービスWeb</a>をご覧ください。
                                     </p>
                             </div>
                         </div>
                     </section>
                     <div class="text-center --back-top">
                         <a href="portfolio.php#others">
-                            <div class="main-btn --black">Portfolio</div>
+                            <div class="main-btn --black">ポートフォリオをみる</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
@@ -1027,7 +997,7 @@
                             </div>
                             <div class="client-testi__btn-wrapper --back-top">
                                 <a href="portfolio.php">
-                                    <div class="main-btn --black">See Portfolio</div>
+                                    <div class="main-btn --black">ポートフォリオをみる</div>
                                 </a>
                                 <a href="#serviceNavigation">
                                     <div class="main-btn">Back to Top</div>
@@ -1054,18 +1024,18 @@
 
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>社内システムをスクラッチ開発したい</li>
+                                <li>インドネシアの社内システムをスクラッチ開発したい</li>
                                 <li>新規事業に必要なシステム、Webなど全て整備したい</li>
                                 <li>既存システムの運用をアウトソースして改善していきたい</li>
                                 <li>既存システムが古くて使いづらい。改修すべきか作り直すべきか分からない。</li>
                                 <li>AndroidアプリをPWAとして作り直したい</li>
-                                <li>オンプレサーバーをクラウドサーバーに移行したい</li>
+                                <li>オンプレサーバーをクラウドサーバー（AWS / GCP）に移行したい</li>
                                 <li>インドネシア法人にリモートワーク制度を導入したい</li>
-                                <li>社員の勤怠をより可視化したい</li>
                                 <li>従業員（オフィスワーカー）の生産性を向上したい</li>
                                 <li>インドネシア語でSEO対策したい</li>
-                                <li>FacebookやInstagramを活用して集客したい</li>
+                                <li>集客のためインドネシアでDigitalマーケティングを運用したい</li>
                                 <li>Webサイトやアプリにセキュリティ脆弱性がないか検査したい。</li>
+                                <li>ITを内製化したい、ITエンジニア派遣サービスを利用したい。</li>
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">お問い合わせ</a>
                         </div>

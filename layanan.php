@@ -105,12 +105,11 @@
                         <h1 class="title-index">Layanan Kami</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description" style="margin-bottom:20px">
-                            Saat ini kecepatan merupakan salah satu indikator utama yang menentukan kesuksesan atau kegagalan sebuah bisnis. Hal ini sejalan dengan perubahan tren pengaplikasian teknologi (IT) dan Web ke dalam bisnis yang terjadi dengan sangat cepat. Untuk dapat mengikuti perubahan tersebut, kecepatan dan fleksibilitas adalah dua aset penting yang harus dimanfaatkan dan dimaksimalkan. <br><br>
-                            Itulah sebabnya, untuk mempromosikan bisnis Anda dengan baik, kami menyediakan layanan pengembangan web & aplikasi yang cepat dan fleksibel; yang mampu menghasilkan hasil dengan kualitas terbaik sambil secara fleksibel beradaptasi dengan kebutuhan Anda.
+                            LOGIQUE menyediakan layanan sistem satu atap yang andal untuk mendukung semua kebutuhan konsultasi pemasaran digital dan transformasi digital (DX) perusahaan Anda, mulai dari perencanaan, implementasi hingga operasionalisasi. Klien utama kami saat ini adalah perusahaan-perusahaan yang ada di Indonesia, namun kami juga mengelola banyak proyek dari negara lain. Kami mengadopsi pengembangan sistem yang tangkas melalui metode agile development, karena kami percaya kecepatan dan fleksibilitas dalam proses pengembangan dan produksi sebuah sistem akan membawa bisnis klien kepada kesuksesan. Kami menerima setiap perubahan dan mengerjakan semua dengan cepat. LOGIQUE adalah mitra terbaik untuk PoC di Indonesia.<br><br>
                         </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portofolio.php">
-                                <div class="main-btn --black">Lihat Portofolio</div>
+                                <div class="main-btn --yellow">Lihat Portofolio</div>
                             </a>
                             <a href="/layanan/project-management.php">
                                 <div class="main-btn --yellow">Manajemen Proyek Kami</div>
@@ -222,7 +221,7 @@
                                     <ul class="service-list__list">
                                         <li>
                                             <a href="#webCreate_revamp">
-                                                Pengembangan / Pembaharuan Website
+                                                Pembuatan Website Perusahaan
                                             </a>
                                         </li>
                                         <li>
@@ -232,7 +231,7 @@
                                         </li>
                                         <li>
                                             <a href="#webCreate_webService">
-                                                Pembuatan / Pengoperasian Web Media
+                                                Pemeliharaan, Pengoperasian, dan Optimasi Website
                                             </a>
                                         </li>
                                         <li>
@@ -241,16 +240,10 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#webCreate_restaurant">
-                                                Website Restoran
-                                            </a>
-                                        </li>
-                                        <li>
                                             <a href="#webCreate_blog">
                                                 Website berbasis Wordpress
                                             </a>
                                         </li>
-                                        
                                     </ul>
                                 </div>
                             </div>
@@ -302,12 +295,7 @@
                                         </li>
                                         <li>
                                             <a href="#mobile_appDev">
-                                                Pengembangan Mobile App
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#mobile_appCreate">
-                                                Pembuatan Website Responsif / Mobile First
+                                                Pengembangan Aplikasi Seluler
                                             </a>
                                         </li>
                                     </ul>
@@ -330,18 +318,18 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#dm_itConsult">
+                                            <a href="#dm_digiMarket">
                                                 Pengoperasian Iklan Digital
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#dm_contentCreate">
-                                                Pembuatan Konten Website
+                                                Operasi Periklanan Internet / Pemasaran Digital
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#dm_digiMarket">
-                                                Optimasi Landing Page
+                                            <a href="#dm_contentCreate">
+                                                Pembuatan Konten
                                             </a>
                                         </li>
                                     </ul>
@@ -385,7 +373,12 @@
                                         </li>
                                         <li>
                                             <a href="#otherService_itConsultant">
-                                                Konsultasi Bisnis IT
+                                                Konsultasi IT / DX
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#">
+                                                Layanan Outsourcing IT
                                             </a>
                                         </li>
                                     </ul>
@@ -478,8 +471,8 @@
                             </div>
                         </div>
                         <p class="title__description">
-                            Kecepatan adalah salah satu kunci terpenting dalam menentukan berhasil atau gagalnya bisnis di zaman modern ini. Disisi lain, laju perubahan tren IT dan WEB berjalan semakin cepat dari tahun ke tahun. Supaya tidak tertinggal, para pelaku usaha perlu memanfaatkan dan memaksimalkan 2 aset utama yakni kecepatan dan fleksibilitas. <br><br>
-                            Itulah sebabnya, agar sukses mempromosikan bisnis Anda, kami mengembangkan website dan mobile app untuk Anda secara cepat dan fleksibel; mewujudkan hasil pekerjaan yang baik dengan cepat dan beradaptasi terhadap kebutuhan Anda dengan fleksibel.
+                            Perubahan zaman terjadi dengan begitu cepat dan akan semakin kompleks. Oleh sebab itulah, kecepatan menjadi faktor kunci yang dapat menentukan keberhasilan atau kegagalan sebuah bisnis di era digital atau modern ini.<br><br>
+                            Kami mengadopsi sistem pengembangan tangkas (agile development) karena kami memiliki tujuan agar bisa secara sistematis menjawab kebutuhan klien dengan cepat dan fleksibel dalam proses produksi dan pengembangan website atau aplikasi, sehingga dapat mengarahkan bisnis klien menuju kesuksesan.
                         </p>
                     </div>
                 </div>
@@ -529,8 +522,8 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">Pembuatan / Pengoperasian Web Media</h4>
-                                            <p>Kami dapat membantu Anda dalam berbagai fase pengembangan Web Media atau Web Service; mulai dari perencanaan, pembuatan template desain, sampai dengan pemeliharaan website dalam format / bahasa pemrograman apapun. Baik itu e-commerce, sistem pelelangan mobil, sistem HR, sistem manajemen poin, dan CRM untuk manajemen anggota atau komunitas tertutup.</p>
+                                        <h3 class="service-detail__title">Pengoperasian & Pengoptimalan Website</h4>
+                                            <p>Saat Anda ingin menjalankan bisnis baru dengan memanfaatkan teknologi internet seperti pengembangan marketplace jual beli mobil bekas, sistem manajemen poin, sistem HR, platform E-Commerce, CRM untuk manajemen anggota atau komunitas tertutup, perencanaan bisnis hingga desain produksi, LOGIQUE dapat memberikan dukungan penuh untuk pengembangan website tersebut dengan layanan yang berkelanjutan termasuk pengelolaan, pengoperasian, serta pemasaran digital untuk website tersebut.</p>
                                     </div>
                                 </div>
                             </section>
@@ -730,21 +723,10 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Pengembangan Mobile App</h4>
-                                    <p>Kami menyediakan jasa pengembangan aplikasi Android/iOS secara komprehensif yang sudah disesuaikan dengan pasar Indonesia. Kami tidak hanya dapat membantu Anda merancang atau memberikan konsultasi terkait, namun juga mengoptimalkan UI/UX desain, mengembangkan fitur dari aplikasi tersebut, hingga membantu Anda untuk mendaftarkan aplikasi yang dibuat ke App Store / Google Play. Hubungi tim kami untuk berdiskusi lebih lanjut terkait kebutuhan Anda dalam pengembangan mobile app (Android/iOS/Hybrid/PWA).</p>
+                                    <p>Kami mampu mengembangkan berbagai jenis aplikasi, seperti aplikasi Android, aplikasi iOS, serta aplikasi hybrid yang sesuai untuk pasar Indonesia. Kami tidak hanya membantu melakukan perencanaan dan pengembangan teknis, namun juga mengoptimalkan aspek UI dan UX aplikasi serta memberikan layanan satu atap mulai dari produksi desain, pengembangan teknis aplikasi, hingga pendaftaran aplikasi ke App Store/Google Play. Selain itu, kami sudah berpengalaman untuk mengembangkan aplikasi dengan Flutter serta kompeten dalam pengembangan PWA.</p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow" href="layanan/pembuatan-aplikasi-mobile.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Mobile App</span></a>
                                     </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="mobile_appCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Pembuatan Website Responsif / Mobile First</h4>
-                                    <p>Membuat website versi mobile sekarang menjadi hal yang sangat penting untuk Anda lakukan karena rata-rata pengunjung lebih banyak mengakses website dari Smartphone mereka. LOGIQUE dapat membantu mengembangkan website responsif yang mengoptimasi tampilan website sesuai dengan ukuran layar yang berbeda-beda. Kami juga secara fleksibel dapat membantu Anda untuk mengimplementasikan penggunaan teknologi baru seperti PWA atau AMP.</p>
                             </div>
                         </div>
                     </section>
@@ -792,7 +774,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Pengoperasian Iklan Digital</h4>
-                                    <p>Kami menawarkan pendekatan berorientasi hasil yang terhubung dengan manajemen biaya pay-per-click, menyediakan kampanye yang transparan dan terukur, yang memungkinkan Anda untuk mengevaluasi keberhasilan iklan dibandingkan dengan target. Kami berpengalaman di berbagai industri vertikal dan menawarkan layanan proaktif, strategis dan sangat komunikatif. Kami tahu bahwa kampanye yang berhasil mengarah pada pengoptimalan dan penyempurnaan berkelanjutan. Hanya melalui struktur yang tertata dan terkelola dengan ketat, Anda dapat meningkatkan konversi dengan harga yang efektif. Jangan ragu untuk menghubungi kami untuk meningkatkan prospek dan konversi Anda melalui iklan online, strategi PR internet, atau pemasaran SNS.</p>
+                                    <p>Kami akan melakukan berbagai strategi untuk menarik pelanggan baru serta meningkatkan konversi secara keseluruhan melalui iklan online, strategi digital PR, pemasaran menggunakan media sosial, dan berbagai operasi periklanan digital lainnya. Karena kami beroperasi di Indonesia, kami juga dapat mengirimkan kepada Anda sertifikat pajak PPN.</p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow" href="layanan/digital-marketing.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Pengoperasian Iklan Digital</span></a>
                                     </div>
@@ -806,18 +788,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Pembuatan Konten Website</h4>
-                                    <p>Kami berupaya untuk memberikan layanan pembuatan konten berkualitas tinggi kepada Anda. Dengan membuat konten sesuai dengan tujuan bisnis Anda, Anda dapat mendapatkan hasil yang terbaik dan menjangkau lebih banyak pelanggan. Kami juga dapat membantu Anda menerjemahkan konten ke dalam bahasa Indonesia, Jepang, atau Inggris, ataupun membuat konten untuk meningkatkan kinerja web Anda dengan menerapkan SEO.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_digiMarket">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Optimasi Landing Page</h4>
-                                    <p>LOGIQUE dapat melakukan pengoptimasian SEO terbaik untuk halaman website Anda untuk meningkatkan pengunjung dan konversi. Kami dapat bekerja secara fleksibel untuk memenuhi kebutuhan Anda termasuk pemasangan AMP, pelaksanaan A/B test, ataupun pembuatan banner HTML5. Kami akan selalu siap untuk membantu jika Anda memiliki masalah apapun.</p>
+                                    <p>Kami dapat membantu menyediakan berbagai jenis konten yang dibutuhkan agar website bisa berfungsi dengan sepenuhnya mulai dari foto, video, ataupun konten teks. Kami juga dapat membantu menerjemahkan konten website baik itu untuk bahasa Indonesia, Inggris, ataupun Jepang. Selain itu, kami juga bisa memberikan layanan pengambilan gambar drone melalui kerja sama dengan pihak eksternal. Proses pembuatan konten ini akan dilakukan oleh tim ahli untuk masing-masing bahasa (native) mulai dari perencanaan hingga penulisan konten yang ramah SEO.</p>
                             </div>
                         </div>
                     </section>
@@ -849,7 +820,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Tes Keamanan Website / Mobile App (VA / Penetration Test)</h3>
-                                <p>Dengan melakukan tes keamanan pada website atau mobile app dengan menggunakan penetration test dan mengetahui celah keamanaan yang terdapat website/aplikasi, Anda dapat menghindari serangan seperti SQL injection, cross site scripting, session jacking, dll. Paling tidak, kami dapat membantu Anda memaksimalkan potensi keamanan aset-aset digital Anda. Selain itu, kami memberikan jasa tes keamanan (penetration test) dengan ahli tersertifikasi namun dengan biaya yang terjangkau sehingga Anda tidak perlu ragu melakukan pen-test untuk aset-aset online Anda.</p>
+                                <p>Kami dapat mendiagnosis dan melaporkan setiap kerentanan yang ada di dalam sistem website ataupun aplikasi. Dengan layanan ini, Anda bisa mendeteksi berbagai jenis kerentanan yang bisa mengancam keamanan sistem Anda seperti injeksi SQL, serangan XSS (cross-site scripting), dan sesi pembajakan (session hijacking). Pengujian/pemeriksaan dan pembuatan laporan kerentanan akan dilakukan oleh tim IT Security bersertifikat CEH. Proses pemeriksaan juga akan dilakukan secara cepat dengan harga yang kompetitif.</p>
                                 <div class="service-detail__btn-wrapper">
                                     <a class="main-btn --yellow" href="layanan/penetration-test.php">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Penetration Test</span></a>
                                 </div>
@@ -882,9 +853,6 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Desain Grafis</h4>
                                     <p>Melalui pembuatan desain flyer / brosur dan alat marketing yang diperlukan, kami dapat membantu menyalurkan pesan penting yang ingin Anda sampaikan lewat metode yang mudah diingat. Mulai dari pembuatan selebaran sederhana hingga kampanye pemasaran langsung, tim kreatif kami yang berpengalaman dapat secara maksimal membantu meningkatkan kredibilitas merek Anda. LOGIQUE mampu membuat materi promosi kreatif yang terarah dan otentik, dengan inovasi dan teknik desain cetak terkini yang memaksimalkan efisiensi dan efektivitas biaya Anda.</p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a class="main-btn --yellow" href="portofolio.php#others">Pelajari Lebih Lanjut <span class="hidden-xs">Tentang Desain Grafis</span></a>
-                                    </div>
                             </div>
                         </div>
                     </section>
@@ -908,8 +876,8 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">Konsultasi Bisnis IT</h4>
-                                    <p>Kami dapat menyediakan berbagai layanan konsultasi melalui "Indonesia x IT", yang meliputi pemberian saran terkait pemilihan alat-alat/implementasi teknologi digital, konsultasi pengoperasian bisnis dengan memanfaatkan IT, dukungan peluncuran bisnis startup berbasis digital, pengetesan keamanan sistem, dan banyak lagi.</p>
+                                <h3 class="service-detail__title">Layanan Outsourcing IT</h4>
+                                    <p>KAZOKKU adalah perusahaan outsourcing yang menyediakan SDM atau tenaga alih daya profesional di bidang IT. Layanan ini dapat digunakan oleh perusahaan-perusahaan yang membutuhkan keterampilan tertentu di bidang TI untuk jangka waktu yang singkat. Untuk informasi selengkapnya, <a href="https://kazokku.com/outsourcing-it/" target="_blank">silakan kunjungi website KAZOKKU.</a></p>
                             </div>
                         </div>
                     </section>
@@ -1101,18 +1069,18 @@
                         </div>
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>Belum memiliki website perusahaan.</li>
-                                <li>Ingin mengganti vendor, agar dapat melakukan perubahan pada website atau aplikasi berbasis web yang sudah ada.</li>
-                                <li>Website saat ini tidak kompatibel dengan tampilan Smartphone dan perlu ditingkatkan.</li>
-                                <li>Saya mencari perusahaan yang dapat mengembangkan mobile app dan PWA.</li>
-                                <li>Saya ingin membuat website dalam Bahasa Indonesia, Bahasa Inggris dan Bahasa Jepang.</li>
-                                <li>Tidak ada staff IT yang dapat membantu mengelola website perusahaan.</li>
-                                <li>Membutuhkan sistem atau aplikasi berbasis web yang sederhana, CRM, sistem manajemen penjualan, sistem akuntansi, dll.</li>
-                                <li>Saya ingin menggunakan Internet dan WEB untuk mempromosikan merek, menarik pelanggan, dan membedakan diri dari pesaing.</li>
-                                <li>Saya ingin menyewa server untuk website dan mencari perusahaan yang dapat mengelolanya.</li>
-                                <li>Saya ingin menarik pelanggan menggunakan Facebook dan Instagram</li>
-                                <li>Saya ingin menempatkan iklan di Internet</li>
-                                <li>Saya ingin melihat apakah ada celah keamanan di Website atau Mobile App yang saya miliki.</li>
+                                <li>Saya ingin mengembangkan sistem in-house di Indonesia.</li>
+                                <li>Saya ingin mengembangkan semua sistem yang tepat (Seperti situs web) yang diperlukan untuk bisnis baru yang sedang berkembang.</li>
+                                <li>Saya ingin melakukan praktik outsourcing dan mengoptimalkan pengoperasian serta pemeliharaan sistem yang ada.</li>
+                                <li>Sistem kami yang ada sudah tua dan sulit untuk dioperasikan; Saya tidak yakin apakah sistem tersebut harus dibuat ulang.</li>
+                                <li>Saya ingin membuat ulang aplikasi Android menjadi PWA.</li>
+                                <li>Saya ingin memigrasikan pemelihara ke server berbasis cloud (AWS/GCP)</li>
+                                <li>Saya ingin mengintegrasikan sistem kerja jarak jauh ke dalam perusahaan Indonesia.</li>
+                                <li>Saya ingin meningkatkan produktivitas karyawan saya secara keseluruhan.</li>
+                                <li>Saya ingin melakukan optimasi SEO website berbahasa Indonesia.</li>
+                                <li>Saya ingin beralih menggunakan strategi Pemasaran Digital Indonesia untuk menarik pelanggan.</li>
+                                <li>Saya ingin menguji kerentanan keamanan situs web atau aplikasi saya.</li>
+                                <li>Saya ingin menjalankan operasi IT internal; Saya ingin menggunakan layanan outsourcing teknisi/spesialis IT.</li>
                             </ul>
                             <a href="hubungi-kami.php" class="btn btn-contact-us-black" style="width: auto">Hubungi
                                 LOGIQUE</a>

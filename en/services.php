@@ -87,19 +87,11 @@
                         <h1 class="title-index">Our Services</h1>
                         <hr class="title__yellow-line--center">
                         <p class="title__description" style="margin-bottom:20px">
-                            Speed is a key factor in determining the success or failure of a business nowadays.
-                            The changing pace at which IT & Web trends are evolving has been at an accelerated rate.
-                            Therefore, in order to keep up, agility and flexibility are two vital assets which must be utilized
-                            and, indeed maximized.
-                        </p>
-                        <p class="title__description" style="margin-bottom:20px">
-                            That’s why, in order to successfully promote your business, we provide flexible and speedy web & app
-                            development services:
-                            producing results of the highest quality while flexibly adapting to your specific requirements.
+                            LOGIQUE aims to provide a reliable one-stop support system for all your Digital Marketing/DX consulting needs, from the initial campaign, to its implementation and operation. We mainly cater to Indonesian customers, but we also manage plenty of projects from neighboring countries. We have adopted the agile development system because we put a special emphasis on production and development. We believe that such factors should be implemented in a quick and flexible manner in order to gain a fast track to success. LOGIQUE is the best partner for PoC in Indonesia.
                         </p>
                         <div class="our-service__btn-wrapper">
                             <a href="portfolio.php">
-                                <div class="main-btn --black">See Portfolio</div>
+                                <div class="main-btn --yellow">See Portfolio</div>
                             </a>
                             <a href="/en/services/project-management.php">
                                 <div class="main-btn --yellow">Our Project Management</div>
@@ -211,13 +203,13 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#webCreate_revamp">
-                                            <li>Website Creation / Revamping</li>
+                                            <li>Corporate Website Production</li>
                                         </a>
                                         <a href="#webCreate_multi">
                                             <li>Multilingual Website Creation</li>
                                         </a>
                                         <a href="#webCreate_webService">
-                                            <li>Web Media Development / Operation</li>
+                                            <li>Web Maintenance, Operation & Optimization</li>
                                         </a>
                                         <a href="#webCreate_recruit">
                                             <li>Recruitment Website Creation</li>
@@ -262,13 +254,10 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#mobile_pwa">
-                                            <li>PWA (Progressive Web App) Development</li>
+                                            <li>PWA (web application) Development</li>
                                         </a>
                                         <a href="#mobile_appDev">
-                                            <li>Mobile Application Development</li>
-                                        </a>
-                                        <a href="#mobile_appCreate">
-                                            <li>Mobile / Responsive Web Creation</li>
+                                            <li>Mobile (smartphone) Application Development</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -285,16 +274,13 @@
                                     </a>
                                     <ul class="service-list__list">
                                         <a href="#dm_seo">
-                                            <li>SEO / SEM</li>
+                                            <li>SEO Optimization / SEM</li>
                                         </a>
                                         <a href="#dm_digiMarket">
-                                            <li>Digital Ad Operation</li>
+                                            <li>Internet Advertising Operations / Digital Marketing Support</li>
                                         </a>
                                         <a href="#dm_contentCreate">
-                                            <li>Web Content Creation/Operation</li>
-                                        </a>
-                                        <a href="#dm_lpOptimize">
-                                            <li>Landing Page Optimization</li>
+                                            <li>Content Creation</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -327,10 +313,13 @@
                                             <li>Graphic Design</li>
                                         </a>
                                         <a href="#otherService_server">
-                                            <li>Cloud Server Operation (AWS / Alibaba Cloud)</li>
+                                            <li>Cloud Server Operation & Maintenance (AWS / Alibaba Cloud)</li>
                                         </a>
                                         <a href="#otherService_itConsultant">
-                                            <li>IT Business Consulting</li>
+                                            <li>IT / DX Consulting</li>
+                                        </a>
+                                        <a href="#otherService_itConsultant">
+                                            <li>IT Engineer Dispatch Services</li>
                                         </a>
                                     </ul>
                                 </div>
@@ -423,14 +412,9 @@
                                 </div>
                             </div>
                         </div>
-                        <p class="title__description">Speed is a key factor in determining the success or failure of a business
-                            nowadays. Meanwhile, the
-                            changing pace of IT and WEB trends is accelerating year by year. In order to keep up, agility and
-                            flexibility are two vital assets which a company must utilize and, indeed maximize. <br><br>
-                            That’s why in order to promote your business successfully, we develop web and mobile systems for you
-                            in a
-                            flexible and agile manner; speedily producing good results and flexibly adapting to your specific
-                            requirements.</p>
+                        <p class="title__description">
+                            The modern world is changing at a fast pace, and it is only getting more complex. Therefore, speed is the key factor in determining the success (or failure) of any corporate entity within such an ever-changing era of mass digitization.<br><br>
+                            We have adopted the agile development system because we aim to be able to systematically respond to our clients’ requirements both quickly and flexibly, producing results and winning the confidence of our customers. To do this, it is important to quickly adapt to the changing face of reality in a results-oriented manner. This can only be done efficiently if the client becomes a crucial member of the project’s development team.</p>
                     </div>
                 </div>
             </section>
@@ -497,15 +481,9 @@
                                         <hr class="title__yellow-line">
                                     </div>
                                     <div class="service-detail__content">
-                                        <h3 class="service-detail__title">Web Media Development</h4>
+                                        <h3 class="service-detail__title">Web Operation & Optimization</h4>
                                             <p>
-                                                We can assist you through the various stages of developing your own Web Service,
-                                                or Web-based Media;
-                                                from drafting a plan, designing a template, to the maintenance of your website in
-                                                any format / programming language,
-                                                be it E-commerce, car auctioning system, human resource matching, point management
-                                                system, closed community or a member
-                                                management CRM website.
+                                                When managing a new business venture or new service, such as a used car trading marketplace, point management site, HR matching website, E-Commerce platform, closed community, member management CRM website, business planning, design production, system, etc. LOGIQUE is able to provide high quality support regarding your website development needs, with further services including the management, operation and digital marketing optimization of your website. We aim to support you up until the service gets on track with the appropriate phase of development and through a flexible scope adjustment.
                                             </p>
                                     </div>
                                 </div>
@@ -565,7 +543,7 @@
                     </section>
                     <div class="text-center --back-top">
                         <a href="portfolio.php#webDev">
-                            <div class="main-btn --black">See Portfolio</div>
+                            <div class="main-btn --black">View Portfolio</div>
                         </a>
                         <a href="#serviceNavigation">
                             <div class="main-btn">Back to Top</div>
@@ -706,38 +684,12 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Mobile Application Development</h4>
                                     <p>
-                                        We provide comprehensive Android/iOS application development services adjusted for the
-                                        Indonesian market,
-                                        and can further facilitate the development of mobile applications as well. Further, we
-                                        are not just a
-                                        planning and IT consultancy; we can also optimize UI and UX designs, develop
-                                        applications and even help you
-                                        register your applications onto the App Store/Google Play. Get in touch with our team
-                                        to discuss mobile app
-                                        development (iOS/Android/Hybrid/PWA)
+                                        We are able to develop a variety of applications, such as Android apps, iOS apps, and hybrid apps for the Indonesian market. We not only follow through with technical development, but also incorporate our planning into UI and UX aspects, performing a one-stop service, from design production to the entirety of the application’s technical development. We also have a lot of development experience with Flutter, in addition to having a wealth of experience regarding PWA development.
                                     </p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow" href="/en/services/mobile-app-dev.php">Learn
                                             more <span class="hidden-xs">about our Mobile App Developmnet service</span></a>
                                     </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="mobile_appCreate">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Mobile Website Creation</h4>
-                                    <p>Responsive coding nowadays is trending, and is an important approach to navigating
-                                        online traffic, since
-                                        most of it stems from Mobile phones. Designed to fit your website directly into the
-                                        format of a smartphone
-                                        or tablet screen, we can develop a responsive website and optimize its UI depending on
-                                        the required device
-                                        screen size. We can also flexibly help you in implementing the use of new
-                                        technologies, such as PWA or AMP.</p>
                             </div>
                         </div>
                     </section>
@@ -797,17 +749,7 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Digital Ad Operation</h4>
                                     <p>
-                                        We offer a results driven approach to pay-per-click management, providing transparent and
-                                        measurable campaigns,
-                                        allowing you to evaluate your success against your own targets. We are thoroughly
-                                        experienced across a wide range
-                                        of vertical markets and offer highly strategic and communicative services. We know that a
-                                        successful campaign comes
-                                        down to continual optimization and refinement. Only through a highly targeted and tightly
-                                        managed structure can you
-                                        achieve a higher conversion rate for a better price. Feel free to contact us to increase
-                                        your prospects and conversions
-                                        through online advertisements, an internet PR strategy, or SNS marketing.
+                                        We will focus on attracting new customers and increasing the overall conversions through Internet advertising, online PR measures, marketing using social media, and a variety of advertising operations. Since we operate within Indonesia, we can send you a VAT tax certificate.
                                     </p>
                                     <div class="service-detail__btn-wrapper">
                                         <a target="_blank" class="main-btn --yellow"
@@ -824,13 +766,7 @@
                             </div>
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Internet Business Consulting</h4>
-                                    <p>As expert internet advisors, we can assist you in launching a wholly new enterprise,
-                                        or to expand your
-                                        existing business through harnessing the power of the internet. Our technical experts
-                                        can perform a thorough
-                                        evaluation of your project’s needs and available technology stacks to help you pick
-                                        the most appropriate
-                                        option.</p>
+                                    <p>We produce a variety of media, such as photos, videos, and content necessary for a full functional website. We can also undertake translation tasks. It is also possible to take pictures and drone photography in collaboration with external partners. Content creation is conducted by a native production team, from planning to SEO writing.</p>
                             </div>
                         </div>
                     </section>
@@ -848,24 +784,6 @@
                                         Indonesian,
                                         Japanese or English, whilst implementing SEO in order to improve your website’s overall
                                         performance.
-                                    </p>
-                            </div>
-                        </div>
-                    </section>
-                    <section id="dm_lpOptimize">
-                        <div class="service-detail">
-                            <div class="service-detail__line-wrapper">
-                                <hr class="title__yellow-line">
-                            </div>
-                            <div class="service-detail__content">
-                                <h3 class="service-detail__title">Landing Page Optimization</h4>
-                                    <p>
-                                        LOGIQUE seeks to create & optimize your Landing Page for SEO,
-                                        with the end goal of getting your business as many visitors and conversions as possible.
-                                        We can work flexibly according to your specific requirements and needs, which may include
-                                        installing AMP,
-                                        conducting A/B testing, or creating HTML5 banners. We are always ready to help, should you
-                                        have any other concerns.
                                     </p>
                             </div>
                         </div>
@@ -900,13 +818,7 @@
                             <div class="service-detail__content">
                                 <h3 class="service-detail__title">Security Assesment (Vulnerability Scanning / Pen-Test)</h3>
                                 <p>
-                                    Through conducting penetration tests and by assessing the vulnerability of your
-                                    website/application,
-                                    you can prevent attacks from SQL injections, cross site scripting, session jacking, etc.
-                                    At the very least, we can help you maximize the security potential of your digital assets.
-                                    Additionally, our experts can conduct security assessment for a reasonable price so that you
-                                    need
-                                    not hesitate to pen-test your online assets.
+                                    Diagnose and report any vulnerabilities present within websites and applications. We can discover a multitude of security threats, such as SQL injections, cross-site scripting, and session hijacking; all of these, our professional team of CEH certification holders will diagnose and report on them. We provide a quick diagnosis at a reasonable price to other IT companies by comparison.
                                 </p>
                                 <div class="service-detail__btn-wrapper">
                                     <a class="main-btn --yellow" href="services/penetration-test.php">Learn more <span
@@ -954,9 +866,6 @@
                                         maximizing the efficacy of your collateral and ensuring the cost effectiveness of your
                                         flyer design.
                                     </p>
-                                    <div class="service-detail__btn-wrapper">
-                                        <a class="main-btn --yellow" href="portfolio.php#others">See More</a>
-                                    </div>
                             </div>
                         </div>
                     </section>
@@ -988,12 +897,9 @@
                                 <hr class="title__yellow-line">
                             </div>
                             <div class="service-detail__content">
-                                <h3 class="service-detail__title">IT Business Consulting</h4>
+                                <h3 class="service-detail__title">IT engineer / professional dispatch service</h4>
                                     <p>
-                                        We are able to provide various consulting services through the “Indonesia x IT” field,
-                                        which include IT Tool selection advisory, business consultancy operations through
-                                        utilizing IT,
-                                        internet business launching support, IT security assessment and much more.
+                                        KAZOKKU is a company that holds a dispatch license and aims to provide professional IT outsourcing services. This service is specifically utilized when skills requiring a certain expertise in IT are needed within a short period of time. For details, please see <a href="https://kazokku.com/outsourcing-it/" target="_blank">KAZOKKU's dispatch service website</a>.
                                     </p>
                             </div>
                         </div>
@@ -1190,16 +1096,18 @@
 
                         <div class="col-sm-7">
                             <ul class="lgq-does__list">
-                                <li>Developing a website </li>
-                                <li>Updating your website’s system</li>
-                                <li>Developing a web system</li>
-                                <li>Creating and designing a campaign or website landing page</li>
-                                <li>Outsourcing website operations.</li>
-                                <li>Increasing access to your website with SEO.</li>
-                                <li>Organizing and running an online promotion strategy.</li>
-                                <li>Searching for leasing web servers and companies to manage them.</li>
-                                <li>Searching for a printing service catering to company profiles and brochures.</li>
-                                <li>etc.</li>
+                                <li>I want to develop an in-house system within Indonesia.</li>
+                                <li>I want to develop all the proper systems (Such as a website) necessary for a thriving new business.</li>
+                                <li>I want to outsource and optimize the operation and maintenance of existing systems.</li>
+                                <li>Our existing system is old and difficult to operate; I am unsure if it should be remade.</li>
+                                <li>I want to recreate an Android application as a PWA.</li>
+                                <li>I want to migrate a preserver to a cloud based server (AWS / GCP)</li>
+                                <li>I want to integrate a remote work system into an Indonesian corporation.</li>
+                                <li>I want to improve the overall productivity of my employees.</li>
+                                <li>I want to optimize the SEO of a website in the Indonesian language</li>
+                                <li>I want to proceed with an Indonesian Digital Marketing operation in order to attract customers.</li>
+                                <li>I want to test my website or app for security vulnerabilities.</li>
+                                <li>I want to run in-house IT operations; I want to utilize an IT engineer/specialist dispatch service.</li>
                             </ul>
                             <a href="contact.php" class="btn btn-contact-us-black" style="width: auto">Contact Us Now</a>
                         </div>
